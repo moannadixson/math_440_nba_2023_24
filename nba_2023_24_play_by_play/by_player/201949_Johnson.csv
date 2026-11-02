@@ -1,0 +1,39 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300338,610,PT01M55.00S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson P.FOUL (P1.T4) (J.Williams),Foul,Personal,1,0,430
+0022300338,613,PT01M39.00S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,432
+0022300338,631,PT00M15.00S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,447
+0022300350,621,PT05M06.00S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,440
+0022300350,631,PT04M04.00S,4,1610612754,IND,201949,Johnson,J. Johnson,-50,133,14,Missed,1,,,0,h,MISS Johnson 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,448
+0022300350,646,PT03M29.00S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,,,0,h,Johnson STEAL (1 STL),,,1,0,460
+0022300350,651,PT02M52.00S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,,,0,h,Johnson OFF.Foul (P1) (S.Foster),Foul,Offensive,1,0,463
+0022300350,653,PT02M52.00S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,,,0,h,Johnson Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,1,0,464
+0022300365,650,PT00M29.80S,4,1610612754,IND,201949,Johnson,J. Johnson,96,15,10,Made,1,144,111,255,h,Johnson 10' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,2,461
+0022300480,580,PT07M27.00S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,,,0,h,Johnson S.FOUL (P1.T4) (B.Nansel),Foul,Shooting,1,0,409
+0022300480,587,PT07M02.00S,4,1610612754,IND,201949,Johnson,J. Johnson,6,13,1,Made,1,130,98,228,h,Johnson 1' Cutting Dunk Shot (2 PTS) (Sheppard 1 AST),Made Shot,Cutting Dunk Shot,1,2,415
+0022300480,616,PT05M10.00S,4,1610612754,IND,201949,Johnson,J. Johnson,51,75,9,Missed,1,,,0,h,MISS Johnson 9' Driving Layup,Missed Shot,Driving Layup Shot,1,2,433
+0022300480,618,PT05M08.00S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,,,0,h,Jump Ball Johnson vs. Fernando: Tip to Nwora,Jump Ball,,0,0,436
+0022300480,624,PT04M53.00S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,,,0,h,Johnson P.FOUL (P2.PN) (T.Ford),Foul,Personal,1,0,438
+0022300480,635,PT04M01.00S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,,,0,h,Johnson STEAL (1 STL),,,1,0,448
+0022300480,638,PT03M38.00S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,,,0,h,Johnson STEAL (2 STL),,,1,0,451
+0022300480,653,PT02M04.00S,4,1610612754,IND,201949,Johnson,J. Johnson,94,239,26,Missed,1,,,0,h,MISS Johnson 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,462
+0022300480,656,PT01M52.00S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,465
+0022300480,660,PT01M30.00S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,,,0,h,Johnson STEAL (3 STL),,,1,0,468
+0022300480,662,PT01M30.00S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,,,0,h,Johnson Out of Bounds - Bad Pass Turnover Turnover (P1.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,469
+0022300863,525,PT11M15.00S,4,1610612754,IND,201949,Johnson,J. Johnson,31,32,4,Missed,1,,,0,v,MISS Johnson 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,383
+0022300863,530,PT11M03.00S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson S.FOUL (P1.T1) (N.Sago),Foul,Shooting,1,0,387
+0022300863,542,PT10M01.00S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson P.FOUL (P2.T2) (M.Dagher),Foul,Personal,0,0,397
+0022300863,551,PT09M42.00S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson BLOCK (1 BLK),,,1,2,406
+0022300863,579,PT07M14.00S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,115,87,202,v,Johnson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,423
+0022300863,580,PT07M14.00S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,115,88,203,v,Johnson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,424
+0022300863,585,PT06M37.00S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson S.FOUL (P3.T3) (N.Sago),Foul,Shooting,1,0,428
+0022300863,619,PT04M42.00S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,SUB: Tshiebwe FOR Johnson,Substitution,,0,0,452
+0022300997,625,PT02M06.00S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,1,0,469
+0022300997,646,PT00M45.10S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson STEAL (1 STL),,,1,0,487
+0022301054,627,PT04M34.00S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,,,0,v,Johnson Out of Bounds - Bad Pass Turnover Turnover (P1.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,0,453
+0022301054,657,PT02M43.00S,4,1610612754,IND,201949,Johnson,J. Johnson,-4,10,1,Made,1,117,93,210,v,Johnson 1' Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,1,2,474
+0022301054,671,PT01M44.00S,4,1610612754,IND,201949,Johnson,J. Johnson,-70,253,26,Missed,1,,,0,v,MISS Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,484
+0022301054,682,PT00M56.50S,4,1610612754,IND,201949,Johnson,J. Johnson,-16,32,4,Missed,1,,,0,v,MISS Johnson 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,492
+0022301188,615,PT04M36.00S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,,,0,h,Johnson P.FOUL (P1.T4) (B.Forte),Foul,Personal,1,0,440
+0022301188,619,PT04M10.00S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,,,0,h,Johnson Bad Pass Turnover (P1.T15),Turnover,Bad Pass,1,0,442
+0022301188,633,PT03M10.00S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,,,0,h,Johnson S.FOUL (P2.PN) (D.Collins),Foul,Shooting,1,0,453
+0022301188,638,PT02M58.00S,4,1610612754,IND,201949,Johnson,J. Johnson,18,151,15,Missed,1,,,0,h,MISS Johnson 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,457

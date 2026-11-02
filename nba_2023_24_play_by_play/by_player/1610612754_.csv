@@ -1,0 +1,1167 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300001,34,PT09M36.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,22
+0022300001,72,PT06M31.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,52
+0022300001,76,PT06M22.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,55
+0022300001,102,PT04M46.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,73
+0022300001,171,PT00M03.50S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,121
+0022300001,202,PT10M39.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,146
+0022300001,208,PT10M30.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,150
+0022300001,215,PT10M29.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,154
+0022300001,227,PT08M49.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,164
+0022300001,346,PT00M02.60S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,252
+0022300001,348,PT00M00.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,254
+0022300001,363,PT11M12.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,263
+0022300001,370,PT10M36.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,268
+0022300001,402,PT07M31.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,295
+0022300001,410,PT06M38.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,302
+0022300001,427,PT06M17.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,313
+0022300001,446,PT04M25.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,326
+0022300001,525,PT09M22.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,385
+0022300001,554,PT06M58.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,405
+0022300001,592,PT04M06.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,435
+0022300001,599,PT03M02.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#18),Turnover,Shot Clock Turnover,0,0,440
+0022300001,648,PT00M07.80S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,477
+0022300001,674,PT00M02.60S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,492
+0022300019,11,PT11M16.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,7
+0022300019,35,PT09M07.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,27
+0022300019,103,PT05M22.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,71
+0022300019,512,PT02M05.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,102
+0022300019,240,PT07M51.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,165
+0022300019,266,PT06M26.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,183
+0022300019,283,PT05M16.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,195
+0022300019,312,PT03M01.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,215
+0022300019,359,PT00M37.70S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,252
+0022300019,406,PT09M42.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,281
+0022300019,418,PT08M58.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,292
+0022300019,450,PT07M05.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,317
+0022300019,476,PT04M59.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,335
+0022300019,502,PT03M03.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,354
+0022300019,618,PT08M45.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,424
+0022300019,688,PT04M03.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,475
+0022300019,735,PT00M27.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,511
+0022300039,124,PT03M09.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,87
+0022300039,135,PT02M58.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,93
+0022300039,142,PT02M34.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,100
+0022300039,146,PT02M34.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,103
+0022300039,181,PT00M00.10S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,130
+0022300039,198,PT10M39.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,141
+0022300039,249,PT07M32.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,176
+0022300039,310,PT03M25.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,222
+0022300039,317,PT03M16.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,227
+0022300039,324,PT02M49.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,233
+0022300039,342,PT01M49.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,249
+0022300039,374,PT00M00.10S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,271
+0022300039,404,PT10M07.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,292
+0022300039,405,PT10M07.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,0,0,293
+0022300039,516,PT02M00.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,376
+0022300039,534,PT00M31.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,390
+0022300039,565,PT11M01.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,405
+0022300039,643,PT05M13.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,464
+0022300039,645,PT05M13.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,465
+0022300047,9,PT11M16.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,5
+0022300047,48,PT07M20.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,35
+0022300047,63,PT06M16.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,47
+0022300047,113,PT04M19.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,81
+0022300047,148,PT02M20.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,109
+0022300047,156,PT01M34.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: 5 Second Violation (T#2),Turnover,5 Second Violation,0,0,115
+0022300047,160,PT00M59.10S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,119
+0022300047,199,PT10M17.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,144
+0022300047,255,PT06M58.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,188
+0022300047,279,PT05M06.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,205
+0022300047,310,PT03M10.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,227
+0022300047,327,PT01M40.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,240
+0022300047,344,PT00M01.70S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,253
+0022300047,697,PT11M23.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,259
+0022300047,375,PT09M54.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,274
+0022300047,417,PT06M56.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,306
+0022300047,484,PT02M50.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,353
+0022300047,521,PT00M00.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,381
+0022300047,574,PT08M48.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,413
+0022300047,668,PT01M49.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,490
+0022300064,24,PT10M37.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,18
+0022300064,38,PT09M20.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,29
+0022300064,132,PT03M02.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,95
+0022300064,202,PT08M10.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,151
+0022300064,300,PT01M26.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,1,0,218
+0022300064,351,PT10M13.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,253
+0022300064,394,PT07M41.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,289
+0022300064,403,PT07M19.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,296
+0022300064,618,PT05M41.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,451
+0022300064,662,PT02M44.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,485
+0022300064,668,PT02M29.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,490
+0022300064,687,PT00M56.50S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,508
+0022300064,692,PT00M41.70S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,512
+0022300091,34,PT09M34.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,27
+0022300091,102,PT05M03.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,78
+0022300091,113,PT03M26.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,88
+0022300091,170,PT11M37.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,127
+0022300091,192,PT10M12.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,144
+0022300091,253,PT05M41.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,186
+0022300091,299,PT02M57.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,220
+0022300091,338,PT00M00.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,250
+0022300091,381,PT08M55.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,281
+0022300091,467,PT03M11.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,346
+0022300091,567,PT07M19.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,419
+0022300091,585,PT06M23.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,430
+0022300091,659,PT00M07.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,1,0,487
+0022300102,59,PT07M16.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,1,0,46
+0022300102,68,PT06M28.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,54
+0022300102,84,PT04M40.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,66
+0022300102,129,PT01M56.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,97
+0022300102,191,PT09M08.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,141
+0022300102,300,PT01M33.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,222
+0022300102,446,PT02M34.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,333
+0022300102,504,PT10M17.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,380
+0022300102,515,PT09M30.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,386
+0022300102,544,PT08M35.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,409
+0022300102,611,PT04M25.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,456
+0022300102,662,PT00M32.20S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,497
+0022300118,32,PT09M24.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,22
+0022300118,54,PT07M16.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,40
+0022300118,101,PT03M48.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,74
+0022300118,120,PT03M05.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,86
+0022300118,226,PT07M11.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,169
+0022300118,253,PT05M26.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,191
+0022300118,261,PT04M59.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,195
+0022300118,340,PT11M48.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,252
+0022300118,358,PT10M33.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,267
+0022300118,480,PT00M48.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,363
+0022300118,545,PT07M48.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,406
+0022300118,575,PT05M18.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,428
+0022300118,591,PT04M29.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,439
+0022300133,8,PT11M36.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,4
+0022300133,9,PT11M36.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,1,0,5
+0022300133,59,PT07M35.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,43
+0022300133,61,PT07M35.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,44
+0022300133,171,PT00M00.80S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,126
+0022300133,180,PT11M17.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,132
+0022300133,185,PT10M44.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,136
+0022300133,194,PT09M54.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,142
+0022300133,227,PT08M02.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,169
+0022300133,237,PT07M50.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,176
+0022300133,277,PT05M30.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,206
+0022300133,417,PT06M29.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,306
+0022300133,427,PT05M46.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,313
+0022300133,451,PT03M59.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Coach Challenge (Full 4 Short 0),Timeout,Coach Challenge,0,0,328
+0022300133,495,PT00M00.40S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,363
+0022300133,521,PT10M40.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,380
+0022300133,555,PT07M32.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,405
+0022300133,633,PT01M49.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,460
+0022300133,644,PT00M37.80S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,469
+0022300133,655,PT00M28.30S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,477
+0022300146,35,PT09M29.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,26
+0022300146,129,PT02M44.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,94
+0022300146,160,PT01M07.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,118
+0022300146,214,PT09M44.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,156
+0022300146,324,PT02M45.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,230
+0022300146,350,PT01M00.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,250
+0022300146,364,PT00M00.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,260
+0022300146,393,PT10M26.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,280
+0022300146,403,PT09M32.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,288
+0022300146,502,PT01M41.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,365
+0022300146,560,PT10M12.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,401
+0022300146,566,PT09M47.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,405
+0022300146,569,PT09M34.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,407
+0022300146,634,PT06M48.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,438
+0022300146,652,PT03M31.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,466
+0022300146,666,PT02M23.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,477
+0022300146,668,PT02M23.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,479
+0022300146,694,PT00M13.60S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#15),Turnover,Shot Clock Turnover,0,0,500
+0022300158,47,PT08M46.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,36
+0022300158,103,PT04M26.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,77
+0022300158,226,PT07M02.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,171
+0022300158,238,PT06M29.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,178
+0022300158,295,PT02M24.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,218
+0022300158,316,PT01M10.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,234
+0022300158,364,PT10M26.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,264
+0022300158,623,PT05M34.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,458
+0022300158,676,PT00M28.20S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,1,0,507
+0022300171,13,PT11M22.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,9
+0022300171,22,PT10M15.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,1,0,16
+0022300171,128,PT02M30.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,92
+0022300171,136,PT01M48.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,98
+0022300171,211,PT09M08.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,147
+0022300171,345,PT11M36.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,1,0,241
+0022300171,376,PT10M08.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,262
+0022300171,417,PT07M28.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,298
+0022300171,424,PT06M37.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,304
+0022300171,504,PT01M11.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,362
+0022300171,550,PT10M28.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,392
+0022300171,679,PT00M03.70S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,488
+0022300171,681,PT00M03.70S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,489
+0022300180,46,PT08M17.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,37
+0022300180,103,PT03M41.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,77
+0022300180,166,PT00M00.10S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,123
+0022300180,203,PT09M27.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,146
+0022300180,206,PT09M02.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,149
+0022300180,283,PT04M20.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,200
+0022300180,313,PT02M01.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,223
+0022300180,435,PT04M14.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,320
+0022300180,457,PT02M34.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,334
+0022300180,493,PT00M00.90S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,359
+0022300180,562,PT06M51.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,411
+0022300209,22,PT10M04.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,18
+0022300209,27,PT09M46.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,22
+0022300209,128,PT03M01.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,92
+0022300209,137,PT02M41.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,97
+0022300209,141,PT02M30.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,100
+0022300209,145,PT02M30.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,1,0,103
+0022300209,153,PT01M41.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,109
+0022300209,189,PT00M00.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,135
+0022300209,253,PT07M32.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,183
+0022300209,272,PT06M47.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,198
+0022300209,299,PT05M42.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,219
+0022300209,332,PT03M36.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,245
+0022300209,410,PT10M35.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,299
+0022300209,464,PT06M46.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,345
+0022300209,593,PT10M50.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,439
+0022300209,680,PT04M21.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,504
+0022300209,684,PT04M21.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,507
+0022300209,701,PT03M12.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,515
+0022300209,710,PT02M29.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,521
+0022300230,62,PT06M39.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,44
+0022300230,98,PT04M52.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#2),Turnover,Shot Clock Turnover,0,0,70
+0022300230,99,PT04M52.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,71
+0022300230,163,PT00M00.40S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,117
+0022300230,187,PT10M31.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,131
+0022300230,195,PT09M40.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,137
+0022300230,268,PT04M29.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,189
+0022300230,308,PT01M25.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,216
+0022300230,415,PT04M34.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,300
+0022300230,437,PT03M27.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,1,0,315
+0022300230,551,PT06M40.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,404
+0022300230,610,PT03M22.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,444
+0022300230,641,PT00M35.90S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,469
+0022300230,667,PT00M16.60S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,487
+0022300254,43,PT08M18.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,28
+0022300254,108,PT02M54.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,77
+0022300254,133,PT01M40.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,94
+0022300254,199,PT08M35.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,138
+0022300254,205,PT08M21.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,142
+0022300254,307,PT01M20.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,218
+0022300254,356,PT09M51.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,252
+0022300254,400,PT06M21.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,286
+0022300254,455,PT03M36.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,327
+0022300254,462,PT03M36.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,332
+0022300254,498,PT00M42.60S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,363
+0022300254,540,PT09M54.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,396
+0022300254,597,PT06M34.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,440
+0022300254,603,PT06M19.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,444
+0022300254,659,PT02M09.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Coach Challenge (Full 5 Short 0),Timeout,Coach Challenge,0,0,487
+0022300254,691,PT00M05.50S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,510
+0022300267,62,PT06M20.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,45
+0022300267,116,PT01M44.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,81
+0022300267,213,PT07M35.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,151
+0022300267,224,PT06M56.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,159
+0022300267,244,PT06M01.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,172
+0022300267,336,PT00M53.20S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,240
+0022300267,384,PT09M40.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,273
+0022300267,464,PT03M44.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,337
+0022300267,478,PT03M03.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,347
+0022300267,486,PT02M54.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,351
+0022300267,536,PT00M00.10S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,393
+0022300267,557,PT10M18.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,408
+0022300267,562,PT10M07.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,412
+0022300267,588,PT07M52.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,432
+0022300267,607,PT06M50.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,445
+0022300267,609,PT06M32.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,447
+0022300267,613,PT06M18.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,450
+0022300267,614,PT06M18.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,1,0,451
+0022300267,644,PT04M31.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,473
+0022300267,752,PT00M00.10S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,551
+0022300284,15,PT11M12.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,8
+0022300284,49,PT08M47.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,37
+0022300284,90,PT05M32.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,67
+0022300284,115,PT03M36.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,84
+0022300284,144,PT02M12.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,106
+0022300284,178,PT00M00.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,129
+0022300284,239,PT08M26.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,172
+0022300284,284,PT05M44.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,202
+0022300284,453,PT04M03.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,319
+0022300284,462,PT03M54.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Coach Challenge (Reg.4 Short 0),Timeout,Coach Challenge,0,0,322
+0022300284,592,PT05M33.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,410
+0022300284,650,PT00M06.70S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,1,0,453
+0022300293,64,PT06M20.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,49
+0022300293,79,PT05M47.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,1,0,58
+0022300293,104,PT03M23.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,75
+0022300293,255,PT05M59.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,181
+0022300293,322,PT00M00.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,237
+0022300293,347,PT10M02.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,251
+0022300293,368,PT08M05.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,267
+0022300293,386,PT07M01.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,279
+0022300293,505,PT11M02.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,365
+0022300293,572,PT06M00.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,416
+0022300293,590,PT04M22.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,429
+0022300293,607,PT02M58.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,443
+0022300293,650,PT00M22.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,474
+0022300293,654,PT00M16.90S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,477
+0022300315,28,PT09M11.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,22
+0022300315,103,PT05M05.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,78
+0022300315,126,PT04M01.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Coach Challenge (Reg.1 Short 0),Timeout,Coach Challenge,0,0,90
+0022300315,145,PT02M53.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,104
+0022300315,175,PT00M56.20S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,125
+0022300315,186,PT00M01.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,135
+0022300315,230,PT09M16.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,168
+0022300315,245,PT08M31.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,181
+0022300315,272,PT06M33.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,201
+0022300315,299,PT04M36.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,219
+0022300315,323,PT03M26.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,236
+0022300315,329,PT03M12.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,240
+0022300315,423,PT07M52.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,308
+0022300315,436,PT07M28.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,317
+0022300315,445,PT06M57.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,325
+0022300315,497,PT03M39.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,363
+0022300315,525,PT02M06.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,384
+0022300315,558,PT00M01.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,408
+0022300315,706,PT05M22.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,512
+0022300315,741,PT03M24.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,539
+0022300315,763,PT02M41.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,553
+0022300315,792,PT01M55.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,572
+0022300328,27,PT09M33.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,19
+0022300328,126,PT02M47.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,94
+0022300328,170,PT00M03.50S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,126
+0022300328,199,PT10M20.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,145
+0022300328,241,PT07M39.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,178
+0022300328,276,PT05M05.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,199
+0022300328,371,PT00M01.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,267
+0022300328,423,PT09M21.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,300
+0022300328,443,PT08M19.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,314
+0022300328,479,PT06M10.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,339
+0022300328,495,PT05M44.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,349
+0022300328,507,PT04M45.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,359
+0022300328,524,PT03M10.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,373
+0022300328,591,PT11M02.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,425
+0022300328,653,PT08M00.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,466
+0022300328,693,PT04M11.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,497
+0022300338,115,PT03M47.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,87
+0022300338,121,PT03M23.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Turnover: Shot Clock (T#7),Turnover,Shot Clock Turnover,1,0,90
+0022300338,192,PT09M27.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,1,0,141
+0022300338,254,PT04M23.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,183
+0022300338,264,PT03M42.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,189
+0022300338,296,PT00M42.30S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,211
+0022300338,347,PT08M44.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,245
+0022300338,360,PT07M20.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,258
+0022300338,385,PT05M36.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,273
+0022300338,464,PT00M00.10S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,328
+0022300338,500,PT10M17.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,351
+0022300338,504,PT10M17.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,353
+0022300338,535,PT07M20.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,376
+0022300338,551,PT06M05.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,389
+0022300338,566,PT05M22.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,401
+0022300338,583,PT03M26.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,415
+0022300338,622,PT01M12.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,439
+0022300350,30,PT09M38.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,19
+0022300350,56,PT07M12.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,39
+0022300350,244,PT06M46.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,165
+0022300350,274,PT04M20.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,186
+0022300350,353,PT11M07.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,242
+0022300350,420,PT06M25.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,298
+0022300350,487,PT01M51.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,343
+0022300350,511,PT00M01.30S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,363
+0022300350,522,PT11M40.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,370
+0022300350,594,PT06M20.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,1,0,422
+0022300350,602,PT06M09.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,426
+0022300350,612,PT05M42.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,433
+0022300350,617,PT05M32.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,1,0,436
+0022300350,639,PT03M45.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,454
+0022300365,10,PT11M15.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,6
+0022300365,58,PT07M04.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,49
+0022300365,204,PT07M35.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,145
+0022300365,239,PT05M06.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,169
+0022300365,276,PT03M32.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,192
+0022300365,422,PT04M10.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,299
+0022300365,487,PT00M44.90S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,343
+0022300365,543,PT08M45.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,380
+0022300365,561,PT07M50.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,392
+0022300365,588,PT05M58.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,413
+0022300365,642,PT01M13.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,456
+0022300377,74,PT05M29.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,54
+0022300377,102,PT04M02.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,75
+0022300377,133,PT01M07.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,95
+0022300377,176,PT09M49.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,128
+0022300377,209,PT06M36.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,149
+0022300377,252,PT03M10.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,182
+0022300377,315,PT11M24.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,221
+0022300377,326,PT10M26.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,231
+0022300377,379,PT06M13.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,273
+0022300377,487,PT00M00.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,353
+0022300377,508,PT10M51.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,365
+0022300377,511,PT10M27.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,368
+0022300377,512,PT10M27.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Turnover: Shot Clock (T#15),Turnover,Shot Clock Turnover,0,0,369
+0022300377,571,PT07M02.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,412
+0022300377,594,PT05M59.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,429
+0022300377,650,PT01M41.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,476
+0022300391,63,PT07M29.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,42
+0022300391,177,PT00M43.10S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,127
+0022300391,188,PT00M00.20S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,135
+0022300391,196,PT11M45.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,1,0,140
+0022300391,308,PT03M33.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,214
+0022300391,346,PT01M24.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,244
+0022300391,364,PT00M01.20S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,257
+0022300391,442,PT05M32.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,313
+0022300391,536,PT09M30.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,377
+0022300391,616,PT03M52.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,1,0,436
+0022300391,627,PT02M10.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,446
+0022300409,121,PT02M59.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,88
+0022300409,195,PT09M47.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,140
+0022300409,306,PT01M48.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,217
+0022300409,449,PT03M30.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,321
+0022300409,456,PT03M30.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,326
+0022300409,498,PT00M01.60S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,360
+0022300409,521,PT10M53.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,376
+0022300409,622,PT01M50.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,457
+0022300409,636,PT00M42.70S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,469
+0022300422,30,PT09M03.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,16
+0022300422,44,PT07M39.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,27
+0022300422,251,PT04M31.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,186
+0022300422,275,PT03M07.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,204
+0022300422,309,PT00M31.80S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,229
+0022300422,330,PT11M48.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,237
+0022300422,354,PT10M15.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,259
+0022300422,426,PT05M23.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,309
+0022300422,438,PT04M37.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,319
+0022300422,453,PT03M50.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,329
+0022300422,469,PT03M15.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,339
+0022300422,549,PT10M04.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,400
+0022300422,615,PT05M15.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,446
+0022300422,682,PT00M06.90S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,0,0,496
+0022300441,49,PT08M01.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,40
+0022300441,68,PT05M24.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,54
+0022300441,90,PT04M07.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,70
+0022300441,183,PT09M39.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,136
+0022300441,258,PT03M50.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,190
+0022300441,678,PT00M00.10S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,232
+0022300441,325,PT11M27.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,240
+0022300441,397,PT05M09.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,295
+0022300441,471,PT00M01.50S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,350
+0022300441,486,PT11M37.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,357
+0022300441,525,PT09M14.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,385
+0022300441,537,PT08M29.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,393
+0022300441,605,PT03M42.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,442
+0022300454,30,PT09M33.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,20
+0022300454,116,PT02M47.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,87
+0022300454,137,PT01M34.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,101
+0022300454,225,PT08M32.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,170
+0022300454,238,PT07M40.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,180
+0022300454,242,PT07M40.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,183
+0022300454,293,PT04M43.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,222
+0022300454,311,PT03M31.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,234
+0022300454,344,PT01M19.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,259
+0022300454,381,PT10M30.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,285
+0022300454,389,PT09M42.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,292
+0022300454,396,PT09M19.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,298
+0022300454,519,PT00M00.10S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,393
+0022300454,587,PT07M33.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,442
+0022300454,668,PT01M02.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,508
+0022300454,680,PT00M28.90S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,517
+0022300466,51,PT06M43.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,35
+0022300466,144,PT00M01.30S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,101
+0022300466,175,PT09M40.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,120
+0022300466,184,PT08M58.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,126
+0022300466,212,PT06M43.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,145
+0022300466,232,PT05M41.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,157
+0022300466,331,PT00M01.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,233
+0022300466,351,PT11M14.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,243
+0022300466,361,PT10M27.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,1,0,248
+0022300466,617,PT06M15.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,438
+0022300466,639,PT05M12.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,455
+0022300466,646,PT05M10.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,460
+0022300466,658,PT03M59.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,470
+0022300466,676,PT02M47.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Coach Challenge (Full 5 Short 0),Timeout,Coach Challenge,0,0,485
+0022300466,723,PT00M36.50S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,515
+0022300480,49,PT08M17.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,35
+0022300480,56,PT07M48.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,40
+0022300480,65,PT07M24.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,45
+0022300480,120,PT03M37.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,87
+0022300480,130,PT03M27.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,91
+0022300480,210,PT09M42.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,152
+0022300480,262,PT05M35.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,190
+0022300480,274,PT05M09.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,198
+0022300480,331,PT00M31.60S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,239
+0022300480,366,PT10M31.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,260
+0022300480,401,PT07M34.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,284
+0022300480,449,PT04M14.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,323
+0022300480,458,PT03M43.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,330
+0022300480,466,PT03M21.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,335
+0022300480,467,PT03M21.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,1,0,336
+0022300480,520,PT12M00.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,369
+0022300480,540,PT09M48.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,383
+0022300480,621,PT05M08.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,435
+0022300480,648,PT02M38.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,458
+0022300480,673,PT00M20.50S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#16),Turnover,Shot Clock Turnover,1,0,477
+0022300493,111,PT03M18.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,86
+0022300493,225,PT06M28.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,170
+0022300493,237,PT06M28.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,177
+0022300493,295,PT01M34.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,223
+0022300493,380,PT06M58.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,285
+0022300493,484,PT00M00.40S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,365
+0022300493,506,PT10M21.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,380
+0022300493,534,PT08M28.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,400
+0022300493,594,PT05M19.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,443
+0022300493,600,PT04M43.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,448
+0022300493,613,PT03M49.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,459
+0022300507,17,PT10M45.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,12
+0022300507,31,PT09M28.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,23
+0022300507,51,PT07M12.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,37
+0022300507,229,PT06M49.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,163
+0022300507,299,PT03M10.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,214
+0022300507,327,PT01M09.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,239
+0022300507,406,PT06M04.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,298
+0022300507,446,PT03M40.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,326
+0022300507,471,PT00M59.10S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,345
+0022300507,514,PT11M50.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,370
+0022300507,554,PT08M56.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,402
+0022300507,585,PT06M47.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,423
+0022300507,627,PT03M07.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,456
+0022300507,655,PT00M03.20S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Coach Challenge (Full 6 Short 0),Timeout,Coach Challenge,0,0,478
+0022300507,674,PT00M03.20S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,481
+0022300507,657,PT00M03.20S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,482
+0022300520,38,PT08M42.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,32
+0022300520,69,PT05M38.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,56
+0022300520,217,PT07M51.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,173
+0022300520,368,PT09M54.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,281
+0022300520,427,PT05M43.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,321
+0022300520,438,PT04M57.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,329
+0022300520,442,PT04M49.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,332
+0022300520,520,PT00M00.10S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,387
+0022300520,591,PT07M25.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,436
+0022300520,639,PT04M00.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,474
+0022300520,657,PT02M33.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,488
+0022300520,682,PT00M14.20S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,1,0,510
+0022300533,14,PT11M13.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,7
+0022300533,111,PT04M03.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,75
+0022300533,282,PT04M38.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,200
+0022300533,303,PT03M01.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,218
+0022300533,329,PT00M26.80S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,234
+0022300533,330,PT00M26.80S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,0,0,235
+0022300533,397,PT07M06.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,289
+0022300533,414,PT06M02.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,300
+0022300533,440,PT02M55.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,320
+0022300533,540,PT07M50.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,393
+0022300533,569,PT06M27.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,414
+0022300533,603,PT03M42.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,438
+0022300533,649,PT00M02.10S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Turnover: Shot Clock (T#27),Turnover,Shot Clock Turnover,0,0,468
+0022300550,41,PT07M53.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,28
+0022300550,159,PT00M01.60S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,113
+0022300550,230,PT08M08.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,166
+0022300550,236,PT07M40.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,170
+0022300550,266,PT05M47.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,190
+0022300550,283,PT04M33.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,203
+0022300550,424,PT06M38.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,303
+0022300550,480,PT01M45.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,345
+0022300550,595,PT04M55.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,426
+0022300550,614,PT03M16.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,440
+0022300550,654,PT00M30.60S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,472
+0022300564,15,PT10M55.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,9
+0022300564,98,PT04M19.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,70
+0022300564,131,PT02M24.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,96
+0022300564,217,PT08M17.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,162
+0022300564,292,PT04M22.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,213
+0022300564,318,PT02M46.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,235
+0022300564,345,PT00M00.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,255
+0022300564,381,PT09M44.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,278
+0022300564,587,PT07M01.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,0,0,425
+0022300564,599,PT06M16.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,434
+0022300564,608,PT05M56.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,438
+0022300564,621,PT05M27.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,449
+0022300564,638,PT03M40.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,465
+0022300583,31,PT08M50.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,21
+0022300583,38,PT07M52.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,26
+0022300583,53,PT06M46.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,37
+0022300583,125,PT02M13.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,80
+0022300583,154,PT00M00.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,103
+0022300583,189,PT09M23.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,126
+0022300583,190,PT09M23.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Turnover: Shot Clock (T#4),Turnover,Shot Clock Turnover,1,0,127
+0022300583,191,PT09M23.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,128
+0022300583,332,PT06M26.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,161
+0022300583,263,PT04M34.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,179
+0022300583,357,PT10M24.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,236
+0022300583,391,PT08M09.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,262
+0022300583,493,PT04M01.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,300
+0022300583,454,PT03M17.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,308
+0022300583,499,PT00M00.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,341
+0022300583,546,PT08M39.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,371
+0022300583,573,PT07M26.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,387
+0022300583,634,PT03M12.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,433
+0022300583,640,PT02M40.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,439
+0022300583,647,PT01M59.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,445
+0022300583,675,PT00M38.90S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,466
+0022300590,54,PT07M16.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,41
+0022300590,94,PT04M30.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,68
+0022300590,250,PT01M11.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,107
+0022300590,148,PT01M11.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Turnover: Shot Clock (T#4),Turnover,Shot Clock Turnover,1,0,108
+0022300590,170,PT00M00.50S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,123
+0022300590,191,PT09M51.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,139
+0022300590,201,PT09M28.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,146
+0022300590,253,PT05M47.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,178
+0022300590,261,PT05M26.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,185
+0022300590,327,PT00M21.80S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,234
+0022300590,370,PT08M42.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,269
+0022300590,424,PT05M01.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,310
+0022300590,434,PT04M02.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,318
+0022300590,442,PT03M34.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,324
+0022300590,574,PT07M24.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,418
+0022300590,618,PT04M47.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,448
+0022300590,638,PT02M40.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,464
+0022300590,642,PT02M40.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,467
+0022300590,679,PT00M10.70S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,498
+0022300590,692,PT00M04.70S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,508
+0022300590,697,PT00M02.10S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,512
+0022300614,16,PT10M44.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,11
+0022300614,39,PT08M02.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,30
+0022300614,146,PT00M01.30S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,108
+0022300614,243,PT04M19.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,180
+0022300614,262,PT02M57.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,195
+0022300614,344,PT06M52.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,254
+0022300614,367,PT05M15.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,273
+0022300614,385,PT04M17.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,286
+0022300614,444,PT00M00.10S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,331
+0022300614,461,PT10M59.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,345
+0022300614,588,PT01M08.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,436
+0022300614,596,PT00M32.60S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,443
+0022300614,598,PT00M32.60S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,444
+0022300614,604,PT00M04.70S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,449
+0022300627,104,PT04M22.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,76
+0022300627,230,PT07M47.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,167
+0022300627,256,PT06M50.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,185
+0022300627,258,PT06M50.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,186
+0022300627,360,PT00M00.50S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,259
+0022300627,438,PT06M12.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,316
+0022300627,449,PT05M26.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,323
+0022300627,476,PT03M38.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,342
+0022300627,491,PT02M48.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,353
+0022300627,551,PT00M00.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,396
+0022300627,597,PT09M56.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,426
+0022300627,632,PT07M40.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,453
+0022300627,709,PT02M17.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,511
+0022300636,42,PT08M14.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,31
+0022300636,185,PT09M40.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: 5 Second Violation (T#7),Turnover,5 Second Violation,1,0,141
+0022300636,187,PT09M34.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,143
+0022300636,267,PT04M49.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,201
+0022300636,320,PT01M54.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,237
+0022300636,387,PT08M35.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,275
+0022300636,414,PT06M19.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,298
+0022300636,585,PT04M57.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,425
+0022300636,602,PT04M16.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,439
+0022300636,604,PT04M16.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,440
+0022300636,629,PT02M35.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,461
+0022300636,641,PT01M30.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,472
+0022300636,661,PT00M03.40S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,489
+0022300652,43,PT07M49.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,32
+0022300652,48,PT07M23.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,36
+0022300652,116,PT02M31.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,87
+0022300652,273,PT02M11.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,199
+0022300652,317,PT11M10.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,229
+0022300652,396,PT05M20.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,287
+0022300652,529,PT09M06.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,387
+0022300652,648,PT00M18.60S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,477
+0022300670,36,PT09M01.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,22
+0022300670,61,PT07M04.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,44
+0022300670,81,PT05M42.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,56
+0022300670,126,PT02M52.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,89
+0022300670,155,PT00M30.50S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,113
+0022300670,173,PT00M00.10S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,125
+0022300670,182,PT11M46.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,130
+0022300670,211,PT09M28.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,151
+0022300670,337,PT01M00.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,221
+0022300670,311,PT01M00.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Coach Challenge (Reg.3 Short 0),Timeout,Coach Challenge,0,0,222
+0022300670,462,PT03M10.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,334
+0022300670,499,PT00M47.30S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,357
+0022300670,551,PT09M14.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,394
+0022300670,645,PT00M31.10S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,467
+0022300670,649,PT00M28.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,470
+0022300670,650,PT00M28.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,0,0,471
+0022300670,674,PT00M11.40S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,479
+0022300685,40,PT08M49.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,28
+0022300685,96,PT04M52.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,75
+0022300685,129,PT03M13.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,103
+0022300685,175,PT00M01.40S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,139
+0022300685,208,PT09M11.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,168
+0022300685,246,PT05M59.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,198
+0022300685,258,PT05M45.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,204
+0022300685,393,PT10M59.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,264
+0022300685,366,PT07M48.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,293
+0022300685,375,PT07M21.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,299
+0022300685,386,PT06M58.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,307
+0022300685,443,PT02M12.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,351
+0022300685,491,PT10M50.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,387
+0022300685,499,PT10M31.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,391
+0022300685,524,PT08M41.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,410
+0022300685,549,PT06M44.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,426
+0022300685,565,PT04M58.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,439
+0022300685,641,PT01M04.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,497
+0022300691,72,PT06M11.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,55
+0022300691,92,PT04M15.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,70
+0022300691,199,PT09M06.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,144
+0022300691,258,PT05M34.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,188
+0022300691,265,PT05M14.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,193
+0022300691,305,PT02M12.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,222
+0022300691,364,PT09M30.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,269
+0022300691,411,PT05M48.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,305
+0022300691,490,PT00M49.20S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,361
+0022300691,589,PT05M46.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,430
+0022300691,639,PT03M04.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,467
+0022300707,73,PT05M58.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,59
+0022300707,83,PT05M35.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,65
+0022300707,119,PT03M03.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,91
+0022300707,121,PT03M03.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,92
+0022300707,153,PT01M03.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,116
+0022300707,191,PT10M00.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,146
+0022300707,215,PT07M44.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,166
+0022300707,329,PT00M00.40S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,243
+0022300707,442,PT03M40.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Violation: Delay of game Violation,Violation,Delay Of Game,0,0,321
+0022300707,444,PT03M23.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,323
+0022300707,459,PT02M04.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,340
+0022300707,542,PT09M09.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,395
+0022300707,550,PT09M00.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,402
+0022300707,629,PT01M44.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,462
+0022300719,23,PT10M14.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,13
+0022300719,160,PT10M29.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,110
+0022300719,242,PT04M15.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,167
+0022300719,317,PT09M43.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,218
+0022300719,381,PT04M20.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,272
+0022300719,422,PT02M36.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,300
+0022300719,448,PT01M10.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,320
+0022300719,502,PT10M14.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,350
+0022300719,556,PT06M42.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,392
+0022300719,589,PT02M58.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,420
+0022300719,603,PT02M06.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Coach Challenge (Full 3 Short 0),Timeout,Coach Challenge,0,0,433
+0022300719,643,PT00M31.30S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,461
+0022300755,30,PT08M57.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,24
+0022300755,55,PT05M57.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,41
+0022300755,80,PT04M12.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,57
+0022300755,97,PT02M20.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,68
+0022300755,139,PT11M46.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,102
+0022300755,204,PT07M12.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,154
+0022300755,214,PT06M53.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,161
+0022300755,317,PT08M31.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,239
+0022300755,353,PT04M46.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,268
+0022300755,388,PT02M21.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,290
+0022300755,524,PT04M40.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,396
+0022300755,541,PT02M22.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,409
+0022300755,552,PT01M45.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,417
+0022300755,570,PT00M06.50S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Turnover: Shot Clock (T#16),Turnover,Shot Clock Turnover,1,0,430
+0022300761,16,PT10M53.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,10
+0022300761,25,PT10M08.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,16
+0022300761,127,PT01M47.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,95
+0022300761,165,PT10M25.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,121
+0022300761,203,PT08M07.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,149
+0022300761,262,PT04M07.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,192
+0022300761,272,PT03M34.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,198
+0022300761,281,PT02M44.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,205
+0022300761,405,PT03M39.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,295
+0022300761,477,PT09M28.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,343
+0022300761,512,PT06M30.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,369
+0022300761,553,PT02M47.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,400
+0022300761,572,PT00M42.80S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,415
+0022300782,53,PT07M53.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,36
+0022300782,55,PT07M33.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,38
+0022300782,82,PT06M09.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,58
+0022300782,145,PT01M31.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,103
+0022300782,175,PT11M35.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,127
+0022300782,247,PT07M30.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,178
+0022300782,379,PT11M06.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,275
+0022300782,428,PT06M32.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,309
+0022300782,464,PT04M17.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,335
+0022300782,619,PT06M01.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,446
+0022300782,627,PT05M44.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,452
+0022300782,690,PT01M12.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,503
+0022300793,46,PT07M34.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,34
+0022300793,66,PT05M06.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,50
+0022300793,119,PT02M48.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,86
+0022300793,124,PT02M38.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,90
+0022300793,169,PT11M22.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,119
+0022300793,192,PT09M39.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,135
+0022300793,367,PT09M53.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,265
+0022300793,383,PT08M49.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,277
+0022300793,437,PT05M27.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,319
+0022300793,524,PT00M00.40S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,381
+0022300793,555,PT09M28.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,407
+0022300793,575,PT08M23.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,419
+0022300793,661,PT01M19.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,480
+0022300793,666,PT00M10.60S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,1,0,484
+0022300819,66,PT06M21.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,53
+0022300819,182,PT10M38.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,131
+0022300819,216,PT08M26.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,157
+0022300819,320,PT00M58.80S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,236
+0022300819,403,PT06M44.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,302
+0022300819,466,PT01M57.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,346
+0022300819,467,PT01M57.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,1,0,347
+0022300819,478,PT00M34.70S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,357
+0022300819,504,PT10M17.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,1,0,371
+0022300819,516,PT09M13.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,382
+0022300819,521,PT08M53.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,386
+0022300819,531,PT08M15.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,389
+0022300819,590,PT03M31.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,437
+0022300819,602,PT02M57.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,445
+0022300819,633,PT00M48.70S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,464
+0022300819,635,PT00M24.70S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#15),Turnover,Shot Clock Turnover,1,0,465
+0022300829,59,PT07M31.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,42
+0022300829,73,PT06M21.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,52
+0022300829,105,PT04M09.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,76
+0022300829,153,PT00M50.50S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,111
+0022300829,258,PT05M26.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,188
+0022300829,294,PT02M41.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,215
+0022300829,297,PT02M30.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,218
+0022300829,395,PT07M02.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,295
+0022300829,399,PT06M51.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,298
+0022300829,403,PT06M31.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,301
+0022300829,442,PT04M15.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,327
+0022300829,454,PT03M14.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,337
+0022300829,496,PT00M00.10S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,368
+0022300829,546,PT08M17.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,402
+0022300829,558,PT07M12.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,412
+0022300829,573,PT06M28.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,422
+0022300829,617,PT02M13.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,456
+0022300829,635,PT01M14.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,470
+0022300829,650,PT00M25.20S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,478
+0022300843,64,PT07M28.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,48
+0022300843,143,PT02M35.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,103
+0022300843,145,PT02M35.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,104
+0022300843,219,PT09M17.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,155
+0022300843,257,PT05M30.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,183
+0022300843,396,PT07M50.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#7),Turnover,Shot Clock Turnover,0,0,285
+0022300843,456,PT03M00.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,332
+0022300843,509,PT00M00.20S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,370
+0022300843,561,PT08M34.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,405
+0022300843,573,PT07M23.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,415
+0022300843,619,PT04M05.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,445
+0022300843,666,PT00M23.50S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,0,477
+0022300863,40,PT08M21.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,30
+0022300863,76,PT04M23.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,56
+0022300863,169,PT10M20.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,119
+0022300863,208,PT07M19.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,148
+0022300863,297,PT00M57.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,215
+0022300863,347,PT10M08.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,247
+0022300863,360,PT09M11.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,258
+0022300863,374,PT08M11.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,269
+0022300863,407,PT05M57.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,295
+0022300863,454,PT03M32.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,327
+0022300863,460,PT03M32.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,332
+0022300863,512,PT00M00.20S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,377
+0022300863,636,PT03M50.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,465
+0022300863,676,PT00M34.90S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,502
+0022300877,46,PT08M10.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,33
+0022300877,93,PT04M38.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Turnover: 5 Second Violation (T#3),Turnover,5 Second Violation,1,0,67
+0022300877,115,PT02M29.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,86
+0022300877,130,PT01M22.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,97
+0022300877,204,PT08M38.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Violation: Delay of game Violation,Violation,Delay Of Game,0,0,150
+0022300877,233,PT06M02.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,171
+0022300877,268,PT04M07.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,198
+0022300877,304,PT01M30.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,227
+0022300877,359,PT09M37.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,269
+0022300877,397,PT06M06.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,297
+0022300877,425,PT04M19.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Coach Challenge (Reg.4 Short 0),Timeout,Coach Challenge,0,0,315
+0022300877,471,PT00M55.70S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,0,0,350
+0022300877,482,PT00M03.80S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,360
+0022300877,595,PT04M07.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,433
+0022300877,608,PT02M44.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,443
+0022300877,624,PT01M17.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,458
+0022300877,638,PT00M46.10S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,468
+0022300892,32,PT08M53.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,22
+0022300892,41,PT08M15.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,28
+0022300892,85,PT05M01.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,57
+0022300892,128,PT02M26.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,91
+0022300892,191,PT09M43.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,136
+0022300892,212,PT08M33.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,152
+0022300892,269,PT04M45.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,193
+0022300892,394,PT07M58.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,281
+0022300892,493,PT02M00.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,356
+0022300892,495,PT01M56.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,357
+0022300892,579,PT07M28.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,416
+0022300892,608,PT06M17.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,436
+0022300892,631,PT04M03.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,454
+0022300892,679,PT00M30.40S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Turnover: Shot Clock (T#9),Turnover,Shot Clock Turnover,1,0,487
+0022300903,57,PT07M29.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,43
+0022300903,132,PT01M54.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,100
+0022300903,140,PT01M37.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,105
+0022300903,233,PT07M05.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,165
+0022300903,260,PT04M46.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,184
+0022300903,311,PT00M59.80S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,217
+0022300903,315,PT00M45.60S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,220
+0022300903,379,PT09M40.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,265
+0022300903,434,PT05M47.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,305
+0022300903,470,PT03M06.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,337
+0022300903,492,PT01M51.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,1,0,351
+0022300903,600,PT07M26.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,431
+0022300903,642,PT04M04.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,462
+0022300903,669,PT01M28.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,481
+0022300903,675,PT00M46.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,487
+0022300928,63,PT06M22.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,53
+0022300928,174,PT10M25.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,134
+0022300928,219,PT08M01.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,163
+0022300928,315,PT01M10.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,237
+0022300928,395,PT08M08.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,299
+0022300928,512,PT07M45.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,302
+0022300928,508,PT00M00.80S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,378
+0022300928,536,PT08M57.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,398
+0022300928,555,PT08M16.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,411
+0022300928,629,PT03M17.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,470
+0022300928,669,PT00M15.20S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,0,0,502
+0022300941,63,PT05M52.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,48
+0022300941,101,PT03M23.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,78
+0022300941,170,PT10M56.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,125
+0022300941,217,PT07M34.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,156
+0022300941,221,PT07M13.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,159
+0022300941,355,PT10M38.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,254
+0022300941,421,PT04M03.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,296
+0022300941,529,PT09M17.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,370
+0022300941,592,PT05M21.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,418
+0022300941,616,PT03M08.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,438
+0022300941,639,PT00M54.40S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,455
+0022300948,38,PT09M16.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,28
+0022300948,172,PT11M18.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,130
+0022300948,173,PT11M18.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#3),Turnover,Shot Clock Turnover,1,0,131
+0022300948,273,PT04M28.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,199
+0022300948,275,PT04M24.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,201
+0022300948,301,PT01M49.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,221
+0022300948,319,PT00M00.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,237
+0022300948,330,PT10M51.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,247
+0022300948,395,PT05M19.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,295
+0022300948,417,PT03M07.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,311
+0022300948,585,PT03M15.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Coach Challenge (Full 4 Short 0),Timeout,Coach Challenge,0,0,438
+0022300948,592,PT03M15.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,442
+0022300948,608,PT01M56.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,454
+0022300948,626,PT00M23.50S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,468
+0022300948,628,PT00M23.50S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,469
+0022300948,672,PT00M00.30S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,497
+0022300948,693,PT04M33.00S,5,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,1,0,507
+0022300948,727,PT00M44.00S,5,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 8 Short 0),Timeout,Regular,0,0,533
+0022300968,43,PT08M13.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,33
+0022300968,62,PT06M45.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,45
+0022300968,160,PT00M00.50S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,119
+0022300968,187,PT10M00.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,138
+0022300968,362,PT00M00.30S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,272
+0022300968,388,PT09M56.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,288
+0022300968,432,PT06M13.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,325
+0022300968,454,PT04M55.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,343
+0022300968,465,PT03M46.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,350
+0022300968,526,PT00M44.20S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,395
+0022300968,527,PT00M44.20S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,1,0,396
+0022300968,560,PT11M00.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,416
+0022300968,601,PT06M28.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,448
+0022300968,602,PT06M28.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,1,0,449
+0022300968,605,PT06M28.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,451
+0022300968,655,PT03M30.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,486
+0022300968,662,PT03M18.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,491
+0022300968,698,PT00M13.30S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,1,0,520
+0022300983,33,PT09M34.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,1,0,23
+0022300983,64,PT06M21.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,47
+0022300983,171,PT00M00.20S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,118
+0022300983,187,PT10M50.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,133
+0022300983,264,PT06M31.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,186
+0022300983,316,PT03M55.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,1,0,225
+0022300983,362,PT00M47.80S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,1,0,261
+0022300983,378,PT00M00.20S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,273
+0022300983,405,PT10M01.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,286
+0022300983,500,PT01M51.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,1,0,354
+0022300983,597,PT06M59.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,423
+0022300983,636,PT03M50.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,452
+0022300983,662,PT01M04.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,473
+0022300983,689,PT00M00.60S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,490
+0022300997,33,PT08M56.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,25
+0022300997,58,PT07M02.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,45
+0022300997,140,PT01M49.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,107
+0022300997,247,PT04M19.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,185
+0022300997,261,PT03M44.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,194
+0022300997,268,PT03M18.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,200
+0022300997,296,PT01M17.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,222
+0022300997,395,PT06M31.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,295
+0022300997,455,PT02M44.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,336
+0022300997,473,PT00M52.40S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,352
+0022300997,478,PT00M52.40S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Violation: Delay of game Violation,Violation,Delay Of Game,0,0,355
+0022300997,656,PT09M55.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,378
+0022300997,537,PT07M23.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,406
+0022300997,567,PT06M14.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,425
+0022300997,644,PT00M58.30S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,484
+0022300997,652,PT00M08.70S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,1,0,491
+0022301016,41,PT08M31.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,29
+0022301016,117,PT03M35.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,86
+0022301016,193,PT09M51.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,143
+0022301016,264,PT05M52.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,190
+0022301016,329,PT00M53.40S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Coach Challenge (Reg.2 Short 0),Timeout,Coach Challenge,0,0,238
+0022301016,333,PT00M53.40S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,242
+0022301016,422,PT07M10.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,317
+0022301016,442,PT05M43.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,332
+0022301016,561,PT09M47.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,415
+0022301016,647,PT03M07.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,479
+0022301016,679,PT01M05.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,505
+0022301032,93,PT04M25.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,76
+0022301032,119,PT03M34.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,92
+0022301032,130,PT02M50.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,101
+0022301032,136,PT02M50.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,105
+0022301032,152,PT01M56.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,116
+0022301032,215,PT09M58.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,159
+0022301032,281,PT05M45.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,200
+0022301032,287,PT05M35.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Violation: Delay of game Violation,Violation,Delay Of Game,0,0,203
+0022301032,323,PT03M10.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,233
+0022301032,332,PT02M57.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,238
+0022301032,366,PT01M01.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,261
+0022301032,498,PT03M14.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,349
+0022301032,561,PT11M11.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,393
+0022301032,624,PT06M42.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,437
+0022301032,633,PT05M51.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,445
+0022301032,654,PT02M55.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,461
+0022301032,682,PT00M55.70S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,483
+0022301032,685,PT00M50.70S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,486
+0022301032,731,PT00M00.10S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,518
+0022301043,25,PT09M01.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,16
+0022301043,91,PT04M08.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,62
+0022301043,130,PT00M32.60S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,91
+0022301043,134,PT00M31.60S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,94
+0022301043,140,PT00M08.20S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,98
+0022301043,175,PT10M02.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Violation: Delay of game Violation,Violation,Delay Of Game,0,0,121
+0022301043,205,PT07M29.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,143
+0022301043,242,PT04M33.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,173
+0022301043,355,PT07M34.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,250
+0022301043,370,PT06M50.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,263
+0022301043,473,PT01M42.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,326
+0022301043,484,PT11M45.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,343
+0022301043,562,PT05M14.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,402
+0022301054,43,PT07M52.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,31
+0022301054,125,PT03M29.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,92
+0022301054,136,PT02M21.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,102
+0022301054,210,PT09M17.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,149
+0022301054,237,PT07M40.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,167
+0022301054,279,PT05M01.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,195
+0022301054,315,PT01M32.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,222
+0022301054,321,PT01M27.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,227
+0022301054,550,PT09M35.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,398
+0022301054,577,PT07M46.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Violation: Delay of game Violation,Violation,Delay Of Game,0,0,417
+0022301054,587,PT06M38.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,425
+0022301054,618,PT05M27.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,447
+0022301063,56,PT06M37.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,40
+0022301063,134,PT00M29.50S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,96
+0022301063,197,PT07M35.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,136
+0022301063,204,PT07M19.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,141
+0022301063,281,PT02M09.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,202
+0022301063,312,PT00M00.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,224
+0022301063,362,PT06M57.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,262
+0022301063,420,PT03M36.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Coach Challenge (Full 4 Short 0),Timeout,Coach Challenge,0,0,306
+0022301063,593,PT02M08.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,433
+0022301063,623,PT00M36.80S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#9),Turnover,Shot Clock Turnover,1,0,450
+0022301063,627,PT00M03.40S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,0,454
+0022301089,21,PT09M50.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,14
+0022301089,108,PT04M18.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,74
+0022301089,177,PT00M00.30S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,122
+0022301089,332,PT02M29.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,240
+0022301089,359,PT00M51.70S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,259
+0022301089,361,PT00M51.70S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,261
+0022301089,383,PT00M00.10S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,276
+0022301089,430,PT08M52.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,311
+0022301089,442,PT07M12.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,319
+0022301089,483,PT05M05.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,346
+0022301089,530,PT02M25.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,375
+0022301089,571,PT00M00.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,405
+0022301089,620,PT08M27.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,438
+0022301089,648,PT05M48.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,463
+0022301089,663,PT04M54.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,474
+0022301089,681,PT03M48.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,486
+0022301089,704,PT00M22.30S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,1,0,507
+0022301106,31,PT08M46.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,21
+0022301106,80,PT05M12.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,58
+0022301106,204,PT11M35.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,136
+0022301106,258,PT06M56.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,175
+0022301106,287,PT05M17.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,193
+0022301106,300,PT04M33.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Violation: Delay of game Violation,Violation,Delay Of Game,0,0,202
+0022301106,323,PT02M46.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Delay,Foul,Delay Technical,0,0,219
+0022301106,410,PT08M49.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,282
+0022301106,502,PT02M33.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,354
+0022301106,565,PT09M58.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,401
+0022301106,596,PT08M13.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,423
+0022301106,607,PT07M10.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,433
+0022301106,678,PT00M48.10S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,486
+0022301106,720,PT00M07.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,515
+0022301116,18,PT10M34.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,13
+0022301116,54,PT07M42.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,40
+0022301116,72,PT05M29.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,53
+0022301116,175,PT11M02.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,118
+0022301116,233,PT07M05.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,160
+0022301116,400,PT07M13.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,283
+0022301116,411,PT05M55.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,292
+0022301116,460,PT03M46.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,323
+0022301116,491,PT01M10.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,345
+0022301116,519,PT11M19.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,365
+0022301116,570,PT06M53.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,407
+0022301116,572,PT06M53.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,408
+0022301116,613,PT05M42.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,431
+0022301116,683,PT00M02.40S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,0,0,484
+0022301133,56,PT06M53.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,42
+0022301133,95,PT03M54.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,68
+0022301133,120,PT02M03.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,86
+0022301133,135,PT00M45.90S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,97
+0022301133,144,PT00M01.60S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,103
+0022301133,201,PT06M38.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,145
+0022301133,219,PT05M41.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,157
+0022301133,254,PT03M41.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,182
+0022301133,395,PT04M59.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,282
+0022301133,412,PT04M06.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,295
+0022301133,431,PT03M05.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,0,0,305
+0022301133,510,PT08M31.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,358
+0022301133,514,PT08M14.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,361
+0022301133,550,PT06M41.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,387
+0022301133,625,PT00M23.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,443
+0022301133,633,PT00M23.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,446
+0022301146,14,PT11M04.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,9
+0022301146,23,PT10M32.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,17
+0022301146,49,PT07M40.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,39
+0022301146,207,PT07M54.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,153
+0022301146,229,PT06M07.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,174
+0022301146,252,PT05M33.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,187
+0022301146,296,PT02M48.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,218
+0022301146,311,PT01M27.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,229
+0022301146,337,PT00M00.10S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,248
+0022301146,394,PT08M07.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,288
+0022301146,439,PT05M21.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,322
+0022301146,475,PT03M18.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,348
+0022301146,535,PT00M00.10S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,395
+0022301146,570,PT10M07.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,417
+0022301146,644,PT04M55.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,471
+0022301146,729,PT00M05.20S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,1,0,535
+0022301174,21,PT10M21.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,14
+0022301174,22,PT10M21.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Turnover: Shot Clock (T#2),Turnover,Shot Clock Turnover,1,0,15
+0022301174,44,PT08M53.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,1,0,34
+0022301174,111,PT03M21.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,81
+0022301174,143,PT00M43.80S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,105
+0022301174,194,PT09M12.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,139
+0022301174,268,PT03M42.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,190
+0022301174,311,PT00M00.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,221
+0022301174,365,PT07M34.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Normal Rebound,0,0,259
+0022301174,429,PT03M07.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,306
+0022301174,443,PT02M27.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,317
+0022301174,459,PT01M23.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,325
+0022301174,511,PT10M00.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,360
+0022301174,535,PT08M31.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,378
+0022301174,583,PT05M29.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,413
+0022301174,627,PT00M50.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,445
+0022301188,182,PT11M01.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,130
+0022301188,212,PT07M43.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,1,0,152
+0022301188,214,PT07M35.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,154
+0022301188,242,PT06M48.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,1,0,171
+0022301188,395,PT07M28.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,287
+0022301188,399,PT07M02.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,290
+0022301188,447,PT03M55.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,1,0,325
+0022301188,551,PT09M30.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,395
+0022301188,661,PT00M29.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Turnover: Shot Clock (T#16),Turnover,Shot Clock Turnover,1,0,477
+0022301202,63,PT06M49.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,49
+0022301202,118,PT02M34.00S,1,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,90
+0022301202,237,PT06M11.00S,2,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,181
+0022301202,432,PT03M39.00S,3,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,321
+0022301202,550,PT06M53.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,405
+0022301202,593,PT02M23.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Unknown,0,0,436
+0022301202,625,PT00M28.60S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,457
+0022301202,634,PT00M20.00S,4,0,,1610612754,,,0,0,0,,0,,,0,h,PACERS Rebound,Rebound,Normal Rebound,0,0,463
+0022301229,52,PT07M03.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,39
+0022301229,77,PT05M01.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,56
+0022301229,133,PT02M13.00S,1,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,92
+0022301229,191,PT10M25.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,138
+0022301229,202,PT09M59.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,146
+0022301229,214,PT08M53.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,0,0,154
+0022301229,291,PT04M19.00S,2,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,207
+0022301229,354,PT11M08.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,256
+0022301229,380,PT08M38.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,280
+0022301229,381,PT08M38.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,1,0,281
+0022301229,399,PT06M16.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,296
+0022301229,400,PT06M16.00S,3,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Violation: Delay of game Violation,Violation,Delay Of Game,0,0,297
+0022301229,596,PT06M57.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,443
+0022301229,610,PT05M56.00S,4,0,,1610612754,,,0,0,0,,0,,,0,v,Pacers Rebound,Rebound,Unknown,1,0,451

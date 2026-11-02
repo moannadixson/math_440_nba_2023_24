@@ -1,0 +1,406 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300093,271,PT01M36.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-216,108,24,Made,1,53,51,104,h,McLaughlin 24' 3PT Jump Shot (3 PTS) (Anderson 2 AST),Made Shot,Jump Shot,1,3,201
+0022300093,273,PT01M20.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin P.FOUL (P1.PN) (C.Kirkland),Foul,Personal,1,0,202
+0022300093,283,PT00M30.10S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,23,109,11,Missed,1,,,0,h,MISS McLaughlin 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,210
+0022300093,599,PT00M15.60S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,48,2,5,Missed,1,,,0,h,MISS McLaughlin 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,442
+0022300104,619,PT00M52.80S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin BLOCK (1 BLK),,,1,2,448
+0022300123,612,PT03M34.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-229,29,0,Missed,1,,,0,h,MISS McLaughlin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,463
+0022300138,695,PT00M28.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin S.FOUL (P1.PN) (P.Fraher),Foul,Shooting,1,0,499
+0022300154,493,PT01M46.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin BLOCK (1 BLK),,,1,2,366
+0022300154,533,PT00M01.90S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,78,74,152,h,McLaughlin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,395
+0022300154,534,PT00M01.90S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,79,74,153,h,McLaughlin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,396
+0022300301,512,PT00M50.40S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin STEAL (1 STL),,,1,0,372
+0022300301,521,PT00M00.30S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-147,468,49,Made,1,90,86,176,v,McLaughlin 49' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,379
+0022300301,571,PT09M30.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Conley FOR McLaughlin,Substitution,,0,0,410
+0022300338,614,PT01M34.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin BLOCK (1 BLK),,,1,2,434
+0022300411,457,PT02M17.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-12,-6,1,Missed,1,,,0,v,MISS McLaughlin 1' Layup,Missed Shot,Layup Shot,1,2,319
+0022300411,459,PT02M15.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,321
+0022300411,460,PT02M13.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-20,-4,2,Made,1,98,85,183,v,McLaughlin 2' Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,322
+0022300411,471,PT00M55.90S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin STEAL (1 STL),,,1,0,331
+0022300411,508,PT11M05.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,237,-25,24,Missed,1,,,0,v,MISS McLaughlin 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,354
+0022300411,531,PT09M08.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,370
+0022300411,539,PT08M35.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin STEAL (2 STL),,,1,0,377
+0022300411,553,PT08M01.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,387
+0022300411,594,PT05M14.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-2,6,1,Missed,1,,,0,v,MISS McLaughlin 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,418
+0022300411,630,PT04M04.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,438
+0022300411,631,PT03M58.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin Out of Bounds - Bad Pass Turnover Turnover (P1.T21),Turnover,Out of Bounds - Bad Pass Turnover,1,0,439
+0022300411,638,PT02M38.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,31,-4,3,Missed,1,,,0,v,MISS McLaughlin 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,445
+0022300411,652,PT01M18.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin STEAL (3 STL),,,1,0,454
+0022300451,457,PT03M49.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin STEAL (1 STL),,,1,0,331
+0022300451,459,PT03M45.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-4,6,1,Made,1,83,66,149,v,McLaughlin 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,332
+0022300451,478,PT02M45.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin STEAL (2 STL),,,1,0,345
+0022300451,480,PT02M38.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-201,151,25,Made,1,85,71,156,v,McLaughlin 25' 3PT Jump Shot (5 PTS) (Anderson 3 AST),Made Shot,Jump Shot,1,3,346
+0022300451,502,PT00M49.90S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-227,39,0,Missed,1,,,0,v,MISS McLaughlin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,362
+0022300451,516,PT00M02.70S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,6,69,7,Made,1,94,78,172,v,McLaughlin 7' Driving Layup (7 PTS) (Edwards 2 AST),Made Shot,Driving Layup Shot,1,2,374
+0022300451,561,PT09M18.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,398
+0022300451,577,PT07M38.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-31,70,8,Made,1,97,90,187,v,McLaughlin 8' Driving Floating Jump Shot (9 PTS) (Conley 4 AST),Made Shot,Driving Floating Jump Shot,1,2,409
+0022300451,598,PT05M55.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin P.FOUL (P1.T2) (J.Goldenberg),Foul,Personal,1,0,425
+0022300451,612,PT04M45.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Conley FOR McLaughlin,Substitution,,0,0,435
+0022300471,132,PT01M20.00S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-27,25,4,Made,1,21,22,43,h,McLaughlin 4' Driving Finger Roll Layup (2 PTS) (Edwards 4 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,94
+0022300471,148,PT00M00.30S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,104,236,26,Missed,1,,,0,h,MISS McLaughlin 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,104
+0022300471,165,PT11M00.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin STEAL (1 STL),,,1,0,116
+0022300471,186,PT09M32.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,132
+0022300471,197,PT07M31.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,135,211,25,Missed,1,,,0,h,MISS McLaughlin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,141
+0022300471,221,PT06M53.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Edwards FOR McLaughlin,Substitution,,0,0,155
+0022300471,448,PT02M43.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,315
+0022300471,449,PT02M40.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-157,187,24,Missed,1,,,0,h,MISS McLaughlin 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,316
+0022300471,464,PT02M05.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,66,86,152,h,McLaughlin Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,326
+0022300471,465,PT02M05.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,MISS McLaughlin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,327
+0022300471,466,PT02M03.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,328
+0022300471,468,PT02M02.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-16,11,2,Missed,1,,,0,h,MISS McLaughlin 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,329
+0022300471,472,PT01M25.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-232,6,0,Missed,1,,,0,h,MISS McLaughlin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,332
+0022300471,531,PT09M25.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Edwards FOR McLaughlin,Substitution,,0,0,367
+0022300485,173,PT10M37.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,126
+0022300485,228,PT07M24.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin STEAL (1 STL),,,1,0,168
+0022300485,247,PT05M44.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,183
+0022300485,251,PT05M31.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Edwards FOR McLaughlin,Substitution,,0,0,186
+0022300485,466,PT11M37.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,348
+0022300485,511,PT08M19.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-159,195,25,Made,1,78,98,176,v,McLaughlin 25' 3PT Jump Shot (3 PTS) (Anderson 5 AST),Made Shot,Jump Shot,1,3,378
+0022300485,513,PT08M03.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin STEAL (2 STL),,,1,0,380
+0022300485,537,PT06M30.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Edwards FOR McLaughlin,Substitution,,0,0,395
+0022300485,597,PT02M38.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Minott FOR McLaughlin,Substitution,,0,0,434
+0022300501,125,PT02M44.00S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-200,169,26,Missed,1,,,0,v,MISS McLaughlin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,90
+0022300501,127,PT02M32.00S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-228,-2,0,Missed,1,,,0,v,MISS McLaughlin 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,92
+0022300501,153,PT01M48.00S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin STEAL (1 STL),,,1,0,102
+0022300501,201,PT09M59.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin STEAL (2 STL),,,1,0,144
+0022300501,203,PT09M47.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-235,-2,24,Missed,1,,,0,v,MISS McLaughlin 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,145
+0022300501,206,PT09M28.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,148
+0022300501,212,PT09M22.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Conley FOR McLaughlin,Substitution,,0,0,153
+0022300501,509,PT01M47.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,234,-6,0,Made,1,83,82,165,v,McLaughlin 3PT Jump Shot (3 PTS) (Anderson 3 AST),Made Shot,Jump Shot,1,3,373
+0022300501,548,PT11M17.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,238,64,25,Made,1,91,85,176,v,McLaughlin 25' 3PT Jump Shot (6 PTS) (Conley 5 AST),Made Shot,Jump Shot,1,3,396
+0022300501,554,PT10M37.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,172,183,25,Missed,1,,,0,v,MISS McLaughlin 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,399
+0022300501,571,PT09M18.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-170,181,25,Missed,1,,,0,v,MISS McLaughlin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,413
+0022300501,578,PT08M32.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin BLOCK (1 BLK),,,1,2,421
+0022300501,583,PT08M32.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Edwards FOR McLaughlin,Substitution,,0,0,425
+0022300513,220,PT07M25.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin S.FOUL (P1.T2) (P.Fraher),Foul,Shooting,1,0,162
+0022300513,223,PT07M25.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: McDaniels FOR McLaughlin,Substitution,,0,0,164
+0022300513,477,PT02M24.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin STEAL (1 STL),,,1,0,355
+0022300513,485,PT01M29.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,1,15,2,Made,1,59,84,143,v,McLaughlin 2' Cutting Layup Shot (2 PTS) (Anderson 2 AST),Made Shot,Cutting Layup Shot,1,2,360
+0022300513,557,PT08M39.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-237,9,24,Missed,1,,,0,v,MISS McLaughlin 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,406
+0022300513,561,PT08M24.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-25,4,3,Made,1,75,97,172,v,McLaughlin 3' Running Layup (4 PTS) (McDaniels 1 AST),Made Shot,Running Layup Shot,1,2,410
+0022300513,568,PT08M04.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Edwards FOR McLaughlin,Substitution,,0,0,416
+0022300513,645,PT01M46.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin Lost Ball Turnover (P1.T18),Turnover,Lost Ball,1,0,469
+0022300517,87,PT04M28.00S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-237,29,24,Made,1,18,16,34,v,McLaughlin 24' 3PT Jump Shot (3 PTS) (Reid 1 AST),Made Shot,Jump Shot,1,3,65
+0022300517,132,PT00M14.20S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-174,197,26,Made,1,32,27,59,v,McLaughlin 26' 3PT Jump Shot (6 PTS) (Anderson 3 AST),Made Shot,Jump Shot,1,3,97
+0022300517,154,PT10M40.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin P.FOUL (P1.T1) (J.DeRosa),Foul,Personal,1,0,109
+0022300517,169,PT09M14.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,122
+0022300517,183,PT08M29.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Anderson FOR McLaughlin,Substitution,,0,0,135
+0022300517,459,PT11M07.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,335
+0022300517,460,PT11M03.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,21,20,3,Missed,1,,,0,v,MISS McLaughlin 3' Running Layup,Missed Shot,Running Layup Shot,1,2,336
+0022300517,464,PT10M30.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-110,251,27,Missed,1,,,0,v,MISS McLaughlin 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,340
+0022300517,481,PT08M44.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,11,10,1,Missed,1,,,0,v,MISS McLaughlin 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,350
+0022300517,491,PT08M14.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Edwards FOR McLaughlin,Substitution,,0,0,359
+0022300517,660,PT00M23.40S,5,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Towns FOR McLaughlin,Substitution,,0,0,486
+0022300538,183,PT11M07.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-230,1,0,Missed,1,,,0,h,MISS McLaughlin 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,131
+0022300538,185,PT10M54.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin S.FOUL (P1.T1) (D.Collins),Foul,Shooting,1,0,133
+0022300538,196,PT10M04.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin Out of Bounds Lost Ball Turnover (P1.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0,141
+0022300538,232,PT07M28.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-12,22,3,Made,1,46,31,77,h,McLaughlin 3' Running Reverse Layup (2 PTS) (Conley 6 AST),Made Shot,Running Reverse Layup Shot,1,2,164
+0022300538,254,PT06M13.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Edwards FOR McLaughlin,Substitution,,0,0,178
+0022300538,495,PT00M27.50S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,226,9,0,Missed,1,,,0,h,MISS McLaughlin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,359
+0022300538,507,PT11M19.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,0,367
+0022300538,524,PT09M35.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin STEAL (1 STL),,,1,0,383
+0022300538,557,PT08M16.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin P.FOUL (P2.T2) (D.Collins),Foul,Personal,1,0,402
+0022300538,572,PT07M51.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Miller FOR McLaughlin,Substitution,,0,0,413
+0022300569,179,PT11M01.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-6,27,3,Missed,1,,,0,v,MISS McLaughlin 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,127
+0022300569,203,PT09M29.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,142
+0022300569,229,PT07M38.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,163
+0022300569,254,PT06M46.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin L.B.FOUL (P1.T1) (T.Ford),Foul,Loose Ball,1,0,179
+0022300569,281,PT04M48.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Edwards FOR McLaughlin,Substitution,,0,0,202
+0022300569,652,PT00M08.60S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,MISS McLaughlin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,477
+0022300569,654,PT00M08.60S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,MISS McLaughlin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,479
+0022300582,157,PT11M25.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin STEAL (1 STL),,,1,0,111
+0022300582,173,PT10M13.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,123
+0022300582,174,PT10M09.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,124
+0022300582,187,PT09M10.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,135
+0022300582,207,PT09M08.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,136
+0022300582,236,PT05M20.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Gobert FOR McLaughlin,Substitution,,0,0,175
+0022300599,186,PT10M14.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin STEAL (1 STL),,,1,0,135
+0022300599,204,PT09M09.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,151
+0022300599,205,PT09M08.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-2,17,2,Missed,1,,,0,h,MISS McLaughlin 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,152
+0022300599,221,PT08M17.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-1,9,1,Made,1,35,36,71,h,McLaughlin 1' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,1,2,164
+0022300599,241,PT07M07.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-224,8,0,Made,1,41,39,80,h,McLaughlin 3PT Step Back Jump Shot (5 PTS) (Conley 1 AST),Made Shot,Step Back Jump shot,1,3,181
+0022300599,281,PT05M05.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-178,183,26,Made,1,46,40,86,h,McLaughlin 26' 3PT Jump Shot (8 PTS) (Conley 2 AST),Made Shot,Jump Shot,1,3,206
+0022300599,283,PT04M48.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin P.FOUL (P1.T3) (S.Wright),Foul,Personal,1,0,207
+0022300599,299,PT03M44.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-234,6,0,Missed,1,,,0,h,MISS McLaughlin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,218
+0022300599,303,PT03M25.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: McDaniels FOR McLaughlin,Substitution,,0,0,222
+0022300599,513,PT11M43.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin STEAL (2 STL),,,1,0,370
+0022300599,527,PT09M57.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-107,65,13,Missed,1,,,0,h,MISS McLaughlin 13' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,382
+0022300599,528,PT09M54.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,383
+0022300599,529,PT09M53.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-16,25,3,Missed,1,,,0,h,MISS McLaughlin 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,384
+0022300599,557,PT07M56.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Gobert FOR McLaughlin,Substitution,,0,0,404
+0022300610,76,PT04M09.00S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,53
+0022300610,110,PT02M23.00S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,77
+0022300610,134,PT00M17.10S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,93
+0022300610,142,PT00M00.30S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-61,239,25,Missed,1,,,0,h,MISS McLaughlin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,99
+0022300610,654,PT01M42.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin BLOCK (1 BLK),,,1,2,310
+0022300610,496,PT11M21.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,176,176,25,Missed,1,,,0,h,MISS McLaughlin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,337
+0022300610,507,PT10M11.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Alexander-Walker FOR McLaughlin,Substitution,,0,0,345
+0022300620,140,PT01M38.00S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-237,-4,24,Made,1,19,28,47,v,McLaughlin 24' 3PT Running Jump Shot (3 PTS) (Edwards 1 AST),Made Shot,Running Jump Shot,1,3,109
+0022300620,189,PT09M56.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-36,8,4,Missed,1,,,0,v,MISS McLaughlin 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,141
+0022300620,207,PT08M30.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,156
+0022300620,217,PT07M30.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,165
+0022300620,222,PT07M23.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Alexander-Walker FOR McLaughlin,Substitution,,0,0,172
+0022300620,540,PT11M29.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin S.FOUL (P1.T1) (J.Goble),Foul,Shooting,1,0,382
+0022300620,544,PT11M12.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,32,12,3,Made,1,80,92,172,v,McLaughlin 3' Driving Layup (5 PTS) (Reid 2 AST),Made Shot,Driving Layup Shot,1,2,385
+0022300620,559,PT09M57.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,58,6,Missed,1,,,0,v,MISS McLaughlin 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,398
+0022300620,561,PT09M52.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin STEAL (1 STL),,,1,0,401
+0022300620,587,PT08M26.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Towns FOR McLaughlin,Substitution,,0,0,416
+0022300629,150,PT11M41.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-13,3,1,Made,1,31,26,57,v,McLaughlin 1' Driving Finger Roll Layup (2 PTS) (Reid 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,111
+0022300629,220,PT05M51.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,38,4,4,Missed,1,,,0,v,MISS McLaughlin 4' Running Layup,Missed Shot,Running Layup Shot,1,2,163
+0022300629,230,PT05M32.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Edwards FOR McLaughlin,Substitution,,0,0,171
+0022300629,436,PT10M35.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,320
+0022300629,470,PT07M54.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Gobert FOR McLaughlin,Substitution,,0,0,345
+0022300649,168,PT00M29.30S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-232,9,0,Missed,1,,,0,v,MISS McLaughlin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,123
+0022300649,169,PT00M24.70S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,124
+0022300649,242,PT08M11.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Alexander-Walker FOR McLaughlin,Substitution,,0,0,166
+0022300649,490,PT10M37.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,331
+0022300649,511,PT09M21.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Towns FOR McLaughlin,Substitution,,0,0,348
+0022300664,121,PT02M19.00S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin S.FOUL (P1.T4) (M.Lindsay),Foul,Shooting,1,0,88
+0022300664,137,PT00M50.00S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,205,17,21,Made,1,28,27,55,v,McLaughlin 21' Jump Shot (2 PTS) (Anderson 2 AST),Made Shot,Jump Shot,1,2,99
+0022300664,146,PT00M18.80S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Alexander-Walker FOR McLaughlin,Substitution,,0,0,105
+0022300664,176,PT10M37.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,122
+0022300664,178,PT10M36.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin P.FOUL (P2.T1) (M.Lindsay),Foul,Personal,1,0,124
+0022300664,185,PT09M55.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin S.FOUL (P3.T2) (M.Lindsay),Foul,Shooting,1,0,129
+0022300664,187,PT09M55.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Brown Jr. FOR McLaughlin,Substitution,,0,0,130
+0022300664,435,PT02M16.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,82,243,26,Made,1,68,69,137,v,McLaughlin 26' 3PT Jump Shot (5 PTS) (Reid 2 AST),Made Shot,Jump Shot,1,3,319
+0022300664,499,PT10M42.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-10,250,25,Made,1,79,81,160,v,McLaughlin 25' 3PT Pullup Jump Shot (8 PTS) (Alexander-Walker 3 AST),Made Shot,Pullup Jump shot,1,3,357
+0022300664,530,PT08M00.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,27,11,3,Made,1,81,86,167,v,McLaughlin 3' Driving Finger Roll Layup (10 PTS) (Towns 4 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,378
+0022300664,548,PT06M40.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Alexander-Walker FOR McLaughlin,Substitution,,0,0,392
+0022300680,192,PT10M20.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin STEAL (1 STL),,,1,0,142
+0022300680,210,PT08M27.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,227,14,0,Missed,1,,,0,h,MISS McLaughlin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,154
+0022300680,236,PT07M16.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,229,25,0,Missed,1,,,0,h,MISS McLaughlin 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,172
+0022300680,247,PT06M36.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin STEAL (2 STL),,,1,0,182
+0022300680,258,PT05M48.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-40,36,5,Missed,1,,,0,h,MISS McLaughlin 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,188
+0022300680,269,PT04M34.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Gobert FOR McLaughlin,Substitution,,0,0,199
+0022300680,617,PT04M36.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,436
+0022300680,621,PT04M11.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,439
+0022300680,624,PT03M49.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin STEAL (3 STL),,,1,0,443
+0022300680,629,PT03M26.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,446
+0022300694,165,PT11M17.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin STEAL (1 STL),,,1,0,114
+0022300694,190,PT08M54.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin STEAL (2 STL),,,1,0,134
+0022300694,192,PT08M45.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,113,218,25,Made,1,46,30,76,h,McLaughlin 25' 3PT Step Back Jump Shot (3 PTS) (Anderson 3 AST),Made Shot,Step Back Jump shot,1,3,135
+0022300694,212,PT06M53.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,230,52,24,Missed,1,,,0,h,MISS McLaughlin 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,149
+0022300694,216,PT06M36.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,227,0,0,Made,1,49,34,83,h,McLaughlin 3PT Jump Shot (6 PTS) (Reid 1 AST),Made Shot,Jump Shot,1,3,153
+0022300694,219,PT06M33.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Edwards FOR McLaughlin,Substitution,,0,0,155
+0022300709,181,PT10M47.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,136
+0022300709,185,PT10M14.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,139
+0022300709,212,PT08M47.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,160
+0022300709,245,PT06M13.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Edwards FOR McLaughlin,Substitution,,0,0,184
+0022300709,494,PT03M00.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-18,43,5,Missed,1,,,0,h,MISS McLaughlin 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,368
+0022300709,520,PT01M31.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,390
+0022300709,521,PT01M28.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0,391
+0022300709,524,PT01M06.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,229,6,0,Made,1,78,60,138,h,McLaughlin 3PT Jump Shot (3 PTS) (Anderson 2 AST),Made Shot,Jump Shot,1,3,394
+0022300709,555,PT00M00.30S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,40,323,33,Missed,1,,,0,h,MISS McLaughlin 33' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,416
+0022300709,608,PT08M31.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: McDaniels FOR McLaughlin,Substitution,,0,0,448
+0022300709,713,PT02M21.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,MISS McLaughlin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,524
+0022300709,715,PT02M21.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,106,79,185,h,McLaughlin Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,526
+0022300709,719,PT01M53.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-232,-1,0,Missed,1,,,0,h,MISS McLaughlin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,529
+0022300723,185,PT10M27.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,65,100,12,Missed,1,,,0,v,MISS McLaughlin 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,137
+0022300723,188,PT10M20.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,233,-16,0,Made,1,26,38,64,v,McLaughlin 3PT Jump Shot (3 PTS) (Reid 1 AST),Made Shot,Jump Shot,1,3,140
+0022300723,203,PT08M51.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,155
+0022300723,239,PT07M09.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Conley FOR McLaughlin,Substitution,,0,0,177
+0022300723,477,PT01M36.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,1,17,2,Missed,1,,,0,v,MISS McLaughlin 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,348
+0022300723,486,PT01M05.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin S.FOUL (P1.PN) (C.Washington),Foul,Shooting,1,0,357
+0022300775,644,PT01M27.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-36,35,5,Missed,1,,,0,v,MISS McLaughlin 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,466
+0022300775,666,PT00M15.20S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin P.FOUL (P1.PN) (P.Fraher),Foul,Personal,1,0,485
+0022300791,608,PT05M34.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,237,29,24,Missed,1,,,0,v,MISS McLaughlin 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,443
+0022300791,632,PT04M09.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin S.FOUL (P1.PN) (B.Forte),Foul,Shooting,1,0,460
+0022300791,667,PT01M01.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin P.FOUL (P2.PN) (K.Scott),Foul,Personal,1,0,487
+0022300815,241,PT05M31.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,187
+0022300815,254,PT04M12.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin STEAL (1 STL),,,1,0,197
+0022300815,256,PT04M07.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-2,17,2,Missed,1,,,0,h,MISS McLaughlin 2' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,2,198
+0022300815,272,PT03M11.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,210
+0022300815,276,PT03M05.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Conley FOR McLaughlin,Substitution,,0,0,213
+0022300838,179,PT09M25.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,130
+0022300838,192,PT08M13.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,139
+0022300838,226,PT06M35.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,214,123,25,Made,1,45,28,73,h,McLaughlin 25' 3PT Pullup Jump Shot (3 PTS) (Anderson 2 AST),Made Shot,Pullup Jump shot,1,3,165
+0022300838,238,PT05M53.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,200,148,25,Made,1,48,28,76,h,McLaughlin 25' 3PT Jump Shot (6 PTS) (Alexander-Walker 3 AST),Made Shot,Jump Shot,1,3,173
+0022300838,247,PT04M43.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin STEAL (1 STL),,,0,0,180
+0022300838,262,PT03M34.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Morris FOR McLaughlin,Substitution,,0,0,191
+0022300838,454,PT02M22.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin STEAL (2 STL),,,1,0,332
+0022300838,477,PT01M03.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin S.FOUL (P1.PN) (S.Wall),Foul,Shooting,1,0,347
+0022300838,501,PT11M42.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,199,151,25,Missed,1,,,0,h,MISS McLaughlin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,363
+0022300838,558,PT06M36.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,405
+0022300838,559,PT06M24.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-219,122,25,Made,1,104,80,184,h,McLaughlin 25' 3PT Jump Shot (9 PTS) (Morris 4 AST),Made Shot,Jump Shot,1,3,406
+0022300838,572,PT05M16.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: McDaniels FOR McLaughlin,Substitution,,0,0,415
+0022300845,206,PT09M02.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,138,206,25,Made,1,36,34,70,h,McLaughlin 25' 3PT Jump Shot (3 PTS) (Conley 3 AST),Made Shot,Jump Shot,1,3,151
+0022300845,215,PT08M07.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,87,237,25,Missed,1,,,0,h,MISS McLaughlin 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,155
+0022300845,241,PT06M33.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Edwards FOR McLaughlin,Substitution,,0,0,174
+0022300862,171,PT11M05.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,122
+0022300862,175,PT10M33.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,16,68,7,Made,1,26,34,60,h,McLaughlin 7' Finger Roll Layup (2 PTS) (Gobert 1 AST),Made Shot,Finger Roll Layup Shot,1,2,125
+0022300862,191,PT09M06.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-31,29,4,Made,1,28,36,64,h,McLaughlin 4' Driving Layup (4 PTS) (Conley 2 AST),Made Shot,Driving Layup Shot,1,2,137
+0022300862,209,PT08M36.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin S.FOUL (P1.T1) (D.Richardson),Foul,Shooting,1,0,148
+0022300862,230,PT06M48.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Gobert FOR McLaughlin,Substitution,,0,0,163
+0022300862,487,PT00M09.50S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin Personal Take Foul (P2.T4) (M.Lindsay),Foul,Personal Take,1,0,342
+0022300862,566,PT07M00.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin BLOCK (1 BLK),,,1,2,400
+0022300862,569,PT06M40.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,402
+0022300862,574,PT06M25.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Towns FOR McLaughlin,Substitution,,0,0,406
+0022300911,103,PT03M44.00S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin S.FOUL (P1.T4) (D.Scott),Foul,Shooting,1,0,77
+0022300911,140,PT00M40.90S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin STEAL (1 STL),,,1,0,104
+0022300911,161,PT11M37.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,118
+0022300911,182,PT09M53.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: McDaniels FOR McLaughlin,Substitution,,0,0,135
+0022300911,460,PT01M50.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,75,76,151,v,McLaughlin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,335
+0022300911,461,PT01M50.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,75,77,152,v,McLaughlin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,336
+0022300911,485,PT00M05.50S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Gobert FOR McLaughlin,Substitution,,0,0,356
+0022300932,78,PT04M26.00S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,229,43,0,Made,1,24,23,47,v,McLaughlin 3PT Jump Shot (3 PTS) (Reid 1 AST),Made Shot,Jump Shot,1,3,57
+0022300932,120,PT01M14.00S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,232,25,0,Missed,1,,,0,v,MISS McLaughlin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,87
+0022300932,132,PT00M05.20S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,96
+0022300932,134,PT00M02.10S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin S.FOUL (P1.PN) (K.Lane),Foul,Shooting,1,0,98
+0022300932,241,PT04M31.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,171
+0022300932,250,PT03M53.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-109,258,28,Missed,1,,,0,v,MISS McLaughlin 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,178
+0022300932,273,PT01M41.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-227,27,0,Made,1,65,64,129,v,McLaughlin 3PT Jump Shot (6 PTS) (Edwards 5 AST),Made Shot,Jump Shot,1,3,196
+0022300932,279,PT01M11.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-222,16,0,Missed,1,,,0,v,MISS McLaughlin 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,201
+0022300932,291,PT00M08.40S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Warren FOR McLaughlin,Substitution,,0,0,210
+0022300932,414,PT04M22.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,233,20,0,Missed,1,,,0,v,MISS McLaughlin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,306
+0022300932,428,PT03M05.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,318
+0022300932,471,PT00M02.30S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,352
+0022300932,573,PT05M29.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,234,37,24,Made,1,112,99,211,v,McLaughlin 24' 3PT Jump Shot (9 PTS) (Warren 2 AST),Made Shot,Jump Shot,1,3,429
+0022300932,585,PT04M00.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-186,197,27,Missed,1,,,0,v,MISS McLaughlin 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,440
+0022300932,601,PT02M21.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,72,243,25,Made,1,118,107,225,v,McLaughlin 25' 3PT Jump Shot (12 PTS) (Alexander-Walker 5 AST),Made Shot,Jump Shot,1,3,454
+0022300932,607,PT01M19.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin P.FOUL (P2.PN) (K.Lane),Foul,Personal,1,0,459
+0022300932,640,PT00M38.20S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,478
+0022300944,117,PT02M51.00S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin BLOCK (1 BLK),,,1,2,88
+0022300944,119,PT02M51.00S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,89
+0022300944,144,PT00M57.30S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,110
+0022300944,295,PT02M20.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin STEAL (1 STL),,,1,0,219
+0022300944,298,PT02M12.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,221
+0022300944,299,PT02M12.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,Made,1,59,47,106,v,McLaughlin Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,222
+0022300944,308,PT01M20.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,230
+0022300944,311,PT00M57.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin STEAL (2 STL),,,1,0,233
+0022300944,318,PT00M36.60S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin P.FOUL (P1.PN) (J.Van Duyne),Foul,Personal,1,0,237
+0022300944,432,PT03M17.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,320
+0022300944,467,PT00M35.70S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,56,27,6,Missed,1,,,0,v,MISS McLaughlin 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,346
+0022300944,495,PT09M47.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,362
+0022300944,500,PT09M11.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-21,15,3,Made,1,85,95,180,v,McLaughlin 3' Cutting Layup Shot (4 PTS) (Anderson 4 AST),Made Shot,Cutting Layup Shot,1,2,365
+0022300944,523,PT07M18.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Alexander-Walker FOR McLaughlin,Substitution,,0,0,382
+0022300944,594,PT02M31.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Miller FOR McLaughlin,Substitution,,0,0,430
+0022300974,183,PT10M27.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,141
+0022300974,271,PT03M51.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,222,63,0,Made,1,35,41,76,v,McLaughlin 3PT Jump Shot (3 PTS) (Edwards 2 AST),Made Shot,Jump Shot,1,3,204
+0022300974,280,PT02M59.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Conley FOR McLaughlin,Substitution,,0,0,211
+0022300974,527,PT08M32.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,384
+0022300974,546,PT07M33.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,197,163,26,Missed,1,,,0,v,MISS McLaughlin 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,399
+0022300974,578,PT05M02.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Conley FOR McLaughlin,Substitution,,0,0,423
+0022300987,161,PT11M05.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,224,12,0,Made,1,39,30,69,v,McLaughlin 3PT Jump Shot (3 PTS) (Alexander-Walker 1 AST),Made Shot,Jump Shot,1,3,112
+0022300987,213,PT06M08.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-232,109,26,Made,1,44,42,86,v,McLaughlin 26' 3PT Jump Shot (6 PTS) (Conley 1 AST),Made Shot,Jump Shot,1,3,154
+0022300987,265,PT02M26.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Reid FOR McLaughlin,Substitution,,0,0,190
+0022300987,470,PT11M14.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,331
+0022300987,480,PT10M45.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,167,187,25,Made,1,85,88,173,v,McLaughlin 25' 3PT Jump Shot (9 PTS) (Anderson 4 AST),Made Shot,Jump Shot,1,3,340
+0022300987,498,PT08M52.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,90,90,180,v,McLaughlin Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,353
+0022300987,501,PT08M52.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,90,91,181,v,McLaughlin Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,355
+0022300987,503,PT08M37.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Edwards FOR McLaughlin,Substitution,,0,0,357
+0022300987,559,PT03M31.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin STEAL (1 STL),,,1,0,404
+0022300987,582,PT01M08.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Conley FOR McLaughlin,Substitution,,0,0,423
+0022300995,150,PT01M03.00S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,112
+0022300995,151,PT01M00.00S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-15,9,2,Made,1,23,32,55,h,McLaughlin 2' Reverse Layup (2 PTS),Made Shot,Reverse Layup Shot,1,2,113
+0022300995,186,PT10M11.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-10,8,1,Missed,1,,,0,h,MISS McLaughlin 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,134
+0022300995,207,PT08M14.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Morris FOR McLaughlin,Substitution,,0,0,150
+0022300995,425,PT02M35.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-228,-4,0,Missed,1,,,0,h,MISS McLaughlin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,306
+0022300995,450,PT00M11.30S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,328
+0022300995,453,PT00M01.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,331
+0022300995,468,PT11M13.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,7,89,9,Missed,1,,,0,h,MISS McLaughlin 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,336
+0022300995,498,PT08M45.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,364
+0022300995,535,PT05M40.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Anderson FOR McLaughlin,Substitution,,0,0,391
+0022301014,169,PT00M02.10S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-172,174,24,Made,1,25,20,45,h,McLaughlin 24' 3PT Jump Shot (3 PTS) (Edwards 2 AST),Made Shot,Jump Shot,1,3,132
+0022301014,199,PT10M16.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-233,25,0,Made,1,30,24,54,h,McLaughlin 3PT Jump Shot (6 PTS) (Gobert 1 AST),Made Shot,Jump Shot,1,3,150
+0022301014,211,PT09M11.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,222,10,0,Made,1,36,27,63,h,McLaughlin 3PT Jump Shot (9 PTS) (Morris 2 AST),Made Shot,Jump Shot,1,3,157
+0022301014,251,PT04M46.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,224,3,0,Made,1,44,36,80,h,McLaughlin 3PT Jump Shot (12 PTS) (Morris 3 AST),Made Shot,Jump Shot,1,3,190
+0022301014,260,PT04M06.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: McDaniels FOR McLaughlin,Substitution,,0,0,196
+0022301014,486,PT09M19.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin STEAL (1 STL),,,1,0,359
+0022301014,512,PT07M10.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,376
+0022301014,537,PT05M14.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,394
+0022301014,554,PT03M59.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Conley FOR McLaughlin,Substitution,,0,0,404
+0022301031,199,PT08M40.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,1,21,2,Missed,1,,,0,h,MISS McLaughlin 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,142
+0022301031,228,PT06M56.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,228,4,0,Missed,1,,,0,h,MISS McLaughlin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,162
+0022301031,247,PT05M26.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Morris FOR McLaughlin,Substitution,,0,0,175
+0022301031,462,PT02M36.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,335
+0022301031,464,PT02M23.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-176,194,26,Made,1,70,74,144,h,McLaughlin 26' 3PT Jump Shot (3 PTS) (Edwards 5 AST),Made Shot,Jump Shot,1,3,337
+0022301056,199,PT07M29.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-87,239,25,Missed,1,,,0,h,MISS McLaughlin 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,140
+0022301056,208,PT06M04.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: McDaniels FOR McLaughlin,Substitution,,0,0,147
+0022301056,483,PT09M56.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,228,109,25,Made,1,84,70,154,h,McLaughlin 25' 3PT Jump Shot (3 PTS) (Anderson 5 AST),Made Shot,Jump Shot,1,3,346
+0022301056,534,PT05M37.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,384
+0022301056,545,PT04M36.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-4,10,1,Made,1,99,85,184,h,McLaughlin 1' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,393
+0022301056,553,PT03M35.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,228,9,0,Made,1,102,87,189,h,McLaughlin 3PT Jump Shot (8 PTS) (Gobert 4 AST),Made Shot,Jump Shot,1,3,400
+0022301056,585,PT02M10.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin Personal Take Foul (P1.T4) (P.Fraher),Foul,Personal Take,1,0,416
+0022301056,577,PT02M10.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Miller FOR McLaughlin,Substitution,,0,0,417
+0022301071,188,PT10M14.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,126
+0022301071,193,PT09M55.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,130
+0022301071,204,PT08M54.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,139
+0022301071,213,PT08M29.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,147
+0022301071,230,PT06M40.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,228,32,0,Made,1,35,50,85,v,McLaughlin 3PT Jump Shot (3 PTS) (Conley 5 AST),Made Shot,Jump Shot,1,3,157
+0022301071,265,PT03M52.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-168,39,17,Made,1,39,58,97,v,McLaughlin 17' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,2,179
+0022301071,275,PT02M22.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Conley FOR McLaughlin,Substitution,,0,0,189
+0022301071,513,PT09M24.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin S.FOUL (P1.T2) (K.Lane),Foul,Shooting,1,0,358
+0022301071,527,PT08M40.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Edwards FOR McLaughlin,Substitution,,0,0,370
+0022301084,194,PT07M30.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-1,95,10,Missed,1,,,0,h,MISS McLaughlin 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,137
+0022301084,217,PT04M49.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Edwards FOR McLaughlin,Substitution,,0,0,154
+0022301084,461,PT10M28.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,323
+0022301084,553,PT05M09.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Alexander-Walker FOR McLaughlin,Substitution,,0,0,389
+0022301098,210,PT08M06.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-164,126,21,Missed,1,,,0,h,MISS McLaughlin 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,150
+0022301098,214,PT07M46.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-5,8,1,Made,1,29,33,62,h,McLaughlin 1' Cutting Layup Shot (2 PTS) (Anderson 3 AST),Made Shot,Cutting Layup Shot,1,2,153
+0022301098,218,PT07M14.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,156
+0022301098,257,PT04M16.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-230,21,0,Made,1,38,41,79,h,McLaughlin 3PT Jump Shot (5 PTS) (Reid 1 AST),Made Shot,Jump Shot,1,3,182
+0022301098,270,PT03M37.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,190
+0022301098,271,PT03M20.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,21,256,26,Made,1,41,41,82,h,McLaughlin 26' 3PT Jump Shot (8 PTS) (Anderson 5 AST),Made Shot,Jump Shot,1,3,191
+0022301098,292,PT01M18.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,235,10,24,Missed,1,,,0,h,MISS McLaughlin 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,206
+0022301098,303,PT00M23.70S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Alexander-Walker FOR McLaughlin,Substitution,,0,0,215
+0022301098,491,PT10M21.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,221,111,25,Made,1,89,75,164,h,McLaughlin 25' 3PT Jump Shot (11 PTS) (Anderson 9 AST),Made Shot,Jump Shot,1,3,349
+0022301098,540,PT06M44.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-96,84,13,Missed,1,,,0,h,MISS McLaughlin 13' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,385
+0022301098,560,PT05M23.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Anderson FOR McLaughlin,Substitution,,0,0,399
+0022301108,225,PT06M07.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Edwards FOR McLaughlin,Substitution,,0,0,167
+0022301108,485,PT10M12.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,223,29,0,Missed,1,,,0,h,MISS McLaughlin 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,366
+0022301108,535,PT07M09.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,178,177,25,Missed,1,,,0,h,MISS McLaughlin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,402
+0022301108,541,PT06M46.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Nix FOR McLaughlin,Substitution,,0,0,406
+0022301125,176,PT11M12.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-20,267,27,Missed,1,,,0,v,MISS McLaughlin 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,125
+0022301125,181,PT10M44.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,240,-17,24,Missed,1,,,0,v,MISS McLaughlin 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,129
+0022301125,194,PT10M06.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,140
+0022301125,213,PT08M46.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-229,147,27,Missed,1,,,0,v,MISS McLaughlin 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,153
+0022301125,222,PT07M56.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Reid FOR McLaughlin,Substitution,,0,0,160
+0022301125,292,PT02M17.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,50,34,84,v,McLaughlin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,213
+0022301125,293,PT02M17.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,50,35,85,v,McLaughlin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,214
+0022301125,294,PT02M02.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin STEAL (1 STL),,,1,0,216
+0022301125,311,PT00M37.20S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,32,158,16,Made,1,54,38,92,v,McLaughlin 16' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,229
+0022301125,594,PT04M02.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Garza FOR McLaughlin,Substitution,,0,0,439
+0022301143,172,PT11M12.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin S.FOUL (P1.T1) (E.Malloy),Foul,Shooting,1,0,127
+0022301143,178,PT10M41.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin STEAL (1 STL),,,1,0,132
+0022301143,222,PT07M40.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-112,235,26,Made,1,48,52,100,v,McLaughlin 26' 3PT Pullup Jump Shot (3 PTS) (Alexander-Walker 2 AST),Made Shot,Pullup Jump shot,1,3,164
+0022301143,228,PT06M54.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin S.FOUL (P2.T4) (E.Malloy),Foul,Shooting,1,0,168
+0022301143,234,PT06M54.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: McDaniels FOR McLaughlin,Substitution,,0,0,173
+0022301143,496,PT11M37.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-168,189,25,Missed,1,,,0,v,MISS McLaughlin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,362
+0022301143,499,PT11M18.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,365
+0022301143,503,PT10M49.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,369
+0022301143,517,PT10M09.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin OFF.Foul (P3) (P.Ransom),Foul,Offensive,1,0,379
+0022301143,519,PT10M09.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin Offensive Foul Turnover (P1.T12),Turnover,Offensive Foul Turnover,1,0,380
+0022301143,555,PT06M54.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-100,236,26,Made,1,100,115,215,v,McLaughlin 26' 3PT Pullup Jump Shot (6 PTS) (Gobert 3 AST),Made Shot,Pullup Jump shot,1,3,406
+0022301143,572,PT05M37.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Edwards FOR McLaughlin,Substitution,,0,0,420
+0022301152,238,PT07M28.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,179
+0022301152,253,PT06M04.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,14,1,Made,1,46,53,99,h,McLaughlin 1' Running Reverse Layup (2 PTS) (Alexander-Walker 1 AST),Made Shot,Running Reverse Layup Shot,1,2,190
+0022301152,295,PT03M49.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Conley FOR McLaughlin,Substitution,,0,0,217
+0022301152,471,PT03M58.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,86,87,173,h,McLaughlin Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,344
+0022301152,476,PT03M58.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,87,87,174,h,McLaughlin Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,347
+0022301152,506,PT00M58.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin STEAL (1 STL),,,1,0,370
+0022301152,569,PT09M02.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-132,220,26,Missed,1,,,0,h,MISS McLaughlin 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,415
+0022301152,570,PT08M58.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,416
+0022301152,571,PT08M56.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,4,15,2,Made,1,104,101,205,h,McLaughlin 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,417
+0022301152,591,PT06M52.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,431
+0022301152,662,PT01M11.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Nix FOR McLaughlin,Substitution,,0,0,482
+0022301164,227,PT06M05.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: Morris FOR McLaughlin,Substitution,,0,0,167
+0022301164,475,PT10M53.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,McLaughlin STEAL (1 STL),,,1,0,344
+0022301164,516,PT07M31.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,v,SUB: McDaniels FOR McLaughlin,Substitution,,0,0,375
+0022301178,189,PT11M04.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,129
+0022301178,190,PT10M58.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,224,16,0,Missed,1,,,0,h,MISS McLaughlin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,130
+0022301178,231,PT08M16.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-22,7,2,Made,1,30,30,60,h,McLaughlin 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,159
+0022301178,274,PT05M24.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Alexander-Walker FOR McLaughlin,Substitution,,0,0,189
+0022301178,543,PT10M41.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin Offensive Charge Foul (P1) (J.Goldenberg),Foul,Offensive Charge,1,0,378
+0022301178,545,PT10M41.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,1,0,379
+0022301178,552,PT09M44.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,18,20,3,Made,1,84,85,169,h,McLaughlin 3' Running Layup (4 PTS) (Conley 6 AST),Made Shot,Running Layup Shot,1,2,386
+0022301178,604,PT06M29.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-87,249,26,Missed,1,,,0,h,MISS McLaughlin 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,423
+0022301178,608,PT05M56.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin STEAL (1 STL),,,0,0,428
+0022301178,624,PT03M46.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Conley FOR McLaughlin,Substitution,,0,0,440
+0022301194,156,PT11M43.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,105
+0022301194,160,PT11M23.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-11,4,1,Made,1,24,44,68,h,McLaughlin 1' Running Reverse Layup (2 PTS) (Anderson 1 AST),Made Shot,Running Reverse Layup Shot,1,2,109
+0022301194,164,PT10M55.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,1,6,1,Made,1,26,46,72,h,McLaughlin 1' Cutting Layup Shot (4 PTS) (Anderson 2 AST),Made Shot,Cutting Layup Shot,1,2,111
+0022301194,180,PT09M46.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,MISS McLaughlin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,121
+0022301194,182,PT09M46.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,27,46,73,h,McLaughlin Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,123
+0022301194,208,PT07M31.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Towns FOR McLaughlin,Substitution,,0,0,139
+0022301194,520,PT09M58.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,McLaughlin S.FOUL (P1.T1) (S.Wright),Foul,Shooting,1,0,370
+0022301194,542,PT08M13.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,,,0,h,SUB: Edwards FOR McLaughlin,Substitution,,0,0,384

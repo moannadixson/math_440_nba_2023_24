@@ -1,0 +1,466 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300291,148,PT00M00.70S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,106
+0022300291,179,PT09M27.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,124
+0022300291,181,PT09M21.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,126
+0022300291,210,PT06M45.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Davis FOR Vanderbilt,Substitution,,0,0,148
+0022300291,405,PT05M46.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,295
+0022300291,413,PT04M59.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt S.FOUL (P1.T3) (J.Orr),Foul,Shooting,1,0,301
+0022300291,429,PT03M55.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,232,66,24,Missed,1,,,0,h,MISS Vanderbilt 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,311
+0022300291,468,PT01M24.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-239,6,24,Missed,1,,,0,h,MISS Vanderbilt 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,342
+0022300291,475,PT01M14.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: James FOR Vanderbilt,Substitution,,0,0,348
+0022300316,91,PT06M12.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt STEAL (1 STL),,,1,0,68
+0022300316,93,PT06M08.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,9,16,2,Made,1,11,19,30,v,Vanderbilt 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,69
+0022300316,104,PT05M33.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,76
+0022300316,142,PT02M15.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Hachimura FOR Vanderbilt,Substitution,,0,0,105
+0022300316,255,PT05M45.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,185
+0022300316,432,PT05M06.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt BLOCK (1 BLK),,,1,2,312
+0022300316,456,PT03M23.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt S.FOUL (P1.T2) (P.Fraher),Foul,Shooting,1,0,329
+0022300316,481,PT01M38.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,348
+0022300331,62,PT07M25.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,46
+0022300331,82,PT06M23.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,61
+0022300331,93,PT05M09.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,72
+0022300331,94,PT05M04.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-4,43,4,Missed,1,,,0,v,MISS Vanderbilt 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,73
+0022300331,105,PT04M21.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt S.FOUL (P1.T3) (J.DeRosa),Foul,Shooting,1,0,83
+0022300331,148,PT00M48.40S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt S.FOUL (P2.T4) (J.DeRosa),Foul,Shooting,1,0,113
+0022300331,151,PT00M48.40S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: James FOR Vanderbilt,Substitution,,0,0,115
+0022300331,436,PT05M20.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,320
+0022300331,437,PT05M12.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-239,8,24,Missed,1,,,0,v,MISS Vanderbilt 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,321
+0022300331,449,PT03M54.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,330
+0022300331,456,PT03M00.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt L.B.FOUL (P3.PN) (J.DeRosa),Foul,Loose Ball,1,0,336
+0022300331,478,PT02M46.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt P.FOUL (P4.PN) (M.Boland),Foul,Personal,1,0,349
+0022300331,496,PT01M20.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,5,1,Missed,1,,,0,v,MISS Vanderbilt 1' Layup,Missed Shot,Layup Shot,1,2,364
+0022300359,138,PT01M55.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt L.B.FOUL (P1.T4) (G.Petraitis),Foul,Loose Ball,0,0,104
+0022300359,163,PT00M00.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,124
+0022300359,296,PT02M02.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,224
+0022300359,318,PT00M34.50S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,242
+0022300359,452,PT01M44.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt P.FOUL (P2.T3) (G.Petraitis),Foul,Personal,1,0,336
+0022300359,455,PT01M44.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Prince FOR Vanderbilt,Substitution,,0,0,337
+0022300359,531,PT08M35.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt S.FOUL (P3.T1) (M.Lindsay),Foul,Shooting,1,0,389
+0022300359,552,PT07M17.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Davis FOR Vanderbilt,Substitution,,0,0,406
+0022300370,109,PT02M49.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,5,9,1,Made,1,28,21,49,v,Vanderbilt 1' Cutting Dunk Shot (2 PTS) (Vincent 1 AST),Made Shot,Cutting Dunk Shot,1,2,83
+0022300370,130,PT01M35.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,234,-9,0,Missed,1,,,0,v,MISS Vanderbilt 3PT Jump Shot,Missed Shot,Jump Shot,1,3,98
+0022300370,162,PT11M03.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-224,20,0,Missed,1,,,0,v,MISS Vanderbilt 3PT Jump Shot,Missed Shot,Jump Shot,1,3,122
+0022300370,195,PT07M12.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt S.FOUL (P1.T1) (J.Conley),Foul,Shooting,1,0,151
+0022300370,202,PT07M12.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Russell FOR Vanderbilt,Substitution,,0,0,157
+0022300380,61,PT05M55.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,232,12,0,Missed,1,,,0,v,MISS Vanderbilt 3PT Jump Shot,Missed Shot,Jump Shot,1,3,43
+0022300380,63,PT05M54.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,45
+0022300380,64,PT05M53.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,10,10,1,Missed,1,,,0,v,MISS Vanderbilt 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,46
+0022300380,94,PT04M08.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-13,34,4,Missed,1,,,0,v,MISS Vanderbilt 4' Running Layup,Missed Shot,Running Layup Shot,1,2,68
+0022300380,126,PT02M28.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Prince FOR Vanderbilt,Substitution,,0,0,91
+0022300380,280,PT05M44.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,197
+0022300380,289,PT04M50.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,203
+0022300380,292,PT04M28.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt S.FOUL (P1.T4) (A.Nagy),Foul,Shooting,1,0,206
+0022300380,299,PT03M53.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt S.FOUL (P2.PN) (S.Corbin),Foul,Shooting,1,0,210
+0022300380,311,PT02M43.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Reaves FOR Vanderbilt,Substitution,,0,0,219
+0022300380,411,PT06M04.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,294
+0022300380,433,PT04M57.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt S.FOUL (P3.PN) (A.Nagy),Foul,Shooting,1,0,312
+0022300380,440,PT04M55.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,317
+0022300397,22,PT09M45.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,16
+0022300397,34,PT08M15.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,24
+0022300397,44,PT07M17.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt STEAL (1 STL),,,1,0,34
+0022300397,46,PT07M13.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,35
+0022300397,59,PT06M50.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Hachimura FOR Vanderbilt,Substitution,,0,0,46
+0022300397,201,PT09M47.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt BLOCK (1 BLK),,,1,2,139
+0022300397,203,PT09M45.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,140
+0022300397,256,PT05M52.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Davis FOR Vanderbilt,Substitution,,0,0,180
+0022300397,384,PT08M17.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-7,-5,1,Missed,1,,,0,v,MISS Vanderbilt 1' Layup,Missed Shot,Layup Shot,1,2,271
+0022300397,388,PT08M13.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,275
+0022300397,395,PT07M36.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,15,5,2,Missed,1,,,0,v,MISS Vanderbilt 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,281
+0022300397,410,PT07M06.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,291
+0022300397,430,PT05M40.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,304
+0022300397,440,PT04M44.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Russell FOR Vanderbilt,Substitution,,0,0,312
+0022300397,500,PT00M19.20S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-31,8,3,Made,1,89,107,196,v,Vanderbilt 3' Cutting Layup Shot (2 PTS) (Davis 7 AST),Made Shot,Cutting Layup Shot,1,2,355
+0022300397,585,PT06M09.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,234,48,24,Missed,1,,,0,v,MISS Vanderbilt 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,413
+0022300397,609,PT04M48.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Reddish FOR Vanderbilt,Substitution,,0,0,433
+0022300403,13,PT11M09.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,9
+0022300403,14,PT11M09.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,Missed,1,,,0,h,MISS Vanderbilt Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,10
+0022300403,39,PT09M07.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,31
+0022300403,53,PT08M01.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,42
+0022300403,54,PT07M57.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-11,25,3,Missed,1,,,0,h,MISS Vanderbilt 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,43
+0022300403,64,PT07M43.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Reaves FOR Vanderbilt,Substitution,,0,0,51
+0022300403,178,PT11M41.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:4 Def:0),Rebound,Unknown,1,0,132
+0022300403,179,PT11M36.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-17,36,4,Made,1,25,32,57,h,Vanderbilt 4' Floating Jump Shot (2 PTS) (Prince 3 AST),Made Shot,Floating Jump shot,1,2,133
+0022300403,203,PT08M48.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt STEAL (1 STL),,,1,0,151
+0022300403,226,PT06M52.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt S.FOUL (P1.T1) (J.Goldenberg),Foul,Shooting,1,0,166
+0022300403,264,PT06M52.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Reddish FOR Vanderbilt,Substitution,,0,0,173
+0022300403,348,PT10M52.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt S.FOUL (P2.T1) (S.Foster),Foul,Shooting,1,0,251
+0022300403,368,PT09M40.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,15,25,3,Made,1,66,64,130,h,Vanderbilt 3' Dunk (4 PTS) (Davis 3 AST),Made Shot,Dunk Shot,1,2,265
+0022300403,384,PT08M53.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt P.FOUL (P3.T4) (S.Foster),Foul,Personal,1,0,277
+0022300403,401,PT07M31.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt S.FOUL (P4.PN) (K.Lane),Foul,Shooting,1,0,289
+0022300403,403,PT07M31.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Hachimura FOR Vanderbilt,Substitution,,0,0,290
+0022300403,529,PT11M40.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,376
+0022300403,549,PT09M52.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,395
+0022300403,587,PT07M02.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-7,6,1,Made,1,98,109,207,h,Vanderbilt 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,422
+0022300403,593,PT06M11.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Hachimura FOR Vanderbilt,Substitution,,0,0,427
+0022300428,59,PT06M56.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,40
+0022300428,68,PT06M56.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Reaves FOR Vanderbilt,Substitution,,0,0,46
+0022300428,236,PT06M45.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,168
+0022300428,271,PT04M47.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-23,57,6,Missed,1,,,0,h,MISS Vanderbilt 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,194
+0022300428,294,PT03M18.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,6,21,2,Made,1,46,48,94,h,Vanderbilt 2' Running Finger Roll Layup (2 PTS) (Wood 2 AST),Made Shot,Running Finger Roll Layup Shot,1,2,213
+0022300428,304,PT02M31.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,9,39,4,Missed,1,,,0,h,MISS Vanderbilt 4' Hook Shot,Missed Shot,Hook Shot,1,2,222
+0022300428,314,PT02M05.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: James FOR Vanderbilt,Substitution,,0,0,230
+0022300428,406,PT07M31.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt STEAL (1 STL),,,1,0,291
+0022300428,408,PT07M26.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,1,26,3,Missed,1,,,0,h,MISS Vanderbilt 3' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,292
+0022300428,419,PT06M54.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Reaves FOR Vanderbilt,Substitution,,0,0,299
+0022300428,584,PT06M53.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,223,117,25,Missed,1,,,0,h,MISS Vanderbilt 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,417
+0022300428,586,PT06M42.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt S.FOUL (P1.T3) (K.Scott),Foul,Shooting,1,0,419
+0022300428,600,PT06M17.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,428
+0022300428,612,PT05M33.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,6,13,1,Made,1,122,96,218,h,Vanderbilt 1' Cutting Dunk Shot (4 PTS) (Reaves 3 AST),Made Shot,Cutting Dunk Shot,1,2,436
+0022300428,620,PT04M30.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,228,56,0,Made,1,125,99,224,h,Vanderbilt 3PT Jump Shot (7 PTS) (Reaves 4 AST),Made Shot,Jump Shot,1,3,442
+0022300428,625,PT03M57.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,446
+0022300428,626,PT03M57.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,Missed,1,,,0,h,MISS Vanderbilt Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,447
+0022300428,659,PT01M33.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt STEAL (2 STL),,,1,0,473
+0022300443,67,PT07M05.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Russell FOR Vanderbilt,Substitution,,0,0,51
+0022300443,161,PT11M34.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,4,16,2,Made,1,29,33,62,v,Vanderbilt 2' Cutting Layup Shot (2 PTS) (James 2 AST),Made Shot,Cutting Layup Shot,1,2,116
+0022300443,169,PT10M33.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt STEAL (1 STL),,,1,0,124
+0022300443,176,PT10M02.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,130
+0022300443,197,PT09M19.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt P.FOUL (P1.T1) (D.Mosher),Foul,Personal,1,0,143
+0022300443,211,PT08M27.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt S.FOUL (P2.T2) (T.Brothers),Foul,Shooting,1,0,152
+0022300443,230,PT07M22.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Davis FOR Vanderbilt,Substitution,,0,0,164
+0022300443,363,PT11M35.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,250
+0022300443,382,PT09M19.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-4,13,1,Made,1,64,61,125,v,Vanderbilt 1' Cutting Dunk Shot (4 PTS) (Reddish 4 AST),Made Shot,Cutting Dunk Shot,1,2,263
+0022300443,388,PT08M37.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt L.B.FOUL (P3.T2) (T.Brothers),Foul,Loose Ball,1,0,267
+0022300443,403,PT07M10.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,168,176,24,Missed,1,,,0,v,MISS Vanderbilt 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,278
+0022300443,414,PT06M52.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,67,66,133,v,Vanderbilt Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,286
+0022300443,415,PT06M52.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,67,67,134,v,Vanderbilt Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,287
+0022300443,423,PT05M51.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-18,6,2,Missed,1,,,0,v,MISS Vanderbilt 2' Running Layup,Missed Shot,Running Layup Shot,1,2,294
+0022300443,429,PT05M42.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-234,8,0,Missed,1,,,0,v,MISS Vanderbilt 3PT Jump Shot,Missed Shot,Jump Shot,1,3,298
+0022300443,454,PT04M20.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Prince FOR Vanderbilt,Substitution,,0,0,317
+0022300443,550,PT11M46.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,370
+0022300443,529,PT11M45.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,22,6,2,Made,1,82,79,161,v,Vanderbilt 2' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,1,2,371
+0022300443,531,PT11M25.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,373
+0022300443,559,PT09M26.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt Non-Unsportsmanlike Tech Foul - Flopping (P3.T2) (D.Mosher),Foul,Flopping,0,0,393
+0022300443,582,PT07M36.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,411
+0022300443,606,PT06M09.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Wood FOR Vanderbilt,Substitution,,0,0,433
+0022300443,650,PT02M39.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt STEAL (2 STL),,,1,0,462
+0022300443,655,PT02M18.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt S.FOUL (P4.T3) (D.Mosher),Foul,Shooting,1,0,465
+0022300443,673,PT00M45.70S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,21,9,2,Missed,1,,,0,v,MISS Vanderbilt 2' Layup,Missed Shot,Layup Shot,1,2,479
+0022300443,680,PT00M35.10S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Wood FOR Vanderbilt,Substitution,,0,0,484
+0022300443,704,PT00M01.40S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt Personal Take Foul (P5.PN) (B.Barnaky),Foul,Personal Take,1,0,499
+0022300443,715,PT00M01.40S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Reaves FOR Vanderbilt,Substitution,,0,0,507
+0022300446,27,PT09M55.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,16,34,4,Missed,1,,,0,v,MISS Vanderbilt 4' Layup,Missed Shot,Layup Shot,1,2,19
+0022300446,73,PT06M15.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt STEAL (1 STL),,,1,0,58
+0022300446,75,PT06M12.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,10,10,1,Made,1,19,17,36,v,Vanderbilt 1' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,1,2,59
+0022300446,112,PT03M39.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Christie FOR Vanderbilt,Substitution,,0,0,84
+0022300446,165,PT00M01.90S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,123
+0022300446,172,PT00M00.10S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-159,609,63,Missed,1,,,0,v,MISS Vanderbilt 63' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,124
+0022300446,276,PT05M00.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,202
+0022300446,288,PT03M50.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,214
+0022300446,298,PT03M19.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: James FOR Vanderbilt,Substitution,,0,0,222
+0022300446,363,PT10M56.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-16,7,2,Made,1,74,62,136,v,Vanderbilt 2' Running Layup (4 PTS) (James 4 AST),Made Shot,Running Layup Shot,1,2,265
+0022300446,435,PT04M41.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Christie FOR Vanderbilt,Substitution,,0,0,321
+0022300475,89,PT05M45.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,68
+0022300475,93,PT05M32.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,72
+0022300475,97,PT05M09.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,23,62,7,Missed,1,,,0,h,MISS Vanderbilt 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,75
+0022300475,110,PT04M34.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,22,38,4,Made,1,11,20,31,h,Vanderbilt 4' Running Dunk (2 PTS) (James 1 AST),Made Shot,Running Dunk Shot,1,2,84
+0022300475,113,PT04M04.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,86
+0022300475,172,PT00M19.30S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,1,32,3,Made,1,18,23,41,h,Vanderbilt 3' Cutting Layup Shot (4 PTS) (Davis 2 AST),Made Shot,Cutting Layup Shot,1,2,131
+0022300475,509,PT00M05.10S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,370
+0022300475,620,PT03M39.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Wood FOR Vanderbilt,Substitution,,0,0,449
+0022300491,108,PT02M45.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,76
+0022300491,127,PT01M16.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt STEAL (1 STL),,,1,0,89
+0022300491,141,PT00M48.60S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,100
+0022300491,167,PT10M50.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,119
+0022300491,177,PT10M06.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,129
+0022300491,182,PT09M49.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt S.FOUL (P1.T1) (S.Corbin),Foul,Shooting,1,0,133
+0022300491,196,PT08M36.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Reddish FOR Vanderbilt,Substitution,,0,0,144
+0022300491,516,PT09M41.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,383
+0022300491,529,PT08M40.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Davis FOR Vanderbilt,Substitution,,0,0,391
+0022300505,83,PT04M23.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt STEAL (1 STL),,,1,0,66
+0022300505,119,PT02M24.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,235,96,25,Missed,1,,,0,h,MISS Vanderbilt 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,91
+0022300505,191,PT08M04.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Reaves FOR Vanderbilt,Substitution,,0,0,146
+0022300505,420,PT02M53.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-39,114,12,Missed,1,,,0,h,MISS Vanderbilt 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,311
+0022300505,428,PT02M17.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,317
+0022300505,475,PT11M40.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,347
+0022300505,476,PT11M39.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,Made,1,83,77,160,h,Vanderbilt Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,348
+0022300505,513,PT08M51.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,379
+0022300505,535,PT07M14.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: James FOR Vanderbilt,Substitution,,0,0,396
+0022300505,586,PT03M17.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,437
+0022300505,587,PT03M15.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt Lost Ball Turnover (P1.T19),Turnover,Lost Ball,1,0,438
+0022300505,603,PT02M19.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Russell FOR Vanderbilt,Substitution,,0,0,450
+0022300516,84,PT04M34.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,60
+0022300516,109,PT02M45.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,76
+0022300516,170,PT08M57.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt HANGING.TECH.FOUL (P0.T1) (T.Ricks),Foul,Hanging Technical,1,0,120
+0022300516,175,PT08M39.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt Offensive Charge Foul (P1) (B.Taylor),Foul,Offensive Charge,1,0,125
+0022300516,177,PT08M39.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0,126
+0022300516,185,PT08M04.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Reaves FOR Vanderbilt,Substitution,,0,0,134
+0022300516,391,PT04M35.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt Traveling Turnover (P2.T9),Turnover,Traveling,1,0,285
+0022300516,428,PT02M11.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,-7,1,Made,1,82,78,160,h,Vanderbilt 1' Cutting Dunk Shot (2 PTS) (Davis 6 AST),Made Shot,Cutting Dunk Shot,1,2,309
+0022300516,461,PT00M05.30S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Russell FOR Vanderbilt,Substitution,,0,0,331
+0022300516,478,PT11M24.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,89,91,180,h,Vanderbilt Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,338
+0022300516,479,PT11M24.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,MISS Vanderbilt Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,339
+0022300516,482,PT11M06.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,342
+0022300516,486,PT10M43.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,345
+0022300516,500,PT10M16.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt Offensive Goaltending Turnover (P3.T12),Turnover,Offensive Goaltending,1,0,356
+0022300516,508,PT09M30.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,361
+0022300516,516,PT08M59.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,368
+0022300516,517,PT08M59.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,-4,0,Missed,1,,,0,h,MISS Vanderbilt Putback Layup,Missed Shot,Putback Layup Shot,1,2,369
+0022300516,530,PT08M32.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Prince FOR Vanderbilt,Substitution,,0,0,379
+0022300531,137,PT00M30.60S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Prince FOR Vanderbilt,Substitution,,0,0,98
+0022300531,165,PT11M32.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,109
+0022300531,177,PT10M39.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt STEAL (1 STL),,,1,0,119
+0022300531,182,PT10M21.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,122
+0022300531,197,PT09M33.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,230,61,24,Made,1,34,40,74,h,Vanderbilt 24' 3PT Jump Shot (3 PTS) (Reaves 5 AST),Made Shot,Jump Shot,1,3,133
+0022300531,204,PT08M50.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,232,64,24,Missed,1,,,0,h,MISS Vanderbilt 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,136
+0022300531,258,PT06M27.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Christie FOR Vanderbilt,Substitution,,0,0,179
+0022300531,359,PT11M40.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,MISS Vanderbilt Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,254
+0022300531,361,PT11M40.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,53,66,119,h,Vanderbilt Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,256
+0022300531,382,PT10M03.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,273
+0022300531,389,PT10M03.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,1,15,2,Missed,1,,,0,h,MISS Vanderbilt 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,274
+0022300531,398,PT08M24.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,285
+0022300531,400,PT08M17.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,287
+0022300531,429,PT06M10.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,308
+0022300531,438,PT05M44.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Russell FOR Vanderbilt,Substitution,,0,0,315
+0022300531,470,PT03M15.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,339
+0022300531,471,PT03M15.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,Made,1,68,92,160,h,Vanderbilt Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,2,340
+0022300531,531,PT11M09.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,227,50,0,Missed,1,,,0,h,MISS Vanderbilt 3PT Jump Shot,Missed Shot,Jump Shot,1,3,381
+0022300531,547,PT09M30.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt STEAL (2 STL),,,1,0,393
+0022300531,573,PT07M28.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,412
+0022300531,604,PT05M19.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Hood-Schifino FOR Vanderbilt,Substitution,,0,0,433
+0022300531,650,PT01M50.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,464
+0022300531,675,PT01M45.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt Bad Pass Turnover (P1.T18),Turnover,Bad Pass,1,0,465
+0022300531,663,PT01M07.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,MISS Vanderbilt Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,473
+0022300531,665,PT01M07.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,MISS Vanderbilt Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,475
+0022300549,304,PT01M54.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt S.FOUL (P1.T2) (J.Van Duyne),Foul,Shooting,1,0,222
+0022300549,323,PT00M51.50S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt S.FOUL (P2.PN) (S.Twardoski),Foul,Shooting,1,0,235
+0022300549,327,PT00M34.20S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Wood FOR Vanderbilt,Substitution,,0,0,237
+0022300549,447,PT04M56.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt P.FOUL (P3.PN) (S.Twardoski),Foul,Personal,1,0,321
+0022300549,467,PT03M53.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,234,21,0,Made,1,91,87,178,v,Vanderbilt 3PT Jump Shot (3 PTS) (Mays 1 AST),Made Shot,Jump Shot,1,3,334
+0022300549,469,PT03M38.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt STEAL (1 STL),,,1,0,336
+0022300549,471,PT03M34.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,337
+0022300549,482,PT02M22.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,344
+0022300549,485,PT02M04.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,347
+0022300549,490,PT01M33.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt OFF.Foul (P4) (P.Fraher),Foul,Offensive,1,0,352
+0022300549,492,PT01M33.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,1,0,353
+0022300549,558,PT10M12.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,402
+0022300549,559,PT10M12.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,Made,1,105,101,206,v,Vanderbilt Tip Dunk Shot (5 PTS),Made Shot,Tip Dunk Shot,1,2,403
+0022300549,563,PT09M59.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Davis FOR Vanderbilt,Substitution,,0,0,406
+0022300565,150,PT00M58.70S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,107
+0022300565,194,PT09M29.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,134
+0022300565,198,PT09M05.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,138
+0022300565,202,PT08M54.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Prince FOR Vanderbilt,Substitution,,0,0,141
+0022300565,405,PT05M17.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt STEAL (1 STL),,,1,0,298
+0022300565,407,PT05M13.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,2,17,2,Made,1,73,69,142,h,Vanderbilt 2' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,299
+0022300565,447,PT01M55.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,327
+0022300565,458,PT00M55.30S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt STEAL (2 STL),,,1,0,336
+0022300565,476,PT00M06.90S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Russell FOR Vanderbilt,Substitution,,0,0,347
+0022300565,508,PT11M10.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt STEAL (3 STL),,,1,0,362
+0022300565,510,PT11M07.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-13,17,2,Made,1,86,78,164,h,Vanderbilt 2' Running Layup (4 PTS) (Russell 6 AST),Made Shot,Running Layup Shot,1,2,363
+0022300565,514,PT11M07.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,87,78,165,h,Vanderbilt Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,365
+0022300565,548,PT07M58.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Prince FOR Vanderbilt,Substitution,,0,0,393
+0022300565,659,PT00M13.80S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Russell FOR Vanderbilt,Substitution,,0,0,468
+0022300577,101,PT04M47.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,74
+0022300577,109,PT03M44.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,79
+0022300577,112,PT03M11.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,82
+0022300577,123,PT03M08.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,MISS Vanderbilt Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,88
+0022300577,125,PT03M08.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,MISS Vanderbilt Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,90
+0022300577,149,PT00M53.60S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt S.FOUL (P1.PN) (A.Smith),Foul,Shooting,1,0,108
+0022300577,169,PT11M49.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,121
+0022300577,172,PT11M37.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,124
+0022300577,176,PT11M18.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,128
+0022300577,193,PT10M00.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,235,53,24,Missed,1,,,0,h,MISS Vanderbilt 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,141
+0022300577,199,PT09M28.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,147
+0022300577,203,PT08M59.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,151
+0022300577,211,PT08M12.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Prince FOR Vanderbilt,Substitution,,0,0,159
+0022300577,440,PT03M42.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,12,31,3,Missed,1,,,0,h,MISS Vanderbilt 3' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,324
+0022300577,449,PT03M10.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,90,75,165,h,Vanderbilt Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,333
+0022300577,450,PT03M10.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,91,75,166,h,Vanderbilt Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,334
+0022300577,451,PT02M57.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt S.FOUL (P2.T3) (S.Foster),Foul,Shooting,1,0,335
+0022300577,478,PT01M24.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,355
+0022300577,525,PT10M50.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,101,82,183,h,Vanderbilt Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,384
+0022300577,526,PT10M50.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,102,82,184,h,Vanderbilt Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,385
+0022300577,535,PT10M23.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt STEAL (1 STL),,,1,0,393
+0022300577,541,PT10M14.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,MISS Vanderbilt Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,395
+0022300577,543,PT10M14.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,106,82,188,h,Vanderbilt Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,397
+0022300577,547,PT09M39.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,400
+0022300577,563,PT07M53.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-4,2,0,Made,1,111,89,200,h,Vanderbilt Running Dunk (7 PTS) (James 7 AST),Made Shot,Running Dunk Shot,1,2,412
+0022300577,576,PT06M36.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt L.B.FOUL (P3.T1) (A.Smith),Foul,Loose Ball,1,0,421
+0022300577,593,PT04M44.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Christie FOR Vanderbilt,Substitution,,0,0,433
+0022300591,109,PT02M22.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-7,0,1,Made,1,31,23,54,h,Vanderbilt 1' Cutting Dunk Shot (2 PTS) (Reaves 3 AST),Made Shot,Cutting Dunk Shot,1,2,76
+0022300591,124,PT01M17.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,87
+0022300591,136,PT00M09.30S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Reaves FOR Vanderbilt,Substitution,,0,0,98
+0022300591,161,PT11M23.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,6,22,2,Made,1,39,30,69,h,Vanderbilt 2' Layup (4 PTS) (Wood 1 AST),Made Shot,Layup Shot,1,2,108
+0022300591,215,PT06M35.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Reaves FOR Vanderbilt,Substitution,,0,0,151
+0022300591,408,PT03M53.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,294
+0022300591,414,PT03M08.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,228,32,0,Made,1,84,93,177,h,Vanderbilt 3PT Jump Shot (7 PTS) (Reaves 5 AST),Made Shot,Jump Shot,1,3,298
+0022300591,423,PT02M36.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,304
+0022300591,424,PT02M21.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,228,20,0,Made,1,87,96,183,h,Vanderbilt 3PT Jump Shot (10 PTS) (Davis 6 AST),Made Shot,Jump Shot,1,3,305
+0022300591,457,PT00M06.50S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Reaves FOR Vanderbilt,Substitution,,0,0,328
+0022300591,488,PT10M58.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,343
+0022300591,500,PT10M07.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-1,37,4,Made,1,93,105,198,h,Vanderbilt 4' Cutting Layup Shot (12 PTS) (James 5 AST),Made Shot,Cutting Layup Shot,1,2,353
+0022300591,539,PT08M26.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,380
+0022300591,565,PT06M51.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Russell FOR Vanderbilt,Substitution,,0,0,404
+0022300618,83,PT04M57.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt STEAL (1 STL),,,1,0,61
+0022300618,88,PT04M39.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,64
+0022300618,92,PT03M52.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,224,94,24,Missed,1,,,0,v,MISS Vanderbilt 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,68
+0022300618,110,PT02M59.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,10,59,6,Missed,1,,,0,v,MISS Vanderbilt 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,80
+0022300618,118,PT02M03.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,5,26,3,Made,1,27,25,52,v,Vanderbilt 3' Cutting Dunk Shot (2 PTS) (Reddish 1 AST),Made Shot,Cutting Dunk Shot,1,2,86
+0022300618,120,PT01M44.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt STEAL (2 STL),,,1,0,88
+0022300618,137,PT00M46.60S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-13,27,3,Made,1,29,28,57,v,Vanderbilt 3' Cutting Layup Shot (4 PTS) (Wood 1 AST),Made Shot,Cutting Layup Shot,1,2,101
+0022300618,139,PT00M41.30S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt P.FOUL (P1.T1) (K.Lane),Foul,Personal,1,0,102
+0022300618,235,PT05M46.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-21,34,4,Missed,1,,,0,v,MISS Vanderbilt 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,168
+0022300618,236,PT05M45.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,169
+0022300618,239,PT05M45.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,58,50,108,v,Vanderbilt Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,171
+0022300618,242,PT05M45.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,58,51,109,v,Vanderbilt Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,173
+0022300618,263,PT03M12.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,188
+0022300618,265,PT03M06.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,190
+0022300618,273,PT02M21.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt S.FOUL (P2.T3) (K.Lane),Foul,Shooting,1,0,196
+0022300618,276,PT02M21.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Reddish FOR Vanderbilt,Substitution,,0,0,198
+0022300618,413,PT02M50.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-6,31,3,Made,1,100,92,192,v,Vanderbilt 3' Cutting Layup Shot (8 PTS) (Davis 1 AST),Made Shot,Cutting Layup Shot,1,2,304
+0022300618,464,PT11M27.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,1,46,5,Missed,1,,,0,v,MISS Vanderbilt 5' Layup,Missed Shot,Layup Shot,1,2,339
+0022300618,471,PT10M58.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt BLOCK (1 BLK),,,1,2,346
+0022300618,473,PT10M58.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,347
+0022300618,474,PT10M57.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,348
+0022300618,534,PT06M46.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,388
+0022300618,544,PT06M46.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-17,6,2,Missed,1,,,0,v,MISS Vanderbilt 2' Layup,Missed Shot,Layup Shot,1,2,389
+0022300618,555,PT05M55.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,15,22,3,Missed,1,,,0,v,MISS Vanderbilt 3' Layup,Missed Shot,Layup Shot,1,2,403
+0022300618,557,PT05M55.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:5 Def:2),Rebound,Unknown,1,0,405
+0022300618,558,PT05M55.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt Out of Bounds Lost Ball Turnover (P2.T14),Turnover,Out of Bounds Lost Ball Turnover,1,0,406
+0022300618,562,PT05M23.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:6 Def:2),Rebound,Unknown,1,0,409
+0022300618,636,PT04M48.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt STEAL (3 STL),,,1,0,420
+0022300618,578,PT04M47.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,119,109,228,v,Vanderbilt Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,422
+0022300618,579,PT04M47.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,119,110,229,v,Vanderbilt Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,423
+0022300618,586,PT04M00.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:6 Def:3),Rebound,Unknown,1,0,429
+0022300618,595,PT03M04.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-13,10,2,Made,1,122,114,236,v,Vanderbilt 2' Dunk (12 PTS) (Davis 2 AST),Made Shot,Dunk Shot,1,2,435
+0022300618,600,PT02M05.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt P.FOUL (P3.PN) (K.Lane),Foul,Personal,1,0,439
+0022300618,604,PT02M05.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Hachimura FOR Vanderbilt,Substitution,,0,0,442
+0022300633,127,PT02M40.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,2,7,1,Made,1,27,27,54,h,Vanderbilt 1' Driving Layup (2 PTS) (Christie 1 AST),Made Shot,Driving Layup Shot,1,2,92
+0022300633,169,PT11M17.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,223,10,0,Made,1,34,35,69,h,Vanderbilt 3PT Jump Shot (5 PTS) (James 2 AST),Made Shot,Jump Shot,1,3,121
+0022300633,181,PT10M33.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-6,10,1,Made,1,36,38,74,h,Vanderbilt 1' Cutting Dunk Shot (7 PTS) (James 3 AST),Made Shot,Cutting Dunk Shot,1,2,126
+0022300633,196,PT09M45.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-11,29,3,Made,1,40,41,81,h,Vanderbilt 3' Hook Shot (9 PTS) (James 4 AST),Made Shot,Hook Shot,1,2,136
+0022300633,200,PT09M45.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,MISS Vanderbilt Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,138
+0022300633,209,PT08M27.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt STEAL (1 STL),,,1,0,147
+0022300633,211,PT08M26.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,2,15,2,Made,1,47,43,90,h,Vanderbilt 2' Running Dunk (11 PTS),Made Shot,Running Dunk Shot,1,2,148
+0022300633,230,PT07M39.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt OFF.Foul (P1) (Z.Zarba),Foul,Offensive,1,0,162
+0022300633,232,PT07M39.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,163
+0022300633,236,PT07M19.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,166
+0022300633,245,PT06M48.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Reaves FOR Vanderbilt,Substitution,,0,0,173
+0022300633,311,PT01M54.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt BLOCK (1 BLK),,,1,2,218
+0022300633,330,PT00M23.10S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,233
+0022300633,333,PT00M01.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-4,16,2,Made,1,73,57,130,h,Vanderbilt 2' Layup (13 PTS),Made Shot,Layup Shot,1,2,236
+0022300633,424,PT04M10.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,23,53,6,Made,1,97,76,173,h,Vanderbilt 6' Driving Hook Shot (15 PTS) (Prince 2 AST),Made Shot,Driving Hook Shot,1,2,303
+0022300633,449,PT02M39.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,320
+0022300633,503,PT11M27.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,0,355
+0022300633,512,PT10M16.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,17,72,7,Missed,1,,,0,h,MISS Vanderbilt 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,362
+0022300633,525,PT09M23.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,6,35,4,Missed,1,,,0,h,MISS Vanderbilt 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,372
+0022300633,536,PT09M03.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,380
+0022300633,539,PT08M48.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Prince FOR Vanderbilt,Substitution,,0,0,382
+0022300633,622,PT03M23.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt STEAL (2 STL),,,1,0,443
+0022300633,629,PT02M23.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,449
+0022300633,630,PT02M05.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,12,10,2,Missed,1,,,0,h,MISS Vanderbilt 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,450
+0022300633,635,PT01M43.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,9,24,3,Made,1,138,126,264,h,Vanderbilt 3' Dunk (17 PTS) (James 11 AST),Made Shot,Dunk Shot,1,2,453
+0022300633,649,PT00M46.40S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt STEAL (3 STL),,,1,0,463
+0022300633,653,PT00M46.20S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt L.B.FOUL (P2.PN) (Z.Zarba),Foul,Loose Ball,1,0,466
+0022300650,85,PT05M03.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,63
+0022300650,88,PT04M51.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,66
+0022300650,130,PT01M59.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt STEAL (1 STL),,,1,0,99
+0022300650,132,PT01M55.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-43,24,5,Made,1,24,27,51,v,Vanderbilt 5' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,100
+0022300650,143,PT00M51.10S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt STEAL (2 STL),,,1,0,109
+0022300650,192,PT09M51.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,141
+0022300650,193,PT09M48.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,6,31,3,Made,1,34,39,73,v,Vanderbilt 3' Running Dunk (4 PTS) (Russell 3 AST),Made Shot,Running Dunk Shot,1,2,142
+0022300650,214,PT08M17.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Prince FOR Vanderbilt,Substitution,,0,0,159
+0022300650,293,PT03M46.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt STEAL (3 STL),,,1,0,206
+0022300650,300,PT03M19.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,211
+0022300650,301,PT03M19.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,Missed,1,,,0,v,MISS Vanderbilt Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,212
+0022300650,318,PT01M55.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,59,56,115,v,Vanderbilt Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,225
+0022300650,323,PT01M55.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,MISS Vanderbilt Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,228
+0022300650,328,PT01M34.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-32,14,3,Made,1,59,58,117,v,Vanderbilt 3' Cutting Layup Shot (7 PTS) (Reaves 3 AST),Made Shot,Cutting Layup Shot,1,2,232
+0022300650,332,PT01M34.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,59,59,118,v,Vanderbilt Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1,0,234
+0022300650,351,PT00M09.80S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,248
+0022300650,440,PT05M47.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,308
+0022300650,442,PT05M31.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,310
+0022300650,465,PT04M46.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-38,10,4,Made,1,88,81,169,v,Vanderbilt 4' Layup (10 PTS) (James 6 AST),Made Shot,Layup Shot,1,2,326
+0022300650,470,PT04M46.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,88,82,170,v,Vanderbilt Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,329
+0022300650,483,PT03M49.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,340
+0022300650,484,PT03M45.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-32,23,4,Missed,1,,,0,v,MISS Vanderbilt 4' Running Layup,Missed Shot,Running Layup Shot,1,2,341
+0022300650,557,PT10M27.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,393
+0022300650,564,PT09M39.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,101,95,196,v,Vanderbilt Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,398
+0022300650,565,PT09M39.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,MISS Vanderbilt Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,399
+0022300650,570,PT09M05.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Davis FOR Vanderbilt,Substitution,,0,0,404
+0022300650,612,PT06M31.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,107,101,208,v,Vanderbilt Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,434
+0022300650,613,PT06M31.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,107,102,209,v,Vanderbilt Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,435
+0022300650,644,PT04M34.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt STEAL (4 STL),,,1,0,459
+0022300650,646,PT04M32.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt Step Out of Bounds Turnover (P2.T14),Turnover,Step Out of Bounds Turnover,1,0,460
+0022300650,678,PT02M04.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt L.B.FOUL (P1.T3) (J.Goble),Foul,Loose Ball,1,0,486
+0022300650,753,PT02M32.00S,5,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-21,69,7,Missed,1,,,0,v,MISS Vanderbilt 7' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,1,2,540
+0022300650,840,PT00M55.50S,6,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,603
+0022300650,862,PT00M04.70S,6,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Prince FOR Vanderbilt,Substitution,,0,0,619
+0022300662,120,PT02M02.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt STEAL (1 STL),,,1,0,89
+0022300662,181,PT11M03.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,9,29,3,Made,1,44,33,77,v,Vanderbilt 3' Driving Dunk (2 PTS) (Reaves 2 AST),Made Shot,Driving Dunk Shot,1,2,128
+0022300662,188,PT11M03.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,44,34,78,v,Vanderbilt Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,132
+0022300662,199,PT10M17.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt T.FOUL (P0.T1) (E.Dalen),Foul,Technical,0,0,141
+0022300662,200,PT10M17.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt T.FOUL (P0.T1) (C.Blair),Foul,Technical,1,0,142
+0022300662,204,PT10M17.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Prince FOR Vanderbilt,Substitution,,0,0,146
+0022300662,214,PT10M17.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt Ejection:Other,Ejection,Other,0,0,147
+0022300669,81,PT06M01.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt STEAL (1 STL),,,1,0,62
+0022300669,83,PT06M00.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt Step Out of Bounds Turnover (P1.T1),Turnover,Step Out of Bounds Turnover,1,0,63
+0022300669,90,PT05M07.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,68
+0022300669,91,PT05M05.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,1,6,1,Made,1,16,18,34,v,Vanderbilt 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,69
+0022300669,144,PT00M28.40S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Russell FOR Vanderbilt,Substitution,,0,0,109
+0022300669,171,PT10M57.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,6,8,1,Made,1,36,33,69,v,Vanderbilt 1' Running Dunk (4 PTS) (James 4 AST),Made Shot,Running Dunk Shot,1,2,126
+0022300669,181,PT09M43.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,5,9,1,Made,1,39,35,74,v,Vanderbilt 1' Layup (6 PTS),Made Shot,Layup Shot,1,2,134
+0022300669,186,PT09M25.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt P.FOUL (P1.T1) (R.Acosta),Foul,Personal,1,0,137
+0022300669,196,PT08M37.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Prince FOR Vanderbilt,Substitution,,0,0,145
+0022300669,435,PT04M43.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,317
+0022300669,469,PT02M26.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,341
+0022300669,507,PT11M42.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,367
+0022300669,523,PT10M19.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,2,11,1,Made,1,105,95,200,v,Vanderbilt 1' Layup (8 PTS) (Wood 2 AST),Made Shot,Layup Shot,1,2,380
+0022300669,540,PT08M44.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt OFF.Foul (P2) (R.Acosta),Foul,Offensive,1,0,395
+0022300669,542,PT08M44.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt Offensive Foul Turnover (P2.T13),Turnover,Offensive Foul Turnover,1,0,396
+0022300669,547,PT08M26.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt STEAL (2 STL),,,1,0,400
+0022300669,549,PT08M23.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-10,11,1,Made,1,109,99,208,v,Vanderbilt 1' Running Layup (10 PTS),Made Shot,Running Layup Shot,1,2,401
+0022300669,555,PT08M23.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,MISS Vanderbilt Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,405
+0022300669,562,PT07M27.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-6,8,1,Made,1,114,101,215,v,Vanderbilt 1' Cutting Layup Shot (12 PTS) (James 8 AST),Made Shot,Cutting Layup Shot,1,2,411
+0022300669,573,PT06M20.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Reaves FOR Vanderbilt,Substitution,,0,0,418
+0022300669,631,PT03M21.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Mays FOR Vanderbilt,Substitution,,0,0,459
+0022300684,19,PT10M40.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,228,90,25,Missed,1,,,0,v,MISS Vanderbilt 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,12
+0022300684,22,PT10M31.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,15
+0022300684,25,PT10M24.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,4,3,7,v,Vanderbilt Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,17
+0022300684,26,PT10M24.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,4,4,8,v,Vanderbilt Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,18
+0022300684,29,PT10M11.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,25,75,8,Missed,1,,,0,v,MISS Vanderbilt 8' Running Layup,Missed Shot,Running Layup Shot,1,2,21
+0022300684,32,PT10M02.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,24
+0022300684,33,PT09M53.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-114,50,12,Missed,1,,,0,v,MISS Vanderbilt 12' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,25
+0022300684,48,PT08M35.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,39
+0022300684,63,PT07M27.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,23,42,5,Missed,1,,,0,v,MISS Vanderbilt 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,52
+0022300684,70,PT06M45.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,4,22,2,Made,1,10,11,21,v,Vanderbilt 2' Cutting Dunk Shot (4 PTS) (Reaves 1 AST),Made Shot,Cutting Dunk Shot,1,2,57
+0022300684,109,PT03M37.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt STEAL (1 STL),,,1,0,85
+0022300684,123,PT02M49.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,95
+0022300684,128,PT02M43.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,100
+0022300684,137,PT02M16.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt STEAL (2 STL),,,1,0,110
+0022300684,139,PT02M11.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,111
+0022300684,144,PT02M11.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Russell FOR Vanderbilt,Substitution,,0,0,116
+0022300684,263,PT06M07.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,197
+0022300684,267,PT05M35.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,200
+0022300684,278,PT04M17.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-233,80,25,Made,1,41,49,90,v,Vanderbilt 25' 3PT Jump Shot (7 PTS) (Reaves 3 AST),Made Shot,Jump Shot,1,3,210
+0022300684,310,PT02M26.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-237,78,25,Made,1,44,55,99,v,Vanderbilt 25' 3PT Jump Shot (10 PTS) (Hachimura 3 AST),Made Shot,Jump Shot,1,3,231
+0022300684,315,PT02M06.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,234
+0022300684,325,PT00M47.20S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt STEAL (3 STL),,,1,0,243
+0022300684,327,PT00M46.60S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,Vanderbilt Traveling Turnover (P3.T5),Turnover,Traveling,1,0,244
+0022300684,328,PT00M46.60S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,v,SUB: Russell FOR Vanderbilt,Substitution,,0,0,245
+0022301203,107,PT03M40.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,74
+0022301203,129,PT02M11.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt P.FOUL (P1.PN) (E.Dalen),Foul,Personal,1,0,91
+0022301203,140,PT01M35.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,MISS Vanderbilt Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,98
+0022301203,142,PT01M35.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,28,23,51,h,Vanderbilt Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,100
+0022301203,145,PT00M58.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,103
+0022301203,155,PT00M11.70S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Russell FOR Vanderbilt,Substitution,,0,0,111
+0022301203,263,PT05M58.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt S.FOUL (P2.T4) (T.Washington),Foul,Shooting,1,0,187
+0022301203,273,PT05M04.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,194
+0022301203,300,PT03M11.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,216
+0022301203,302,PT03M04.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,218
+0022301203,306,PT03M02.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Reaves FOR Vanderbilt,Substitution,,0,0,221
+0022301203,426,PT07M20.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,314
+0022301203,427,PT07M19.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,315
+0022301203,447,PT05M04.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,223,15,0,Missed,1,,,0,h,MISS Vanderbilt 3PT Jump Shot,Missed Shot,Jump Shot,1,3,332
+0022301203,480,PT02M39.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt STEAL (1 STL),,,1,0,356
+0022301203,521,PT00M04.60S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-228,18,0,Missed,1,,,0,h,MISS Vanderbilt 3PT Jump Shot,Missed Shot,Jump Shot,1,3,386
+0022301230,89,PT04M37.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,64
+0022301230,114,PT02M38.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,84
+0022301230,144,PT00M07.30S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Russell FOR Vanderbilt,Substitution,,0,0,107
+0022301230,430,PT05M26.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt Violation:Defensive Goaltending (S.Foster),Violation,Defensive Goaltending,1,0,314
+0022301230,431,PT05M12.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-17,-15,2,Missed,1,,,0,h,MISS Vanderbilt 2' Layup,Missed Shot,Layup Shot,1,2,315
+0022301230,475,PT02M19.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,347
+0022301230,489,PT00M45.70S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt BLOCK (1 BLK),,,1,3,359
+0022301230,492,PT00M36.60S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,22,-1,2,Made,1,108,69,177,h,Vanderbilt 2' Running Dunk (2 PTS) (Reddish 2 AST),Made Shot,Running Dunk Shot,1,2,361
+0022301230,517,PT11M37.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,374
+0022301230,525,PT10M41.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,Vanderbilt REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,380
+0022301230,550,PT08M15.00S,4,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,,,0,h,SUB: Hood-Schifino FOR Vanderbilt,Substitution,,0,0,401

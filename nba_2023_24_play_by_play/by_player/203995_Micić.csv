@@ -1,0 +1,869 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300005,152,PT00M29.90S,1,1610612760,OKC,203995,Micić,V. Micić,-174,196,26,Made,1,33,38,71,h,Micic 26' 3PT Jump Shot (3 PTS) (Jal. Williams 2 AST),Made Shot,Jump Shot,1,3,106
+0022300005,179,PT10M25.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,123
+0022300005,187,PT09M59.00S,2,1610612760,OKC,203995,Micić,V. Micić,53,22,6,Missed,1,,,0,h,MISS Micic 6' Running Layup,Missed Shot,Running Layup Shot,1,2,129
+0022300005,195,PT09M49.00S,2,1610612760,OKC,203995,Micić,V. Micić,-48,141,15,Made,1,38,41,79,h,Micic 15' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,2,134
+0022300005,209,PT08M37.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Dort FOR Micic,Substitution,,0,0,144
+0022300005,484,PT01M45.00S,3,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic L.B.FOUL (P1.PN) (M.Ervin),Foul,Loose Ball,1,0,343
+0022300005,499,PT00M24.00S,3,1610612760,OKC,203995,Micić,V. Micić,175,-1,18,Missed,1,,,0,h,MISS Micic 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,355
+0022300005,514,PT00M01.50S,3,1610612760,OKC,203995,Micić,V. Micić,-227,-26,0,Missed,1,,,0,h,MISS Micic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,365
+0022300021,145,PT00M09.90S,1,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: K. Williams FOR Micic,Substitution,,0,0,109
+0022300021,212,PT09M16.00S,2,1610612760,OKC,203995,Micić,V. Micić,184,64,19,Missed,1,,,0,h,MISS Micic 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,147
+0022300021,233,PT07M36.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,MISS Micic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,163
+0022300021,235,PT07M36.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,37,33,70,h,Micic Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,165
+0022300021,240,PT07M08.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic P.FOUL (P1.T4) (P.Ransom),Foul,Personal,1,0,169
+0022300021,289,PT04M04.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Holmgren FOR Micic,Substitution,,0,0,205
+0022300021,524,PT00M56.00S,3,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Step Out of Bounds Turnover (P1.T11),Turnover,Step Out of Bounds Turnover,1,0,379
+0022300021,529,PT00M41.00S,3,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Palming Turnover (P2.T12),Turnover,Palming Turnover,1,0,383
+0022300021,539,PT00M01.90S,3,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,390
+0022300021,540,PT00M00.90S,3,1610612760,OKC,203995,Micić,V. Micić,-33,362,36,Missed,1,,,0,h,MISS Micic 36' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,391
+0022300021,556,PT11M39.00S,4,1610612760,OKC,203995,Micić,V. Micić,76,247,26,Made,1,94,66,160,h,Micic 26' 3PT Jump Shot (4 PTS) (Wallace 3 AST),Made Shot,Jump Shot,1,3,395
+0022300021,587,PT10M04.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,MISS Micic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,415
+0022300021,589,PT10M04.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,95,70,165,h,Micic Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,417
+0022300021,597,PT08M52.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic STEAL (1 STL),,,1,0,426
+0022300021,636,PT06M10.00S,4,1610612760,OKC,203995,Micić,V. Micić,6,259,26,Made,1,109,73,182,h,Micic 26' 3PT Pullup Jump Shot (8 PTS) (K. Williams 2 AST),Made Shot,Pullup Jump shot,1,3,454
+0022300021,648,PT05M12.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Wiggins FOR Micic,Substitution,,0,0,463
+0022300081,420,PT06M17.00S,3,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Traveling Turnover (P1.T11),Turnover,Traveling,1,0,310
+0022300081,423,PT05M45.00S,3,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0,313
+0022300081,443,PT05M04.00S,3,1610612760,OKC,203995,Micić,V. Micić,168,205,27,Made,1,64,67,131,v,Micic 27' 3PT Jump Shot (3 PTS) (Dieng 1 AST),Made Shot,Jump Shot,1,3,326
+0022300081,499,PT00M29.00S,3,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Dort FOR Micic,Substitution,,0,0,371
+0022300095,223,PT08M38.00S,2,1610612760,OKC,203995,Micić,V. Micić,15,5,2,Made,1,33,43,76,h,Micic 2' Driving Layup (2 PTS) (Williams 3 AST),Made Shot,Driving Layup Shot,1,2,160
+0022300095,244,PT07M01.00S,2,1610612760,OKC,203995,Micić,V. Micić,151,218,27,Missed,1,,,0,h,MISS Micic 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,173
+0022300095,260,PT05M42.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,184
+0022300095,278,PT04M19.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Wiggins FOR Micic,Substitution,,0,0,200
+0022300095,522,PT09M01.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic S.FOUL (P1.T2) (J.Conley),Foul,Shooting,1,0,372
+0022300095,527,PT08M50.00S,4,1610612760,OKC,203995,Micić,V. Micić,-197,179,27,Missed,1,,,0,h,MISS Micic 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,375
+0022300095,538,PT08M04.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Lost Ball Turnover (P2.T8),Turnover,Lost Ball,1,0,384
+0022300095,568,PT05M31.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Sarr FOR Micic,Substitution,,0,0,410
+0022300201,87,PT05M33.00S,1,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic S.FOUL (P1.T1) (N.Sago),Foul,Shooting,1,0,64
+0022300201,95,PT05M05.00S,1,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Thunder T.Foul (Def. 3 Sec Micic ) (D.Richardson),Foul,Defense 3 Second,1,0,70
+0022300201,107,PT04M31.00S,1,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic P.FOUL (P2.T2) (N.Sago),Foul,Personal,1,0,78
+0022300201,121,PT03M47.00S,1,1610612760,OKC,203995,Micić,V. Micić,-234,-11,0,Missed,1,,,0,v,MISS Micic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,87
+0022300201,125,PT03M37.00S,1,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Dort FOR Micic,Substitution,,0,0,91
+0022300201,241,PT08M10.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,35,51,86,v,Micic Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,166
+0022300201,242,PT08M10.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,35,52,87,v,Micic Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,167
+0022300201,266,PT06M34.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Giddey FOR Micic,Substitution,,0,0,189
+0022300201,502,PT02M41.00S,3,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,356
+0022300201,526,PT00M03.20S,3,1610612760,OKC,203995,Micić,V. Micić,26,105,11,Missed,1,,,0,v,MISS Micic 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,375
+0022300201,553,PT10M05.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic S.FOUL (P3.T2) (D.Richardson),Foul,Shooting,1,0,394
+0022300201,576,PT08M18.00S,4,1610612760,OKC,203995,Micić,V. Micić,112,237,26,Made,1,95,108,203,v,Micic 26' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,3,414
+0022300201,604,PT06M09.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Giddey FOR Micic,Substitution,,0,0,433
+0022300201,657,PT03M04.00S,4,1610612760,OKC,203995,Micić,V. Micić,-80,286,30,Missed,1,,,0,v,MISS Micic 30' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,467
+0022300201,661,PT02M54.00S,4,1610612760,OKC,203995,Micić,V. Micić,32,15,4,Missed,1,,,0,v,MISS Micic 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,470
+0022300201,686,PT01M16.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,491
+0022300207,221,PT09M28.00S,2,1610612760,OKC,203995,Micić,V. Micić,-200,10,20,Made,1,35,39,74,v,Micic 20' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,2,153
+0022300207,267,PT06M42.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Jay. Williams FOR Micic,Substitution,,0,0,187
+0022300207,495,PT00M06.50S,3,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Holmgren FOR Micic,Substitution,,0,0,351
+0022300215,484,PT11M24.00S,4,1610612760,OKC,203995,Micić,V. Micić,-32,127,13,Missed,1,,,0,v,MISS Micic 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,349
+0022300215,497,PT10M08.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Traveling Turnover (P1.T15),Turnover,Traveling,1,0,359
+0022300215,545,PT06M32.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Bad Pass Turnover (P2.T16),Turnover,Bad Pass,1,0,393
+0022300215,554,PT05M41.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Mann FOR Micic,Substitution,,0,0,400
+0022300234,169,PT11M24.00S,2,1610612760,OKC,203995,Micić,V. Micić,-151,227,27,Missed,1,,,0,h,MISS Micic 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,124
+0022300234,186,PT10M02.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,139
+0022300234,190,PT09M28.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,144
+0022300234,222,PT07M03.00S,2,1610612760,OKC,203995,Micić,V. Micić,1,7,1,Made,1,37,19,56,h,Micic 1' Running Layup (2 PTS) (Giddey 2 AST),Made Shot,Running Layup Shot,1,2,168
+0022300234,227,PT06M31.00S,2,1610612760,OKC,203995,Micić,V. Micić,-175,200,27,Missed,1,,,0,h,MISS Micic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,171
+0022300234,249,PT05M15.00S,2,1610612760,OKC,203995,Micić,V. Micić,148,197,25,Missed,1,,,0,h,MISS Micic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,185
+0022300234,251,PT05M14.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Gilgeous-Alexander FOR Micic,Substitution,,0,0,188
+0022300234,561,PT06M52.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Wallace FOR Micic,Substitution,,0,0,409
+0022300302,150,PT00M53.00S,1,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,109
+0022300302,151,PT00M43.60S,1,1610612760,OKC,203995,Micić,V. Micić,184,172,25,Missed,1,,,0,h,MISS Micic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,110
+0022300302,197,PT09M55.00S,2,1610612760,OKC,203995,Micić,V. Micić,-22,31,4,Missed,1,,,0,h,MISS Micic 4' Layup,Missed Shot,Layup Shot,1,2,138
+0022300302,237,PT06M57.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Wallace FOR Micic,Substitution,,0,0,166
+0022300302,546,PT10M46.00S,4,1610612760,OKC,203995,Micić,V. Micić,129,225,26,Missed,1,,,0,h,MISS Micic 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,391
+0022300302,563,PT09M37.00S,4,1610612760,OKC,203995,Micić,V. Micić,-13,-1,1,Made,1,117,85,202,h,Micic 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,405
+0022300302,591,PT07M31.00S,4,1610612760,OKC,203995,Micić,V. Micić,135,231,27,Missed,1,,,0,h,MISS Micic 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,425
+0022300302,593,PT07M19.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic STEAL (1 STL),,,1,0,428
+0022300302,604,PT06M43.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Dieng FOR Micic,Substitution,,0,0,435
+0022300355,617,PT07M04.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic BLOCK (1 BLK),,,1,2,442
+0022300355,642,PT05M41.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,460
+0022300355,687,PT01M06.00S,4,1610612760,OKC,203995,Micić,V. Micić,1,251,25,Missed,1,,,0,h,MISS Micic 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,494
+0022300411,175,PT10M27.00S,2,1610612760,OKC,203995,Micić,V. Micić,22,-2,2,Made,1,44,40,84,h,Micic 2' Driving Layup (2 PTS) (Jal. Williams 1 AST),Made Shot,Driving Layup Shot,1,2,117
+0022300411,195,PT08M35.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic S.FOUL (P1.T2) (N.Buchert),Foul,Shooting,1,0,131
+0022300411,213,PT07M05.00S,2,1610612760,OKC,203995,Micić,V. Micić,43,271,27,Missed,1,,,0,h,MISS Micic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,144
+0022300411,239,PT05M38.00S,2,1610612760,OKC,203995,Micić,V. Micić,156,204,26,Missed,1,,,0,h,MISS Micic 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,161
+0022300411,242,PT05M37.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Joe FOR Micic,Substitution,,0,0,163
+0022300411,481,PT00M00.80S,3,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic STEAL (1 STL),,,1,0,340
+0022300411,569,PT09M51.00S,4,1610612760,OKC,203995,Micić,V. Micić,-26,38,5,Missed,1,,,0,h,MISS Micic 5' Layup,Missed Shot,Layup Shot,1,2,361
+0022300411,552,PT08M02.00S,4,1610612760,OKC,203995,Micić,V. Micić,76,121,14,Missed,1,,,0,h,MISS Micic 14' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,386
+0022300411,554,PT08M01.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic P.FOUL (P2.T2) (N.Buchert),Foul,Personal,1,0,388
+0022300411,561,PT07M37.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic P.FOUL (P3.T3) (N.Buchert),Foul,Personal,1,0,394
+0022300411,565,PT07M37.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Joe FOR Micic,Substitution,,0,0,397
+0022300411,629,PT04M07.00S,4,1610612760,OKC,203995,Micić,V. Micić,-237,10,24,Missed,1,,,0,h,MISS Micic 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,437
+0022300411,646,PT01M41.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Violation:Kicked Ball (J.Reneau),Violation,Kicked Ball,0,0,450
+0022300411,652,PT01M18.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Bad Pass Turnover (P1.T14),Turnover,Bad Pass,1,0,453
+0022300411,656,PT01M00.00S,4,1610612760,OKC,203995,Micić,V. Micić,-229,-4,0,Missed,1,,,0,h,MISS Micic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,457
+0022300411,658,PT00M48.10S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic STEAL (2 STL),,,1,0,460
+0022300435,199,PT08M51.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,137
+0022300435,231,PT06M52.00S,2,1610612760,OKC,203995,Micić,V. Micić,6,258,26,Missed,1,,,0,v,MISS Micic 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,160
+0022300435,254,PT05M42.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Joe FOR Micic,Substitution,,0,0,180
+0022300435,497,PT10M49.00S,4,1610612760,OKC,203995,Micić,V. Micić,82,131,15,Made,1,71,90,161,v,Micic 15' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,358
+0022300435,498,PT10M26.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic BLOCK (1 BLK),,,1,2,360
+0022300435,501,PT10M11.00S,4,1610612760,OKC,203995,Micić,V. Micić,-112,235,26,Missed,1,,,0,v,MISS Micic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,362
+0022300435,503,PT10M03.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic S.FOUL (P1.T1) (J.Van Duyne),Foul,Shooting,1,0,364
+0022300435,536,PT07M30.00S,4,1610612760,OKC,203995,Micić,V. Micić,-199,147,25,Missed,1,,,0,v,MISS Micic 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,389
+0022300435,544,PT07M18.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Wallace FOR Micic,Substitution,,0,0,397
+0022300435,640,PT01M51.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic S.FOUL (P2.T3) (J.Van Duyne),Foul,Shooting,1,0,458
+0022300447,174,PT11M43.00S,2,1610612760,OKC,203995,Micić,V. Micić,97,157,18,Made,1,35,36,71,h,Micic 18' Pullup Jump Shot (2 PTS) (Holmgren 1 AST),Made Shot,Pullup Jump shot,1,2,111
+0022300447,214,PT08M13.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,141
+0022300447,223,PT07M16.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,148
+0022300447,245,PT06M05.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic STEAL (1 STL),,,1,0,164
+0022300447,251,PT05M49.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic S.FOUL (P1.T2) (D.Scott),Foul,Shooting,1,0,168
+0022300447,263,PT05M43.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Joe FOR Micic,Substitution,,0,0,175
+0022300447,556,PT10M41.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic P.FOUL (P2.T2) (D.Scott),Foul,Personal,1,0,387
+0022300447,581,PT08M34.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic S.FOUL (P3.T3) (J.Williams),Foul,Shooting,1,0,406
+0022300447,594,PT07M46.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic P.FOUL (P4.T4) (A.Nagy),Foul,Personal,1,0,415
+0022300447,596,PT07M46.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Giddey FOR Micic,Substitution,,0,0,416
+0022300447,714,PT01M16.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,499
+0022300462,178,PT10M26.00S,2,1610612760,OKC,203995,Micić,V. Micić,-240,32,24,Missed,1,,,0,h,MISS Micic 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,121
+0022300462,182,PT10M11.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic S.FOUL (P1.T1) (B.Taylor),Foul,Shooting,1,0,125
+0022300462,199,PT08M53.00S,2,1610612760,OKC,203995,Micić,V. Micić,165,195,26,Made,1,39,32,71,h,Micic 26' 3PT Running Jump Shot (3 PTS) (Holmgren 4 AST),Made Shot,Running Jump Shot,1,3,138
+0022300462,221,PT07M43.00S,2,1610612760,OKC,203995,Micić,V. Micić,100,275,29,Missed,1,,,0,h,MISS Micic 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,152
+0022300462,233,PT07M17.00S,2,1610612760,OKC,203995,Micić,V. Micić,-2,26,3,Missed,1,,,0,h,MISS Micic 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,161
+0022300462,239,PT07M11.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Joe FOR Micic,Substitution,,0,0,166
+0022300462,526,PT10M14.00S,4,1610612760,OKC,203995,Micić,V. Micić,-99,230,25,Missed,1,,,0,h,MISS Micic 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,373
+0022300462,538,PT09M28.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,383
+0022300462,549,PT08M16.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic P.FOUL (P2.T1) (M.Dagher),Foul,Personal,1,0,392
+0022300462,585,PT06M04.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Giddey FOR Micic,Substitution,,0,0,420
+0022300481,247,PT08M36.00S,2,1610612760,OKC,203995,Micić,V. Micić,145,209,25,Missed,1,,,0,v,MISS Micic 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,167
+0022300481,268,PT07M22.00S,2,1610612760,OKC,203995,Micić,V. Micić,7,-7,1,Made,1,55,30,85,v,Micic 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,181
+0022300481,276,PT06M57.00S,2,1610612760,OKC,203995,Micić,V. Micić,12,-2,1,Made,1,55,32,87,v,Micic 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,187
+0022300481,288,PT06M05.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Holmgren FOR Micic,Substitution,,0,0,196
+0022300481,557,PT09M59.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic BLOCK (1 BLK),,,1,2,392
+0022300481,562,PT09M56.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic STEAL (1 STL),,,1,0,395
+0022300481,608,PT06M13.00S,4,1610612760,OKC,203995,Micić,V. Micić,124,7,12,Made,1,111,97,208,v,Micic 12' Step Back Jump Shot (6 PTS) (Holmgren 3 AST),Made Shot,Step Back Jump shot,1,2,429
+0022300481,613,PT05M39.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Dort FOR Micic,Substitution,,0,0,433
+0022300522,157,PT10M07.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,109
+0022300522,185,PT07M41.00S,2,1610612760,OKC,203995,Micić,V. Micić,40,43,6,Made,1,47,44,91,v,Micic 6' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,129
+0022300522,210,PT05M28.00S,2,1610612760,OKC,203995,Micić,V. Micić,26,34,4,Made,1,55,52,107,v,Micic 4' Driving Floating Bank Jump Shot (4 PTS) (Jal. Williams 5 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,144
+0022300522,221,PT04M48.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Joe FOR Micic,Substitution,,0,0,152
+0022300522,441,PT01M32.00S,3,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic STEAL (1 STL),,,1,0,316
+0022300522,456,PT00M04.90S,3,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Holmgren FOR Micic,Substitution,,0,0,326
+0022300522,541,PT06M34.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic S.FOUL (P1.T1) (I.Hwang),Foul,Shooting,1,0,383
+0022300522,545,PT06M34.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Gilgeous-Alexander FOR Micic,Substitution,,0,0,386
+0022300529,188,PT11M50.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,THUNDER T.Foul (Def. 3 Sec Micic ) (B.Nansel),Foul,Defense 3 Second,1,0,134
+0022300529,222,PT09M26.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,44,28,72,h,Micic Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,160
+0022300529,223,PT09M26.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,45,28,73,h,Micic Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,161
+0022300529,250,PT07M28.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,181
+0022300529,285,PT04M56.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Dort FOR Micic,Substitution,,0,0,213
+0022300546,145,PT11M42.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,105
+0022300546,168,PT10M10.00S,2,1610612760,OKC,203995,Micić,V. Micić,150,209,26,Made,1,27,21,48,h,Micic 26' 3PT Step Back Jump Shot (3 PTS) (Wiggins 1 AST),Made Shot,Step Back Jump shot,1,3,125
+0022300546,184,PT09M26.00S,2,1610612760,OKC,203995,Micić,V. Micić,21,-11,2,Made,1,29,22,51,h,Micic 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,136
+0022300546,192,PT08M38.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic P.FOUL (P1.T4) (J.Schroeder),Foul,Personal,1,0,142
+0022300546,215,PT07M07.00S,2,1610612760,OKC,203995,Micić,V. Micić,34,-11,4,Missed,1,,,0,h,MISS Micic 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,157
+0022300546,223,PT06M24.00S,2,1610612760,OKC,203995,Micić,V. Micić,97,252,27,Missed,1,,,0,h,MISS Micic 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,165
+0022300546,240,PT05M53.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Dort FOR Micic,Substitution,,0,0,176
+0022300546,500,PT10M17.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,365
+0022300546,545,PT07M38.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic STEAL (1 STL),,,1,0,401
+0022300546,547,PT07M36.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Traveling Turnover (P1.T8),Turnover,Traveling,1,0,402
+0022300546,557,PT07M08.00S,4,1610612760,OKC,203995,Micić,V. Micić,11,7,1,Made,1,96,87,183,h,Micic 1' Driving Finger Roll Layup (7 PTS) (K. Williams 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,408
+0022300546,563,PT06M51.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Giddey FOR Micic,Substitution,,0,0,412
+0022300565,179,PT11M43.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Violation:Kicked Ball (R.Acosta),Violation,Kicked Ball,0,0,122
+0022300565,181,PT11M21.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,124
+0022300565,219,PT07M49.00S,2,1610612760,OKC,203995,Micić,V. Micić,2,35,4,Missed,1,,,0,v,MISS Micic 4' Running Layup,Missed Shot,Running Layup Shot,1,2,156
+0022300565,222,PT07M42.00S,2,1610612760,OKC,203995,Micić,V. Micić,159,222,27,Made,1,33,35,68,v,Micic 27' 3PT Jump Shot (3 PTS) (Wallace 1 AST),Made Shot,Jump Shot,1,3,159
+0022300565,271,PT03M54.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Dort FOR Micic,Substitution,,0,0,199
+0022300565,464,PT00M16.70S,3,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic S.FOUL (P1.T3) (J.Conley),Foul,Shooting,1,0,339
+0022300565,479,PT00M06.90S,3,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: K. Williams FOR Micic,Substitution,,0,0,350
+0022300565,533,PT09M07.00S,4,1610612760,OKC,203995,Micić,V. Micić,17,60,6,Missed,1,,,0,v,MISS Micic 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,381
+0022300565,552,PT07M45.00S,4,1610612760,OKC,203995,Micić,V. Micić,-176,176,25,Made,1,93,87,180,v,Micic 25' 3PT Pullup Jump Shot (6 PTS) (Joe 1 AST),Made Shot,Pullup Jump shot,1,3,395
+0022300565,560,PT06M52.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic S.FOUL (P2.T2) (J.Conley),Foul,Shooting,1,0,399
+0022300565,573,PT06M24.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Gilgeous-Alexander FOR Micic,Substitution,,0,0,408
+0022300568,174,PT09M37.00S,2,1610612760,OKC,203995,Micić,V. Micić,1,21,2,Made,1,43,38,81,v,Micic 2' Driving Layup (2 PTS) (Holmgren 3 AST),Made Shot,Driving Layup Shot,1,2,125
+0022300568,194,PT08M09.00S,2,1610612760,OKC,203995,Micić,V. Micić,23,8,2,Made,1,44,42,86,v,Micic 2' Driving Layup (4 PTS) (Jal. Williams 3 AST),Made Shot,Driving Layup Shot,1,2,141
+0022300568,230,PT05M54.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Gilgeous-Alexander FOR Micic,Substitution,,0,0,168
+0022300568,522,PT09M41.00S,4,1610612760,OKC,203995,Micić,V. Micić,150,213,26,Missed,1,,,0,v,MISS Micic 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,367
+0022300568,526,PT09M11.00S,4,1610612760,OKC,203995,Micić,V. Micić,-6,11,1,Made,1,102,96,198,v,Micic 1' Running Layup (6 PTS) (Wiggins 2 AST),Made Shot,Running Layup Shot,1,2,371
+0022300568,532,PT09M11.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,102,97,199,v,Micic Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,374
+0022300568,551,PT06M56.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,390
+0022300568,556,PT06M48.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Giddey FOR Micic,Substitution,,0,0,394
+0022300581,179,PT11M40.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,124
+0022300581,182,PT11M38.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic S.FOUL (P1.T1) (J.Sterling),Foul,Shooting,1,0,127
+0022300581,233,PT07M34.00S,2,1610612760,OKC,203995,Micić,V. Micić,27,5,3,Made,1,41,52,93,v,Micic 3' Running Layup (2 PTS) (K. Williams 2 AST),Made Shot,Running Layup Shot,1,2,164
+0022300581,246,PT06M59.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Wallace FOR Micic,Substitution,,0,0,173
+0022300581,545,PT10M12.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,99,106,205,v,Micic Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,380
+0022300581,548,PT10M12.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,99,107,206,v,Micic Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,382
+0022300581,554,PT09M47.00S,4,1610612760,OKC,203995,Micić,V. Micić,-29,29,4,Made,1,102,109,211,v,Micic 4' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,386
+0022300581,579,PT08M04.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Holmgren FOR Micic,Substitution,,0,0,406
+0022300599,179,PT10M56.00S,2,1610612760,OKC,203995,Micić,V. Micić,-12,100,10,Missed,1,,,0,v,MISS Micic 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,128
+0022300599,191,PT09M51.00S,2,1610612760,OKC,203995,Micić,V. Micić,-22,43,5,Missed,1,,,0,v,MISS Micic 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,138
+0022300599,259,PT06M04.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Gilgeous-Alexander FOR Micic,Substitution,,0,0,191
+0022300599,669,PT07M06.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Gilgeous-Alexander FOR Micic,Substitution,,0,0,416
+0022300617,197,PT10M15.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,148
+0022300617,212,PT08M45.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Wiggins FOR Micic,Substitution,,0,0,160
+0022300617,555,PT10M37.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,MISS Micic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,394
+0022300617,557,PT10M37.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,89,88,177,h,Micic Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,396
+0022300617,559,PT10M13.00S,4,1610612760,OKC,203995,Micić,V. Micić,-18,168,17,Missed,1,,,0,h,MISS Micic 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,398
+0022300617,578,PT08M34.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Giddey FOR Micic,Substitution,,0,0,414
+0022300622,189,PT11M10.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic STEAL (1 STL),,,1,0,138
+0022300622,192,PT11M07.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,139
+0022300622,210,PT09M15.00S,2,1610612760,OKC,203995,Micić,V. Micić,29,1,3,Made,1,28,44,72,v,Micic 3' Driving Finger Roll Layup (2 PTS) (Holmgren 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,153
+0022300622,345,PT07M00.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0,167
+0022300622,264,PT05M28.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Jay. Williams FOR Micic,Substitution,,0,0,195
+0022300622,547,PT11M39.00S,4,1610612760,OKC,203995,Micić,V. Micić,-234,78,25,Missed,1,,,0,v,MISS Micic 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,390
+0022300622,572,PT08M48.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Traveling Turnover (P3.T14),Turnover,Traveling,1,0,412
+0022300622,591,PT07M06.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,425
+0022300622,631,PT04M45.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Pokusevski FOR Micic,Substitution,,0,0,454
+0022300640,259,PT04M50.00S,2,1610612760,OKC,203995,Micić,V. Micić,165,1,17,Missed,1,,,0,v,MISS Micic 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,188
+0022300640,267,PT04M50.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Dort FOR Micic,Substitution,,0,0,195
+0022300640,514,PT10M40.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,367
+0022300640,567,PT06M09.00S,4,1610612760,OKC,203995,Micić,V. Micić,9,5,1,Made,1,76,93,169,v,Micic 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,407
+0022300640,577,PT06M09.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,76,94,170,v,Micic Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,413
+0022300640,581,PT05M59.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Joe FOR Micic,Substitution,,0,0,416
+0022300640,631,PT02M59.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,448
+0022300640,643,PT01M58.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,457
+0022300640,651,PT01M05.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Lost Ball Turnover (P2.T11),Turnover,Lost Ball,1,0,464
+0022300664,164,PT11M37.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Traveling Turnover (P1.T3),Turnover,Traveling,1,0,112
+0022300664,173,PT10M48.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,119
+0022300664,196,PT09M24.00S,2,1610612760,OKC,203995,Micić,V. Micić,126,239,27,Missed,1,,,0,h,MISS Micic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,137
+0022300664,217,PT07M59.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Joe FOR Micic,Substitution,,0,0,155
+0022300682,175,PT11M30.00S,2,1610612760,OKC,203995,Micić,V. Micić,13,-2,1,Made,1,21,30,51,h,Micic 1' Driving Dunk (2 PTS) (Wiggins 1 AST),Made Shot,Driving Dunk Shot,1,2,130
+0022300682,180,PT11M05.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,133
+0022300682,183,PT10M18.00S,2,1610612760,OKC,203995,Micić,V. Micić,-126,219,25,Made,1,24,30,54,h,Micic 25' 3PT Jump Shot (5 PTS) (Wiggins 2 AST),Made Shot,Jump Shot,1,3,136
+0022300682,196,PT09M01.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,147
+0022300682,199,PT08M50.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,25,35,60,h,Micic Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,149
+0022300682,200,PT08M50.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,MISS Micic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,150
+0022300682,228,PT07M30.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,169
+0022300682,251,PT05M57.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,MISS Micic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,186
+0022300682,258,PT05M57.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,34,42,76,h,Micic Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,190
+0022300682,273,PT05M01.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Giddey FOR Micic,Substitution,,0,0,202
+0022300682,465,PT03M05.00S,3,1610612760,OKC,203995,Micić,V. Micić,-165,197,26,Missed,1,,,0,h,MISS Micic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,344
+0022300682,472,PT02M12.00S,3,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,351
+0022300682,501,PT00M06.70S,3,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Dort FOR Micic,Substitution,,0,0,371
+0022300682,514,PT11M42.00S,4,1610612760,OKC,203995,Micić,V. Micić,18,28,3,Missed,1,,,0,h,MISS Micic 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,376
+0022300682,516,PT11M38.00S,4,1610612760,OKC,203995,Micić,V. Micić,-9,15,2,Made,1,75,72,147,h,Micic 2' Layup (9 PTS) (Holmgren 2 AST),Made Shot,Layup Shot,1,2,378
+0022300682,520,PT11M38.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,76,72,148,h,Micic Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,1,0,380
+0022300682,531,PT10M41.00S,4,1610612760,OKC,203995,Micić,V. Micić,-2,274,27,Missed,1,,,0,h,MISS Micic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,388
+0022300682,545,PT09M30.00S,4,1610612760,OKC,203995,Micić,V. Micić,17,15,2,Made,1,85,74,159,h,Micic 2' Driving Layup (12 PTS) (Wallace 1 AST),Made Shot,Driving Layup Shot,1,2,398
+0022300682,576,PT06M17.00S,4,1610612760,OKC,203995,Micić,V. Micić,53,39,7,Missed,1,,,0,h,MISS Micic 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,420
+0022300682,588,PT05M36.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Gilgeous-Alexander FOR Micic,Substitution,,0,0,431
+0022300695,179,PT10M25.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,111
+0022300695,209,PT07M21.00S,2,1610612760,OKC,203995,Micić,V. Micić,-10,38,4,Made,1,50,32,82,h,Micic 4' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,145
+0022300695,237,PT05M53.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: J. Williams FOR Micic,Substitution,,0,0,165
+0022300695,501,PT11M49.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,354
+0022300695,513,PT10M44.00S,4,1610612760,OKC,203995,Micić,V. Micić,-190,167,25,Missed,1,,,0,h,MISS Micic 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,363
+0022300695,521,PT09M48.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,0,369
+0022300695,548,PT07M37.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Sarr FOR Micic,Substitution,,0,0,390
+0022300710,153,PT00M07.60S,1,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Wallace FOR Micic,Substitution,,0,0,107
+0022300710,178,PT11M26.00S,2,1610612760,OKC,203995,Micić,V. Micić,43,0,4,Missed,1,,,0,h,MISS Micic 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,120
+0022300710,187,PT10M28.00S,2,1610612760,OKC,203995,Micić,V. Micić,174,173,25,Made,1,31,35,66,h,Micic 25' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,128
+0022300710,223,PT07M32.00S,2,1610612760,OKC,203995,Micić,V. Micić,51,246,25,Missed,1,,,0,h,MISS Micic 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,152
+0022300710,251,PT05M57.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Dort FOR Micic,Substitution,,0,0,174
+0022300710,500,PT10M31.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,348
+0022300710,537,PT07M19.00S,4,1610612760,OKC,203995,Micić,V. Micić,65,251,26,Missed,1,,,0,h,MISS Micic 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,373
+0022300710,548,PT06M12.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Wiggins FOR Micic,Substitution,,0,0,383
+0022300724,161,PT11M31.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Traveling Turnover (P1.T2),Turnover,Traveling,1,0,115
+0022300724,193,PT08M33.00S,2,1610612760,OKC,203995,Micić,V. Micić,-232,-13,0,Missed,1,,,0,v,MISS Micic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,140
+0022300724,230,PT06M39.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,168
+0022300724,238,PT06M08.00S,2,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Dort FOR Micic,Substitution,,0,0,175
+0022300724,514,PT09M38.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,368
+0022300724,515,PT09M34.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0,369
+0022300724,555,PT07M15.00S,4,1610612760,OKC,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Gilgeous-Alexander FOR Micic,Substitution,,0,0,397
+0022300751,99,PT03M31.00S,1,1610612766,CHA,203995,Micić,V. Micić,5,-1,1,Missed,1,,,0,h,MISS Micic 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,73
+0022300751,185,PT08M56.00S,2,1610612766,CHA,203995,Micić,V. Micić,-6,-5,1,Made,1,31,29,60,h,Micic 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,131
+0022300751,188,PT08M36.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,0,134
+0022300751,225,PT05M45.00S,2,1610612766,CHA,203995,Micić,V. Micić,146,213,26,Missed,1,,,0,h,MISS Micic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,156
+0022300751,250,PT04M21.00S,2,1610612766,CHA,203995,Micić,V. Micić,4,192,19,Made,1,43,42,85,h,Micic 19' Pullup Jump Shot (4 PTS) (Williams 1 AST),Made Shot,Pullup Jump shot,1,2,175
+0022300751,270,PT02M44.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Traveling Turnover (P2.T12),Turnover,Traveling,1,0,187
+0022300751,277,PT02M09.00S,2,1610612766,CHA,203995,Micić,V. Micić,2,-4,0,Made,1,50,44,94,h,Micic Driving Layup (6 PTS) (Bertans 1 AST),Made Shot,Driving Layup Shot,1,2,191
+0022300751,386,PT05M12.00S,3,1610612766,CHA,203995,Micić,V. Micić,16,5,2,Missed,1,,,0,h,MISS Micic 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,260
+0022300751,394,PT04M48.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,20,2,Made,1,73,67,140,h,Micic 2' Reverse Layup (8 PTS) (Bridges 3 AST),Made Shot,Reverse Layup Shot,1,2,267
+0022300751,409,PT03M08.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,279
+0022300751,427,PT01M46.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic P.FOUL (P1.T2) (J.Goble),Foul,Personal,1,0,293
+0022300751,431,PT01M21.00S,3,1610612766,CHA,203995,Micić,V. Micić,9,18,2,Missed,1,,,0,h,MISS Micic 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,295
+0022300751,439,PT00M55.50S,3,1610612766,CHA,203995,Micić,V. Micić,-50,265,27,Made,1,83,74,157,h,Micic 27' 3PT Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,1,3,301
+0022300751,606,PT00M00.20S,3,1610612766,CHA,203995,Micić,V. Micić,12,55,6,Missed,1,,,0,h,MISS Micic 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,0,2,306
+0022300751,535,PT05M33.00S,4,1610612766,CHA,203995,Micić,V. Micić,10,11,1,Made,1,98,90,188,h,Micic 1' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,2,366
+0022300751,543,PT04M50.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Lost Ball Turnover (P3.T18),Turnover,Lost Ball,1,0,372
+0022300751,547,PT04M25.00S,4,1610612766,CHA,203995,Micić,V. Micić,-223,17,0,Made,1,101,92,193,h,Micic 3PT Jump Shot (16 PTS) (Bridges 5 AST),Made Shot,Jump Shot,1,3,375
+0022300751,586,PT01M28.00S,4,1610612766,CHA,203995,Micić,V. Micić,-5,17,2,Made,1,110,99,209,h,Micic 2' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,1,2,407
+0022300761,78,PT05M35.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,57
+0022300761,102,PT03M39.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,75
+0022300761,103,PT03M34.00S,1,1610612766,CHA,203995,Micić,V. Micić,26,15,3,Missed,1,,,0,h,MISS Micic 3' Running Layup,Missed Shot,Running Layup Shot,1,2,76
+0022300761,104,PT03M33.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,77
+0022300761,107,PT03M23.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic P.FOUL (P1.T4) (J.Tiven),Foul,Personal,1,0,80
+0022300761,242,PT05M47.00S,2,1610612766,CHA,203995,Micić,V. Micić,200,184,27,Missed,1,,,0,h,MISS Micic 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,175
+0022300761,257,PT04M26.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic S.FOUL (P2.PN) (I.Hwang),Foul,Shooting,1,0,188
+0022300761,264,PT04M07.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Mann FOR Micic,Substitution,,0,0,193
+0022300761,365,PT06M36.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Lost Ball Turnover (P2.T15),Turnover,Lost Ball,1,0,265
+0022300761,375,PT05M29.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,274
+0022300761,426,PT02M05.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic P.FOUL (P3.T3) (I.Hwang),Foul,Personal,1,0,308
+0022300761,565,PT01M04.00S,4,1610612766,CHA,203995,Micić,V. Micić,16,-2,2,Made,1,107,100,207,h,Micic 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,409
+0022300777,140,PT01M53.00S,1,1610612766,CHA,203995,Micić,V. Micić,13,20,2,Made,1,29,23,52,h,Micic 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,104
+0022300777,141,PT01M46.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic P.FOUL (P1.T4) (J.DeRosa),Foul,Personal,1,0,105
+0022300777,149,PT00M45.20S,1,1610612766,CHA,203995,Micić,V. Micić,103,239,26,Missed,1,,,0,h,MISS Micic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,110
+0022300777,249,PT04M46.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,183
+0022300777,250,PT04M34.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic S.FOUL (P2.T2) (D.Scott),Foul,Shooting,1,0,184
+0022300777,276,PT03M01.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Mann FOR Micic,Substitution,,0,0,204
+0022300777,392,PT05M46.00S,3,1610612766,CHA,203995,Micić,V. Micić,28,64,7,Missed,1,,,0,h,MISS Micic 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,290
+0022300777,395,PT05M37.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic P.FOUL (P3.T3) (J.DeRosa),Foul,Personal,1,0,293
+0022300777,405,PT04M58.00S,3,1610612766,CHA,203995,Micić,V. Micić,15,1,2,Missed,1,,,0,h,MISS Micic 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,301
+0022300777,434,PT02M25.00S,3,1610612766,CHA,203995,Micić,V. Micić,15,1,2,Made,1,87,78,165,h,Micic 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,320
+0022300777,444,PT01M55.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,90,78,168,h,Micic Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,328
+0022300777,445,PT01M55.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,91,78,169,h,Micic Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,329
+0022300777,568,PT06M02.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,416
+0022300777,569,PT05M57.00S,4,1610612766,CHA,203995,Micić,V. Micić,-9,1,1,Made,1,107,94,201,h,Micic 1' Running Reverse Layup (8 PTS),Made Shot,Running Reverse Layup Shot,1,2,417
+0022300777,585,PT04M58.00S,4,1610612766,CHA,203995,Micić,V. Micić,183,93,21,Missed,1,,,0,h,MISS Micic 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,430
+0022300777,591,PT04M22.00S,4,1610612766,CHA,203995,Micić,V. Micić,47,264,27,Made,1,112,95,207,h,Micic 27' 3PT Jump Shot (11 PTS) (Martin 4 AST),Made Shot,Jump Shot,1,3,435
+0022300777,610,PT03M13.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,113,95,208,h,Micic Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,447
+0022300777,611,PT03M13.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,114,95,209,h,Micic Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,448
+0022300777,613,PT02M59.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,450
+0022300777,650,PT01M02.00S,4,1610612766,CHA,203995,Micić,V. Micić,140,220,26,Missed,1,,,0,h,MISS Micic 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,476
+0022300801,95,PT04M58.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,71
+0022300801,129,PT03M07.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,18,19,37,v,Micic Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,96
+0022300801,130,PT03M07.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,18,20,38,v,Micic Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,97
+0022300801,131,PT02M56.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic S.FOUL (P1.PN) (M.Lindsay),Foul,Shooting,1,0,98
+0022300801,142,PT01M41.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic P.FOUL (P2.PN) (R.Hussey),Foul,Personal,1,0,107
+0022300801,157,PT00M43.60S,1,1610612766,CHA,203995,Micić,V. Micić,23,15,3,Made,1,24,31,55,v,Micic 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,118
+0022300801,253,PT06M06.00S,2,1610612766,CHA,203995,Micić,V. Micić,88,109,14,Missed,1,,,0,v,MISS Micic 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,184
+0022300801,254,PT06M03.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,185
+0022300801,269,PT05M15.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Traveling Turnover (P2.T7),Turnover,Traveling,1,0,197
+0022300801,274,PT04M39.00S,2,1610612766,CHA,203995,Micić,V. Micić,45,26,5,Missed,1,,,0,v,MISS Micic 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,201
+0022300801,299,PT02M59.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Curry FOR Micic,Substitution,,0,0,217
+0022300801,462,PT03M34.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,334
+0022300801,468,PT02M56.00S,3,1610612766,CHA,203995,Micić,V. Micić,-55,239,25,Missed,1,,,0,v,MISS Micic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,339
+0022300801,508,PT00M20.40S,3,1610612766,CHA,203995,Micić,V. Micić,147,103,18,Missed,1,,,0,v,MISS Micic 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,369
+0022300801,618,PT04M50.00S,4,1610612766,CHA,203995,Micić,V. Micić,-50,243,25,Missed,1,,,0,v,MISS Micic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,450
+0022300801,630,PT04M09.00S,4,1610612766,CHA,203995,Micić,V. Micić,-13,187,19,Missed,1,,,0,v,MISS Micic 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,458
+0022300801,645,PT02M32.00S,4,1610612766,CHA,203995,Micić,V. Micić,216,121,25,Missed,1,,,0,v,MISS Micic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,470
+0022300801,652,PT01M56.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic P.FOUL (P3.PN) (R.Hussey),Foul,Personal,1,0,475
+0022300801,656,PT01M36.00S,4,1610612766,CHA,203995,Micić,V. Micić,7,41,4,Missed,1,,,0,v,MISS Micic 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,478
+0022300801,676,PT00M14.30S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,MISS Micic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,494
+0022300801,678,PT00M14.30S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,MISS Micic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,496
+0022300811,118,PT03M06.00S,1,1610612766,CHA,203995,Micić,V. Micić,39,32,5,Missed,1,,,0,v,MISS Micic 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,88
+0022300811,122,PT02M50.00S,1,1610612766,CHA,203995,Micić,V. Micić,-238,25,24,Missed,1,,,0,v,MISS Micic 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,92
+0022300811,233,PT07M14.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,171
+0022300811,234,PT07M00.00S,2,1610612766,CHA,203995,Micić,V. Micić,71,259,27,Missed,1,,,0,v,MISS Micic 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,172
+0022300811,254,PT06M20.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,185
+0022300811,265,PT05M27.00S,2,1610612766,CHA,203995,Micić,V. Micić,29,57,6,Made,1,30,22,52,v,Micic 6' Driving Layup (2 PTS) (Bridges 2 AST),Made Shot,Driving Layup Shot,1,2,195
+0022300811,278,PT04M20.00S,2,1610612766,CHA,203995,Micić,V. Micić,-62,11,6,Missed,1,,,0,v,MISS Micic 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,204
+0022300811,285,PT03M55.00S,2,1610612766,CHA,203995,Micić,V. Micić,143,202,25,Made,1,36,27,63,v,Micic 25' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,3,209
+0022300811,300,PT02M24.00S,2,1610612766,CHA,203995,Micić,V. Micić,80,252,26,Missed,1,,,0,v,MISS Micic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,221
+0022300811,308,PT01M53.00S,2,1610612766,CHA,203995,Micić,V. Micić,47,26,5,Missed,1,,,0,v,MISS Micic 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,229
+0022300811,318,PT00M54.70S,2,1610612766,CHA,203995,Micić,V. Micić,-42,28,5,Missed,1,,,0,v,MISS Micic 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,238
+0022300811,321,PT00M48.60S,2,1610612766,CHA,203995,Micić,V. Micić,225,-5,0,Missed,1,,,0,v,MISS Micic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,241
+0022300811,411,PT05M41.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,301
+0022300811,424,PT04M44.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Bad Pass Turnover (P2.T17),Turnover,Bad Pass,1,0,312
+0022300811,474,PT01M26.00S,3,1610612766,CHA,203995,Micić,V. Micić,179,200,27,Missed,1,,,0,v,MISS Micic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,348
+0022300811,476,PT01M12.00S,3,1610612766,CHA,203995,Micić,V. Micić,-6,250,25,Made,1,66,52,118,v,Micic 25' 3PT Jump Shot (8 PTS) (Bridges 3 AST),Made Shot,Jump Shot,1,3,350
+0022300811,591,PT04M55.00S,4,1610612766,CHA,203995,Micić,V. Micić,59,40,7,Made,1,86,71,157,v,Micic 7' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,428
+0022300811,602,PT04M19.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Mann FOR Micic,Substitution,,0,0,438
+0022300826,83,PT04M36.00S,1,1610612766,CHA,203995,Micić,V. Micić,91,137,16,Made,1,15,17,32,v,Micic 16' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,65
+0022300826,103,PT03M01.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,81
+0022300826,173,PT09M57.00S,2,1610612766,CHA,203995,Micić,V. Micić,20,12,2,Made,1,22,30,52,v,Micic 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,132
+0022300826,177,PT09M29.00S,2,1610612766,CHA,203995,Micić,V. Micić,21,12,2,Made,1,22,32,54,v,Micic 2' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,136
+0022300826,188,PT08M23.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: McGowens FOR Micic,Substitution,,0,0,145
+0022300826,290,PT01M19.00S,2,1610612766,CHA,203995,Micić,V. Micić,-157,214,27,Missed,1,,,0,v,MISS Micic 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,223
+0022300826,412,PT03M28.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic S.FOUL (P1.T3) (J.Capers),Foul,Shooting,1,0,309
+0022300826,419,PT03M06.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic STEAL (1 STL),,,1,0,316
+0022300826,448,PT00M51.50S,3,1610612766,CHA,203995,Micić,V. Micić,1,9,1,Made,1,59,69,128,v,Micic 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,338
+0022300826,457,PT00M04.60S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Martin FOR Micic,Substitution,,0,0,345
+0022300826,480,PT10M50.00S,4,1610612766,CHA,203995,Micić,V. Micić,165,236,29,Made,1,63,73,136,v,Micic 29' 3PT Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,3,356
+0022300826,503,PT09M36.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Martin FOR Micic,Substitution,,0,0,374
+0022300826,569,PT04M21.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic STEAL (2 STL),,,1,0,426
+0022300826,612,PT01M16.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,454
+0022300840,76,PT04M58.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,59
+0022300840,96,PT03M25.00S,1,1610612766,CHA,203995,Micić,V. Micić,-96,192,21,Missed,1,,,0,v,MISS Micic 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,73
+0022300840,225,PT04M59.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic P.FOUL (P1.T2) (N.Buchert),Foul,Personal,1,0,172
+0022300840,229,PT04M28.00S,2,1610612766,CHA,203995,Micić,V. Micić,-39,272,27,Missed,1,,,0,v,MISS Micic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,175
+0022300840,370,PT05M10.00S,3,1610612766,CHA,203995,Micić,V. Micić,86,243,26,Missed,1,,,0,v,MISS Micic 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,279
+0022300840,389,PT03M48.00S,3,1610612766,CHA,203995,Micić,V. Micić,10,16,2,Made,1,84,41,125,v,Micic 2' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,293
+0022300840,408,PT02M19.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,308
+0022300849,86,PT05M16.00S,1,1610612766,CHA,203995,Micić,V. Micić,108,243,27,Missed,1,,,0,h,MISS Micic 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,66
+0022300849,89,PT05M01.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,69
+0022300849,162,PT00M34.50S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,117
+0022300849,159,PT00M01.50S,1,1610612766,CHA,203995,Micić,V. Micić,-151,233,28,Missed,1,,,0,h,MISS Micic 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,120
+0022300849,273,PT04M11.00S,2,1610612766,CHA,203995,Micić,V. Micić,81,253,27,Missed,1,,,0,h,MISS Micic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,192
+0022300849,281,PT03M18.00S,2,1610612766,CHA,203995,Micić,V. Micić,10,20,2,Made,1,47,59,106,h,Micic 2' Driving Layup (2 PTS) (Williams 2 AST),Made Shot,Driving Layup Shot,1,2,197
+0022300849,297,PT02M12.00S,2,1610612766,CHA,203995,Micić,V. Micić,202,162,26,Missed,1,,,0,h,MISS Micic 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,208
+0022300858,101,PT03M42.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,72
+0022300858,118,PT02M23.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic STEAL (1 STL),,,1,0,85
+0022300858,139,PT00M41.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,27,24,51,v,Micic Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,99
+0022300858,140,PT00M41.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,27,25,52,v,Micic Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,100
+0022300858,163,PT11M11.00S,2,1610612766,CHA,203995,Micić,V. Micić,10,6,1,Made,1,32,31,63,v,Micic 1' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,112
+0022300858,194,PT08M34.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Mann FOR Micic,Substitution,,0,0,134
+0022300858,237,PT05M38.00S,2,1610612766,CHA,203995,Micić,V. Micić,-9,99,10,Missed,1,,,0,v,MISS Micic 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,163
+0022300858,259,PT04M10.00S,2,1610612766,CHA,203995,Micić,V. Micić,43,6,4,Missed,1,,,0,v,MISS Micic 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,178
+0022300858,273,PT02M42.00S,2,1610612766,CHA,203995,Micić,V. Micić,93,68,12,Made,1,53,59,112,v,Micic 12' Turnaround Bank Shot (6 PTS),Made Shot,Turnaround Bank shot,1,2,189
+0022300858,274,PT02M33.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic STEAL (2 STL),,,1,0,191
+0022300858,278,PT02M11.00S,2,1610612766,CHA,203995,Micić,V. Micić,-170,188,25,Missed,1,,,0,v,MISS Micic 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,194
+0022300858,283,PT01M48.00S,2,1610612766,CHA,203995,Micić,V. Micić,-15,46,5,Missed,1,,,0,v,MISS Micic 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,198
+0022300858,288,PT01M06.00S,2,1610612766,CHA,203995,Micić,V. Micić,-20,10,2,Missed,1,,,0,v,MISS Micic 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,202
+0022300858,385,PT04M29.00S,3,1610612766,CHA,203995,Micić,V. Micić,29,277,28,Made,1,79,81,160,v,Micic 28' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,3,272
+0022300858,429,PT00M39.20S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Lost Ball Turnover (P2.T5),Turnover,Lost Ball,1,0,307
+0022300858,463,PT11M29.00S,4,1610612766,CHA,203995,Micić,V. Micić,5,15,2,Made,1,90,86,176,v,Micic 2' Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,324
+0022300858,476,PT10M09.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Martin FOR Micic,Substitution,,0,0,334
+0022300858,572,PT03M25.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,112,105,217,v,Micic Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,401
+0022300858,573,PT03M25.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,112,106,218,v,Micic Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,402
+0022300875,31,PT08M54.00S,1,1610612766,CHA,203995,Micić,V. Micić,-33,15,4,Missed,1,,,0,v,MISS Micic 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,20
+0022300875,52,PT06M57.00S,1,1610612766,CHA,203995,Micić,V. Micić,-214,130,25,Missed,1,,,0,v,MISS Micic 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,38
+0022300875,63,PT06M02.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Bolden FOR Micic,Substitution,,0,0,48
+0022300875,155,PT11M42.00S,2,1610612766,CHA,203995,Micić,V. Micić,-7,4,1,Made,1,27,31,58,v,Micic 1' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,115
+0022300875,178,PT09M51.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,136
+0022300875,189,PT08M52.00S,2,1610612766,CHA,203995,Micić,V. Micić,17,23,3,Missed,1,,,0,v,MISS Micic 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,145
+0022300875,205,PT08M07.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Mann FOR Micic,Substitution,,0,0,155
+0022300875,274,PT02M24.00S,2,1610612766,CHA,203995,Micić,V. Micić,17,10,2,Missed,1,,,0,v,MISS Micic 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,202
+0022300875,292,PT01M37.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,MISS Micic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,215
+0022300875,294,PT01M37.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,48,48,96,v,Micic Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,217
+0022300875,308,PT00M03.10S,2,1610612766,CHA,203995,Micić,V. Micić,-138,218,26,Missed,1,,,0,v,MISS Micic 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,230
+0022300875,316,PT11M46.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Out of Bounds - Bad Pass Turnover Turnover (P1.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,236
+0022300875,318,PT11M29.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,238
+0022300875,345,PT09M40.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic S.FOUL (P1.T2) (N.Sago),Foul,Shooting,1,0,264
+0022300875,358,PT08M40.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Lost Ball Turnover (P2.T12),Turnover,Lost Ball,1,0,275
+0022300875,376,PT06M57.00S,3,1610612766,CHA,203995,Micić,V. Micić,20,42,5,Made,1,60,57,117,v,Micic 5' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,290
+0022300875,379,PT06M57.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,60,58,118,v,Micic Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,292
+0022300875,413,PT03M59.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Bolden FOR Micic,Substitution,,0,0,315
+0022300875,465,PT00M52.30S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic STEAL (1 STL),,,1,0,350
+0022300875,509,PT08M58.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Out of Bounds - Bad Pass Turnover Turnover (P3.T16),Turnover,Out of Bounds - Bad Pass Turnover,1,0,379
+0022300875,512,PT08M36.00S,4,1610612766,CHA,203995,Micić,V. Micić,54,11,6,Made,1,95,83,178,v,Micic 6' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,382
+0022300875,523,PT08M08.00S,4,1610612766,CHA,203995,Micić,V. Micić,-112,135,18,Missed,1,,,0,v,MISS Micic 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,390
+0022300875,525,PT08M01.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic STEAL (2 STL),,,1,0,393
+0022300875,527,PT07M55.00S,4,1610612766,CHA,203995,Micić,V. Micić,6,6,1,Made,1,95,85,180,v,Micic 1' Running Layup (10 PTS),Made Shot,Running Layup Shot,1,2,394
+0022300875,549,PT06M05.00S,4,1610612766,CHA,203995,Micić,V. Micić,1,-4,0,Made,1,97,89,186,v,Micic Running Finger Roll Layup (12 PTS) (Bridges 4 AST),Made Shot,Running Finger Roll Layup Shot,1,2,412
+0022300875,558,PT05M17.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Mann FOR Micic,Substitution,,0,0,418
+0022300875,601,PT02M33.00S,4,1610612766,CHA,203995,Micić,V. Micić,-25,29,4,Missed,1,,,0,v,MISS Micic 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,446
+0022300875,610,PT01M27.00S,4,1610612766,CHA,203995,Micić,V. Micić,31,8,3,Missed,1,,,0,v,MISS Micic 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,455
+0022300875,646,PT00M07.30S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Lost Ball Turnover (P4.T17),Turnover,Lost Ball,1,0,484
+0022300885,12,PT11M10.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,8
+0022300885,13,PT11M06.00S,1,1610612766,CHA,203995,Micić,V. Micić,18,81,8,Made,1,2,0,2,h,Micic 8' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,9
+0022300885,16,PT10M25.00S,1,1610612766,CHA,203995,Micić,V. Micić,20,160,16,Made,1,4,2,6,h,Micic 16' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,11
+0022300885,18,PT10M05.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic OFF.Foul (P1) (B.Forte),Foul,Offensive,1,0,13
+0022300885,20,PT10M05.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,0,14
+0022300885,27,PT09M17.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Bad Pass Turnover (P2.T2),Turnover,Bad Pass,1,0,19
+0022300885,48,PT06M52.00S,1,1610612766,CHA,203995,Micić,V. Micić,205,158,26,Missed,1,,,0,h,MISS Micic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,36
+0022300885,57,PT06M22.00S,1,1610612766,CHA,203995,Micić,V. Micić,10,8,1,Made,1,12,6,18,h,Micic 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,41
+0022300885,60,PT06M22.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,13,6,19,h,Micic Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,43
+0022300885,67,PT05M38.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: McGowens FOR Micic,Substitution,,0,0,49
+0022300885,156,PT10M49.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,108
+0022300885,160,PT10M24.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,111
+0022300885,161,PT10M08.00S,2,1610612766,CHA,203995,Micić,V. Micić,193,109,22,Missed,1,,,0,h,MISS Micic 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,112
+0022300885,168,PT09M04.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0,117
+0022300885,175,PT08M28.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic STEAL (1 STL),,,1,0,125
+0022300885,182,PT07M50.00S,2,1610612766,CHA,203995,Micić,V. Micić,131,227,26,Made,1,28,32,60,h,Micic 26' 3PT Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,1,3,129
+0022300885,188,PT07M02.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: McGowens FOR Micic,Substitution,,0,0,135
+0022300885,249,PT02M40.00S,2,1610612766,CHA,203995,Micić,V. Micić,-142,221,26,Missed,1,,,0,h,MISS Micic 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,176
+0022300885,275,PT01M09.00S,2,1610612766,CHA,203995,Micić,V. Micić,48,164,17,Made,1,40,43,83,h,Micic 17' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,2,194
+0022300885,300,PT11M45.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic STEAL (2 STL),,,1,0,209
+0022300885,304,PT11M01.00S,3,1610612766,CHA,203995,Micić,V. Micić,20,46,5,Missed,1,,,0,h,MISS Micic 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,212
+0022300885,305,PT10M59.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,213
+0022300885,316,PT10M15.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,46,50,96,h,Micic Free Throw Flagrant 1 of 3 (13 PTS),Free Throw,Free Throw Flagrant 1 of 3,1,0,222
+0022300885,317,PT10M15.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,47,50,97,h,Micic Free Throw Flagrant 2 of 3 (14 PTS),Free Throw,Free Throw Flagrant 2 of 3,1,0,223
+0022300885,318,PT10M15.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,48,50,98,h,Micic Free Throw Flagrant 3 of 3 (15 PTS),Free Throw,Free Throw Flagrant 3 of 3,1,0,224
+0022300885,354,PT05M44.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic S.FOUL (P2.T2) (B.Nansel),Foul,Shooting,1,0,254
+0022300885,358,PT05M44.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Williams FOR Micic,Substitution,,0,0,257
+0022300885,437,PT00M04.90S,3,1610612766,CHA,203995,Micić,V. Micić,-44,14,5,Missed,1,,,0,h,MISS Micic 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,315
+0022300885,453,PT11M40.00S,4,1610612766,CHA,203995,Micić,V. Micić,104,116,16,Made,1,68,75,143,h,Micic 16' Pullup Jump Shot (17 PTS) (Williams 2 AST),Made Shot,Pullup Jump shot,1,2,321
+0022300885,457,PT11M08.00S,4,1610612766,CHA,203995,Micić,V. Micić,-25,3,3,Made,1,70,75,145,h,Micic 3' Driving Layup (19 PTS) (Miller 3 AST),Made Shot,Driving Layup Shot,1,2,324
+0022300885,463,PT09M53.00S,4,1610612766,CHA,203995,Micić,V. Micić,7,13,1,Made,1,74,80,154,h,Micic 1' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,1,2,328
+0022300885,469,PT09M19.00S,4,1610612766,CHA,203995,Micić,V. Micić,62,80,10,Missed,1,,,0,h,MISS Micic 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,332
+0022300885,472,PT09M07.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,335
+0022300885,480,PT08M19.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Lost Ball Turnover (P4.T17),Turnover,Lost Ball,1,0,341
+0022300885,502,PT06M40.00S,4,1610612766,CHA,203995,Micić,V. Micić,32,252,25,Missed,1,,,0,h,MISS Micic 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,356
+0022300885,513,PT05M49.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Bertans FOR Micic,Substitution,,0,0,365
+0022300910,10,PT11M16.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+0022300910,11,PT11M12.00S,1,1610612766,CHA,203995,Micić,V. Micić,-185,199,27,Missed,1,,,0,v,MISS Micic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,7
+0022300910,35,PT08M30.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,24
+0022300910,40,PT08M15.00S,1,1610612766,CHA,203995,Micić,V. Micić,-17,199,20,Made,1,13,6,19,v,Micic 20' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,28
+0022300910,81,PT05M00.00S,1,1610612766,CHA,203995,Micić,V. Micić,-28,248,25,Missed,1,,,0,v,MISS Micic 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,60
+0022300910,91,PT04M28.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Bertans FOR Micic,Substitution,,0,0,69
+0022300910,216,PT07M47.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,164
+0022300910,220,PT07M15.00S,2,1610612766,CHA,203995,Micić,V. Micić,210,131,25,Missed,1,,,0,v,MISS Micic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,168
+0022300910,294,PT02M01.00S,2,1610612766,CHA,203995,Micić,V. Micić,-70,-24,7,Missed,1,,,0,v,MISS Micic 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,225
+0022300910,297,PT01M55.00S,2,1610612766,CHA,203995,Micić,V. Micić,-59,-19,6,Made,1,43,38,81,v,Micic 6' Layup (4 PTS) (Williams 1 AST),Made Shot,Layup Shot,1,2,228
+0022300910,303,PT01M45.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,45,39,84,v,Micic Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,232
+0022300910,304,PT01M45.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,45,40,85,v,Micic Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,233
+0022300910,320,PT01M01.00S,2,1610612766,CHA,203995,Micić,V. Micić,16,-1,2,Made,1,47,43,90,v,Micic 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,244
+0022300910,344,PT11M22.00S,3,1610612766,CHA,203995,Micić,V. Micić,-89,251,27,Missed,1,,,0,v,MISS Micic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,259
+0022300910,395,PT06M32.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic P.FOUL (P1.T2) (S.Mehta),Foul,Personal,1,0,304
+0022300910,400,PT06M14.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,308
+0022300910,401,PT06M06.00S,3,1610612766,CHA,203995,Micić,V. Micić,21,75,8,Made,1,56,59,115,v,Micic 8' Floating Jump Shot (10 PTS),Made Shot,Floating Jump shot,1,2,309
+0022300910,412,PT05M12.00S,3,1610612766,CHA,203995,Micić,V. Micić,65,132,15,Missed,1,,,0,v,MISS Micic 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,317
+0022300910,428,PT04M19.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,328
+0022300910,431,PT04M15.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Micic,Substitution,,0,0,330
+0022300910,556,PT07M18.00S,4,1610612766,CHA,203995,Micić,V. Micić,89,67,11,Made,1,81,82,163,v,Micic 11' Driving Floating Bank Jump Shot (12 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,411
+0022300910,576,PT04M59.00S,4,1610612766,CHA,203995,Micić,V. Micić,-169,216,27,Missed,1,,,0,v,MISS Micic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,427
+0022300910,589,PT03M56.00S,4,1610612766,CHA,203995,Micić,V. Micić,51,117,13,Missed,1,,,0,v,MISS Micic 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,437
+0022300910,607,PT02M31.00S,4,1610612766,CHA,203995,Micić,V. Micić,-2,20,2,Made,1,100,92,192,v,Micic 2' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,2,452
+0022300910,638,PT00M40.60S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Bad Pass Turnover (P3.T7),Turnover,Bad Pass,1,0,474
+0022300918,15,PT10M09.00S,1,1610612766,CHA,203995,Micić,V. Micić,13,12,2,Missed,1,,,0,h,MISS Micic 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,11
+0022300918,37,PT08M02.00S,1,1610612766,CHA,203995,Micić,V. Micić,-49,264,27,Missed,1,,,0,h,MISS Micic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,25
+0022300918,76,PT04M55.00S,1,1610612766,CHA,203995,Micić,V. Micić,7,13,1,Made,1,15,23,38,h,Micic 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,55
+0022300918,79,PT04M55.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,16,23,39,h,Micic Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,57
+0022300918,82,PT04M26.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,59
+0022300918,86,PT04M16.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Bertans FOR Micic,Substitution,,0,0,63
+0022300918,211,PT07M35.00S,2,1610612766,CHA,203995,Micić,V. Micić,164,206,26,Made,1,42,41,83,h,Micic 26' 3PT Running Jump Shot (6 PTS) (Bertans 3 AST),Made Shot,Running Jump Shot,1,3,150
+0022300918,231,PT05M58.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Palming Turnover (P2.T6),Turnover,Palming Turnover,1,0,161
+0022300918,244,PT05M07.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,12,1,Made,1,50,48,98,h,Micic 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,173
+0022300918,261,PT03M27.00S,2,1610612766,CHA,203995,Micić,V. Micić,-134,220,26,Missed,1,,,0,h,MISS Micic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,186
+0022300918,273,PT02M38.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,196
+0022300918,277,PT02M07.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,199
+0022300918,278,PT01M54.00S,2,1610612766,CHA,203995,Micić,V. Micić,11,28,3,Made,1,59,52,111,h,Micic 3' Driving Layup (10 PTS) (Bridges 2 AST),Made Shot,Driving Layup Shot,1,2,200
+0022300918,329,PT09M27.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Out of Bounds - Bad Pass Turnover Turnover (P3.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,238
+0022300918,330,PT09M16.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic P.FOUL (P1.T2) (P.Fraher),Foul,Personal,1,0,239
+0022300918,342,PT08M08.00S,3,1610612766,CHA,203995,Micić,V. Micić,-1,10,1,Made,1,70,61,131,h,Micic 1' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,248
+0022300918,352,PT07M03.00S,3,1610612766,CHA,203995,Micić,V. Micić,-4,17,2,Missed,1,,,0,h,MISS Micic 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,255
+0022300918,364,PT06M45.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Bad Pass Turnover (P4.T12),Turnover,Bad Pass,1,0,264
+0022300918,368,PT06M24.00S,3,1610612766,CHA,203995,Micić,V. Micić,40,19,4,Missed,1,,,0,h,MISS Micic 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,267
+0022300918,401,PT04M09.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,292
+0022300918,409,PT03M36.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Micic,Substitution,,0,0,300
+0022300918,538,PT06M54.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,390
+0022300918,547,PT06M11.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Out of Bounds - Bad Pass Turnover Turnover (P5.T17),Turnover,Out of Bounds - Bad Pass Turnover,1,0,397
+0022300918,550,PT05M34.00S,4,1610612766,CHA,203995,Micić,V. Micić,-2,-8,1,Missed,1,,,0,h,MISS Micic 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,400
+0022300918,551,PT05M32.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,401
+0022300918,589,PT03M28.00S,4,1610612766,CHA,203995,Micić,V. Micić,-81,234,25,Missed,1,,,0,h,MISS Micic 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,430
+0022300918,595,PT02M40.00S,4,1610612766,CHA,203995,Micić,V. Micić,219,93,24,Missed,1,,,0,h,MISS Micic 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,435
+0022300933,14,PT10M45.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic STEAL (1 STL),,,1,0,10
+0022300933,27,PT09M52.00S,1,1610612766,CHA,203995,Micić,V. Micić,-44,116,12,Missed,1,,,0,v,MISS Micic 12' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,20
+0022300933,39,PT09M01.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,31
+0022300933,50,PT07M50.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic S.FOUL (P1.T3) (R.Acosta),Foul,Shooting,1,0,39
+0022300933,84,PT04M29.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,64
+0022300933,95,PT04M00.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Bertans FOR Micic,Substitution,,0,0,73
+0022300933,202,PT08M07.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,147
+0022300933,229,PT05M46.00S,2,1610612766,CHA,203995,Micić,V. Micić,130,212,25,Made,1,48,36,84,v,Micic 25' 3PT Jump Shot (3 PTS) (Richards 2 AST),Made Shot,Jump Shot,1,3,167
+0022300933,248,PT04M25.00S,2,1610612766,CHA,203995,Micić,V. Micić,43,253,26,Made,1,48,41,89,v,Micic 26' 3PT Pullup Jump Shot (6 PTS) (Pokusevski 1 AST),Made Shot,Pullup Jump shot,1,3,181
+0022300933,267,PT02M55.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,196
+0022300933,277,PT01M37.00S,2,1610612766,CHA,203995,Micić,V. Micić,140,210,25,Missed,1,,,0,v,MISS Micic 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,204
+0022300933,295,PT00M15.30S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,218
+0022300933,377,PT04M50.00S,3,1610612766,CHA,203995,Micić,V. Micić,25,119,12,Missed,1,,,0,v,MISS Micic 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,281
+0022300933,395,PT03M33.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Bertans FOR Micic,Substitution,,0,0,296
+0022300933,528,PT07M29.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,392
+0022300933,529,PT07M21.00S,4,1610612766,CHA,203995,Micić,V. Micić,50,264,27,Made,1,94,83,177,v,Micic 27' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,3,393
+0022300933,567,PT04M38.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic S.FOUL (P2.T2) (M.Myers),Foul,Shooting,1,0,419
+0022300933,595,PT03M45.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,104,94,198,v,Micic Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,436
+0022300933,597,PT03M45.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,104,95,199,v,Micic Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,437
+0022300933,602,PT03M01.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic S.FOUL (P3.T3) (M.Myers),Foul,Shooting,1,0,442
+0022300933,618,PT01M45.00S,4,1610612766,CHA,203995,Micić,V. Micić,-69,243,25,Missed,1,,,0,v,MISS Micic 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,455
+0022300933,635,PT00M48.50S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,469
+0022300950,8,PT11M21.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic STEAL (1 STL),,,1,0,5
+0022300950,10,PT11M17.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,6
+0022300950,17,PT10M47.00S,1,1610612766,CHA,203995,Micić,V. Micić,23,90,9,Made,1,0,4,4,v,Micic 9' Turnaround Jump Shot (2 PTS) (Richards 1 AST),Made Shot,Turnaround Jump Shot,1,2,12
+0022300950,20,PT10M03.00S,1,1610612766,CHA,203995,Micić,V. Micić,237,26,24,Missed,1,,,0,v,MISS Micic 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,14
+0022300950,41,PT08M37.00S,1,1610612766,CHA,203995,Micić,V. Micić,23,16,3,Made,1,6,11,17,v,Micic 3' Running Finger Roll Layup (4 PTS) (Bridges 2 AST),Made Shot,Running Finger Roll Layup Shot,1,2,31
+0022300950,45,PT08M13.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic STEAL (2 STL),,,1,0,35
+0022300950,62,PT06M25.00S,1,1610612766,CHA,203995,Micić,V. Micić,28,19,3,Made,1,11,16,27,v,Micic 3' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,46
+0022300950,97,PT03M11.00S,1,1610612766,CHA,203995,Micić,V. Micić,194,185,27,Made,1,15,24,39,v,Micic 27' 3PT Jump Shot (9 PTS) (Pokusevski 1 AST),Made Shot,Jump Shot,1,3,72
+0022300950,113,PT02M22.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Mann FOR Micic,Substitution,,0,0,82
+0022300950,225,PT05M28.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0,175
+0022300950,231,PT04M46.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic P.FOUL (P1.T1) (B.Barnaky),Foul,Personal,1,0,179
+0022300950,268,PT02M09.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic S.FOUL (P2.T2) (K.Lane),Foul,Shooting,1,0,204
+0022300950,271,PT02M09.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Mann FOR Micic,Substitution,,0,0,206
+0022300950,320,PT10M14.00S,3,1610612766,CHA,203995,Micić,V. Micić,152,207,26,Made,1,53,61,114,v,Micic 26' 3PT Jump Shot (12 PTS) (Miller 2 AST),Made Shot,Jump Shot,1,3,239
+0022300950,326,PT09M32.00S,3,1610612766,CHA,203995,Micić,V. Micić,12,21,2,Made,1,55,63,118,v,Micic 2' Driving Finger Roll Layup (14 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,242
+0022300950,333,PT08M55.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Pokusevski FOR Micic,Substitution,,0,0,247
+0022300950,383,PT05M32.00S,3,1610612766,CHA,203995,Micić,V. Micić,-237,32,24,Made,1,63,70,133,v,Micic 24' 3PT Jump Shot (17 PTS) (Pokusevski 3 AST),Made Shot,Jump Shot,1,3,283
+0022300950,407,PT03M36.00S,3,1610612766,CHA,203995,Micić,V. Micić,-192,194,27,Made,1,70,77,147,v,Micic 27' 3PT Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,1,3,300
+0022300950,418,PT02M27.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Bertans FOR Micic,Substitution,,0,0,310
+0022300950,551,PT06M10.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,83,91,174,v,Micic Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,406
+0022300950,552,PT06M10.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,83,92,175,v,Micic Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,407
+0022300950,555,PT05M36.00S,4,1610612766,CHA,203995,Micić,V. Micić,-5,268,27,Made,1,86,95,181,v,Micic 27' 3PT Pullup Jump Shot (25 PTS),Made Shot,Pullup Jump shot,1,3,409
+0022300961,56,PT07M45.00S,1,1610612766,CHA,203995,Micić,V. Micić,211,153,26,Missed,1,,,0,h,MISS Micic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,43
+0022300961,78,PT06M05.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,12,10,22,h,Micic Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,59
+0022300961,79,PT06M05.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,13,10,23,h,Micic Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,60
+0022300961,82,PT05M37.00S,1,1610612766,CHA,203995,Micić,V. Micić,-18,23,3,Made,1,15,10,25,h,Micic 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,63
+0022300961,103,PT03M33.00S,1,1610612766,CHA,203995,Micić,V. Micić,-18,23,3,Missed,1,,,0,h,MISS Micic 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,81
+0022300961,116,PT02M41.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Mann FOR Micic,Substitution,,0,0,91
+0022300961,226,PT06M18.00S,2,1610612766,CHA,203995,Micić,V. Micić,151,221,27,Missed,1,,,0,h,MISS Micic 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,166
+0022300961,232,PT05M48.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,33,41,74,h,Micic Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,171
+0022300961,239,PT05M48.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,MISS Micic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,175
+0022300961,273,PT03M29.00S,2,1610612766,CHA,203995,Micić,V. Micić,10,15,2,Made,1,38,48,86,h,Micic 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,202
+0022300961,292,PT01M46.00S,2,1610612766,CHA,203995,Micić,V. Micić,11,22,2,Made,1,40,48,88,h,Micic 2' Driving Layup (9 PTS) (Bridges 2 AST),Made Shot,Driving Layup Shot,1,2,217
+0022300961,303,PT00M41.90S,2,1610612766,CHA,203995,Micić,V. Micić,-1,21,2,Made,1,44,51,95,h,Micic 2' Running Layup (11 PTS) (Mann 6 AST),Made Shot,Running Layup Shot,1,2,226
+0022300961,307,PT00M41.90S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,MISS Micic Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,228
+0022300961,336,PT10M51.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic BLOCK (1 BLK),,,1,2,247
+0022300961,340,PT10M32.00S,3,1610612766,CHA,203995,Micić,V. Micić,-21,-5,2,Made,1,50,56,106,h,Micic 2' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,2,250
+0022300961,341,PT10M26.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic P.FOUL (P1.T1) (G.Petraitis),Foul,Personal,1,0,251
+0022300961,345,PT10M00.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,253
+0022300961,349,PT09M39.00S,3,1610612766,CHA,203995,Micić,V. Micić,110,69,13,Made,1,52,60,112,h,Micic 13' Driving Floating Bank Jump Shot (15 PTS) (Mann 7 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,256
+0022300961,378,PT06M38.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,55,70,125,h,Micic Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,280
+0022300961,379,PT06M38.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,56,70,126,h,Micic Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,281
+0022300961,395,PT05M16.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,59,75,134,h,Micic Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,292
+0022300961,398,PT05M16.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,60,75,135,h,Micic Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,294
+0022300961,401,PT04M39.00S,3,1610612766,CHA,203995,Micić,V. Micić,-11,152,15,Made,1,62,75,137,h,Micic 15' Pullup Jump Shot (21 PTS) (Williams 1 AST),Made Shot,Pullup Jump shot,1,2,297
+0022300961,430,PT02M45.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Bertans FOR Micic,Substitution,,0,0,314
+0022300961,570,PT05M46.00S,4,1610612766,CHA,203995,Micić,V. Micić,5,24,2,Missed,1,,,0,h,MISS Micic 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,415
+0022300961,575,PT05M38.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,419
+0022300961,615,PT01M35.00S,4,1610612766,CHA,203995,Micić,V. Micić,53,140,15,Missed,1,,,0,h,MISS Micic 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,450
+0022300961,620,PT01M29.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Bailey FOR Micic,Substitution,,0,0,455
+0022300969,11,PT11M12.00S,1,1610612766,CHA,203995,Micić,V. Micić,-179,197,27,Made,1,0,3,3,v,Micic 27' 3PT Jump Shot (3 PTS) (Mann 1 AST),Made Shot,Jump Shot,1,3,6
+0022300969,50,PT07M31.00S,1,1610612766,CHA,203995,Micić,V. Micić,-32,69,8,Missed,1,,,0,v,MISS Micic 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,38
+0022300969,65,PT05M38.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic STEAL (1 STL),,,1,0,52
+0022300969,95,PT03M40.00S,1,1610612766,CHA,203995,Micić,V. Micić,33,116,12,Missed,1,,,0,v,MISS Micic 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,70
+0022300969,108,PT02M47.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Mann FOR Micic,Substitution,,0,0,81
+0022300969,258,PT04M39.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Out of Bounds Lost Ball Turnover (P1.T7),Turnover,Out of Bounds Lost Ball Turnover,1,0,185
+0022300969,270,PT03M36.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,194
+0022300969,278,PT02M58.00S,2,1610612766,CHA,203995,Micić,V. Micić,-176,190,26,Missed,1,,,0,v,MISS Micic 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,201
+0022300969,300,PT02M26.00S,2,1610612766,CHA,203995,Micić,V. Micić,-158,231,28,Missed,1,,,0,v,MISS Micic 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,213
+0022300969,336,PT11M46.00S,3,1610612766,CHA,203995,Micić,V. Micić,18,167,17,Made,1,53,49,102,v,Micic 17' Pullup Jump Shot (5 PTS) (Bridges 3 AST),Made Shot,Pullup Jump shot,1,2,237
+0022300969,340,PT11M13.00S,3,1610612766,CHA,203995,Micić,V. Micić,-11,16,2,Missed,1,,,0,v,MISS Micic 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,239
+0022300969,350,PT10M32.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,249
+0022300969,357,PT10M05.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,255
+0022300969,377,PT08M13.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,0,269
+0022300969,403,PT06M11.00S,3,1610612766,CHA,203995,Micić,V. Micić,-6,22,2,Missed,1,,,0,v,MISS Micic 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,288
+0022300969,439,PT03M40.00S,3,1610612766,CHA,203995,Micić,V. Micić,20,11,2,Made,1,68,64,132,v,Micic 2' Finger Roll Layup (7 PTS),Made Shot,Finger Roll Layup Shot,1,2,314
+0022300969,442,PT03M20.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Bad Pass Turnover (P4.T13),Turnover,Bad Pass,1,0,317
+0022300969,459,PT01M35.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Mann FOR Micic,Substitution,,0,0,329
+0022300969,551,PT06M14.00S,4,1610612766,CHA,203995,Micić,V. Micić,13,17,2,Made,1,88,86,174,v,Micic 2' Driving Layup (9 PTS) (Pokusevski 2 AST),Made Shot,Driving Layup Shot,1,2,390
+0022300969,594,PT04M04.00S,4,1610612766,CHA,203995,Micić,V. Micić,-72,206,22,Made,1,93,91,184,v,Micic 22' Pullup Jump Shot (11 PTS) (Williams 1 AST),Made Shot,Pullup Jump shot,1,2,421
+0022300969,601,PT03M08.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Violation:Kicked Ball (S.Wall),Violation,Kicked Ball,0,0,426
+0022300969,604,PT02M41.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Out of Bounds - Bad Pass Turnover Turnover (P5.T15),Turnover,Out of Bounds - Bad Pass Turnover,1,0,428
+0022300969,612,PT02M24.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic BLOCK (1 BLK),,,1,2,435
+0022300969,624,PT01M44.00S,4,1610612766,CHA,203995,Micić,V. Micić,-105,238,26,Missed,1,,,0,v,MISS Micic 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,444
+0022300969,630,PT01M10.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Personal Take Foul (P1.PN) (S.Corbin),Foul,Personal Take,1,0,449
+0022300991,8,PT11M16.00S,1,1610612766,CHA,203995,Micić,V. Micić,-27,136,14,Made,1,2,2,4,v,Micic 14' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,4
+0022300991,10,PT10M31.00S,1,1610612766,CHA,203995,Micić,V. Micić,-179,139,23,Made,1,2,4,6,v,Micic 23' Jump Shot (4 PTS) (Miller 1 AST),Made Shot,Jump Shot,1,2,6
+0022300991,12,PT10M18.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic P.FOUL (P1.T1) (J.Williams),Foul,Personal,1,0,7
+0022300991,15,PT09M44.00S,1,1610612766,CHA,203995,Micić,V. Micić,-100,235,26,Missed,1,,,0,v,MISS Micic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,9
+0022300991,23,PT08M30.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,1,0,16
+0022300991,32,PT07M39.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,6,5,11,v,Micic Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,23
+0022300991,33,PT07M39.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,6,6,12,v,Micic Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,24
+0022300991,77,PT04M24.00S,1,1610612766,CHA,203995,Micić,V. Micić,-49,140,15,Missed,1,,,0,v,MISS Micic 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,56
+0022300991,99,PT02M51.00S,1,1610612766,CHA,203995,Micić,V. Micić,4,25,3,Made,1,18,13,31,v,Micic 3' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,70
+0022300991,108,PT02M02.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Bertans FOR Micic,Substitution,,0,0,77
+0022300991,188,PT08M07.00S,2,1610612766,CHA,203995,Micić,V. Micić,17,10,2,Made,1,39,21,60,v,Micic 2' Driving Floating Bank Jump Shot (10 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,134
+0022300991,189,PT07M46.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic STEAL (1 STL),,,1,0,136
+0022300991,210,PT07M15.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Lost Ball Turnover (P2.T6),Turnover,Lost Ball,1,0,140
+0022300991,216,PT06M22.00S,2,1610612766,CHA,203995,Micić,V. Micić,86,100,13,Made,1,47,23,70,v,Micic 13' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,2,152
+0022300991,284,PT01M33.00S,2,1610612766,CHA,203995,Micić,V. Micić,62,246,25,Made,1,67,29,96,v,Micic 25' 3PT Pullup Jump Shot (15 PTS) (Richards 2 AST),Made Shot,Pullup Jump shot,1,3,200
+0022300991,298,PT00M00.30S,2,1610612766,CHA,203995,Micić,V. Micić,110,246,27,Made,1,67,32,99,v,Micic 27' 3PT Jump Shot (18 PTS) (Mann 2 AST),Made Shot,Jump Shot,1,3,212
+0022300991,357,PT06M20.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Williams FOR Micic,Substitution,,0,0,252
+0022300991,400,PT02M35.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Traveling Turnover (P3.T15),Turnover,Traveling,1,0,280
+0022300991,415,PT01M14.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,291
+0022300991,424,PT00M22.10S,3,1610612766,CHA,203995,Micić,V. Micić,-22,23,3,Made,1,91,65,156,v,Micic 3' Driving Reverse Layup (20 PTS),Made Shot,Driving Reverse Layup Shot,1,2,298
+0022301021,25,PT08M30.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,15
+0022301021,101,PT02M40.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Bertans FOR Micic,Substitution,,0,0,71
+0022301021,229,PT05M34.00S,2,1610612766,CHA,203995,Micić,V. Micić,-1,5,1,Missed,1,,,0,v,MISS Micic 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,160
+0022301021,232,PT05M05.00S,2,1610612766,CHA,203995,Micić,V. Micić,49,126,14,Made,1,50,41,91,v,Micic 14' Pullup Jump Shot (2 PTS) (Williams 3 AST),Made Shot,Pullup Jump shot,1,2,163
+0022301021,237,PT04M42.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,52,42,94,v,Micic Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,166
+0022301021,243,PT04M42.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,52,43,95,v,Micic Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,169
+0022301021,255,PT03M15.00S,2,1610612766,CHA,203995,Micić,V. Micić,-20,37,4,Missed,1,,,0,v,MISS Micic 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,178
+0022301021,257,PT03M14.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,180
+0022301021,267,PT02M17.00S,2,1610612766,CHA,203995,Micić,V. Micić,-137,220,26,Missed,1,,,0,v,MISS Micic 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,189
+0022301021,277,PT01M46.00S,2,1610612766,CHA,203995,Micić,V. Micić,6,13,1,Made,1,62,45,107,v,Micic 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,196
+0022301021,279,PT01M12.00S,2,1610612766,CHA,203995,Micić,V. Micić,223,73,0,Missed,1,,,0,v,MISS Micic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,198
+0022301021,400,PT11M32.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic BLOCK (1 BLK),,,1,2,219
+0022301021,333,PT08M58.00S,3,1610612766,CHA,203995,Micić,V. Micić,-157,204,26,Missed,1,,,0,v,MISS Micic 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,244
+0022301021,348,PT07M19.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,255
+0022301021,379,PT05M26.00S,3,1610612766,CHA,203995,Micić,V. Micić,13,15,2,Missed,1,,,0,v,MISS Micic 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,275
+0022301021,403,PT03M43.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,292
+0022301021,423,PT02M18.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Mann FOR Micic,Substitution,,0,0,307
+0022301021,550,PT04M58.00S,4,1610612766,CHA,203995,Micić,V. Micić,-2,0,0,Missed,1,,,0,v,MISS Micic Driving Layup,Missed Shot,Driving Layup Shot,1,2,391
+0022301021,555,PT04M27.00S,4,1610612766,CHA,203995,Micić,V. Micić,55,98,11,Made,1,121,86,207,v,Micic 11' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,2,394
+0022301021,572,PT03M05.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic S.FOUL (P1.T1) (J.Conley),Foul,Shooting,1,0,405
+0022301021,575,PT03M05.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Bailey FOR Micic,Substitution,,0,0,407
+0022301033,115,PT02M04.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Mann FOR Micic,Substitution,,0,0,87
+0022301033,237,PT06M14.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,165
+0022301033,266,PT03M54.00S,2,1610612766,CHA,203995,Micić,V. Micić,143,207,25,Missed,1,,,0,v,MISS Micic 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,184
+0022301033,297,PT01M35.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,0,205
+0022301033,305,PT00M34.30S,2,1610612766,CHA,203995,Micić,V. Micić,119,123,17,Missed,1,,,0,v,MISS Micic 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,210
+0022301033,337,PT10M36.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,232
+0022301033,338,PT10M28.00S,3,1610612766,CHA,203995,Micić,V. Micić,-6,4,1,Missed,1,,,0,v,MISS Micic 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,233
+0022301033,392,PT05M32.00S,3,1610612766,CHA,203995,Micić,V. Micić,-10,4,1,Made,1,65,57,122,v,Micic 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,270
+0022301033,424,PT02M55.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Bertans FOR Micic,Substitution,,0,0,295
+0022301033,547,PT05M25.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic S.FOUL (P1.T4) (T.Washington),Foul,Shooting,1,0,384
+0022301033,565,PT04M29.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,399
+0022301033,587,PT03M06.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Bailey FOR Micic,Substitution,,0,0,417
+0022301048,7,PT11M47.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic STEAL (1 STL),,,1,0,4
+0022301048,17,PT10M34.00S,1,1610612766,CHA,203995,Micić,V. Micić,145,31,15,Missed,1,,,0,h,MISS Micic 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,10
+0022301048,29,PT09M19.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,21
+0022301048,57,PT07M12.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic STEAL (2 STL),,,1,0,45
+0022301048,93,PT04M05.00S,1,1610612766,CHA,203995,Micić,V. Micić,-10,48,5,Missed,1,,,0,h,MISS Micic 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,69
+0022301048,117,PT02M05.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Mann FOR Micic,Substitution,,0,0,86
+0022301048,250,PT04M53.00S,2,1610612766,CHA,203995,Micić,V. Micić,-119,272,30,Missed,1,,,0,h,MISS Micic 30' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,173
+0022301048,255,PT04M27.00S,2,1610612766,CHA,203995,Micić,V. Micić,223,121,25,Made,1,59,56,115,h,Micic 25' 3PT Jump Shot (3 PTS) (Pokusevski 1 AST),Made Shot,Jump Shot,1,3,177
+0022301048,257,PT04M19.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic P.FOUL (P1.T4) (D.Scott),Foul,Personal,1,0,178
+0022301048,275,PT02M53.00S,2,1610612766,CHA,203995,Micić,V. Micić,16,173,17,Made,1,61,62,123,h,Micic 17' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,2,192
+0022301048,278,PT02M23.00S,2,1610612766,CHA,203995,Micić,V. Micić,-9,8,1,Made,1,63,65,128,h,Micic 1' Driving Layup (7 PTS) (Williams 3 AST),Made Shot,Driving Layup Shot,1,2,194
+0022301048,306,PT00M29.40S,2,1610612766,CHA,203995,Micić,V. Micić,-2,22,2,Made,1,69,70,139,h,Micic 2' Driving Finger Roll Layup (9 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,214
+0022301048,361,PT08M28.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic P.FOUL (P2.T1) (K.Lane),Foul,Personal,1,0,246
+0022301048,364,PT08M15.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,248
+0022301048,369,PT07M42.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,251
+0022301048,377,PT06M43.00S,3,1610612766,CHA,203995,Micić,V. Micić,146,71,16,Missed,1,,,0,h,MISS Micic 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,258
+0022301048,381,PT06M26.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Traveling Turnover (P3.T9),Turnover,Traveling,1,0,261
+0022301048,421,PT03M44.00S,3,1610612766,CHA,203995,Micić,V. Micić,-5,176,18,Made,1,94,89,183,h,Micic 18' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,2,290
+0022301048,424,PT03M18.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Out of Bounds - Bad Pass Turnover Turnover (P4.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,293
+0022301048,429,PT02M37.00S,3,1610612766,CHA,203995,Micić,V. Micić,-23,24,3,Missed,1,,,0,h,MISS Micic 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,296
+0022301048,442,PT01M36.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Bertans FOR Micic,Substitution,,0,0,306
+0022301048,542,PT06M30.00S,4,1610612766,CHA,203995,Micić,V. Micić,140,225,27,Missed,1,,,0,h,MISS Micic 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,373
+0022301048,555,PT05M16.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Offensive Charge Foul (P3) (N.Buchert),Foul,Offensive Charge,1,0,383
+0022301048,557,PT05M16.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Offensive Foul Turnover (P5.T16),Turnover,Offensive Foul Turnover,1,0,384
+0022301062,12,PT10M50.00S,1,1610612766,CHA,203995,Micić,V. Micić,142,208,25,Made,1,5,3,8,h,Micic 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,6
+0022301062,17,PT10M17.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic P.FOUL (P1.T1) (M.Lindsay),Foul,Personal,1,0,11
+0022301062,74,PT04M34.00S,1,1610612766,CHA,203995,Micić,V. Micić,93,63,11,Made,1,14,15,29,h,Micic 11' Driving Floating Bank Jump Shot (5 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,55
+0022301062,94,PT02M35.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,70
+0022301062,105,PT01M41.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Bertans FOR Micic,Substitution,,0,0,79
+0022301062,237,PT03M59.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic STEAL (1 STL),,,1,0,173
+0022301062,280,PT01M23.00S,2,1610612766,CHA,203995,Micić,V. Micić,153,204,26,Missed,1,,,0,h,MISS Micic 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,203
+0022301062,290,PT00M30.90S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,210
+0022301062,310,PT10M31.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic STEAL (2 STL),,,1,0,226
+0022301062,326,PT09M44.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,MISS Micic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,237
+0022301062,328,PT09M44.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,49,57,106,h,Micic Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,239
+0022301062,337,PT08M41.00S,3,1610612766,CHA,203995,Micić,V. Micić,-66,123,14,Missed,1,,,0,h,MISS Micic 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,246
+0022301062,359,PT07M01.00S,3,1610612766,CHA,203995,Micić,V. Micić,176,188,26,Missed,1,,,0,h,MISS Micic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,263
+0022301062,365,PT06M48.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,HORNETS T.Foul (Def. 3 Sec Micic ) (M.Lindsay),Foul,Defense 3 Second,1,0,267
+0022301062,380,PT06M04.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,278
+0022301062,382,PT05M57.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Jump Ball Micic vs. Jackson-Davis: Tip to Curry,Jump Ball,,0,0,280
+0022301062,396,PT05M01.00S,3,1610612766,CHA,203995,Micić,V. Micić,-15,23,3,Made,1,59,75,134,h,Micic 3' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,290
+0022301062,426,PT02M54.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Mann FOR Micic,Substitution,,0,0,313
+0022301062,525,PT06M54.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Personal Take Foul (P2.T3) (S.Corbin),Foul,Personal Take,1,0,382
+0022301062,544,PT05M29.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,88,108,196,h,Micic Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,394
+0022301062,547,PT05M29.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,89,108,197,h,Micic Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,396
+0022301062,550,PT05M10.00S,4,1610612766,CHA,203995,Micić,V. Micić,-76,270,28,Missed,1,,,0,h,MISS Micic 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,399
+0022301062,569,PT04M01.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Out of Bounds - Bad Pass Turnover Turnover (P2.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,414
+0022301062,585,PT02M17.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Micic,Substitution,,0,0,427
+0022301079,10,PT11M20.00S,1,1610612766,CHA,203995,Micić,V. Micić,137,225,26,Missed,1,,,0,h,MISS Micic 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,5
+0022301079,24,PT10M03.00S,1,1610612766,CHA,203995,Micić,V. Micić,-165,200,26,Missed,1,,,0,h,MISS Micic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,15
+0022301079,46,PT07M25.00S,1,1610612766,CHA,203995,Micić,V. Micić,92,248,26,Missed,1,,,0,h,MISS Micic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,32
+0022301079,58,PT05M50.00S,1,1610612766,CHA,203995,Micić,V. Micić,129,211,25,Made,1,13,13,26,h,Micic 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,43
+0022301079,71,PT04M10.00S,1,1610612766,CHA,203995,Micić,V. Micić,-9,121,12,Missed,1,,,0,h,MISS Micic 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,53
+0022301079,75,PT03M34.00S,1,1610612766,CHA,203995,Micić,V. Micić,-10,17,2,Missed,1,,,0,h,MISS Micic 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,57
+0022301079,77,PT03M31.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,59
+0022301079,90,PT02M44.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Thor FOR Micic,Substitution,,0,0,70
+0022301079,175,PT07M42.00S,2,1610612766,CHA,203995,Micić,V. Micić,6,17,2,Missed,1,,,0,h,MISS Micic 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,124
+0022301079,192,PT06M30.00S,2,1610612766,CHA,203995,Micić,V. Micić,94,111,15,Missed,1,,,0,h,MISS Micic 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,138
+0022301079,193,PT06M28.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,139
+0022301079,225,PT05M19.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,161
+0022301079,232,PT04M28.00S,2,1610612766,CHA,203995,Micić,V. Micić,124,222,25,Missed,1,,,0,h,MISS Micic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,166
+0022301079,251,PT02M57.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,MISS Micic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,179
+0022301079,253,PT02M57.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,MISS Micic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,181
+0022301079,281,PT00M33.70S,2,1610612766,CHA,203995,Micić,V. Micić,1,11,1,Made,1,55,65,120,h,Micic 1' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,200
+0022301079,298,PT11M49.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic P.FOUL (P1.T1) (M.Smith),Foul,Personal,1,0,208
+0022301079,300,PT11M43.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic S.FOUL (P2.T2) (M.Smith),Foul,Shooting,1,0,209
+0022301079,305,PT11M25.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,213
+0022301079,309,PT10M51.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,216
+0022301079,335,PT07M32.00S,3,1610612766,CHA,203995,Micić,V. Micić,-115,249,27,Made,1,70,76,146,h,Micic 27' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,3,238
+0022301079,349,PT06M32.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic S.FOUL (P3.PN) (M.Smith),Foul,Shooting,1,0,248
+0022301079,384,PT03M45.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic STEAL (1 STL),,,1,0,274
+0022301079,402,PT02M37.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Mann FOR Micic,Substitution,,0,0,287
+0022301079,499,PT07M03.00S,4,1610612766,CHA,203995,Micić,V. Micić,157,215,27,Missed,1,,,0,h,MISS Micic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,353
+0022301079,520,PT04M56.00S,4,1610612766,CHA,203995,Micić,V. Micić,15,6,2,Missed,1,,,0,h,MISS Micic 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,368
+0022301079,578,PT01M02.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Personal Take Foul (P4.PN) (D.Taylor),Foul,Personal Take,1,0,410
+0022301079,582,PT00M55.30S,4,1610612766,CHA,203995,Micić,V. Micić,16,16,2,Made,1,118,127,245,h,Micic 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,413
+0022301087,17,PT10M43.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,11
+0022301087,58,PT07M06.00S,1,1610612766,CHA,203995,Micić,V. Micić,7,25,3,Made,1,18,12,30,h,Micic 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,44
+0022301087,102,PT03M11.00S,1,1610612766,CHA,203995,Micić,V. Micić,-42,7,4,Missed,1,,,0,h,MISS Micic 4' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,75
+0022301087,110,PT02M49.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Mann FOR Micic,Substitution,,0,0,81
+0022301087,205,PT07M49.00S,2,1610612766,CHA,203995,Micić,V. Micić,21,11,2,Missed,1,,,0,h,MISS Micic 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,149
+0022301087,207,PT07M37.00S,2,1610612766,CHA,203995,Micić,V. Micić,-27,42,5,Made,1,38,37,75,h,Micic 5' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,1,2,151
+0022301087,252,PT03M49.00S,2,1610612766,CHA,203995,Micić,V. Micić,11,23,3,Made,1,47,51,98,h,Micic 3' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,185
+0022301087,271,PT02M19.00S,2,1610612766,CHA,203995,Micić,V. Micić,145,220,26,Missed,1,,,0,h,MISS Micic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,199
+0022301087,279,PT01M37.00S,2,1610612766,CHA,203995,Micić,V. Micić,47,153,16,Made,1,53,53,106,h,Micic 16' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,2,207
+0022301087,287,PT00M21.10S,2,1610612766,CHA,203995,Micić,V. Micić,-146,218,26,Missed,1,,,0,h,MISS Micic 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,214
+0022301087,327,PT09M43.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic S.FOUL (P1.T1) (B.Schwab),Foul,Shooting,1,0,237
+0022301087,372,PT05M06.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,68,81,149,h,Micic Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,269
+0022301087,373,PT05M06.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,69,81,150,h,Micic Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,270
+0022301087,376,PT04M30.00S,3,1610612766,CHA,203995,Micić,V. Micić,162,194,25,Missed,1,,,0,h,MISS Micic 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,273
+0022301087,389,PT03M21.00S,3,1610612766,CHA,203995,Micić,V. Micić,-9,274,27,Made,1,74,83,157,h,Micic 27' 3PT Jump Shot (13 PTS) (Pokusevski 2 AST),Made Shot,Jump Shot,1,3,283
+0022301087,397,PT02M53.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Bertans FOR Micic,Substitution,,0,0,289
+0022301087,458,PT10M29.00S,4,1610612766,CHA,203995,Micić,V. Micić,140,209,25,Missed,1,,,0,h,MISS Micic 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,330
+0022301087,464,PT09M58.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,19,2,Missed,1,,,0,h,MISS Micic 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,335
+0022301087,541,PT03M32.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,389
+0022301087,542,PT03M27.00S,4,1610612766,CHA,203995,Micić,V. Micić,-140,218,26,Missed,1,,,0,h,MISS Micic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,390
+0022301087,547,PT03M05.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,394
+0022301087,567,PT01M24.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: McGowens FOR Micic,Substitution,,0,0,411
+0022301115,11,PT11M11.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+0022301115,16,PT10M36.00S,1,1610612766,CHA,203995,Micić,V. Micić,108,130,17,Made,1,7,3,10,h,Micic 17' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,10
+0022301115,21,PT10M13.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,13
+0022301115,42,PT07M00.00S,1,1610612766,CHA,203995,Micić,V. Micić,109,90,14,Missed,1,,,0,h,MISS Micic 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,28
+0022301115,53,PT06M21.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Violation:Kicked Ball (M.Ervin),Violation,Kicked Ball,0,0,36
+0022301115,90,PT03M30.00S,1,1610612766,CHA,203995,Micić,V. Micić,-158,236,28,Missed,1,,,0,h,MISS Micic 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,64
+0022301115,115,PT01M28.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,HORNETS T.Foul (Def. 3 Sec Micic ) (M.Ervin),Foul,Defense 3 Second,1,0,83
+0022301115,118,PT01M28.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Mann FOR Micic,Substitution,,0,0,86
+0022301115,225,PT06M31.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,156
+0022301115,228,PT06M22.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,159
+0022301115,229,PT06M16.00S,2,1610612766,CHA,203995,Micić,V. Micić,-40,259,26,Missed,1,,,0,h,MISS Micic 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,160
+0022301115,302,PT00M11.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic L.B.FOUL (P1.PN) (M.Ervin),Foul,Loose Ball,1,0,213
+0022301115,308,PT00M04.70S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,66,52,118,h,Micic Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,217
+0022301115,311,PT00M04.70S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,67,52,119,h,Micic Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,219
+0022301115,322,PT11M17.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic L.B.FOUL (P2.T1) (E.Dalen),Foul,Loose Ball,0,0,228
+0022301115,364,PT06M59.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic S.FOUL (P3.T3) (T.Washington),Foul,Shooting,1,0,261
+0022301115,371,PT06M43.00S,3,1610612766,CHA,203995,Micić,V. Micić,-97,243,26,Made,1,75,64,139,h,Micic 26' 3PT Jump Shot (7 PTS) (Bridges 2 AST),Made Shot,Jump Shot,1,3,266
+0022301115,377,PT05M49.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,271
+0022301115,378,PT05M44.00S,3,1610612766,CHA,203995,Micić,V. Micić,6,15,2,Made,1,79,64,143,h,Micic 2' Running Finger Roll Layup (9 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,272
+0022301115,405,PT04M02.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,85,70,155,h,Micic Free Throw 1 of 3 (10 PTS),Free Throw,Free Throw 1 of 3,1,0,291
+0022301115,406,PT04M02.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,86,70,156,h,Micic Free Throw 2 of 3 (11 PTS),Free Throw,Free Throw 2 of 3,1,0,292
+0022301115,411,PT04M02.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,87,70,157,h,Micic Free Throw 3 of 3 (12 PTS),Free Throw,Free Throw 3 of 3,1,0,295
+0022301115,417,PT03M13.00S,3,1610612766,CHA,203995,Micić,V. Micić,130,220,26,Missed,1,,,0,h,MISS Micic 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,301
+0022301115,419,PT02M58.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic STEAL (1 STL),,,1,0,304
+0022301115,429,PT02M04.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Mann FOR Micic,Substitution,,0,0,311
+0022301115,522,PT06M46.00S,4,1610612766,CHA,203995,Micić,V. Micić,143,206,25,Missed,1,,,0,h,MISS Micic 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,376
+0022301115,548,PT04M39.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Bad Pass Turnover (P2.T16),Turnover,Bad Pass,1,0,395
+0022301115,564,PT03M59.00S,4,1610612766,CHA,203995,Micić,V. Micić,23,3,2,Made,1,112,103,215,h,Micic 2' Driving Layup (14 PTS) (Williams 7 AST),Made Shot,Driving Layup Shot,1,2,408
+0022301115,579,PT02M38.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,418
+0022301115,622,PT00M42.90S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Bad Pass Turnover (P3.T19),Turnover,Bad Pass,1,0,448
+0022301135,8,PT11M24.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,4
+0022301135,24,PT09M58.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Lost Ball Turnover (P2.T2),Turnover,Lost Ball,1,0,15
+0022301135,32,PT09M16.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic S.FOUL (P1.T1) (A.Nagy),Foul,Shooting,1,0,20
+0022301135,59,PT06M48.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,MISS Micic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,40
+0022301135,61,PT06M48.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,15,19,34,h,Micic Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,42
+0022301135,102,PT03M27.00S,1,1610612766,CHA,203995,Micić,V. Micić,-12,275,28,Made,1,24,26,50,h,Micic 28' 3PT Running Pull-Up Jump Shot (4 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,75
+0022301135,115,PT02M22.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Richards FOR Micic,Substitution,,0,0,86
+0022301135,235,PT06M53.00S,2,1610612766,CHA,203995,Micić,V. Micić,67,265,27,Missed,1,,,0,h,MISS Micic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,167
+0022301135,238,PT06M20.00S,2,1610612766,CHA,203995,Micić,V. Micić,-13,16,2,Made,1,38,49,87,h,Micic 2' Cutting Layup Shot (6 PTS) (Williams 4 AST),Made Shot,Cutting Layup Shot,1,2,170
+0022301135,254,PT04M53.00S,2,1610612766,CHA,203995,Micić,V. Micić,55,264,27,Made,1,45,55,100,h,Micic 27' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,3,179
+0022301135,257,PT04M20.00S,2,1610612766,CHA,203995,Micić,V. Micić,53,264,27,Made,1,48,55,103,h,Micic 27' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,3,182
+0022301135,267,PT03M25.00S,2,1610612766,CHA,203995,Micić,V. Micić,-13,26,3,Missed,1,,,0,h,MISS Micic 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,191
+0022301135,301,PT01M41.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic P.FOUL (P2.PN) (A.Nagy),Foul,Personal,1,0,214
+0022301135,309,PT01M26.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Bertans FOR Micic,Substitution,,0,0,219
+0022301135,381,PT07M15.00S,3,1610612766,CHA,203995,Micić,V. Micić,-18,19,3,Missed,1,,,0,h,MISS Micic 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,272
+0022301135,386,PT06M48.00S,3,1610612766,CHA,203995,Micić,V. Micić,58,260,27,Missed,1,,,0,h,MISS Micic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,277
+0022301135,412,PT05M27.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,297
+0022301135,441,PT03M28.00S,3,1610612766,CHA,203995,Micić,V. Micić,89,251,27,Missed,1,,,0,h,MISS Micic 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,316
+0022301135,452,PT03M02.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Mann FOR Micic,Substitution,,0,0,326
+0022301135,578,PT05M43.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Bad Pass Turnover (P3.T15),Turnover,Bad Pass,1,0,404
+0022301135,582,PT05M19.00S,4,1610612766,CHA,203995,Micić,V. Micić,-164,200,26,Made,1,104,105,209,h,Micic 26' 3PT Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,1,3,409
+0022301135,593,PT04M13.00S,4,1610612766,CHA,203995,Micić,V. Micić,-12,94,9,Missed,1,,,0,h,MISS Micic 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,416
+0022301135,605,PT03M52.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic STEAL (1 STL),,,1,0,425
+0022301135,629,PT01M35.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Bad Pass Turnover (P4.T17),Turnover,Bad Pass,1,0,445
+0022301135,635,PT01M18.00S,4,1610612766,CHA,203995,Micić,V. Micić,-4,10,1,Made,1,115,115,230,h,Micic 1' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,2,449
+0022301144,30,PT09M39.00S,1,1610612766,CHA,203995,Micić,V. Micić,-109,84,14,Made,1,6,5,11,h,Micic 14' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,22
+0022301144,35,PT09M06.00S,1,1610612766,CHA,203995,Micić,V. Micić,-89,173,19,Missed,1,,,0,h,MISS Micic 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,26
+0022301144,79,PT05M11.00S,1,1610612766,CHA,203995,Micić,V. Micić,-228,57,24,Missed,1,,,0,h,MISS Micic 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,59
+0022301144,103,PT03M54.00S,1,1610612766,CHA,203995,Micić,V. Micić,-16,29,3,Missed,1,,,0,h,MISS Micic 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,78
+0022301144,116,PT03M09.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Mann FOR Micic,Substitution,,0,0,89
+0022301144,235,PT05M14.00S,2,1610612766,CHA,203995,Micić,V. Micić,80,257,27,Missed,1,,,0,h,MISS Micic 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,165
+0022301144,245,PT04M23.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic S.FOUL (P1.T3) (S.Mehta),Foul,Shooting,1,0,173
+0022301144,256,PT03M47.00S,2,1610612766,CHA,203995,Micić,V. Micić,29,23,4,Missed,1,,,0,h,MISS Micic 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,180
+0022301144,271,PT03M15.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic STEAL (1 STL),,,1,0,192
+0022301144,298,PT01M32.00S,2,1610612766,CHA,203995,Micić,V. Micić,-13,4,1,Made,1,44,64,108,h,Micic 1' Driving Reverse Layup (4 PTS) (Mann 3 AST),Made Shot,Driving Reverse Layup Shot,1,2,211
+0022301144,317,PT00M30.70S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,226
+0022301144,318,PT00M29.50S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,227
+0022301144,330,PT11M41.00S,3,1610612766,CHA,203995,Micić,V. Micić,43,260,26,Missed,1,,,0,h,MISS Micic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,235
+0022301144,337,PT10M52.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,242
+0022301144,397,PT06M12.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic S.FOUL (P2.T3) (D.Collins),Foul,Shooting,1,0,288
+0022301144,408,PT05M29.00S,3,1610612766,CHA,203995,Micić,V. Micić,-29,37,5,Made,1,67,88,155,h,Micic 5' Driving Floating Bank Jump Shot (6 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,296
+0022301144,414,PT05M18.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic BLOCK (1 BLK),,,1,3,300
+0022301144,420,PT04M58.00S,3,1610612766,CHA,203995,Micić,V. Micić,-11,25,3,Missed,1,,,0,h,MISS Micic 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,304
+0022301144,443,PT02M40.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Bertans FOR Micic,Substitution,,0,0,323
+0022301144,571,PT06M07.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,410
+0022301144,580,PT05M40.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,Micic P.FOUL (P3.T4) (D.Collins),Foul,Personal,1,0,418
+0022301144,586,PT05M20.00S,4,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,h,SUB: Mann FOR Micic,Substitution,,0,0,423
+0022301159,18,PT10M46.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic STEAL (1 STL),,,1,0,11
+0022301159,96,PT04M14.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Mann FOR Micic,Substitution,,0,0,66
+0022301159,234,PT05M53.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,170
+0022301159,248,PT04M55.00S,2,1610612766,CHA,203995,Micić,V. Micić,-67,247,26,Missed,1,,,0,v,MISS Micic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,178
+0022301159,284,PT01M38.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,204
+0022301159,312,PT11M23.00S,3,1610612766,CHA,203995,Micić,V. Micić,-163,189,25,Missed,1,,,0,v,MISS Micic 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,220
+0022301159,367,PT06M40.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,83,67,150,v,Micic Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,257
+0022301159,368,PT06M40.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,83,68,151,v,Micic Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,258
+0022301159,372,PT06M08.00S,3,1610612766,CHA,203995,Micić,V. Micić,16,25,3,Missed,1,,,0,v,MISS Micic 3' Driving Layup,Missed Shot,Driving Layup Shot,0,2,261
+0022301159,377,PT05M52.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,265
+0022301159,393,PT04M27.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Lost Ball Turnover (P2.T12),Turnover,Lost Ball,1,0,277
+0022301159,403,PT04M09.00S,3,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Mann FOR Micic,Substitution,,0,0,286
+0022301173,8,PT11M42.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+0022301173,13,PT11M00.00S,1,1610612766,CHA,203995,Micić,V. Micić,138,225,26,Made,1,0,3,3,v,Micic 26' 3PT Pullup Jump Shot (3 PTS) (Bolden 1 AST),Made Shot,Pullup Jump shot,1,3,9
+0022301173,27,PT09M27.00S,1,1610612766,CHA,203995,Micić,V. Micić,11,8,1,Made,1,4,8,12,v,Micic 1' Driving Layup (5 PTS) (Mann 1 AST),Made Shot,Driving Layup Shot,1,2,19
+0022301173,35,PT08M26.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,25
+0022301173,36,PT08M13.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic P.FOUL (P1.T1) (J.Orr),Foul,Personal,1,0,26
+0022301173,66,PT05M00.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,49
+0022301173,113,PT02M41.00S,1,1610612766,CHA,203995,Micić,V. Micić,-152,218,27,Missed,1,,,0,v,MISS Micic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,83
+0022301173,117,PT02M29.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Mann FOR Micic,Substitution,,0,0,86
+0022301173,231,PT05M47.00S,2,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0,166
+0022301173,277,PT01M29.00S,2,1610612766,CHA,203995,Micić,V. Micić,-91,149,17,Missed,1,,,0,v,MISS Micic 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,202
+0022301173,284,PT01M01.00S,2,1610612766,CHA,203995,Micić,V. Micić,69,149,16,Missed,1,,,0,v,MISS Micic 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,207
+0022301187,8,PT11M42.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+0022301187,17,PT10M26.00S,1,1610612766,CHA,203995,Micić,V. Micić,15,13,2,Missed,1,,,0,v,MISS Micic 2' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,10
+0022301187,25,PT09M35.00S,1,1610612766,CHA,203995,Micić,V. Micić,224,132,26,Made,1,6,5,11,v,Micic 26' 3PT Jump Shot (3 PTS) (Mann 1 AST),Made Shot,Jump Shot,1,3,18
+0022301187,49,PT07M23.00S,1,1610612766,CHA,203995,Micić,V. Micić,6,259,26,Missed,1,,,0,v,MISS Micic 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,34
+0022301187,82,PT05M04.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,Micic Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,61
+0022301187,98,PT03M28.00S,1,1610612766,CHA,203995,Micić,V. Micić,210,155,26,Missed,1,,,0,v,MISS Micic 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,72
+0022301187,120,PT02M30.00S,1,1610612766,CHA,203995,Micić,V. Micić,0,0,0,,0,,,0,v,SUB: Mann FOR Micic,Substitution,,0,0,93

@@ -1,0 +1,987 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300007,15,PT10M47.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-158,203,26,Missed,1,,,0,h,MISS Sharpe 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,9
+0022300007,45,PT07M43.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,33
+0022300007,50,PT07M08.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,148,136,20,Made,1,14,11,25,h,Sharpe 20' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,1,2,37
+0022300007,67,PT06M11.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Mays FOR Sharpe,Substitution,,0,0,49
+0022300007,122,PT02M36.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,16,55,6,Missed,1,,,0,h,MISS Sharpe 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,87
+0022300007,144,PT01M20.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-98,221,24,Missed,1,,,0,h,MISS Sharpe 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,104
+0022300007,151,PT01M04.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,MISS Sharpe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,110
+0022300007,153,PT01M04.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,29,25,54,h,Sharpe Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,112
+0022300007,192,PT11M43.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,133
+0022300007,220,PT09M32.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,22,4,2,Missed,1,,,0,h,MISS Sharpe 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,158
+0022300007,255,PT06M55.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,180
+0022300007,307,PT03M38.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,20,15,3,Made,1,46,48,94,h,Sharpe 3' Running Layup (5 PTS) (Ayton 1 AST),Made Shot,Running Layup Shot,1,2,220
+0022300007,316,PT03M38.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,47,48,95,h,Sharpe Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,225
+0022300007,334,PT01M54.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,56,261,27,Made,1,52,51,103,h,Sharpe 27' 3PT Jump Shot (9 PTS) (Ayton 2 AST),Made Shot,Jump Shot,1,3,240
+0022300007,347,PT00M26.70S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,250
+0022300007,387,PT09M39.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-162,247,30,Missed,1,,,0,h,MISS Sharpe 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,275
+0022300007,399,PT08M07.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe P.FOUL (P1.T3) (J.Capers),Foul,Personal,1,0,286
+0022300007,404,PT07M39.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,290
+0022300007,405,PT07M38.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,Missed,1,,,0,h,MISS Sharpe Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,291
+0022300007,427,PT06M36.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,27,27,4,Missed,1,,,0,h,MISS Sharpe 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,308
+0022300007,434,PT06M03.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-2,4,0,Made,1,66,66,132,h,Sharpe Running Dunk (11 PTS) (Brogdon 8 AST),Made Shot,Running Dunk Shot,1,2,315
+0022300007,442,PT05M10.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,20,6,2,Made,1,68,66,134,h,Sharpe 2' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,2,322
+0022300007,483,PT01M58.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-23,13,3,Missed,1,,,0,h,MISS Sharpe 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,352
+0022300007,490,PT00M57.30S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,105,137,17,Missed,1,,,0,h,MISS Sharpe 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,359
+0022300007,625,PT04M21.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Offensive Charge Foul (P2) (J.Capers),Foul,Offensive Charge,1,0,445
+0022300007,636,PT04M21.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,1,0,446
+0022300007,693,PT00M08.30S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,101,102,203,h,Sharpe Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,495
+0022300007,694,PT00M08.30S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,102,102,204,h,Sharpe Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,496
+0022300007,700,PT00M00.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe BLOCK (1 BLK),,,1,3,501
+0022300007,718,PT03M41.00S,5,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,512
+0022300007,719,PT03M32.00S,5,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Step Out of Bounds Turnover (P3.T13),Turnover,Step Out of Bounds Turnover,1,0,513
+0022300007,722,PT03M16.00S,5,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe STEAL (1 STL),,,1,0,517
+0022300007,766,PT03M06.00S,5,1610612757,POR,1631101,Sharpe,S. Sharpe,-16,51,5,Missed,1,,,0,h,MISS Sharpe 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,518
+0022300007,728,PT02M29.00S,5,1610612757,POR,1631101,Sharpe,S. Sharpe,23,1,2,Made,1,106,102,208,h,Sharpe 2' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,2,524
+0022300007,738,PT01M17.00S,5,1610612757,POR,1631101,Sharpe,S. Sharpe,-99,246,27,Made,1,109,106,215,h,Sharpe 27' 3PT Step Back Jump Shot (20 PTS),Made Shot,Step Back Jump shot,1,3,532
+0022300007,757,PT00M11.80S,5,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,114,108,222,h,Sharpe Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,547
+0022300007,758,PT00M11.80S,5,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,115,108,223,h,Sharpe Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,548
+0022300023,19,PT10M01.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,71,122,14,Missed,1,,,0,v,MISS Sharpe 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,13
+0022300023,44,PT08M34.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P1.T3) (M.Davis),Foul,Personal,1,0,32
+0022300023,82,PT05M34.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-34,247,25,Missed,1,,,0,v,MISS Sharpe 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,61
+0022300023,125,PT03M09.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Mays FOR Sharpe,Substitution,,0,0,93
+0022300023,179,PT11M05.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-100,225,25,Made,1,40,31,71,v,Sharpe 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,131
+0022300023,182,PT10M40.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,133
+0022300023,214,PT07M56.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,235,11,24,Missed,1,,,0,v,MISS Sharpe 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,158
+0022300023,256,PT05M20.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,186
+0022300023,269,PT04M43.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-29,20,4,Made,1,60,50,110,v,Sharpe 4' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,196
+0022300023,281,PT04M01.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,204
+0022300023,295,PT03M08.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-27,11,3,Missed,1,,,0,v,MISS Sharpe 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,215
+0022300023,301,PT02M34.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe STEAL (1 STL),,,1,0,222
+0022300023,315,PT01M50.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,MISS Sharpe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,232
+0022300023,317,PT01M50.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,64,53,117,v,Sharpe Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,234
+0022300023,319,PT01M35.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,236
+0022300023,327,PT00M49.40S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,243
+0022300023,330,PT00M28.70S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,64,54,118,v,Sharpe Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,245
+0022300023,331,PT00M28.70S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,64,55,119,v,Sharpe Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,246
+0022300023,348,PT10M36.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P2.T1) (J.Conley),Foul,Personal,1,0,255
+0022300023,356,PT10M18.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-54,249,25,Missed,1,,,0,v,MISS Sharpe 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,261
+0022300023,375,PT08M21.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,274
+0022300023,381,PT07M48.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Out of Bounds Lost Ball Turnover (P3.T13),Turnover,Out of Bounds Lost Ball Turnover,1,0,279
+0022300023,402,PT06M09.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,295
+0022300023,403,PT06M09.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,Made,1,81,72,153,v,Sharpe Tip Dunk Shot (10 PTS),Made Shot,Tip Dunk Shot,1,2,296
+0022300023,429,PT04M27.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,114,232,26,Missed,1,,,0,v,MISS Sharpe 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,315
+0022300023,436,PT03M19.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,321
+0022300023,437,PT03M09.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-192,209,28,Missed,1,,,0,v,MISS Sharpe 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,322
+0022300023,453,PT01M11.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,90,85,175,v,Sharpe Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,335
+0022300023,462,PT01M11.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,90,86,176,v,Sharpe Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,340
+0022300023,467,PT00M16.50S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-134,167,21,Missed,1,,,0,v,MISS Sharpe 21' Jump Shot,Missed Shot,Jump Shot,1,2,345
+0022300023,481,PT11M34.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-183,241,30,Made,1,95,89,184,v,Sharpe 30' 3PT Jump Shot (15 PTS) (Mays 9 AST),Made Shot,Jump Shot,1,3,353
+0022300023,483,PT11M18.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe STEAL (2 STL),,,1,0,355
+0022300023,488,PT11M18.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,95,90,185,v,Sharpe Free Throw Clear Path 1 of 2 (16 PTS),Free Throw,Free Throw Clear Path 1 of 2,1,0,358
+0022300023,489,PT11M18.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,95,91,186,v,Sharpe Free Throw Clear Path 2 of 2 (17 PTS),Free Throw,Free Throw Clear Path 2 of 2,1,0,359
+0022300023,504,PT10M02.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-167,205,26,Missed,1,,,0,v,MISS Sharpe 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,371
+0022300023,515,PT08M44.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,382
+0022300023,519,PT08M37.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Ayton FOR Sharpe,Substitution,,0,0,386
+0022300023,556,PT07M03.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-135,215,25,Missed,1,,,0,v,MISS Sharpe 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,411
+0022300023,563,PT06M11.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,417
+0022300023,564,PT06M08.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-5,44,4,Missed,1,,,0,v,MISS Sharpe 4' Putback Layup,Missed Shot,Putback Layup Shot,1,2,418
+0022300023,570,PT05M54.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,MISS Sharpe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,424
+0022300023,576,PT05M54.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,MISS Sharpe Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,428
+0022300023,603,PT03M51.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-234,81,25,Missed,1,,,0,v,MISS Sharpe 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,448
+0022300023,615,PT02M34.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P3.T2) (B.Barnaky),Foul,Personal,1,0,458
+0022300023,629,PT02M34.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Rupert FOR Sharpe,Substitution,,0,0,462
+0022300036,15,PT10M11.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,10
+0022300036,31,PT08M21.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Step Out of Bounds Turnover (P2.T2),Turnover,Step Out of Bounds Turnover,1,0,23
+0022300036,69,PT05M50.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-13,13,2,Made,1,15,22,37,h,Sharpe 2' Cutting Dunk Shot (2 PTS) (Ayton 1 AST),Made Shot,Cutting Dunk Shot,0,2,51
+0022300036,73,PT05M27.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe P.FOUL (P1.T2) (J.Sterling),Foul,Personal,0,0,54
+0022300036,85,PT04M38.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-21,29,4,Missed,1,,,0,h,MISS Sharpe 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,63
+0022300036,97,PT04M17.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,176,191,26,Missed,1,,,0,h,MISS Sharpe 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,71
+0022300036,100,PT04M08.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,74
+0022300036,111,PT03M05.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,84
+0022300036,113,PT02M56.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,44,193,20,Made,1,19,28,47,h,Sharpe 20' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,85
+0022300036,115,PT02M36.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,87
+0022300036,121,PT02M10.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-29,43,5,Made,1,21,28,49,h,Sharpe 5' Running Layup (6 PTS),Made Shot,Running Layup Shot,1,2,93
+0022300036,124,PT02M00.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Mays FOR Sharpe,Substitution,,0,0,96
+0022300036,200,PT07M54.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Traveling Turnover (P3.T6),Turnover,Traveling,1,0,155
+0022300036,216,PT06M44.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,80,130,15,Missed,1,,,0,h,MISS Sharpe 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,166
+0022300036,230,PT06M06.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Bad Pass Turnover (P4.T7),Turnover,Bad Pass,0,0,176
+0022300036,241,PT05M10.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,186
+0022300036,252,PT04M13.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,92,247,26,Missed,1,,,0,h,MISS Sharpe 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,196
+0022300036,283,PT01M52.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Bad Pass Turnover (P5.T9),Turnover,Bad Pass,1,0,221
+0022300036,310,PT00M27.20S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-12,54,6,Missed,1,,,0,h,MISS Sharpe 6' Running Layup,Missed Shot,Running Layup Shot,1,2,240
+0022300036,311,PT00M27.20S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,241
+0022300036,312,PT00M27.20S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-7,25,3,Made,1,48,60,108,h,Sharpe 3' Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,2,242
+0022300036,315,PT00M06.60S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,245
+0022300036,316,PT00M01.50S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-13,17,2,Made,1,50,60,110,h,Sharpe 2' Running Dunk (10 PTS),Made Shot,Running Dunk Shot,1,2,246
+0022300036,352,PT09M14.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Offensive Charge Foul (P2) (J.Tiven),Foul,Offensive Charge,1,0,270
+0022300036,354,PT09M14.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Offensive Foul Turnover (P6.T11),Turnover,Offensive Foul Turnover,1,0,271
+0022300036,364,PT07M57.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,280
+0022300036,365,PT07M53.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,94,256,27,Missed,1,,,0,h,MISS Sharpe 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,281
+0022300036,372,PT07M08.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Bad Pass Turnover (P7.T12),Turnover,Bad Pass,1,0,287
+0022300036,374,PT07M04.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe S.FOUL (P3.T1) (J.Sterling),Foul,Shooting,1,0,289
+0022300036,380,PT06M46.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Lost Ball Turnover (P8.T13),Turnover,Lost Ball,1,0,293
+0022300036,387,PT06M10.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,25,63,7,Missed,1,,,0,h,MISS Sharpe 7' Running Layup,Missed Shot,Running Layup Shot,1,2,300
+0022300036,418,PT04M18.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-202,147,25,Missed,1,,,0,h,MISS Sharpe 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,321
+0022300036,442,PT03M14.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Out of Bounds - Bad Pass Turnover Turnover (P9.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,339
+0022300036,444,PT02M54.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,341
+0022300036,459,PT01M33.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe STEAL (1 STL),,,1,0,353
+0022300036,461,PT01M33.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe OFF.Foul (P4) (J.Tiven),Foul,Offensive,1,0,354
+0022300036,463,PT01M33.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Offensive Foul Turnover (P10.T16),Turnover,Offensive Foul Turnover,1,0,355
+0022300036,464,PT01M33.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Grant FOR Sharpe,Substitution,,0,0,356
+0022300036,527,PT08M05.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,80,92,172,h,Sharpe Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,397
+0022300036,528,PT08M05.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,81,92,173,h,Sharpe Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,398
+0022300036,533,PT07M33.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-34,150,15,Made,1,83,94,177,h,Sharpe 15' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,2,402
+0022300036,550,PT06M39.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,5,22,2,Missed,1,,,0,h,MISS Sharpe 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,413
+0022300036,572,PT05M13.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe BLOCK (1 BLK),,,1,2,432
+0022300036,579,PT04M50.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,438
+0022300036,607,PT03M04.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,223,99,24,Made,1,93,105,198,h,Sharpe 24' 3PT Jump Shot (17 PTS) (Grant 3 AST),Made Shot,Jump Shot,1,3,461
+0022300036,620,PT01M30.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-53,93,11,Missed,1,,,0,h,MISS Sharpe 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,470
+0022300036,627,PT01M11.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Murray FOR Sharpe,Substitution,,0,0,476
+0022300041,14,PT11M04.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-27,252,25,Missed,1,,,0,v,MISS Sharpe 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,8
+0022300041,34,PT09M15.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,25
+0022300041,41,PT08M22.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,36,61,7,Missed,1,,,0,v,MISS Sharpe 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,30
+0022300041,43,PT08M18.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,18,20,3,Made,1,6,7,13,v,Sharpe 3' Reverse Layup (2 PTS) (Ayton 1 AST),Made Shot,Reverse Layup Shot,1,2,32
+0022300041,65,PT07M04.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-228,72,24,Missed,1,,,0,v,MISS Sharpe 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,46
+0022300041,73,PT05M52.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe STEAL (1 STL),,,1,0,55
+0022300041,108,PT03M39.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-25,26,4,Missed,1,,,0,v,MISS Sharpe 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,78
+0022300041,114,PT03M14.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Walker FOR Sharpe,Substitution,,0,0,83
+0022300041,235,PT06M30.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe OFF.Foul (P1) (J.Van Duyne),Foul,Offensive,1,0,167
+0022300041,237,PT06M30.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Offensive Foul Turnover (P2.T5),Turnover,Offensive Foul Turnover,1,0,168
+0022300041,250,PT05M28.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Bad Pass Turnover (P3.T6),Turnover,Bad Pass,1,0,174
+0022300041,252,PT05M21.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P2.T3) (S.Wright),Foul,Personal,1,0,176
+0022300041,271,PT03M58.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,178,179,25,Missed,1,,,0,v,MISS Sharpe 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,188
+0022300041,290,PT02M44.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,167,197,26,Missed,1,,,0,v,MISS Sharpe 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,203
+0022300041,322,PT00M53.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,227
+0022300041,329,PT00M10.50S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Lost Ball Turnover (P4.T9),Turnover,Lost Ball,1,0,232
+0022300041,338,PT11M38.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,239
+0022300041,387,PT07M16.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-22,18,3,Missed,1,,,0,v,MISS Sharpe 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,273
+0022300041,394,PT06M47.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,9,23,2,Missed,1,,,0,v,MISS Sharpe 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,278
+0022300041,401,PT06M27.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Thybulle FOR Sharpe,Substitution,,0,0,284
+0022300041,497,PT11M27.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,4,20,2,Made,1,94,87,181,v,Sharpe 2' Running Finger Roll Layup (4 PTS) (Reath 1 AST),Made Shot,Running Finger Roll Layup Shot,1,2,347
+0022300041,508,PT10M54.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P3.T2) (C.Flores),Foul,Personal,1,0,354
+0022300041,554,PT07M29.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,105,94,199,v,Sharpe Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,383
+0022300041,555,PT07M29.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,105,95,200,v,Sharpe Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,384
+0022300041,569,PT06M23.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,110,96,206,v,Sharpe Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,393
+0022300041,570,PT06M23.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,110,97,207,v,Sharpe Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,394
+0022300041,584,PT04M48.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-178,185,26,Missed,1,,,0,v,MISS Sharpe 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,405
+0022300041,595,PT04M06.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,2,10,1,Made,1,113,104,217,v,Sharpe 1' Cutting Dunk Shot (10 PTS) (Grant 6 AST),Made Shot,Cutting Dunk Shot,1,2,414
+0022300041,614,PT02M07.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,429
+0022300041,617,PT01M58.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-16,20,3,Missed,1,,,0,v,MISS Sharpe 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,431
+0022300041,631,PT01M39.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Walker FOR Sharpe,Substitution,,0,0,441
+0022300074,81,PT06M16.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,59
+0022300074,86,PT05M43.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-169,196,26,Missed,1,,,0,v,MISS Sharpe 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,63
+0022300074,113,PT04M07.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,83
+0022300074,114,PT04M07.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,Made,1,19,10,29,v,Sharpe Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,2,84
+0022300074,130,PT02M59.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-97,249,27,Missed,1,,,0,v,MISS Sharpe 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,95
+0022300074,135,PT02M37.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,100
+0022300074,136,PT02M37.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,Made,1,21,12,33,v,Sharpe Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,101
+0022300074,143,PT01M34.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,107
+0022300074,144,PT01M28.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-5,52,5,Made,1,24,16,40,v,Sharpe 5' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,108
+0022300074,150,PT01M28.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,24,17,41,v,Sharpe Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,112
+0022300074,163,PT00M14.30S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P1.T4) (C.Washington),Foul,Personal,1,0,124
+0022300074,166,PT00M00.10S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-167,289,33,Missed,1,,,0,v,MISS Sharpe 33' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,126
+0022300074,194,PT09M49.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P2.T1) (J.Tiven),Foul,Personal,1,0,142
+0022300074,198,PT09M24.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,18,132,13,Made,1,38,29,67,v,Sharpe 13' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,2,144
+0022300074,205,PT08M36.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Henderson FOR Sharpe,Substitution,,0,0,148
+0022300074,308,PT02M28.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,221
+0022300074,314,PT02M11.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe STEAL (1 STL),,,0,0,227
+0022300074,316,PT02M06.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,10,21,2,Missed,1,,,0,v,MISS Sharpe 2' Running Layup,Missed Shot,Running Layup Shot,1,2,228
+0022300074,444,PT05M15.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,181,182,26,Made,1,89,66,155,v,Sharpe 26' 3PT Jump Shot (12 PTS) (Henderson 1 AST),Made Shot,Jump Shot,1,3,314
+0022300074,511,PT11M50.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,44,106,11,Missed,1,,,0,v,MISS Sharpe 11' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,365
+0022300074,526,PT10M51.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,153,251,29,Missed,1,,,0,v,MISS Sharpe 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,378
+0022300074,528,PT10M43.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P3.T1) (C.Washington),Foul,Personal,1,0,380
+0022300074,560,PT08M39.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,138,216,26,Missed,1,,,0,v,MISS Sharpe 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,401
+0022300074,571,PT08M23.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Henderson FOR Sharpe,Substitution,,0,0,408
+0022300074,653,PT03M17.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,462
+0022300074,654,PT03M17.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,Made,1,117,100,217,v,Sharpe Tip Dunk Shot (14 PTS),Made Shot,Tip Dunk Shot,1,2,463
+0022300074,679,PT01M24.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,16,17,2,Missed,1,,,0,v,MISS Sharpe 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,484
+0022300074,689,PT00M41.50S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P4.PN) (J.Tiven),Foul,Personal,1,0,493
+0022300086,36,PT08M27.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,13,4,1,Missed,1,,,0,h,MISS Sharpe 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,24
+0022300086,63,PT06M11.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Brogdon FOR Sharpe,Substitution,,0,0,46
+0022300086,182,PT01M34.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,75,22,8,Missed,1,,,0,h,MISS Sharpe 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,93
+0022300086,184,PT01M34.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,95
+0022300086,153,PT00M02.30S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-7,25,3,Made,1,26,31,57,h,Sharpe 3' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,117
+0022300086,156,PT11M43.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,186,164,25,Made,1,29,31,60,h,Sharpe 25' 3PT Step Back Jump Shot (5 PTS) (Camara 1 AST),Made Shot,Step Back Jump shot,1,3,120
+0022300086,169,PT10M06.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,140,211,25,Missed,1,,,0,h,MISS Sharpe 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,130
+0022300086,173,PT09M41.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,133
+0022300086,195,PT08M33.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe STEAL (1 STL),,,1,0,148
+0022300086,207,PT07M36.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-161,252,30,Missed,1,,,0,h,MISS Sharpe 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,158
+0022300086,225,PT06M22.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,45,89,10,Made,1,41,45,86,h,Sharpe 10' Floating Jump Shot (7 PTS) (Mays 1 AST),Made Shot,Floating Jump shot,1,2,170
+0022300086,245,PT04M58.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,121,-11,12,Made,1,46,47,93,h,Sharpe 12' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,2,184
+0022300086,249,PT04M25.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,4,157,16,Missed,1,,,0,h,MISS Sharpe 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,187
+0022300086,250,PT04M23.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,188
+0022300086,251,PT04M21.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-74,141,16,Made,1,48,47,95,h,Sharpe 16' Jump Shot (11 PTS),Made Shot,Jump Shot,1,2,189
+0022300086,254,PT04M01.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-1,16,2,Made,1,50,47,97,h,Sharpe 2' Running Reverse Layup (13 PTS) (Grant 1 AST),Made Shot,Running Reverse Layup Shot,1,2,192
+0022300086,275,PT02M59.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-58,102,12,Missed,1,,,0,h,MISS Sharpe 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,207
+0022300086,295,PT01M27.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,222
+0022300086,296,PT01M25.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-5,13,1,Missed,1,,,0,h,MISS Sharpe 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,223
+0022300086,310,PT00M16.90S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,223,68,0,Missed,1,,,0,h,MISS Sharpe 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,235
+0022300086,314,PT00M00.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-6,440,44,Missed,1,,,0,h,MISS Sharpe 44' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,238
+0022300086,345,PT10M01.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,104,278,30,Made,1,59,68,127,h,Sharpe 30' 3PT Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1,3,259
+0022300086,365,PT07M59.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,20,15,3,Missed,1,,,0,h,MISS Sharpe 3' Running Layup,Missed Shot,Running Layup Shot,1,2,277
+0022300086,370,PT07M20.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe S.FOUL (P1.T2) (S.Corbin),Foul,Shooting,1,0,282
+0022300086,401,PT05M09.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,237,35,24,Made,1,69,72,141,h,Sharpe 24' 3PT Running Jump Shot (19 PTS) (Grant 3 AST),Made Shot,Running Jump Shot,1,3,308
+0022300086,411,PT04M40.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-143,240,28,Made,1,72,74,146,h,Sharpe 28' 3PT Step Back Jump Shot (22 PTS),Made Shot,Step Back Jump shot,1,3,314
+0022300086,423,PT03M38.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,36,266,27,Missed,1,,,0,h,MISS Sharpe 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,323
+0022300086,431,PT02M46.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:4 Def:0),Rebound,Unknown,1,0,329
+0022300086,434,PT02M46.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,75,80,155,h,Sharpe Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0,331
+0022300086,435,PT02M46.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,76,80,156,h,Sharpe Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0,332
+0022300086,446,PT01M54.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,341
+0022300086,463,PT00M03.90S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,356
+0022300086,522,PT07M41.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,238,10,24,Missed,1,,,0,h,MISS Sharpe 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,397
+0022300086,550,PT04M57.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe STEAL (2 STL),,,1,0,420
+0022300086,555,PT04M44.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Bad Pass Turnover (P3.T15),Turnover,Bad Pass,0,0,422
+0022300086,581,PT02M58.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,213,172,27,Missed,1,,,0,h,MISS Sharpe 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,444
+0022300086,619,PT00M22.60S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-11,0,1,Missed,1,,,0,h,MISS Sharpe 1' Running Layup,Missed Shot,Running Layup Shot,1,2,475
+0022300098,51,PT07M48.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-7,38,4,Missed,1,,,0,v,MISS Sharpe 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,38
+0022300098,63,PT07M19.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Brogdon FOR Sharpe,Substitution,,0,0,49
+0022300098,124,PT02M08.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-131,252,28,Missed,1,,,0,v,MISS Sharpe 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,93
+0022300098,141,PT00M33.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-229,-1,0,Made,1,33,26,59,v,Sharpe 3PT Jump Shot (3 PTS) (Brogdon 3 AST),Made Shot,Jump Shot,1,3,105
+0022300098,144,PT00M12.20S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe S.FOUL (P1.PN) (N.Buchert),Foul,Shooting,1,0,107
+0022300098,191,PT10M08.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,26,12,3,Missed,1,,,0,v,MISS Sharpe 3' Running Layup,Missed Shot,Running Layup Shot,1,2,142
+0022300098,216,PT08M53.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,161
+0022300098,224,PT07M51.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P2.T3) (N.Buchert),Foul,Personal,1,0,166
+0022300098,243,PT06M52.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,44,44,88,v,Sharpe Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,180
+0022300098,246,PT06M52.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,44,45,89,v,Sharpe Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,182
+0022300098,252,PT06M17.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-2,20,2,Made,1,45,47,92,v,Sharpe 2' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,187
+0022300098,255,PT05M41.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,189
+0022300098,270,PT05M10.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,200
+0022300098,278,PT04M17.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,206
+0022300098,328,PT02M02.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-225,16,0,Missed,1,,,0,v,MISS Sharpe 3PT Jump Shot,Missed Shot,Jump Shot,1,3,246
+0022300098,379,PT10M40.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-42,190,19,Made,1,71,62,133,v,Sharpe 19' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,2,282
+0022300098,381,PT10M18.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,284
+0022300098,410,PT07M52.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,306
+0022300098,411,PT07M43.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,9,167,17,Made,1,77,66,143,v,Sharpe 17' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,2,307
+0022300098,425,PT06M22.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Out of Bounds Lost Ball Turnover (P2.T9),Turnover,Out of Bounds Lost Ball Turnover,1,0,319
+0022300098,452,PT04M43.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,67,115,13,Missed,1,,,0,v,MISS Sharpe 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,341
+0022300098,461,PT04M18.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,0,346
+0022300098,497,PT01M59.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-154,216,27,Made,1,93,74,167,v,Sharpe 27' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,3,376
+0022300098,506,PT01M07.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-9,4,1,Made,1,94,79,173,v,Sharpe 1' Running Reverse Layup (16 PTS) (Brogdon 5 AST),Made Shot,Running Reverse Layup Shot,1,2,385
+0022300098,509,PT01M07.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,MISS Sharpe Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,387
+0022300098,583,PT07M51.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-53,169,18,Missed,1,,,0,v,MISS Sharpe 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,443
+0022300098,592,PT06M47.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-5,-15,2,Made,1,105,89,194,v,Sharpe 2' Driving Reverse Layup (18 PTS) (Williams III 2 AST),Made Shot,Driving Reverse Layup Shot,1,2,449
+0022300098,603,PT06M07.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe S.FOUL (P3.T4) (N.Buchert),Foul,Shooting,1,0,455
+0022300098,613,PT05M56.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,109,90,199,v,Sharpe Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,461
+0022300098,614,PT05M56.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,109,91,200,v,Sharpe Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,462
+0022300098,637,PT04M39.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Mays FOR Sharpe,Substitution,,0,0,479
+0022300105,13,PT11M07.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,9
+0022300105,30,PT09M30.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-189,161,25,Made,1,8,7,15,v,Sharpe 25' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,22
+0022300105,51,PT07M09.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,40
+0022300105,63,PT06M23.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Camara FOR Sharpe,Substitution,,0,0,50
+0022300105,126,PT02M05.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,93
+0022300105,127,PT01M59.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Bad Pass Turnover (P3.T7),Turnover,Bad Pass,1,0,94
+0022300105,133,PT01M20.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe BLOCK (1 BLK),,,1,2,101
+0022300105,138,PT01M00.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-55,247,25,Made,1,23,21,44,v,Sharpe 25' 3PT Pullup Jump Shot (6 PTS) (Brogdon 2 AST),Made Shot,Pullup Jump shot,1,3,104
+0022300105,147,PT00M02.30S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-126,224,26,Missed,1,,,0,v,MISS Sharpe 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,111
+0022300105,168,PT10M33.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe STEAL (1 STL),,,1,0,128
+0022300105,170,PT10M29.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-4,9,1,Made,1,25,27,52,v,Sharpe 1' Running Dunk (8 PTS) (Mays 1 AST),Made Shot,Running Dunk Shot,1,2,129
+0022300105,197,PT08M17.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,149
+0022300105,200,PT08M01.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P1.T2) (M.Dagher),Foul,Personal,1,0,151
+0022300105,233,PT06M27.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,35,36,71,v,Sharpe Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,172
+0022300105,234,PT06M27.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,35,37,72,v,Sharpe Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,173
+0022300105,240,PT05M43.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,178
+0022300105,252,PT04M31.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe S.FOUL (P2.T4) (B.Forte),Foul,Shooting,1,0,188
+0022300105,279,PT02M24.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-110,59,12,Missed,1,,,0,v,MISS Sharpe 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,207
+0022300105,284,PT01M41.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe S.FOUL (P3.PN) (D.Taylor),Foul,Shooting,1,0,211
+0022300105,287,PT01M41.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Camara FOR Sharpe,Substitution,,0,0,213
+0022300105,339,PT09M52.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,25,27,4,Made,1,50,51,101,v,Sharpe 4' Running Finger Roll Layup (12 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,255
+0022300105,377,PT06M14.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,2,175,18,Missed,1,,,0,v,MISS Sharpe 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,286
+0022300105,388,PT05M33.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Camara FOR Sharpe,Substitution,,0,0,296
+0022300105,464,PT00M10.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Thybulle FOR Sharpe,Substitution,,0,0,352
+0022300105,479,PT11M40.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,233,8,0,Missed,1,,,0,v,MISS Sharpe 3PT Jump Shot,Missed Shot,Jump Shot,1,3,360
+0022300105,482,PT11M18.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,363
+0022300105,500,PT09M03.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,378
+0022300105,501,PT08M59.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Lost Ball Turnover (P4.T15),Turnover,Lost Ball,1,0,379
+0022300105,511,PT08M30.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,80,83,163,v,Sharpe Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,386
+0022300105,512,PT08M30.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,80,84,164,v,Sharpe Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,387
+0022300105,538,PT07M22.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe BLOCK (2 BLK),,,1,2,406
+0022300105,543,PT07M07.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,71,268,28,Missed,1,,,0,v,MISS Sharpe 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,410
+0022300105,568,PT05M26.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-37,28,5,Missed,1,,,0,v,MISS Sharpe 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,430
+0022300115,15,PT11M15.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,8
+0022300115,17,PT11M06.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,10
+0022300115,20,PT10M41.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe BLOCK (1 BLK),,,1,2,13
+0022300115,104,PT04M41.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Brogdon FOR Sharpe,Substitution,,0,0,74
+0022300115,161,PT02M03.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-96,242,26,Missed,1,,,0,v,MISS Sharpe 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,116
+0022300115,175,PT00M10.10S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,128
+0022300115,176,PT00M01.10S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-233,21,0,Missed,1,,,0,v,MISS Sharpe 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,129
+0022300115,185,PT11M57.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P1.T1) (J.Sterling),Foul,Personal,0,0,135
+0022300115,189,PT11M38.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,138
+0022300115,192,PT11M29.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,MISS Sharpe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,140
+0022300115,194,PT11M29.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,32,27,59,v,Sharpe Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,142
+0022300115,229,PT08M11.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,38,51,6,Missed,1,,,0,v,MISS Sharpe 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,168
+0022300115,233,PT07M52.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,172
+0022300115,252,PT06M51.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,4,40,4,Missed,1,,,0,v,MISS Sharpe 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,0,2,186
+0022300115,270,PT05M26.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-1,37,4,Made,1,48,36,84,v,Sharpe 4' Driving Layup (3 PTS) (Henderson 3 AST),Made Shot,Driving Layup Shot,1,2,199
+0022300115,295,PT02M45.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Brogdon FOR Sharpe,Substitution,,0,0,219
+0022300115,393,PT06M55.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-25,32,4,Made,1,70,60,130,v,Sharpe 4' Driving Finger Roll Layup (5 PTS) (Henderson 7 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,288
+0022300115,415,PT05M03.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,303
+0022300115,419,PT04M30.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,307
+0022300115,426,PT04M21.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,26,8,3,Made,1,75,66,141,v,Sharpe 3' Driving Layup (7 PTS) (Brogdon 3 AST),Made Shot,Driving Layup Shot,1,2,311
+0022300115,432,PT03M54.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-194,199,28,Made,1,78,69,147,v,Sharpe 28' 3PT Jump Shot (10 PTS) (Brogdon 4 AST),Made Shot,Jump Shot,1,3,315
+0022300115,436,PT03M23.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-124,33,13,Missed,1,,,0,v,MISS Sharpe 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,318
+0022300115,442,PT03M20.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,20,17,3,Missed,1,,,0,v,MISS Sharpe 3' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,322
+0022300115,454,PT02M33.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,29,27,4,Made,1,80,73,153,v,Sharpe 4' Cutting Dunk Shot (12 PTS) (Williams III 1 AST),Made Shot,Cutting Dunk Shot,1,2,332
+0022300115,458,PT02M10.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-20,268,27,Made,1,80,76,156,v,Sharpe 27' 3PT Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,1,3,335
+0022300115,466,PT01M42.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,154,209,26,Made,1,82,79,161,v,Sharpe 26' 3PT Pullup Jump Shot (18 PTS) (Brogdon 5 AST),Made Shot,Pullup Jump shot,1,3,340
+0022300115,472,PT01M04.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-189,215,29,Missed,1,,,0,v,MISS Sharpe 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,343
+0022300115,551,PT08M37.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,399
+0022300115,558,PT08M21.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,34,12,4,Made,1,93,89,182,v,Sharpe 4' Driving Layup (20 PTS) (Mays 1 AST),Made Shot,Driving Layup Shot,1,2,403
+0022300115,563,PT07M35.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe STEAL (1 STL),,,1,0,408
+0022300115,587,PT06M16.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-23,22,3,Made,1,93,96,189,v,Sharpe 3' Alley Oop Dunk (22 PTS) (Mays 2 AST),Made Shot,Alley Oop Dunk Shot,1,2,423
+0022300115,668,PT04M33.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe BLOCK (2 BLK),,,1,2,436
+0022300115,628,PT03M23.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,99,100,199,v,Sharpe Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0,453
+0022300115,629,PT03M23.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,99,101,200,v,Sharpe Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0,454
+0022300115,636,PT02M43.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,99,102,201,v,Sharpe Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,1,0,459
+0022300115,637,PT02M43.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,99,103,202,v,Sharpe Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,1,0,460
+0022300115,644,PT01M58.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Bad Pass Turnover (P2.T17),Turnover,Bad Pass,1,0,467
+0022300115,654,PT01M42.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,101,104,205,v,Sharpe Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,1,0,474
+0022300115,657,PT01M42.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,MISS Sharpe Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,476
+0022300115,678,PT00M14.40S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,101,109,210,v,Sharpe Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,1,0,492
+0022300115,679,PT00M14.40S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,101,110,211,v,Sharpe Free Throw 2 of 2 (29 PTS),Free Throw,Free Throw 2 of 2,1,0,493
+0022300144,21,PT10M24.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe BLOCK (1 BLK),,,1,2,14
+0022300144,32,PT09M36.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,22
+0022300144,33,PT09M34.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,23
+0022300144,34,PT09M33.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe P.FOUL (P1.T1) (G.Petraitis),Foul,Personal,0,0,25
+0022300144,49,PT08M48.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,13,8,2,Missed,1,,,0,h,MISS Sharpe 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,36
+0022300144,64,PT07M54.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,49
+0022300144,74,PT06M45.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,81,266,28,Made,1,17,9,26,h,Sharpe 28' 3PT Step Back Jump Shot (3 PTS) (Brogdon 3 AST),Made Shot,Step Back Jump shot,1,3,56
+0022300144,78,PT06M11.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,59
+0022300144,90,PT05M25.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Williams III FOR Sharpe,Substitution,,0,0,70
+0022300144,136,PT02M21.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-109,236,26,Made,1,30,22,52,h,Sharpe 26' 3PT Jump Shot (6 PTS) (Camara 1 AST),Made Shot,Jump Shot,1,3,98
+0022300144,150,PT02M02.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,MISS Sharpe Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,107
+0022300144,187,PT11M34.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,134
+0022300144,191,PT11M05.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,138
+0022300144,192,PT10M59.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-157,24,16,Made,1,34,30,64,h,Sharpe 16' Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,1,2,139
+0022300144,202,PT10M16.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,146
+0022300144,244,PT07M00.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,181
+0022300144,257,PT06M09.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,163,215,27,Missed,1,,,0,h,MISS Sharpe 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,189
+0022300144,289,PT03M37.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,176,211,27,Missed,1,,,0,h,MISS Sharpe 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,213
+0022300144,293,PT03M13.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,7,3,1,Made,1,50,47,97,h,Sharpe 1' Running Dunk (10 PTS) (Thybulle 1 AST),Made Shot,Running Dunk Shot,1,2,217
+0022300144,304,PT02M44.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,MISS Sharpe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,223
+0022300144,308,PT02M44.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,51,50,101,h,Sharpe Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,226
+0022300144,328,PT01M04.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-16,24,3,Missed,1,,,0,h,MISS Sharpe 3' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,241
+0022300144,352,PT11M37.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,185,164,25,Missed,1,,,0,h,MISS Sharpe 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,252
+0022300144,374,PT09M32.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,1,7,1,Made,1,66,67,133,h,Sharpe 1' Running Layup (13 PTS),Made Shot,Running Layup Shot,1,2,269
+0022300144,384,PT08M54.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe STEAL (1 STL),,,1,0,280
+0022300144,409,PT06M49.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,6,4,1,Missed,1,,,0,h,MISS Sharpe 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,297
+0022300144,421,PT06M26.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,306
+0022300144,422,PT06M23.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Out of Bounds - Bad Pass Turnover Turnover (P2.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,307
+0022300144,445,PT05M04.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Mays FOR Sharpe,Substitution,,0,0,327
+0022300144,536,PT11M02.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,126,13,13,Made,1,88,82,170,h,Sharpe 13' Turnaround Fadeaway (15 PTS),Made Shot,Turnaround Fadeaway shot,1,2,395
+0022300144,544,PT10M24.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,181,172,25,Made,1,91,82,173,h,Sharpe 25' 3PT Jump Shot (18 PTS) (Mays 2 AST),Made Shot,Jump Shot,1,3,399
+0022300144,586,PT06M58.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-6,258,26,Missed,1,,,0,h,MISS Sharpe 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,429
+0022300144,610,PT04M32.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Bad Pass Turnover (P3.T13),Turnover,Bad Pass,1,0,451
+0022300144,646,PT01M03.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-132,260,29,Missed,1,,,0,h,MISS Sharpe 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,481
+0022300170,18,PT10M25.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-60,28,7,Missed,1,,,0,v,MISS Sharpe 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,13
+0022300170,43,PT07M49.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,164,205,26,Made,1,8,10,18,v,Sharpe 26' 3PT Jump Shot (3 PTS) (Brogdon 1 AST),Made Shot,Jump Shot,1,3,34
+0022300170,102,PT03M15.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,MISS Sharpe Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,0,76
+0022300170,104,PT03M15.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,21,21,42,v,Sharpe Free Throw 2 of 3 (4 PTS),Free Throw,Free Throw 2 of 3,1,0,78
+0022300170,113,PT03M15.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,21,22,43,v,Sharpe Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,1,0,83
+0022300170,116,PT02M36.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-27,25,4,Made,1,23,24,47,v,Sharpe 4' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,85
+0022300170,121,PT02M12.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,89
+0022300170,134,PT01M29.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Lost Ball Turnover (P2.T3),Turnover,Lost Ball,1,0,99
+0022300170,260,PT06M18.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P1.T3) (B.Kennedy),Foul,Personal,1,0,187
+0022300170,264,PT05M52.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,16,33,4,Missed,1,,,0,v,MISS Sharpe 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,189
+0022300170,281,PT04M37.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-1,284,28,Missed,1,,,0,v,MISS Sharpe 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,202
+0022300170,284,PT04M25.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,205
+0022300170,291,PT04M15.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,50,48,98,v,Sharpe Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,210
+0022300170,292,PT04M15.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,50,49,99,v,Sharpe Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,211
+0022300170,315,PT02M14.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe AWAY.FROM.PLAY.FOUL (P2.PN) (B.Kennedy),Foul,Away From Play,1,0,227
+0022300170,345,PT00M31.80S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,11,27,3,Missed,1,,,0,v,MISS Sharpe 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,249
+0022300170,356,PT00M03.70S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,56,59,115,v,Sharpe Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,256
+0022300170,361,PT00M03.70S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,56,60,116,v,Sharpe Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,259
+0022300170,362,PT00M02.90S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe STEAL (1 STL),,,1,0,261
+0022300170,364,PT00M00.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,163,237,29,Missed,1,,,0,v,MISS Sharpe 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,262
+0022300170,382,PT10M49.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,65,147,16,Made,1,59,62,121,v,Sharpe 16' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,2,271
+0022300170,388,PT10M02.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P3.T1) (J.Goble),Foul,Personal,1,0,275
+0022300170,429,PT07M14.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-5,46,5,Made,1,72,69,141,v,Sharpe 5' Driving Dunk (15 PTS) (Mays 5 AST),Made Shot,Driving Dunk Shot,1,2,305
+0022300170,463,PT04M18.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-172,205,27,Missed,1,,,0,v,MISS Sharpe 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,330
+0022300170,481,PT03M06.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-56,35,7,Missed,1,,,0,v,MISS Sharpe 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,344
+0022300170,511,PT01M39.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Lost Ball Turnover (P3.T11),Turnover,Lost Ball,1,0,360
+0022300170,513,PT01M38.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe S.FOUL (P4.PN) (J.Goble),Foul,Shooting,1,0,362
+0022300170,530,PT00M31.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,9,42,4,Made,1,85,83,168,v,Sharpe 4' Driving Floating Jump Shot (17 PTS),Made Shot,Driving Floating Jump Shot,1,2,375
+0022300170,533,PT00M31.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,85,84,169,v,Sharpe Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,0,0,377
+0022300170,539,PT00M05.10S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-44,79,9,Missed,1,,,0,v,MISS Sharpe 9' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,381
+0022300170,613,PT07M08.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,169,206,27,Missed,1,,,0,v,MISS Sharpe 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,432
+0022300170,688,PT01M47.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe S.FOUL (P5.PN) (J.Goble),Foul,Shooting,1,0,488
+0022300170,698,PT00M40.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Step Out of Bounds Turnover (P4.T16),Turnover,Step Out of Bounds Turnover,1,0,497
+0022300170,715,PT00M08.30S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe S.FOUL (P6.PN) (B.Kennedy),Foul,Shooting,1,0,508
+0022300170,722,PT00M08.30S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Walker FOR Sharpe,Substitution,,0,0,512
+0022300187,49,PT07M47.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,37
+0022300187,54,PT07M16.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,93,78,12,Missed,1,,,0,v,MISS Sharpe 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,42
+0022300187,67,PT06M11.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,112,27,12,Made,1,14,16,30,v,Sharpe 12' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,2,52
+0022300187,87,PT05M16.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,16,19,35,v,Sharpe Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,67
+0022300187,88,PT05M16.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,16,20,36,v,Sharpe Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,68
+0022300187,94,PT04M06.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-47,110,12,Missed,1,,,0,v,MISS Sharpe 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,73
+0022300187,100,PT03M41.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Camara FOR Sharpe,Substitution,,0,0,77
+0022300187,140,PT01M21.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,67,242,25,Missed,1,,,0,v,MISS Sharpe 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,107
+0022300187,165,PT11M47.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,6,6,1,Made,1,31,30,61,v,Sharpe 1' Cutting Dunk Shot (6 PTS) (Reath 1 AST),Made Shot,Cutting Dunk Shot,1,2,125
+0022300187,180,PT10M40.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-47,126,13,Missed,1,,,0,v,MISS Sharpe 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,137
+0022300187,201,PT09M24.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,151
+0022300187,210,PT08M35.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,61,248,26,Made,1,33,40,73,v,Sharpe 26' 3PT Pullup Jump Shot (9 PTS) (Bouyea 2 AST),Made Shot,Pullup Jump shot,1,3,158
+0022300187,264,PT05M06.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,196
+0022300187,265,PT05M05.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Out of Bounds Lost Ball Turnover (P2.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0,197
+0022300187,284,PT02M51.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P1.PN) (M.Dagher),Foul,Personal,1,0,213
+0022300187,297,PT01M18.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,86,144,17,Made,1,52,54,106,v,Sharpe 17' Pullup Jump Shot (11 PTS) (Mays 6 AST),Made Shot,Pullup Jump shot,1,2,222
+0022300187,301,PT01M00.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Bad Pass Turnover (P3.T7),Turnover,Bad Pass,0,0,224
+0022300187,311,PT00M27.10S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,232
+0022300187,312,PT00M11.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Offensive Charge Foul (P2) (M.Dagher),Foul,Offensive Charge,1,0,233
+0022300187,314,PT00M11.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Offensive Foul Turnover (P4.T8),Turnover,Offensive Foul Turnover,1,0,234
+0022300187,324,PT11M42.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Bad Pass Turnover (P5.T9),Turnover,Bad Pass,1,0,239
+0022300187,351,PT08M46.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-28,251,25,Made,1,64,66,130,v,Sharpe 25' 3PT Pullup Jump Shot (14 PTS) (Thybulle 2 AST),Made Shot,Pullup Jump shot,1,3,257
+0022300187,374,PT06M49.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,74,250,26,Missed,1,,,0,v,MISS Sharpe 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,275
+0022300187,383,PT06M28.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Out of Bounds - Bad Pass Turnover Turnover (P6.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,282
+0022300187,386,PT06M08.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-12,21,2,Missed,1,,,0,v,MISS Sharpe 2' Running Layup,Missed Shot,Running Layup Shot,1,2,285
+0022300187,416,PT04M19.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-227,15,0,Missed,1,,,0,v,MISS Sharpe 3PT Jump Shot,Missed Shot,Jump Shot,1,3,306
+0022300187,469,PT00M16.80S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,131,251,28,Made,1,91,80,171,v,Sharpe 28' 3PT Jump Shot (17 PTS) (Mays 9 AST),Made Shot,Jump Shot,1,3,346
+0022300187,544,PT06M23.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-22,8,2,Missed,1,,,0,v,MISS Sharpe 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,396
+0022300187,580,PT03M02.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P3.T4) (M.Lindsay),Foul,Personal,1,0,425
+0022300187,585,PT02M34.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Bad Pass Turnover (P7.T15),Turnover,Bad Pass,1,0,429
+0022300187,612,PT00M10.30S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,4,11,1,Made,1,114,110,224,v,Sharpe 1' Driving Dunk (19 PTS),Made Shot,Driving Dunk Shot,1,2,452
+0022300187,613,PT00M06.60S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Personal Take Foul (P4.PN) (A.Smith),Foul,Personal Take,1,0,453
+0022300199,11,PT11M22.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-173,215,28,Made,1,3,0,3,h,Sharpe 28' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,5
+0022300199,27,PT09M50.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-218,133,26,Missed,1,,,0,h,MISS Sharpe 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,18
+0022300199,33,PT09M35.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,5,5,10,h,Sharpe Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,23
+0022300199,34,PT09M35.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,6,5,11,h,Sharpe Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,24
+0022300199,44,PT08M45.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,32
+0022300199,56,PT07M42.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,170,230,29,Missed,1,,,0,h,MISS Sharpe 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,40
+0022300199,58,PT07M38.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe P.FOUL (P1.T3) (T.Ford),Foul,Personal,1,0,42
+0022300199,88,PT05M05.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,9,19,28,h,Sharpe Free Throw Technical (6 PTS),Free Throw,Free Throw Technical,0,0,61
+0022300199,98,PT04M00.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-137,232,27,Missed,1,,,0,h,MISS Sharpe 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,68
+0022300199,113,PT03M38.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,79
+0022300199,123,PT02M54.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Mays FOR Sharpe,Substitution,,0,0,88
+0022300199,232,PT06M35.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,76,32,8,Missed,1,,,0,h,MISS Sharpe 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,168
+0022300199,251,PT05M33.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe P.FOUL (P2.T3) (K.Cutler),Foul,Personal,1,0,180
+0022300199,266,PT04M31.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,56,16,6,Missed,1,,,0,h,MISS Sharpe 6' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,2,190
+0022300199,269,PT04M25.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,193
+0022300199,276,PT03M52.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,57,6,Missed,1,,,0,h,MISS Sharpe 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,198
+0022300199,282,PT03M34.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,42,52,94,h,Sharpe Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,203
+0022300199,291,PT03M34.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,43,52,95,h,Sharpe Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,208
+0022300199,293,PT03M09.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,210
+0022300199,294,PT02M54.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,206,136,25,Missed,1,,,0,h,MISS Sharpe 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,211
+0022300199,308,PT01M52.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-2,25,3,Missed,1,,,0,h,MISS Sharpe 3' Running Layup,Missed Shot,Running Layup Shot,1,2,223
+0022300199,309,PT01M51.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,224
+0022300199,310,PT01M51.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,Made,1,45,52,97,h,Sharpe Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,1,2,225
+0022300199,317,PT01M31.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe P.FOUL (P3.PN) (K.Cutler),Foul,Personal,1,0,229
+0022300199,320,PT01M31.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Bouyea FOR Sharpe,Substitution,,0,0,231
+0022300199,354,PT11M44.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,26,4,3,Missed,1,,,0,h,MISS Sharpe 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,255
+0022300199,369,PT10M50.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,267
+0022300199,395,PT08M49.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,50,58,108,h,Sharpe Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,288
+0022300199,396,PT08M49.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,MISS Sharpe Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,289
+0022300199,449,PT04M07.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,323
+0022300199,454,PT04M05.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,38,61,7,Missed,1,,,0,h,MISS Sharpe 7' Running Layup,Missed Shot,Running Layup Shot,1,2,324
+0022300199,458,PT04M04.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Mays FOR Sharpe,Substitution,,0,0,329
+0022300199,569,PT08M25.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Grant FOR Sharpe,Substitution,,0,0,405
+0022300215,20,PT10M02.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe S.FOUL (P1.T1) (C.Kirkland),Foul,Shooting,1,0,14
+0022300215,44,PT07M35.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,9,18,2,Made,1,8,11,19,h,Sharpe 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,33
+0022300215,47,PT07M18.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,36
+0022300215,90,PT04M21.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,1,0,66
+0022300215,98,PT03M40.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe P.FOUL (P2.T4) (C.Kirkland),Foul,Personal,1,0,72
+0022300215,100,PT03M40.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Mays FOR Sharpe,Substitution,,0,0,73
+0022300215,170,PT11M14.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,23,22,3,Missed,1,,,0,h,MISS Sharpe 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,115
+0022300215,185,PT09M45.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,127
+0022300215,201,PT08M48.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,143,32,15,Missed,1,,,0,h,MISS Sharpe 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,137
+0022300215,211,PT08M03.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,67,39,8,Missed,1,,,0,h,MISS Sharpe 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,146
+0022300215,262,PT04M23.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe S.FOUL (P3.T2) (M.Kogut),Foul,Shooting,1,0,188
+0022300215,266,PT04M23.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Camara FOR Sharpe,Substitution,,0,0,191
+0022300215,338,PT11M39.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,239
+0022300215,343,PT11M10.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,147,213,26,Made,1,46,76,122,h,Sharpe 26' 3PT Jump Shot (5 PTS) (Grant 1 AST),Made Shot,Jump Shot,1,3,243
+0022300215,361,PT09M44.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,255
+0022300215,373,PT08M40.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,27,22,3,Made,1,55,82,137,h,Sharpe 3' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,264
+0022300215,400,PT05M11.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-26,13,3,Missed,1,,,0,h,MISS Sharpe 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,285
+0022300215,413,PT04M08.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-59,150,16,Missed,1,,,0,h,MISS Sharpe 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,295
+0022300215,423,PT03M53.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Bouyea FOR Sharpe,Substitution,,0,0,305
+0022300237,11,PT11M01.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-12,-10,2,Made,1,5,0,5,h,Sharpe 2' Running Layup (2 PTS) (Grant 1 AST),Made Shot,Running Layup Shot,1,2,6
+0022300237,41,PT07M39.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,28
+0022300237,44,PT07M02.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe BLOCK (1 BLK),,,1,2,31
+0022300237,53,PT06M08.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,78,164,18,Missed,1,,,0,h,MISS Sharpe 18' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,38
+0022300237,83,PT04M29.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-202,141,25,Made,1,20,12,32,h,Sharpe 25' 3PT Step Back Jump Shot (5 PTS) (Walker 1 AST),Made Shot,Step Back Jump shot,1,3,61
+0022300237,87,PT04M15.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Henderson FOR Sharpe,Substitution,,0,0,64
+0022300237,218,PT07M49.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,96,164,19,Missed,1,,,0,h,MISS Sharpe 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,161
+0022300237,222,PT07M25.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-10,-16,2,Made,1,43,30,73,h,Sharpe 2' Driving Layup (7 PTS) (Brogdon 4 AST),Made Shot,Driving Layup Shot,1,2,164
+0022300237,244,PT05M54.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe P.FOUL (P1.T4) (T.Brothers),Foul,Personal,1,0,178
+0022300237,246,PT05M46.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe S.FOUL (P2.PN) (T.Brothers),Foul,Shooting,1,0,179
+0022300237,257,PT04M31.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,103,158,19,Made,1,51,36,87,h,Sharpe 19' Pullup Jump Shot (9 PTS) (Thybulle 1 AST),Made Shot,Pullup Jump shot,1,2,186
+0022300237,269,PT03M06.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,5,20,2,Missed,1,,,0,h,MISS Sharpe 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,194
+0022300237,275,PT02M46.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,201
+0022300237,285,PT02M12.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe STEAL (1 STL),,,1,0,210
+0022300237,289,PT01M52.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe S.FOUL (P3.PN) (M.Kallio),Foul,Shooting,1,0,212
+0022300237,293,PT01M52.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Camara FOR Sharpe,Substitution,,0,0,215
+0022300237,341,PT09M38.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,251
+0022300237,352,PT08M41.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,261
+0022300237,367,PT07M23.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe P.FOUL (P4.T2) (T.Brothers),Foul,Personal,1,0,272
+0022300237,369,PT07M23.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Thybulle FOR Sharpe,Substitution,,0,0,273
+0022300237,513,PT09M55.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-225,94,24,Missed,1,,,0,h,MISS Sharpe 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,378
+0022300237,531,PT09M09.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,188,176,26,Made,1,101,75,176,h,Sharpe 26' 3PT Pullup Jump Shot (12 PTS) (Henderson 5 AST),Made Shot,Pullup Jump shot,1,3,393
+0022300237,571,PT06M15.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,419
+0022300237,592,PT04M52.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-165,222,28,Missed,1,,,0,h,MISS Sharpe 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,435
+0022300237,622,PT01M36.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-16,0,2,Made,1,120,101,221,h,Sharpe 2' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,2,458
+0022300245,29,PT09M36.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-52,103,12,Made,1,5,6,11,v,Sharpe 12' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,21
+0022300245,44,PT08M07.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,192,206,28,Missed,1,,,0,v,MISS Sharpe 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,36
+0022300245,50,PT07M57.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,41
+0022300245,55,PT07M28.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Violation:Defensive Goaltending (B.Nansel),Violation,Defensive Goaltending,1,0,44
+0022300245,56,PT07M15.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,130,252,28,Missed,1,,,0,v,MISS Sharpe 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,45
+0022300245,62,PT06M33.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-83,142,16,Missed,1,,,0,v,MISS Sharpe 16' Jump Shot,Missed Shot,Jump Shot,1,2,50
+0022300245,92,PT04M52.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,71
+0022300245,93,PT04M49.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-28,149,15,Made,1,18,18,36,v,Sharpe 15' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,72
+0022300245,94,PT04M32.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe STEAL (1 STL),,,1,0,74
+0022300245,96,PT04M29.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,2,32,3,Made,1,18,20,38,v,Sharpe 3' Running Dunk (6 PTS) (Henderson 1 AST),Made Shot,Running Dunk Shot,1,2,75
+0022300245,105,PT04M03.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,80
+0022300245,112,PT03M36.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Grant FOR Sharpe,Substitution,,0,0,85
+0022300245,250,PT06M26.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-10,111,11,Made,1,38,52,90,v,Sharpe 11' Floating Jump Shot (8 PTS) (Brogdon 6 AST),Made Shot,Floating Jump shot,1,2,179
+0022300245,286,PT04M21.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,115,57,13,Missed,1,,,0,v,MISS Sharpe 13' Jump Shot,Missed Shot,Jump Shot,1,2,206
+0022300245,292,PT03M48.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-21,3,2,Missed,1,,,0,v,MISS Sharpe 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,212
+0022300245,315,PT02M44.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,47,34,6,Missed,1,,,0,v,MISS Sharpe 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,230
+0022300245,341,PT00M55.70S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,4,33,3,Missed,1,,,0,v,MISS Sharpe 3' Running Dunk,Missed Shot,Running Dunk Shot,1,2,251
+0022300245,357,PT00M00.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-77,531,54,Missed,1,,,0,v,MISS Sharpe 54' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,263
+0022300245,365,PT11M45.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,225,122,26,Made,1,52,71,123,v,Sharpe 26' 3PT Jump Shot (11 PTS) (Brogdon 9 AST),Made Shot,Jump Shot,1,3,267
+0022300245,381,PT10M08.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-5,4,1,Made,1,55,77,132,v,Sharpe 1' Running Layup (13 PTS) (Grant 2 AST),Made Shot,Running Layup Shot,1,2,279
+0022300245,385,PT10M08.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,55,78,133,v,Sharpe Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,1,0,281
+0022300245,402,PT09M12.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-50,34,6,Missed,1,,,0,v,MISS Sharpe 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,293
+0022300245,518,PT06M24.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,334
+0022300245,471,PT03M53.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,366
+0022300245,472,PT03M48.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-5,14,1,Made,1,72,85,157,v,Sharpe 1' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,1,2,367
+0022300245,497,PT02M37.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe STEAL (2 STL),,,1,0,380
+0022300245,501,PT02M32.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,11,1,Missed,1,,,0,v,MISS Sharpe 1' Running Layup,Missed Shot,Running Layup Shot,1,2,381
+0022300245,502,PT02M31.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,382
+0022300245,507,PT02M31.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,MISS Sharpe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,384
+0022300245,511,PT02M31.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,72,88,160,v,Sharpe Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,387
+0022300245,535,PT00M55.60S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Lost Ball Turnover (P2.T13),Turnover,Lost Ball,1,0,398
+0022300245,538,PT00M31.60S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,401
+0022300245,539,PT00M13.50S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-54,70,9,Missed,1,,,0,v,MISS Sharpe 9' Driving Layup,Missed Shot,Driving Layup Shot,1,2,402
+0022300245,654,PT05M30.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Bad Pass Turnover (P3.T17),Turnover,Bad Pass,1,0,479
+0022300245,737,PT00M08.10S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,208,124,24,Missed,1,,,0,v,MISS Sharpe 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,544
+0022300254,13,PT10M51.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-28,173,18,Missed,1,,,0,v,MISS Sharpe 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,7
+0022300254,19,PT09M56.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,7,11,1,Made,1,8,6,14,v,Sharpe 1' Cutting Dunk Shot (2 PTS) (Brogdon 1 AST),Made Shot,Cutting Dunk Shot,1,2,12
+0022300254,37,PT08M45.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,23
+0022300254,38,PT08M38.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,5,263,26,Made,1,12,12,24,v,Sharpe 26' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,3,24
+0022300254,61,PT06M27.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,42
+0022300254,69,PT05M40.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe S.FOUL (P1.T3) (K.Cutler),Foul,Shooting,1,0,49
+0022300254,128,PT01M50.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Reath FOR Sharpe,Substitution,,0,0,92
+0022300254,214,PT07M49.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,59,134,15,Missed,1,,,0,v,MISS Sharpe 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,148
+0022300254,220,PT07M21.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe STEAL (1 STL),,,1,0,153
+0022300254,245,PT05M26.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-37,25,4,Missed,1,,,0,v,MISS Sharpe 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,168
+0022300254,247,PT05M20.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe STEAL (2 STL),,,1,0,171
+0022300254,257,PT04M36.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,250,25,Missed,1,,,0,v,MISS Sharpe 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,177
+0022300254,265,PT03M54.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,184
+0022300254,266,PT03M45.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,22,96,10,Missed,1,,,0,v,MISS Sharpe 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,185
+0022300254,300,PT01M30.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,53,56,109,v,Sharpe Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,213
+0022300254,303,PT01M30.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,53,57,110,v,Sharpe Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,215
+0022300254,311,PT00M43.30S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,31,16,3,Missed,1,,,0,v,MISS Sharpe 3' Layup,Missed Shot,Layup Shot,1,2,222
+0022300254,341,PT10M46.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe S.FOUL (P2.T1) (R.Acosta),Foul,Shooting,1,0,239
+0022300254,344,PT10M28.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-103,92,14,Missed,1,,,0,v,MISS Sharpe 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,241
+0022300254,353,PT09M59.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,107,121,16,Missed,1,,,0,v,MISS Sharpe 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,249
+0022300254,387,PT07M51.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,16,17,2,Made,1,70,77,147,v,Sharpe 2' Cutting Layup Shot (9 PTS) (Brogdon 4 AST),Made Shot,Cutting Layup Shot,1,2,277
+0022300254,406,PT06M03.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-107,131,17,Missed,1,,,0,v,MISS Sharpe 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,289
+0022300254,414,PT05M09.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,296
+0022300254,415,PT05M04.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Offensive Charge Foul (P3) (R.Acosta),Foul,Offensive Charge,1,0,297
+0022300254,417,PT05M04.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,298
+0022300254,425,PT04M47.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P4.T4) (C.Washington),Foul,Personal,1,0,304
+0022300254,427,PT04M47.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Brogdon FOR Sharpe,Substitution,,0,0,305
+0022300254,581,PT07M27.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,224,10,0,Missed,1,,,0,v,MISS Sharpe 3PT Jump Shot,Missed Shot,Jump Shot,1,3,425
+0022300254,592,PT06M54.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0,435
+0022300254,604,PT06M19.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe L.B.FOUL (P5.T4) (R.Acosta),Foul,Loose Ball,1,0,445
+0022300254,606,PT06M19.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe T.FOUL (P5.T4) (C.Washington),Foul,Technical,0,0,446
+0022300254,609,PT06M09.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,449
+0022300254,613,PT05M37.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,4,0,Made,1,95,100,195,v,Sharpe Running Dunk (11 PTS),Made Shot,Running Dunk Shot,1,2,453
+0022300254,654,PT02M12.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe STEAL (3 STL),,,1,0,483
+0022300254,661,PT02M11.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-4,-1,0,Missed,1,,,0,v,MISS Sharpe Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,484
+0022300254,693,PT00M05.50S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Camara FOR Sharpe,Substitution,,0,0,511
+0022300265,11,PT11M01.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-140,82,16,Missed,1,,,0,v,MISS Sharpe 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,5
+0022300265,27,PT09M26.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,19
+0022300265,31,PT08M54.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,22
+0022300265,64,PT05M43.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe STEAL (1 STL),,,1,0,49
+0022300265,70,PT05M39.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Walker FOR Sharpe,Substitution,,0,0,54
+0022300265,159,PT09M54.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Offensive Charge Foul (P1) (M.Boland),Foul,Offensive Charge,1,0,122
+0022300265,161,PT09M54.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,1,0,123
+0022300265,164,PT09M21.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,186,183,26,Missed,1,,,0,v,MISS Sharpe 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,125
+0022300265,177,PT08M31.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,170,198,26,Missed,1,,,0,v,MISS Sharpe 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,135
+0022300265,205,PT06M28.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0,156
+0022300265,219,PT05M27.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,12,11,2,Made,1,40,29,69,v,Sharpe 2' Cutting Dunk Shot (2 PTS) (Brogdon 3 AST),Made Shot,Cutting Dunk Shot,1,2,167
+0022300265,223,PT04M43.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,55,136,15,Made,1,42,31,73,v,Sharpe 15' Pullup Jump Shot (4 PTS) (Ayton 1 AST),Made Shot,Pullup Jump shot,1,2,169
+0022300265,236,PT03M55.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,178
+0022300265,246,PT03M21.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,186
+0022300265,258,PT02M17.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,165,201,26,Made,1,42,36,78,v,Sharpe 26' 3PT Jump Shot (7 PTS) (Grant 3 AST),Made Shot,Jump Shot,1,3,197
+0022300265,261,PT01M52.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,199
+0022300265,274,PT00M43.40S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Bad Pass Turnover (P3.T15),Turnover,Bad Pass,1,0,209
+0022300265,277,PT00M17.40S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,69,67,10,Made,1,46,40,86,v,Sharpe 10' Driving Floating Jump Shot (9 PTS) (Brogdon 4 AST),Made Shot,Driving Floating Jump Shot,1,2,212
+0022300265,295,PT10M22.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,227
+0022300265,296,PT10M15.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Bad Pass Turnover (P4.T17),Turnover,Bad Pass,0,0,228
+0022300265,300,PT10M12.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe S.FOUL (P2.T1) (M.Boland),Foul,Shooting,1,0,232
+0022300265,324,PT08M41.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,206,149,25,Made,1,56,45,101,v,Sharpe 25' 3PT Step Back Jump Shot (12 PTS) (Brogdon 6 AST),Made Shot,Step Back Jump shot,1,3,249
+0022300265,335,PT07M21.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,6,10,1,Made,1,59,50,109,v,Sharpe 1' Driving Floating Jump Shot (14 PTS) (Ayton 2 AST),Made Shot,Driving Floating Jump Shot,1,2,256
+0022300265,363,PT04M55.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,276
+0022300265,368,PT04M53.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Henderson FOR Sharpe,Substitution,,0,0,280
+0022300265,406,PT02M33.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,1,5,1,Made,1,70,64,134,v,Sharpe 1' Driving Dunk (16 PTS),Made Shot,Driving Dunk Shot,1,2,304
+0022300265,409,PT02M09.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-159,217,27,Missed,1,,,0,v,MISS Sharpe 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,307
+0022300265,416,PT01M27.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-235,22,24,Made,1,70,70,140,v,Sharpe 24' 3PT Jump Shot (19 PTS) (Henderson 4 AST),Made Shot,Jump Shot,1,3,312
+0022300265,429,PT00M30.40S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,320
+0022300265,440,PT11M47.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,1,2,0,Made,1,75,76,151,v,Sharpe Cutting Layup Shot (21 PTS) (Reath 2 AST),Made Shot,Cutting Layup Shot,1,2,329
+0022300265,444,PT11M47.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,75,77,152,v,Sharpe Free Throw 1 of 1 (22 PTS),Free Throw,Free Throw 1 of 1,1,0,331
+0022300265,446,PT11M22.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,333
+0022300265,451,PT10M35.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,124,230,26,Made,1,77,83,160,v,Sharpe 26' 3PT Pullup Jump Shot (25 PTS),Made Shot,Pullup Jump shot,1,3,336
+0022300265,527,PT03M58.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Bad Pass Turnover (P5.T21),Turnover,Bad Pass,1,0,393
+0022300265,545,PT03M12.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P3.T4) (P.Fraher),Foul,Personal,1,0,406
+0022300265,568,PT01M33.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,9,15,2,Made,1,91,99,190,v,Sharpe 2' Driving Layup (27 PTS),Made Shot,Driving Layup Shot,1,2,422
+0022300265,585,PT00M36.60S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:10),Rebound,Unknown,1,0,435
+0022300265,590,PT00M34.40S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,93,102,195,v,Sharpe Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,1,0,438
+0022300265,591,PT00M34.40S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,93,103,196,v,Sharpe Free Throw 2 of 2 (29 PTS),Free Throw,Free Throw 2 of 2,1,0,439
+0022300289,9,PT11M18.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe STEAL (1 STL),,,1,0,6
+0022300289,20,PT10M11.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,40,80,9,Made,1,0,4,4,v,Sharpe 9' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,16
+0022300289,30,PT09M28.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,2,7,9,v,Sharpe Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,24
+0022300289,31,PT09M28.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,2,8,10,v,Sharpe Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,25
+0022300289,52,PT07M04.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-219,157,27,Missed,1,,,0,v,MISS Sharpe 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,43
+0022300289,88,PT05M09.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,178,214,28,Missed,1,,,0,v,MISS Sharpe 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,66
+0022300289,103,PT03M48.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe S.FOUL (P1.T4) (D.Collins),Foul,Shooting,1,0,80
+0022300289,122,PT02M37.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,191,168,25,Made,1,17,19,36,v,Sharpe 25' 3PT Running Pull-Up Jump Shot (7 PTS) (Henderson 1 AST),Made Shot,Running Pull-Up Jump Shot,1,3,95
+0022300289,127,PT02M21.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Brogdon FOR Sharpe,Substitution,,0,0,99
+0022300289,213,PT08M25.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-234,5,0,Missed,1,,,0,v,MISS Sharpe 3PT Jump Shot,Missed Shot,Jump Shot,1,3,159
+0022300289,221,PT07M42.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-156,-16,16,Missed,1,,,0,v,MISS Sharpe 16' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,164
+0022300289,224,PT07M29.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,167
+0022300289,225,PT07M25.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,29,16,3,Missed,1,,,0,v,MISS Sharpe 3' Running Layup,Missed Shot,Running Layup Shot,1,2,168
+0022300289,284,PT04M18.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,10,125,13,Missed,1,,,0,v,MISS Sharpe 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,209
+0022300289,285,PT04M15.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,210
+0022300289,286,PT04M15.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,Made,1,48,39,87,v,Sharpe Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,1,2,211
+0022300289,311,PT01M31.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P2.T4) (K.Lane),Foul,Personal,1,0,236
+0022300289,352,PT10M50.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,58,48,106,v,Sharpe Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,257
+0022300289,353,PT10M50.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,58,49,107,v,Sharpe Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,258
+0022300289,356,PT10M25.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-5,155,16,Missed,1,,,0,v,MISS Sharpe 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,261
+0022300289,366,PT09M44.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,270
+0022300289,384,PT07M52.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,284
+0022300289,393,PT07M14.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,31,190,19,Missed,1,,,0,v,MISS Sharpe 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,289
+0022300289,438,PT04M01.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P3.T2) (S.Wright),Foul,Personal,1,0,322
+0022300289,448,PT03M15.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe STEAL (2 STL),,,1,0,328
+0022300289,480,PT00M11.90S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Brogdon FOR Sharpe,Substitution,,0,0,351
+0022300289,583,PT06M22.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,33,32,5,Made,1,96,89,185,v,Sharpe 5' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,2,423
+0022300289,611,PT04M03.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,446
+0022300289,612,PT04M03.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,Made,1,100,96,196,v,Sharpe Putback Layup (15 PTS),Made Shot,Putback Layup Shot,1,2,447
+0022300289,615,PT03M32.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,107,230,25,Made,1,102,99,201,v,Sharpe 25' 3PT Step Back Jump Shot (18 PTS),Made Shot,Step Back Jump shot,1,3,449
+0022300289,621,PT02M55.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-11,37,4,Made,1,104,101,205,v,Sharpe 4' Driving Dunk (20 PTS),Made Shot,Driving Dunk Shot,1,2,455
+0022300289,632,PT01M19.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,36,275,28,Missed,1,,,0,v,MISS Sharpe 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,464
+0022300289,665,PT04M26.00S,5,1610612757,POR,1631101,Sharpe,S. Sharpe,-23,6,2,Made,1,106,108,214,v,Sharpe 2' Dunk (22 PTS) (Brogdon 5 AST),Made Shot,Dunk Shot,1,2,487
+0022300289,669,PT03M39.00S,5,1610612757,POR,1631101,Sharpe,S. Sharpe,-99,235,26,Made,1,108,111,219,v,Sharpe 26' 3PT Jump Shot (25 PTS) (Brogdon 6 AST),Made Shot,Jump Shot,1,3,489
+0022300289,677,PT02M13.00S,5,1610612757,POR,1631101,Sharpe,S. Sharpe,-153,199,25,Missed,1,,,0,v,MISS Sharpe 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,493
+0022300289,692,PT01M27.00S,5,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe L.B.FOUL (P4.T2) (S.Wright),Foul,Loose Ball,1,0,505
+0022300289,701,PT00M15.00S,5,1610612757,POR,1631101,Sharpe,S. Sharpe,-28,37,5,Missed,1,,,0,v,MISS Sharpe 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,513
+0022300289,715,PT00M02.30S,5,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe L.B.FOUL (P5.PN) (S.Wright),Foul,Loose Ball,1,0,525
+0022300304,8,PT11M22.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-161,121,20,Made,1,2,2,4,v,Sharpe 20' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,4
+0022300304,14,PT10M14.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-224,107,25,Made,1,6,5,11,v,Sharpe 25' 3PT Jump Shot (5 PTS) (Simons 1 AST),Made Shot,Jump Shot,1,3,9
+0022300304,29,PT08M49.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,33,269,27,Missed,1,,,0,v,MISS Sharpe 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,20
+0022300304,41,PT07M17.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,30
+0022300304,52,PT06M54.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-234,85,25,Missed,1,,,0,v,MISS Sharpe 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,36
+0022300304,64,PT06M05.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,176,53,18,Made,1,21,9,30,v,Sharpe 18' Pullup Jump Shot (7 PTS) (Henderson 1 AST),Made Shot,Pullup Jump shot,1,2,45
+0022300304,77,PT04M42.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,72,151,17,Made,1,25,15,40,v,Sharpe 17' Fadeaway Jumper (9 PTS) (Henderson 2 AST),Made Shot,Fadeaway Jump Shot,1,2,54
+0022300304,91,PT03M20.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-121,225,26,Missed,1,,,0,v,MISS Sharpe 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,65
+0022300304,134,PT00M29.70S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,67,20,7,Missed,1,,,0,v,MISS Sharpe 7' Running Layup,Missed Shot,Running Layup Shot,1,2,94
+0022300304,243,PT05M44.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,55,49,104,v,Sharpe Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,167
+0022300304,244,PT05M44.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,55,50,105,v,Sharpe Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,168
+0022300304,251,PT05M02.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,55,51,106,v,Sharpe Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,174
+0022300304,254,PT05M02.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,MISS Sharpe Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,176
+0022300304,261,PT04M39.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,57,52,109,v,Sharpe Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,180
+0022300304,262,PT04M39.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,57,53,110,v,Sharpe Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,181
+0022300304,268,PT04M15.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,59,54,113,v,Sharpe Free Throw 1 of 3 (15 PTS),Free Throw,Free Throw 1 of 3,0,0,184
+0022300304,269,PT04M15.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,59,55,114,v,Sharpe Free Throw 2 of 3 (16 PTS),Free Throw,Free Throw 2 of 3,1,0,185
+0022300304,270,PT04M15.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,MISS Sharpe Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,1,0,186
+0022300304,273,PT04M02.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,188
+0022300304,302,PT00M49.40S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-51,89,10,Missed,1,,,0,v,MISS Sharpe 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,213
+0022300304,317,PT11M42.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-168,198,26,Made,1,66,68,134,v,Sharpe 26' 3PT Jump Shot (19 PTS) (Camara 3 AST),Made Shot,Jump Shot,1,3,224
+0022300304,358,PT06M59.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P1.T2) (J.Butler),Foul,Personal,1,0,251
+0022300304,397,PT03M13.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe STEAL (1 STL),,,0,0,277
+0022300304,411,PT02M52.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-22,272,27,Missed,1,,,0,v,MISS Sharpe 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,287
+0022300304,445,PT00M50.60S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,309
+0022300304,446,PT00M50.60S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,25,3,Missed,1,,,0,v,MISS Sharpe 3' Tip Dunk Shot,Missed Shot,Tip Dunk Shot,1,2,310
+0022300304,451,PT00M06.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-191,159,25,Made,1,102,99,201,v,Sharpe 25' 3PT Step Back Jump Shot (22 PTS),Made Shot,Step Back Jump shot,1,3,315
+0022300304,466,PT00M00.10S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-164,526,55,Missed,1,,,0,v,MISS Sharpe 55' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,317
+0022300304,502,PT09M06.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-227,46,0,Made,1,108,108,216,v,Sharpe 3PT Jump Shot (25 PTS) (Henderson 6 AST),Made Shot,Jump Shot,1,3,349
+0022300304,506,PT08M33.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-29,21,4,Missed,1,,,0,v,MISS Sharpe 4' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,352
+0022300304,572,PT04M35.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P2.PN) (J.Butler),Foul,Personal,1,0,402
+0022300304,582,PT03M32.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,143,106,18,Made,1,120,121,241,v,Sharpe 18' Pullup Jump Shot (27 PTS) (Reath 4 AST),Made Shot,Pullup Jump shot,1,2,411
+0022300304,586,PT03M13.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,414
+0022300304,606,PT01M30.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,431
+0022300323,22,PT10M16.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,219,126,25,Missed,1,,,0,h,MISS Sharpe 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,12
+0022300323,27,PT09M49.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,82,146,17,Missed,1,,,0,h,MISS Sharpe 17' Jump Shot,Missed Shot,Jump Shot,1,2,17
+0022300323,71,PT06M50.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe BLOCK (1 BLK),,,1,2,51
+0022300323,80,PT06M06.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-213,126,25,Missed,1,,,0,h,MISS Sharpe 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,56
+0022300323,107,PT03M16.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Brogdon FOR Sharpe,Substitution,,0,0,77
+0022300323,241,PT04M25.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-6,9,1,Missed,1,,,0,h,MISS Sharpe 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,170
+0022300323,258,PT03M39.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,183
+0022300323,265,PT03M12.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,190
+0022300323,266,PT03M03.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-91,243,26,Missed,1,,,0,h,MISS Sharpe 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,191
+0022300323,268,PT02M52.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe P.FOUL (P1.T2) (B.Forte),Foul,Personal,1,0,193
+0022300323,280,PT02M07.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,202
+0022300323,288,PT01M08.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-162,189,25,Missed,1,,,0,h,MISS Sharpe 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,209
+0022300323,291,PT00M45.80S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,4,41,4,Missed,1,,,0,h,MISS Sharpe 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,212
+0022300323,297,PT00M02.60S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe S.FOUL (P2.T3) (C.Washington),Foul,Shooting,1,0,218
+0022300323,317,PT11M13.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,1,7,1,Missed,1,,,0,h,MISS Sharpe 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,228
+0022300323,329,PT10M40.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,236
+0022300323,355,PT09M20.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe P.FOUL (P3.T1) (S.Corbin),Foul,Personal,1,0,261
+0022300323,360,PT09M07.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Henderson FOR Sharpe,Substitution,,0,0,264
+0022300323,437,PT04M48.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-25,0,3,Missed,1,,,0,h,MISS Sharpe 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,318
+0022300323,467,PT02M48.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,339
+0022300323,471,PT02M44.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,65,95,160,h,Sharpe Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,341
+0022300323,476,PT02M44.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,66,95,161,h,Sharpe Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,344
+0022300323,485,PT01M52.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,352
+0022300323,486,PT01M51.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-99,41,11,Missed,1,,,0,h,MISS Sharpe 11' Jump Shot,Missed Shot,Jump Shot,1,2,353
+0022300323,533,PT10M25.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,394
+0022300323,534,PT10M25.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,Made,1,78,107,185,h,Sharpe Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,1,2,395
+0022300323,539,PT09M19.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,39,257,26,Missed,1,,,0,h,MISS Sharpe 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,399
+0022300323,546,PT09M13.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Reath FOR Sharpe,Substitution,,0,0,403
+0022300341,13,PT10M57.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+0022300341,14,PT10M46.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-48,133,14,Missed,1,,,0,h,MISS Sharpe 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,8
+0022300341,36,PT08M14.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe S.FOUL (P1.T1) (J.Orr),Foul,Shooting,1,0,27
+0022300341,82,PT05M04.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Brogdon FOR Sharpe,Substitution,,0,0,63
+0022300341,266,PT05M17.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,31,11,3,Missed,1,,,0,h,MISS Sharpe 3' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,196
+0022300341,270,PT04M52.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,9,17,2,Made,1,52,58,110,h,Sharpe 2' Cutting Layup Shot (2 PTS) (Simons 5 AST),Made Shot,Cutting Layup Shot,1,2,200
+0022300341,274,PT04M52.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,53,58,111,h,Sharpe Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,202
+0022300341,280,PT04M13.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe P.FOUL (P2.PN) (A.Smith),Foul,Personal,1,0,208
+0022300341,299,PT02M49.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,223
+0022300341,326,PT00M49.40S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,MISS Sharpe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,242
+0022300341,328,PT00M49.40S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,61,69,130,h,Sharpe Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,244
+0022300341,359,PT11M32.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,263
+0022300341,362,PT11M20.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-227,3,0,Made,1,66,76,142,h,Sharpe 3PT Jump Shot (7 PTS) (Ayton 1 AST),Made Shot,Jump Shot,1,3,266
+0022300341,389,PT09M07.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Out of Bounds Lost Ball Turnover (P2.T10),Turnover,Out of Bounds Lost Ball Turnover,1,0,290
+0022300341,398,PT08M31.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Henderson FOR Sharpe,Substitution,,0,0,298
+0022300341,540,PT10M05.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe L.B.FOUL (P3.T1) (J.Orr),Foul,Loose Ball,1,0,400
+0022300341,547,PT09M12.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-17,27,3,Missed,1,,,0,h,MISS Sharpe 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,406
+0022300341,599,PT04M20.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,219,120,25,Missed,1,,,0,h,MISS Sharpe 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,445
+0022300341,616,PT02M24.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-228,94,25,Missed,1,,,0,h,MISS Sharpe 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,460
+0022300341,620,PT02M16.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe P.FOUL (P4.T2) (J.Orr),Foul,Personal,1,0,464
+0022300348,13,PT10M58.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,162,215,27,Missed,1,,,0,h,MISS Sharpe 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,8
+0022300348,32,PT08M32.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-113,158,19,Missed,1,,,0,h,MISS Sharpe 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,24
+0022300348,70,PT05M26.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,45,61,8,Missed,1,,,0,h,MISS Sharpe 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,54
+0022300348,100,PT03M35.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,77
+0022300348,102,PT03M28.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-7,13,1,Missed,1,,,0,h,MISS Sharpe 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,78
+0022300348,110,PT03M26.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-230,17,0,Made,1,14,18,32,h,Sharpe 3PT Jump Shot (3 PTS) (Henderson 2 AST),Made Shot,Jump Shot,1,3,83
+0022300348,120,PT03M00.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Grant FOR Sharpe,Substitution,,0,0,91
+0022300348,247,PT04M58.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe P.FOUL (P1.T3) (S.Twardoski),Foul,Personal,1,0,178
+0022300348,252,PT04M41.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,181
+0022300348,271,PT03M25.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,195
+0022300348,288,PT01M46.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,210
+0022300348,298,PT00M40.20S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe STEAL (1 STL),,,1,0,219
+0022300348,300,PT00M35.40S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,33,5,3,Missed,1,,,0,h,MISS Sharpe 3' Running Layup,Missed Shot,Running Layup Shot,1,2,220
+0022300348,334,PT09M55.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,78,252,26,Made,1,54,73,127,h,Sharpe 26' 3PT Step Back Jump Shot (6 PTS) (Grant 4 AST),Made Shot,Step Back Jump shot,1,3,243
+0022300348,374,PT06M41.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Henderson FOR Sharpe,Substitution,,0,0,273
+0022300348,566,PT04M45.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,224,23,0,Made,1,96,104,200,h,Sharpe 3PT Jump Shot (9 PTS) (Grant 6 AST),Made Shot,Jump Shot,1,3,417
+0022300348,570,PT04M16.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-141,227,27,Missed,1,,,0,h,MISS Sharpe 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,419
+0022300348,607,PT00M43.70S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,446
+0022300348,610,PT00M39.10S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,448
+0022300348,611,PT00M39.10S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,Made,1,110,113,223,h,Sharpe Tip Layup Shot (11 PTS),Made Shot,Tip Layup Shot,1,2,449
+0022300348,614,PT00M39.10S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,111,113,224,h,Sharpe Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,1,0,451
+0022300348,645,PT00M00.60S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Offensive Charge Foul (P2) (E.Malloy),Foul,Offensive Charge,1,0,470
+0022300348,647,PT00M00.60S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Offensive Foul Turnover (P2.T14),Turnover,Offensive Foul Turnover,1,0,471
+0022300348,649,PT00M00.30S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Personal Take Foul (P3.PN) (S.Twardoski),Foul,Personal Take,1,0,473
+0022300363,27,PT09M23.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe S.FOUL (P1.T1) (I.Hwang),Foul,Shooting,1,0,21
+0022300363,36,PT08M52.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-123,146,19,Missed,1,,,0,h,MISS Sharpe 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,28
+0022300363,56,PT07M21.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe S.FOUL (P2.T3) (N.Sago),Foul,Shooting,1,0,42
+0022300363,60,PT07M21.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Henderson FOR Sharpe,Substitution,,0,0,45
+0022300363,220,PT07M36.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,159
+0022300363,297,PT04M56.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Henderson FOR Sharpe,Substitution,,0,0,200
+0022300456,79,PT04M39.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,121,136,18,Made,1,13,17,30,v,Sharpe 18' Pullup Jump Shot (2 PTS) (Grant 2 AST),Made Shot,Pullup Jump shot,1,2,66
+0022300456,100,PT03M30.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-124,219,25,Missed,1,,,0,v,MISS Sharpe 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,78
+0022300456,130,PT01M48.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Brogdon FOR Sharpe,Substitution,,0,0,100
+0022300456,235,PT06M29.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,168
+0022300456,242,PT06M13.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,124,150,19,Made,1,38,35,73,v,Sharpe 19' Pullup Jump Shot (4 PTS) (Henderson 2 AST),Made Shot,Pullup Jump shot,1,2,173
+0022300456,277,PT04M06.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Brogdon FOR Sharpe,Substitution,,0,0,198
+0022300456,409,PT05M24.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-42,268,27,Missed,1,,,0,v,MISS Sharpe 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,295
+0022300456,421,PT04M33.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-56,58,8,Missed,1,,,0,v,MISS Sharpe 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,304
+0022300456,445,PT02M34.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,79,58,137,v,Sharpe Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,320
+0022300456,450,PT02M34.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,79,59,138,v,Sharpe Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,323
+0022300456,453,PT02M04.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,222,2,0,Missed,1,,,0,v,MISS Sharpe 3PT Jump Shot,Missed Shot,Jump Shot,1,3,326
+0022300456,465,PT01M54.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Murray FOR Sharpe,Substitution,,0,0,330
+0022300456,500,PT11M28.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-234,116,26,Missed,1,,,0,v,MISS Sharpe 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,354
+0022300456,547,PT08M31.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,184,157,24,Missed,1,,,0,v,MISS Sharpe 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,394
+0022300456,548,PT08M27.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,395
+0022300456,555,PT08M18.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Mays FOR Sharpe,Substitution,,0,0,401
+0022300472,104,PT05M10.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,50,251,26,Made,1,21,13,34,v,Sharpe 26' 3PT Jump Shot (3 PTS) (Henderson 2 AST),Made Shot,Jump Shot,1,3,76
+0022300472,114,PT04M52.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,82
+0022300472,121,PT04M34.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe L.B.FOUL (P1.PN) (R.Acosta),Foul,Loose Ball,1,0,88
+0022300472,150,PT03M17.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,109
+0022300472,151,PT03M09.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-4,25,3,Made,1,27,21,48,v,Sharpe 3' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,110
+0022300472,180,PT00M47.10S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,43,113,12,Made,1,33,25,58,v,Sharpe 12' Driving Floating Bank Jump Shot (7 PTS) (Simons 2 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,132
+0022300472,192,PT11M36.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,1,15,2,Made,1,35,27,62,v,Sharpe 2' Alley Oop Dunk (9 PTS) (Walker 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,140
+0022300472,246,PT08M09.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,228,38,0,Missed,1,,,0,v,MISS Sharpe 3PT Jump Shot,Missed Shot,Jump Shot,1,3,178
+0022300472,247,PT08M07.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,179
+0022300472,250,PT08M07.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,47,31,78,v,Sharpe Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,181
+0022300472,251,PT08M07.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,47,32,79,v,Sharpe Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,182
+0022300472,270,PT06M57.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Camara FOR Sharpe,Substitution,,0,0,195
+0022300472,468,PT05M53.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P2.T3) (D.Taylor),Foul,Personal,1,0,333
+0022300472,507,PT03M51.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,163,196,25,Missed,1,,,0,v,MISS Sharpe 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,361
+0022300472,515,PT03M00.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,28,32,4,Made,1,98,69,167,v,Sharpe 4' Running Layup (13 PTS) (Grant 2 AST),Made Shot,Running Layup Shot,1,2,367
+0022300472,532,PT01M24.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,12,29,3,Made,1,98,71,169,v,Sharpe 3' Driving Layup (15 PTS) (Murray 1 AST),Made Shot,Driving Layup Shot,1,2,380
+0022300472,536,PT01M24.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,98,72,170,v,Sharpe Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,1,0,382
+0022300472,539,PT00M56.90S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,233,59,24,Missed,1,,,0,v,MISS Sharpe 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,385
+0022300472,544,PT00M00.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,26,12,3,Missed,1,,,0,v,MISS Sharpe 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,390
+0022300472,580,PT09M25.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-172,180,25,Missed,1,,,0,v,MISS Sharpe 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,412
+0022300472,589,PT08M26.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe L.B.FOUL (P3.T1) (R.Acosta),Foul,Loose Ball,1,0,421
+0022300472,612,PT07M23.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,438
+0022300472,613,PT07M15.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,11,0,1,Missed,1,,,0,v,MISS Sharpe 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,439
+0022300472,620,PT06M56.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Camara FOR Sharpe,Substitution,,0,0,445
+0022300487,116,PT02M54.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-54,130,14,Made,1,28,22,50,v,Sharpe 14' Pullup Jump Shot (2 PTS) (Brogdon 1 AST),Made Shot,Pullup Jump shot,1,2,85
+0022300487,120,PT02M31.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,87
+0022300487,136,PT01M46.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,33,23,56,v,Sharpe Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,99
+0022300487,137,PT01M46.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,33,24,57,v,Sharpe Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,100
+0022300487,141,PT01M21.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,35,25,60,v,Sharpe Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,103
+0022300487,142,PT01M21.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,35,26,61,v,Sharpe Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,104
+0022300487,182,PT10M38.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,89,138,16,Missed,1,,,0,v,MISS Sharpe 16' Jump Shot,Missed Shot,Jump Shot,1,2,129
+0022300487,210,PT08M44.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-219,119,25,Missed,1,,,0,v,MISS Sharpe 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,149
+0022300487,215,PT08M22.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,154
+0022300487,219,PT08M04.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Henderson FOR Sharpe,Substitution,,0,0,157
+0022300487,285,PT04M19.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Simons FOR Sharpe,Substitution,,0,0,203
+0022300487,433,PT06M02.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,310
+0022300487,434,PT05M57.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,92,130,16,Made,1,82,60,142,v,Sharpe 16' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,2,311
+0022300487,460,PT03M54.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe S.FOUL (P1.T1) (J.Goble),Foul,Shooting,1,0,333
+0022300487,468,PT03M13.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,140,218,26,Missed,1,,,0,v,MISS Sharpe 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,340
+0022300487,471,PT02M58.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P2.T2) (J.Goble),Foul,Personal,1,0,343
+0022300487,498,PT01M10.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-232,16,0,Made,1,100,69,169,v,Sharpe 3PT Jump Shot (11 PTS) (Brogdon 3 AST),Made Shot,Jump Shot,1,3,359
+0022300487,501,PT00M52.10S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,361
+0022300487,502,PT00M43.50S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,7,8,1,Missed,1,,,0,v,MISS Sharpe 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,362
+0022300487,514,PT00M12.30S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,370
+0022300487,515,PT00M05.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-175,193,26,Missed,1,,,0,v,MISS Sharpe 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,371
+0022300487,534,PT10M24.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-26,264,27,Missed,1,,,0,v,MISS Sharpe 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,384
+0022300487,563,PT09M08.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,156,20,16,Missed,1,,,0,v,MISS Sharpe 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,403
+0022300487,579,PT07M57.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,34,10,4,Missed,1,,,0,v,MISS Sharpe 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,413
+0022300487,592,PT07M00.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-12,8,1,Made,1,120,85,205,v,Sharpe 1' Cutting Finger Roll Layup Shot (13 PTS) (Henderson 7 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,422
+0022300487,596,PT06M35.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-228,80,24,Missed,1,,,0,v,MISS Sharpe 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,425
+0022300487,602,PT06M10.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,32,18,4,Missed,1,,,0,v,MISS Sharpe 4' Layup,Missed Shot,Layup Shot,1,2,429
+0022300487,604,PT06M07.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,431
+0022300487,605,PT06M07.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,5,11,1,Made,1,122,87,209,v,Sharpe 1' Putback Layup (15 PTS),Made Shot,Putback Layup Shot,1,2,432
+0022300487,616,PT05M08.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe BLOCK (1 BLK),,,1,2,442
+0022300487,618,PT05M06.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,443
+0022300487,628,PT04M42.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Badji FOR Sharpe,Substitution,,0,0,451
+0022300498,59,PT06M13.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe STEAL (1 STL),,,1,0,44
+0022300498,83,PT05M06.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,127,210,25,Made,1,15,12,27,v,Sharpe 25' 3PT Jump Shot (3 PTS) (Henderson 1 AST),Made Shot,Jump Shot,1,3,57
+0022300498,88,PT04M32.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,4,19,2,Missed,1,,,0,v,MISS Sharpe 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,60
+0022300498,186,PT11M01.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,MISS Sharpe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,128
+0022300498,188,PT11M01.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,31,30,61,v,Sharpe Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,130
+0022300498,205,PT09M48.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-102,13,10,Missed,1,,,0,v,MISS Sharpe 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,143
+0022300498,227,PT08M55.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,23,6,2,Missed,1,,,0,v,MISS Sharpe 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,161
+0022300498,253,PT07M26.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,9,1,1,Made,1,38,36,74,v,Sharpe 1' Cutting Dunk Shot (6 PTS) (Reath 1 AST),Made Shot,Cutting Dunk Shot,1,2,180
+0022300498,271,PT05M25.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe S.FOUL (P1.T3) (T.Ford),Foul,Shooting,1,0,193
+0022300498,286,PT04M25.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-145,193,24,Missed,1,,,0,v,MISS Sharpe 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,206
+0022300498,298,PT03M34.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,146,199,25,Missed,1,,,0,v,MISS Sharpe 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,216
+0022300498,305,PT03M02.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,45,39,84,v,Sharpe Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,222
+0022300498,308,PT03M02.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,45,40,85,v,Sharpe Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,224
+0022300498,315,PT02M25.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Grant FOR Sharpe,Substitution,,0,0,231
+0022300498,399,PT06M06.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,134,216,25,Missed,1,,,0,v,MISS Sharpe 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,295
+0022300498,417,PT03M16.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,23,20,3,Made,1,82,74,156,v,Sharpe 3' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,311
+0022300498,428,PT03M16.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,MISS Sharpe Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,317
+0022300498,432,PT02M51.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-134,217,26,Made,1,82,77,159,v,Sharpe 26' 3PT Running Pull-Up Jump Shot (13 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,321
+0022300498,484,PT00M01.80S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe S.FOUL (P2.PN) (J.Conley),Foul,Shooting,1,0,354
+0022300498,510,PT11M03.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,365
+0022300498,511,PT10M53.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,238,-17,24,Made,1,93,88,181,v,Sharpe 24' 3PT Step Back Jump Shot (16 PTS),Made Shot,Step Back Jump shot,1,3,366
+0022300498,512,PT10M32.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe BLOCK (1 BLK),,,1,2,368
+0022300498,569,PT06M40.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-16,17,2,Made,1,101,103,204,v,Sharpe 2' Driving Layup (18 PTS) (Simons 8 AST),Made Shot,Driving Layup Shot,1,2,408
+0022300498,646,PT00M32.60S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,7,12,1,Missed,1,,,0,v,MISS Sharpe 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,461
+0022300498,655,PT00M05.50S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,22,7,2,Made,1,113,115,228,v,Sharpe 2' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,1,2,469
+0022300498,700,PT01M15.00S,5,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe STEAL (2 STL),,,1,0,497
+0022300498,705,PT01M14.00S,5,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,MISS Sharpe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,499
+0022300498,708,PT01M14.00S,5,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,123,128,251,v,Sharpe Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,501
+0022300514,78,PT05M20.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-118,31,12,Missed,1,,,0,v,MISS Sharpe 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,57
+0022300514,111,PT03M02.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe STEAL (1 STL),,,1,0,86
+0022300514,122,PT02M54.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,217,130,25,Missed,1,,,0,v,MISS Sharpe 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,93
+0022300514,126,PT02M30.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,96
+0022300514,127,PT02M13.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P1.T3) (A.Smith),Foul,Personal,1,0,97
+0022300514,164,PT11M10.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-1,4,0,Made,1,40,24,64,v,Sharpe Running Dunk (2 PTS) (Camara 1 AST),Made Shot,Running Dunk Shot,1,2,123
+0022300514,170,PT11M10.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,40,25,65,v,Sharpe Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,126
+0022300514,208,PT08M12.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Henderson FOR Sharpe,Substitution,,0,0,154
+0022300514,282,PT03M49.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,208
+0022300514,286,PT03M29.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe STEAL (2 STL),,,1,0,213
+0022300514,309,PT02M06.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-223,2,0,Missed,1,,,0,v,MISS Sharpe 3PT Jump Shot,Missed Shot,Jump Shot,1,3,229
+0022300514,310,PT02M04.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,230
+0022300514,314,PT01M41.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,233
+0022300514,435,PT04M38.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-114,47,12,Made,1,87,53,140,v,Sharpe 12' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,2,319
+0022300514,452,PT03M49.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,330
+0022300514,455,PT03M25.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe BLOCK (1 BLK),,,1,2,333
+0022300514,463,PT03M07.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-56,132,14,Missed,1,,,0,v,MISS Sharpe 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,337
+0022300514,486,PT00M52.40S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,6,10,1,Made,1,94,59,153,v,Sharpe 1' Driving Layup (7 PTS) (Badji 2 AST),Made Shot,Driving Layup Shot,1,2,355
+0022300514,489,PT00M30.10S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-18,10,2,Made,1,97,61,158,v,Sharpe 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,357
+0022300529,81,PT06M46.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,70,120,14,Missed,1,,,0,v,MISS Sharpe 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,58
+0022300529,109,PT04M35.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P1.PN) (B.Nansel),Foul,Personal,1,0,82
+0022300529,119,PT03M50.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-13,23,3,Missed,1,,,0,v,MISS Sharpe 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,89
+0022300529,120,PT03M49.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,90
+0022300529,139,PT02M26.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-143,235,28,Made,1,30,20,50,v,Sharpe 28' 3PT Step Back Jump Shot (3 PTS) (Henderson 1 AST),Made Shot,Step Back Jump shot,1,3,104
+0022300529,141,PT02M12.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe P.FOUL (P2.PN) (C.Blair),Foul,Personal,1,0,105
+0022300529,166,PT00M57.80S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,121
+0022300529,167,PT00M54.80S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,122
+0022300529,175,PT00M03.20S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,129
+0022300529,176,PT00M00.50S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-16,336,34,Missed,1,,,0,v,MISS Sharpe 34' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,130
+0022300529,200,PT11M04.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-229,85,24,Missed,1,,,0,v,MISS Sharpe 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,145
+0022300529,203,PT10M55.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-9,15,2,Made,1,36,28,64,v,Sharpe 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,147
+0022300529,224,PT09M16.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,232,18,0,Missed,1,,,0,v,MISS Sharpe 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,162
+0022300529,225,PT09M12.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,163
+0022300529,230,PT08M35.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,44,12,5,Made,1,45,30,75,v,Sharpe 5' Hook Shot (7 PTS) (Simons 1 AST),Made Shot,Hook Shot,1,2,168
+0022300529,254,PT07M12.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Henderson FOR Sharpe,Substitution,,0,0,184
+0022300529,323,PT02M39.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,28,11,3,Missed,1,,,0,v,MISS Sharpe 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,235
+0022300529,328,PT02M13.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,223,-9,0,Missed,1,,,0,v,MISS Sharpe 3PT Jump Shot,Missed Shot,Jump Shot,1,3,240
+0022300529,331,PT01M49.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,12,1,Missed,1,,,0,v,MISS Sharpe 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,243
+0022300529,332,PT01M46.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,244
+0022300529,333,PT01M46.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,Missed,1,,,0,v,MISS Sharpe Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,245
+0022300529,335,PT01M45.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe T.FOUL (P2.T3) (J.Goldenberg),Foul,Technical,1,0,247
+0022300529,345,PT01M13.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe S.FOUL (P3.T4) (J.Goldenberg),Foul,Shooting,1,0,255
+0022300529,348,PT01M13.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Camara FOR Sharpe,Substitution,,0,0,257
+0022300529,445,PT06M08.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-32,164,17,Missed,1,,,0,v,MISS Sharpe 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,331
+0022300529,471,PT05M15.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-98,237,26,Missed,1,,,0,v,MISS Sharpe 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,347
+0022300529,474,PT04M53.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,350
+0022300529,511,PT01M33.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Minaya FOR Sharpe,Substitution,,0,0,382
+0022301214,8,PT11M42.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+0022301214,21,PT10M39.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,16
+0022301214,22,PT10M33.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,70,173,19,Made,1,0,4,4,v,Sharpe 19' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,17
+0022301214,48,PT07M36.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,36
+0022301214,49,PT07M27.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-205,138,25,Made,1,6,12,18,v,Sharpe 25' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,3,37
+0022301214,62,PT06M45.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-176,188,26,Missed,1,,,0,v,MISS Sharpe 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,48
+0022301214,92,PT05M23.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-221,68,0,Made,1,10,16,26,v,Sharpe 3PT Jump Shot (8 PTS) (Brogdon 1 AST),Made Shot,Jump Shot,1,3,71
+0022301214,98,PT04M50.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,7,30,3,Made,1,10,18,28,v,Sharpe 3' Running Dunk (10 PTS),Made Shot,Running Dunk Shot,1,2,76
+0022301214,127,PT03M27.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,SUB: Simons FOR Sharpe,Substitution,,0,0,97
+0022301214,274,PT05M30.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,9,25,3,Made,1,34,41,75,v,Sharpe 3' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,208
+0022301214,301,PT04M17.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-229,-26,0,Missed,1,,,0,v,MISS Sharpe 3PT Jump Shot,Missed Shot,Jump Shot,1,3,225
+0022301214,305,PT04M10.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-47,15,5,Missed,1,,,0,v,MISS Sharpe 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,229
+0022301214,313,PT03M38.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-107,143,18,Missed,1,,,0,v,MISS Sharpe 18' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,235
+0022301214,348,PT01M25.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-43,46,6,Made,1,44,50,94,v,Sharpe 6' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,2,265
+0022301214,382,PT11M27.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-202,168,26,Made,1,48,58,106,v,Sharpe 26' 3PT Pullup Jump Shot (17 PTS) (Camara 1 AST),Made Shot,Pullup Jump shot,1,3,289
+0022301214,398,PT09M30.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,109,167,20,Missed,1,,,0,v,MISS Sharpe 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,300
+0022301214,417,PT07M57.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-229,117,26,Missed,1,,,0,v,MISS Sharpe 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,315
+0022301214,430,PT07M16.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-36,36,5,Made,1,58,67,125,v,Sharpe 5' Running Layup (19 PTS) (Camara 2 AST),Made Shot,Running Layup Shot,1,2,324
+0022301214,435,PT07M16.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,58,68,126,v,Sharpe Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,1,0,327
+0022301214,493,PT02M45.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,MISS Sharpe Free Throw Technical,Free Throw,Free Throw Technical,0,0,367
+0022301214,503,PT01M24.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,376
+0022301214,504,PT01M14.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-22,291,29,Missed,1,,,0,v,MISS Sharpe 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,377
+0022301214,529,PT11M46.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,395
+0022301214,540,PT10M51.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-218,157,27,Missed,1,,,0,v,MISS Sharpe 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,403
+0022301214,573,PT07M51.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,428
+0022301214,574,PT07M46.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Offensive Charge Foul (P1) (D.Scott),Foul,Offensive Charge,1,0,429
+0022301214,576,PT07M46.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,Sharpe Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,1,0,430
+0022301214,587,PT07M17.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-195,178,26,Made,1,90,94,184,v,Sharpe 26' 3PT Jump Shot (23 PTS) (Henderson 2 AST),Made Shot,Jump Shot,1,3,437
+0022301214,599,PT05M32.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,32,31,4,Made,1,92,98,190,v,Sharpe 4' Driving Layup (25 PTS),Made Shot,Driving Layup Shot,1,2,447
+0022301214,656,PT01M18.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,v,MISS Sharpe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,485
+0022301214,658,PT01M18.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,103,101,204,v,Sharpe Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,1,0,487
+0022301226,12,PT11M10.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+0022301226,16,PT10M48.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe S.FOUL (P1.T1) (S.Mehta),Foul,Shooting,1,0,11
+0022301226,28,PT09M48.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-5,71,7,Missed,1,,,0,h,MISS Sharpe 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,21
+0022301226,54,PT09M44.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,25
+0022301226,30,PT09M44.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,Missed,1,,,0,h,MISS Sharpe Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,26
+0022301226,41,PT09M02.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-88,183,20,Missed,1,,,0,h,MISS Sharpe 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,36
+0022301226,62,PT07M43.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe P.FOUL (P2.T2) (B.Kennedy),Foul,Personal,1,0,51
+0022301226,78,PT07M43.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Henderson FOR Sharpe,Substitution,,0,0,52
+0022301226,127,PT03M06.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-42,256,26,Made,1,13,28,41,h,Sharpe 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,98
+0022301226,137,PT02M30.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-44,264,27,Made,1,16,28,44,h,Sharpe 27' 3PT Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,1,3,104
+0022301226,138,PT02M10.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe STEAL (1 STL),,,1,0,106
+0022301226,159,PT00M40.60S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-15,149,15,Made,1,20,34,54,h,Sharpe 15' Pullup Jump Shot (8 PTS) (Walker 1 AST),Made Shot,Pullup Jump shot,1,2,121
+0022301226,179,PT11M43.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-227,21,0,Missed,1,,,0,h,MISS Sharpe 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,132
+0022301226,182,PT11M15.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,135
+0022301226,196,PT10M18.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-224,49,0,Made,1,25,41,66,h,Sharpe 3PT Jump Shot (11 PTS) (Henderson 1 AST),Made Shot,Jump Shot,1,3,143
+0022301226,199,PT10M00.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,145
+0022301226,284,PT04M57.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-2,253,25,Missed,1,,,0,h,MISS Sharpe 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,202
+0022301226,288,PT04M52.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,43,256,26,Missed,1,,,0,h,MISS Sharpe 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,205
+0022301226,289,PT04M49.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,206
+0022301226,292,PT04M46.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,42,52,94,h,Sharpe Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,208
+0022301226,295,PT04M46.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,43,52,95,h,Sharpe Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,210
+0022301226,310,PT03M49.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,47,56,103,h,Sharpe Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,223
+0022301226,313,PT03M49.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,48,56,104,h,Sharpe Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,225
+0022301226,318,PT03M23.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,MISS Sharpe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,228
+0022301226,320,PT03M23.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,49,58,107,h,Sharpe Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,230
+0022301226,336,PT02M23.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe S.FOUL (P3.PN) (S.Mehta),Foul,Shooting,1,0,241
+0022301226,350,PT01M28.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe S.FOUL (P4.PN) (J.Van Duyne),Foul,Shooting,1,0,253
+0022301226,352,PT01M28.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Minaya FOR Sharpe,Substitution,,0,0,254
+0022301226,392,PT11M24.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,277
+0022301226,415,PT09M54.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,295
+0022301226,423,PT09M24.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-195,147,24,Made,1,69,73,142,h,Sharpe 24' 3PT Running Jump Shot (19 PTS) (Simons 3 AST),Made Shot,Running Jump Shot,1,3,302
+0022301226,438,PT08M21.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-16,269,27,Made,1,72,78,150,h,Sharpe 27' 3PT Jump Shot (22 PTS) (Simons 4 AST),Made Shot,Jump Shot,1,3,312
+0022301226,441,PT07M56.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,314
+0022301226,443,PT07M51.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,0,315
+0022301226,455,PT06M43.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-136,210,25,Missed,1,,,0,h,MISS Sharpe 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,323
+0022301226,464,PT06M25.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,329
+0022301226,476,PT05M38.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,SUB: Henderson FOR Sharpe,Substitution,,0,0,339
+0022301226,646,PT04M39.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,55,184,19,Made,1,106,115,221,h,Sharpe 19' Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,1,2,471
+0022301226,672,PT02M19.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,,,0,h,Sharpe REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,489
+0022301226,673,PT02M10.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-70,250,26,Missed,1,,,0,h,MISS Sharpe 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,490

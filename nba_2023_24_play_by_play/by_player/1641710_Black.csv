@@ -1,0 +1,796 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300020,29,PT09M46.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,1,0,19
+0022300020,46,PT08M25.00S,1,1610612753,ORL,1641710,Black,A. Black,-233,-29,0,Missed,1,,,0,v,MISS Black 3PT Jump Shot,Missed Shot,Jump Shot,1,3,32
+0022300020,86,PT05M16.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P2.T3) (T.Brothers),Foul,Shooting,1,0,64
+0022300020,92,PT05M16.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Anthony FOR Black,Substitution,,0,0,68
+0022300020,295,PT02M19.00S,2,1610612753,ORL,1641710,Black,A. Black,-229,-18,0,Missed,1,,,0,v,MISS Black 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,216
+0022300020,305,PT00M55.90S,2,1610612753,ORL,1641710,Black,A. Black,12,-7,1,Made,1,55,58,113,v,Black 1' Running Dunk (2 PTS) (Banchero 2 AST),Made Shot,Running Dunk Shot,1,2,224
+0022300020,342,PT09M51.00S,3,1610612753,ORL,1641710,Black,A. Black,-228,-14,0,Missed,1,,,0,v,MISS Black 3PT Jump Shot,Missed Shot,Jump Shot,1,3,252
+0022300020,436,PT04M11.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Suggs FOR Black,Substitution,,0,0,316
+0022300020,645,PT00M06.30S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Bad Pass Turnover (P1.T16),Turnover,Bad Pass,1,0,470
+0022300033,31,PT09M25.00S,1,1610612753,ORL,1641710,Black,A. Black,-2,22,2,Missed,1,,,0,v,MISS Black 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,22
+0022300033,51,PT07M33.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,36
+0022300033,68,PT06M36.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Anthony FOR Black,Substitution,,0,0,52
+0022300033,319,PT00M01.20S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,235
+0022300033,351,PT10M06.00S,3,1610612753,ORL,1641710,Black,A. Black,9,0,1,Made,1,35,55,90,v,Black 1' Driving Layup (2 PTS) (F. Wagner 1 AST),Made Shot,Driving Layup Shot,1,2,249
+0022300033,356,PT10M06.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,MISS Black Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,252
+0022300033,379,PT07M54.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Step Out of Bounds Turnover (P3.T12),Turnover,Step Out of Bounds Turnover,1,0,270
+0022300033,393,PT06M34.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Ingles FOR Black,Substitution,,0,0,281
+0022300038,36,PT09M06.00S,1,1610612753,ORL,1641710,Black,A. Black,2,21,2,Made,1,12,7,19,h,Black 2' Running Dunk (2 PTS) (Suggs 1 AST),Made Shot,Running Dunk Shot,1,2,27
+0022300038,39,PT08M46.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,30
+0022300038,56,PT06M37.00S,1,1610612753,ORL,1641710,Black,A. Black,228,12,0,Missed,1,,,0,h,MISS Black 3PT Jump Shot,Missed Shot,Jump Shot,1,3,45
+0022300038,58,PT06M31.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P1.T2) (J.Orr),Foul,Shooting,1,0,47
+0022300038,97,PT04M04.00S,1,1610612753,ORL,1641710,Black,A. Black,-16,15,2,Missed,1,,,0,h,MISS Black 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,75
+0022300038,111,PT02M43.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,86
+0022300038,116,PT02M11.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,91
+0022300038,122,PT02M03.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Isaac FOR Black,Substitution,,0,0,94
+0022300038,355,PT08M29.00S,3,1610612753,ORL,1641710,Black,A. Black,115,253,28,Missed,1,,,0,h,MISS Black 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,259
+0022300038,381,PT06M53.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P2.T3) (J.Williams),Foul,Shooting,1,0,278
+0022300038,390,PT06M24.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black STEAL (1 STL),,,1,0,286
+0022300038,424,PT04M27.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,309
+0022300038,425,PT04M27.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,Made,1,90,70,160,h,Black Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,310
+0022300038,439,PT03M02.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P3.PN) (J.Orr),Foul,Shooting,1,0,322
+0022300038,442,PT03M02.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Anthony FOR Black,Substitution,,0,0,324
+0022300038,609,PT03M25.00S,4,1610612753,ORL,1641710,Black,A. Black,69,113,13,Missed,1,,,0,h,MISS Black 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,449
+0022300038,617,PT03M02.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,457
+0022300038,629,PT01M44.00S,4,1610612753,ORL,1641710,Black,A. Black,110,236,26,Missed,1,,,0,h,MISS Black 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,466
+0022300038,645,PT00M57.10S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,123,102,225,h,Black Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,478
+0022300038,646,PT00M57.10S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,MISS Black Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,479
+0022300043,22,PT09M52.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,17
+0022300043,29,PT09M14.00S,1,1610612753,ORL,1641710,Black,A. Black,-9,14,2,Missed,1,,,0,h,MISS Black 2' Running Layup,Missed Shot,Running Layup Shot,1,2,21
+0022300043,53,PT06M40.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P1.T3) (J.DeRosa),Foul,Shooting,1,0,40
+0022300043,62,PT06M29.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,45
+0022300043,70,PT05M46.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Anthony FOR Black,Substitution,,0,0,52
+0022300066,605,PT04M02.00S,4,1610612753,ORL,1641710,Black,A. Black,-15,29,3,Made,1,106,80,186,h,Black 3' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,438
+0022300066,608,PT04M02.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,107,80,187,h,Black Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,440
+0022300066,614,PT03M36.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black BLOCK (1 BLK),,,1,2,446
+0022300066,622,PT03M29.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black BLOCK (2 BLK),,,1,2,449
+0022300066,625,PT03M16.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Jump Ball Black vs. Thompson: Tip to Samuels Jr.,Jump Ball,,0,0,453
+0022300066,654,PT01M05.00S,4,1610612753,ORL,1641710,Black,A. Black,-4,3,1,Made,1,116,86,202,h,Black 1' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,476
+0022300114,652,PT02M55.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P1.PN) (S.Twardoski),Foul,Shooting,1,0,481
+0022300130,362,PT02M23.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,264
+0022300130,368,PT01M52.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black STEAL (1 STL),,,1,0,271
+0022300130,386,PT00M44.70S,2,1610612753,ORL,1641710,Black,A. Black,34,1,3,Made,1,56,66,122,v,Black 3' Cutting Layup Shot (2 PTS) (F. Wagner 5 AST),Made Shot,Cutting Layup Shot,1,2,285
+0022300130,513,PT03M13.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black P.FOUL (P1.T2) (C.Blair),Foul,Personal,1,0,374
+0022300130,537,PT01M56.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,393
+0022300130,553,PT00M58.70S,3,1610612753,ORL,1641710,Black,A. Black,1,32,3,Made,1,84,88,172,v,Black 3' Running Dunk (4 PTS) (Isaac 1 AST),Made Shot,Running Dunk Shot,1,2,403
+0022300130,580,PT11M36.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black STEAL (2 STL),,,1,0,422
+0022300130,586,PT11M32.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Out of Bounds - Bad Pass Turnover Turnover (P1.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,0,424
+0022300130,587,PT11M23.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P2.T1) (C.Blair),Foul,Shooting,1,0,426
+0022300130,596,PT10M32.00S,4,1610612753,ORL,1641710,Black,A. Black,21,4,2,Made,1,87,94,181,v,Black 2' Cutting Dunk Shot (6 PTS) (Anthony 6 AST),Made Shot,Cutting Dunk Shot,1,2,433
+0022300130,643,PT06M39.00S,4,1610612753,ORL,1641710,Black,A. Black,-7,1,1,Made,1,94,104,198,v,Black 1' Running Reverse Layup (8 PTS) (Banchero 5 AST),Made Shot,Running Reverse Layup Shot,1,2,466
+0022300130,647,PT06M39.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,MISS Black Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,468
+0022300130,660,PT04M54.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,480
+0022300130,683,PT03M42.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Suggs FOR Black,Substitution,,0,0,498
+0022300130,749,PT00M01.30S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,MISS Black Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,548
+0022300130,751,PT00M01.30S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,113,115,228,v,Black Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,550
+0022300134,9,PT11M43.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,5
+0022300134,13,PT10M52.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,9
+0022300134,25,PT10M04.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black P.FOUL (P1.T1) (D.Scott),Foul,Personal,1,0,19
+0022300134,62,PT07M42.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,46
+0022300134,76,PT07M09.00S,1,1610612753,ORL,1641710,Black,A. Black,-13,3,1,Made,1,17,12,29,h,Black 1' Cutting Dunk Shot (2 PTS) (Bitadze 1 AST),Made Shot,Cutting Dunk Shot,1,2,58
+0022300134,123,PT02M47.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black STEAL (1 STL),,,1,0,95
+0022300134,139,PT01M50.00S,1,1610612753,ORL,1641710,Black,A. Black,-235,16,24,Made,1,39,23,62,h,Black 24' 3PT Jump Shot (5 PTS) (Anthony 1 AST),Made Shot,Jump Shot,1,3,104
+0022300134,154,PT01M19.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Isaac FOR Black,Substitution,,0,0,113
+0022300134,336,PT11M05.00S,3,1610612753,ORL,1641710,Black,A. Black,237,8,24,Made,1,70,53,123,h,Black 24' 3PT Jump Shot (8 PTS) (Suggs 5 AST),Made Shot,Jump Shot,1,3,250
+0022300134,425,PT04M41.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,315
+0022300134,442,PT03M54.00S,3,1610612753,ORL,1641710,Black,A. Black,27,34,4,Made,1,92,70,162,h,Black 4' Running Layup (10 PTS) (Ingles 3 AST),Made Shot,Running Layup Shot,1,2,328
+0022300134,446,PT03M54.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,93,70,163,h,Black Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,330
+0022300134,448,PT03M22.00S,3,1610612753,ORL,1641710,Black,A. Black,234,4,0,Missed,1,,,0,h,MISS Black 3PT Jump Shot,Missed Shot,Jump Shot,1,3,332
+0022300134,450,PT03M15.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black P.FOUL (P2.T3) (M.Lindsay),Foul,Personal,1,0,334
+0022300134,462,PT03M00.00S,3,1610612753,ORL,1641710,Black,A. Black,20,11,2,Missed,1,,,0,h,MISS Black 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,342
+0022300134,478,PT02M06.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: M. Wagner FOR Black,Substitution,,0,0,356
+0022300147,39,PT08M59.00S,1,1610612753,ORL,1641710,Black,A. Black,-50,195,20,Missed,1,,,0,h,MISS Black 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,31
+0022300147,76,PT06M04.00S,1,1610612753,ORL,1641710,Black,A. Black,-175,192,26,Made,1,14,11,25,h,Black 26' 3PT Jump Shot (3 PTS) (Banchero 2 AST),Made Shot,Jump Shot,1,3,57
+0022300147,83,PT05M55.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black L.B.FOUL (P1.T2) (T.Ricks),Foul,Loose Ball,1,0,61
+0022300147,124,PT03M12.00S,1,1610612753,ORL,1641710,Black,A. Black,-228,48,0,Made,1,24,19,43,h,Black 3PT Jump Shot (6 PTS) (Anthony 1 AST),Made Shot,Jump Shot,1,3,88
+0022300147,138,PT02M28.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,97
+0022300147,149,PT01M01.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: F. Wagner FOR Black,Substitution,,0,0,105
+0022300147,261,PT05M15.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black Step Out of Bounds Turnover (P1.T10),Turnover,Step Out of Bounds Turnover,1,0,179
+0022300147,264,PT05M07.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P2.T3) (T.Ricks),Foul,Shooting,1,0,181
+0022300147,330,PT00M36.20S,2,1610612753,ORL,1641710,Black,A. Black,-21,75,8,Missed,1,,,0,h,MISS Black 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,228
+0022300147,376,PT09M10.00S,3,1610612753,ORL,1641710,Black,A. Black,-113,237,26,Missed,1,,,0,h,MISS Black 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,265
+0022300147,411,PT06M00.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,293
+0022300147,431,PT04M58.00S,3,1610612753,ORL,1641710,Black,A. Black,232,53,24,Missed,1,,,0,h,MISS Black 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,310
+0022300147,451,PT04M04.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,322
+0022300147,452,PT04M04.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,Made,1,76,72,148,h,Black Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,2,323
+0022300147,454,PT03M47.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,325
+0022300147,475,PT02M48.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: F. Wagner FOR Black,Substitution,,0,0,340
+0022300147,637,PT03M38.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,452
+0022300147,663,PT01M51.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black T.FOUL (P2.PN) (S.Foster),Foul,Technical,1,0,474
+0022300147,665,PT01M51.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Ingles FOR Black,Substitution,,0,0,475
+0022300172,155,PT01M45.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,118
+0022300172,157,PT01M38.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P1.T4) (M.Myers),Foul,Shooting,1,0,120
+0022300172,186,PT00M00.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,144
+0022300172,187,PT00M00.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,Made,1,34,34,68,h,Black Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,145
+0022300172,200,PT11M14.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black STEAL (1 STL),,,1,0,157
+0022300172,211,PT10M22.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,166
+0022300172,214,PT10M08.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P2.T1) (P.Fraher),Foul,Shooting,1,0,169
+0022300172,230,PT09M04.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,37,42,79,h,Black Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,180
+0022300172,231,PT09M04.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,38,42,80,h,Black Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,181
+0022300172,233,PT08M52.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P3.T2) (P.Fraher),Foul,Shooting,1,0,183
+0022300172,235,PT08M52.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Fultz FOR Black,Substitution,,0,0,184
+0022300172,516,PT03M16.00S,3,1610612753,ORL,1641710,Black,A. Black,6,23,2,Made,1,89,88,177,h,Black 2' Cutting Layup Shot (6 PTS) (Ingles 3 AST),Made Shot,Cutting Layup Shot,1,2,384
+0022300172,612,PT09M25.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,460
+0022300172,630,PT08M13.00S,4,1610612753,ORL,1641710,Black,A. Black,227,32,0,Made,1,111,100,211,h,Black 3PT Jump Shot (9 PTS) (Banchero 4 AST),Made Shot,Jump Shot,1,3,471
+0022300172,645,PT07M05.00S,4,1610612753,ORL,1641710,Black,A. Black,6,269,27,Missed,1,,,0,h,MISS Black 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,481
+0022300172,652,PT06M03.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black BLOCK (1 BLK),,,1,2,487
+0022300172,679,PT04M26.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: F. Wagner FOR Black,Substitution,,0,0,506
+0022300173,43,PT08M33.00S,1,1610612753,ORL,1641710,Black,A. Black,-32,111,12,Missed,1,,,0,h,MISS Black 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,32
+0022300173,55,PT08M00.00S,1,1610612753,ORL,1641710,Black,A. Black,230,-9,0,Missed,1,,,0,h,MISS Black 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,41
+0022300173,63,PT07M13.00S,1,1610612753,ORL,1641710,Black,A. Black,5,25,3,Made,1,9,9,18,h,Black 3' Alley Oop Dunk (2 PTS) (Banchero 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,46
+0022300173,100,PT04M10.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Isaac FOR Black,Substitution,,0,0,73
+0022300173,273,PT05M30.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black P.FOUL (P1.T2) (J.DeRosa),Foul,Personal,1,0,190
+0022300173,316,PT03M02.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black T.FOUL (P1.T4) (S.Mehta),Foul,Technical,1,0,222
+0022300173,357,PT00M47.70S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P2.PN) (E.Malloy),Foul,Shooting,1,0,255
+0022300173,431,PT07M05.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Ingles FOR Black,Substitution,,0,0,306
+0022300173,694,PT02M14.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black Bad Pass Turnover (P1.T14),Turnover,Bad Pass,1,0,488
+0022300196,45,PT08M30.00S,1,1610612753,ORL,1641710,Black,A. Black,235,-1,24,Missed,1,,,0,v,MISS Black 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,34
+0022300196,46,PT08M28.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,35
+0022300196,47,PT08M27.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,36
+0022300196,90,PT05M03.00S,1,1610612753,ORL,1641710,Black,A. Black,10,5,1,Made,1,13,14,27,v,Black 1' Driving Layup (2 PTS) (Ingles 1 AST),Made Shot,Driving Layup Shot,1,2,70
+0022300196,94,PT04M46.00S,1,1610612753,ORL,1641710,Black,A. Black,18,10,2,Missed,1,,,0,v,MISS Black 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,73
+0022300196,101,PT04M18.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,79
+0022300196,107,PT04M14.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Anthony FOR Black,Substitution,,0,0,84
+0022300196,312,PT02M23.00S,2,1610612753,ORL,1641710,Black,A. Black,-10,27,3,Made,1,31,46,77,v,Black 3' Cutting Layup Shot (4 PTS) (Banchero 3 AST),Made Shot,Cutting Layup Shot,1,2,242
+0022300196,335,PT00M33.60S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,261
+0022300196,346,PT11M43.00S,3,1610612753,ORL,1641710,Black,A. Black,-27,46,5,Made,1,33,52,85,v,Black 5' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,1,2,267
+0022300196,354,PT10M57.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,273
+0022300196,370,PT09M23.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black P.FOUL (P1.T2) (D.Taylor),Foul,Personal,1,0,285
+0022300196,379,PT08M29.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,293
+0022300196,388,PT07M40.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P2.T3) (B.Nansel),Foul,Shooting,1,0,303
+0022300196,424,PT05M14.00S,3,1610612753,ORL,1641710,Black,A. Black,-165,94,19,Missed,1,,,0,v,MISS Black 19' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,331
+0022300196,439,PT04M13.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Harris FOR Black,Substitution,,0,0,343
+0022300196,578,PT05M48.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black P.FOUL (P3.T4) (D.Taylor),Foul,Personal,1,0,441
+0022300196,601,PT03M51.00S,4,1610612753,ORL,1641710,Black,A. Black,-203,167,26,Missed,1,,,0,v,MISS Black 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,457
+0022300196,618,PT02M11.00S,4,1610612753,ORL,1641710,Black,A. Black,-18,11,2,Missed,1,,,0,v,MISS Black 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,470
+0022300196,640,PT00M56.80S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Anthony FOR Black,Substitution,,0,0,487
+0022300196,657,PT00M14.20S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,91,94,185,v,Black Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,502
+0022300196,658,PT00M14.20S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,MISS Black Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,503
+0022300196,665,PT00M07.50S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Ingles FOR Black,Substitution,,0,0,509
+0022300209,10,PT11M15.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+0022300209,17,PT10M24.00S,1,1610612753,ORL,1641710,Black,A. Black,7,263,26,Missed,1,,,0,v,MISS Black 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,13
+0022300209,20,PT10M04.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black BLOCK (1 BLK),,,1,2,17
+0022300209,36,PT08M47.00S,1,1610612753,ORL,1641710,Black,A. Black,-7,15,2,Made,1,0,11,11,v,Black 2' Running Layup (2 PTS) (Bitadze 2 AST),Made Shot,Running Layup Shot,1,2,29
+0022300209,50,PT07M36.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,MISS Black Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,40
+0022300209,58,PT07M36.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,5,14,19,v,Black Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,45
+0022300209,64,PT06M54.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,50
+0022300209,86,PT05M07.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P1.T2) (B.Taylor),Foul,Shooting,1,0,64
+0022300209,89,PT05M07.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Isaac FOR Black,Substitution,,0,0,66
+0022300209,349,PT02M49.00S,2,1610612753,ORL,1641710,Black,A. Black,-17,19,3,Missed,1,,,0,v,MISS Black 3' Jump Shot,Missed Shot,Jump Shot,1,2,257
+0022300209,354,PT02M16.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black BLOCK (2 BLK),,,1,2,262
+0022300209,356,PT02M13.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,263
+0022300209,379,PT00M16.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Violation:Defensive Goaltending (J.Conley),Violation,Defensive Goaltending,1,0,281
+0022300209,380,PT00M01.50S,2,1610612753,ORL,1641710,Black,A. Black,-244,0,24,Missed,1,,,0,v,MISS Black 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,282
+0022300209,399,PT11M09.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P2.T1) (B.Taylor),Foul,Shooting,1,0,291
+0022300209,438,PT08M58.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,323
+0022300209,463,PT06M46.00S,3,1610612753,ORL,1641710,Black,A. Black,15,-1,2,Missed,1,,,0,v,MISS Black 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,344
+0022300209,492,PT05M31.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Anthony FOR Black,Substitution,,0,0,365
+0022300209,681,PT04M21.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black L.B.FOUL (P3.PN) (B.Taylor),Foul,Loose Ball,1,0,505
+0022300209,699,PT03M30.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,513
+0022300209,708,PT02M29.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P4.PN) (J.Conley),Foul,Shooting,1,0,520
+0022300209,718,PT02M08.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Out of Bounds Lost Ball Turnover (P1.T13),Turnover,Out of Bounds Lost Ball Turnover,1,0,528
+0022300209,724,PT01M27.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Lost Ball Turnover (P2.T15),Turnover,Lost Ball,1,0,533
+0022300209,731,PT01M02.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black P.FOUL (P5.PN) (B.Taylor),Foul,Personal,1,0,540
+0022300209,746,PT00M33.80S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,113,125,238,v,Black Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,551
+0022300209,747,PT00M33.80S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,113,126,239,v,Black Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,552
+0022300209,756,PT00M28.40S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,113,127,240,v,Black Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,558
+0022300209,757,PT00M28.40S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,113,128,241,v,Black Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,559
+0022300226,11,PT11M09.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P1.T1) (S.Corbin),Foul,Shooting,1,0,7
+0022300226,15,PT10M57.00S,1,1610612753,ORL,1641710,Black,A. Black,16,29,3,Missed,1,,,0,h,MISS Black 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,10
+0022300226,92,PT03M56.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Harris FOR Black,Substitution,,0,0,66
+0022300226,341,PT09M44.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,241
+0022300226,360,PT08M04.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,255
+0022300226,381,PT06M25.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,272
+0022300226,382,PT06M24.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black Out of Bounds - Bad Pass Turnover Turnover (P3.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,273
+0022300226,396,PT04M56.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P2.T3) (S.Wall),Foul,Shooting,1,0,286
+0022300226,408,PT04M37.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Harris FOR Black,Substitution,,0,0,296
+0022300248,44,PT08M02.00S,1,1610612753,ORL,1641710,Black,A. Black,26,17,3,Made,1,10,6,16,h,Black 3' Driving Layup (2 PTS) (Bitadze 1 AST),Made Shot,Driving Layup Shot,1,2,32
+0022300248,52,PT06M42.00S,1,1610612753,ORL,1641710,Black,A. Black,-233,33,24,Missed,1,,,0,h,MISS Black 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,36
+0022300248,71,PT04M51.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black P.FOUL (P1.T2) (M.Smith),Foul,Personal,1,0,51
+0022300248,88,PT03M48.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black P.FOUL (P2.T3) (J.Goble),Foul,Personal,1,0,62
+0022300248,90,PT03M48.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Anthony FOR Black,Substitution,,0,0,63
+0022300248,310,PT00M14.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Harris FOR Black,Substitution,,0,0,226
+0022300248,343,PT10M11.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black P.FOUL (P3.T2) (J.Goble),Foul,Personal,1,0,251
+0022300248,376,PT07M50.00S,3,1610612753,ORL,1641710,Black,A. Black,-12,22,3,Missed,1,,,0,h,MISS Black 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,273
+0022300248,387,PT07M03.00S,3,1610612753,ORL,1641710,Black,A. Black,94,98,14,Missed,1,,,0,h,MISS Black 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,282
+0022300248,396,PT06M47.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: M. Wagner FOR Black,Substitution,,0,0,289
+0022300259,72,PT05M48.00S,1,1610612753,ORL,1641710,Black,A. Black,17,22,3,Made,1,12,14,26,h,Black 3' Cutting Layup Shot (2 PTS) (Suggs 2 AST),Made Shot,Cutting Layup Shot,1,2,53
+0022300259,99,PT04M17.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Anthony FOR Black,Substitution,,0,0,72
+0022300259,301,PT01M41.00S,2,1610612753,ORL,1641710,Black,A. Black,235,4,24,Made,1,60,50,110,h,Black 24' 3PT Jump Shot (5 PTS) (F. Wagner 1 AST),Made Shot,Jump Shot,1,3,220
+0022300259,349,PT09M31.00S,3,1610612753,ORL,1641710,Black,A. Black,-230,19,0,Missed,1,,,0,h,MISS Black 3PT Jump Shot,Missed Shot,Jump Shot,1,3,252
+0022300259,353,PT09M26.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black Violation:Defensive Goaltending (E.Scott),Violation,Defensive Goaltending,0,0,255
+0022300259,359,PT08M54.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,260
+0022300259,417,PT04M02.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black P.FOUL (P1.T4) (M.Lindsay),Foul,Personal,1,0,306
+0022300259,421,PT03M47.00S,3,1610612753,ORL,1641710,Black,A. Black,7,39,4,Missed,1,,,0,h,MISS Black 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,309
+0022300259,433,PT02M48.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,319
+0022300259,434,PT02M43.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,320
+0022300259,437,PT02M34.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,323
+0022300259,441,PT02M26.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Anthony FOR Black,Substitution,,0,0,326
+0022300259,610,PT03M26.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,443
+0022300259,628,PT01M40.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black Lost Ball Turnover (P2.T18),Turnover,Lost Ball,1,0,456
+0022300259,637,PT01M08.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black BLOCK (1 BLK),,,1,2,465
+0022300259,646,PT00M45.90S,4,1610612753,ORL,1641710,Black,A. Black,-5,8,1,Made,1,139,120,259,h,Black 1' Driving Finger Roll Layup (7 PTS) (Houstan 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,471
+0022300259,649,PT00M31.80S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,473
+0022300274,11,PT10M58.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P1.T1) (B.Barnaky),Foul,Shooting,1,0,5
+0022300274,41,PT08M52.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,28
+0022300274,51,PT07M43.00S,1,1610612753,ORL,1641710,Black,A. Black,22,16,3,Made,1,9,11,20,h,Black 3' Cutting Dunk Shot (2 PTS) (Bitadze 1 AST),Made Shot,Cutting Dunk Shot,1,2,36
+0022300274,88,PT05M22.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,63
+0022300274,102,PT03M39.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Anthony FOR Black,Substitution,,0,0,73
+0022300274,288,PT03M58.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,207
+0022300274,315,PT01M50.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black P.FOUL (P2.PN) (S.Foster),Foul,Personal,1,0,227
+0022300274,325,PT01M04.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black BLOCK (1 BLK),,,1,3,235
+0022300274,351,PT11M30.00S,3,1610612753,ORL,1641710,Black,A. Black,-216,152,26,Made,1,61,61,122,h,Black 26' 3PT Jump Shot (5 PTS) (Banchero 3 AST),Made Shot,Jump Shot,1,3,252
+0022300274,360,PT10M56.00S,3,1610612753,ORL,1641710,Black,A. Black,76,41,9,Missed,1,,,0,h,MISS Black 9' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,1,2,259
+0022300274,404,PT08M37.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black P.FOUL (P3.T2) (B.Barnaky),Foul,Personal,1,0,292
+0022300274,415,PT07M43.00S,3,1610612753,ORL,1641710,Black,A. Black,-32,26,4,Missed,1,,,0,h,MISS Black 4' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,298
+0022300274,466,PT04M00.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Harris FOR Black,Substitution,,0,0,333
+0022300274,688,PT00M40.60S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: M. Wagner FOR Black,Substitution,,0,0,500
+0022300274,708,PT00M25.60S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,127,119,246,h,Black Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,511
+0022300274,709,PT00M25.60S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,MISS Black Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,512
+0022300282,16,PT11M06.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,11
+0022300282,50,PT07M40.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P1.T1) (B.Taylor),Foul,Shooting,1,0,36
+0022300282,76,PT05M38.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Harris FOR Black,Substitution,,0,0,55
+0022300282,466,PT07M48.00S,3,1610612753,ORL,1641710,Black,A. Black,-118,96,15,Made,1,81,66,147,v,Black 15' Pullup Jump Shot (2 PTS) (M. Wagner 2 AST),Made Shot,Pullup Jump shot,1,2,330
+0022300282,471,PT07M03.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black P.FOUL (P2.T3) (N.Sago),Foul,Personal,1,0,334
+0022300282,509,PT03M39.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,362
+0022300282,517,PT03M30.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Ingles FOR Black,Substitution,,0,0,368
+0022300282,703,PT02M47.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,492
+0022300282,723,PT00M25.50S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P3.PN) (B.Taylor),Foul,Shooting,1,0,507
+0022300294,50,PT08M16.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black P.FOUL (P1.T1) (G.Petraitis),Foul,Personal,1,0,39
+0022300294,95,PT04M50.00S,1,1610612753,ORL,1641710,Black,A. Black,15,32,4,Missed,1,,,0,h,MISS Black 4' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,73
+0022300294,119,PT03M28.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: M. Wagner FOR Black,Substitution,,0,0,90
+0022300294,360,PT11M23.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black STEAL (1 STL),,,1,0,259
+0022300294,368,PT10M35.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P2.T1) (J.Tiven),Foul,Shooting,1,0,265
+0022300294,382,PT10M03.00S,3,1610612753,ORL,1641710,Black,A. Black,168,215,27,Missed,1,,,0,h,MISS Black 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,277
+0022300294,393,PT08M50.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black BLOCK (1 BLK),,,1,2,287
+0022300294,396,PT08M41.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,289
+0022300294,412,PT07M49.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,302
+0022300294,415,PT07M23.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black STEAL (2 STL),,,1,0,306
+0022300294,430,PT06M35.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black P.FOUL (P3.PN) (J.Tiven),Foul,Personal,1,0,317
+0022300294,455,PT04M45.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black STEAL (3 STL),,,1,0,336
+0022300294,500,PT01M49.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Anthony FOR Black,Substitution,,0,0,370
+0022300329,9,PT11M03.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,5
+0022300329,21,PT09M41.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,16
+0022300329,37,PT08M26.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,30
+0022300329,57,PT06M45.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,46
+0022300329,61,PT06M35.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P1.T1) (M.Smith),Foul,Shooting,1,0,49
+0022300329,104,PT04M49.00S,1,1610612753,ORL,1641710,Black,A. Black,12,27,3,Made,1,12,17,29,v,Black 3' Cutting Dunk Shot (2 PTS) (Banchero 2 AST),Made Shot,Cutting Dunk Shot,1,2,77
+0022300329,116,PT04M06.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Anthony FOR Black,Substitution,,0,0,85
+0022300329,323,PT00M54.60S,2,1610612753,ORL,1641710,Black,A. Black,165,214,27,Made,1,64,51,115,v,Black 27' 3PT Jump Shot (5 PTS) (Suggs 1 AST),Made Shot,Jump Shot,1,3,232
+0022300329,345,PT11M08.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black P.FOUL (P2.T1) (L.Wood),Foul,Personal,1,0,247
+0022300329,419,PT05M55.00S,3,1610612753,ORL,1641710,Black,A. Black,232,-8,0,Missed,1,,,0,v,MISS Black 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,300
+0022300329,509,PT05M24.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,318
+0022300329,438,PT05M22.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,Made,1,80,65,145,v,Black Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,1,2,319
+0022300329,450,PT04M40.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,329
+0022300329,453,PT04M02.00S,3,1610612753,ORL,1641710,Black,A. Black,230,12,0,Missed,1,,,0,v,MISS Black 3PT Jump Shot,Missed Shot,Jump Shot,1,3,333
+0022300329,457,PT04M01.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Suggs FOR Black,Substitution,,0,0,336
+0022300329,593,PT07M10.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,419
+0022300329,601,PT06M13.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,424
+0022300329,602,PT06M13.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,Missed,1,,,0,v,MISS Black Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,425
+0022300329,627,PT04M22.00S,4,1610612753,ORL,1641710,Black,A. Black,206,155,26,Made,1,123,101,224,v,Black 26' 3PT Jump Shot (10 PTS) (Banchero 5 AST),Made Shot,Jump Shot,1,3,443
+0022300329,672,PT01M03.00S,4,1610612753,ORL,1641710,Black,A. Black,136,232,27,Made,1,128,109,237,v,Black 27' 3PT Jump Shot (13 PTS) (Houstan 1 AST),Made Shot,Jump Shot,1,3,475
+0022300329,675,PT00M50.30S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,477
+0022300344,12,PT11M08.00S,1,1610612753,ORL,1641710,Black,A. Black,132,240,27,Missed,1,,,0,v,MISS Black 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,7
+0022300344,44,PT07M56.00S,1,1610612753,ORL,1641710,Black,A. Black,-237,26,24,Made,1,4,9,13,v,Black 24' 3PT Jump Shot (3 PTS) (F. Wagner 2 AST),Made Shot,Jump Shot,1,3,37
+0022300344,72,PT05M37.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black P.FOUL (P1.T2) (T.Maddox),Foul,Personal,1,0,59
+0022300344,85,PT04M36.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Harris FOR Black,Substitution,,0,0,71
+0022300344,331,PT11M19.00S,3,1610612753,ORL,1641710,Black,A. Black,-234,42,24,Missed,1,,,0,v,MISS Black 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,241
+0022300344,358,PT08M22.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black STEAL (1 STL),,,1,0,265
+0022300344,368,PT08M20.00S,3,1610612753,ORL,1641710,Black,A. Black,12,13,2,Made,1,67,58,125,v,Black 2' Running Layup (5 PTS),Made Shot,Running Layup Shot,1,2,266
+0022300344,362,PT08M20.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,MISS Black Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,268
+0022300344,371,PT07M48.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,276
+0022300344,393,PT05M53.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Houstan FOR Black,Substitution,,0,0,294
+0022300344,602,PT02M27.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,MISS Black Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,461
+0022300344,622,PT02M27.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,MISS Black Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,463
+0022300344,644,PT00M23.30S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,482
+0022300344,645,PT00M06.90S,4,1610612753,ORL,1641710,Black,A. Black,36,55,7,Missed,1,,,0,v,MISS Black 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,483
+0022300366,10,PT11M45.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,," Foul : Double Personal - Black (1 PF), Lowry (1 PF) (B.Nansel)",Foul,Double Personal,1,0,5
+0022300366,37,PT09M22.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P2.T1) (B.Nansel),Foul,Shooting,1,0,26
+0022300366,41,PT09M04.00S,1,1610612753,ORL,1641710,Black,A. Black,-40,93,10,Missed,1,,,0,h,MISS Black 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,29
+0022300366,73,PT05M38.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Bitadze FOR Black,Substitution,,0,0,57
+0022300366,214,PT07M57.00S,2,1610612753,ORL,1641710,Black,A. Black,-11,152,15,Made,1,34,34,68,h,Black 15' Cutting Layup Shot (2 PTS) (Isaac 1 AST),Made Shot,Cutting Layup Shot,1,2,149
+0022300366,253,PT06M00.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P3.PN) (C.Kirkland),Foul,Shooting,1,0,177
+0022300366,257,PT06M00.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Houstan FOR Black,Substitution,,0,0,180
+0022300366,346,PT10M22.00S,3,1610612753,ORL,1641710,Black,A. Black,241,39,24,Missed,1,,,0,h,MISS Black 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,237
+0022300366,360,PT08M42.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,249
+0022300366,391,PT06M10.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Harris FOR Black,Substitution,,0,0,274
+0022300366,612,PT01M20.00S,4,1610612753,ORL,1641710,Black,A. Black,-9,34,4,Made,1,95,108,203,h,Black 4' Cutting Dunk Shot (4 PTS) (Carter Jr. 1 AST),Made Shot,Cutting Dunk Shot,1,2,434
+0022300366,641,PT00M15.70S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,455
+0022300378,21,PT09M50.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,15
+0022300378,37,PT08M50.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,28
+0022300378,41,PT08M31.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,31
+0022300378,94,PT03M59.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: F. Wagner FOR Black,Substitution,,0,0,70
+0022300378,303,PT00M20.40S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black STEAL (1 STL),,,1,0,222
+0022300378,307,PT00M01.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black P.FOUL (P1.PN) (E.Dalen),Foul,Personal,1,0,225
+0022300378,322,PT11M28.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,MISS Black Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,234
+0022300378,324,PT11M28.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,59,57,116,v,Black Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,236
+0022300378,336,PT10M21.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black BLOCK (1 BLK),,,1,2,247
+0022300378,345,PT10M04.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P2.T2) (E.Dalen),Foul,Shooting,1,0,255
+0022300378,381,PT06M40.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Anthony FOR Black,Substitution,,0,0,281
+0022300378,594,PT05M08.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black BLOCK (2 BLK),,,1,2,439
+0022300378,605,PT04M53.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Anthony FOR Black,Substitution,,0,0,446
+0022300391,12,PT11M09.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+0022300391,52,PT07M53.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black P.FOUL (P1.T2) (P.Fraher),Foul,Personal,1,0,36
+0022300391,85,PT06M00.00S,1,1610612753,ORL,1641710,Black,A. Black,10,-1,1,Made,1,15,16,31,v,Black 1' Cutting Layup Shot (2 PTS) (Banchero 1 AST),Made Shot,Cutting Layup Shot,1,2,56
+0022300391,101,PT04M54.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black STEAL (1 STL),,,1,0,72
+0022300391,114,PT03M49.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,80
+0022300391,124,PT03M09.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: M. Wagner FOR Black,Substitution,,0,0,88
+0022300391,310,PT03M28.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,216
+0022300391,386,PT10M37.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,64,74,138,v,Black Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,268
+0022300391,387,PT10M37.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,64,75,139,v,Black Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,269
+0022300391,388,PT10M18.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black BLOCK (1 BLK),,,1,2,271
+0022300391,396,PT09M49.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Violation:Kicked Ball (B.Schwab),Violation,Kicked Ball,0,0,277
+0022300391,402,PT08M54.00S,3,1610612753,ORL,1641710,Black,A. Black,21,15,3,Made,1,69,79,148,v,Black 3' Driving Finger Roll Layup (6 PTS) (Harris 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,281
+0022300391,430,PT06M14.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Traveling Turnover (P2.T9),Turnover,Traveling,1,0,304
+0022300391,454,PT04M22.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Houstan FOR Black,Substitution,,0,0,322
+0022300391,572,PT06M44.00S,4,1610612753,ORL,1641710,Black,A. Black,163,10,16,Missed,1,,,0,v,MISS Black 16' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,402
+0022300391,593,PT05M17.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,101,105,206,v,Black Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,418
+0022300391,598,PT05M17.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,101,106,207,v,Black Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,421
+0022300391,613,PT03M52.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P2.T3) (P.Fraher),Foul,Shooting,1,0,434
+0022300391,621,PT03M10.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,441
+0022300391,640,PT00M44.90S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Anthony FOR Black,Substitution,,0,0,456
+0022300407,12,PT11M03.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+0022300407,13,PT11M00.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,8
+0022300407,33,PT08M29.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black STEAL (1 STL),,,1,0,25
+0022300407,35,PT08M23.00S,1,1610612753,ORL,1641710,Black,A. Black,-7,24,3,Made,1,6,11,17,v,Black 3' Running Layup (2 PTS) (Banchero 2 AST),Made Shot,Running Layup Shot,1,2,26
+0022300407,41,PT07M49.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,31
+0022300407,53,PT06M58.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,41
+0022300407,63,PT06M26.00S,1,1610612753,ORL,1641710,Black,A. Black,-7,14,2,Made,1,12,16,28,v,Black 2' Running Alley Oop Layup Shot (4 PTS) (F. Wagner 3 AST),Made Shot,Running Alley Oop Layup Shot,1,2,50
+0022300407,79,PT05M03.00S,1,1610612753,ORL,1641710,Black,A. Black,-4,10,1,Missed,1,,,0,v,MISS Black 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,60
+0022300407,83,PT04M35.00S,1,1610612753,ORL,1641710,Black,A. Black,-50,79,9,Made,1,15,21,36,v,Black 9' Jump Shot (6 PTS) (Carter Jr. 1 AST),Made Shot,Jump Shot,1,2,64
+0022300407,89,PT04M03.00S,1,1610612753,ORL,1641710,Black,A. Black,87,274,29,Made,1,18,24,42,v,Black 29' 3PT Jump Shot (9 PTS) (Carter Jr. 2 AST),Made Shot,Jump Shot,1,3,68
+0022300407,93,PT03M48.00S,1,1610612753,ORL,1641710,Black,A. Black,-4,0,0,Made,1,18,26,44,v,Black Running Dunk (11 PTS) (Suggs 1 AST),Made Shot,Running Dunk Shot,1,2,71
+0022300407,109,PT02M41.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Anthony FOR Black,Substitution,,0,0,82
+0022300407,277,PT04M09.00S,2,1610612753,ORL,1641710,Black,A. Black,223,32,0,Made,1,47,54,101,v,Black 3PT Jump Shot (14 PTS) (Bitadze 2 AST),Made Shot,Jump Shot,1,3,203
+0022300407,297,PT02M36.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P1.T4) (P.O'Connell),Foul,Shooting,0,0,216
+0022300407,301,PT02M20.00S,2,1610612753,ORL,1641710,Black,A. Black,-39,4,4,Missed,1,,,0,v,MISS Black 4' Layup,Missed Shot,Layup Shot,1,2,219
+0022300407,322,PT00M52.20S,2,1610612753,ORL,1641710,Black,A. Black,4,10,1,Made,1,58,62,120,v,Black 1' Cutting Layup Shot (16 PTS) (Banchero 4 AST),Made Shot,Cutting Layup Shot,1,2,236
+0022300407,326,PT00M52.20S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,58,63,121,v,Black Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,0,0,238
+0022300407,355,PT10M46.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black STEAL (2 STL),,,1,0,261
+0022300407,360,PT10M20.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,264
+0022300407,362,PT10M17.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Out of Bounds - Bad Pass Turnover Turnover (P2.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,265
+0022300407,366,PT09M52.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,0,268
+0022300407,368,PT09M44.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black P.FOUL (P2.T1) (T.Ford),Foul,Personal,1,0,270
+0022300407,376,PT08M57.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black P.FOUL (P3.T2) (R.Acosta),Foul,Personal,1,0,276
+0022300407,386,PT08M29.00S,3,1610612753,ORL,1641710,Black,A. Black,235,2,24,Missed,1,,,0,v,MISS Black 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,285
+0022300407,401,PT07M01.00S,3,1610612753,ORL,1641710,Black,A. Black,202,144,25,Made,1,69,78,147,v,Black 25' 3PT Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,1,3,297
+0022300407,412,PT06M05.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,306
+0022300407,413,PT06M03.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Bad Pass Turnover (P4.T13),Turnover,Bad Pass,1,0,307
+0022300407,462,PT02M26.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: F. Wagner FOR Black,Substitution,,0,0,345
+0022300407,560,PT07M14.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black STEAL (3 STL),,,1,0,410
+0022300407,572,PT06M22.00S,4,1610612753,ORL,1641710,Black,A. Black,-228,26,0,Made,1,100,117,217,v,Black 3PT Jump Shot (23 PTS) (Anthony 4 AST),Made Shot,Jump Shot,1,3,418
+0022300407,578,PT06M00.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,423
+0022300407,579,PT05M59.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Bad Pass Turnover (P5.T16),Turnover,Bad Pass,1,0,424
+0022300407,599,PT04M42.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P4.T2) (P.O'Connell),Foul,Shooting,1,0,442
+0022300407,638,PT02M09.00S,4,1610612753,ORL,1641710,Black,A. Black,-246,28,25,Missed,1,,,0,v,MISS Black 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,466
+0022300407,645,PT01M32.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black STEAL (4 STL),,,1,0,473
+0022300415,27,PT10M05.00S,1,1610612753,ORL,1641710,Black,A. Black,-216,126,25,Missed,1,,,0,h,MISS Black 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,19
+0022300415,53,PT07M43.00S,1,1610612753,ORL,1641710,Black,A. Black,-208,129,24,Made,1,12,7,19,h,Black 24' 3PT Jump Shot (3 PTS) (Banchero 1 AST),Made Shot,Jump Shot,1,3,40
+0022300415,66,PT06M46.00S,1,1610612753,ORL,1641710,Black,A. Black,123,222,25,Missed,1,,,0,h,MISS Black 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,49
+0022300415,68,PT06M39.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black BLOCK (1 BLK),,,1,2,52
+0022300415,70,PT06M38.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,53
+0022300415,89,PT04M34.00S,1,1610612753,ORL,1641710,Black,A. Black,-6,53,5,Missed,1,,,0,h,MISS Black 5' Jump Shot,Missed Shot,Jump Shot,1,2,69
+0022300415,92,PT04M27.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P1.T2) (A.Moyer-Gleich),Foul,Shooting,1,0,72
+0022300415,104,PT04M22.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Houstan FOR Black,Substitution,,0,0,80
+0022300415,252,PT05M20.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,195
+0022300415,305,PT01M08.00S,2,1610612753,ORL,1641710,Black,A. Black,70,124,14,Missed,1,,,0,h,MISS Black 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,235
+0022300415,363,PT08M50.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black STEAL (1 STL),,,1,0,275
+0022300415,393,PT06M40.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,297
+0022300415,429,PT04M23.00S,3,1610612753,ORL,1641710,Black,A. Black,-15,52,5,Missed,1,,,0,h,MISS Black 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,322
+0022300415,431,PT04M21.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black L.B.FOUL (P2.T3) (S.Mitchell),Foul,Loose Ball,1,0,324
+0022300415,443,PT03M43.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Houstan FOR Black,Substitution,,0,0,332
+0022300415,660,PT00M14.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,491
+0022300429,16,PT11M14.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,9
+0022300429,17,PT11M14.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,Made,1,2,2,4,h,Black Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,10
+0022300429,26,PT09M56.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,19
+0022300429,88,PT04M15.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,64
+0022300429,139,PT01M08.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: F. Wagner FOR Black,Substitution,,0,0,103
+0022300429,271,PT03M06.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black P.FOUL (P1.T2) (M.Myers),Foul,Personal,1,0,203
+0022300429,295,PT02M15.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P2.T3) (M.Myers),Foul,Shooting,1,0,221
+0022300429,307,PT01M07.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,230
+0022300429,353,PT10M44.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,262
+0022300429,386,PT08M41.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black STEAL (1 STL),,,1,0,288
+0022300429,391,PT08M22.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,292
+0022300429,401,PT07M55.00S,3,1610612753,ORL,1641710,Black,A. Black,38,17,4,Made,1,68,49,117,h,Black 4' Running Alley Oop Dunk Shot (4 PTS) (Suggs 5 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,301
+0022300429,426,PT06M42.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P3.T3) (M.Kogut),Foul,Shooting,1,0,321
+0022300429,472,PT03M33.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,354
+0022300429,480,PT03M16.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Anthony FOR Black,Substitution,,0,0,361
+0022300429,692,PT00M32.50S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P4.PN) (M.Myers),Foul,Shooting,1,0,517
+0022300429,695,PT00M32.50S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Anthony FOR Black,Substitution,,0,0,519
+0022300429,708,PT00M07.10S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black STEAL (2 STL),,,1,0,529
+0022300450,49,PT07M29.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Step Out of Bounds Turnover (P1.T4),Turnover,Step Out of Bounds Turnover,1,0,41
+0022300450,85,PT03M34.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,70
+0022300450,93,PT03M23.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Anthony FOR Black,Substitution,,0,0,76
+0022300450,213,PT07M16.00S,2,1610612753,ORL,1641710,Black,A. Black,-237,-18,24,Missed,1,,,0,v,MISS Black 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,163
+0022300450,233,PT06M07.00S,2,1610612753,ORL,1641710,Black,A. Black,1,-1,0,Made,1,52,45,97,v,Black Running Dunk (2 PTS) (Banchero 1 AST),Made Shot,Running Dunk Shot,1,2,178
+0022300450,237,PT05M54.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black P.FOUL (P1.T4) (J.Sterling),Foul,Personal,1,0,179
+0022300450,284,PT03M37.00S,2,1610612753,ORL,1641710,Black,A. Black,12,64,7,Missed,1,,,0,v,MISS Black 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,212
+0022300450,331,PT00M25.50S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P2.PN) (B.Kennedy),Foul,Shooting,1,0,250
+0022300450,361,PT10M58.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,267
+0022300450,387,PT07M52.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,286
+0022300450,401,PT06M51.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Harris FOR Black,Substitution,,0,0,296
+0022300463,50,PT07M37.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black P.FOUL (P1.T1) (C.Blair),Foul,Personal,1,0,38
+0022300463,66,PT06M48.00S,1,1610612753,ORL,1641710,Black,A. Black,18,151,15,Missed,1,,,0,v,MISS Black 15' Jump Shot,Missed Shot,Jump Shot,1,2,50
+0022300463,97,PT04M52.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Anthony FOR Black,Substitution,,0,0,74
+0022300463,290,PT02M57.00S,2,1610612753,ORL,1641710,Black,A. Black,-161,222,27,Missed,1,,,0,v,MISS Black 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,215
+0022300463,304,PT01M38.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black STEAL (1 STL),,,1,0,228
+0022300463,339,PT00M03.50S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: F. Wagner FOR Black,Substitution,,0,0,256
+0022300463,357,PT11M36.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Step Out of Bounds Turnover (P1.T10),Turnover,Step Out of Bounds Turnover,1,0,264
+0022300463,378,PT09M42.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P2.T1) (T.Maddox),Foul,Shooting,1,0,283
+0022300463,385,PT09M42.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Houstan FOR Black,Substitution,,0,0,285
+0022300476,85,PT05M03.00S,1,1610612753,ORL,1641710,Black,A. Black,110,242,27,Made,1,19,20,39,v,Black 27' 3PT Jump Shot (3 PTS) (Banchero 2 AST),Made Shot,Jump Shot,1,3,59
+0022300476,115,PT02M54.00S,1,1610612753,ORL,1641710,Black,A. Black,-20,162,16,Made,1,24,22,46,v,Black 16' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,2,80
+0022300476,133,PT01M30.00S,1,1610612753,ORL,1641710,Black,A. Black,40,23,5,Made,1,25,27,52,v,Black 5' Driving Floating Bank Jump Shot (7 PTS) (Carter Jr. 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,94
+0022300476,136,PT01M15.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,96
+0022300476,217,PT07M23.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Harris FOR Black,Substitution,,0,0,153
+0022300476,295,PT01M56.00S,2,1610612753,ORL,1641710,Black,A. Black,-109,8,11,Missed,1,,,0,v,MISS Black 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,205
+0022300476,307,PT00M49.60S,2,1610612753,ORL,1641710,Black,A. Black,12,132,13,Made,1,67,53,120,v,Black 13' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,1,2,215
+0022300476,518,PT10M52.00S,4,1610612753,ORL,1641710,Black,A. Black,-2,9,1,Missed,1,,,0,v,MISS Black 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,358
+0022300476,531,PT09M41.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,369
+0022300476,532,PT09M36.00S,4,1610612753,ORL,1641710,Black,A. Black,-137,11,14,Missed,1,,,0,v,MISS Black 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,370
+0022300476,581,PT06M18.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Bad Pass Turnover (P1.T16),Turnover,Bad Pass,1,0,405
+0022300476,583,PT06M17.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black FLAGRANT.FOUL.TYPE1 (P1.T3) (S.Wright),Foul,Flagrant Type 1,1,0,407
+0022300476,611,PT06M17.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Banchero FOR Black,Substitution,,0,0,410
+0022300476,678,PT00M10.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Houstan FOR Black,Substitution,,0,0,474
+0022300476,793,PT00M07.60S,5,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Houstan FOR Black,Substitution,,0,0,538
+0022300488,30,PT09M46.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P1.T1) (M.Myers),Foul,Shooting,1,0,22
+0022300488,47,PT08M22.00S,1,1610612753,ORL,1641710,Black,A. Black,-130,89,16,Missed,1,,,0,v,MISS Black 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,35
+0022300488,58,PT07M20.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Anthony FOR Black,Substitution,,0,0,45
+0022300499,89,PT04M06.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P1.T4) (E.Scott),Foul,Shooting,1,0,64
+0022300499,113,PT02M41.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,81
+0022300499,128,PT01M25.00S,1,1610612753,ORL,1641710,Black,A. Black,82,16,8,Missed,1,,,0,h,MISS Black 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,91
+0022300499,147,PT00M46.60S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black STEAL (1 STL),,,1,0,105
+0022300499,172,PT11M44.00S,2,1610612753,ORL,1641710,Black,A. Black,143,221,26,Missed,1,,,0,h,MISS Black 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,121
+0022300499,199,PT09M19.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Houstan FOR Black,Substitution,,0,0,141
+0022300499,545,PT08M28.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Banchero FOR Black,Substitution,,0,0,404
+0022300513,170,PT10M54.00S,2,1610612753,ORL,1641710,Black,A. Black,22,55,6,Missed,1,,,0,h,MISS Black 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,127
+0022300513,196,PT09M21.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black STEAL (1 STL),,,1,0,145
+0022300513,200,PT09M08.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P1.T4) (I.Hwang),Foul,Shooting,1,0,148
+0022300513,206,PT08M48.00S,2,1610612753,ORL,1641710,Black,A. Black,-225,73,24,Made,1,28,37,65,h,Black 24' 3PT Jump Shot (3 PTS) (Queen 2 AST),Made Shot,Jump Shot,1,3,152
+0022300513,282,PT03M26.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,203
+0022300513,295,PT02M45.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black BLOCK (1 BLK),,,1,2,214
+0022300513,299,PT02M45.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Okeke FOR Black,Substitution,,0,0,216
+0022300513,521,PT11M20.00S,4,1610612753,ORL,1641710,Black,A. Black,228,47,0,Missed,1,,,0,h,MISS Black 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,378
+0022300513,534,PT10M22.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,389
+0022300513,538,PT10M15.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P2.T2) (I.Hwang),Foul,Shooting,1,0,392
+0022300513,554,PT09M08.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,404
+0022300513,585,PT06M44.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black STEAL (2 STL),,,1,0,427
+0022300513,619,PT02M56.00S,4,1610612753,ORL,1641710,Black,A. Black,161,202,26,Missed,1,,,0,h,MISS Black 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,451
+0022300513,645,PT01M46.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black STEAL (3 STL),,,1,0,470
+0022300535,201,PT10M06.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black STEAL (1 STL),,,1,0,152
+0022300535,216,PT08M22.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,162
+0022300535,217,PT08M08.00S,2,1610612753,ORL,1641710,Black,A. Black,27,44,5,Missed,1,,,0,v,MISS Black 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,163
+0022300535,235,PT06M46.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,MISS Black Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,175
+0022300535,243,PT06M46.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,41,35,76,v,Black Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,180
+0022300535,245,PT06M29.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,182
+0022300535,268,PT04M11.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,201
+0022300535,280,PT03M37.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Bitadze FOR Black,Substitution,,0,0,210
+0022300535,488,PT00M08.20S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Banchero FOR Black,Substitution,,0,0,356
+0022300535,657,PT00M23.10S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Okeke FOR Black,Substitution,,0,0,472
+0022300546,72,PT05M17.00S,1,1610612753,ORL,1641710,Black,A. Black,203,-17,20,Made,1,13,11,24,v,Black 20' Pullup Jump Shot (2 PTS) (Bitadze 1 AST),Made Shot,Pullup Jump shot,1,2,53
+0022300546,78,PT04M33.00S,1,1610612753,ORL,1641710,Black,A. Black,7,195,20,Made,1,13,13,26,v,Black 20' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,59
+0022300546,80,PT04M21.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P1.T3) (G.Petraitis),Foul,Shooting,1,0,61
+0022300546,152,PT11M13.00S,2,1610612753,ORL,1641710,Black,A. Black,134,220,26,Missed,1,,,0,v,MISS Black 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,110
+0022300546,156,PT10M54.00S,2,1610612753,ORL,1641710,Black,A. Black,-33,36,5,Missed,1,,,0,v,MISS Black 5' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,114
+0022300546,167,PT10M30.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,124
+0022300546,171,PT09M58.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,MISS Black Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,127
+0022300546,173,PT09M58.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,MISS Black Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,129
+0022300546,186,PT08M49.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black P.FOUL (P2.T2) (J.Schroeder),Foul,Personal,1,0,138
+0022300546,191,PT08M38.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,141
+0022300546,245,PT05M48.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,MISS Black Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,179
+0022300546,249,PT05M48.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,36,29,65,v,Black Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,182
+0022300546,257,PT05M09.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,189
+0022300546,280,PT04M19.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,205
+0022300546,289,PT03M40.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Okeke FOR Black,Substitution,,0,0,213
+0022300546,387,PT06M04.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,67,59,126,v,Black Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,287
+0022300546,388,PT06M04.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,67,60,127,v,Black Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,288
+0022300546,414,PT04M23.00S,3,1610612753,ORL,1641710,Black,A. Black,17,4,2,Made,1,75,64,139,v,Black 2' Running Layup (9 PTS),Made Shot,Running Layup Shot,1,2,307
+0022300546,422,PT04M07.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black BLOCK (1 BLK),,,1,2,313
+0022300546,426,PT03M46.00S,3,1610612753,ORL,1641710,Black,A. Black,21,116,12,Made,1,75,66,141,v,Black 12' Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,1,2,315
+0022300546,436,PT03M05.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,323
+0022300546,491,PT11M38.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black STEAL (1 STL),,,1,0,359
+0022300546,493,PT11M33.00S,4,1610612753,ORL,1641710,Black,A. Black,13,-4,1,Made,1,86,75,161,v,Black 1' Running Layup (13 PTS),Made Shot,Running Layup Shot,1,2,360
+0022300546,540,PT07M58.00S,4,1610612753,ORL,1641710,Black,A. Black,-39,178,18,Missed,1,,,0,v,MISS Black 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,395
+0022300585,494,PT11M08.00S,4,1610612753,ORL,1641710,Black,A. Black,-229,100,25,Made,1,79,91,170,h,Black 25' 3PT Jump Shot (3 PTS) (Fultz 2 AST),Made Shot,Jump Shot,1,3,355
+0022300585,502,PT09M49.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,80,95,175,h,Black Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,361
+0022300585,503,PT09M49.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,81,95,176,h,Black Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,362
+0022300585,539,PT06M48.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black BLOCK (1 BLK),,,1,2,389
+0022300585,541,PT06M46.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,390
+0022300585,551,PT05M56.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black P.FOUL (P1.T3) (J.Goble),Foul,Personal,1,0,397
+0022300585,576,PT04M46.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P2.T4) (T.Washington),Foul,Shooting,1,0,414
+0022300585,594,PT03M53.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,431
+0022300585,598,PT03M16.00S,4,1610612753,ORL,1641710,Black,A. Black,-233,39,24,Missed,1,,,0,h,MISS Black 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,434
+0022300585,610,PT03M00.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,442
+0022300585,645,PT00M55.10S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,103,118,221,h,Black Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,467
+0022300585,646,PT00M55.10S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,104,118,222,h,Black Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,468
+0022300601,94,PT03M58.00S,1,1610612753,ORL,1641710,Black,A. Black,32,262,26,Missed,1,,,0,h,MISS Black 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,69
+0022300601,98,PT03M35.00S,1,1610612753,ORL,1641710,Black,A. Black,-27,20,3,Missed,1,,,0,h,MISS Black 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,73
+0022300601,103,PT03M18.00S,1,1610612753,ORL,1641710,Black,A. Black,232,48,24,Made,1,19,14,33,h,Black 24' 3PT Jump Shot (3 PTS) (Ingles 2 AST),Made Shot,Jump Shot,1,3,77
+0022300601,122,PT02M01.00S,1,1610612753,ORL,1641710,Black,A. Black,-23,24,3,Made,1,22,17,39,h,Black 3' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,89
+0022300601,161,PT11M31.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,1,0,117
+0022300601,182,PT10M05.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,MISS Black Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,131
+0022300601,184,PT10M05.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,25,23,48,h,Black Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,133
+0022300601,191,PT09M20.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Fultz FOR Black,Substitution,,0,0,139
+0022300601,318,PT00M31.50S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P2.T3) (J.Schroeder),Foul,Shooting,1,0,231
+0022300601,632,PT02M40.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black Traveling Turnover (P1.T14),Turnover,Traveling,1,0,445
+0022300601,638,PT01M43.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P3.PN) (J.Schroeder),Foul,Shooting,1,0,450
+0022300601,642,PT01M23.00S,4,1610612753,ORL,1641710,Black,A. Black,-96,194,22,Missed,1,,,0,h,MISS Black 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,453
+0022300638,126,PT02M08.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,24,25,49,v,Black Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,91
+0022300638,127,PT02M08.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,MISS Black Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,92
+0022300638,131,PT01M28.00S,1,1610612753,ORL,1641710,Black,A. Black,-135,221,26,Missed,1,,,0,v,MISS Black 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,96
+0022300638,141,PT00M42.60S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black P.FOUL (P1.PN) (C.Kirkland),Foul,Personal,1,0,105
+0022300638,203,PT07M57.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Carter Jr. FOR Black,Substitution,,0,0,150
+0022300638,279,PT02M30.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P2.T3) (B.Nansel),Foul,Shooting,1,0,201
+0022300638,441,PT01M54.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P3.T2) (D.Scott),Foul,Shooting,1,0,323
+0022300638,471,PT00M10.60S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black P.FOUL (P4.PN) (B.Nansel),Foul,Personal,1,0,343
+0022300638,501,PT10M24.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,361
+0022300638,502,PT10M23.00S,4,1610612753,ORL,1641710,Black,A. Black,21,19,3,Missed,1,,,0,v,MISS Black 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,362
+0022300638,509,PT09M58.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,368
+0022300638,544,PT07M13.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P5.T1) (B.Nansel),Foul,Shooting,1,0,392
+0022300638,564,PT05M55.00S,4,1610612753,ORL,1641710,Black,A. Black,-87,151,17,Missed,1,,,0,v,MISS Black 17' Jump Shot,Missed Shot,Jump Shot,1,2,408
+0022300638,573,PT05M19.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,103,96,199,v,Black Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,415
+0022300638,574,PT05M19.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,MISS Black Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,416
+0022300638,582,PT04M38.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,422
+0022300638,607,PT02M23.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,443
+0022300638,641,PT00M04.70S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Ingles FOR Black,Substitution,,0,0,473
+0022300655,140,PT01M43.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,23,31,54,h,Black Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,99
+0022300655,141,PT01M43.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,24,31,55,h,Black Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,100
+0022300655,204,PT09M10.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Banchero FOR Black,Substitution,,0,0,147
+0022300655,477,PT00M28.60S,3,1610612753,ORL,1641710,Black,A. Black,-54,165,17,Made,1,82,82,164,h,Black 17' Pullup Jump Shot (4 PTS) (Banchero 6 AST),Made Shot,Pullup Jump shot,1,2,349
+0022300655,480,PT00M06.90S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P1.PN) (C.Washington),Foul,Shooting,1,0,351
+0022300655,518,PT09M28.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black BLOCK (1 BLK),,,1,2,376
+0022300655,557,PT07M14.00S,4,1610612753,ORL,1641710,Black,A. Black,202,153,25,Missed,1,,,0,h,MISS Black 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,407
+0022300655,560,PT07M12.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Banchero FOR Black,Substitution,,0,0,409
+0022300655,672,PT00M29.90S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,489
+0022300666,108,PT04M04.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P1.T4) (J.Sterling),Foul,Shooting,1,0,75
+0022300666,157,PT01M16.00S,1,1610612753,ORL,1641710,Black,A. Black,16,262,26,Made,1,23,30,53,v,Black 26' 3PT Jump Shot (3 PTS) (F. Wagner 4 AST),Made Shot,Jump Shot,1,3,109
+0022300666,167,PT00M37.30S,1,1610612753,ORL,1641710,Black,A. Black,224,56,0,Made,1,23,33,56,v,Black 3PT Jump Shot (6 PTS) (Anthony 1 AST),Made Shot,Jump Shot,1,3,115
+0022300666,205,PT10M01.00S,2,1610612753,ORL,1641710,Black,A. Black,136,42,14,Made,1,30,39,69,v,Black 14' Pullup Jump Shot (8 PTS) (M. Wagner 1 AST),Made Shot,Pullup Jump shot,1,2,138
+0022300666,232,PT08M25.00S,2,1610612753,ORL,1641710,Black,A. Black,241,33,24,Made,1,36,48,84,v,Black 24' 3PT Running Jump Shot (11 PTS) (Anthony 4 AST),Made Shot,Running Jump Shot,1,3,157
+0022300666,240,PT07M44.00S,2,1610612753,ORL,1641710,Black,A. Black,228,72,24,Made,1,38,51,89,v,Black 24' 3PT Jump Shot (14 PTS) (Banchero 2 AST),Made Shot,Jump Shot,1,3,162
+0022300666,254,PT07M32.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black BLOCK (1 BLK),,,1,2,165
+0022300666,249,PT07M00.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P2.PN) (J.Sterling),Foul,Shooting,1,0,170
+0022300666,258,PT06M45.00S,2,1610612753,ORL,1641710,Black,A. Black,64,55,8,Made,1,40,55,95,v,Black 8' Turnaround Fadeaway Bank Jump Shot (16 PTS) (Banchero 3 AST),Made Shot,Turnaround Fadeaway Bank Jump Shot,1,2,174
+0022300666,284,PT04M42.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,190
+0022300666,328,PT00M25.90S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,224
+0022300666,349,PT10M48.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,63,78,141,v,Black Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,237
+0022300666,350,PT10M48.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,63,79,142,v,Black Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,238
+0022300666,357,PT09M33.00S,3,1610612753,ORL,1641710,Black,A. Black,-113,6,11,Missed,1,,,0,v,MISS Black 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,245
+0022300666,369,PT08M38.00S,3,1610612753,ORL,1641710,Black,A. Black,100,133,17,Missed,1,,,0,v,MISS Black 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,254
+0022300666,378,PT07M52.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,262
+0022300666,390,PT07M15.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P3.T2) (K.Scott),Foul,Shooting,1,0,273
+0022300666,426,PT04M41.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Anthony FOR Black,Substitution,,0,0,299
+0022300666,591,PT05M12.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,413
+0022300666,595,PT04M26.00S,4,1610612753,ORL,1641710,Black,A. Black,-32,15,4,Made,1,115,115,230,v,Black 4' Driving Floating Bank Jump Shot (20 PTS) (F. Wagner 6 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,416
+0022300666,610,PT03M23.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Suggs FOR Black,Substitution,,0,0,429
+0022300666,663,PT00M36.10S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Anthony FOR Black,Substitution,,0,0,466
+0022300666,691,PT00M10.30S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Ingles FOR Black,Substitution,,0,0,485
+0022300666,715,PT00M06.40S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Anthony FOR Black,Substitution,,0,0,499
+0022300681,126,PT01M11.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,30,22,52,v,Black Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,91
+0022300681,129,PT01M11.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,30,23,53,v,Black Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,93
+0022300681,269,PT04M40.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Fultz FOR Black,Substitution,,0,0,195
+0022300681,509,PT00M05.20S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black P.FOUL (P1.T3) (E.Dalen),Foul,Personal,1,0,369
+0022300681,521,PT11M12.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P2.T1) (J.Capers),Foul,Shooting,1,0,377
+0022300681,589,PT06M39.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Suggs FOR Black,Substitution,,0,0,428
+0022300721,624,PT01M35.00S,4,1610612753,ORL,1641710,Black,A. Black,-126,122,18,Missed,1,,,0,v,MISS Black 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,447
+0022300721,634,PT00M18.10S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,457
+0022300721,635,PT00M11.90S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Out of Bounds - Bad Pass Turnover Turnover (P1.T18),Turnover,Out of Bounds - Bad Pass Turnover,1,0,458
+0022300772,675,PT01M44.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,MISS Black Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,478
+0022300772,677,PT01M44.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,110,125,235,h,Black Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,480
+0022300772,687,PT00M26.20S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black Bad Pass Turnover (P1.T16),Turnover,Bad Pass,1,0,489
+0022300778,13,PT10M48.00S,1,1610612753,ORL,1641710,Black,A. Black,23,29,4,Missed,1,,,0,h,MISS Black 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,9
+0022300778,14,PT10M48.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,10
+0022300778,15,PT10M43.00S,1,1610612753,ORL,1641710,Black,A. Black,6,11,1,Made,1,4,2,6,h,Black 1' Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,11
+0022300778,26,PT08M20.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P1.T1) (S.Mehta),Foul,Shooting,1,0,21
+0022300778,52,PT06M27.00S,1,1610612753,ORL,1641710,Black,A. Black,-227,1,0,Missed,1,,,0,h,MISS Black 3PT Jump Shot,Missed Shot,Jump Shot,1,3,41
+0022300778,59,PT05M51.00S,1,1610612753,ORL,1641710,Black,A. Black,175,179,25,Missed,1,,,0,h,MISS Black 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,47
+0022300778,77,PT04M28.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,59
+0022300778,81,PT04M25.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Anthony FOR Black,Substitution,,0,0,62
+0022300778,263,PT00M36.20S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P2.PN) (S.Mehta),Foul,Shooting,1,0,190
+0022300778,302,PT10M08.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black STEAL (1 STL),,,1,0,221
+0022300778,320,PT08M28.00S,3,1610612753,ORL,1641710,Black,A. Black,4,11,1,Missed,1,,,0,h,MISS Black 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,236
+0022300778,344,PT06M28.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P3.T2) (S.Mehta),Foul,Shooting,1,0,256
+0022300778,352,PT06M02.00S,3,1610612753,ORL,1641710,Black,A. Black,12,26,3,Made,1,79,65,144,h,Black 3' Running Dunk (4 PTS) (Banchero 4 AST),Made Shot,Running Dunk Shot,1,2,263
+0022300778,389,PT02M49.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,289
+0022300778,396,PT01M26.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black P.FOUL (P4.T4) (G.Petraitis),Foul,Personal,1,0,295
+0022300778,513,PT04M17.00S,4,1610612753,ORL,1641710,Black,A. Black,-1,27,3,Missed,1,,,0,h,MISS Black 3' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,375
+0022300778,527,PT02M50.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Harris FOR Black,Substitution,,0,0,387
+0022300792,88,PT04M17.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,64
+0022300792,104,PT03M01.00S,1,1610612753,ORL,1641710,Black,A. Black,0,11,1,Missed,1,,,0,v,MISS Black 1' Running Layup,Missed Shot,Running Layup Shot,1,2,79
+0022300792,138,PT01M38.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,102
+0022300792,152,PT00M02.90S,1,1610612753,ORL,1641710,Black,A. Black,-234,-5,0,Made,1,24,29,53,v,Black 3PT Jump Shot (3 PTS) (Anthony 2 AST),Made Shot,Jump Shot,1,3,113
+0022300792,170,PT10M51.00S,2,1610612753,ORL,1641710,Black,A. Black,233,14,0,Missed,1,,,0,v,MISS Black 3PT Jump Shot,Missed Shot,Jump Shot,1,3,125
+0022300792,227,PT06M31.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Step Out of Bounds Turnover (P1.T4),Turnover,Step Out of Bounds Turnover,1,0,166
+0022300792,235,PT05M53.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Carter Jr. FOR Black,Substitution,,0,0,172
+0022300792,352,PT06M30.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P1.T2) (S.Foster),Foul,Shooting,1,0,258
+0022300792,357,PT06M06.00S,3,1610612753,ORL,1641710,Black,A. Black,6,0,1,Missed,1,,,0,v,MISS Black 1' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,2,262
+0022300792,358,PT06M01.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,263
+0022300792,359,PT06M01.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,Made,1,66,66,132,v,Black Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,1,2,264
+0022300792,361,PT05M32.00S,3,1610612753,ORL,1641710,Black,A. Black,25,162,16,Missed,1,,,0,v,MISS Black 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,266
+0022300792,373,PT05M22.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,68,67,135,v,Black Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,273
+0022300792,374,PT05M22.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,68,68,136,v,Black Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,274
+0022300792,377,PT05M00.00S,3,1610612753,ORL,1641710,Black,A. Black,5,11,1,Made,1,68,70,138,v,Black 1' Running Alley Oop Dunk Shot (9 PTS) (F. Wagner 3 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,277
+0022300792,522,PT06M56.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Banchero FOR Black,Substitution,,0,0,379
+0022300814,162,PT11M09.00S,2,1610612753,ORL,1641710,Black,A. Black,230,14,0,Made,1,33,35,68,v,Black 3PT Jump Shot (3 PTS) (Anthony 1 AST),Made Shot,Jump Shot,1,3,118
+0022300814,166,PT10M37.00S,2,1610612753,ORL,1641710,Black,A. Black,-33,13,4,Missed,1,,,0,v,MISS Black 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,121
+0022300814,182,PT08M59.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Magic T.Foul (Def. 3 Sec Black ) (B.Kennedy),Foul,Defense 3 Second,1,0,134
+0022300814,224,PT05M25.00S,2,1610612753,ORL,1641710,Black,A. Black,11,6,1,Made,1,44,50,94,v,Black 1' Running Dunk (5 PTS) (Anthony 4 AST),Made Shot,Running Dunk Shot,1,2,162
+0022300814,244,PT04M06.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Harris FOR Black,Substitution,,0,0,177
+0022300814,426,PT02M43.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P1.T2) (B.Kennedy),Foul,Shooting,1,0,312
+0022300814,434,PT02M29.00S,3,1610612753,ORL,1641710,Black,A. Black,2,54,5,Missed,1,,,0,v,MISS Black 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,317
+0022300814,451,PT01M12.00S,3,1610612753,ORL,1641710,Black,A. Black,235,18,24,Missed,1,,,0,v,MISS Black 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,332
+0022300814,454,PT00M54.10S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P2.T3) (D.Richardson),Foul,Shooting,1,0,335
+0022300814,469,PT00M00.00S,3,1610612753,ORL,1641710,Black,A. Black,224,133,26,Missed,1,,,0,v,MISS Black 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,345
+0022300814,480,PT11M11.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,351
+0022300814,521,PT07M07.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black STEAL (1 STL),,,1,0,383
+0022300814,539,PT05M20.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black BLOCK (1 BLK),,,1,2,397
+0022300814,541,PT05M20.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,398
+0022300814,544,PT05M17.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: F. Wagner FOR Black,Substitution,,0,0,400
+0022300821,32,PT08M52.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,24
+0022300821,33,PT08M47.00S,1,1610612753,ORL,1641710,Black,A. Black,-2,22,2,Missed,1,,,0,v,MISS Black 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,25
+0022300821,44,PT07M49.00S,1,1610612753,ORL,1641710,Black,A. Black,164,195,25,Missed,1,,,0,v,MISS Black 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,35
+0022300821,69,PT05M38.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black OFF.Foul (P1) (C.Blair),Foul,Offensive,1,0,53
+0022300821,71,PT05M38.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,54
+0022300821,81,PT04M39.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,62
+0022300821,83,PT04M35.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,64
+0022300821,84,PT04M29.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,Missed,1,,,0,v,MISS Black Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,65
+0022300821,92,PT04M12.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Anthony FOR Black,Substitution,,0,0,72
+0022300821,164,PT00M35.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,19,22,41,v,Black Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,125
+0022300821,165,PT00M35.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,MISS Black Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,126
+0022300821,235,PT07M58.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,175
+0022300821,318,PT01M15.00S,2,1610612753,ORL,1641710,Black,A. Black,21,108,11,Missed,1,,,0,v,MISS Black 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,237
+0022300821,365,PT09M16.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,268
+0022300821,366,PT09M13.00S,3,1610612753,ORL,1641710,Black,A. Black,-45,259,26,Made,1,53,58,111,v,Black 26' 3PT Running Pull-Up Jump Shot (4 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,269
+0022300821,376,PT08M10.00S,3,1610612753,ORL,1641710,Black,A. Black,-110,231,26,Missed,1,,,0,v,MISS Black 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,278
+0022300821,381,PT07M50.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,283
+0022300821,396,PT06M33.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,294
+0022300821,397,PT06M31.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,295
+0022300821,402,PT06M15.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,300
+0022300821,403,PT06M15.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,Missed,1,,,0,v,MISS Black Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,301
+0022300821,454,PT02M55.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Ingles FOR Black,Substitution,,0,0,337
+0022300821,633,PT00M42.90S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Bad Pass Turnover (P3.T20),Turnover,Bad Pass,1,0,468
+0022300833,157,PT11M39.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black STEAL (1 STL),,,1,0,106
+0022300833,210,PT07M24.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,147
+0022300833,214,PT07M10.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,151
+0022300833,240,PT05M27.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,166
+0022300833,249,PT04M42.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,171
+0022300833,251,PT04M34.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black STEAL (2 STL),,,1,0,174
+0022300833,260,PT04M08.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Fultz FOR Black,Substitution,,0,0,180
+0022300833,549,PT07M55.00S,4,1610612753,ORL,1641710,Black,A. Black,-5,10,1,Made,1,95,64,159,h,Black 1' Driving Finger Roll Layup (2 PTS) (M. Wagner 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,383
+0022300833,573,PT06M42.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,100,69,169,h,Black Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,399
+0022300833,574,PT06M42.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,MISS Black Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,400
+0022300833,587,PT06M08.00S,4,1610612753,ORL,1641710,Black,A. Black,229,13,0,Made,1,103,71,174,h,Black 3PT Jump Shot (6 PTS) (Fultz 1 AST),Made Shot,Jump Shot,1,3,410
+0022300833,593,PT05M36.00S,4,1610612753,ORL,1641710,Black,A. Black,-15,141,14,Missed,1,,,0,h,MISS Black 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,413
+0022300833,629,PT03M10.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,105,75,180,h,Black Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,439
+0022300833,630,PT03M10.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,106,75,181,h,Black Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,440
+0022300833,632,PT02M51.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,442
+0022300833,641,PT01M09.00S,4,1610612753,ORL,1641710,Black,A. Black,88,239,25,Missed,1,,,0,h,MISS Black 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,452
+0022300874,592,PT02M26.00S,4,1610612753,ORL,1641710,Black,A. Black,110,101,15,Missed,1,,,0,h,MISS Black 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,431
+0022300874,595,PT02M08.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,434
+0022300874,599,PT01M27.00S,4,1610612753,ORL,1641710,Black,A. Black,-124,219,25,Made,1,112,89,201,h,Black 25' 3PT Jump Shot (3 PTS) (Bitadze 1 AST),Made Shot,Jump Shot,1,3,438
+0022300885,133,PT00M15.50S,1,1610612753,ORL,1641710,Black,A. Black,227,85,24,Made,1,18,25,43,v,Black 24' 3PT Jump Shot (3 PTS) (Anthony 1 AST),Made Shot,Jump Shot,1,3,96
+0022300885,203,PT06M30.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,MISS Black Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,142
+0022300885,205,PT06M30.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,MISS Black Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,144
+0022300885,207,PT06M18.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black P.FOUL (P1.T1) (B.Forte),Foul,Personal,1,0,146
+0022300885,217,PT05M45.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Out of Bounds Lost Ball Turnover (P1.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0,151
+0022300885,226,PT04M58.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Harris FOR Black,Substitution,,0,0,159
+0022300885,284,PT00M05.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,201
+0022300885,287,PT00M02.70S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,43,45,88,v,Black Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,203
+0022300885,288,PT00M02.70S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,MISS Black Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,204
+0022300885,413,PT02M20.00S,3,1610612753,ORL,1641710,Black,A. Black,176,218,28,Made,1,62,67,129,v,Black 28' 3PT Jump Shot (7 PTS) (Anthony 2 AST),Made Shot,Jump Shot,1,3,297
+0022300885,503,PT06M36.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,357
+0022300885,508,PT06M00.00S,4,1610612753,ORL,1641710,Black,A. Black,230,109,25,Made,1,79,95,174,v,Black 25' 3PT Pullup Jump Shot (10 PTS) (Ingles 8 AST),Made Shot,Pullup Jump shot,1,3,362
+0022300885,522,PT05M07.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,371
+0022300885,526,PT04M16.00S,4,1610612753,ORL,1641710,Black,A. Black,-17,22,3,Missed,1,,,0,v,MISS Black 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,375
+0022300885,538,PT03M16.00S,4,1610612753,ORL,1641710,Black,A. Black,-222,15,0,Missed,1,,,0,v,MISS Black 3PT Jump Shot,Missed Shot,Jump Shot,1,3,384
+0022300885,548,PT02M12.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,391
+0022300885,554,PT01M34.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,396
+0022300894,20,PT09M55.00S,1,1610612753,ORL,1641710,Black,A. Black,-87,135,16,Missed,1,,,0,v,MISS Black 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,12
+0022300894,35,PT07M52.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,23
+0022300894,74,PT04M53.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Ingles FOR Black,Substitution,,0,0,53
+0022300894,315,PT11M05.00S,3,1610612753,ORL,1641710,Black,A. Black,-192,183,27,Missed,1,,,0,v,MISS Black 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,224
+0022300894,350,PT07M19.00S,3,1610612753,ORL,1641710,Black,A. Black,227,32,0,Made,1,67,65,132,v,Black 3PT Jump Shot (3 PTS) (Suggs 2 AST),Made Shot,Jump Shot,1,3,255
+0022300894,371,PT05M54.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black STEAL (1 STL),,,0,0,269
+0022300894,390,PT04M25.00S,3,1610612753,ORL,1641710,Black,A. Black,227,44,0,Made,1,76,77,153,v,Black 3PT Jump Shot (6 PTS) (Suggs 4 AST),Made Shot,Jump Shot,1,3,283
+0022300894,392,PT04M09.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black STEAL (2 STL),,,1,0,285
+0022300894,396,PT04M01.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P1.T4) (J.Conley),Foul,Shooting,1,0,288
+0022300894,417,PT02M53.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Fultz FOR Black,Substitution,,0,0,306
+0022300894,632,PT00M55.70S,4,1610612753,ORL,1641710,Black,A. Black,-7,5,1,Made,1,105,117,222,v,Black 1' Driving Dunk (8 PTS) (F. Wagner 2 AST),Made Shot,Driving Dunk Shot,1,2,448
+0022300912,22,PT10M18.00S,1,1610612753,ORL,1641710,Black,A. Black,-17,47,5,Missed,1,,,0,v,MISS Black 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,16
+0022300912,25,PT09M48.00S,1,1610612753,ORL,1641710,Black,A. Black,-5,25,3,Missed,1,,,0,v,MISS Black 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,19
+0022300912,30,PT09M42.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P1.T1) (N.Green),Foul,Shooting,1,0,23
+0022300912,98,PT03M33.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,73
+0022300912,106,PT02M30.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Anthony FOR Black,Substitution,,0,0,80
+0022300912,282,PT00M27.80S,2,1610612753,ORL,1641710,Black,A. Black,-162,187,25,Missed,1,,,0,v,MISS Black 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,216
+0022300912,301,PT11M02.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,228
+0022300912,304,PT10M44.00S,3,1610612753,ORL,1641710,Black,A. Black,223,-11,0,Missed,1,,,0,v,MISS Black 3PT Jump Shot,Missed Shot,Jump Shot,1,3,231
+0022300912,313,PT10M00.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,239
+0022300912,332,PT08M04.00S,3,1610612753,ORL,1641710,Black,A. Black,9,5,1,Missed,1,,,0,v,MISS Black 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,253
+0022300912,344,PT06M37.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black P.FOUL (P2.T1) (N.Green),Foul,Personal,1,0,265
+0022300912,348,PT06M37.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Anthony FOR Black,Substitution,,0,0,268
+0022300928,125,PT01M39.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,93
+0022300928,132,PT01M06.00S,1,1610612753,ORL,1641710,Black,A. Black,141,120,19,Missed,1,,,0,h,MISS Black 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,98
+0022300928,138,PT00M48.90S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P1.PN) (S.Wall),Foul,Shooting,1,0,104
+0022300928,161,PT11M15.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black P.FOUL (P2.T1) (S.Wall),Foul,Personal,1,0,124
+0022300928,171,PT10M33.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,132
+0022300928,199,PT09M11.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black P.FOUL (P3.T3) (S.Wall),Foul,Personal,1,0,150
+0022300928,201,PT09M11.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Harris FOR Black,Substitution,,0,0,151
+0022300928,502,PT00M14.10S,3,1610612753,ORL,1641710,Black,A. Black,192,180,26,Missed,1,,,0,h,MISS Black 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,372
+0022300928,504,PT00M05.20S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black STEAL (1 STL),,,1,0,375
+0022300928,506,PT00M04.80S,3,1610612753,ORL,1641710,Black,A. Black,2,9,1,Missed,1,,,0,h,MISS Black 1' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,376
+0022300928,516,PT11M27.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,383
+0022300928,532,PT09M14.00S,4,1610612753,ORL,1641710,Black,A. Black,-6,3,1,Made,1,83,93,176,h,Black 1' Cutting Dunk Shot (2 PTS) (M. Wagner 2 AST),Made Shot,Cutting Dunk Shot,1,2,395
+0022300928,566,PT07M45.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Banchero FOR Black,Substitution,,0,0,420
+0022300947,653,PT00M45.80S,4,1610612753,ORL,1641710,Black,A. Black,-29,268,27,Missed,1,,,0,h,MISS Black 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,468
+0022300947,655,PT00M40.70S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black BLOCK (1 BLK),,,1,2,472
+0022300979,631,PT01M11.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black STEAL (1 STL),,,1,0,448
+0022300979,633,PT01M07.00S,4,1610612753,ORL,1641710,Black,A. Black,29,37,5,Made,1,111,92,203,h,Black 5' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,449
+0022300979,639,PT00M43.60S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,MISS Black Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,454
+0022300979,641,PT00M43.60S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,MISS Black Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,456
+0022300991,483,PT07M16.00S,4,1610612753,ORL,1641710,Black,A. Black,-115,11,12,Missed,1,,,0,h,MISS Black 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,344
+0022300991,489,PT06M37.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,350
+0022300991,493,PT06M13.00S,4,1610612753,ORL,1641710,Black,A. Black,-4,0,0,Made,1,102,75,177,h,Black Running Dunk (2 PTS) (Bitadze 1 AST),Made Shot,Running Dunk Shot,1,2,355
+0022300991,521,PT03M40.00S,4,1610612753,ORL,1641710,Black,A. Black,229,30,0,Missed,1,,,0,h,MISS Black 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,371
+0022300991,553,PT01M03.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black BLOCK (1 BLK),,,1,2,401
+0022301004,612,PT02M45.00S,4,1610612753,ORL,1641710,Black,A. Black,5,46,5,Missed,1,,,0,h,MISS Black 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,427
+0022301004,619,PT02M05.00S,4,1610612753,ORL,1641710,Black,A. Black,-9,42,4,Made,1,119,100,219,h,Black 4' Cutting Dunk Shot (2 PTS) (Bitadze 1 AST),Made Shot,Cutting Dunk Shot,1,2,430
+0022301004,640,PT00M33.70S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black BLOCK (1 BLK),,,1,2,443
+0022301004,642,PT00M28.30S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,444
+0022301004,646,PT00M01.60S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black Bad Pass Turnover (P1.T16),Turnover,Bad Pass,0,0,448
+0022301049,159,PT00M51.00S,1,1610612753,ORL,1641710,Black,A. Black,233,53,24,Missed,1,,,0,h,MISS Black 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,124
+0022301049,190,PT10M33.00S,2,1610612753,ORL,1641710,Black,A. Black,23,21,3,Missed,1,,,0,h,MISS Black 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,144
+0022301049,191,PT10M31.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,145
+0022301049,196,PT10M06.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: F. Wagner FOR Black,Substitution,,0,0,149
+0022301049,431,PT05M14.00S,3,1610612753,ORL,1641710,Black,A. Black,4,25,3,Made,1,50,63,113,h,Black 3' Cutting Layup Shot (2 PTS) (Anthony 4 AST),Made Shot,Cutting Layup Shot,1,2,319
+0022301049,437,PT05M14.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,MISS Black Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,322
+0022301049,450,PT04M53.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,51,63,114,h,Black Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,330
+0022301049,451,PT04M53.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,MISS Black Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,331
+0022301049,464,PT03M23.00S,3,1610612753,ORL,1641710,Black,A. Black,59,27,6,Missed,1,,,0,h,MISS Black 6' Hook Shot,Missed Shot,Hook Shot,1,2,341
+0022301049,486,PT01M56.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P1.T3) (P.Ransom),Foul,Shooting,1,0,358
+0022301049,513,PT00M08.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Ingles FOR Black,Substitution,,0,0,378
+0022301049,536,PT10M13.00S,4,1610612753,ORL,1641710,Black,A. Black,-147,203,25,Made,1,74,78,152,h,Black 25' 3PT Jump Shot (6 PTS) (M. Wagner 5 AST),Made Shot,Jump Shot,1,3,393
+0022301049,551,PT08M16.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Banchero FOR Black,Substitution,,0,0,404
+0022301075,482,PT10M40.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black STEAL (1 STL),,,1,0,364
+0022301075,484,PT10M36.00S,4,1610612753,ORL,1641710,Black,A. Black,0,5,1,Made,1,96,57,153,h,Black 1' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,1,2,365
+0022301075,566,PT03M30.00S,4,1610612753,ORL,1641710,Black,A. Black,-232,8,0,Missed,1,,,0,h,MISS Black 3PT Jump Shot,Missed Shot,Jump Shot,1,3,427
+0022301136,642,PT01M20.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,0,460
+0022301162,208,PT06M52.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Carter Jr. FOR Black,Substitution,,0,0,159
+0022301162,291,PT00M03.70S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black P.FOUL (P1.T4) (J.Orr),Foul,Personal,1,0,218
+0022301162,424,PT02M14.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black P.FOUL (P2.T3) (M.Myers),Foul,Personal,1,0,316
+0022301162,474,PT10M35.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black Step Out of Bounds Turnover (P1.T13),Turnover,Step Out of Bounds Turnover,1,0,352
+0022301162,479,PT10M01.00S,4,1610612753,ORL,1641710,Black,A. Black,-228,-4,0,Made,1,101,80,181,v,Black 3PT Jump Shot (3 PTS) (Anthony 3 AST),Made Shot,Jump Shot,1,3,356
+0022301162,487,PT09M23.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Suggs FOR Black,Substitution,,0,0,361
+0022301162,606,PT01M10.00S,4,1610612753,ORL,1641710,Black,A. Black,-12,8,1,Made,1,116,99,215,v,Black 1' Driving Dunk (5 PTS) (Okeke 1 AST),Made Shot,Driving Dunk Shot,1,2,449
+0022301191,608,PT05M05.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,410
+0022301191,567,PT03M20.00S,4,1610612753,ORL,1641710,Black,A. Black,159,200,26,Made,1,109,79,188,h,Black 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,422
+0022301191,574,PT02M28.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,428
+0022301191,578,PT02M19.00S,4,1610612753,ORL,1641710,Black,A. Black,-1,1,0,Made,1,111,81,192,h,Black Running Dunk (5 PTS) (Bitadze 1 AST),Made Shot,Running Dunk Shot,1,2,432
+0022301191,599,PT00M36.80S,4,1610612753,ORL,1641710,Black,A. Black,-147,218,26,Missed,1,,,0,h,MISS Black 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,447
+0022301205,22,PT09M51.00S,1,1610612753,ORL,1641710,Black,A. Black,0,9,1,Made,1,7,6,13,v,Black 1' Cutting Dunk Shot (2 PTS) (Bitadze 1 AST),Made Shot,Cutting Dunk Shot,1,2,14
+0022301205,46,PT07M04.00S,1,1610612753,ORL,1641710,Black,A. Black,-1,16,2,Made,1,16,12,28,v,Black 2' Cutting Dunk Shot (4 PTS) (Bitadze 2 AST),Made Shot,Cutting Dunk Shot,1,2,33
+0022301205,302,PT04M11.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Anthony FOR Black,Substitution,,0,0,70
+0022301205,372,PT11M35.00S,3,1610612753,ORL,1641710,Black,A. Black,-16,-11,2,Made,1,65,54,119,v,Black 2' Cutting Dunk Shot (6 PTS) (Bitadze 3 AST),Made Shot,Cutting Dunk Shot,1,2,267
+0022301205,389,PT09M57.00S,3,1610612753,ORL,1641710,Black,A. Black,-97,116,15,Made,1,69,57,126,v,Black 15' Fadeaway Jumper (8 PTS) (Harris 2 AST),Made Shot,Fadeaway Jump Shot,1,2,279
+0022301205,407,PT08M28.00S,3,1610612753,ORL,1641710,Black,A. Black,12,22,3,Made,1,71,63,134,v,Black 3' Driving Layup (10 PTS) (F. Wagner 7 AST),Made Shot,Driving Layup Shot,1,2,293
+0022301205,410,PT08M28.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,71,64,135,v,Black Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,295
+0022301205,419,PT07M41.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,Black S.FOUL (P1.T2) (T.Ford),Foul,Shooting,1,0,303
+0022301205,453,PT05M57.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,v,SUB: Anthony FOR Black,Substitution,,0,0,326
+0022301217,38,PT08M32.00S,1,1610612753,ORL,1641710,Black,A. Black,72,5,7,Missed,1,,,0,h,MISS Black 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,24
+0022301217,53,PT07M08.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,35
+0022301217,89,PT03M34.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: Anthony FOR Black,Substitution,,0,0,64
+0022301217,284,PT01M27.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,207
+0022301217,287,PT01M27.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,MISS Black Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,209
+0022301217,291,PT01M27.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,54,37,91,h,Black Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,212
+0022301217,334,PT09M49.00S,3,1610612753,ORL,1641710,Black,A. Black,-224,94,24,Missed,1,,,0,h,MISS Black 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,246
+0022301217,341,PT09M02.00S,3,1610612753,ORL,1641710,Black,A. Black,22,20,3,Made,1,63,48,111,h,Black 3' Layup (3 PTS),Made Shot,Layup Shot,1,2,252
+0022301217,344,PT08M50.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,254
+0022301217,364,PT06M24.00S,3,1610612753,ORL,1641710,Black,A. Black,-6,34,3,Made,1,75,49,124,h,Black 3' Layup (5 PTS) (Bitadze 2 AST),Made Shot,Layup Shot,1,2,271
+0022301217,375,PT05M32.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black P.FOUL (P1.T3) (E.Malloy),Foul,Personal,1,0,277
+0022301217,394,PT04M22.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,MISS Black Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,290
+0022301217,400,PT04M22.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,80,51,131,h,Black Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,294
+0022301217,405,PT03M40.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black S.FOUL (P2.T4) (D.Mosher),Foul,Shooting,1,0,299
+0022301217,411,PT03M19.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,304
+0022301217,416,PT03M14.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,SUB: M. Wagner FOR Black,Substitution,,0,0,308
+0022301217,585,PT03M28.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,424
+0022301217,601,PT01M49.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,,,0,h,Black REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,436

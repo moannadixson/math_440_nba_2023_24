@@ -1,0 +1,39 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300277,631,PT04M07.00S,4,1610612742,DAL,1641926,Dennis,D. Dennis,100,62,12,Missed,1,,,0,h,MISS Dennis 12' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,456
+0022300277,651,PT02M41.00S,4,1610612742,DAL,1641926,Dennis,D. Dennis,16,1,2,Made,1,90,108,198,h,Dennis 2' Running Layup (2 PTS) (Hardy 5 AST),Made Shot,Running Layup Shot,1,2,472
+0022300277,673,PT01M04.00S,4,1610612742,DAL,1641926,Dennis,D. Dennis,-6,23,2,Made,1,94,108,202,h,Dennis 2' Driving Reverse Layup (4 PTS),Made Shot,Driving Reverse Layup Shot,1,2,487
+0022300277,676,PT01M04.00S,4,1610612742,DAL,1641926,Dennis,D. Dennis,0,0,0,,0,,,0,h,MISS Dennis Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,489
+0022300277,681,PT00M36.30S,4,1610612742,DAL,1641926,Dennis,D. Dennis,214,126,25,Missed,1,,,0,h,MISS Dennis 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,494
+0022300287,166,PT01M06.00S,1,1610612742,DAL,1641926,Dennis,D. Dennis,0,0,0,,0,,,0,h,Dennis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,126
+0022300287,176,PT00M50.50S,1,1610612742,DAL,1641926,Dennis,D. Dennis,185,165,25,Missed,1,,,0,h,MISS Dennis 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,133
+0022300287,179,PT00M45.20S,1,1610612742,DAL,1641926,Dennis,D. Dennis,0,0,0,,0,,,0,h,Dennis Violation:Defensive Goaltending (D.Richardson),Violation,Defensive Goaltending,1,0,136
+0022300287,181,PT00M32.10S,1,1610612742,DAL,1641926,Dennis,D. Dennis,0,0,0,,0,,,0,h,Dennis REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,138
+0022300287,182,PT00M27.90S,1,1610612742,DAL,1641926,Dennis,D. Dennis,164,184,25,Missed,1,,,0,h,MISS Dennis 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,139
+0022300385,443,PT04M18.00S,3,1610612742,DAL,1641926,Dennis,D. Dennis,170,184,25,Made,1,85,50,135,v,Dennis 25' 3PT Jump Shot (3 PTS) (Williams 2 AST),Made Shot,Jump Shot,1,3,339
+0022300385,449,PT03M47.00S,3,1610612742,DAL,1641926,Dennis,D. Dennis,202,128,24,Missed,1,,,0,v,MISS Dennis 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,344
+0022300385,474,PT02M14.00S,3,1610612742,DAL,1641926,Dennis,D. Dennis,-31,34,5,Made,1,88,52,140,v,Dennis 5' Driving Reverse Layup (5 PTS),Made Shot,Driving Reverse Layup Shot,1,2,364
+0022300385,481,PT02M14.00S,3,1610612742,DAL,1641926,Dennis,D. Dennis,0,0,0,,0,,,0,v,MISS Dennis Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,368
+0022300385,510,PT00M32.10S,3,1610612742,DAL,1641926,Dennis,D. Dennis,0,0,0,,0,,,0,v,Dennis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,392
+0022300385,543,PT10M01.00S,4,1610612742,DAL,1641926,Dennis,D. Dennis,33,163,17,Missed,1,,,0,v,MISS Dennis 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,419
+0022300385,562,PT08M55.00S,4,1610612742,DAL,1641926,Dennis,D. Dennis,13,-6,1,Made,1,98,66,164,v,Dennis 1' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,435
+0022300385,569,PT08M55.00S,4,1610612742,DAL,1641926,Dennis,D. Dennis,0,0,0,,0,98,67,165,v,Dennis Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1,0,439
+0022300385,572,PT08M39.00S,4,1610612742,DAL,1641926,Dennis,D. Dennis,0,0,0,,0,,,0,v,Dennis REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,441
+0022300385,579,PT08M21.00S,4,1610612742,DAL,1641926,Dennis,D. Dennis,0,0,0,,0,,,0,v,Dennis REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,447
+0022300385,584,PT07M43.00S,4,1610612742,DAL,1641926,Dennis,D. Dennis,-6,-6,1,Made,1,100,70,170,v,Dennis 1' Reverse Layup (10 PTS),Made Shot,Reverse Layup Shot,1,2,451
+0022300385,586,PT07M27.00S,4,1610612742,DAL,1641926,Dennis,D. Dennis,0,0,0,,0,,,0,v,Dennis REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,453
+0022300385,595,PT06M50.00S,4,1610612742,DAL,1641926,Dennis,D. Dennis,-7,10,1,Made,1,102,74,176,v,Dennis 1' Driving Dunk (12 PTS) (Brown III 1 AST),Made Shot,Driving Dunk Shot,1,2,459
+0022300385,604,PT06M15.00S,4,1610612742,DAL,1641926,Dennis,D. Dennis,0,0,0,,0,,,0,v,Dennis REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,468
+0022300385,616,PT05M13.00S,4,1610612742,DAL,1641926,Dennis,D. Dennis,-161,227,28,Missed,1,,,0,v,MISS Dennis 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,478
+0022300385,630,PT03M54.00S,4,1610612742,DAL,1641926,Dennis,D. Dennis,110,127,17,Made,1,110,81,191,v,Dennis 17' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,2,489
+0022300385,634,PT03M26.00S,4,1610612742,DAL,1641926,Dennis,D. Dennis,7,12,1,Made,1,112,83,195,v,Dennis 1' Layup (16 PTS) (Holmes 1 AST),Made Shot,Layup Shot,1,2,492
+0022300385,638,PT02M41.00S,4,1610612742,DAL,1641926,Dennis,D. Dennis,-59,100,12,Made,1,114,85,199,v,Dennis 12' Driving Floating Jump Shot (18 PTS) (Brown III 2 AST),Made Shot,Driving Floating Jump Shot,1,2,494
+0022300398,554,PT09M01.00S,4,1610612742,DAL,1641926,Dennis,D. Dennis,0,0,0,,0,,,0,h,Dennis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,392
+0022300398,589,PT06M50.00S,4,1610612742,DAL,1641926,Dennis,D. Dennis,0,0,0,,0,,,0,h,Dennis Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,419
+0022300398,592,PT06M36.00S,4,1610612742,DAL,1641926,Dennis,D. Dennis,0,0,0,,0,,,0,h,Dennis REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,422
+0022300398,593,PT06M29.00S,4,1610612742,DAL,1641926,Dennis,D. Dennis,-172,187,25,Missed,1,,,0,h,MISS Dennis 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,423
+0022300398,613,PT05M12.00S,4,1610612742,DAL,1641926,Dennis,D. Dennis,0,0,0,,0,,,0,h,Dennis Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,440
+0022300398,626,PT04M35.00S,4,1610612742,DAL,1641926,Dennis,D. Dennis,0,0,0,,0,,,0,h,Dennis S.FOUL (P1.T2) (R.Hussey),Foul,Shooting,1,0,449
+0022300398,630,PT04M21.00S,4,1610612742,DAL,1641926,Dennis,D. Dennis,0,0,0,,0,,,0,h,Dennis Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,0,452
+0022300398,637,PT04M06.00S,4,1610612742,DAL,1641926,Dennis,D. Dennis,-191,158,25,Missed,1,,,0,h,MISS Dennis 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,458
+0022300398,646,PT03M44.00S,4,1610612742,DAL,1641926,Dennis,D. Dennis,0,0,0,,0,,,0,h,Dennis BLOCK (1 BLK),,,1,2,467
+0022300398,652,PT03M43.00S,4,1610612742,DAL,1641926,Dennis,D. Dennis,0,0,0,,0,,,0,h,SUB: Exum FOR Dennis,Substitution,,0,0,472

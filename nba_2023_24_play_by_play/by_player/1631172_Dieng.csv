@@ -1,0 +1,283 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300005,143,PT01M20.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,150,207,26,Made,1,30,36,66,h,Dieng 26' 3PT Jump Shot (3 PTS) (Micic 2 AST),Made Shot,Jump Shot,1,3,100
+0022300005,146,PT00M49.80S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,102
+0022300005,147,PT00M49.80S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,1,0,103
+0022300005,157,PT00M01.70S,1,1610612760,OKC,1631172,Dieng,O. Dieng,43,270,27,Missed,1,,,0,h,MISS Dieng 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,109
+0022300005,183,PT10M16.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,-238,2,24,Missed,1,,,0,h,MISS Dieng 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,125
+0022300005,191,PT09M54.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,SUB: Wallace FOR Dieng,Substitution,,0,0,132
+0022300016,116,PT02M33.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,-196,176,26,Missed,1,,,0,v,MISS Dieng 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,86
+0022300016,153,PT00M27.40S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,112
+0022300016,509,PT00M31.40S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng S.FOUL (P1.T2) (B.Taylor),Foul,Shooting,1,0,370
+0022300016,515,PT00M23.50S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,SUB: Wallace FOR Dieng,Substitution,,0,0,375
+0022300058,121,PT02M22.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,93
+0022300058,122,PT02M04.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,-7,55,6,Missed,1,,,0,v,MISS Dieng 6' Layup,Missed Shot,Layup Shot,1,2,94
+0022300058,134,PT01M47.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,SUB: Wallace FOR Dieng,Substitution,,0,0,105
+0022300070,102,PT04M04.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,-87,246,26,Made,1,24,29,53,v,Dieng 26' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 2 AST),Made Shot,Jump Shot,1,3,72
+0022300070,121,PT02M40.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,86
+0022300070,136,PT02M00.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,238,7,24,Missed,1,,,0,v,MISS Dieng 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,95
+0022300070,141,PT01M35.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,100
+0022300070,143,PT01M23.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng S.FOUL (P1.T3) (N.Green),Foul,Shooting,1,0,102
+0022300070,149,PT01M12.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,106
+0022300070,159,PT00M53.50S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,SUB: Waters III FOR Dieng,Substitution,,0,0,114
+0022300070,221,PT10M07.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,SUB: Wiggins FOR Dieng,Substitution,,0,0,156
+0022300070,390,PT09M12.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,-154,200,25,Made,1,66,68,134,v,Dieng 25' 3PT Jump Shot (6 PTS) (Giddey 3 AST),Made Shot,Jump Shot,1,3,284
+0022300070,434,PT05M08.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,93,234,25,Made,1,71,79,150,v,Dieng 25' 3PT Jump Shot (9 PTS) (Gilgeous-Alexander 6 AST),Made Shot,Jump Shot,1,3,318
+0022300070,438,PT04M38.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,-124,216,25,Missed,1,,,0,v,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,320
+0022300070,461,PT03M24.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,SUB: Wallace FOR Dieng,Substitution,,0,0,337
+0022300081,94,PT04M34.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,230,103,25,Missed,1,,,0,v,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,73
+0022300081,116,PT02M54.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,91
+0022300081,153,PT00M14.90S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,SUB: Holmgren FOR Dieng,Substitution,,0,0,119
+0022300081,244,PT06M57.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng L.B.FOUL (P1.T2) (P.Fraher),Foul,Loose Ball,1,0,180
+0022300081,252,PT06M21.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,190,173,26,Missed,1,,,0,v,MISS Dieng 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,186
+0022300081,258,PT05M45.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng S.FOUL (P2.T3) (N.Sago),Foul,Shooting,1,0,191
+0022300081,264,PT05M45.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,SUB: Dort FOR Dieng,Substitution,,0,0,196
+0022300081,430,PT05M31.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,SUB: Holmgren FOR Dieng,Substitution,,0,0,318
+0022300081,451,PT04M36.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng S.FOUL (P3.T2) (P.Fraher),Foul,Shooting,1,0,333
+0022300081,488,PT00M56.50S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,SUB: Wiggins FOR Dieng,Substitution,,0,0,364
+0022300095,197,PT10M44.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,31,250,25,Missed,1,,,0,h,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,142
+0022300095,226,PT08M25.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,SUB: Holmgren FOR Dieng,Substitution,,0,0,162
+0022300095,458,PT02M23.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,-5,4,1,Made,1,72,93,165,h,Dieng 1' Running Reverse Layup (2 PTS) (Joe 1 AST),Made Shot,Running Reverse Layup Shot,1,2,329
+0022300095,468,PT01M25.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,333
+0022300095,469,PT01M17.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,-190,186,27,Missed,1,,,0,h,MISS Dieng 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,334
+0022300095,486,PT00M04.70S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,348
+0022300095,533,PT08M23.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,381
+0022300095,564,PT05M34.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,-162,205,26,Missed,1,,,0,h,MISS Dieng 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,406
+0022300095,574,PT05M12.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,413
+0022300095,575,PT04M58.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,-197,179,27,Missed,1,,,0,h,MISS Dieng 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,414
+0022300095,595,PT03M08.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,4,26,3,Made,1,90,121,211,h,Dieng 3' Driving Layup (4 PTS) (Mann 1 AST),Made Shot,Driving Layup Shot,1,2,428
+0022300095,598,PT03M08.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,91,121,212,h,Dieng Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,430
+0022300095,603,PT02M17.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,72,59,9,Missed,1,,,0,h,MISS Dieng 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,435
+0022300095,617,PT01M02.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,444
+0022300095,621,PT00M43.70S,4,1610612760,OKC,1631172,Dieng,O. Dieng,-189,160,25,Missed,1,,,0,h,MISS Dieng 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,445
+0022300109,190,PT11M40.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,134
+0022300109,194,PT11M13.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,6,21,2,Made,1,35,23,58,h,Dieng 2' Cutting Layup Shot (2 PTS) (Giddey 2 AST),Made Shot,Cutting Layup Shot,1,2,137
+0022300109,198,PT11M13.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,MISS Dieng Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,139
+0022300109,230,PT09M08.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,-11,12,2,Made,1,42,30,72,h,Dieng 2' Running Dunk (4 PTS) (Williams 2 AST),Made Shot,Running Dunk Shot,1,2,165
+0022300109,279,PT05M54.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,SUB: Joe FOR Dieng,Substitution,,0,0,203
+0022300109,578,PT11M34.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,56,245,25,Made,1,94,79,173,h,Dieng 25' 3PT Jump Shot (7 PTS) (Williams 4 AST),Made Shot,Jump Shot,1,3,414
+0022300109,591,PT10M13.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,424
+0022300109,649,PT05M25.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,-230,-18,0,Made,1,117,97,214,h,Dieng 3PT Jump Shot (10 PTS) (Wallace 2 AST),Made Shot,Jump Shot,1,3,464
+0022300121,197,PT11M32.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,167,195,26,Missed,1,,,0,h,MISS Dieng 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,143
+0022300121,228,PT09M02.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,167
+0022300121,233,PT08M36.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,-5,8,1,Made,1,39,20,59,h,Dieng 1' Alley Oop Dunk (2 PTS) (Giddey 2 AST),Made Shot,Alley Oop Dunk Shot,1,2,172
+0022300121,245,PT08M06.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,THUNDER T.Foul (Def. 3 Sec Dieng ) (E.Dalen),Foul,Defense 3 Second,1,0,180
+0022300121,269,PT06M59.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,200
+0022300121,289,PT05M36.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,197,153,25,Missed,1,,,0,h,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,216
+0022300121,324,PT03M32.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,SUB: Williams FOR Dieng,Substitution,,0,0,241
+0022300121,631,PT09M44.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,163,192,25,Missed,1,,,0,h,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,442
+0022300121,643,PT08M50.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,SUB: Wiggins FOR Dieng,Substitution,,0,0,450
+0022300155,189,PT10M14.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,131,225,26,Made,1,32,28,60,h,Dieng 26' 3PT Jump Shot (3 PTS) (Wallace 1 AST),Made Shot,Jump Shot,1,3,135
+0022300155,201,PT09M04.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,145
+0022300155,202,PT09M04.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,Missed,1,,,0,h,MISS Dieng Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,146
+0022300155,231,PT07M39.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,170
+0022300155,246,PT05M42.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,-88,37,10,Missed,1,,,0,h,MISS Dieng 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,184
+0022300155,253,PT05M36.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,SUB: Dort FOR Dieng,Substitution,,0,0,189
+0022300155,536,PT11M38.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,238,27,24,Missed,1,,,0,h,MISS Dieng 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,395
+0022300155,575,PT08M50.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,0,425
+0022300155,579,PT08M47.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,SUB: Dort FOR Dieng,Substitution,,0,0,429
+0022300167,115,PT03M39.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,86
+0022300167,130,PT02M32.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,-5,1,Made,1,26,22,48,h,Dieng 1' Running Dunk (2 PTS) (Wallace 1 AST),Made Shot,Running Dunk Shot,1,2,99
+0022300167,154,PT00M43.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,229,46,0,Missed,1,,,0,h,MISS Dieng 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,117
+0022300167,156,PT00M33.90S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng STEAL (1 STL),,,1,0,120
+0022300167,168,PT00M16.70S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,SUB: Jal. Williams FOR Dieng,Substitution,,0,0,127
+0022300167,438,PT06M42.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng S.FOUL (P1.T3) (M.Davis),Foul,Shooting,1,0,312
+0022300167,456,PT05M53.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,326
+0022300167,458,PT05M45.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,328
+0022300167,478,PT04M31.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,91,75,166,h,Dieng Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,342
+0022300167,479,PT04M31.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,92,75,167,h,Dieng Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,343
+0022300167,498,PT03M12.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,357
+0022300167,500,PT03M05.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,359
+0022300167,516,PT02M06.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,SUB: Dort FOR Dieng,Substitution,,0,0,371
+0022300185,148,PT01M17.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,SUB: Bertans FOR Dieng,Substitution,,0,0,106
+0022300185,463,PT03M27.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,-208,168,27,Missed,1,,,0,v,MISS Dieng 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,326
+0022300185,479,PT01M25.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,SUB: Jal. Williams FOR Dieng,Substitution,,0,0,338
+0022300239,114,PT03M37.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,83
+0022300239,151,PT00M59.30S,1,1610612760,OKC,1631172,Dieng,O. Dieng,-86,234,25,Missed,1,,,0,h,MISS Dieng 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,110
+0022300239,158,PT00M06.90S,1,1610612760,OKC,1631172,Dieng,O. Dieng,-39,-2,4,Missed,1,,,0,h,MISS Dieng 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,116
+0022300239,489,PT03M48.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng S.FOUL (P1.T4) (D.Taylor),Foul,Shooting,1,0,343
+0022300239,505,PT02M41.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,SUB: Wiggins FOR Dieng,Substitution,,0,0,354
+0022300302,116,PT03M25.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,84
+0022300302,119,PT03M09.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,-6,5,1,Made,1,23,18,41,h,Dieng 1' Cutting Dunk Shot (2 PTS) (Gilgeous-Alexander 2 AST),Made Shot,Cutting Dunk Shot,1,2,86
+0022300302,125,PT02M49.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,24,18,42,h,Dieng Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,90
+0022300302,126,PT02M49.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,25,18,43,h,Dieng Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,91
+0022300302,164,PT00M03.30S,1,1610612760,OKC,1631172,Dieng,O. Dieng,223,7,0,Made,1,34,20,54,h,Dieng 3PT Jump Shot (7 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Jump Shot,1,3,118
+0022300302,209,PT08M55.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,-229,21,0,Made,1,43,25,68,h,Dieng 3PT Jump Shot (10 PTS) (Micic 1 AST),Made Shot,Jump Shot,1,3,147
+0022300302,224,PT07M47.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,-2,7,1,Made,1,45,30,75,h,Dieng 1' Cutting Dunk Shot (12 PTS) (Jal. Williams 2 AST),Made Shot,Cutting Dunk Shot,1,2,156
+0022300302,227,PT07M31.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,158
+0022300302,266,PT05M23.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,SUB: Giddey FOR Dieng,Substitution,,0,0,186
+0022300302,451,PT04M31.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng S.FOUL (P1.T3) (T.Maddox),Foul,Shooting,1,0,323
+0022300302,504,PT01M26.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,106,71,177,h,Dieng Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,362
+0022300302,507,PT01M26.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,MISS Dieng Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,364
+0022300302,551,PT10M30.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,396
+0022300302,582,PT08M17.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,SUB: Waters III FOR Dieng,Substitution,,0,0,419
+0022300302,621,PT04M35.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,-225,-8,0,Made,1,129,106,235,h,Dieng 3PT Jump Shot (16 PTS) (Waters III 1 AST),Made Shot,Jump Shot,1,3,449
+0022300302,637,PT03M35.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,0,460
+0022300302,650,PT02M38.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,-92,237,25,Missed,1,,,0,h,MISS Dieng 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,470
+0022300302,662,PT01M20.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng S.FOUL (P2.PN) (T.Brothers),Foul,Shooting,1,0,479
+0022300302,673,PT00M36.40S,4,1610612760,OKC,1631172,Dieng,O. Dieng,-9,11,1,Made,1,134,120,254,h,Dieng 1' Cutting Dunk Shot (18 PTS) (Bertans 1 AST),Made Shot,Cutting Dunk Shot,1,2,486
+0022300324,118,PT04M16.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,89
+0022300324,123,PT03M44.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,161,239,29,Made,1,19,23,42,v,Dieng 29' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 2 AST),Made Shot,Jump Shot,1,3,92
+0022300324,139,PT02M42.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,-157,219,27,Missed,1,,,0,v,MISS Dieng 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,105
+0022300324,175,PT00M07.30S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,SUB: Jay. Williams FOR Dieng,Substitution,,0,0,129
+0022300324,507,PT04M06.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,240,20,24,Missed,1,,,0,v,MISS Dieng 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,358
+0022300324,540,PT01M34.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,-245,68,25,Made,1,88,87,175,v,Dieng 25' 3PT Jump Shot (6 PTS) (Gilgeous-Alexander 7 AST),Made Shot,Jump Shot,1,3,381
+0022300324,553,PT00M39.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,SUB: Dort FOR Dieng,Substitution,,0,0,390
+0022300340,124,PT02M52.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,-202,152,25,Missed,1,,,0,v,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,87
+0022300340,130,PT02M17.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,92
+0022300340,140,PT01M34.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,29,26,55,v,Dieng Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,98
+0022300340,141,PT01M34.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,29,27,56,v,Dieng Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,99
+0022300355,192,PT10M53.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,214,142,26,Missed,1,,,0,h,MISS Dieng 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,135
+0022300355,196,PT10M38.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng S.FOUL (P1.T1) (L.Wood),Foul,Shooting,1,0,138
+0022300355,206,PT08M58.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,75,139,16,Made,1,39,36,75,h,Dieng 16' Pullup Jump Shot (2 PTS) (Holmgren 2 AST),Made Shot,Pullup Jump shot,1,2,144
+0022300355,273,PT04M24.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,SUB: Joe FOR Dieng,Substitution,,0,0,194
+0022300355,591,PT08M09.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,424
+0022300355,623,PT06M57.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,SUB: Sarr FOR Dieng,Substitution,,0,0,446
+0022300355,636,PT06M16.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,132,224,26,Missed,1,,,0,h,MISS Dieng 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,455
+0022300355,651,PT04M45.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,2,-4,0,Made,1,110,85,195,h,Dieng Cutting Dunk Shot (4 PTS) (Mann 1 AST),Made Shot,Cutting Dunk Shot,1,2,468
+0022300355,682,PT01M31.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,109,177,21,Missed,1,,,0,h,MISS Dieng 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,491
+0022300355,690,PT00M49.30S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,497
+0022300379,185,PT11M52.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,THUNDER T.Foul (Def. 3 Sec Dieng ) (M.Smith),Foul,Defense 3 Second,1,0,131
+0022300379,209,PT09M27.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,149
+0022300379,228,PT08M19.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,SUB: Joe FOR Dieng,Substitution,,0,0,163
+0022300379,601,PT03M41.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,-232,-26,0,Made,1,128,110,238,h,Dieng 3PT Jump Shot (3 PTS) (K. Williams 2 AST),Made Shot,Jump Shot,1,3,433
+0022300379,623,PT02M01.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,129,112,241,h,Dieng Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,449
+0022300379,626,PT02M01.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,130,112,242,h,Dieng Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,451
+0022300379,636,PT00M57.60S,4,1610612760,OKC,1631172,Dieng,O. Dieng,10,0,1,Made,1,134,115,249,h,Dieng 1' Cutting Layup Shot (7 PTS) (K. Williams 3 AST),Made Shot,Cutting Layup Shot,1,2,458
+0022300397,141,PT01M00.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng L.B.FOUL (P1.PN) (E.Malloy),Foul,Loose Ball,1,0,106
+0022300397,162,PT00M03.60S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,SUB: Jal. Williams FOR Dieng,Substitution,,0,0,119
+0022300397,433,PT05M13.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,113,227,25,Missed,1,,,0,h,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,307
+0022300397,435,PT05M08.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,-33,272,27,Made,1,73,90,163,h,Dieng 27' 3PT Jump Shot (3 PTS) (Sarr 1 AST),Made Shot,Jump Shot,1,3,309
+0022300397,485,PT01M56.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,4,6,1,Made,1,84,101,185,h,Dieng 1' Running Dunk (5 PTS) (Gilgeous-Alexander 7 AST),Made Shot,Running Dunk Shot,1,2,344
+0022300397,487,PT01M38.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng S.FOUL (P2.PN) (J.Schroeder),Foul,Shooting,1,0,345
+0022300529,131,PT03M10.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng P.FOUL (P1.T1) (C.Blair),Foul,Personal,1,0,98
+0022300529,135,PT03M01.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng L.B.FOUL (P2.T2) (B.Nansel),Foul,Loose Ball,1,0,101
+0022300529,165,PT01M03.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,232,32,0,Missed,1,,,0,h,MISS Dieng 3PT Jump Shot,Missed Shot,Jump Shot,1,3,120
+0022300529,469,PT05M30.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,74,65,10,Made,1,103,52,155,h,Dieng 10' Jump Shot (2 PTS) (Wallace 1 AST),Made Shot,Jump Shot,1,2,346
+0022300529,473,PT04M56.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,-185,180,26,Missed,1,,,0,h,MISS Dieng 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,349
+0022300529,481,PT04M11.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng STEAL (1 STL),,,1,0,357
+0022300529,483,PT04M05.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,-11,15,2,Made,1,105,52,157,h,Dieng 2' Cutting Dunk Shot (4 PTS) (Johnson 1 AST),Made Shot,Cutting Dunk Shot,1,2,358
+0022300529,490,PT03M30.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,364
+0022300529,491,PT03M26.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,365
+0022300529,497,PT02M39.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,370
+0022300529,501,PT02M16.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,373
+0022300529,502,PT02M00.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,17,2,2,Missed,1,,,0,h,MISS Dieng 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,374
+0022300529,518,PT01M07.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,387
+0022300529,547,PT11M11.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,-9,26,3,Missed,1,,,0,h,MISS Dieng 3' Layup,Missed Shot,Layup Shot,1,2,407
+0022300529,560,PT10M03.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,418
+0022300529,568,PT09M19.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,235,44,24,Made,1,121,65,186,h,Dieng 24' 3PT Jump Shot (7 PTS) (Mann 3 AST),Made Shot,Jump Shot,1,3,426
+0022300529,611,PT05M24.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,82,162,18,Made,1,133,73,206,h,Dieng 18' Pullup Jump Shot (9 PTS) (Waters III 2 AST),Made Shot,Pullup Jump shot,1,2,456
+0022300529,641,PT01M50.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,-135,277,31,Missed,1,,,0,h,MISS Dieng 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,479
+0022300529,643,PT01M35.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,-153,237,28,Missed,1,,,0,h,MISS Dieng 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,481
+0022300529,645,PT01M19.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,-75,128,15,Missed,1,,,0,h,MISS Dieng 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,483
+0022300529,654,PT00M32.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,492
+0022300546,76,PT04M50.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,-229,-15,0,Missed,1,,,0,h,MISS Dieng 3PT Jump Shot,Missed Shot,Jump Shot,1,3,55
+0022300546,110,PT01M46.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,-115,216,24,Missed,1,,,0,h,MISS Dieng 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,82
+0022300546,129,PT00M04.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,97
+0022300546,130,PT00M01.80S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,98
+0022300546,453,PT01M52.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,333
+0022300565,121,PT03M28.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,168,213,27,Missed,1,,,0,v,MISS Dieng 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,83
+0022300565,127,PT02M54.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,88
+0022300565,131,PT02M41.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,183,198,27,Missed,1,,,0,v,MISS Dieng 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,92
+0022300565,138,PT01M42.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng L.B.FOUL (P1.T3) (J.Tiven),Foul,Loose Ball,1,0,98
+0022300565,158,PT00M29.10S,1,1610612760,OKC,1631172,Dieng,O. Dieng,74,172,19,Made,1,27,26,53,v,Dieng 19' Reverse Layup (2 PTS) (Jal. Williams 3 AST),Made Shot,Reverse Layup Shot,1,2,113
+0022300565,182,PT11M16.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,229,48,0,Missed,1,,,0,v,MISS Dieng 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,125
+0022300565,199,PT08M54.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng S.FOUL (P2.T1) (J.Tiven),Foul,Shooting,1,0,139
+0022300565,203,PT08M54.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,SUB: K. Williams FOR Dieng,Substitution,,0,0,142
+0022300565,404,PT05M18.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,296
+0022300565,405,PT05M17.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,297
+0022300565,415,PT04M34.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,306
+0022300565,422,PT03M46.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,-224,62,0,Made,1,73,72,145,v,Dieng 3PT Step Back Jump Shot (5 PTS) (Gilgeous-Alexander 4 AST),Made Shot,Step Back Jump shot,1,3,311
+0022300565,452,PT01M29.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,SUB: Micic FOR Dieng,Substitution,,0,0,330
+0022300568,113,PT02M08.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,-110,248,27,Missed,1,,,0,v,MISS Dieng 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,78
+0022300568,122,PT01M14.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,86
+0022300568,141,PT00M29.30S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,SUB: Wiggins FOR Dieng,Substitution,,0,0,101
+0022300568,650,PT00M31.90S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,463
+0022300682,208,PT08M24.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,157
+0022300682,242,PT06M44.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,SUB: K. Williams FOR Dieng,Substitution,,0,0,180
+0022300682,500,PT00M06.70S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,SUB: K. Williams FOR Dieng,Substitution,,0,0,370
+0022300695,96,PT04M34.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,-32,20,4,Made,1,21,10,31,h,Dieng 4' Running Dunk (2 PTS) (Wiggins 1 AST),Made Shot,Running Dunk Shot,1,2,70
+0022300695,119,PT02M54.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,233,-15,0,Made,1,31,12,43,h,Dieng 3PT Running Jump Shot (5 PTS) (Gilgeous-Alexander 5 AST),Made Shot,Running Jump Shot,1,3,87
+0022300695,169,PT09M46.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng P.FOUL (P1.T1) (J.Goble),Foul,Personal,1,0,116
+0022300695,171,PT09M46.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,SUB: K. Williams FOR Dieng,Substitution,,0,0,117
+0022300695,412,PT05M38.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,289
+0022300695,423,PT04M51.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng S.FOUL (P2.PN) (J.Goble),Foul,Shooting,1,0,297
+0022300695,449,PT03M34.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,SUB: Holmgren FOR Dieng,Substitution,,0,0,319
+0022300695,540,PT08M24.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,20,21,3,Made,1,112,81,193,h,Dieng 3' Cutting Dunk Shot (7 PTS) (Micic 4 AST),Made Shot,Cutting Dunk Shot,1,2,384
+0022300695,543,PT07M52.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,53,201,21,Made,1,114,83,197,h,Dieng 21' Step Back Bank Jump Shot (9 PTS),Made Shot,Step Back Bank Jump Shot,1,2,386
+0022300695,559,PT06M49.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,115,86,201,h,Dieng Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,397
+0022300695,560,PT06M49.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,116,86,202,h,Dieng Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,398
+0022300695,579,PT05M47.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng Bad Pass Turnover (P1.T14),Turnover,Bad Pass,1,0,412
+0022300695,587,PT05M11.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,420
+0022300695,588,PT05M04.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,48,57,7,Missed,1,,,0,h,MISS Dieng 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,421
+0022300710,121,PT02M50.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,85
+0022300710,137,PT01M33.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,16,5,2,Made,1,23,25,48,h,Dieng 2' Cutting Layup Shot (2 PTS) (Micic 1 AST),Made Shot,Cutting Layup Shot,1,2,96
+0022300710,158,PT00M00.30S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,110
+0022300710,443,PT03M22.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,-181,161,24,Missed,1,,,0,h,MISS Dieng 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,311
+0022300710,458,PT01M37.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,224,51,0,Missed,1,,,0,h,MISS Dieng 3PT Jump Shot,Missed Shot,Jump Shot,1,3,323
+0022300724,122,PT02M47.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,-232,-4,0,Made,1,23,21,44,v,Dieng 3PT Jump Shot (3 PTS) (Jay. Williams 1 AST),Made Shot,Jump Shot,1,3,90
+0022300724,128,PT01M43.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,94
+0022300724,142,PT00M41.00S,1,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng STEAL (1 STL),,,1,0,104
+0022300724,144,PT00M36.70S,1,1610612760,OKC,1631172,Dieng,O. Dieng,67,84,11,Made,1,28,31,59,v,Dieng 11' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,1,2,105
+0022300724,160,PT11M35.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,114
+0022300724,163,PT11M07.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,-112,221,25,Made,1,28,36,64,v,Dieng 25' 3PT Jump Shot (8 PTS) (Jal. Williams 1 AST),Made Shot,Jump Shot,1,3,117
+0022300724,177,PT09M55.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng BLOCK (1 BLK),,,1,2,129
+0022300724,203,PT08M06.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,SUB: Jay. Williams FOR Dieng,Substitution,,0,0,149
+0022300724,444,PT02M12.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,SUB: Holmgren FOR Dieng,Substitution,,0,0,326
+0022300748,182,PT11M01.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,229,32,0,Made,1,47,35,82,v,Dieng 3PT Jump Shot (3 PTS) (Jal. Williams 2 AST),Made Shot,Jump Shot,1,3,125
+0022300748,198,PT10M09.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,-169,188,25,Missed,1,,,0,v,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,136
+0022300748,229,PT08M27.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,SUB: Dort FOR Dieng,Substitution,,0,0,159
+0022300748,508,PT03M23.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,-66,23,7,Missed,1,,,0,v,MISS Dieng 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,347
+0022300748,514,PT02M55.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,-235,7,24,Missed,1,,,0,v,MISS Dieng 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,352
+0022300748,521,PT02M36.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,-2,39,4,Missed,1,,,0,v,MISS Dieng 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,358
+0022300748,534,PT01M38.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,SUB: Waters III FOR Dieng,Substitution,,0,0,370
+0022300748,672,PT04M57.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,195,154,25,Missed,1,,,0,v,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,466
+0022300748,676,PT04M39.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng BLOCK (1 BLK),,,1,2,471
+0022300748,701,PT02M48.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,28,17,3,Missed,1,,,0,v,MISS Dieng 3' Running Layup,Missed Shot,Running Layup Shot,1,2,490
+0022300748,710,PT02M13.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,497
+0022300748,721,PT01M05.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,-214,149,26,Missed,1,,,0,v,MISS Dieng 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,505
+0022300748,725,PT00M39.90S,4,1610612760,OKC,1631172,Dieng,O. Dieng,-110,16,11,Missed,1,,,0,v,MISS Dieng 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,508
+0022300760,188,PT11M33.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,129
+0022300760,208,PT10M13.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,1,10,1,Made,1,33,29,62,h,Dieng 1' Running Dunk (2 PTS) (Jal. Williams 3 AST),Made Shot,Running Dunk Shot,1,2,145
+0022300760,210,PT10M00.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng STEAL (1 STL),,,1,0,147
+0022300760,225,PT08M51.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng BLOCK (1 BLK),,,1,2,159
+0022300760,230,PT08M28.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,163
+0022300760,253,PT07M02.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,178
+0022300760,271,PT06M20.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,SUB: Gilgeous-Alexander FOR Dieng,Substitution,,0,0,188
+0022300772,197,PT09M02.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,232,96,25,Missed,1,,,0,v,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,138
+0022300772,337,PT07M34.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng STEAL (1 STL),,,1,0,154
+0022300772,213,PT07M24.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,156
+0022300772,216,PT07M24.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,41,44,85,v,Dieng Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,158
+0022300772,221,PT07M24.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,41,45,86,v,Dieng Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,161
+0022300772,249,PT05M37.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,SUB: Gilgeous-Alexander FOR Dieng,Substitution,,0,0,187
+0022300772,514,PT11M35.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,363
+0022300772,523,PT10M58.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,Dieng P.FOUL (P1.T1) (B.Kennedy),Foul,Personal,1,0,372
+0022300772,525,PT10M58.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,v,SUB: Giddey FOR Dieng,Substitution,,0,0,373
+0022300772,678,PT01M22.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,-137,244,28,Missed,1,,,0,v,MISS Dieng 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,481
+0022300931,547,PT07M41.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,151,204,25,Missed,1,,,0,h,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,382
+0022300931,587,PT03M39.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,-228,-6,0,Missed,1,,,0,h,MISS Dieng 3PT Jump Shot,Missed Shot,Jump Shot,1,3,414
+0022301000,638,PT01M28.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,-5,255,26,Missed,1,,,0,h,MISS Dieng 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,472
+0022301000,640,PT01M15.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng P.FOUL (P1.PN) (N.Sago),Foul,Personal,1,0,474
+0022301000,644,PT01M04.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,477
+0022301000,658,PT00M07.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,492
+0022301179,616,PT01M32.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,439
+0022301196,448,PT06M03.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng STEAL (1 STL),,,1,0,311
+0022301196,450,PT05M59.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng Offensive Charge Foul (P1) (S.Foster),Foul,Offensive Charge,1,0,312
+0022301196,452,PT05M59.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,1,0,313
+0022301196,463,PT04M54.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,322
+0022301196,467,PT04M43.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng BLOCK (1 BLK),,,1,2,326
+0022301196,500,PT02M56.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,-234,118,26,Made,1,104,49,153,h,Dieng 26' 3PT Jump Shot (3 PTS) (Hayward 2 AST),Made Shot,Jump Shot,1,3,352
+0022301196,525,PT01M10.00S,3,1610612760,OKC,1631172,Dieng,O. Dieng,72,27,8,Made,1,106,55,161,h,Dieng 8' Driving Floating Bank Jump Shot (5 PTS) (Wiggins 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,373
+0022301196,535,PT00M06.60S,3,1610612760,OKC,1631172,Dieng,O. Dieng,5,99,10,Made,1,108,57,165,h,Dieng 10' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,1,2,382
+0022301196,536,PT00M00.90S,3,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng STEAL (2 STL),,,1,0,384
+0022301196,553,PT11M09.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng S.FOUL (P2.T1) (K.Lane),Foul,Shooting,1,0,391
+0022301196,563,PT10M22.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,4,16,2,Made,1,113,61,174,h,Dieng 2' Cutting Dunk Shot (9 PTS) (K. Williams 5 AST),Made Shot,Cutting Dunk Shot,1,2,399
+0022301196,567,PT09M56.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,-11,49,5,Missed,1,,,0,h,MISS Dieng 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,402
+0022301196,580,PT08M43.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,-72,26,8,Missed,1,,,0,h,MISS Dieng 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,412
+0022301196,592,PT07M34.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,87,125,15,Missed,1,,,0,h,MISS Dieng 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,421
+0022301196,605,PT06M10.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,-7,6,1,Made,1,123,69,192,h,Dieng 1' Cutting Layup Shot (11 PTS) (K. Williams 7 AST),Made Shot,Cutting Layup Shot,1,2,430
+0022301196,623,PT05M01.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng BLOCK (2 BLK),,,1,2,445
+0022301196,634,PT03M49.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,-1,5,1,Missed,1,,,0,h,MISS Dieng 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,452
+0022301196,659,PT01M47.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,4,273,27,Missed,1,,,0,h,MISS Dieng 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,470
+0022301196,667,PT01M08.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,,,0,h,Dieng STEAL (3 STL),,,1,0,478
+0022301196,669,PT01M03.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,21,42,5,Made,1,135,82,217,h,Dieng 5' Driving Floating Jump Shot (13 PTS),Made Shot,Driving Floating Jump Shot,1,2,479
+0022301196,671,PT00M34.30S,4,1610612760,OKC,1631172,Dieng,O. Dieng,-216,126,25,Missed,1,,,0,h,MISS Dieng 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,481

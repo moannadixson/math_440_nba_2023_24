@@ -1,0 +1,463 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300016,499,PT01M11.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov L.B.FOUL (P1.PN) (B.Taylor),Foul,Loose Ball,0,0,358
+0022300016,501,PT00M46.80S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,116,236,26,Missed,1,,,0,h,MISS Vezenkov 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,362
+0022300016,539,PT11M13.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,384
+0022300016,547,PT10M32.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-237,54,24,Made,1,81,73,154,h,Vezenkov 24' 3PT Jump Shot (3 PTS) (Sabonis 10 AST),Made Shot,Jump Shot,1,3,390
+0022300016,553,PT10M03.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov STEAL (1 STL),,,1,0,396
+0022300016,583,PT08M00.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,237,4,24,Made,1,91,80,171,h,Vezenkov 24' 3PT Jump Shot (6 PTS) (Sabonis 12 AST),Made Shot,Jump Shot,1,3,415
+0022300016,619,PT05M37.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Monk FOR Vezenkov,Substitution,,0,0,440
+0022300032,88,PT05M24.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,186,174,25,Made,1,23,10,33,v,Vezenkov 25' 3PT Jump Shot (3 PTS) (Sabonis 1 AST),Made Shot,Jump Shot,1,3,65
+0022300032,100,PT03M52.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-175,203,27,Missed,1,,,0,v,MISS Vezenkov 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,74
+0022300032,103,PT03M30.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,77
+0022300032,147,PT00M18.20S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,108
+0022300032,170,PT10M56.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,119
+0022300032,171,PT10M45.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-16,5,2,Made,1,31,35,66,v,Vezenkov 2' Cutting Layup Shot (5 PTS) (McGee 1 AST),Made Shot,Cutting Layup Shot,1,2,120
+0022300032,194,PT09M32.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,134
+0022300032,211,PT08M22.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-64,6,6,Missed,1,,,0,v,MISS Vezenkov 6' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,146
+0022300032,236,PT06M50.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Murray FOR Vezenkov,Substitution,,0,0,168
+0022300032,451,PT04M30.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov S.FOUL (P1.T2) (B.Nansel),Foul,Shooting,1,0,309
+0022300032,484,PT02M57.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov S.FOUL (P2.PN) (B.Nansel),Foul,Shooting,1,0,330
+0022300032,495,PT02M33.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov L.B.FOUL (P3.PN) (J.Williams),Foul,Loose Ball,1,0,339
+0022300032,498,PT02M33.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Murray FOR Vezenkov,Substitution,,0,0,341
+0022300060,566,PT00M01.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Barnes FOR Vezenkov,Substitution,,0,0,402
+0022300060,581,PT11M20.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-232,94,25,Made,1,98,106,204,h,Vezenkov 25' 3PT Jump Shot (3 PTS) (Huerter 4 AST),Made Shot,Jump Shot,1,3,411
+0022300060,584,PT11M06.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov P.FOUL (P1.T1) (J.Williams),Foul,Personal,1,0,412
+0022300060,644,PT10M53.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,417
+0022300060,593,PT10M37.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov Violation:Kicked Ball (M.Ervin),Violation,Kicked Ball,0,0,420
+0022300060,598,PT10M11.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,75,274,28,Missed,1,,,0,h,MISS Vezenkov 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,425
+0022300060,600,PT10M01.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-15,71,7,Missed,1,,,0,h,MISS Vezenkov 7' Layup,Missed Shot,Layup Shot,1,2,427
+0022300060,623,PT09M04.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,10,11,1,Made,1,101,107,208,h,Vezenkov 1' Running Layup (5 PTS) (Fox 6 AST),Made Shot,Running Layup Shot,1,2,444
+0022300060,626,PT08M47.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,446
+0022300060,632,PT08M05.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov BLOCK (1 BLK),,,1,2,450
+0022300060,634,PT08M02.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,451
+0022300060,652,PT06M48.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,199,143,25,Missed,1,,,0,h,MISS Vezenkov 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,464
+0022300060,666,PT06M05.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov BLOCK (2 BLK),,,1,2,475
+0022300060,686,PT05M06.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,212,180,28,Made,1,114,113,227,h,Vezenkov 28' 3PT Jump Shot (8 PTS) (Monk 1 AST),Made Shot,Jump Shot,1,3,489
+0022300060,711,PT03M58.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,505
+0022300060,786,PT03M58.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-7,24,3,Missed,1,,,0,h,MISS Vezenkov 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,0,2,506
+0022300060,718,PT03M24.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-45,253,26,Missed,1,,,0,h,MISS Vezenkov 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,509
+0022300060,724,PT02M58.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov Violation:Kicked Ball (J.Orr),Violation,Kicked Ball,0,0,515
+0022300060,741,PT02M10.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,233,-7,0,Missed,1,,,0,h,MISS Vezenkov 3PT Jump Shot,Missed Shot,Jump Shot,1,3,526
+0022300072,94,PT05M18.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-230,3,0,Made,1,18,20,38,v,Vezenkov 3PT Jump Shot (3 PTS) (Monk 1 AST),Made Shot,Jump Shot,1,3,73
+0022300072,125,PT02M53.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-163,189,25,Missed,1,,,0,v,MISS Vezenkov 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,97
+0022300072,127,PT02M43.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov STEAL (1 STL),,,1,0,100
+0022300072,154,PT01M14.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,119
+0022300072,155,PT01M14.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,Made,1,21,32,53,v,Vezenkov Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,1,2,120
+0022300072,158,PT00M32.90S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,221,129,26,Missed,1,,,0,v,MISS Vezenkov 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,122
+0022300072,175,PT11M45.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-154,189,24,Made,1,24,35,59,v,Vezenkov 24' 3PT Jump Shot (8 PTS) (Fox 2 AST),Made Shot,Jump Shot,1,3,136
+0022300072,178,PT11M28.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,138
+0022300072,198,PT09M48.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Murray FOR Vezenkov,Substitution,,0,0,154
+0022300072,455,PT04M39.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov S.FOUL (P1.T3) (J.Williams),Foul,Shooting,1,0,337
+0022300072,482,PT03M11.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,224,65,0,Missed,1,,,0,v,MISS Vezenkov 3PT Jump Shot,Missed Shot,Jump Shot,1,3,358
+0022300072,533,PT00M02.80S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Mitchell FOR Vezenkov,Substitution,,0,0,400
+0022300072,567,PT10M10.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov STEAL (2 STL),,,1,0,419
+0022300072,583,PT09M11.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Mitchell FOR Vezenkov,Substitution,,0,0,432
+0022300087,126,PT03M03.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,238,-6,24,Made,1,21,22,43,h,Vezenkov 24' 3PT Jump Shot (3 PTS) (Monk 2 AST),Made Shot,Jump Shot,1,3,89
+0022300087,140,PT01M47.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-27,278,28,Made,1,24,24,48,h,Vezenkov 28' 3PT Step Back Jump Shot (6 PTS) (Monk 3 AST),Made Shot,Step Back Jump shot,1,3,98
+0022300087,143,PT01M33.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,100
+0022300087,144,PT01M29.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-85,277,29,Missed,1,,,0,h,MISS Vezenkov 29' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,101
+0022300087,189,PT09M13.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-58,11,6,Made,1,39,28,67,h,Vezenkov 6' Cutting Layup Shot (8 PTS) (Duarte 1 AST),Made Shot,Cutting Layup Shot,1,2,136
+0022300087,212,PT08M01.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Barnes FOR Vezenkov,Substitution,,0,0,152
+0022300087,508,PT00M44.50S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,23,29,4,Made,1,81,97,178,h,Vezenkov 4' Cutting Dunk Shot (10 PTS) (Monk 5 AST),Made Shot,Cutting Dunk Shot,1,2,371
+0022300087,520,PT00M00.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-146,468,49,Missed,1,,,0,h,MISS Vezenkov 49' 3PT Floating Jump Shot,Missed Shot,Floating Jump shot,1,3,378
+0022300100,103,PT05M38.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,21,5,2,Made,1,23,16,39,h,Vezenkov 2' Alley Oop Layup (2 PTS) (Sabonis 2 AST),Made Shot,Alley Oop Layup shot,1,2,75
+0022300100,124,PT03M55.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov BLOCK (1 BLK),,,1,2,91
+0022300100,126,PT03M53.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,92
+0022300100,161,PT02M33.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-75,235,25,Made,1,32,24,56,h,Vezenkov 25' 3PT Jump Shot (5 PTS) (Fox 1 AST),Made Shot,Jump Shot,1,3,112
+0022300100,165,PT02M06.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-131,220,26,Missed,1,,,0,h,MISS Vezenkov 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,115
+0022300100,169,PT01M34.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-15,11,2,Missed,1,,,0,h,MISS Vezenkov 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,118
+0022300100,183,PT01M07.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,127
+0022300100,219,PT10M17.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-222,-1,0,Missed,1,,,0,h,MISS Vezenkov 3PT Jump Shot,Missed Shot,Jump Shot,1,3,150
+0022300100,230,PT09M40.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Barnes FOR Vezenkov,Substitution,,0,0,156
+0022300100,461,PT04M56.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,329
+0022300100,462,PT04M47.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-235,39,24,Missed,1,,,0,h,MISS Vezenkov 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,330
+0022300100,474,PT03M36.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,53,253,26,Made,1,82,75,157,h,Vezenkov 26' 3PT Pullup Jump Shot (8 PTS) (Sabonis 4 AST),Made Shot,Pullup Jump shot,1,3,341
+0022300100,498,PT02M08.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,358
+0022300100,515,PT01M25.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-178,188,26,Missed,1,,,0,h,MISS Vezenkov 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,369
+0022300100,538,PT11M01.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-6,17,2,Made,1,89,86,175,h,Vezenkov 2' Cutting Layup Shot (10 PTS) (Monk 2 AST),Made Shot,Cutting Layup Shot,1,2,389
+0022300100,544,PT11M01.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,90,86,176,h,Vezenkov Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,392
+0022300100,546,PT10M28.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-18,86,9,Missed,1,,,0,h,MISS Vezenkov 9' Jump Shot,Missed Shot,Jump Shot,1,2,394
+0022300100,552,PT10M24.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Huerter FOR Vezenkov,Substitution,,0,0,399
+0022300100,684,PT01M00.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Monk FOR Vezenkov,Substitution,,0,0,496
+0022300100,785,PT00M15.20S,5,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Mitchell FOR Vezenkov,Substitution,,0,0,563
+0022300126,113,PT03M23.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,66,35,7,Missed,1,,,0,v,MISS Vezenkov 7' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,79
+0022300126,116,PT03M13.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,82
+0022300126,141,PT01M10.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,102
+0022300126,144,PT00M50.90S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,105
+0022300126,159,PT11M25.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,56,15,6,Made,1,28,33,61,v,Vezenkov 6' Layup (2 PTS) (Jones 1 AST),Made Shot,Layup Shot,1,2,116
+0022300126,217,PT07M51.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov P.FOUL (P1.T3) (K.Cutler),Foul,Personal,1,0,155
+0022300126,221,PT07M51.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Huerter FOR Vezenkov,Substitution,,0,0,158
+0022300126,416,PT05M26.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,151,216,26,Missed,1,,,0,v,MISS Vezenkov 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,290
+0022300126,419,PT05M04.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,294
+0022300126,420,PT04M45.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,103,-3,10,Missed,1,,,0,v,MISS Vezenkov 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,295
+0022300126,426,PT04M10.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov Offensive Charge Foul (P2) (K.Cutler),Foul,Offensive Charge,1,0,301
+0022300126,428,PT04M10.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,1,0,302
+0022300126,466,PT00M58.60S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,331
+0022300126,467,PT00M52.10S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,107,243,27,Missed,1,,,0,v,MISS Vezenkov 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,332
+0022300126,519,PT09M32.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-170,252,30,Missed,1,,,0,v,MISS Vezenkov 30' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,370
+0022300126,527,PT09M03.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Huerter FOR Vezenkov,Substitution,,0,0,376
+0022300137,100,PT03M48.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,13,59,6,Missed,1,,,0,v,MISS Vezenkov 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,70
+0022300137,124,PT02M16.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov P.FOUL (P1.PN) (J.Reneau),Foul,Personal,1,0,88
+0022300137,140,PT01M20.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,100
+0022300137,175,PT09M55.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Barnes FOR Vezenkov,Substitution,,0,0,127
+0022300137,414,PT02M05.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov STEAL (1 STL),,,1,0,310
+0022300137,416,PT01M59.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-222,132,26,Missed,1,,,0,v,MISS Vezenkov 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,311
+0022300137,419,PT01M54.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov S.FOUL (P2.T2) (S.Wright),Foul,Shooting,1,0,313
+0022300137,442,PT00M22.70S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov BLOCK (1 BLK),,,1,2,332
+0022300137,445,PT00M20.50S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov S.FOUL (P3.PN) (S.Wright),Foul,Shooting,1,0,334
+0022300153,120,PT02M21.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,1,260,26,Missed,1,,,0,v,MISS Vezenkov 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,86
+0022300153,138,PT01M37.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov P.FOUL (P1.PN) (P.Fraher),Foul,Personal,1,0,98
+0022300153,152,PT00M13.70S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,237,9,24,Missed,1,,,0,v,MISS Vezenkov 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,109
+0022300153,279,PT02M41.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov P.FOUL (P2.PN) (P.Fraher),Foul,Personal,1,0,199
+0022300153,283,PT02M41.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Edwards FOR Vezenkov,Substitution,,0,0,202
+0022300153,453,PT00M59.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,214,128,25,Missed,1,,,0,v,MISS Vezenkov 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,326
+0022300153,463,PT00M08.50S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-28,7,3,Made,1,95,60,155,v,Vezenkov 3' Running Layup (2 PTS) (Monk 2 AST),Made Shot,Running Layup Shot,1,2,334
+0022300153,506,PT09M41.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Sabonis FOR Vezenkov,Substitution,,0,0,361
+0022300191,95,PT04M17.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,69
+0022300191,112,PT02M53.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-70,263,27,Made,1,23,21,44,h,Vezenkov 27' 3PT Jump Shot (3 PTS) (Sabonis 2 AST),Made Shot,Jump Shot,1,3,83
+0022300191,115,PT02M37.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,85
+0022300191,123,PT02M22.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-161,209,26,Made,1,26,21,47,h,Vezenkov 26' 3PT Jump Shot (6 PTS) (Len 1 AST),Made Shot,Jump Shot,1,3,89
+0022300191,139,PT00M29.70S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,9,14,2,Made,1,33,23,56,h,Vezenkov 2' Running Layup (8 PTS) (Fox 1 AST),Made Shot,Running Layup Shot,1,2,103
+0022300191,169,PT09M53.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,161,218,27,Missed,1,,,0,h,MISS Vezenkov 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,123
+0022300191,185,PT08M58.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Barnes FOR Vezenkov,Substitution,,0,0,135
+0022300191,395,PT05M06.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov S.FOUL (P1.T4) (M.Lindsay),Foul,Shooting,1,0,276
+0022300191,459,PT00M33.60S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-235,13,24,Made,1,108,89,197,h,Vezenkov 24' 3PT Running Jump Shot (11 PTS) (Fox 5 AST),Made Shot,Running Jump Shot,1,3,319
+0022300191,468,PT00M03.40S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Duarte FOR Vezenkov,Substitution,,0,0,326
+0022300191,497,PT10M53.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,62,269,28,Missed,1,,,0,h,MISS Vezenkov 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,340
+0022300191,533,PT08M51.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Murray FOR Vezenkov,Substitution,,0,0,369
+0022300198,163,PT00M29.50S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-230,69,24,Missed,1,,,0,v,MISS Vezenkov 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,124
+0022300198,189,PT10M57.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-164,193,25,Missed,1,,,0,v,MISS Vezenkov 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,139
+0022300198,206,PT09M02.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov STEAL (1 STL),,,1,0,153
+0022300198,233,PT07M36.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Murray FOR Vezenkov,Substitution,,0,0,172
+0022300198,446,PT04M08.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov STEAL (2 STL),,,1,0,327
+0022300198,473,PT01M54.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-13,21,2,Made,1,76,98,174,v,Vezenkov 2' Cutting Layup Shot (2 PTS) (McGee 1 AST),Made Shot,Cutting Layup Shot,1,2,348
+0022300198,495,PT01M14.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,77,99,176,v,Vezenkov Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,362
+0022300198,496,PT01M14.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,77,100,177,v,Vezenkov Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,363
+0022300198,504,PT00M30.50S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Barnes FOR Vezenkov,Substitution,,0,0,370
+0022300198,549,PT10M40.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,96,267,28,Missed,1,,,0,v,MISS Vezenkov 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,395
+0022300198,566,PT10M04.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Sabonis FOR Vezenkov,Substitution,,0,0,407
+0022300212,103,PT04M17.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-229,0,0,Missed,1,,,0,v,MISS Vezenkov 3PT Jump Shot,Missed Shot,Jump Shot,1,3,76
+0022300212,105,PT04M10.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov BLOCK (1 BLK),,,1,2,79
+0022300212,150,PT01M30.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov S.FOUL (P1.PN) (C.Washington),Foul,Shooting,1,0,108
+0022300212,155,PT01M15.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,112
+0022300212,167,PT00M40.10S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Duarte FOR Vezenkov,Substitution,,0,0,120
+0022300212,637,PT03M30.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov S.FOUL (P2.T3) (E.Malloy),Foul,Shooting,1,0,447
+0022300212,642,PT03M17.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-26,57,6,Missed,1,,,0,v,MISS Vezenkov 6' Layup,Missed Shot,Layup Shot,1,2,451
+0022300212,647,PT03M05.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,454
+0022300212,648,PT03M03.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,9,23,2,Made,1,104,124,228,v,Vezenkov 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,455
+0022300212,671,PT01M15.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,51,65,8,Made,1,109,126,235,v,Vezenkov 8' Driving Floating Jump Shot (4 PTS) (Edwards 1 AST),Made Shot,Driving Floating Jump Shot,1,2,475
+0022300212,674,PT00M45.30S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,112,221,25,Made,1,111,129,240,v,Vezenkov 25' 3PT Step Back Jump Shot (7 PTS) (Mitchell 1 AST),Made Shot,Step Back Jump shot,1,3,477
+0022300233,132,PT02M50.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,94
+0022300233,139,PT02M07.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,235,13,24,Missed,1,,,0,v,MISS Vezenkov 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,100
+0022300233,154,PT01M09.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-27,13,3,Missed,1,,,0,v,MISS Vezenkov 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,113
+0022300233,185,PT10M18.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,136
+0022300233,219,PT07M57.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-156,197,25,Missed,1,,,0,v,MISS Vezenkov 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,161
+0022300233,226,PT07M04.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,167
+0022300233,227,PT07M03.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,168
+0022300233,239,PT06M47.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-214,132,25,Missed,1,,,0,v,MISS Vezenkov 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,176
+0022300233,245,PT06M34.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Lyles FOR Vezenkov,Substitution,,0,0,181
+0022300233,355,PT00M17.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,91,253,27,Made,1,64,50,114,v,Vezenkov 27' 3PT Jump Shot (3 PTS) (Fox 3 AST),Made Shot,Jump Shot,1,3,262
+0022300264,176,PT00M09.60S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Edwards FOR Vezenkov,Substitution,,0,0,133
+0022300264,199,PT11M18.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,1,0,144
+0022300264,203,PT11M15.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,147
+0022300264,204,PT11M04.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-232,-1,0,Made,1,30,38,68,h,Vezenkov 3PT Jump Shot (3 PTS) (Lyles 1 AST),Made Shot,Jump Shot,1,3,148
+0022300264,217,PT10M04.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,157
+0022300264,250,PT08M10.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Sabonis FOR Vezenkov,Substitution,,0,0,182
+0022300264,300,PT05M03.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Fox FOR Vezenkov,Substitution,,0,0,219
+0022300264,390,PT08M10.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,283
+0022300264,391,PT08M05.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,116,227,25,Made,1,59,81,140,h,Vezenkov 25' 3PT Jump Shot (6 PTS) (Sabonis 2 AST),Made Shot,Jump Shot,1,3,284
+0022300264,402,PT07M14.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,292
+0022300264,419,PT05M22.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,304
+0022300264,420,PT05M22.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,Made,1,68,88,156,h,Vezenkov Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,2,305
+0022300264,452,PT03M06.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-75,30,8,Made,1,74,94,168,h,Vezenkov 8' Driving Floating Bank Jump Shot (10 PTS) (Mitchell 2 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,326
+0022300264,465,PT02M12.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,223,13,0,Missed,1,,,0,h,MISS Vezenkov 3PT Jump Shot,Missed Shot,Jump Shot,1,3,333
+0022300264,468,PT01M56.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,210,136,25,Made,1,77,96,173,h,Vezenkov 25' 3PT Jump Shot (13 PTS) (Mitchell 3 AST),Made Shot,Jump Shot,1,3,336
+0022300264,535,PT09M57.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov S.FOUL (P2.T1) (D.Taylor),Foul,Shooting,1,0,382
+0022300264,538,PT09M57.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Barnes FOR Vezenkov,Substitution,,0,0,384
+0022300264,638,PT02M22.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-235,53,24,Missed,1,,,0,h,MISS Vezenkov 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,454
+0022300264,648,PT01M18.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Ford FOR Vezenkov,Substitution,,0,0,464
+0022300290,237,PT01M28.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,112
+0022300290,218,PT10M18.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-47,247,25,Made,1,32,32,64,h,Vezenkov 25' 3PT Step Back Jump Shot (3 PTS) (Lyles 1 AST),Made Shot,Step Back Jump shot,1,3,147
+0022300290,226,PT09M52.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,MISS Vezenkov Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,0,152
+0022300290,228,PT09M52.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,MISS Vezenkov Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,1,0,154
+0022300290,230,PT09M52.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,33,32,65,h,Vezenkov Free Throw 3 of 3 (4 PTS),Free Throw,Free Throw 3 of 3,1,0,156
+0022300290,265,PT07M49.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,179
+0022300290,291,PT05M56.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-54,50,7,Missed,1,,,0,h,MISS Vezenkov 7' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,197
+0022300290,300,PT05M56.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,198
+0022300290,293,PT05M55.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,2,29,3,Missed,1,,,0,h,MISS Vezenkov 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,199
+0022300290,305,PT05M23.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Ellis FOR Vezenkov,Substitution,,0,0,208
+0022300290,536,PT10M58.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,372
+0022300290,559,PT09M27.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Barnes FOR Vezenkov,Substitution,,0,0,390
+0022300303,187,PT11M24.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov S.FOUL (P1.T1) (D.Guthrie),Foul,Shooting,1,0,126
+0022300303,194,PT10M43.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,130
+0022300303,201,PT09M53.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,5,109,11,Missed,1,,,0,h,MISS Vezenkov 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,136
+0022300303,228,PT07M37.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,153
+0022300303,229,PT07M31.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,28,269,27,Missed,1,,,0,h,MISS Vezenkov 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,154
+0022300303,259,PT06M03.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Barnes FOR Vezenkov,Substitution,,0,0,173
+0022300303,523,PT11M20.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,354
+0022300303,526,PT10M56.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov BLOCK (1 BLK),,,1,2,358
+0022300303,528,PT10M53.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,359
+0022300303,549,PT09M20.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,376
+0022300303,550,PT09M20.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,Made,1,105,90,195,h,Vezenkov Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,377
+0022300303,558,PT08M58.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov Traveling Turnover (P1.T11),Turnover,Traveling,1,0,381
+0022300303,579,PT07M27.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-227,12,0,Missed,1,,,0,h,MISS Vezenkov 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,3,397
+0022300303,581,PT07M18.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov P.FOUL (P2.T2) (D.Guthrie),Foul,Personal,1,0,399
+0022300303,592,PT07M18.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Fox FOR Vezenkov,Substitution,,0,0,402
+0022300309,166,PT10M32.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,5,21,2,Made,1,39,30,69,v,Vezenkov 2' Cutting Layup Shot (2 PTS) (Fox 2 AST),Made Shot,Cutting Layup Shot,1,2,120
+0022300309,203,PT08M09.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Mitchell FOR Vezenkov,Substitution,,0,0,148
+0022300309,474,PT01M28.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-167,178,24,Missed,1,,,0,v,MISS Vezenkov 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,346
+0022300309,516,PT11M36.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,134,219,26,Missed,1,,,0,v,MISS Vezenkov 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,373
+0022300309,526,PT10M42.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,382
+0022300309,564,PT07M53.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov STEAL (1 STL),,,1,0,411
+0022300309,566,PT07M38.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-36,26,4,Made,1,105,75,180,v,Vezenkov 4' Layup (4 PTS) (Ellis 1 AST),Made Shot,Layup Shot,1,2,412
+0022300309,569,PT07M05.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,1,-5,1,Made,1,108,77,185,v,Vezenkov 1' Cutting Layup Shot (6 PTS) (Duarte 1 AST),Made Shot,Cutting Layup Shot,1,2,414
+0022300309,580,PT06M11.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,421
+0022300309,596,PT04M45.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-134,222,26,Made,1,112,85,197,v,Vezenkov 26' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,1,3,433
+0022300309,599,PT04M22.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,436
+0022300309,623,PT01M07.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,2,50,5,Missed,1,,,0,v,MISS Vezenkov 5' Layup,Missed Shot,Layup Shot,1,2,454
+0022300324,145,PT02M18.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,241,0,24,Missed,1,,,0,h,MISS Vezenkov 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,111
+0022300324,156,PT01M13.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Fox FOR Vezenkov,Substitution,,0,0,119
+0022300324,213,PT10M33.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,146
+0022300324,224,PT09M18.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,246,15,25,Missed,1,,,0,h,MISS Vezenkov 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,156
+0022300324,234,PT09M03.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,161
+0022300324,239,PT08M48.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov S.FOUL (P1.T1) (K.Cutler),Foul,Shooting,1,0,166
+0022300324,258,PT06M58.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,180
+0022300324,263,PT06M54.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Murray FOR Vezenkov,Substitution,,0,0,183
+0022300324,579,PT10M53.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-180,195,27,Made,1,105,92,197,h,Vezenkov 27' 3PT Jump Shot (3 PTS) (Monk 9 AST),Made Shot,Jump Shot,1,3,405
+0022300324,595,PT10M02.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,143,239,28,Missed,1,,,0,h,MISS Vezenkov 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,414
+0022300324,598,PT09M47.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,417
+0022300324,611,PT09M02.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Ellis FOR Vezenkov,Substitution,,0,0,428
+0022300324,697,PT03M38.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Murray FOR Vezenkov,Substitution,,0,0,495
+0022300342,176,PT09M59.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,124,227,26,Missed,1,,,0,h,MISS Vezenkov 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,137
+0022300342,179,PT09M46.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,140
+0022300342,192,PT09M07.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Sabonis FOR Vezenkov,Substitution,,0,0,151
+0022300342,536,PT07M15.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Ellis FOR Vezenkov,Substitution,,0,0,382
+0022300342,595,PT03M30.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,425
+0022300342,599,PT02M56.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,429
+0022300342,620,PT01M12.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,23,8,2,Missed,1,,,0,h,MISS Vezenkov 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,445
+0022300342,625,PT00M46.40S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,157,209,26,Made,1,125,104,229,h,Vezenkov 26' 3PT Jump Shot (3 PTS) (Toscano-Anderson 1 AST),Made Shot,Jump Shot,1,3,450
+0022300342,628,PT00M31.40S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,452
+0022300358,124,PT02M47.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-200,159,26,Made,1,21,21,42,h,Vezenkov 26' 3PT Jump Shot (3 PTS) (Monk 1 AST),Made Shot,Jump Shot,1,3,88
+0022300358,152,PT00M33.70S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,107
+0022300358,157,PT00M15.20S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Ellis FOR Vezenkov,Substitution,,0,0,111
+0022300358,173,PT11M41.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,121
+0022300358,193,PT09M39.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov OFF.Foul (P1) (S.Corbin),Foul,Offensive,1,0,138
+0022300358,195,PT09M39.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1,0,139
+0022300358,197,PT09M16.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,141
+0022300358,199,PT09M08.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,143
+0022300358,203,PT08M31.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Jump Ball Vezenkov vs. Kispert: Tip to Ellis,Jump Ball,,0,0,147
+0022300358,331,PT08M31.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov STEAL (1 STL),,,0,0,149
+0022300358,214,PT08M06.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-48,15,5,Missed,1,,,0,h,MISS Vezenkov 5' Running Alley Oop Layup Shot,Missed Shot,Running Alley Oop Layup Shot,1,2,154
+0022300358,216,PT08M02.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,156
+0022300358,306,PT07M54.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Murray FOR Vezenkov,Substitution,,0,0,162
+0022300358,527,PT01M02.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-227,55,0,Missed,1,,,0,h,MISS Vezenkov 3PT Jump Shot,Missed Shot,Jump Shot,1,3,358
+0022300358,537,PT00M30.80S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,367
+0022300358,543,PT00M18.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Duarte FOR Vezenkov,Substitution,,0,0,372
+0022300358,621,PT10M47.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov STEAL (2 STL),,,1,0,389
+0022300358,584,PT10M07.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,233,48,24,Made,1,118,97,215,h,Vezenkov 24' 3PT Jump Shot (6 PTS) (Fox 6 AST),Made Shot,Jump Shot,1,3,394
+0022300358,602,PT08M42.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,405
+0022300358,603,PT08M42.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,Made,1,120,99,219,h,Vezenkov Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,2,406
+0022300358,613,PT08M12.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Barnes FOR Vezenkov,Substitution,,0,0,414
+0022300373,181,PT11M13.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-53,254,26,Missed,1,,,0,h,MISS Vezenkov 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,136
+0022300373,200,PT09M04.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-224,120,25,Made,1,46,46,92,h,Vezenkov 25' 3PT Jump Shot (3 PTS) (Lyles 1 AST),Made Shot,Jump Shot,1,3,154
+0022300373,214,PT07M47.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Ellis FOR Vezenkov,Substitution,,0,0,165
+0022300373,566,PT04M42.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,423
+0022300373,589,PT03M34.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,194,87,21,Missed,1,,,0,h,MISS Vezenkov 21' Jump Shot,Missed Shot,Jump Shot,1,2,439
+0022300373,594,PT03M08.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,444
+0022300373,608,PT02M20.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov Violation:Kicked Ball (S.Wright),Violation,Kicked Ball,0,0,454
+0022300373,619,PT01M12.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-140,205,25,Missed,1,,,0,h,MISS Vezenkov 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,462
+0022300373,624,PT00M42.10S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,467
+0022300387,202,PT11M43.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-172,193,26,Made,1,38,30,68,h,Vezenkov 26' 3PT Jump Shot (3 PTS) (Monk 2 AST),Made Shot,Jump Shot,1,3,137
+0022300387,224,PT09M55.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov P.FOUL (P1.T2) (T.Maddox),Foul,Personal,1,0,156
+0022300387,258,PT08M11.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov Traveling Turnover (P1.T4),Turnover,Traveling,1,0,178
+0022300387,259,PT08M11.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Murray FOR Vezenkov,Substitution,,0,0,179
+0022300387,716,PT00M17.90S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,501
+0022300400,179,PT10M29.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov STEAL (1 STL),,,1,0,127
+0022300400,188,PT09M52.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,134
+0022300400,201,PT09M23.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,115,225,25,Missed,1,,,0,h,MISS Vezenkov 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,143
+0022300400,231,PT06M58.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Barnes FOR Vezenkov,Substitution,,0,0,169
+0022300400,525,PT10M20.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov S.FOUL (P1.T2) (B.Taylor),Foul,Shooting,1,0,373
+0022300400,540,PT09M28.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Barnes FOR Vezenkov,Substitution,,0,0,384
+0022300413,136,PT02M08.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov P.FOUL (P1.PN) (T.Washington),Foul,Personal,1,0,97
+0022300413,165,PT00M07.10S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-237,-16,24,Missed,1,,,0,v,MISS Vezenkov 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,115
+0022300413,167,PT00M05.90S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,117
+0022300413,171,PT00M05.50S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Edwards FOR Vezenkov,Substitution,,0,0,121
+0022300413,201,PT10M03.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,89,260,27,Missed,1,,,0,v,MISS Vezenkov 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,140
+0022300413,247,PT07M21.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,199,146,25,Missed,1,,,0,v,MISS Vezenkov 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,176
+0022300413,254,PT07M08.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Huerter FOR Vezenkov,Substitution,,0,0,182
+0022300449,625,PT01M57.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,6,6,1,Made,1,92,123,215,v,Vezenkov 1' Driving Finger Roll Layup (2 PTS) (Toscano-Anderson 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,457
+0022300449,633,PT01M22.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,463
+0022300449,637,PT00M42.60S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,4,51,5,Missed,1,,,0,v,MISS Vezenkov 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,467
+0022300500,124,PT01M27.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,154,226,27,Made,1,19,30,49,h,Vezenkov 27' 3PT Jump Shot (3 PTS) (Sabonis 2 AST),Made Shot,Jump Shot,1,3,86
+0022300500,129,PT01M00.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,1,28,3,Made,1,21,30,51,h,Vezenkov 3' Layup (5 PTS) (Sabonis 3 AST),Made Shot,Layup Shot,1,2,89
+0022300500,144,PT00M21.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Duarte FOR Vezenkov,Substitution,,0,0,100
+0022300500,167,PT11M19.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-80,257,27,Missed,1,,,0,h,MISS Vezenkov 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,109
+0022300500,176,PT10M26.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-18,21,3,Made,1,23,39,62,h,Vezenkov 3' Cutting Layup Shot (7 PTS) (McGee 1 AST),Made Shot,Cutting Layup Shot,1,2,117
+0022300500,239,PT06M12.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-4,6,1,Made,1,35,53,88,h,Vezenkov 1' Cutting Layup Shot (9 PTS) (Sabonis 4 AST),Made Shot,Cutting Layup Shot,1,2,155
+0022300500,265,PT04M30.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,203,167,26,Missed,1,,,0,h,MISS Vezenkov 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,173
+0022300500,273,PT03M57.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Monk FOR Vezenkov,Substitution,,0,0,178
+0022300500,399,PT05M08.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-17,287,29,Missed,1,,,0,h,MISS Vezenkov 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,272
+0022300500,452,PT01M18.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,113,253,28,Missed,1,,,0,h,MISS Vezenkov 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,305
+0022300500,463,PT00M19.90S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,314
+0022300500,464,PT00M19.10S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,Made,1,61,103,164,h,Vezenkov Tip Layup Shot (11 PTS),Made Shot,Tip Layup Shot,1,2,315
+0022300500,483,PT11M11.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,327
+0022300500,533,PT07M47.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Edwards FOR Vezenkov,Substitution,,0,0,363
+0022300532,182,PT11M47.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-181,225,29,Missed,1,,,0,v,MISS Vezenkov 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,133
+0022300532,201,PT10M19.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,148
+0022300532,202,PT10M09.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-96,-1,10,Missed,1,,,0,v,MISS Vezenkov 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,149
+0022300532,206,PT10M06.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-77,53,9,Missed,1,,,0,v,MISS Vezenkov 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,152
+0022300532,212,PT09M46.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,157
+0022300532,213,PT09M44.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,158
+0022300532,236,PT08M28.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Murray FOR Vezenkov,Substitution,,0,0,177
+0022300532,659,PT02M34.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,486
+0022300532,678,PT01M12.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:4 Def:0),Rebound,Unknown,1,0,503
+0022300532,679,PT01M10.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,Missed,1,,,0,v,MISS Vezenkov Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,504
+0022300532,680,PT01M10.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:5 Def:0),Rebound,Unknown,1,0,505
+0022300532,681,PT01M09.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-20,26,3,Made,1,107,89,196,v,Vezenkov 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,506
+0022300552,387,PT05M56.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-1,19,2,Made,1,82,82,164,v,Vezenkov 2' Cutting Layup Shot (2 PTS) (Monk 4 AST),Made Shot,Cutting Layup Shot,1,2,271
+0022300552,403,PT05M05.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,280
+0022300552,421,PT03M51.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,48,41,6,Made,1,84,86,170,v,Vezenkov 6' Cutting Layup Shot (4 PTS) (Barnes 1 AST),Made Shot,Cutting Layup Shot,1,2,295
+0022300552,437,PT02M32.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,58,250,26,Missed,1,,,0,v,MISS Vezenkov 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,307
+0022300552,446,PT01M35.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-230,5,0,Missed,1,,,0,v,MISS Vezenkov 3PT Jump Shot,Missed Shot,Jump Shot,1,3,316
+0022300567,118,PT02M19.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-34,108,11,Missed,1,,,0,v,MISS Vezenkov 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,80
+0022300567,119,PT02M16.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,81
+0022300567,121,PT02M00.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov P.FOUL (P1.T2) (M.Smith),Foul,Personal,1,0,83
+0022300567,141,PT00M12.80S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-2,9,1,Made,1,27,39,66,v,Vezenkov 1' Cutting Layup Shot (2 PTS) (Monk 2 AST),Made Shot,Cutting Layup Shot,1,2,97
+0022300567,170,PT09M56.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,16,2,Made,1,31,44,75,v,Vezenkov 2' Layup (4 PTS) (Monk 3 AST),Made Shot,Layup Shot,1,2,118
+0022300567,185,PT08M39.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,200,96,22,Made,1,31,49,80,v,Vezenkov 22' Running Jump Shot (6 PTS) (Monk 5 AST),Made Shot,Running Jump Shot,1,2,129
+0022300567,203,PT07M37.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-237,25,24,Made,1,35,52,87,v,Vezenkov 24' 3PT Jump Shot (9 PTS) (Fox 4 AST),Made Shot,Jump Shot,1,3,141
+0022300567,223,PT06M36.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-237,31,24,Made,1,38,55,93,v,Vezenkov 24' 3PT Jump Shot (12 PTS) (Fox 5 AST),Made Shot,Jump Shot,1,3,155
+0022300567,226,PT06M14.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,157
+0022300567,227,PT06M01.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-192,168,26,Missed,1,,,0,v,MISS Vezenkov 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,158
+0022300567,238,PT05M42.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Monk FOR Vezenkov,Substitution,,0,0,168
+0022300567,443,PT02M38.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-4,-16,2,Missed,1,,,0,v,MISS Vezenkov 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,322
+0022300567,477,PT00M46.90S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,343
+0022300567,501,PT11M24.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,1,7,1,Made,1,84,98,182,v,Vezenkov 1' Running Alley Oop Layup Shot (14 PTS) (Monk 6 AST),Made Shot,Running Alley Oop Layup Shot,1,2,360
+0022300567,539,PT08M40.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov STEAL (1 STL),,,1,0,387
+0022300567,558,PT07M10.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Murray FOR Vezenkov,Substitution,,0,0,401
+0022300583,123,PT02M13.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov BLOCK (1 BLK),,,1,2,79
+0022300583,129,PT01M48.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,84
+0022300583,150,PT00M29.50S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,99
+0022300583,182,PT09M41.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov P.FOUL (P1.T1) (J.Capers),Foul,Personal,1,0,122
+0022300583,184,PT09M41.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Huerter FOR Vezenkov,Substitution,,0,0,123
+0022300583,487,PT00M37.10S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,152,250,29,Made,1,89,97,186,h,Vezenkov 29' 3PT Jump Shot (3 PTS) (Monk 4 AST),Made Shot,Jump Shot,1,3,332
+0022300583,521,PT10M31.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-244,30,25,Made,1,92,105,197,h,Vezenkov 25' 3PT Jump Shot (6 PTS) (Fox 5 AST),Made Shot,Jump Shot,1,3,353
+0022300583,524,PT10M13.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,355
+0022300583,527,PT10M06.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,93,105,198,h,Vezenkov Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,357
+0022300583,528,PT10M06.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,MISS Vezenkov Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,358
+0022300583,539,PT08M45.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov STEAL (1 STL),,,1,0,367
+0022300583,582,PT07M05.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,163,263,31,Missed,1,,,0,h,MISS Vezenkov 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,393
+0022300583,594,PT06M48.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Lyles FOR Vezenkov,Substitution,,0,0,399
+0022300613,200,PT08M18.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,238,3,24,Missed,1,,,0,h,MISS Vezenkov 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,158
+0022300613,215,PT07M33.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-150,210,26,Made,1,42,29,71,h,Vezenkov 26' 3PT Jump Shot (3 PTS) (Monk 5 AST),Made Shot,Jump Shot,1,3,169
+0022300613,241,PT05M52.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Murray FOR Vezenkov,Substitution,,0,0,187
+0022300613,428,PT04M14.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov S.FOUL (P1.T3) (S.Foster),Foul,Shooting,1,0,329
+0022300613,431,PT03M57.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,228,22,0,Made,1,77,64,141,h,Vezenkov 3PT Jump Shot (6 PTS) (Mitchell 1 AST),Made Shot,Jump Shot,1,3,331
+0022300613,439,PT03M03.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,337
+0022300613,441,PT02M53.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,339
+0022300613,442,PT02M52.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,2,15,2,Made,1,79,64,143,h,Vezenkov 2' Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,2,340
+0022300613,448,PT02M29.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Lyles FOR Vezenkov,Substitution,,0,0,345
+0022300746,121,PT02M10.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,206,146,25,Made,1,25,25,50,h,Vezenkov 25' 3PT Jump Shot (3 PTS) (Fox 3 AST),Made Shot,Jump Shot,1,3,87
+0022300746,146,PT00M36.70S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-140,216,26,Missed,1,,,0,h,MISS Vezenkov 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,106
+0022300746,160,PT11M48.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,7,250,25,Made,1,35,35,70,h,Vezenkov 25' 3PT Jump Shot (6 PTS) (Fox 5 AST),Made Shot,Jump Shot,1,3,115
+0022300746,162,PT11M35.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov P.FOUL (P1.T1) (M.Davis),Foul,Personal,1,0,116
+0022300746,168,PT11M04.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,16,22,3,Missed,1,,,0,h,MISS Vezenkov 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,118
+0022300746,173,PT10M54.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,184,166,25,Missed,1,,,0,h,MISS Vezenkov 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,122
+0022300746,249,PT06M39.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Murray FOR Vezenkov,Substitution,,0,0,179
+0022300746,499,PT00M24.50S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov STEAL (1 STL),,,1,0,361
+0022300746,513,PT11M53.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov P.FOUL (P2.T1) (J.Orr),Foul,Personal,1,0,367
+0022300746,526,PT10M47.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,51,21,6,Missed,1,,,0,h,MISS Vezenkov 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,377
+0022300746,595,PT06M22.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,2,67,7,Missed,1,,,0,h,MISS Vezenkov 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,427
+0022300746,602,PT05M47.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Edwards FOR Vezenkov,Substitution,,0,0,433
+0022301086,424,PT04M20.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,243,5,24,Made,1,87,66,153,h,Vezenkov 24' 3PT Jump Shot (3 PTS) (Murray 2 AST),Made Shot,Jump Shot,1,3,301
+0022301086,443,PT02M17.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov P.FOUL (P1.T3) (J.Goble),Foul,Personal,1,0,316
+0022301086,449,PT02M09.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov STEAL (1 STL),,,1,0,320
+0022301086,451,PT02M04.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-15,3,2,Missed,1,,,0,h,MISS Vezenkov 2' Running Layup,Missed Shot,Running Layup Shot,1,2,321
+0022301086,457,PT01M28.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov STEAL (2 STL),,,1,0,328
+0022301086,493,PT11M35.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,352
+0022301086,496,PT11M09.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov S.FOUL (P2.T2) (J.Goble),Foul,Shooting,1,0,354
+0022301086,509,PT10M08.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,32,42,5,Made,1,100,79,179,h,Vezenkov 5' Floating Jump Shot (5 PTS) (Lyles 2 AST),Made Shot,Floating Jump shot,1,2,367
+0022301086,514,PT09M54.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,370
+0022301086,527,PT09M03.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov Lost Ball Turnover (P1.T14),Turnover,Lost Ball,1,0,379
+0022301086,571,PT07M18.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Murray FOR Vezenkov,Substitution,,0,0,406
+0022301101,192,PT10M44.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov P.FOUL (P1.T1) (C.Flores),Foul,Personal,1,0,138
+0022301101,210,PT09M52.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,149
+0022301101,215,PT09M41.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,32,24,56,h,Vezenkov Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,153
+0022301101,218,PT09M41.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,33,24,57,h,Vezenkov Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,155
+0022301101,259,PT06M47.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Duarte FOR Vezenkov,Substitution,,0,0,182
+0022301101,509,PT11M16.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,246,32,25,Missed,1,,,0,h,MISS Vezenkov 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,365
+0022301101,520,PT10M12.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov STEAL (1 STL),,,1,0,375
+0022301101,562,PT07M38.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Murray FOR Vezenkov,Substitution,,0,0,404
+0022301112,131,PT00M20.20S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,96
+0022301112,171,PT09M02.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,231,30,0,Missed,1,,,0,v,MISS Vezenkov 3PT Jump Shot,Missed Shot,Jump Shot,1,3,122
+0022301112,185,PT08M09.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,110,242,27,Missed,1,,,0,v,MISS Vezenkov 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,132
+0022301112,199,PT07M32.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Barnes FOR Vezenkov,Substitution,,0,0,140
+0022301112,408,PT05M51.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-27,6,3,Made,1,69,76,145,v,Vezenkov 3' Cutting Layup Shot (2 PTS) (Ellis 4 AST),Made Shot,Cutting Layup Shot,1,2,284
+0022301112,410,PT05M35.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov Violation:Kicked Ball (J.Van Duyne),Violation,Kicked Ball,0,0,285
+0022301112,415,PT04M59.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-230,-1,0,Made,1,72,79,151,v,Vezenkov 3PT Jump Shot (5 PTS) (Sabonis 6 AST),Made Shot,Jump Shot,1,3,288
+0022301112,437,PT03M45.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,304
+0022301112,462,PT01M27.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,145,215,26,Missed,1,,,0,v,MISS Vezenkov 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,324
+0022301112,473,PT00M32.60S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Duarte FOR Vezenkov,Substitution,,0,0,334
+0022301112,658,PT01M06.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-152,187,24,Made,1,119,106,225,v,Vezenkov 24' 3PT Jump Shot (8 PTS) (Edwards 1 AST),Made Shot,Jump Shot,1,3,460
+0022301112,662,PT00M42.10S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-229,-23,0,Made,1,119,109,228,v,Vezenkov 3PT Jump Shot (11 PTS) (Edwards 2 AST),Made Shot,Jump Shot,1,3,463
+0022301112,677,PT00M26.10S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,91,245,26,Missed,1,,,0,v,MISS Vezenkov 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,472
+0022301118,154,PT00M14.90S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Ellis FOR Vezenkov,Substitution,,0,0,115
+0022301118,173,PT11M48.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-194,184,27,Missed,1,,,0,v,MISS Vezenkov 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,122
+0022301118,180,PT10M34.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,229,52,0,Missed,1,,,0,v,MISS Vezenkov 3PT Jump Shot,Missed Shot,Jump Shot,1,3,127
+0022301118,194,PT09M50.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,140
+0022301118,195,PT09M33.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-233,59,24,Missed,1,,,0,v,MISS Vezenkov 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,141
+0022301118,220,PT06M45.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,162
+0022301118,232,PT05M54.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Barnes FOR Vezenkov,Substitution,,0,0,172
+0022301118,433,PT02M01.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,233,31,24,Made,1,75,70,145,v,Vezenkov 24' 3PT Jump Shot (3 PTS) (Mitchell 5 AST),Made Shot,Jump Shot,1,3,315
+0022301118,439,PT01M04.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov P.FOUL (P1.PN) (J.Conley),Foul,Personal,1,0,319
+0022301118,479,PT11M00.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-228,75,24,Missed,1,,,0,v,MISS Vezenkov 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,342
+0022301118,507,PT08M18.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-78,42,9,Missed,1,,,0,v,MISS Vezenkov 9' Driving Layup,Missed Shot,Driving Layup Shot,1,2,367
+0022301118,512,PT07M35.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,28,264,27,Made,1,92,79,171,v,Vezenkov 27' 3PT Jump Shot (6 PTS) (Sabonis 6 AST),Made Shot,Jump Shot,1,3,372
+0022301118,514,PT07M23.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov P.FOUL (P2.T1) (J.Conley),Foul,Personal,1,0,373
+0022301118,525,PT06M42.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Barnes FOR Vezenkov,Substitution,,0,0,381
+0022301170,125,PT01M24.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,92
+0022301170,126,PT01M16.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-135,232,27,Missed,1,,,0,h,MISS Vezenkov 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,93
+0022301170,128,PT01M12.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov P.FOUL (P1.T4) (P.Ransom),Foul,Personal,1,0,95
+0022301170,142,PT00M30.50S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Edwards FOR Vezenkov,Substitution,,0,0,105
+0022301170,174,PT10M29.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,72,252,26,Missed,1,,,0,h,MISS Vezenkov 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,124
+0022301170,181,PT09M55.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,129
+0022301170,202,PT08M27.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Murray FOR Vezenkov,Substitution,,0,0,144
+0022301170,504,PT10M30.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,172,208,27,Made,1,94,103,197,h,Vezenkov 27' 3PT Jump Shot (3 PTS) (Fox 6 AST),Made Shot,Jump Shot,1,3,359
+0022301170,514,PT09M25.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,13,25,3,Made,1,96,108,204,h,Vezenkov 3' Cutting Layup Shot (5 PTS) (Len 1 AST),Made Shot,Cutting Layup Shot,1,2,365
+0022301170,529,PT08M11.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Murray FOR Vezenkov,Substitution,,0,0,375
+0022301170,631,PT00M21.90S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,212,135,25,Missed,1,,,0,h,MISS Vezenkov 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,444
+0022301200,556,PT08M48.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov STEAL (1 STL),,,1,0,412
+0022301200,580,PT07M25.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov L.B.FOUL (P1.T3) (D.Scott),Foul,Loose Ball,1,0,426
+0022301200,606,PT05M34.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,447
+0022301200,670,PT02M17.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-42,257,26,Missed,1,,,0,h,MISS Vezenkov 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,489
+0022301200,677,PT02M01.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-7,42,4,Missed,1,,,0,h,MISS Vezenkov 4' Running Layup,Missed Shot,Running Layup Shot,1,2,496
+0022301204,100,PT04M40.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov P.FOUL (P1.PN) (J.Butler),Foul,Personal,1,0,68
+0022301204,129,PT03M08.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Barnes FOR Vezenkov,Substitution,,0,0,89
+0022301204,184,PT00M01.40S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: McGee FOR Vezenkov,Substitution,,0,0,127
+0022301204,197,PT11M43.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov S.FOUL (P2.T1) (S.Wright),Foul,Shooting,1,0,134
+0022301204,215,PT10M46.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-229,105,25,Missed,1,,,0,h,MISS Vezenkov 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,148
+0022301204,221,PT10M11.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,152
+0022301204,222,PT10M11.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,Missed,1,,,0,h,MISS Vezenkov Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,153
+0022301204,223,PT10M11.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,Vezenkov REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,154
+0022301204,232,PT10M11.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-11,36,4,Missed,1,,,0,h,MISS Vezenkov 4' Putback Layup,Missed Shot,Putback Layup Shot,1,2,155
+0022301204,253,PT08M36.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,h,SUB: Huerter FOR Vezenkov,Substitution,,0,0,176
+0022301228,116,PT02M43.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-162,192,25,Missed,1,,,0,v,MISS Vezenkov 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,85
+0022301228,128,PT01M53.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,7,-1,1,Made,1,22,18,40,v,Vezenkov 1' Cutting Layup Shot (2 PTS) (Fox 2 AST),Made Shot,Cutting Layup Shot,1,2,96
+0022301228,134,PT01M28.00S,1,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,12,6,1,Made,1,22,20,42,v,Vezenkov 1' Running Alley Oop Layup Shot (4 PTS) (Monk 1 AST),Made Shot,Running Alley Oop Layup Shot,1,2,101
+0022301228,169,PT10M28.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,227,4,0,Made,1,30,33,63,v,Vezenkov 3PT Jump Shot (7 PTS) (Fox 4 AST),Made Shot,Jump Shot,1,3,127
+0022301228,171,PT10M12.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov P.FOUL (P1.T2) (B.Taylor),Foul,Personal,1,0,128
+0022301228,173,PT10M03.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov STEAL (1 STL),,,1,0,130
+0022301228,176,PT09M56.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,132
+0022301228,187,PT09M21.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov STEAL (2 STL),,,1,0,142
+0022301228,201,PT08M24.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,33,36,69,v,Vezenkov Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,152
+0022301228,210,PT08M24.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,33,37,70,v,Vezenkov Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,157
+0022301228,213,PT07M54.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-55,84,10,Missed,1,,,0,v,MISS Vezenkov 10' Driving Layup,Missed Shot,Driving Layup Shot,1,2,159
+0022301228,220,PT07M48.00S,2,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Barnes FOR Vezenkov,Substitution,,0,0,165
+0022301228,428,PT03M56.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov STEAL (3 STL),,,1,0,319
+0022301228,432,PT03M51.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,322
+0022301228,491,PT03M50.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,323
+0022301228,466,PT01M12.00S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,-5,0,1,Made,1,69,77,146,v,Vezenkov 1' Running Layup (11 PTS) (Monk 5 AST),Made Shot,Running Layup Shot,1,2,346
+0022301228,478,PT00M27.60S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,Vezenkov REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,354
+0022301228,486,PT00M00.80S,3,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Barnes FOR Vezenkov,Substitution,,0,0,359
+0022301228,536,PT09M10.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,214,118,24,Made,1,80,91,171,v,Vezenkov 24' 3PT Jump Shot (14 PTS) (Fox 6 AST),Made Shot,Jump Shot,1,3,387
+0022301228,565,PT06M28.00S,4,1610612758,SAC,1628426,Vezenkov,A. Vezenkov,0,0,0,,0,,,0,v,SUB: Monk FOR Vezenkov,Substitution,,0,0,408

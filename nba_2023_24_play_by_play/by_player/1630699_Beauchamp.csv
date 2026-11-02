@@ -1,0 +1,446 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300002,178,PT09M58.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,225,-1,0,Made,1,30,29,59,h,Beauchamp 3PT Jump Shot (3 PTS) (G. Antetokounmpo 2 AST),Made Shot,Jump Shot,1,3,139
+0022300002,182,PT09M30.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,235,55,24,Made,1,33,29,62,h,Beauchamp 24' 3PT Jump Shot (6 PTS) (G. Antetokounmpo 3 AST),Made Shot,Jump Shot,1,3,142
+0022300002,185,PT08M58.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,144
+0022300002,197,PT08M04.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,227,11,0,Missed,1,,,0,h,MISS Beauchamp 3PT Jump Shot,Missed Shot,Jump Shot,1,3,152
+0022300002,212,PT07M25.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,227,96,25,Missed,1,,,0,h,MISS Beauchamp 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,162
+0022300002,226,PT06M30.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,SUB: Beasley FOR Beauchamp,Substitution,,0,0,174
+0022300002,436,PT04M12.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,330
+0022300002,445,PT03M15.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,114,257,28,Made,1,74,64,138,h,Beauchamp 28' 3PT Jump Shot (9 PTS) (Crowder 2 AST),Made Shot,Jump Shot,1,3,337
+0022300002,470,PT01M27.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,6,27,3,Made,1,80,72,152,h,Beauchamp 3' Running Layup (11 PTS) (Connaughton 2 AST),Made Shot,Running Layup Shot,1,2,354
+0022300002,475,PT01M27.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,MISS Beauchamp Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,357
+0022300002,479,PT01M02.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,22,42,5,Made,1,82,72,154,h,Beauchamp 5' Layup (13 PTS) (Middleton 1 AST),Made Shot,Layup Shot,1,2,362
+0022300002,500,PT11M45.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp S.FOUL (P1.T1) (J.Williams),Foul,Shooting,1,0,375
+0022300002,528,PT09M07.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp S.FOUL (P2.T2) (T.Ford),Foul,Shooting,1,0,393
+0022300002,531,PT09M07.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,SUB: Connaughton FOR Beauchamp,Substitution,,0,0,395
+0022300049,109,PT03M40.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,24,23,47,h,Beauchamp Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,79
+0022300049,114,PT03M40.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,MISS Beauchamp Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,82
+0022300049,120,PT02M56.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp S.FOUL (P1.PN) (E.Dalen),Foul,Shooting,1,0,86
+0022300049,144,PT01M34.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,29,32,61,h,Beauchamp Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,103
+0022300049,146,PT01M34.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,30,32,62,h,Beauchamp Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,104
+0022300049,157,PT00M32.70S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp T.FOUL (P1.PN) (S.Wright),Foul,Technical,1,0,113
+0022300049,402,PT06M21.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-243,3,24,Missed,1,,,0,h,MISS Beauchamp 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,294
+0022300049,405,PT06M09.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,297
+0022300049,437,PT04M22.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,316
+0022300049,449,PT03M27.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,325
+0022300049,450,PT03M20.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-55,20,6,Missed,1,,,0,h,MISS Beauchamp 6' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,2,326
+0022300049,475,PT02M04.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp S.FOUL (P2.T4) (S.Wright),Foul,Shooting,1,0,343
+0022300049,481,PT01M48.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,38,162,17,Missed,1,,,0,h,MISS Beauchamp 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,347
+0022300049,505,PT00M00.30S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,181,277,33,Missed,1,,,0,h,MISS Beauchamp 33' 3PT Floating Jump Shot,Missed Shot,Floating Jump shot,1,3,368
+0022300056,98,PT04M05.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp AWAY.FROM.PLAY.FOUL (P1.T2) (D.Guthrie),Foul,Away From Play,1,0,72
+0022300056,103,PT04M03.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp S.FOUL (P2.T3) (M.Kogut),Foul,Shooting,1,0,75
+0022300056,121,PT02M36.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-163,51,17,Missed,1,,,0,v,MISS Beauchamp 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,88
+0022300056,150,PT00M37.40S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,111
+0022300056,157,PT00M07.20S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,117
+0022300056,162,PT00M06.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,SUB: Middleton FOR Beauchamp,Substitution,,0,0,118
+0022300056,224,PT07M24.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp S.FOUL (P3.T2) (D.Guthrie),Foul,Shooting,1,0,161
+0022300056,230,PT07M21.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,165
+0022300056,234,PT07M11.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp L.B.FOUL (P4.T3) (J.Goble),Foul,Loose Ball,1,0,168
+0022300056,236,PT07M11.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,SUB: Connaughton FOR Beauchamp,Substitution,,0,0,169
+0022300056,421,PT05M12.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-200,20,20,Missed,1,,,0,v,MISS Beauchamp 20' Jump Shot,Missed Shot,Jump Shot,1,2,297
+0022300056,424,PT04M57.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,300
+0022300056,425,PT04M56.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,301
+0022300056,457,PT02M57.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,SUB: B. Lopez FOR Beauchamp,Substitution,,0,0,328
+0022300075,219,PT08M44.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,155
+0022300075,264,PT05M50.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,4,-12,1,Made,1,48,35,83,h,Beauchamp 1' Running Layup (2 PTS) (Lillard 3 AST),Made Shot,Running Layup Shot,1,2,189
+0022300075,287,PT04M26.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-18,-4,2,Made,1,55,37,92,h,Beauchamp 2' Running Reverse Layup (4 PTS) (Middleton 4 AST),Made Shot,Running Reverse Layup Shot,1,2,205
+0022300075,292,PT04M16.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp P.FOUL (P1.PN) (M.Lindsay),Foul,Personal,1,0,208
+0022300075,296,PT04M16.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,SUB: Beasley FOR Beauchamp,Substitution,,0,0,211
+0022300075,518,PT01M02.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp S.FOUL (P2.T4) (M.Lindsay),Foul,Shooting,1,0,366
+0022300075,540,PT11M43.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,161,227,28,Missed,1,,,0,h,MISS Beauchamp 28' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,381
+0022300075,543,PT11M29.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,384
+0022300075,585,PT08M20.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp S.FOUL (P3.T2) (B.Barnaky),Foul,Shooting,1,0,415
+0022300075,594,PT08M02.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,SUB: Crowder FOR Beauchamp,Substitution,,0,0,422
+0022300097,134,PT02M03.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp P.FOUL (P1.T2) (B.Kennedy),Foul,Personal,1,0,101
+0022300097,144,PT01M31.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp P.FOUL (P2.T3) (T.Maddox),Foul,Personal,1,0,107
+0022300097,180,PT00M37.10S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,2,23,2,Missed,1,,,0,h,MISS Beauchamp 2' Running Dunk,Missed Shot,Running Dunk Shot,1,2,123
+0022300097,173,PT00M27.80S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,129
+0022300097,174,PT00M27.80S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,Made,1,23,29,52,h,Beauchamp Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,130
+0022300097,175,PT00M13.90S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp P.FOUL (P3.PN) (B.Nansel),Foul,Personal,1,0,131
+0022300097,200,PT11M14.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,SUB: Beasley FOR Beauchamp,Substitution,,0,0,145
+0022300097,510,PT01M00.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,224,92,24,Made,1,78,98,176,h,Beauchamp 24' 3PT Jump Shot (5 PTS) (G. Antetokounmpo 3 AST),Made Shot,Jump Shot,1,3,361
+0022300097,560,PT09M37.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,15,63,6,Missed,1,,,0,h,MISS Beauchamp 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,398
+0022300097,607,PT06M25.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-141,243,28,Made,1,93,118,211,h,Beauchamp 28' 3PT Jump Shot (8 PTS) (Lillard 5 AST),Made Shot,Jump Shot,0,3,433
+0022300097,645,PT04M14.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp Out of Bounds Lost Ball Turnover (P1.T20),Turnover,Out of Bounds Lost Ball Turnover,0,0,459
+0022300097,662,PT03M14.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR Beauchamp,Substitution,,0,0,468
+0022300116,185,PT10M36.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-237,-5,24,Missed,1,,,0,v,MISS Beauchamp 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,137
+0022300116,197,PT09M11.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-127,231,26,Missed,1,,,0,v,MISS Beauchamp 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,147
+0022300116,223,PT07M32.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,167
+0022300116,249,PT06M48.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,183
+0022300116,260,PT06M18.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,SUB: Beasley FOR Beauchamp,Substitution,,0,0,190
+0022300116,617,PT05M45.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-230,-12,0,Missed,1,,,0,v,MISS Beauchamp 3PT Jump Shot,Missed Shot,Jump Shot,1,3,443
+0022300116,665,PT02M22.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,169,203,26,Made,1,126,104,230,v,Beauchamp 26' 3PT Jump Shot (3 PTS) (Jackson Jr. 3 AST),Made Shot,Jump Shot,1,3,474
+0022300116,673,PT01M51.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,128,105,233,v,Beauchamp Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,479
+0022300116,674,PT01M51.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,128,106,234,v,Beauchamp Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,480
+0022300116,685,PT00M49.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-2,248,25,Made,1,130,111,241,v,Beauchamp 25' 3PT Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,1,3,489
+0022300149,170,PT09M28.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,232,39,24,Made,1,37,40,77,v,Beauchamp 24' 3PT Jump Shot (3 PTS) (Connaughton 3 AST),Made Shot,Jump Shot,1,3,131
+0022300149,238,PT03M58.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,SUB: G. Antetokounmpo FOR Beauchamp,Substitution,,0,0,178
+0022300149,434,PT01M37.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp Traveling Turnover (P1.T9),Turnover,Traveling,1,0,317
+0022300149,455,PT00M02.40S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,331
+0022300149,456,PT00M02.40S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,Missed,1,,,0,v,MISS Beauchamp Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,332
+0022300149,503,PT08M56.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp STEAL (1 STL),,,1,0,363
+0022300149,529,PT07M38.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,SUB: Connaughton FOR Beauchamp,Substitution,,0,0,383
+0022300165,116,PT04M04.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,15,13,28,h,Beauchamp Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,88
+0022300165,119,PT04M04.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,16,13,29,h,Beauchamp Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,91
+0022300165,146,PT01M56.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-235,27,24,Missed,1,,,0,h,MISS Beauchamp 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,105
+0022300165,152,PT01M14.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp P.FOUL (P1.T3) (S.Twardoski),Foul,Personal,1,0,110
+0022300165,159,PT00M43.40S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,115
+0022300165,165,PT00M18.60S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp P.FOUL (P2.PN) (M.Ervin),Foul,Personal,1,0,120
+0022300165,173,PT00M06.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,5,32,3,Made,1,24,23,47,h,Beauchamp 3' Cutting Layup Shot (4 PTS) (Payne 2 AST),Made Shot,Cutting Layup Shot,1,2,124
+0022300165,292,PT05M54.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-16,202,20,Made,1,49,37,86,h,Beauchamp 20' Pullup Jump Shot (6 PTS) (G. Antetokounmpo 3 AST),Made Shot,Pullup Jump shot,1,2,198
+0022300165,308,PT04M10.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,1,0,211
+0022300165,461,PT06M07.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Jump Ball Beauchamp vs. Thompson: Tip to Thompson,Jump Ball,,1,0,322
+0022300165,470,PT05M48.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,154,199,25,Missed,1,,,0,h,MISS Beauchamp 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,325
+0022300165,496,PT03M27.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp P.FOUL (P3.T3) (R.Mott),Foul,Personal,1,0,350
+0022300165,533,PT00M09.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,33,14,4,Missed,1,,,0,h,MISS Beauchamp 4' Running Jump Shot,Missed Shot,Running Jump Shot,1,2,374
+0022300165,550,PT11M28.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,383
+0022300165,554,PT11M13.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,86,140,16,Made,1,92,97,189,h,Beauchamp 16' Pullup Jump Shot (8 PTS) (Portis 2 AST),Made Shot,Pullup Jump shot,1,2,385
+0022300165,557,PT10M42.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,15,118,12,Made,1,94,99,193,h,Beauchamp 12' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,2,387
+0022300165,562,PT10M14.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-162,193,25,Missed,1,,,0,h,MISS Beauchamp 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,390
+0022300165,596,PT07M14.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp S.FOUL (P4.T2) (M.Ervin),Foul,Shooting,1,0,418
+0022300165,602,PT07M14.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,SUB: Beasley FOR Beauchamp,Substitution,,0,0,422
+0022300171,104,PT03M33.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,75
+0022300171,140,PT01M23.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-17,22,3,Missed,1,,,0,v,MISS Beauchamp 3' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,100
+0022300171,157,PT00M28.50S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,114
+0022300171,196,PT10M03.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,137
+0022300171,197,PT09M56.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-157,210,26,Made,1,40,33,73,v,Beauchamp 26' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 1 AST),Made Shot,Jump Shot,1,3,138
+0022300171,209,PT09M08.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,145
+0022300171,210,PT09M08.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,Made,1,40,35,75,v,Beauchamp Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,1,2,146
+0022300171,239,PT06M50.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,SUB: Crowder FOR Beauchamp,Substitution,,0,0,164
+0022300171,503,PT01M12.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-205,168,27,Missed,1,,,0,v,MISS Beauchamp 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,361
+0022300173,147,PT02M02.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,17,6,2,Made,1,21,20,41,v,Beauchamp 2' Driving Layup (2 PTS) (Connaughton 1 AST),Made Shot,Driving Layup Shot,0,2,101
+0022300173,166,PT00M35.80S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,13,11,2,Missed,1,,,0,v,MISS Beauchamp 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,116
+0022300173,173,PT00M00.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,229,31,0,Missed,1,,,0,v,MISS Beauchamp 3PT Jump Shot,Missed Shot,Jump Shot,1,3,122
+0022300173,195,PT10M11.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,34,30,64,v,Beauchamp Free Throw Technical (3 PTS),Free Throw,Free Throw Technical,1,0,137
+0022300173,203,PT09M42.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,143
+0022300173,215,PT08M56.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp S.FOUL (P1.T2) (S.Mehta),Foul,Shooting,1,0,151
+0022300173,239,PT08M09.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,1,0,167
+0022300173,240,PT07M52.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp P.FOUL (P2.T4) (S.Mehta),Foul,Personal,1,0,168
+0022300173,251,PT07M07.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,SUB: Crowder FOR Beauchamp,Substitution,,0,0,177
+0022300173,356,PT00M50.60S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,254
+0022300173,359,PT00M47.70S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,MISS Beauchamp Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,256
+0022300173,361,PT00M47.70S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,MISS Beauchamp Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,258
+0022300173,477,PT05M02.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,170,184,25,Missed,1,,,0,v,MISS Beauchamp 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,339
+0022300173,489,PT04M08.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp Bad Pass Turnover (P2.T13),Turnover,Bad Pass,1,0,347
+0022300173,499,PT03M31.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-13,23,3,Made,1,84,65,149,v,Beauchamp 3' Reverse Dunk (5 PTS) (Green 1 AST),Made Shot,Reverse Dunk Shot,1,2,355
+0022300173,517,PT02M30.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,366
+0022300173,518,PT02M23.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp Lost Ball Turnover (P3.T14),Turnover,Lost Ball,1,0,367
+0022300173,525,PT02M07.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,SUB: G. Antetokounmpo FOR Beauchamp,Substitution,,0,0,373
+0022300173,689,PT02M28.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,485
+0022300173,690,PT02M24.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,80,162,18,Missed,1,,,0,v,MISS Beauchamp 18' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,486
+0022300173,722,PT00M31.80S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-27,59,6,Missed,1,,,0,v,MISS Beauchamp 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,508
+0022300190,104,PT04M14.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp STEAL (1 STL),,,1,0,81
+0022300190,106,PT04M10.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,10,26,3,Made,1,20,8,28,h,Beauchamp 3' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,1,2,82
+0022300190,113,PT03M40.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,56,52,8,Missed,1,,,0,h,MISS Beauchamp 8' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,1,2,87
+0022300190,129,PT02M54.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp BLOCK (1 BLK),,,1,2,99
+0022300190,136,PT02M38.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,104
+0022300190,198,PT09M30.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,146
+0022300190,204,PT09M23.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-235,8,24,Missed,1,,,0,h,MISS Beauchamp 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,150
+0022300190,207,PT09M07.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,153
+0022300190,228,PT08M12.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,130,254,29,Missed,1,,,0,h,MISS Beauchamp 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,169
+0022300190,234,PT07M39.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,4,159,16,Missed,1,,,0,h,MISS Beauchamp 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,175
+0022300190,237,PT07M25.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,178
+0022300190,256,PT05M47.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,SUB: Connaughton FOR Beauchamp,Substitution,,0,0,190
+0022300190,565,PT08M58.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,232,10,0,Made,1,96,81,177,h,Beauchamp 3PT Jump Shot (5 PTS) (Payne 5 AST),Made Shot,Jump Shot,1,3,416
+0022300190,588,PT07M25.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp P.FOUL (P1.T4) (B.Schwab),Foul,Personal,1,0,431
+0022300190,608,PT06M26.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp Traveling Turnover (P1.T13),Turnover,Traveling,1,0,447
+0022300190,612,PT06M13.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,450
+0022300190,613,PT06M08.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-245,5,25,Made,1,103,87,190,h,Beauchamp 25' 3PT Jump Shot (8 PTS) (Connaughton 5 AST),Made Shot,Jump Shot,1,3,451
+0022300190,633,PT04M50.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,SUB: Middleton FOR Beauchamp,Substitution,,0,0,464
+0022300195,143,PT01M25.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp STEAL (1 STL),,,1,0,108
+0022300195,145,PT01M21.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,2,0,Made,1,18,34,52,v,Beauchamp Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,109
+0022300195,192,PT10M25.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp L.B.FOUL (P1.T2) (G.Petraitis),Foul,Loose Ball,1,0,140
+0022300195,196,PT09M59.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-1,5,1,Made,1,23,40,63,v,Beauchamp 1' Cutting Dunk Shot (4 PTS) (Payne 1 AST),Made Shot,Cutting Dunk Shot,1,2,143
+0022300195,202,PT09M17.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp S.FOUL (P2.T3) (R.Hussey),Foul,Shooting,1,0,147
+0022300195,205,PT08M54.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-7,22,2,Missed,1,,,0,v,MISS Beauchamp 2' Layup,Missed Shot,Layup Shot,1,2,149
+0022300195,244,PT06M39.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,SUB: Connaughton FOR Beauchamp,Substitution,,0,0,181
+0022300228,188,PT08M30.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,234,78,25,Made,1,39,29,68,v,Beauchamp 25' 3PT Jump Shot (3 PTS) (Beasley 1 AST),Made Shot,Jump Shot,1,3,140
+0022300228,193,PT08M01.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,143
+0022300228,194,PT07M59.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-2,-3,0,Made,1,42,31,73,v,Beauchamp Putback Layup (5 PTS),Made Shot,Putback Layup Shot,1,2,144
+0022300228,211,PT06M41.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,157
+0022300228,271,PT02M18.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,205,146,25,Missed,1,,,0,v,MISS Beauchamp 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,197
+0022300228,290,PT00M47.60S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp P.FOUL (P1.T4) (M.Davis),Foul,Personal,1,0,211
+0022300228,385,PT06M03.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,278
+0022300228,419,PT03M20.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp STEAL (1 STL),,,1,0,303
+0022300228,421,PT03M15.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-130,151,20,Missed,1,,,0,v,MISS Beauchamp 20' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,304
+0022300228,445,PT00M53.70S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,25,167,17,Missed,1,,,0,v,MISS Beauchamp 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,323
+0022300245,109,PT03M36.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp S.FOUL (P1.T2) (B.Nansel),Foul,Shooting,1,0,83
+0022300245,161,PT00M04.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,121
+0022300245,574,PT10M11.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp P.FOUL (P2.T1) (K.Scott),Foul,Personal,1,0,420
+0022300245,612,PT08M09.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp BLOCK (1 BLK),,,1,2,447
+0022300245,616,PT08M03.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,450
+0022300245,620,PT07M57.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,SUB: Lillard FOR Beauchamp,Substitution,,0,0,453
+0022300269,130,PT01M16.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,100
+0022300269,138,PT00M32.70S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,196,150,25,Missed,1,,,0,v,MISS Beauchamp 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,108
+0022300269,140,PT00M14.30S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp S.FOUL (P1.T3) (R.Mott),Foul,Shooting,1,0,110
+0022300269,236,PT07M48.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,174
+0022300269,276,PT05M26.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,120,9,12,Made,1,40,36,76,v,Beauchamp 12' Driving Floating Jump Shot (2 PTS) (Beasley 2 AST),Made Shot,Driving Floating Jump Shot,1,2,202
+0022300269,324,PT02M12.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,228,11,0,Made,1,49,51,100,v,Beauchamp 3PT Jump Shot (5 PTS) (Portis 1 AST),Made Shot,Jump Shot,1,3,232
+0022300269,349,PT00M01.30S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-243,-4,24,Missed,1,,,0,v,MISS Beauchamp 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,252
+0022300269,426,PT05M58.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-183,117,22,Made,1,64,71,135,v,Beauchamp 22' Jump Shot (7 PTS) (Portis 2 AST),Made Shot,Jump Shot,1,2,309
+0022300269,445,PT04M51.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-218,134,26,Missed,1,,,0,v,MISS Beauchamp 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,321
+0022300269,489,PT01M20.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,351
+0022300269,497,PT01M03.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,SUB: Payne FOR Beauchamp,Substitution,,0,0,358
+0022300269,564,PT08M26.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp Out of Bounds Lost Ball Turnover (P2.T14),Turnover,Out of Bounds Lost Ball Turnover,1,0,408
+0022300269,589,PT06M57.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,428
+0022300269,590,PT06M53.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-5,20,2,Missed,1,,,0,v,MISS Beauchamp 2' Running Layup,Missed Shot,Running Layup Shot,1,2,429
+0022300269,599,PT06M33.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,SUB: Middleton FOR Beauchamp,Substitution,,0,0,437
+0022300286,112,PT03M25.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp S.FOUL (P1.T4) (C.Kirkland),Foul,Shooting,1,0,76
+0022300286,117,PT03M08.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-180,173,25,Made,1,31,30,61,h,Beauchamp 25' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 4 AST),Made Shot,Jump Shot,1,3,80
+0022300286,123,PT02M13.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,BUCKS T.Foul (Def. 3 Sec Beauchamp ) (S.Twardoski),Foul,Defense 3 Second,1,0,85
+0022300286,135,PT01M31.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,93
+0022300286,142,PT00M50.90S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp BLOCK (1 BLK),,,1,2,99
+0022300286,146,PT00M41.80S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-10,4,1,Missed,1,,,0,h,MISS Beauchamp 1' Running Layup,Missed Shot,Running Layup Shot,1,2,103
+0022300286,270,PT02M39.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp P.FOUL (P2.T2) (S.Twardoski),Foul,Personal,1,0,195
+0022300286,272,PT02M39.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,SUB: Payne FOR Beauchamp,Substitution,,0,0,196
+0022300286,411,PT04M25.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp S.FOUL (P3.T3) (B.Barnaky),Foul,Shooting,1,0,302
+0022300286,441,PT01M28.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,SUB: Payne FOR Beauchamp,Substitution,,0,0,335
+0022300300,95,PT03M05.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,43,47,6,Made,1,30,23,53,h,Beauchamp 6' Turnaround Bank Shot (2 PTS),Made Shot,Turnaround Bank shot,1,2,69
+0022300300,141,PT00M01.40S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp S.FOUL (P1.PN) (E.Scott),Foul,Shooting,1,0,104
+0022300300,178,PT09M16.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,SUB: Middleton FOR Beauchamp,Substitution,,0,0,131
+0022300300,404,PT02M26.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-159,205,26,Missed,1,,,0,h,MISS Beauchamp 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,298
+0022300315,98,PT05M28.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-12,169,17,Made,1,16,22,38,h,Beauchamp 17' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,2,73
+0022300315,115,PT04M36.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp OFF.Foul (P1) (A.Nagy),Foul,Offensive,1,0,85
+0022300315,117,PT04M36.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,0,86
+0022300315,140,PT03M04.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,100
+0022300315,141,PT03M02.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,1,8,1,Made,1,24,26,50,h,Beauchamp 1' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,101
+0022300315,162,PT01M51.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,116
+0022300315,163,PT01M50.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp Out of Bounds - Bad Pass Turnover Turnover (P2.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,117
+0022300315,200,PT11M11.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,SUB: Middleton FOR Beauchamp,Substitution,,0,0,145
+0022300315,456,PT06M09.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,333
+0022300315,516,PT02M41.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp Out of Bounds - Bad Pass Turnover Turnover (P3.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,376
+0022300315,540,PT01M15.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp P.FOUL (P2.PN) (A.Nagy),Foul,Personal,1,0,396
+0022300315,549,PT00M39.20S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-21,10,2,Made,1,101,92,193,h,Beauchamp 2' Cutting Dunk Shot (6 PTS) (Payne 3 AST),Made Shot,Cutting Dunk Shot,1,2,401
+0022300315,768,PT02M12.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-6,21,2,Missed,1,,,0,h,MISS Beauchamp 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,556
+0022300315,774,PT02M04.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,SUB: Lillard FOR Beauchamp,Substitution,,0,0,561
+0022300334,7,PT11M39.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,229,6,0,Missed,1,,,0,h,MISS Beauchamp 3PT Jump Shot,Missed Shot,Jump Shot,1,3,3
+0022300334,14,PT11M18.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,1,0,1,h,Beauchamp Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,9
+0022300334,15,PT11M18.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,2,0,2,h,Beauchamp Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,10
+0022300334,29,PT10M01.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,224,20,0,Made,1,5,0,5,h,Beauchamp 3PT Jump Shot (5 PTS) (G. Antetokounmpo 1 AST),Made Shot,Jump Shot,1,3,23
+0022300334,32,PT09M44.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,25
+0022300334,34,PT09M38.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,27
+0022300334,35,PT09M38.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,Made,1,7,0,7,h,Beauchamp Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,1,2,28
+0022300334,49,PT08M09.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,39
+0022300334,91,PT04M38.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,6,11,1,Made,1,27,14,41,h,Beauchamp 1' Driving Dunk (9 PTS),Made Shot,Driving Dunk Shot,1,2,68
+0022300334,108,PT03M52.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,81
+0022300334,117,PT03M07.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,SUB: Green FOR Beauchamp,Substitution,,0,0,89
+0022300334,268,PT06M05.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp STEAL (1 STL),,,1,0,196
+0022300334,270,PT06M00.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,2,5,1,Made,1,64,34,98,h,Beauchamp 1' Running Reverse Layup (11 PTS),Made Shot,Running Reverse Layup Shot,1,2,197
+0022300334,326,PT02M17.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,235
+0022300334,331,PT01M28.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp STEAL (2 STL),,,1,0,240
+0022300334,333,PT01M23.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp Bad Pass Turnover (P3.T7),Turnover,Bad Pass,1,0,241
+0022300334,336,PT01M10.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,244
+0022300334,381,PT10M14.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,277
+0022300334,441,PT05M55.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,43,95,10,Missed,1,,,0,h,MISS Beauchamp 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,320
+0022300334,467,PT03M53.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,SUB: Green FOR Beauchamp,Substitution,,0,0,338
+0022300334,602,PT06M47.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-36,37,5,Missed,1,,,0,h,MISS Beauchamp 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,442
+0022300334,610,PT06M10.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,449
+0022300334,621,PT05M28.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,75,143,16,Missed,1,,,0,h,MISS Beauchamp 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,458
+0022300334,656,PT03M04.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,SUB: Green FOR Beauchamp,Substitution,,0,0,484
+0022300346,107,PT03M58.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp S.FOUL (P1.T3) (B.Kennedy),Foul,Shooting,1,0,80
+0022300346,124,PT02M52.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp P.FOUL (P2.T4) (M.Kogut),Foul,Personal,1,0,93
+0022300346,174,PT01M00.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR Beauchamp,Substitution,,0,0,108
+0022300346,197,PT09M08.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,SUB: Middleton FOR Beauchamp,Substitution,,0,0,141
+0022300346,503,PT11M08.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,356
+0022300346,558,PT07M36.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR Beauchamp,Substitution,,0,0,393
+0022300361,246,PT05M56.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,181
+0022300361,250,PT05M55.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,SUB: Lillard FOR Beauchamp,Substitution,,0,0,184
+0022300378,172,PT10M13.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,127
+0022300378,173,PT10M12.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp Traveling Turnover (P1.T4),Turnover,Traveling,1,0,128
+0022300378,181,PT10M02.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,133
+0022300378,188,PT09M36.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,244,-3,24,Missed,1,,,0,h,MISS Beauchamp 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,140
+0022300378,199,PT08M35.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,230,125,26,Made,1,35,41,76,h,Beauchamp 26' 3PT Jump Shot (3 PTS) (Payne 1 AST),Made Shot,Jump Shot,1,3,147
+0022300378,212,PT07M19.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,19,2,Made,1,39,45,84,h,Beauchamp 2' Driving Dunk (5 PTS) (Payne 3 AST),Made Shot,Driving Dunk Shot,1,2,154
+0022300378,237,PT04M36.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp P.FOUL (P1.T3) (N.Green),Foul,Personal,1,0,173
+0022300378,239,PT04M36.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,SUB: Lillard FOR Beauchamp,Substitution,,0,0,174
+0022300378,412,PT04M52.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,305
+0022300378,413,PT04M37.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,306
+0022300378,476,PT01M02.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp S.FOUL (P2.PN) (N.Green),Foul,Shooting,1,0,347
+0022300388,634,PT00M05.30S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,480
+0022300401,178,PT10M11.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp STEAL (1 STL),,,1,0,134
+0022300401,235,PT06M22.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,180
+0022300401,241,PT06M16.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,SUB: Beasley FOR Beauchamp,Substitution,,0,0,184
+0022300417,181,PT11M42.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,124
+0022300417,248,PT05M47.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,175
+0022300417,249,PT05M32.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-47,254,26,Missed,1,,,0,v,MISS Beauchamp 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,176
+0022300417,262,PT04M11.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,191,47,20,Made,1,43,53,96,v,Beauchamp 20' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,187
+0022300417,268,PT03M23.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,192
+0022300417,281,PT02M19.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,SUB: Beasley FOR Beauchamp,Substitution,,0,0,205
+0022300417,436,PT04M00.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp STEAL (1 STL),,,1,0,319
+0022300417,438,PT03M52.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,6,6,1,Missed,1,,,0,v,MISS Beauchamp 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,320
+0022300417,446,PT03M45.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,82,86,168,v,Beauchamp Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,327
+0022300417,449,PT03M45.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,MISS Beauchamp Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,329
+0022300417,468,PT01M26.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,112,221,25,Made,1,90,94,184,v,Beauchamp 25' 3PT Pullup Jump Shot (6 PTS) (Portis 3 AST),Made Shot,Pullup Jump shot,1,3,344
+0022300417,496,PT11M32.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,358
+0022300417,513,PT10M25.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,4,10,1,Made,1,94,107,201,v,Beauchamp 1' Running Dunk (8 PTS) (Payne 5 AST),Made Shot,Running Dunk Shot,1,2,374
+0022300417,521,PT09M50.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp S.FOUL (P1.T3) (T.Maddox),Foul,Shooting,1,0,380
+0022300417,550,PT07M31.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,233,38,24,Made,1,103,116,219,v,Beauchamp 24' 3PT Jump Shot (11 PTS) (Middleton 7 AST),Made Shot,Jump Shot,1,3,400
+0022300417,559,PT07M20.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp S.FOUL (P2.PN) (T.Maddox),Foul,Shooting,1,0,404
+0022300417,594,PT05M09.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,431
+0022300417,596,PT05M08.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,SUB: Beasley FOR Beauchamp,Substitution,,0,0,432
+0022300433,110,PT03M26.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp P.FOUL (P1.T2) (B.Schwab),Foul,Personal,1,0,78
+0022300433,128,PT02M04.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,90
+0022300433,129,PT02M00.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-9,60,6,Made,1,28,24,52,v,Beauchamp 6' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,1,2,91
+0022300433,134,PT01M28.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,234,17,0,Missed,1,,,0,v,MISS Beauchamp 3PT Jump Shot,Missed Shot,Jump Shot,1,3,95
+0022300433,144,PT00M30.40S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-232,26,0,Made,1,34,29,63,v,Beauchamp 3PT Jump Shot (5 PTS) (G. Antetokounmpo 3 AST),Made Shot,Jump Shot,1,3,102
+0022300433,154,PT00M04.50S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,SUB: Middleton FOR Beauchamp,Substitution,,0,0,107
+0022300433,524,PT11M14.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp S.FOUL (P2.T1) (B.Schwab),Foul,Shooting,1,0,369
+0022300433,556,PT08M48.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,SUB: Beasley FOR Beauchamp,Substitution,,0,0,391
+0022300466,89,PT04M01.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,25,21,3,Made,1,21,22,43,v,Beauchamp 3' Driving Finger Roll Layup (2 PTS) (Lillard 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,59
+0022300466,97,PT03M19.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,66
+0022300466,109,PT03M04.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp Traveling Turnover (P1.T3),Turnover,Traveling,1,0,74
+0022300466,118,PT02M11.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-97,7,10,Made,1,26,24,50,v,Beauchamp 10' Running Jump Shot (4 PTS) (G. Antetokounmpo 1 AST),Made Shot,Running Jump Shot,1,2,83
+0022300466,179,PT09M11.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,27,13,3,Made,1,39,38,77,v,Beauchamp 3' Layup (6 PTS) (Payne 1 AST),Made Shot,Layup Shot,1,2,123
+0022300466,191,PT08M11.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-7,20,2,Made,1,39,40,79,v,Beauchamp 2' Layup (8 PTS) (G. Antetokounmpo 4 AST),Made Shot,Layup Shot,1,2,133
+0022300466,194,PT08M03.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,SUB: B. Lopez FOR Beauchamp,Substitution,,0,0,134
+0022300466,298,PT01M32.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp P.FOUL (P1.PN) (B.Kennedy),Foul,Personal,1,0,209
+0022300466,407,PT06M50.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,285
+0022300466,423,PT06M03.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,232,34,0,Missed,1,,,0,v,MISS Beauchamp 3PT Jump Shot,Missed Shot,Jump Shot,1,3,298
+0022300466,454,PT03M57.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,235,20,24,Missed,1,,,0,v,MISS Beauchamp 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,318
+0022300466,710,PT01M37.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,506
+0022300466,711,PT01M34.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,5,25,3,Made,1,139,124,263,v,Beauchamp 3' Driving Dunk (10 PTS),Made Shot,Driving Dunk Shot,1,2,507
+0022300466,717,PT00M57.70S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-9,13,2,Made,1,139,126,265,v,Beauchamp 2' Cutting Dunk Shot (12 PTS) (Jackson Jr. 2 AST),Made Shot,Cutting Dunk Shot,1,2,511
+0022300466,734,PT00M11.40S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-146,216,26,Missed,1,,,0,v,MISS Beauchamp 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,524
+0022300477,118,PT03M01.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,225,15,0,Missed,1,,,0,v,MISS Beauchamp 3PT Jump Shot,Missed Shot,Jump Shot,1,3,85
+0022300477,129,PT01M59.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,93
+0022300477,130,PT01M59.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,Missed,1,,,0,v,MISS Beauchamp Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,94
+0022300477,148,PT01M05.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-2,17,2,Missed,1,,,0,v,MISS Beauchamp 2' Layup,Missed Shot,Layup Shot,1,2,108
+0022300477,162,PT00M04.80S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,225,13,0,Made,1,31,38,69,v,Beauchamp 3PT Jump Shot (3 PTS) (G. Antetokounmpo 3 AST),Made Shot,Jump Shot,1,3,117
+0022300477,176,PT11M39.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp S.FOUL (P1.T1) (J.Butler),Foul,Shooting,1,0,125
+0022300477,218,PT08M02.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,160
+0022300477,228,PT07M53.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,SUB: Beasley FOR Beauchamp,Substitution,,0,0,169
+0022300477,404,PT06M00.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,300
+0022300477,434,PT04M16.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-222,67,0,Made,1,80,85,165,v,Beauchamp 3PT Jump Shot (6 PTS) (G. Antetokounmpo 5 AST),Made Shot,Jump Shot,1,3,323
+0022300477,443,PT03M19.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,93,237,25,Missed,1,,,0,v,MISS Beauchamp 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,329
+0022300477,460,PT00M43.90S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,11,50,5,Made,1,91,93,184,v,Beauchamp 5' Floating Jump Shot (8 PTS) (G. Antetokounmpo 6 AST),Made Shot,Floating Jump shot,1,2,341
+0022300477,472,PT00M26.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,7,13,1,Missed,1,,,0,v,MISS Beauchamp 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,347
+0022300477,509,PT09M58.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,367
+0022300477,520,PT09M28.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,SUB: Lillard FOR Beauchamp,Substitution,,0,0,377
+0022300496,98,PT03M59.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,1,0,74
+0022300496,115,PT02M24.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,89
+0022300496,123,PT01M37.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,13,267,27,Missed,1,,,0,v,MISS Beauchamp 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,95
+0022300496,160,PT10M51.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,123
+0022300496,179,PT09M21.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp S.FOUL (P1.T1) (D.Collins),Foul,Shooting,1,0,136
+0022300496,223,PT07M25.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,SUB: Beasley FOR Beauchamp,Substitution,,0,0,156
+0022300496,591,PT09M06.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp BLOCK (1 BLK),,,1,2,396
+0022300496,551,PT08M59.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,174,199,26,Made,1,93,81,174,v,Beauchamp 26' 3PT Running Jump Shot (3 PTS) (G. Antetokounmpo 2 AST),Made Shot,Running Jump Shot,1,3,398
+0022300496,598,PT05M59.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,22,22,3,Made,1,96,87,183,v,Beauchamp 3' Driving Dunk (5 PTS),Made Shot,Driving Dunk Shot,1,2,430
+0022300496,612,PT04M09.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,442
+0022300496,657,PT01M00.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,224,109,25,Missed,1,,,0,v,MISS Beauchamp 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,476
+0022300496,670,PT00M25.80S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,487
+0022300496,697,PT00M05.10S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,SUB: Connaughton FOR Beauchamp,Substitution,,0,0,508
+0022300510,100,PT05M02.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp STEAL (1 STL),,,1,0,74
+0022300510,102,PT04M56.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,32,33,5,Missed,1,,,0,h,MISS Beauchamp 5' Running Layup,Missed Shot,Running Layup Shot,1,2,75
+0022300510,109,PT04M20.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-235,6,24,Missed,1,,,0,h,MISS Beauchamp 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,81
+0022300510,119,PT03M34.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-156,216,27,Missed,1,,,0,h,MISS Beauchamp 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,91
+0022300510,121,PT03M17.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp P.FOUL (P1.T2) (J.Ralls),Foul,Personal,1,0,93
+0022300510,138,PT02M34.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-28,73,8,Missed,1,,,0,h,MISS Beauchamp 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,104
+0022300510,422,PT05M18.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,313
+0022300510,430,PT05M06.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,228,95,25,Made,1,75,90,165,h,Beauchamp 25' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 5 AST),Made Shot,Jump Shot,1,3,317
+0022300510,476,PT01M29.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp STEAL (2 STL),,,1,0,350
+0022300510,498,PT00M23.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,363
+0022300510,667,PT00M34.20S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,103,224,25,Missed,1,,,0,h,MISS Beauchamp 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,483
+0022300528,488,PT10M42.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,186,159,24,Missed,1,,,0,h,MISS Beauchamp 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,354
+0022300528,543,PT07M16.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-234,62,24,Missed,1,,,0,h,MISS Beauchamp 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,395
+0022300528,559,PT06M35.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,406
+0022300528,583,PT05M01.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp BLOCK (1 BLK),,,1,2,424
+0022300528,605,PT03M52.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,439
+0022300572,201,PT08M08.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,156
+0022300572,202,PT08M08.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,Missed,1,,,0,v,MISS Beauchamp Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,157
+0022300572,207,PT07M59.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,SUB: Beasley FOR Beauchamp,Substitution,,0,0,161
+0022300572,364,PT07M56.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,276
+0022300572,391,PT05M53.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,295
+0022300572,411,PT04M21.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-1,105,11,Missed,1,,,0,v,MISS Beauchamp 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,309
+0022300572,428,PT02M37.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,323
+0022300572,451,PT01M17.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,SUB: Green FOR Beauchamp,Substitution,,0,0,343
+0022300572,554,PT05M20.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-25,157,16,Missed,1,,,0,v,MISS Beauchamp 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,413
+0022300572,588,PT01M01.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp L.B.FOUL (P1.T4) (D.Taylor),Foul,Loose Ball,1,0,442
+0022300648,597,PT04M46.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-121,63,14,Made,1,131,102,233,h,Beauchamp 14' Pullup Jump Shot (2 PTS) (Beasley 2 AST),Made Shot,Pullup Jump shot,1,2,435
+0022300648,607,PT04M09.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,2,25,3,Made,1,136,102,238,h,Beauchamp 3' Driving Layup (4 PTS) (R. Lopez 1 AST),Made Shot,Driving Layup Shot,1,2,441
+0022300648,669,PT00M50.50S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,23,208,21,Made,1,141,115,256,h,Beauchamp 21' Turnaround Jump Shot (6 PTS),Made Shot,Turnaround Jump Shot,1,2,488
+0022300711,638,PT00M28.50S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-16,248,25,Missed,1,,,0,v,MISS Beauchamp 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,461
+0022300745,546,PT07M24.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp S.FOUL (P1.T3) (N.Buchert),Foul,Shooting,1,0,407
+0022300745,554,PT06M37.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,414
+0022300745,560,PT06M36.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,110,69,179,h,Beauchamp Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,417
+0022300745,561,PT06M36.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,111,69,180,h,Beauchamp Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,418
+0022300745,575,PT05M15.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,430
+0022300745,578,PT05M11.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,112,73,185,h,Beauchamp Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,432
+0022300745,579,PT05M11.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,113,73,186,h,Beauchamp Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,433
+0022300745,602,PT03M16.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-137,222,26,Missed,1,,,0,h,MISS Beauchamp 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,3,451
+0022300745,610,PT02M27.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,458
+0022300745,614,PT01M50.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,94,9,Missed,1,,,0,h,MISS Beauchamp 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,462
+0022300745,624,PT00M33.60S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp P.FOUL (P2.PN) (R.Hussey),Foul,Personal,1,0,470
+0022300767,577,PT02M46.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp S.FOUL (P1.T4) (B.Schwab),Foul,Shooting,1,0,431
+0022300767,583,PT02M31.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-222,136,26,Made,1,112,87,199,h,Beauchamp 26' 3PT Step Back Jump Shot (3 PTS) (T. Antetokounmpo 1 AST),Made Shot,Step Back Jump shot,1,3,435
+0022300767,594,PT01M49.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,442
+0022300767,595,PT01M48.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,443
+0022300767,605,PT01M23.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,452
+0022300767,606,PT01M17.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-124,244,27,Missed,1,,,0,h,MISS Beauchamp 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,453
+0022300773,533,PT06M18.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp Traveling Turnover (P1.T16),Turnover,Traveling,1,0,379
+0022300773,540,PT05M38.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,384
+0022300773,543,PT05M34.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,MISS Beauchamp Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,386
+0022300773,547,PT05M34.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,88,117,205,h,Beauchamp Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,389
+0022300773,554,PT04M37.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-234,86,25,Missed,1,,,0,h,MISS Beauchamp 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,396
+0022300773,563,PT04M17.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,89,117,206,h,Beauchamp Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,402
+0022300773,564,PT04M17.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,90,117,207,h,Beauchamp Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,403
+0022300773,565,PT04M05.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp STEAL (1 STL),,,1,0,405
+0022300773,567,PT04M00.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,15,23,3,Missed,1,,,0,h,MISS Beauchamp 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,406
+0022300773,574,PT03M28.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,413
+0022300773,575,PT03M24.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp Lost Ball Turnover (P2.T17),Turnover,Lost Ball,1,0,414
+0022300773,588,PT02M01.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-222,157,27,Made,1,95,119,214,h,Beauchamp 27' 3PT Step Back Jump Shot (6 PTS) (T. Antetokounmpo 1 AST),Made Shot,Step Back Jump shot,1,3,425
+0022300773,592,PT01M41.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp S.FOUL (P1.T3) (A.Moyer-Gleich),Foul,Shooting,1,0,428
+0022300773,600,PT01M14.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,5,4,1,Made,1,97,121,218,h,Beauchamp 1' Running Dunk (8 PTS) (Jackson Jr. 2 AST),Made Shot,Running Dunk Shot,1,2,435
+0022300840,495,PT07M36.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,367
+0022300840,503,PT06M43.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,194,171,26,Made,1,114,65,179,h,Beauchamp 26' 3PT Running Pull-Up Jump Shot (3 PTS) (Connaughton 4 AST),Made Shot,Running Pull-Up Jump Shot,1,3,374
+0022300840,523,PT05M10.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,389
+0022300840,524,PT05M05.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,9,8,1,Made,1,116,69,185,h,Beauchamp 1' Running Finger Roll Layup (5 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,390
+0022300840,561,PT02M28.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,6,14,2,Made,1,120,77,197,h,Beauchamp 2' Driving Layup (7 PTS) (Livingston 1 AST),Made Shot,Driving Layup Shot,1,2,417
+0022300840,591,PT00M23.50S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,438
+0022300849,591,PT03M07.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp P.FOUL (P1.PN) (J.Schroeder),Foul,Personal,1,0,424
+0022300849,610,PT01M57.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,SUB: Portis FOR Beauchamp,Substitution,,0,0,440
+0022300864,634,PT00M18.20S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,478
+0022300899,599,PT02M42.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-34,26,4,Missed,1,,,0,v,MISS Beauchamp 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,434
+0022300899,615,PT01M47.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,25,27,4,Missed,1,,,0,v,MISS Beauchamp 4' Running Layup,Missed Shot,Running Layup Shot,1,2,448
+0022300899,625,PT00M52.70S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-191,172,26,Missed,1,,,0,v,MISS Beauchamp 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,456
+0022301030,641,PT02M54.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,46,128,14,Made,1,113,87,200,h,Beauchamp 14' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,463
+0022301030,643,PT02M15.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-88,245,26,Missed,1,,,0,h,MISS Beauchamp 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,465
+0022301030,653,PT01M40.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp S.FOUL (P1.PN) (J.Goble),Foul,Shooting,1,0,474
+0022301179,585,PT04M43.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,114,237,26,Made,1,114,94,208,v,Beauchamp 26' 3PT Jump Shot (3 PTS) (Washington Jr. 1 AST),Made Shot,Jump Shot,1,3,416
+0022301179,604,PT03M13.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,138,215,26,Missed,1,,,0,v,MISS Beauchamp 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,427
+0022301179,612,PT02M24.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-42,4,4,Made,1,123,98,221,v,Beauchamp 4' Fadeaway Bank Shot (5 PTS) (Rollins 1 AST),Made Shot,Fadeaway Bank shot,1,2,435
+0022301179,623,PT01M00.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp BLOCK (1 BLK),,,1,2,446
+0022301179,625,PT00M57.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,447
+0022301179,629,PT00M35.70S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,450
+0022301179,630,PT00M32.40S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-21,104,11,Made,1,125,107,232,v,Beauchamp 11' Running Pull-Up Jump Shot (7 PTS),Made Shot,Running Pull-Up Jump Shot,1,2,451
+0022301191,532,PT06M22.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-25,15,3,Made,1,101,77,178,v,Beauchamp 3' Cutting Layup Shot (2 PTS) (Washington Jr. 1 AST),Made Shot,Cutting Layup Shot,1,2,398
+0022301191,536,PT05M45.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,74,172,19,Made,1,103,79,182,v,Beauchamp 19' Pullup Jump Shot (4 PTS) (Washington Jr. 2 AST),Made Shot,Pullup Jump shot,1,2,400
+0022301191,538,PT05M26.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp STEAL (1 STL),,,1,0,402
+0022301191,606,PT05M05.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-24,14,3,Missed,1,,,0,v,MISS Beauchamp 3' Driving Layup,Missed Shot,Driving Layup Shot,0,2,408
+0022301191,565,PT03M44.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-167,143,22,Missed,1,,,0,v,MISS Beauchamp 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,420
+0022301191,571,PT02M52.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,426
+0022301191,588,PT01M31.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,235,58,24,Made,1,111,84,195,v,Beauchamp 24' 3PT Jump Shot (7 PTS) (Rollins 2 AST),Made Shot,Jump Shot,1,3,439
+0022301191,594,PT01M00.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,v,Beauchamp P.FOUL (P1.PN) (R.Acosta),Foul,Personal,1,0,443
+0022301201,101,PT03M24.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-230,31,0,Made,1,23,20,43,h,Beauchamp 3PT Jump Shot (3 PTS) (G. Antetokounmpo 1 AST),Made Shot,Jump Shot,1,3,75
+0022301201,112,PT02M55.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,83
+0022301201,123,PT02M06.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp S.FOUL (P1.T4) (K.Lane),Foul,Shooting,1,0,91
+0022301201,168,PT10M45.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,SUB: Middleton FOR Beauchamp,Substitution,,0,0,120
+0022301201,462,PT02M33.00S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,199,157,25,Made,1,106,92,198,h,Beauchamp 25' 3PT Step Back Jump Shot (6 PTS) (Lillard 7 AST),Made Shot,Step Back Jump shot,1,3,335
+0022301201,503,PT00M35.70S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp STEAL (1 STL),,,1,0,367
+0022301201,505,PT00M29.30S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,10,15,2,Missed,1,,,0,h,MISS Beauchamp 2' Running Layup,Missed Shot,Running Layup Shot,1,2,368
+0022301201,508,PT00M02.50S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,371
+0022301229,73,PT05M37.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,52
+0022301229,90,PT04M18.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-4,19,2,Missed,1,,,0,h,MISS Beauchamp 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,66
+0022301229,119,PT03M08.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,20,21,3,Made,1,25,23,48,h,Beauchamp 3' Cutting Layup Shot (2 PTS) (Lillard 2 AST),Made Shot,Cutting Layup Shot,1,2,84
+0022301229,126,PT02M32.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,88
+0022301229,130,PT02M28.00S,1,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,10,-6,1,Made,1,27,23,50,h,Beauchamp 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,89
+0022301229,176,PT11M03.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp BLOCK (1 BLK),,,1,2,126
+0022301229,186,PT10M43.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,133
+0022301229,217,PT08M53.00S,2,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,SUB: Beasley FOR Beauchamp,Substitution,,0,0,156
+0022301229,488,PT00M51.60S,3,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,359
+0022301229,510,PT11M04.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,374
+0022301229,513,PT11M04.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,MISS Beauchamp Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,376
+0022301229,517,PT11M04.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,MISS Beauchamp Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,379
+0022301229,523,PT10M44.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,Beauchamp REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,385
+0022301229,526,PT10M40.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,MISS Beauchamp Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,387
+0022301229,528,PT10M40.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,95,95,190,h,Beauchamp Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,389
+0022301229,542,PT09M59.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,,,0,h,SUB: Beasley FOR Beauchamp,Substitution,,0,0,402

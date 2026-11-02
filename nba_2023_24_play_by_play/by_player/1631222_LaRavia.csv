@@ -1,0 +1,763 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300071,116,PT03M39.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia S.FOUL (P1.PN) (C.Kirkland),Foul,Shooting,1,0,83
+0022300071,124,PT03M12.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,90
+0022300071,163,PT00M47.10S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,121
+0022300071,166,PT00M28.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia S.FOUL (P2.PN) (R.Mott),Foul,Shooting,1,0,124
+0022300071,169,PT00M28.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Bane FOR LaRavia,Substitution,,0,0,126
+0022300071,244,PT07M24.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-7,256,26,Missed,1,,,0,h,MISS LaRavia 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,176
+0022300071,299,PT04M01.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,235,36,24,Missed,1,,,0,h,MISS LaRavia 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,214
+0022300071,307,PT03M26.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR LaRavia,Substitution,,0,0,221
+0022300071,491,PT01M54.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia STEAL (1 STL),,,1,0,356
+0022300071,508,PT00M06.50S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Personal Take Foul (P3.T4) (R.Mott),Foul,Personal Take,1,0,369
+0022300071,522,PT11M39.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-113,74,14,Made,1,72,82,154,h,LaRavia 14' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,1,2,374
+0022300071,554,PT08M58.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia S.FOUL (P4.T2) (C.Kirkland),Foul,Shooting,1,0,401
+0022300071,566,PT08M12.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Smart FOR LaRavia,Substitution,,0,0,409
+0022300078,133,PT02M42.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,103
+0022300078,141,PT01M55.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-229,40,0,Made,1,16,18,34,h,LaRavia 3PT Running Jump Shot (3 PTS) (Konchar 1 AST),Made Shot,Running Jump Shot,1,3,109
+0022300078,192,PT11M03.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Bane FOR LaRavia,Substitution,,0,0,146
+0022300078,222,PT08M57.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,168
+0022300078,225,PT08M57.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,MISS LaRavia Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,170
+0022300078,227,PT08M57.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,26,34,60,h,LaRavia Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,172
+0022300078,248,PT07M03.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,189
+0022300078,249,PT06M55.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,38,8,4,Made,1,32,39,71,h,LaRavia 4' Running Layup (6 PTS),Made Shot,Running Layup Shot,1,2,190
+0022300078,255,PT06M34.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Tillman FOR LaRavia,Substitution,,0,0,195
+0022300078,354,PT00M54.20S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,262
+0022300078,525,PT01M18.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,381
+0022300078,569,PT11M21.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia L.B.FOUL (P1.T2) (E.Malloy),Foul,Loose Ball,1,0,415
+0022300078,604,PT07M57.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,442
+0022300078,613,PT07M20.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-147,228,27,Missed,1,,,0,h,MISS LaRavia 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,447
+0022300078,614,PT07M16.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,448
+0022300078,628,PT06M54.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Smart FOR LaRavia,Substitution,,0,0,457
+0022300089,98,PT04M12.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-31,25,4,Missed,1,,,0,v,MISS LaRavia 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,79
+0022300089,130,PT02M49.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-228,118,26,Missed,1,,,0,v,MISS LaRavia 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,101
+0022300089,140,PT02M29.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,32,58,7,Made,1,20,17,37,v,LaRavia 7' Driving Floating Jump Shot (2 PTS) (Roddy 1 AST),Made Shot,Driving Floating Jump Shot,1,2,109
+0022300089,144,PT02M03.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-228,15,0,Made,1,23,20,43,v,LaRavia 3PT Jump Shot (5 PTS) (Rose 1 AST),Made Shot,Jump Shot,1,3,111
+0022300089,155,PT00M50.80S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-158,259,30,Missed,1,,,0,v,MISS LaRavia 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,119
+0022300089,159,PT00M34.40S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,122
+0022300089,206,PT09M47.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Konchar FOR LaRavia,Substitution,,0,0,152
+0022300089,291,PT03M45.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-222,104,25,Missed,1,,,0,v,MISS LaRavia 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,212
+0022300089,321,PT01M52.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,28,32,4,Missed,1,,,0,v,MISS LaRavia 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,231
+0022300089,327,PT01M20.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Konchar FOR LaRavia,Substitution,,0,0,237
+0022300089,492,PT01M32.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,12,9,2,Missed,1,,,0,v,MISS LaRavia 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,355
+0022300089,523,PT11M11.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-62,274,28,Missed,1,,,0,v,MISS LaRavia 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,375
+0022300089,537,PT10M44.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Williams FOR LaRavia,Substitution,,0,0,385
+0022300106,190,PT10M04.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia P.FOUL (P1.T1) (B.Adair),Foul,Personal,1,0,135
+0022300106,196,PT09M35.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia S.FOUL (P2.T2) (E.Dalen),Foul,Shooting,1,0,139
+0022300106,200,PT09M21.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-234,8,0,Missed,1,,,0,h,MISS LaRavia 3PT Jump Shot,Missed Shot,Jump Shot,1,3,142
+0022300106,225,PT07M14.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia P.FOUL (P3.T3) (M.Ervin),Foul,Personal,1,0,162
+0022300106,240,PT06M22.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Konchar FOR LaRavia,Substitution,,0,0,173
+0022300125,607,PT08M14.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-53,247,25,Missed,1,,,0,v,MISS LaRavia 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,447
+0022300125,612,PT07M47.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,27,42,5,Made,1,110,85,195,v,LaRavia 5' Driving Finger Roll Layup (2 PTS) (Williams Jr. 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,452
+0022300125,660,PT04M12.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-158,190,25,Missed,1,,,0,v,MISS LaRavia 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,486
+0022300125,717,PT01M36.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,18,6,2,Made,1,129,103,232,v,LaRavia 2' Driving Dunk (4 PTS) (Lofton Jr. 2 AST),Made Shot,Driving Dunk Shot,1,2,526
+0022300314,173,PT11M03.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia S.FOUL (P1.T2) (D.Guthrie),Foul,Shooting,1,0,121
+0022300314,229,PT07M24.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,172,179,25,Missed,1,,,0,v,MISS LaRavia 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,161
+0022300314,240,PT06M14.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,31,170,17,Made,1,46,34,80,v,LaRavia 17' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,2,172
+0022300314,249,PT05M33.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Nowell FOR LaRavia,Substitution,,0,0,181
+0022300314,495,PT02M39.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,20,21,3,Made,1,76,74,150,v,LaRavia 3' Driving Finger Roll Layup (4 PTS) (Gilyard 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,357
+0022300314,506,PT01M31.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Offensive Charge Foul (P2) (A.Moyer-Gleich),Foul,Offensive Charge,1,0,366
+0022300314,508,PT01M31.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,1,0,367
+0022300314,512,PT01M15.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,11,22,2,Missed,1,,,0,v,MISS LaRavia 2' Layup,Missed Shot,Layup Shot,1,2,371
+0022300314,563,PT11M10.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-140,215,26,Missed,1,,,0,v,MISS LaRavia 26' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,1,3,402
+0022300314,579,PT10M26.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Roddy FOR LaRavia,Substitution,,0,0,414
+0022300314,645,PT05M40.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia S.FOUL (P3.PN) (D.Guthrie),Foul,Shooting,1,0,461
+0022300314,677,PT03M41.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-229,25,0,Missed,1,,,0,v,MISS LaRavia 3PT Jump Shot,Missed Shot,Jump Shot,1,3,486
+0022300314,689,PT02M35.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Williams FOR LaRavia,Substitution,,0,0,497
+0022300332,210,PT08M26.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,1,47,5,Made,1,35,21,56,h,LaRavia 5' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,159
+0022300332,211,PT08M12.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia S.FOUL (P1.T2) (T.Washington),Foul,Shooting,1,0,160
+0022300332,241,PT06M08.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia P.FOUL (P2.T3) (T.Washington),Foul,Personal,1,0,183
+0022300332,262,PT05M12.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Williams FOR LaRavia,Substitution,,0,0,198
+0022300332,508,PT11M24.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Out of Bounds - Bad Pass Turnover Turnover (P1.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,0,382
+0022300332,521,PT10M36.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia P.FOUL (P3.T2) (J.Ralls),Foul,Personal,1,0,392
+0022300332,544,PT09M17.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,210,140,25,Missed,1,,,0,h,MISS LaRavia 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,410
+0022300332,546,PT09M05.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia S.FOUL (P4.T3) (K.Scott),Foul,Shooting,1,0,412
+0022300332,560,PT08M35.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Williams Jr. FOR LaRavia,Substitution,,0,0,422
+0022300355,569,PT09M49.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,131,238,27,Missed,1,,,0,v,MISS LaRavia 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,405
+0022300355,585,PT08M22.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-218,162,27,Missed,1,,,0,v,MISS LaRavia 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,418
+0022300355,586,PT08M21.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,419
+0022300355,628,PT06M45.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-229,132,26,Missed,1,,,0,v,MISS LaRavia 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,449
+0022300355,629,PT06M41.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,450
+0022300355,680,PT01M45.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-112,260,28,Made,1,116,92,208,v,LaRavia 28' 3PT Jump Shot (3 PTS) (Gilyard 7 AST),Made Shot,Jump Shot,1,3,490
+0022300355,688,PT01M03.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,495
+0022300515,657,PT01M25.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,474
+0022300515,661,PT00M52.30S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,21,21,3,Missed,1,,,0,v,MISS LaRavia 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,477
+0022300537,276,PT03M52.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,200
+0022300537,281,PT02M57.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-26,17,3,Missed,1,,,0,h,MISS LaRavia 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,203
+0022300537,287,PT02M17.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia S.FOUL (P1.T4) (D.Taylor),Foul,Shooting,1,0,208
+0022300537,293,PT02M07.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-203,163,26,Made,1,52,62,114,h,LaRavia 26' 3PT Jump Shot (3 PTS) (Bane 3 AST),Made Shot,Jump Shot,1,3,212
+0022300537,476,PT11M48.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,206,169,27,Missed,1,,,0,h,MISS LaRavia 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,358
+0022300537,486,PT10M47.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,7,37,4,Made,1,83,102,185,h,LaRavia 4' Driving Layup (5 PTS) (Roddy 3 AST),Made Shot,Driving Layup Shot,1,2,366
+0022300537,493,PT10M12.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia BLOCK (1 BLK),,,1,2,373
+0022300537,507,PT09M14.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,208,176,27,Made,1,88,104,192,h,LaRavia 27' 3PT Jump Shot (8 PTS) (Gilyard 2 AST),Made Shot,Jump Shot,1,3,384
+0022300537,520,PT07M41.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,18,15,2,Missed,1,,,0,h,MISS LaRavia 2' Running Layup,Missed Shot,Running Layup Shot,1,2,393
+0022300537,525,PT07M27.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia L.B.FOUL (P2.T2) (C.Kirkland),Foul,Loose Ball,1,0,398
+0022300537,533,PT07M20.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia S.FOUL (P3.T4) (B.Haskill),Foul,Shooting,1,0,402
+0022300537,537,PT07M09.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,405
+0022300537,563,PT04M29.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia P.FOUL (P4.PN) (B.Haskill),Foul,Personal,1,0,426
+0022300537,581,PT03M50.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,9,27,3,Made,1,106,124,230,h,LaRavia 3' Driving Finger Roll Layup (10 PTS) (Gilyard 6 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,438
+0022300537,596,PT02M36.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,2,1,0,Made,1,113,126,239,h,LaRavia Running Dunk (12 PTS) (Gilyard 7 AST),Made Shot,Running Dunk Shot,1,2,449
+0022300537,598,PT02M12.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Violation:Kicked Ball (B.Haskill),Violation,Kicked Ball,0,0,450
+0022300537,609,PT01M33.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,459
+0022300537,612,PT01M16.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,461
+0022300537,613,PT01M14.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-6,14,2,Missed,1,,,0,h,MISS LaRavia 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,462
+0022300537,624,PT00M23.30S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-185,193,27,Missed,1,,,0,h,MISS LaRavia 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,473
+0022300544,91,PT04M29.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,13,19,32,h,LaRavia Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,72
+0022300544,94,PT04M29.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,14,19,33,h,LaRavia Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,74
+0022300544,97,PT04M23.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Williams FOR LaRavia,Substitution,,0,0,76
+0022300807,118,PT02M13.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia STEAL (1 STL),,,1,0,84
+0022300807,125,PT01M34.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,89
+0022300807,126,PT01M27.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-17,21,3,Missed,1,,,0,h,MISS LaRavia 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,90
+0022300807,127,PT01M24.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,91
+0022300807,128,PT01M24.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,Missed,1,,,0,h,MISS LaRavia Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,92
+0022300807,140,PT00M28.40S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,103
+0022300807,160,PT11M45.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia STEAL (2 STL),,,1,0,115
+0022300807,162,PT11M36.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-1,46,5,Missed,1,,,0,h,MISS LaRavia 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,116
+0022300807,163,PT11M33.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,117
+0022300807,164,PT11M33.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,Missed,1,,,0,h,MISS LaRavia Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,118
+0022300807,168,PT11M23.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia L.B.FOUL (P1.T1) (N.Sago),Foul,Loose Ball,1,0,122
+0022300807,187,PT09M51.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,129,247,28,Missed,1,,,0,h,MISS LaRavia 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,135
+0022300807,203,PT08M42.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-4,18,2,Made,1,37,36,73,h,LaRavia 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,148
+0022300807,210,PT08M42.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,38,36,74,h,LaRavia Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,152
+0022300807,215,PT08M09.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,157
+0022300807,226,PT07M48.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-169,211,27,Missed,1,,,0,h,MISS LaRavia 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,164
+0022300807,234,PT07M11.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-108,235,26,Missed,1,,,0,h,MISS LaRavia 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,171
+0022300807,239,PT06M53.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Williams FOR LaRavia,Substitution,,0,0,175
+0022300807,588,PT04M18.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Kennard FOR LaRavia,Substitution,,0,0,433
+0022300830,87,PT04M28.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,64
+0022300830,96,PT02M57.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-228,31,0,Made,1,12,19,31,h,LaRavia 3PT Jump Shot (3 PTS) (Williams Jr. 2 AST),Made Shot,Jump Shot,1,3,70
+0022300830,116,PT01M56.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,83
+0022300830,134,PT00M32.40S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,17,27,3,Missed,1,,,0,h,MISS LaRavia 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,96
+0022300830,267,PT03M08.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia STEAL (1 STL),,,1,0,182
+0022300830,302,PT02M21.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia BLOCK (1 BLK),,,1,2,195
+0022300830,286,PT02M21.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Aldama FOR LaRavia,Substitution,,0,0,197
+0022300830,299,PT01M37.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia S.FOUL (P1.PN) (C.Blair),Foul,Shooting,1,0,206
+0022300830,319,PT00M51.90S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia BLOCK (2 BLK),,,1,3,219
+0022300830,448,PT04M08.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,313
+0022300830,456,PT03M09.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia S.FOUL (P2.T3) (A.Smith),Foul,Shooting,1,0,319
+0022300830,478,PT01M50.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,31,252,25,Missed,1,,,0,h,MISS LaRavia 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,333
+0022300830,504,PT00M11.10S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,17,0,2,Made,1,66,89,155,h,LaRavia 2' Layup (5 PTS) (Rose 4 AST),Made Shot,Layup Shot,1,2,355
+0022300830,519,PT10M51.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,25,46,5,Missed,1,,,0,h,MISS LaRavia 5' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,2,367
+0022300830,573,PT06M56.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-7,63,6,Missed,1,,,0,h,MISS LaRavia 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,403
+0022300830,574,PT06M54.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,404
+0022300830,575,PT06M53.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-42,5,4,Made,1,75,99,174,h,LaRavia 4' Turnaround Hook Shot (7 PTS),Made Shot,Turnaround Hook Shot,1,2,405
+0022300830,607,PT04M03.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-4,8,1,Made,1,79,107,186,h,LaRavia 1' Driving Finger Roll Layup (9 PTS) (Stevens 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,430
+0022300830,611,PT03M26.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-5,66,7,Missed,1,,,0,h,MISS LaRavia 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,433
+0022300830,612,PT03M24.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,434
+0022300830,615,PT03M15.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-127,204,24,Missed,1,,,0,h,MISS LaRavia 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,437
+0022300830,621,PT03M02.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,80,107,187,h,LaRavia Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,441
+0022300830,622,PT03M02.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,MISS LaRavia Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,442
+0022300845,114,PT03M24.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,84
+0022300845,118,PT02M50.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,87
+0022300845,133,PT01M42.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,167,201,26,Missed,1,,,0,v,MISS LaRavia 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,98
+0022300845,172,PT11M45.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,125
+0022300845,208,PT08M37.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-135,208,25,Made,1,36,37,73,v,LaRavia 25' 3PT Jump Shot (3 PTS) (Watanabe 2 AST),Made Shot,Jump Shot,1,3,152
+0022300845,222,PT07M49.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,161
+0022300845,251,PT06M05.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-176,176,25,Missed,1,,,0,v,MISS LaRavia 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,180
+0022300845,261,PT05M01.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Jackson FOR LaRavia,Substitution,,0,0,186
+0022300845,462,PT01M03.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,81,82,163,v,LaRavia Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,338
+0022300845,465,PT01M03.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,81,83,164,v,LaRavia Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,340
+0022300845,480,PT00M00.40S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia S.FOUL (P1.PN) (J.DeRosa),Foul,Shooting,1,0,351
+0022300845,494,PT11M32.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,174,179,25,Missed,1,,,0,v,MISS LaRavia 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,357
+0022300845,504,PT10M34.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,366
+0022300845,531,PT08M29.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Williams FOR LaRavia,Substitution,,0,0,386
+0022300861,100,PT04M14.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,76
+0022300861,111,PT03M24.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,40,26,5,Made,1,11,13,24,h,LaRavia 5' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,86
+0022300861,114,PT03M24.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,12,13,25,h,LaRavia Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,88
+0022300861,152,PT01M27.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,116
+0022300861,162,PT00M26.20S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,123
+0022300861,183,PT11M34.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia S.FOUL (P1.T1) (R.Hussey),Foul,Shooting,1,0,136
+0022300861,192,PT10M05.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-206,126,24,Made,1,28,26,54,h,LaRavia 24' 3PT Jump Shot (6 PTS) (Stevens 1 AST),Made Shot,Jump Shot,1,3,142
+0022300861,194,PT09M51.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia STEAL (1 STL),,,1,0,144
+0022300861,196,PT09M47.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Lost Ball Turnover (P2.T4),Turnover,Lost Ball,1,0,145
+0022300861,200,PT09M33.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,165,193,25,Made,1,31,28,59,h,LaRavia 25' 3PT Jump Shot (9 PTS) (Aldama 1 AST),Made Shot,Jump Shot,1,3,148
+0022300861,206,PT08M34.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,21,59,6,Missed,1,,,0,h,MISS LaRavia 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,153
+0022300861,220,PT07M53.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Lost Ball Turnover (P3.T5),Turnover,Lost Ball,1,0,163
+0022300861,237,PT07M12.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-48,38,6,Missed,1,,,0,h,MISS LaRavia 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,175
+0022300861,286,PT03M45.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-38,59,7,Made,1,39,43,82,h,LaRavia 7' Turnaround Fadeaway (11 PTS),Made Shot,Turnaround Fadeaway shot,1,2,209
+0022300861,299,PT02M13.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Aldama FOR LaRavia,Substitution,,0,0,221
+0022300861,394,PT06M04.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,10,269,27,Made,1,62,74,136,h,LaRavia 27' 3PT Jump Shot (14 PTS) (Williams Jr. 5 AST),Made Shot,Jump Shot,1,3,290
+0022300861,450,PT02M42.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,199,159,25,Missed,1,,,0,h,MISS LaRavia 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,331
+0022300861,473,PT00M49.80S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia S.FOUL (P2.T4) (R.Hussey),Foul,Shooting,1,0,347
+0022300861,478,PT00M32.90S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,72,88,160,h,LaRavia Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,350
+0022300861,479,PT00M32.90S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,MISS LaRavia Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,351
+0022300861,482,PT00M06.70S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,-218,127,25,Missed,1,,,0,h,MISS LaRavia 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,354
+0022300861,561,PT06M58.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,77,108,185,h,LaRavia Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,411
+0022300861,562,PT06M58.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,78,108,186,h,LaRavia Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,412
+0022300861,564,PT06M32.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-4,62,6,Made,1,80,110,190,h,LaRavia 6' Driving Floating Jump Shot (19 PTS),Made Shot,Driving Floating Jump Shot,1,2,414
+0022300861,579,PT05M11.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-32,130,13,Made,1,82,110,192,h,LaRavia 13' Driving Floating Bank Jump Shot (21 PTS) (Jemison 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,425
+0022300861,588,PT04M32.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-143,214,26,Missed,1,,,0,h,MISS LaRavia 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,432
+0022300861,602,PT03M51.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-108,246,27,Missed,1,,,0,h,MISS LaRavia 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,442
+0022300861,610,PT03M04.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Stevens FOR LaRavia,Substitution,,0,0,448
+0022300868,138,PT01M54.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Offensive Charge Foul (P1) (E.Malloy),Foul,Offensive Charge,1,0,107
+0022300868,140,PT01M54.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,108
+0022300868,165,PT11M43.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,127
+0022300868,168,PT11M42.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,MISS LaRavia Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,129
+0022300868,170,PT11M42.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,MISS LaRavia Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,131
+0022300868,183,PT10M52.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,23,28,51,h,LaRavia Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,140
+0022300868,184,PT10M52.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,24,28,52,h,LaRavia Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,141
+0022300868,207,PT09M14.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,159
+0022300868,222,PT08M11.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Stevens FOR LaRavia,Substitution,,0,0,170
+0022300868,459,PT02M17.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,-169,214,27,Missed,1,,,0,h,MISS LaRavia 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,347
+0022300868,474,PT01M18.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,-13,59,6,Missed,1,,,0,h,MISS LaRavia 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,359
+0022300868,486,PT00M39.60S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,75,61,136,h,LaRavia Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,369
+0022300868,489,PT00M39.60S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,76,61,137,h,LaRavia Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,371
+0022300868,494,PT00M26.70S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,77,61,138,h,LaRavia Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,375
+0022300868,495,PT00M26.70S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,78,61,139,h,LaRavia Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,376
+0022300868,512,PT10M55.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,114,230,26,Missed,1,,,0,h,MISS LaRavia 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,390
+0022300868,541,PT08M51.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Goodwin FOR LaRavia,Substitution,,0,0,412
+0022300879,104,PT03M35.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia P.FOUL (P1.PN) (C.Washington),Foul,Personal,1,0,76
+0022300879,113,PT03M16.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-44,88,10,Missed,1,,,0,v,MISS LaRavia 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,82
+0022300879,114,PT03M11.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,83
+0022300879,115,PT03M11.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,Made,1,25,21,46,v,LaRavia Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,84
+0022300879,124,PT02M08.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,25,22,47,v,LaRavia Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,92
+0022300879,131,PT02M08.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,25,23,48,v,LaRavia Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,97
+0022300879,171,PT10M46.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,127
+0022300879,174,PT10M17.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia STEAL (1 STL),,,1,0,130
+0022300879,176,PT10M13.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-6,28,3,Made,1,33,35,68,v,LaRavia 3' Running Finger Roll Layup (6 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,131
+0022300879,183,PT09M36.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,1,0,136
+0022300879,185,PT09M21.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,138
+0022300879,193,PT08M55.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia S.FOUL (P2.T2) (M.Ervin),Foul,Shooting,1,0,144
+0022300879,219,PT06M49.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,163
+0022300879,222,PT06M41.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,96,239,26,Missed,1,,,0,v,MISS LaRavia 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,164
+0022300879,233,PT06M01.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-26,22,3,Missed,1,,,0,v,MISS LaRavia 3' Layup,Missed Shot,Layup Shot,1,2,171
+0022300879,239,PT06M01.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,MISS LaRavia Free Throw Flagrant 1 of 2,Free Throw,Free Throw Flagrant 1 of 2,1,0,176
+0022300879,241,PT06M01.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,MISS LaRavia Free Throw Flagrant 2 of 2,Free Throw,Free Throw Flagrant 2 of 2,1,0,178
+0022300879,245,PT05M50.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-21,52,6,Made,1,37,42,79,v,LaRavia 6' Driving Floating Jump Shot (8 PTS) (Kennard 3 AST),Made Shot,Driving Floating Jump Shot,1,2,181
+0022300879,246,PT05M43.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia P.FOUL (P3.T3) (M.Ervin),Foul,Personal,1,0,182
+0022300879,264,PT03M56.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,42,47,89,v,LaRavia Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,196
+0022300879,269,PT03M56.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,42,48,90,v,LaRavia Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,199
+0022300879,272,PT03M46.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Jackson FOR LaRavia,Substitution,,0,0,201
+0022300879,434,PT02M57.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,127,229,26,Missed,1,,,0,v,MISS LaRavia 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,315
+0022300879,435,PT02M55.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,316
+0022300879,440,PT02M27.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,20,29,4,Missed,1,,,0,v,MISS LaRavia 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,320
+0022300879,442,PT02M26.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,322
+0022300879,484,PT02M25.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0,323
+0022300879,498,PT11M12.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Lost Ball Turnover (P3.T14),Turnover,Lost Ball,1,0,358
+0022300879,511,PT10M20.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,82,83,165,v,LaRavia Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,368
+0022300879,514,PT10M20.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,82,84,166,v,LaRavia Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,370
+0022300879,518,PT09M50.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,45,24,5,Made,1,84,86,170,v,LaRavia 5' Driving Layup (14 PTS) (Jackson 1 AST),Made Shot,Driving Layup Shot,1,2,374
+0022300879,523,PT09M24.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-60,14,6,Missed,1,,,0,v,MISS LaRavia 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,377
+0022300879,530,PT09M06.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,229,6,0,Missed,1,,,0,v,MISS LaRavia 3PT Jump Shot,Missed Shot,Jump Shot,1,3,383
+0022300879,558,PT06M56.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,404
+0022300879,571,PT05M43.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,417
+0022300879,584,PT05M05.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,426
+0022300879,592,PT03M51.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-23,248,25,Missed,1,,,0,v,MISS LaRavia 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,431
+0022300879,616,PT01M48.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,451
+0022300879,696,PT00M30.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia STEAL (2 STL),,,0,0,468
+0022300879,656,PT00M20.90S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia S.FOUL (P4.PN) (J.Williams),Foul,Shooting,1,0,481
+0022300879,672,PT00M14.50S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Stevens FOR LaRavia,Substitution,,0,0,493
+0022300896,102,PT03M27.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,34,274,28,Missed,1,,,0,v,MISS LaRavia 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,71
+0022300896,105,PT03M11.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-186,201,27,Made,1,22,28,50,v,LaRavia 27' 3PT Turnaround Jump Shot (3 PTS),Made Shot,Turnaround Jump Shot,1,3,74
+0022300896,121,PT01M57.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,86
+0022300896,129,PT00M54.80S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-5,3,1,Made,1,29,32,61,v,LaRavia 1' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,92
+0022300896,140,PT00M33.90S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-158,227,28,Made,1,29,35,64,v,LaRavia 28' 3PT Jump Shot (8 PTS) (Konchar 1 AST),Made Shot,Jump Shot,1,3,100
+0022300896,144,PT00M00.70S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,103
+0022300896,145,PT00M00.70S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,Made,1,31,37,68,v,LaRavia Putback Layup (10 PTS),Made Shot,Putback Layup Shot,1,2,104
+0022300896,158,PT10M59.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,113
+0022300896,161,PT10M37.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia BLOCK (1 BLK),,,1,2,117
+0022300896,176,PT10M10.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,36,9,4,Missed,1,,,0,v,MISS LaRavia 4' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,2,126
+0022300896,178,PT10M04.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia S.FOUL (P1.T2) (J.Goble),Foul,Shooting,1,0,128
+0022300896,187,PT09M24.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,134
+0022300896,191,PT08M45.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,137
+0022300896,212,PT06M52.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,12,42,4,Missed,1,,,0,v,MISS LaRavia 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,153
+0022300896,517,PT05M57.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia BLOCK (2 BLK),,,1,2,168
+0022300896,239,PT04M59.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Jackson FOR LaRavia,Substitution,,0,0,179
+0022300896,285,PT02M11.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-219,150,27,Missed,1,,,0,v,MISS LaRavia 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,212
+0022300896,398,PT05M59.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia S.FOUL (P2.T3) (S.Foster),Foul,Shooting,1,0,290
+0022300896,407,PT05M40.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,297
+0022300896,410,PT05M40.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,83,70,153,v,LaRavia Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,299
+0022300896,411,PT05M40.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,MISS LaRavia Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,300
+0022300896,416,PT05M13.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,15,13,2,Made,1,85,72,157,v,LaRavia 2' Driving Layup (13 PTS) (Williams Jr. 7 AST),Made Shot,Driving Layup Shot,1,2,305
+0022300896,418,PT04M56.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia BLOCK (3 BLK),,,1,3,307
+0022300896,465,PT02M18.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,343
+0022300896,466,PT02M18.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,Made,1,89,78,167,v,LaRavia Tip Layup Shot (15 PTS),Made Shot,Tip Layup Shot,1,2,344
+0022300896,537,PT10M10.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,13,26,3,Missed,1,,,0,v,MISS LaRavia 3' Running Layup,Missed Shot,Running Layup Shot,1,2,392
+0022300896,567,PT08M07.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,415
+0022300896,578,PT07M42.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,424
+0022300896,579,PT07M38.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,27,23,4,Missed,1,,,0,v,MISS LaRavia 4' Running Layup,Missed Shot,Running Layup Shot,1,2,425
+0022300896,592,PT07M13.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,435
+0022300896,605,PT06M32.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,446
+0022300896,726,PT06M31.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Lost Ball Turnover (P2.T13),Turnover,Lost Ball,1,0,447
+0022300896,622,PT05M20.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,460
+0022300896,623,PT05M20.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Bad Pass Turnover (P3.T14),Turnover,Bad Pass,1,0,461
+0022300896,642,PT03M46.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:4 Def:8),Rebound,Unknown,1,0,473
+0022300896,657,PT02M46.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-11,97,10,Missed,1,,,0,v,MISS LaRavia 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,483
+0022300896,658,PT02M43.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:5 Def:8),Rebound,Unknown,1,0,484
+0022300896,659,PT02M41.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,12,1,Made,1,104,107,211,v,LaRavia 1' Putback Dunk (17 PTS),Made Shot,Putback Dunk Shot,1,2,485
+0022300896,668,PT02M07.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-11,34,4,Missed,1,,,0,v,MISS LaRavia 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,493
+0022300896,686,PT01M02.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia P.FOUL (P3.T4) (M.Boland),Foul,Personal,1,0,509
+0022300896,715,PT00M17.40S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,109,114,223,v,LaRavia Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,528
+0022300896,716,PT00M17.40S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,109,115,224,v,LaRavia Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,529
+0022300913,68,PT06M12.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia BLOCK (1 BLK),,,1,2,53
+0022300913,130,PT01M24.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-229,34,0,Made,1,31,18,49,h,LaRavia 3PT Running Jump Shot (3 PTS) (Williams Jr. 4 AST),Made Shot,Running Jump Shot,1,3,100
+0022300913,152,PT11M39.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia STEAL (1 STL),,,1,0,117
+0022300913,154,PT11M19.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,229,73,24,Missed,1,,,0,h,MISS LaRavia 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,118
+0022300913,171,PT10M09.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Konchar FOR LaRavia,Substitution,,0,0,132
+0022300913,279,PT03M45.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia STEAL (2 STL),,,1,0,195
+0022300913,261,PT03M44.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,41,35,76,h,LaRavia Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,197
+0022300913,264,PT03M44.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,42,35,77,h,LaRavia Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,199
+0022300913,267,PT03M13.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,228,98,25,Missed,1,,,0,h,MISS LaRavia 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,201
+0022300913,274,PT02M13.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,29,6,3,Missed,1,,,0,h,MISS LaRavia 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,207
+0022300913,289,PT01M14.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,22,5,2,Missed,1,,,0,h,MISS LaRavia 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,218
+0022300913,290,PT01M12.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,219
+0022300913,295,PT01M07.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-114,215,24,Missed,1,,,0,h,MISS LaRavia 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,221
+0022300913,410,PT04M15.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia P.FOUL (P1.T3) (M.Smith),Foul,Personal,1,0,305
+0022300913,413,PT03M53.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,307
+0022300913,416,PT03M44.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,59,69,128,h,LaRavia Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,309
+0022300913,421,PT03M44.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,60,69,129,h,LaRavia Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,312
+0022300913,471,PT00M01.10S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia STEAL (3 STL),,,1,0,350
+0022300913,473,PT00M00.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,165,201,26,Missed,1,,,0,h,MISS LaRavia 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,351
+0022300913,570,PT06M08.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia S.FOUL (P2.T4) (D.Taylor),Foul,Shooting,1,0,420
+0022300913,580,PT05M34.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-189,183,26,Made,1,84,87,171,h,LaRavia 26' 3PT Jump Shot (10 PTS) (Konchar 3 AST),Made Shot,Jump Shot,1,3,429
+0022300913,587,PT04M48.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,85,90,175,h,LaRavia Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,433
+0022300913,588,PT04M48.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,86,90,176,h,LaRavia Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,434
+0022300913,605,PT03M03.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,17,59,6,Made,1,92,95,187,h,LaRavia 6' Driving Floating Jump Shot (14 PTS),Made Shot,Driving Floating Jump Shot,1,2,446
+0022300913,617,PT02M23.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,457
+0022300913,627,PT01M00.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-186,190,27,Missed,1,,,0,h,MISS LaRavia 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,466
+0022300931,26,PT11M09.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia S.FOUL (P1.T1) (C.Blair),Foul,Shooting,1,0,16
+0022300931,42,PT09M29.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,104,229,25,Made,1,6,3,9,v,LaRavia 25' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,27
+0022300931,79,PT05M51.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Stevens FOR LaRavia,Substitution,,0,0,56
+0022300931,148,PT11M35.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia STEAL (1 STL),,,1,0,97
+0022300931,165,PT09M45.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,152,204,25,Missed,1,,,0,v,MISS LaRavia 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,111
+0022300931,170,PT09M22.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,18,6,2,Missed,1,,,0,v,MISS LaRavia 2' Running Layup,Missed Shot,Running Layup Shot,1,2,115
+0022300931,200,PT07M57.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,207,138,25,Made,1,44,27,71,v,LaRavia 25' 3PT Jump Shot (6 PTS) (Jemison 1 AST),Made Shot,Jump Shot,1,3,134
+0022300931,215,PT06M22.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-22,115,12,Made,1,46,29,75,v,LaRavia 12' Turnaround Fadeaway (8 PTS),Made Shot,Turnaround Fadeaway shot,1,2,145
+0022300931,216,PT06M13.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia P.FOUL (P2.T1) (B.Adair),Foul,Personal,1,0,146
+0022300931,257,PT03M00.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia P.FOUL (P3.T2) (C.Blair),Foul,Personal,1,0,174
+0022300931,259,PT03M00.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Jarreau FOR LaRavia,Substitution,,0,0,175
+0022300931,313,PT11M29.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,-4,26,3,Missed,1,,,0,v,MISS LaRavia 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,208
+0022300931,334,PT09M59.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia STEAL (2 STL),,,1,0,226
+0022300931,345,PT08M44.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,-16,16,2,Made,1,75,49,124,v,LaRavia 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,231
+0022300931,350,PT08M22.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,236
+0022300931,355,PT07M46.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,-6,25,3,Missed,1,,,0,v,MISS LaRavia 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,239
+0022300931,371,PT07M24.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia OFF.Foul (P4) (C.Blair),Foul,Offensive,1,0,253
+0022300931,373,PT07M24.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,1,0,254
+0022300931,382,PT06M48.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,81,54,135,v,LaRavia Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,259
+0022300931,383,PT06M48.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,81,55,136,v,LaRavia Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,260
+0022300931,395,PT05M47.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Stevens FOR LaRavia,Substitution,,0,0,271
+0022300931,510,PT10M15.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-107,253,27,Missed,1,,,0,v,MISS LaRavia 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,354
+0022300931,519,PT09M32.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,107,75,182,v,LaRavia Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,361
+0022300931,520,PT09M32.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,MISS LaRavia Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,362
+0022300931,528,PT09M09.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Jackson FOR LaRavia,Substitution,,0,0,369
+0022300940,115,PT02M36.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,88
+0022300940,135,PT01M57.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,101
+0022300940,143,PT01M05.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-2,8,1,Made,1,24,21,45,h,LaRavia 1' Driving Finger Roll Layup (2 PTS) (Jarreau 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,109
+0022300940,164,PT11M28.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,30,21,51,h,LaRavia Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,125
+0022300940,165,PT11M28.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,31,21,52,h,LaRavia Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,126
+0022300940,174,PT10M34.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia STEAL (1 STL),,,1,0,135
+0022300940,176,PT10M32.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,2,5,1,Made,1,33,23,56,h,LaRavia 1' Running Finger Roll Layup (6 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,136
+0022300940,198,PT09M30.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-85,242,26,Missed,1,,,0,h,MISS LaRavia 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,152
+0022300940,201,PT09M07.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,22,245,25,Missed,1,,,0,h,MISS LaRavia 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,155
+0022300940,203,PT09M03.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,1,0,157
+0022300940,207,PT08M50.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,157,203,26,Missed,1,,,0,h,MISS LaRavia 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,160
+0022300940,247,PT05M57.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Aldama FOR LaRavia,Substitution,,0,0,187
+0022300940,338,PT00M01.30S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,65,42,107,h,LaRavia Free Throw 1 of 3 (7 PTS),Free Throw,Free Throw 1 of 3,1,0,257
+0022300940,339,PT00M01.30S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,66,42,108,h,LaRavia Free Throw 2 of 3 (8 PTS),Free Throw,Free Throw 2 of 3,1,0,258
+0022300940,340,PT00M01.30S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,67,42,109,h,LaRavia Free Throw 3 of 3 (9 PTS),Free Throw,Free Throw 3 of 3,1,0,259
+0022300940,441,PT02M58.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,7,17,2,Missed,1,,,0,h,MISS LaRavia 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,327
+0022300940,473,PT00M36.70S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,225,-3,0,Made,1,92,75,167,h,LaRavia 3PT Jump Shot (12 PTS) (Goodwin 5 AST),Made Shot,Jump Shot,1,3,352
+0022300940,475,PT00M30.80S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia STEAL (2 STL),,,1,0,354
+0022300940,526,PT09M22.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia S.FOUL (P2.T1) (J.Tiven),Foul,Shooting,1,0,386
+0022300940,543,PT08M25.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-49,125,13,Missed,1,,,0,h,MISS LaRavia 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,399
+0022300940,546,PT08M19.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,402
+0022300940,565,PT06M43.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Aldama FOR LaRavia,Substitution,,0,0,415
+0022300940,624,PT02M32.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,5,1,Made,1,103,91,194,h,LaRavia 1' Cutting Dunk Shot (14 PTS) (Kennard 8 AST),Made Shot,Cutting Dunk Shot,1,2,457
+0022300940,641,PT01M00.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,470
+0022300940,651,PT00M26.80S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,108,97,205,h,LaRavia Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,477
+0022300940,652,PT00M26.80S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,109,97,206,h,LaRavia Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,478
+0022300950,92,PT03M33.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,27,64,7,Missed,1,,,0,h,MISS LaRavia 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,68
+0022300950,93,PT03M31.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,69
+0022300950,120,PT00M36.20S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,21,22,3,Missed,1,,,0,h,MISS LaRavia 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,92
+0022300950,125,PT00M05.10S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,96
+0022300950,126,PT00M03.90S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,Missed,1,,,0,h,MISS LaRavia Putback Layup,Missed Shot,Putback Layup Shot,1,2,97
+0022300950,157,PT10M59.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-191,178,26,Missed,1,,,0,h,MISS LaRavia 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,119
+0022300950,178,PT09M19.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia STEAL (1 STL),,,1,0,138
+0022300950,195,PT07M47.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,26,17,3,Missed,1,,,0,h,MISS LaRavia 3' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,2,151
+0022300950,202,PT07M20.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Kennard FOR LaRavia,Substitution,,0,0,158
+0022300950,241,PT04M38.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-93,258,27,Made,1,36,41,77,h,LaRavia 27' 3PT Jump Shot (3 PTS) (Jarreau 1 AST),Made Shot,Jump Shot,1,3,184
+0022300950,264,PT02M33.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-77,260,27,Missed,1,,,0,h,MISS LaRavia 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,201
+0022300950,391,PT04M42.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,-58,253,26,Missed,1,,,0,h,MISS LaRavia 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,288
+0022300950,441,PT00M00.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia STEAL (2 STL),,,1,0,329
+0022300950,455,PT11M39.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-13,5,1,Missed,1,,,0,h,MISS LaRavia 1' Running Layup,Missed Shot,Running Layup Shot,1,2,334
+0022300950,464,PT11M01.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,13,13,2,Made,1,74,80,154,h,LaRavia 2' Driving Finger Roll Layup (5 PTS) (Gabriel 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,342
+0022300950,475,PT10M09.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,350
+0022300950,476,PT09M58.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-23,11,3,Missed,1,,,0,h,MISS LaRavia 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,351
+0022300950,479,PT09M53.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia STEAL (3 STL),,,1,0,355
+0022300950,493,PT09M11.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Bad Pass Turnover (P1.T20),Turnover,Bad Pass,1,0,365
+0022300950,498,PT09M02.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia S.FOUL (P1.T4) (M.Boland),Foul,Shooting,1,0,368
+0022300950,510,PT08M29.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Jackson FOR LaRavia,Substitution,,0,0,377
+0022300950,570,PT04M38.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,420
+0022300950,590,PT02M36.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,436
+0022300950,603,PT01M32.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-183,182,26,Missed,1,,,0,h,MISS LaRavia 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,445
+0022300950,605,PT01M19.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia P.FOUL (P2.PN) (K.Lane),Foul,Personal,1,0,447
+0022300950,613,PT00M57.60S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,61,248,26,Missed,1,,,0,h,MISS LaRavia 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,453
+0022300972,101,PT04M28.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,18,18,36,h,LaRavia Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,72
+0022300972,102,PT04M28.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,19,18,37,h,LaRavia Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,73
+0022300972,177,PT10M54.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,123
+0022300972,191,PT09M41.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,134
+0022300972,196,PT09M32.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,30,29,59,h,LaRavia Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,136
+0022300972,199,PT09M32.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,31,29,60,h,LaRavia Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,138
+0022300972,212,PT08M09.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Kennard FOR LaRavia,Substitution,,0,0,149
+0022300972,246,PT06M36.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,228,9,0,Missed,1,,,0,h,MISS LaRavia 3PT Jump Shot,Missed Shot,Jump Shot,1,3,173
+0022300972,253,PT05M55.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-229,84,24,Missed,1,,,0,h,MISS LaRavia 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,179
+0022300972,255,PT05M45.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia STEAL (1 STL),,,1,0,182
+0022300972,257,PT05M33.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,147,200,25,Missed,1,,,0,h,MISS LaRavia 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,183
+0022300972,261,PT05M15.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,4,0,0,Made,1,38,41,79,h,LaRavia Alley Oop Layup (6 PTS) (Aldama 2 AST),Made Shot,Alley Oop Layup shot,1,2,186
+0022300972,272,PT04M26.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia STEAL (2 STL),,,1,0,193
+0022300972,285,PT03M01.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,34,53,6,Missed,1,,,0,h,MISS LaRavia 6' Hook Shot,Missed Shot,Hook Shot,1,2,201
+0022300972,286,PT02M58.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,202
+0022300972,289,PT02M38.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia S.FOUL (P1.T3) (J.Orr),Foul,Shooting,1,0,204
+0022300972,293,PT02M38.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR LaRavia,Substitution,,0,0,207
+0022300972,460,PT01M46.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,20,78,8,Missed,1,,,0,h,MISS LaRavia 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,329
+0022300972,473,PT00M53.50S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,339
+0022300972,482,PT00M22.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,174,181,25,Made,1,78,89,167,h,LaRavia 25' 3PT Pullup Jump Shot (9 PTS) (Konchar 3 AST),Made Shot,Pullup Jump shot,1,3,346
+0022300972,497,PT11M40.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-188,178,26,Made,1,81,91,172,h,LaRavia 26' 3PT Jump Shot (12 PTS) (Jackson Jr. 2 AST),Made Shot,Jump Shot,1,3,352
+0022300972,504,PT10M51.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,357
+0022300972,517,PT09M32.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-1,17,2,Made,1,91,93,184,h,LaRavia 2' Driving Finger Roll Layup (14 PTS) (Bane 7 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,366
+0022300972,525,PT08M53.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Kennard FOR LaRavia,Substitution,,0,0,372
+0022300972,594,PT04M10.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR LaRavia,Substitution,,0,0,423
+0022300989,72,PT06M27.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,167,204,26,Missed,1,,,0,v,MISS LaRavia 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,52
+0022300989,78,PT06M11.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,56
+0022300989,87,PT05M36.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia S.FOUL (P1.T4) (J.Schroeder),Foul,Shooting,1,0,60
+0022300989,99,PT05M02.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,69
+0022300989,113,PT03M37.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,77,142,16,Missed,1,,,0,v,MISS LaRavia 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,79
+0022300989,129,PT02M20.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,221,137,26,Missed,1,,,0,v,MISS LaRavia 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,92
+0022300989,141,PT01M43.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-143,204,25,Made,1,28,27,55,v,LaRavia 25' 3PT Jump Shot (3 PTS) (Jarreau 1 AST),Made Shot,Jump Shot,1,3,100
+0022300989,151,PT00M46.90S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,11,15,2,Made,1,28,32,60,v,LaRavia 2' Driving Finger Roll Layup (5 PTS) (Jarreau 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,108
+0022300989,203,PT00M02.10S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Step Out of Bounds Turnover (P1.T2),Turnover,Step Out of Bounds Turnover,1,0,117
+0022300989,184,PT10M45.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,29,1,3,Missed,1,,,0,v,MISS LaRavia 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,127
+0022300989,241,PT06M48.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Jackson FOR LaRavia,Substitution,,0,0,170
+0022300989,325,PT00M53.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,146,204,25,Made,1,53,47,100,v,LaRavia 25' 3PT Jump Shot (8 PTS) (Jemison 1 AST),Made Shot,Jump Shot,1,3,233
+0022300989,448,PT05M00.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,316
+0022300989,467,PT03M22.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,-70,251,26,Missed,1,,,0,v,MISS LaRavia 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,331
+0022300989,500,PT01M53.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,223,2,0,Missed,1,,,0,v,MISS LaRavia 3PT Jump Shot,Missed Shot,Jump Shot,1,3,352
+0022300989,506,PT01M16.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,-53,27,6,Missed,1,,,0,v,MISS LaRavia 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,357
+0022300989,518,PT00M11.50S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,MISS LaRavia Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,365
+0022300989,520,PT00M11.50S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,84,76,160,v,LaRavia Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,367
+0022300989,568,PT09M10.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,400
+0022300989,569,PT09M09.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,17,58,6,Missed,1,,,0,v,MISS LaRavia 6' Putback Layup,Missed Shot,Putback Layup Shot,1,2,401
+0022300989,572,PT09M07.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,404
+0022300989,573,PT09M06.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-2,20,2,Made,1,89,83,172,v,LaRavia 2' Putback Layup (11 PTS),Made Shot,Putback Layup Shot,1,2,405
+0022300989,601,PT07M21.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia S.FOUL (P2.T1) (S.Twardoski),Foul,Shooting,1,0,426
+0022300989,610,PT07M00.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,96,88,184,v,LaRavia Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,432
+0022300989,613,PT07M00.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,MISS LaRavia Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,434
+0022300989,637,PT05M38.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,10,44,5,Missed,1,,,0,v,MISS LaRavia 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,453
+0022300989,658,PT04M17.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,473
+0022300989,684,PT02M40.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia S.FOUL (P3.PN) (J.Schroeder),Foul,Shooting,1,0,495
+0022300989,702,PT01M11.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,511
+0022300989,732,PT04M40.00S,5,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,535
+0022301001,84,PT04M46.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,60
+0022301001,95,PT03M39.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,70
+0022301001,102,PT03M03.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-200,176,27,Made,1,24,24,48,v,LaRavia 27' 3PT Jump Shot (3 PTS) (Konchar 2 AST),Made Shot,Jump Shot,1,3,75
+0022301001,128,PT01M40.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,92
+0022301001,170,PT10M44.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-224,23,0,Missed,1,,,0,v,MISS LaRavia 3PT Jump Shot,Missed Shot,Jump Shot,1,3,122
+0022301001,181,PT09M59.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia BLOCK (1 BLK),,,1,2,131
+0022301001,191,PT09M17.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,188,195,27,Missed,1,,,0,v,MISS LaRavia 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,139
+0022301001,196,PT09M05.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Aldama FOR LaRavia,Substitution,,0,0,142
+0022301001,276,PT04M04.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,223,25,0,Missed,1,,,0,v,MISS LaRavia 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,195
+0022301001,285,PT03M11.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,203
+0022301001,306,PT01M44.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,217
+0022301001,450,PT03M16.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,11,82,8,Made,1,98,79,177,v,LaRavia 8' Driving Floating Jump Shot (5 PTS) (Jemison 1 AST),Made Shot,Driving Floating Jump Shot,1,2,321
+0022301001,454,PT03M16.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,98,80,178,v,LaRavia Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,323
+0022301001,472,PT01M46.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,105,85,190,v,LaRavia Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,334
+0022301001,473,PT01M46.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,105,86,191,v,LaRavia Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,335
+0022301001,481,PT01M00.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,184,201,27,Made,1,108,90,198,v,LaRavia 27' 3PT Pullup Jump Shot (11 PTS) (Jemison 2 AST),Made Shot,Pullup Jump shot,1,3,341
+0022301001,508,PT11M00.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,65,53,8,Missed,1,,,0,v,MISS LaRavia 8' Running Layup,Missed Shot,Running Layup Shot,1,2,358
+0022301001,513,PT10M34.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-170,192,26,Missed,1,,,0,v,MISS LaRavia 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,362
+0022301001,515,PT10M29.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-22,26,3,Missed,1,,,0,v,MISS LaRavia 3' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,364
+0022301001,532,PT08M51.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,378
+0022301001,533,PT08M50.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,25,32,4,Missed,1,,,0,v,MISS LaRavia 4' Putback Layup,Missed Shot,Putback Layup Shot,1,2,379
+0022301001,555,PT07M58.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,MISS LaRavia Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,395
+0022301001,557,PT07M58.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,119,98,217,v,LaRavia Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,397
+0022301001,574,PT05M43.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Pereira FOR LaRavia,Substitution,,0,0,410
+0022301015,102,PT03M48.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,78
+0022301015,107,PT03M44.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,21,11,32,v,LaRavia Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,81
+0022301015,108,PT03M44.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,21,12,33,v,LaRavia Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,82
+0022301015,136,PT01M48.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia STEAL (1 STL),,,1,0,102
+0022301015,171,PT00M00.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-189,299,35,Missed,1,,,0,v,MISS LaRavia 35' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,129
+0022301015,195,PT10M10.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-25,7,3,Missed,1,,,0,v,MISS LaRavia 3' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,2,146
+0022301015,212,PT09M20.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia P.FOUL (P1.T2) (J.DeRosa),Foul,Personal,1,0,161
+0022301015,215,PT09M20.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Jackson FOR LaRavia,Substitution,,0,0,163
+0022301015,271,PT05M23.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,228,12,0,Made,1,39,30,69,v,LaRavia 3PT Jump Shot (5 PTS) (Goodwin 4 AST),Made Shot,Jump Shot,1,3,201
+0022301015,278,PT05M06.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia P.FOUL (P2.T4) (S.Mehta),Foul,Personal,1,0,205
+0022301015,286,PT04M17.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,213
+0022301015,294,PT03M24.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,143,223,26,Missed,1,,,0,v,MISS LaRavia 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,219
+0022301015,320,PT01M22.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-13,49,5,Missed,1,,,0,v,MISS LaRavia 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,239
+0022301015,472,PT01M35.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia S.FOUL (P3.PN) (S.Mehta),Foul,Shooting,1,0,351
+0022301015,581,PT07M18.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,437
+0022301015,582,PT07M08.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,22,20,3,Made,1,74,80,154,v,LaRavia 3' Running Layup (7 PTS),Made Shot,Running Layup Shot,1,2,438
+0022301015,612,PT04M55.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,76,163,18,Missed,1,,,0,v,MISS LaRavia 18' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,462
+0022301015,613,PT04M53.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,463
+0022301015,631,PT03M40.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-12,13,2,Made,1,80,87,167,v,LaRavia 2' Running Layup (9 PTS) (Konchar 2 AST),Made Shot,Running Layup Shot,1,2,470
+0022301015,623,PT03M40.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,MISS LaRavia Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,473
+0022301015,625,PT03M38.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,474
+0022301015,639,PT02M55.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,83,88,171,v,LaRavia Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,482
+0022301015,642,PT02M55.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,83,89,172,v,LaRavia Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,483
+0022301015,644,PT02M29.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,485
+0022301015,647,PT02M29.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,83,90,173,v,LaRavia Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,487
+0022301015,650,PT02M29.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,83,91,174,v,LaRavia Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,489
+0022301015,666,PT01M30.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,88,94,182,v,LaRavia Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,502
+0022301015,667,PT01M30.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,88,95,183,v,LaRavia Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,503
+0022301040,93,PT05M22.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-230,27,0,Missed,1,,,0,v,MISS LaRavia 3PT Jump Shot,Missed Shot,Jump Shot,1,3,68
+0022301040,131,PT03M18.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-192,196,27,Missed,1,,,0,v,MISS LaRavia 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,96
+0022301040,154,PT01M00.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,157,194,25,Missed,1,,,0,v,MISS LaRavia 25' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,3,114
+0022301040,191,PT11M13.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia STEAL (1 STL),,,1,0,137
+0022301040,193,PT11M10.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,4,13,1,Made,1,39,28,67,v,LaRavia 1' Running Alley Oop Dunk Shot (2 PTS) (Jarreau 2 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,138
+0022301040,202,PT10M38.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia S.FOUL (P1.T2) (S.Wall),Foul,Shooting,1,0,145
+0022301040,210,PT10M25.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,MISS LaRavia Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,150
+0022301040,212,PT10M25.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,43,29,72,v,LaRavia Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,152
+0022301040,226,PT09M15.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,119,235,26,Missed,1,,,0,v,MISS LaRavia 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,163
+0022301040,230,PT08M50.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,167
+0022301040,242,PT07M49.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Stevens FOR LaRavia,Substitution,,0,0,177
+0022301040,435,PT03M35.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,-16,247,25,Missed,1,,,0,v,MISS LaRavia 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,317
+0022301040,461,PT02M33.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Aldama FOR LaRavia,Substitution,,0,0,333
+0022301040,531,PT10M40.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,386
+0022301040,570,PT08M31.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,MISS LaRavia Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,415
+0022301040,572,PT08M31.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,MISS LaRavia Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,417
+0022301040,615,PT05M54.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Personal Take Foul (P2.T3) (S.Wall),Foul,Personal Take,1,0,450
+0022301040,638,PT04M05.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-229,35,0,Missed,1,,,0,v,MISS LaRavia 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,462
+0022301040,649,PT03M20.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,191,162,25,Missed,1,,,0,v,MISS LaRavia 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,471
+0022301040,670,PT02M33.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,22,22,3,Missed,1,,,0,v,MISS LaRavia 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,486
+0022301040,681,PT01M24.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Violation:Kicked Ball (J.Goble),Violation,Kicked Ball,0,0,495
+0022301055,84,PT05M22.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia S.FOUL (P1.T4) (M.Smith),Foul,Shooting,1,0,63
+0022301055,104,PT04M46.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-34,34,5,Missed,1,,,0,h,MISS LaRavia 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,76
+0022301055,144,PT02M16.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,229,10,0,Made,1,26,32,58,h,LaRavia 3PT Jump Shot (3 PTS) (Aldama 1 AST),Made Shot,Jump Shot,1,3,105
+0022301055,163,PT00M46.40S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia STEAL (1 STL),,,1,0,121
+0022301055,166,PT00M35.80S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,123
+0022301055,194,PT10M19.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,139
+0022301055,221,PT08M10.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,129,218,25,Missed,1,,,0,h,MISS LaRavia 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,160
+0022301055,226,PT08M01.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Pippen Jr. FOR LaRavia,Substitution,,0,0,164
+0022301055,449,PT04M19.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,323
+0022301055,457,PT04M00.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,-27,44,5,Made,1,73,98,171,h,LaRavia 5' Driving Floating Bank Jump Shot (5 PTS) (Bane 10 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,328
+0022301055,477,PT03M01.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia OFF.Foul (P2) (M.Smith),Foul,Offensive,1,0,342
+0022301055,479,PT03M01.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,1,0,343
+0022301055,482,PT02M31.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,-50,254,26,Made,1,80,102,182,h,LaRavia 26' 3PT Step Back Jump Shot (8 PTS) (Clarke 1 AST),Made Shot,Step Back Jump shot,1,3,345
+0022301055,486,PT02M04.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,-15,13,2,Missed,1,,,0,h,MISS LaRavia 2' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,348
+0022301055,491,PT01M44.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,351
+0022301055,516,PT00M07.60S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,108,238,26,Made,1,92,102,194,h,LaRavia 26' 3PT Pullup Jump Shot (11 PTS) (Bane 13 AST),Made Shot,Pullup Jump shot,1,3,369
+0022301055,532,PT11M49.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-60,260,27,Made,1,95,102,197,h,LaRavia 27' 3PT Jump Shot (14 PTS) (Pippen Jr. 1 AST),Made Shot,Jump Shot,1,3,374
+0022301055,537,PT11M14.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,377
+0022301055,538,PT11M13.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,15,10,2,Missed,1,,,0,h,MISS LaRavia 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,378
+0022301055,545,PT10M40.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,32,259,26,Made,1,98,108,206,h,LaRavia 26' 3PT Step Back Jump Shot (17 PTS),Made Shot,Step Back Jump shot,1,3,383
+0022301055,547,PT10M38.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,MISS LaRavia Free Throw Technical,Free Throw,Free Throw Technical,1,0,385
+0022301055,583,PT08M09.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,411
+0022301055,584,PT08M09.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,Made,1,102,117,219,h,LaRavia Putback Layup (19 PTS),Made Shot,Putback Layup Shot,1,2,412
+0022301055,608,PT06M38.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,223,16,0,Made,1,108,118,226,h,LaRavia 3PT Jump Shot (22 PTS) (Stevens 1 AST),Made Shot,Jump Shot,1,3,429
+0022301055,619,PT05M53.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,437
+0022301055,641,PT04M48.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-94,243,26,Made,1,111,125,236,h,LaRavia 26' 3PT Jump Shot (25 PTS) (Jackson Jr. 3 AST),Made Shot,Jump Shot,1,3,456
+0022301055,645,PT04M12.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Bad Pass Turnover (P3.T13),Turnover,Bad Pass,1,0,459
+0022301055,653,PT03M11.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-140,214,26,Missed,1,,,0,h,MISS LaRavia 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,464
+0022301055,669,PT02M10.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Lost Ball Turnover (P4.T14),Turnover,Lost Ball,1,0,475
+0022301075,23,PT10M08.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia S.FOUL (P1.T1) (A.Smith),Foul,Shooting,1,0,19
+0022301075,41,PT08M43.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,44,252,26,Missed,1,,,0,v,MISS LaRavia 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,35
+0022301075,69,PT06M48.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-228,3,0,Made,1,9,9,18,v,LaRavia 3PT Running Jump Shot (3 PTS) (Goodwin 1 AST),Made Shot,Running Jump Shot,1,3,57
+0022301075,80,PT05M53.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-32,20,4,Missed,1,,,0,v,MISS LaRavia 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,65
+0022301075,92,PT05M36.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Pereira FOR LaRavia,Substitution,,0,0,74
+0022301075,171,PT11M42.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Traveling Turnover (P1.T5),Turnover,Traveling,1,0,132
+0022301075,180,PT10M36.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-120,234,26,Missed,1,,,0,v,MISS LaRavia 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,139
+0022301075,200,PT08M55.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia STEAL (1 STL),,,1,0,154
+0022301075,202,PT08M51.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-26,15,3,Made,1,41,17,58,v,LaRavia 3' Running Layup (5 PTS) (Clarke 1 AST),Made Shot,Running Layup Shot,1,2,155
+0022301075,240,PT06M17.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Pereira FOR LaRavia,Substitution,,0,0,180
+0022301075,313,PT00M25.70S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,241
+0022301075,339,PT10M43.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,18,265,27,Missed,1,,,0,v,MISS LaRavia 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,260
+0022301075,344,PT10M04.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,264
+0022301075,356,PT09M13.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Violation:Kicked Ball (A.Smith),Violation,Kicked Ball,0,0,274
+0022301075,389,PT06M23.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,5,22,2,Made,1,79,39,118,v,LaRavia 2' Driving Layup (7 PTS) (Kennard 3 AST),Made Shot,Driving Layup Shot,1,2,299
+0022301075,411,PT03M32.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,23,20,3,Missed,1,,,0,v,MISS LaRavia 3' Running Layup,Missed Shot,Running Layup Shot,1,2,314
+0022301075,416,PT03M10.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Offensive Goaltending Turnover (P2.T16),Turnover,Offensive Goaltending,1,0,318
+0022301075,445,PT00M47.30S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,217,121,25,Made,1,90,54,144,v,LaRavia 25' 3PT Jump Shot (10 PTS) (Clarke 3 AST),Made Shot,Jump Shot,1,3,339
+0022301075,453,PT00M08.70S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Stevens FOR LaRavia,Substitution,,0,0,345
+0022301088,116,PT02M24.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,87
+0022301088,153,PT11M34.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,58,28,6,Missed,1,,,0,v,MISS LaRavia 6' Layup,Missed Shot,Layup Shot,1,2,112
+0022301088,163,PT11M20.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,29,23,52,v,LaRavia Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,120
+0022301088,164,PT11M20.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,29,24,53,v,LaRavia Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,121
+0022301088,169,PT10M56.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,126
+0022301088,170,PT10M45.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,5,28,3,Made,1,29,26,55,v,LaRavia 3' Floating Jump Shot (4 PTS) (Aldama 1 AST),Made Shot,Floating Jump shot,1,2,127
+0022301088,183,PT08M18.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-91,262,28,Missed,1,,,0,v,MISS LaRavia 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,136
+0022301088,195,PT07M55.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,144
+0022301088,196,PT07M50.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,12,22,3,Missed,1,,,0,v,MISS LaRavia 3' Running Layup,Missed Shot,Running Layup Shot,1,2,145
+0022301088,203,PT07M23.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-229,88,25,Made,1,37,35,72,v,LaRavia 25' 3PT Jump Shot (7 PTS) (Aldama 2 AST),Made Shot,Jump Shot,1,3,151
+0022301088,215,PT06M37.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia S.FOUL (P1.T2) (D.Mosher),Foul,Shooting,1,0,159
+0022301088,229,PT06M04.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Jackson FOR LaRavia,Substitution,,0,0,170
+0022301088,274,PT01M33.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Out of Bounds - Bad Pass Turnover Turnover (P2.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,203
+0022301088,276,PT01M01.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,97,243,26,Missed,1,,,0,v,MISS LaRavia 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,205
+0022301088,375,PT04M46.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia S.FOUL (P2.PN) (D.Mosher),Foul,Shooting,1,0,275
+0022301088,386,PT04M24.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,283
+0022301088,387,PT04M20.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,-1,20,2,Missed,1,,,0,v,MISS LaRavia 2' Running Layup,Missed Shot,Running Layup Shot,1,2,284
+0022301088,440,PT02M05.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,78,79,157,v,LaRavia Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,324
+0022301088,441,PT02M05.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,78,80,158,v,LaRavia Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,325
+0022301088,444,PT01M37.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Lost Ball Turnover (P3.T11),Turnover,Lost Ball,1,0,327
+0022301088,457,PT00M57.90S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,-1,66,7,Missed,1,,,0,v,MISS LaRavia 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,337
+0022301088,458,PT00M56.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,339
+0022301088,583,PT00M55.90S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,18,75,8,Missed,1,,,0,v,MISS LaRavia 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,340
+0022301088,478,PT00M00.30S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,143,261,30,Made,1,90,85,175,v,LaRavia 30' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,3,359
+0022301088,488,PT11M48.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia S.FOUL (P3.T1) (D.Mosher),Foul,Shooting,1,0,363
+0022301088,492,PT11M28.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-9,11,1,Missed,1,,,0,v,MISS LaRavia 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,366
+0022301088,557,PT06M05.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia S.FOUL (P4.T2) (B.Barnaky),Foul,Shooting,1,0,414
+0022301088,560,PT06M05.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Jackson Jr. FOR LaRavia,Substitution,,0,0,416
+0022301107,149,PT11M20.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia BLOCK (1 BLK),,,1,2,113
+0022301107,161,PT10M16.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,29,29,58,v,LaRavia Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,120
+0022301107,164,PT10M16.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,29,30,59,v,LaRavia Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,122
+0022301107,188,PT09M13.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia STEAL (1 STL),,,1,0,134
+0022301107,190,PT09M12.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,135
+0022301107,177,PT08M55.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,105,261,28,Missed,1,,,0,v,MISS LaRavia 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,138
+0022301107,196,PT08M09.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-224,35,0,Made,1,36,33,69,v,LaRavia 3PT Jump Shot (5 PTS) (Kennard 2 AST),Made Shot,Jump Shot,1,3,150
+0022301107,199,PT07M43.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,152
+0022301107,219,PT06M08.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Stevens FOR LaRavia,Substitution,,0,0,170
+0022301107,300,PT00M32.50S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,230
+0022301107,437,PT02M30.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,1,18,2,Made,1,70,73,143,v,LaRavia 2' Running Layup (7 PTS) (Clarke 2 AST),Made Shot,Running Layup Shot,1,2,331
+0022301107,455,PT00M06.60S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia P.FOUL (P1.T2) (E.Dalen),Foul,Personal,1,0,342
+0022301107,493,PT09M32.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Jackson FOR LaRavia,Substitution,,0,0,370
+0022301107,527,PT07M15.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia S.FOUL (P2.T2) (K.Lane),Foul,Shooting,1,0,391
+0022301107,534,PT06M51.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-232,15,0,Missed,1,,,0,v,MISS LaRavia 3PT Jump Shot,Missed Shot,Jump Shot,1,3,397
+0022301107,564,PT04M22.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia STEAL (2 STL),,,1,0,422
+0022301107,585,PT03M02.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-51,43,7,Missed,1,,,0,v,MISS LaRavia 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,436
+0022301107,610,PT00M49.60S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia S.FOUL (P3.PN) (B.Nansel),Foul,Shooting,1,0,455
+0022301107,621,PT00M41.30S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,101,110,211,v,LaRavia Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,461
+0022301107,624,PT00M41.30S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,101,111,212,v,LaRavia Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,463
+0022301121,8,PT11M42.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+0022301121,9,PT11M33.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,21,15,3,Missed,1,,,0,h,MISS LaRavia 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,5
+0022301121,31,PT08M54.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia STEAL (1 STL),,,1,0,23
+0022301121,33,PT08M42.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,24
+0022301121,45,PT08M10.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,50,257,26,Missed,1,,,0,h,MISS LaRavia 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,35
+0022301121,56,PT06M11.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,58,6,Missed,1,,,0,h,MISS LaRavia 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,43
+0022301121,65,PT05M38.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Simpson FOR LaRavia,Substitution,,0,0,50
+0022301121,121,PT01M56.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,17,258,26,Missed,1,,,0,h,MISS LaRavia 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,94
+0022301121,122,PT01M52.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,95
+0022301121,132,PT01M15.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-222,106,25,Made,1,28,22,50,h,LaRavia 25' 3PT Jump Shot (3 PTS) (Simpson 1 AST),Made Shot,Jump Shot,1,3,103
+0022301121,138,PT00M31.50S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,108
+0022301121,143,PT00M00.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-218,133,26,Missed,1,,,0,h,MISS LaRavia 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,112
+0022301121,165,PT10M38.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,44,49,7,Missed,1,,,0,h,MISS LaRavia 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,127
+0022301121,216,PT06M38.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,166
+0022301121,236,PT05M37.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,22,22,3,Made,1,47,33,80,h,LaRavia 3' Driving Reverse Layup (5 PTS) (Simpson 2 AST),Made Shot,Driving Reverse Layup Shot,1,2,180
+0022301121,240,PT05M37.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,48,33,81,h,LaRavia Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,182
+0022301121,270,PT05M08.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,141,84,16,Missed,1,,,0,h,MISS LaRavia 16' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,185
+0022301121,247,PT05M08.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Jackson FOR LaRavia,Substitution,,0,0,190
+0022301121,340,PT11M20.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia BLOCK (1 BLK),,,1,2,249
+0022301121,356,PT09M55.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,230,68,24,Missed,1,,,0,h,MISS LaRavia 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,259
+0022301121,377,PT07M17.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,49,16,5,Made,1,75,51,126,h,LaRavia 5' Layup (8 PTS) (Jackson 4 AST),Made Shot,Layup Shot,1,2,276
+0022301121,402,PT05M31.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Stevens FOR LaRavia,Substitution,,0,0,295
+0022301121,450,PT02M11.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,-230,20,0,Missed,1,,,0,h,MISS LaRavia 3PT Jump Shot,Missed Shot,Jump Shot,1,3,329
+0022301121,480,PT00M31.50S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,353
+0022301121,486,PT00M01.80S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,359
+0022301121,487,PT00M00.30S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,-154,495,52,Missed,1,,,0,h,MISS LaRavia 52' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,360
+0022301121,497,PT11M28.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,90,70,160,h,LaRavia Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,367
+0022301121,498,PT11M28.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,91,70,161,h,LaRavia Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,368
+0022301121,533,PT08M44.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Step Out of Bounds Turnover (P3.T14),Turnover,Step Out of Bounds Turnover,1,0,393
+0022301121,546,PT07M18.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-94,22,10,Made,1,100,76,176,h,LaRavia 10' Turnaround Fadeaway (12 PTS),Made Shot,Turnaround Fadeaway shot,1,2,403
+0022301121,557,PT06M22.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,119,229,26,Missed,1,,,0,h,MISS LaRavia 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,411
+0022301121,563,PT05M43.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Lost Ball Turnover (P4.T18),Turnover,Lost Ball,1,0,416
+0022301121,581,PT05M03.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Pereira FOR LaRavia,Substitution,,0,0,431
+0022301158,16,PT11M20.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,12
+0022301158,27,PT09M38.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-34,278,28,Made,1,5,5,10,v,LaRavia 28' 3PT Pullup Jump Shot (3 PTS) (Jackson 1 AST),Made Shot,Pullup Jump shot,1,3,21
+0022301158,36,PT08M34.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,56,146,16,Missed,1,,,0,v,MISS LaRavia 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,27
+0022301158,48,PT06M38.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,170,199,26,Made,1,18,15,33,v,LaRavia 26' 3PT Jump Shot (6 PTS) (Pippen Jr. 1 AST),Made Shot,Jump Shot,1,3,35
+0022301158,52,PT06M03.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-213,185,28,Made,1,18,18,36,v,LaRavia 28' 3PT Jump Shot (9 PTS) (Pippen Jr. 2 AST),Made Shot,Jump Shot,1,3,38
+0022301158,55,PT05M48.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,40
+0022301158,56,PT05M44.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,125,226,26,Made,1,18,21,39,v,LaRavia 26' 3PT Running Jump Shot (12 PTS) (Pippen Jr. 3 AST),Made Shot,Running Jump Shot,1,3,41
+0022301158,71,PT04M37.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,11,-1,1,Made,1,18,25,43,v,LaRavia 1' Running Dunk (14 PTS) (Pippen Jr. 4 AST),Made Shot,Running Dunk Shot,1,2,50
+0022301158,248,PT05M58.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-140,28,14,Missed,1,,,0,v,MISS LaRavia 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,182
+0022301158,257,PT05M35.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,190
+0022301158,258,PT05M25.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-34,68,8,Missed,1,,,0,v,MISS LaRavia 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,191
+0022301158,277,PT04M13.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,206
+0022301158,283,PT03M40.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,MISS LaRavia Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,210
+0022301158,285,PT03M40.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,41,42,83,v,LaRavia Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,212
+0022301158,287,PT03M22.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia OFF.Foul (P1) (K.Scott),Foul,Offensive,1,0,214
+0022301158,289,PT03M22.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0,215
+0022301158,303,PT02M26.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,127,189,23,Missed,1,,,0,v,MISS LaRavia 23' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,225
+0022301158,314,PT01M27.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia STEAL (1 STL),,,1,0,237
+0022301158,316,PT01M22.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-211,184,28,Made,1,45,48,93,v,LaRavia 28' 3PT Running Jump Shot (18 PTS) (Simpson 1 AST),Made Shot,Running Jump Shot,1,3,238
+0022301158,321,PT00M32.50S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-74,31,8,Missed,1,,,0,v,MISS LaRavia 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,241
+0022301158,328,PT00M07.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-208,199,29,Made,1,46,51,97,v,LaRavia 29' 3PT Step Back Jump Shot (21 PTS) (Simpson 2 AST),Made Shot,Step Back Jump shot,1,3,247
+0022301158,343,PT11M36.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Lost Ball Turnover (P2.T5),Turnover,Lost Ball,1,0,253
+0022301158,360,PT10M29.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,268
+0022301158,361,PT10M24.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,11,277,28,Missed,1,,,0,v,MISS LaRavia 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,269
+0022301158,390,PT07M20.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,55,57,112,v,LaRavia Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,0,293
+0022301158,391,PT07M20.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,55,58,113,v,LaRavia Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0,294
+0022301158,393,PT07M00.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,296
+0022301158,396,PT06M50.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia STEAL (2 STL),,,1,0,300
+0022301158,408,PT06M36.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,57,59,116,v,LaRavia Free Throw Technical (24 PTS),Free Throw,Free Throw Technical,1,0,308
+0022301158,421,PT05M20.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Violation:Kicked Ball (N.Green),Violation,Kicked Ball,0,0,320
+0022301158,431,PT04M48.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0,326
+0022301158,437,PT04M39.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,SUB: Simpson FOR LaRavia,Substitution,,0,0,331
+0022301158,490,PT00M36.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,-148,213,26,Missed,1,,,0,v,MISS LaRavia 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,367
+0022301158,500,PT11M46.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia BLOCK (1 BLK),,,1,2,376
+0022301158,517,PT11M08.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Bad Pass Turnover (P4.T11),Turnover,Bad Pass,1,0,386
+0022301158,521,PT10M58.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-65,273,28,Missed,1,,,0,v,MISS LaRavia 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,390
+0022301158,528,PT10M36.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,8,1,Made,1,80,69,149,v,LaRavia 1' Driving Finger Roll Layup (26 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,396
+0022301158,544,PT09M42.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,224,157,27,Made,1,86,72,158,v,LaRavia 27' 3PT Step Back Jump Shot (29 PTS),Made Shot,Step Back Jump shot,1,3,405
+0022301158,569,PT07M58.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,423
+0022301158,570,PT07M55.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,v,LaRavia Bad Pass Turnover (P5.T14),Turnover,Bad Pass,1,0,424
+0022301158,642,PT02M46.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,228,177,29,Made,1,106,89,195,v,LaRavia 29' 3PT Fadeaway Jumper (32 PTS) (Stevens 3 AST),Made Shot,Fadeaway Jump Shot,1,3,471
+0022301177,9,PT11M19.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,86,237,25,Missed,1,,,0,h,MISS LaRavia 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,4
+0022301177,15,PT10M53.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,9
+0022301177,65,PT06M28.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,52
+0022301177,103,PT03M48.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Simpson FOR LaRavia,Substitution,,0,0,86
+0022301177,170,PT11M37.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,27,34,61,h,LaRavia Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,1,0,129
+0022301177,171,PT11M37.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,28,34,62,h,LaRavia Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,1,0,130
+0022301177,172,PT11M37.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,29,34,63,h,LaRavia Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,1,0,131
+0022301177,185,PT10M25.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia BLOCK (1 BLK),,,1,2,142
+0022301177,196,PT10M00.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,4,1,0,Made,1,32,39,71,h,LaRavia Cutting Dunk Shot (5 PTS) (Simpson 2 AST),Made Shot,Cutting Dunk Shot,1,2,149
+0022301177,215,PT08M41.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-66,46,8,Made,1,34,44,78,h,LaRavia 8' Jump Bank Shot (7 PTS),Made Shot,Jump Bank Shot,1,2,162
+0022301177,224,PT07M31.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-20,21,3,Missed,1,,,0,h,MISS LaRavia 3' Running Layup,Missed Shot,Running Layup Shot,1,2,169
+0022301177,229,PT06M54.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia STEAL (1 STL),,,1,0,174
+0022301177,246,PT06M29.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,28,227,23,Made,1,43,50,93,h,LaRavia 23' Step Back Jump Shot (9 PTS) (Pippen Jr. 2 AST),Made Shot,Step Back Jump shot,1,2,184
+0022301177,264,PT04M33.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-97,229,25,Made,1,52,55,107,h,LaRavia 25' 3PT Step Back Jump Shot (12 PTS),Made Shot,Step Back Jump shot,1,3,194
+0022301177,267,PT04M03.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-26,56,6,Missed,1,,,0,h,MISS LaRavia 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,196
+0022301177,275,PT03M37.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-127,220,25,Made,1,55,60,115,h,LaRavia 25' 3PT Pullup Jump Shot (15 PTS) (Goodwin 1 AST),Made Shot,Pullup Jump shot,1,3,201
+0022301177,307,PT01M29.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,61,63,124,h,LaRavia Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,223
+0022301177,312,PT01M29.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,62,63,125,h,LaRavia Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,226
+0022301177,316,PT01M00.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia P.FOUL (P1.T4) (S.Wall),Foul,Personal,1,0,229
+0022301177,399,PT06M06.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,224,92,24,Made,1,85,77,162,h,LaRavia 24' 3PT Running Jump Shot (20 PTS) (Pippen Jr. 5 AST),Made Shot,Running Jump Shot,1,3,289
+0022301177,408,PT05M34.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,86,78,164,h,LaRavia Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,295
+0022301177,411,PT05M34.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,87,78,165,h,LaRavia Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,297
+0022301177,418,PT05M09.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,88,80,168,h,LaRavia Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0,302
+0022301177,421,PT05M09.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,89,80,169,h,LaRavia Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0,304
+0022301177,443,PT03M05.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Allen FOR LaRavia,Substitution,,0,0,323
+0022301177,461,PT01M45.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,-172,157,23,Missed,1,,,0,h,MISS LaRavia 23' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,338
+0022301177,517,PT10M16.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Offensive Charge Foul (P2) (S.Wall),Foul,Offensive Charge,1,0,375
+0022301177,519,PT10M16.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,1,0,376
+0022301177,527,PT09M25.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-157,202,26,Missed,1,,,0,h,MISS LaRavia 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,382
+0022301177,575,PT06M41.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-5,20,2,Made,1,107,109,216,h,LaRavia 2' Running Dunk (26 PTS) (Pippen Jr. 6 AST),Made Shot,Running Dunk Shot,1,2,424
+0022301177,647,PT01M21.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,479
+0022301177,650,PT01M06.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,117,117,234,h,LaRavia Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,1,0,481
+0022301177,651,PT01M06.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,118,117,235,h,LaRavia Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,1,0,482
+0022301177,656,PT00M15.50S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Personal Take Foul (P3.PN) (S.Twardoski),Foul,Personal Take,1,0,486
+0022301177,672,PT00M03.10S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-235,96,25,Missed,1,,,0,h,MISS LaRavia 25' 3PT Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,3,502
+0022301193,16,PT11M13.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-168,172,24,Missed,1,,,0,h,MISS LaRavia 24' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,3,10
+0022301193,32,PT09M34.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,4,-1,0,Made,1,7,7,14,h,LaRavia Layup (2 PTS) (Jemison 1 AST),Made Shot,Layup Shot,1,2,23
+0022301193,35,PT09M18.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia S.FOUL (P1.T1) (M.Smith),Foul,Shooting,1,0,25
+0022301193,39,PT09M04.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-23,224,23,Missed,1,,,0,h,MISS LaRavia 23' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,28
+0022301193,44,PT08M40.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,33
+0022301193,92,PT04M54.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-11,22,2,Missed,1,,,0,h,MISS LaRavia 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,71
+0022301193,93,PT04M51.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,72
+0022301193,94,PT04M51.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,Made,1,17,18,35,h,LaRavia Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,73
+0022301193,106,PT03M50.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,157,204,26,Missed,1,,,0,h,MISS LaRavia 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,82
+0022301193,110,PT03M25.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,86
+0022301193,116,PT02M45.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,91
+0022301193,281,PT03M38.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-42,94,10,Made,1,49,53,102,h,LaRavia 10' Turnaround Fadeaway (6 PTS) (Simpson 1 AST),Made Shot,Turnaround Fadeaway shot,1,2,218
+0022301193,306,PT02M08.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0,235
+0022301193,318,PT01M14.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,168,198,26,Missed,1,,,0,h,MISS LaRavia 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,245
+0022301193,323,PT00M47.70S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-223,-1,0,Made,1,54,64,118,h,LaRavia 3PT Jump Shot (9 PTS) (Simpson 2 AST),Made Shot,Jump Shot,1,3,249
+0022301193,343,PT11M39.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,-153,190,24,Missed,1,,,0,h,MISS LaRavia 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,260
+0022301193,351,PT10M52.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,268
+0022301193,394,PT06M44.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,-12,10,2,Made,1,58,77,135,h,LaRavia 2' Cutting Layup Shot (11 PTS) (Goodwin 2 AST),Made Shot,Cutting Layup Shot,1,2,304
+0022301193,410,PT05M15.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,59,82,141,h,LaRavia Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,316
+0022301193,411,PT05M15.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,60,82,142,h,LaRavia Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,317
+0022301193,421,PT03M49.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,-189,169,25,Missed,1,,,0,h,MISS LaRavia 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,324
+0022301193,428,PT03M44.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,228,26,0,Missed,1,,,0,h,MISS LaRavia 3PT Jump Shot,Missed Shot,Jump Shot,1,3,328
+0022301193,433,PT03M28.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia S.FOUL (P2.T3) (P.Ransom),Foul,Shooting,1,0,333
+0022301193,450,PT02M04.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,SUB: Simpson FOR LaRavia,Substitution,,0,0,346
+0022301193,491,PT11M42.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,372
+0022301193,492,PT11M39.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,0,373
+0022301193,496,PT11M21.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-151,220,27,Missed,1,,,0,h,MISS LaRavia 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,376
+0022301193,500,PT10M58.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-34,50,6,Made,1,77,96,173,h,LaRavia 6' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,1,2,380
+0022301193,504,PT10M58.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,MISS LaRavia Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,383
+0022301193,518,PT10M02.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia Bad Pass Turnover (P4.T12),Turnover,Bad Pass,1,0,394
+0022301193,525,PT09M08.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,5,18,2,Made,1,80,101,181,h,LaRavia 2' Layup (17 PTS) (Pippen Jr. 3 AST),Made Shot,Layup Shot,1,2,401
+0022301193,531,PT09M08.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,81,101,182,h,LaRavia Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,0,0,404
+0022301193,544,PT07M57.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,185,168,25,Made,1,84,103,187,h,LaRavia 25' 3PT Jump Shot (21 PTS) (Pippen Jr. 4 AST),Made Shot,Jump Shot,1,3,415
+0022301193,557,PT06M34.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,228,32,0,Made,1,89,108,197,h,LaRavia 3PT Jump Shot (24 PTS) (Simpson 3 AST),Made Shot,Jump Shot,1,3,422
+0022301193,568,PT05M22.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,1,71,7,Made,1,93,110,203,h,LaRavia 7' Driving Floating Jump Shot (26 PTS),Made Shot,Driving Floating Jump Shot,1,2,430
+0022301193,627,PT00M51.90S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,100,241,26,Made,1,111,124,235,h,LaRavia 26' 3PT Jump Shot (29 PTS) (Pippen Jr. 7 AST),Made Shot,Jump Shot,1,3,472
+0022301193,633,PT00M36.90S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,,,0,h,LaRavia P.FOUL (P3.PN) (P.Ransom),Foul,Personal,1,0,476

@@ -1,0 +1,1212 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300020,39,PT09M09.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,27
+0022300020,57,PT07M39.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#2),Turnover,Shot Clock Turnover,0,0,42
+0022300020,64,PT07M04.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,47
+0022300020,73,PT06M11.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,53
+0022300020,97,PT04M54.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,72
+0022300020,281,PT03M45.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,206
+0022300020,317,PT00M00.10S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,234
+0022300020,343,PT09M51.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,253
+0022300020,356,PT09M05.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,265
+0022300020,414,PT05M12.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,303
+0022300020,461,PT01M23.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,1,0,334
+0022300020,512,PT09M21.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,372
+0022300020,570,PT05M51.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,412
+0022300020,583,PT04M22.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,423
+0022300020,649,PT00M00.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,474
+0022300033,14,PT10M44.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,1,0,8
+0022300033,29,PT09M37.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,21
+0022300033,33,PT09M25.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,24
+0022300033,35,PT09M23.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#2),Turnover,Shot Clock Turnover,1,0,25
+0022300033,120,PT01M20.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,90
+0022300033,249,PT05M04.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,179
+0022300033,283,PT02M05.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,205
+0022300033,306,PT01M03.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,223
+0022300033,438,PT03M37.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,315
+0022300033,448,PT02M53.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,321
+0022300033,526,PT08M42.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,376
+0022300033,559,PT05M28.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,402
+0022300033,623,PT00M25.70S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,450
+0022300038,74,PT09M06.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Violation: Delay of game Violation,Violation,Delay Of Game,0,0,28
+0022300038,73,PT05M42.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,57
+0022300038,77,PT05M25.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,60
+0022300038,94,PT04M23.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,73
+0022300038,147,PT00M00.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,113
+0022300038,200,PT08M28.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,151
+0022300038,311,PT11M52.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: 8 Second Violation (T#5),Turnover,8 Second Violation,1,0,223
+0022300038,383,PT06M53.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,279
+0022300038,393,PT06M20.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,288
+0022300038,408,PT05M21.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,297
+0022300038,535,PT08M54.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,395
+0022300038,544,PT08M13.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,401
+0022300038,565,PT06M56.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,414
+0022300038,602,PT03M50.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,445
+0022300043,55,PT06M40.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,41
+0022300043,174,PT11M34.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,124
+0022300043,195,PT09M38.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,1,0,140
+0022300043,227,PT07M20.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,164
+0022300043,259,PT05M22.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,191
+0022300043,395,PT06M44.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,289
+0022300043,407,PT05M53.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,298
+0022300043,438,PT03M36.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,321
+0022300043,449,PT03M11.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,327
+0022300043,511,PT10M52.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,370
+0022300043,600,PT04M47.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,438
+0022300043,614,PT03M46.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,450
+0022300043,620,PT03M40.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,1,0,453
+0022300066,66,PT05M41.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,46
+0022300066,141,PT01M38.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,99
+0022300066,144,PT01M38.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#3),Turnover,Shot Clock Turnover,0,0,100
+0022300066,163,PT00M00.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,115
+0022300066,226,PT06M40.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,160
+0022300066,242,PT05M30.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,173
+0022300066,300,PT02M06.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,215
+0022300066,321,PT00M00.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,232
+0022300066,358,PT07M49.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,259
+0022300066,471,PT00M00.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,347
+0022300066,553,PT06M49.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,403
+0022300066,584,PT04M48.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,427
+0022300066,620,PT03M29.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Coach Challenge (Full 5 Short 0),Timeout,Coach Challenge,0,0,451
+0022300066,632,PT03M10.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,457
+0022300066,663,PT00M07.10S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#16),Turnover,Shot Clock Turnover,1,0,485
+0022300086,61,PT06M11.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,45
+0022300086,99,PT03M46.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,74
+0022300086,132,PT00M59.20S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,101
+0022300086,151,PT00M07.30S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,115
+0022300086,232,PT05M12.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,176
+0022300086,256,PT04M01.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,193
+0022300086,266,PT03M15.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,200
+0022300086,358,PT09M00.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Violation: Delay of game Violation,Violation,Delay Of Game,0,0,271
+0022300086,373,PT07M20.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,284
+0022300086,439,PT02M11.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,336
+0022300086,452,PT01M12.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,347
+0022300086,479,PT11M50.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,363
+0022300086,543,PT05M54.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,414
+0022300086,560,PT04M27.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,425
+0022300086,578,PT03M26.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,441
+0022300086,599,PT01M33.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,462
+0022300111,8,PT11M43.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,4
+0022300111,40,PT08M35.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,27
+0022300111,52,PT08M02.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,36
+0022300111,139,PT02M00.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,98
+0022300111,214,PT08M24.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,150
+0022300111,253,PT06M13.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,177
+0022300111,375,PT09M48.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,258
+0022300111,426,PT05M14.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,299
+0022300111,470,PT01M41.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,334
+0022300111,483,PT01M26.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,343
+0022300111,509,PT00M00.10S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,364
+0022300111,583,PT06M27.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,417
+0022300111,597,PT05M22.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,426
+0022300111,607,PT04M18.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,434
+0022300111,646,PT00M20.60S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,464
+0022300111,660,PT00M08.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,474
+0022300111,667,PT00M00.10S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,480
+0022300114,83,PT05M31.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,71
+0022300114,139,PT02M46.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,108
+0022300114,172,PT00M19.60S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,132
+0022300114,317,PT02M56.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,237
+0022300114,407,PT06M57.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,306
+0022300114,426,PT05M20.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,320
+0022300114,441,PT04M10.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,331
+0022300114,451,PT03M48.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,338
+0022300114,471,PT02M34.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,351
+0022300114,496,PT00M48.20S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,366
+0022300114,503,PT00M29.30S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,372
+0022300114,544,PT09M54.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,401
+0022300114,576,PT07M40.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,425
+0022300114,612,PT04M56.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,454
+0022300114,617,PT04M56.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,457
+0022300114,635,PT03M56.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,471
+0022300114,690,PT00M40.20S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,507
+0022300130,269,PT07M44.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,200
+0022300130,448,PT07M49.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,329
+0022300130,494,PT04M00.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,363
+0022300130,571,PT00M00.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,418
+0022300130,612,PT08M51.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,445
+0022300130,618,PT08M13.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,449
+0022300130,668,PT04M25.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,487
+0022300130,695,PT03M22.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,506
+0022300130,709,PT02M26.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Coach Challenge (Reg.4 Short 0),Timeout,Coach Challenge,0,0,518
+0022300130,737,PT00M19.20S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,540
+0022300130,750,PT00M01.30S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,549
+0022300130,761,PT00M00.50S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,556
+0022300134,69,PT07M14.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,53
+0022300134,79,PT06M50.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,60
+0022300134,112,PT04M12.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,85
+0022300134,160,PT01M05.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Violation: Delay of game Violation,Violation,Delay Of Game,0,0,117
+0022300134,211,PT09M24.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,149
+0022300134,298,PT02M43.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,222
+0022300134,355,PT08M53.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,265
+0022300134,398,PT06M31.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,294
+0022300134,421,PT05M03.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,311
+0022300134,422,PT05M03.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,0,312
+0022300134,476,PT02M06.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,354
+0022300134,556,PT08M25.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,413
+0022300134,567,PT07M50.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,421
+0022300134,625,PT04M51.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,468
+0022300134,655,PT03M05.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,489
+0022300147,38,PT09M17.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,30
+0022300147,65,PT06M53.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,51
+0022300147,79,PT06M03.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Violation: Delay of game Violation,Violation,Delay Of Game,0,0,58
+0022300147,91,PT05M04.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,67
+0022300147,110,PT03M59.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,79
+0022300147,161,PT00M05.20S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,114
+0022300147,180,PT11M02.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,124
+0022300147,220,PT07M30.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,153
+0022300147,256,PT05M43.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,175
+0022300147,294,PT03M35.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,202
+0022300147,332,PT00M36.20S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,230
+0022300147,339,PT00M00.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,235
+0022300147,368,PT10M07.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,259
+0022300147,384,PT08M28.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,271
+0022300147,443,PT04M21.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,317
+0022300147,467,PT03M02.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,335
+0022300147,473,PT02M48.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,339
+0022300147,505,PT00M26.30S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,361
+0022300147,526,PT11M33.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,1,0,372
+0022300147,549,PT09M26.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,390
+0022300147,565,PT08M41.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,399
+0022300147,574,PT08M22.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,406
+0022300147,592,PT06M49.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,421
+0022300147,626,PT04M38.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,443
+0022300147,681,PT03M59.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#21),Turnover,Shot Clock Turnover,0,0,450
+0022300147,662,PT01M51.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,473
+0022300172,104,PT04M33.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,80
+0022300172,115,PT04M03.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,87
+0022300172,145,PT02M04.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,111
+0022300172,227,PT09M21.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,178
+0022300172,255,PT07M35.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,197
+0022300172,274,PT06M03.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,212
+0022300172,397,PT11M21.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,294
+0022300172,419,PT09M56.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,312
+0022300172,447,PT07M55.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,335
+0022300172,463,PT06M47.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,348
+0022300172,485,PT04M42.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,366
+0022300172,529,PT02M13.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,395
+0022300172,551,PT00M56.70S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,414
+0022300172,559,PT00M56.70S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,420
+0022300172,561,PT00M36.40S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,422
+0022300172,598,PT10M17.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,450
+0022300172,665,PT05M10.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,495
+0022300173,47,PT08M21.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,35
+0022300173,98,PT04M10.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,72
+0022300173,135,PT02M45.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,96
+0022300173,137,PT02M45.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,97
+0022300173,219,PT08M56.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,154
+0022300173,264,PT06M10.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,185
+0022300173,319,PT03M02.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,225
+0022300173,362,PT00M46.80S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,259
+0022300173,376,PT00M00.90S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,270
+0022300173,469,PT05M21.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,334
+0022300173,483,PT04M52.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,343
+0022300173,509,PT02M45.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,361
+0022300173,561,PT00M26.70S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,400
+0022300173,614,PT08M17.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,432
+0022300173,631,PT07M35.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,442
+0022300173,638,PT06M53.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,448
+0022300173,674,PT04M05.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,474
+0022300173,684,PT03M09.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,1,0,480
+0022300173,713,PT01M11.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#15),Turnover,Shot Clock Turnover,1,0,503
+0022300173,725,PT00M13.60S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#16),Turnover,Shot Clock Turnover,1,0,511
+0022300196,135,PT02M24.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,101
+0022300196,165,PT00M19.60S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,127
+0022300196,181,PT11M36.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,139
+0022300196,286,PT04M30.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,223
+0022300196,289,PT04M30.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Violation: Delay of game Violation,Violation,Delay Of Game,0,0,225
+0022300196,309,PT02M35.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,241
+0022300196,403,PT06M39.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,1,0,314
+0022300196,432,PT04M27.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,339
+0022300196,467,PT02M16.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,361
+0022300196,564,PT06M17.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,432
+0022300196,626,PT01M27.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,477
+0022300196,627,PT01M27.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,0,0,478
+0022300196,637,PT00M56.80S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,486
+0022300196,652,PT00M26.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,498
+0022300196,663,PT00M07.50S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,507
+0022300209,51,PT07M36.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,41
+0022300209,94,PT05M05.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,69
+0022300209,115,PT04M09.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,83
+0022300209,159,PT01M15.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,115
+0022300209,232,PT09M04.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,167
+0022300209,235,PT08M47.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,169
+0022300209,261,PT07M11.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,188
+0022300209,294,PT05M59.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,215
+0022300209,340,PT03M02.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,252
+0022300209,382,PT00M01.50S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,284
+0022300209,433,PT09M10.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,319
+0022300209,531,PT03M01.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,394
+0022300209,575,PT00M00.60S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,428
+0022300209,603,PT09M51.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,448
+0022300209,649,PT06M43.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,481
+0022300209,658,PT06M18.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,489
+0022300209,738,PT00M54.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,545
+0022300209,742,PT00M44.90S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,549
+0022300209,751,PT00M28.40S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,555
+0022300226,53,PT06M39.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,37
+0022300226,59,PT06M26.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,43
+0022300226,156,PT11M48.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,108
+0022300226,228,PT06M38.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,160
+0022300226,289,PT00M59.50S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Coach Challenge (Full 2 Short 0),Timeout,Coach Challenge,0,0,204
+0022300226,417,PT04M17.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,301
+0022300226,445,PT02M38.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,323
+0022300226,460,PT02M12.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,332
+0022300226,464,PT02M12.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,1,0,335
+0022300226,630,PT02M43.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,448
+0022300248,56,PT06M33.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,39
+0022300248,143,PT00M00.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,103
+0022300248,219,PT06M33.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,159
+0022300248,244,PT05M03.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,178
+0022300248,395,PT06M47.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,288
+0022300248,483,PT00M50.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,349
+0022300248,564,PT08M20.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,407
+0022300248,576,PT08M18.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Violation: Delay of game Violation,Violation,Delay Of Game,0,0,414
+0022300248,602,PT06M03.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,435
+0022300248,612,PT05M41.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,443
+0022300248,650,PT02M50.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,473
+0022300248,689,PT00M12.70S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#15),Turnover,Shot Clock Turnover,1,0,503
+0022300259,58,PT06M58.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,42
+0022300259,77,PT05M29.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,57
+0022300259,87,PT04M59.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,64
+0022300259,97,PT04M17.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,71
+0022300259,184,PT09M09.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,129
+0022300259,210,PT07M29.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,149
+0022300259,245,PT05M49.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,176
+0022300259,268,PT04M34.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,190
+0022300259,323,PT00M00.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,234
+0022300259,370,PT08M29.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,269
+0022300259,425,PT03M41.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,313
+0022300259,535,PT08M14.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,389
+0022300259,612,PT03M06.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,445
+0022300259,650,PT00M09.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#19),Turnover,Shot Clock Turnover,1,0,474
+0022300274,63,PT06M58.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,44
+0022300274,140,PT01M31.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,99
+0022300274,145,PT01M31.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Coach Challenge (Full 1 Short 0),Timeout,Coach Challenge,0,0,102
+0022300274,158,PT00M22.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,112
+0022300274,220,PT07M55.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,157
+0022300274,253,PT05M50.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,184
+0022300274,295,PT03M16.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,212
+0022300274,312,PT02M02.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,224
+0022300274,321,PT01M31.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,232
+0022300274,337,PT00M00.10S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,245
+0022300274,396,PT09M13.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,287
+0022300274,482,PT02M33.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,345
+0022300274,485,PT02M33.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,347
+0022300274,565,PT08M51.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,408
+0022300274,581,PT07M38.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,419
+0022300274,619,PT05M04.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,447
+0022300274,642,PT03M16.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,464
+0022300274,647,PT03M00.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#15),Turnover,Shot Clock Turnover,1,0,467
+0022300274,715,PT00M15.20S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,517
+0022300282,62,PT06M39.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,45
+0022300282,75,PT05M38.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,54
+0022300282,93,PT04M20.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,68
+0022300282,135,PT02M43.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,95
+0022300282,140,PT02M36.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,99
+0022300282,206,PT10M20.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,146
+0022300282,211,PT10M10.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,150
+0022300282,302,PT04M58.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,216
+0022300282,353,PT02M50.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,251
+0022300282,514,PT03M30.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,366
+0022300282,566,PT00M00.10S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,401
+0022300282,600,PT10M12.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,421
+0022300282,677,PT04M22.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,474
+0022300294,8,PT11M43.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,4
+0022300294,26,PT09M49.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,20
+0022300294,61,PT07M22.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,48
+0022300294,70,PT06M10.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,1,0,54
+0022300294,83,PT05M33.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,64
+0022300294,190,PT11M00.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,141
+0022300294,230,PT08M04.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,170
+0022300294,244,PT07M01.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,180
+0022300294,356,PT11M40.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,255
+0022300294,383,PT10M01.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,278
+0022300294,406,PT07M50.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,296
+0022300294,438,PT06M18.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,322
+0022300294,490,PT02M42.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#9),Turnover,Shot Clock Turnover,1,0,361
+0022300294,512,PT01M00.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,378
+0022300294,518,PT00M45.60S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,1,0,382
+0022300294,532,PT00M06.40S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,392
+0022300294,533,PT00M06.40S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,1,0,393
+0022300294,581,PT08M26.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,426
+0022300294,611,PT06M39.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,450
+0022300294,612,PT06M39.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,451
+0022300294,625,PT06M03.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,458
+0022300294,679,PT01M19.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,499
+0022300294,689,PT00M53.20S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,508
+0022300329,89,PT05M46.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,67
+0022300329,114,PT04M06.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,84
+0022300329,185,PT10M57.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,132
+0022300329,285,PT03M54.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,202
+0022300329,291,PT03M30.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,206
+0022300329,304,PT02M14.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,216
+0022300329,310,PT01M48.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,221
+0022300329,376,PT09M21.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,267
+0022300329,384,PT08M18.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,275
+0022300329,404,PT07M19.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,288
+0022300329,441,PT04M55.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,322
+0022300329,447,PT04M46.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,327
+0022300329,454,PT04M01.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,334
+0022300329,542,PT11M25.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,386
+0022300329,552,PT10M24.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,394
+0022300329,581,PT07M52.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,411
+0022300344,19,PT10M10.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,1,0,14
+0022300344,51,PT07M28.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,43
+0022300344,117,PT02M59.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,90
+0022300344,170,PT11M30.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,122
+0022300344,214,PT08M18.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,156
+0022300344,218,PT08M07.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,160
+0022300344,279,PT03M06.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,209
+0022300344,405,PT05M18.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,303
+0022300344,448,PT02M28.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,338
+0022300344,464,PT01M35.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,349
+0022300344,479,PT00M00.10S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,360
+0022300344,507,PT08M41.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,381
+0022300344,538,PT06M24.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,405
+0022300344,564,PT05M08.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Coach Challenge (Reg.6 Short 0),Timeout,Coach Challenge,0,0,423
+0022300344,598,PT02M29.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,450
+0022300344,603,PT02M27.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,462
+0022300366,72,PT05M38.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,56
+0022300366,145,PT01M23.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,1,0,106
+0022300366,159,PT00M00.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,117
+0022300366,235,PT06M53.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,163
+0022300366,278,PT03M41.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,195
+0022300366,389,PT06M10.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,272
+0022300366,442,PT02M44.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,310
+0022300366,540,PT09M18.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,356
+0022300366,591,PT03M43.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,1,0,417
+0022300366,600,PT02M14.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,1,0,425
+0022300366,632,PT00M31.50S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,448
+0022300366,651,PT00M00.30S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,463
+0022300378,113,PT02M47.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,83
+0022300378,156,PT11M39.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,114
+0022300378,206,PT07M50.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,151
+0022300378,217,PT06M51.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,158
+0022300378,225,PT06M17.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,163
+0022300378,259,PT04M06.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,186
+0022300378,266,PT03M23.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,192
+0022300378,323,PT11M28.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,235
+0022300378,379,PT06M40.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,279
+0022300378,437,PT03M24.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,317
+0022300378,562,PT07M16.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,416
+0022300378,604,PT04M53.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,445
+0022300378,622,PT03M59.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,459
+0022300378,649,PT01M37.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,479
+0022300378,674,PT00M24.40S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,498
+0022300378,696,PT00M09.40S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,514
+0022300391,10,PT11M25.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,0,0,5
+0022300391,76,PT06M40.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,50
+0022300391,81,PT06M19.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,54
+0022300391,122,PT03M09.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,86
+0022300391,160,PT01M16.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,111
+0022300391,179,PT00M22.70S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,129
+0022300391,236,PT08M38.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,165
+0022300391,392,PT10M06.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,274
+0022300391,409,PT08M26.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,286
+0022300391,453,PT04M22.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,321
+0022300391,622,PT02M46.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,1,0,442
+0022300391,623,PT02M46.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,443
+0022300391,638,PT00M44.90S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,455
+0022300391,650,PT00M12.80S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,463
+0022300407,128,PT01M16.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,97
+0022300407,150,PT00M02.90S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,113
+0022300407,213,PT07M44.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Violation: Delay of game Violation,Violation,Delay Of Game,0,0,159
+0022300407,217,PT07M30.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,163
+0022300407,246,PT06M01.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,179
+0022300407,288,PT03M04.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,211
+0022300407,310,PT01M32.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,227
+0022300407,316,PT01M23.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,231
+0022300407,338,PT00M00.40S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,249
+0022300407,431,PT04M29.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,322
+0022300407,513,PT11M27.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,373
+0022300407,691,PT11M27.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,376
+0022300407,596,PT05M03.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,439
+0022300407,609,PT03M56.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,450
+0022300407,634,PT03M47.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,457
+0022300407,664,PT00M22.80S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,487
+0022300407,669,PT00M17.30S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,491
+0022300415,11,PT11M34.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,5
+0022300415,121,PT02M49.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,95
+0022300415,144,PT01M38.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,112
+0022300415,161,PT00M00.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,125
+0022300415,220,PT07M49.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,169
+0022300415,241,PT06M17.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,185
+0022300415,265,PT05M40.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,193
+0022300415,358,PT09M29.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,270
+0022300415,377,PT07M41.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,285
+0022300415,381,PT07M24.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,288
+0022300415,442,PT03M43.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,331
+0022300415,586,PT05M29.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,439
+0022300415,621,PT02M32.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,463
+0022300415,636,PT01M15.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,475
+0022300429,75,PT09M35.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,23
+0022300429,72,PT05M22.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,55
+0022300429,209,PT06M54.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,156
+0022300429,225,PT06M06.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,168
+0022300429,262,PT03M22.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,198
+0022300429,291,PT02M23.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Violation: Delay of game Violation,Violation,Delay Of Game,0,0,219
+0022300429,298,PT02M15.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,223
+0022300429,417,PT06M57.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,314
+0022300429,460,PT04M12.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,1,0,345
+0022300429,496,PT01M39.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,371
+0022300429,517,PT00M00.10S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,387
+0022300429,543,PT10M35.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,1,0,402
+0022300429,571,PT08M00.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,425
+0022300429,593,PT06M04.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,443
+0022300429,614,PT04M44.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,456
+0022300429,620,PT04M35.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,1,0,460
+0022300429,634,PT03M34.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,1,0,468
+0022300429,652,PT02M52.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,485
+0022300429,678,PT01M02.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,507
+0022300429,684,PT01M02.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,512
+0022300450,9,PT11M42.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,5
+0022300450,47,PT07M35.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,40
+0022300450,139,PT00M00.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,112
+0022300450,152,PT11M21.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,119
+0022300450,195,PT08M24.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,150
+0022300450,221,PT06M39.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,169
+0022300450,293,PT02M52.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,221
+0022300450,312,PT01M03.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,236
+0022300450,316,PT01M03.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,239
+0022300450,380,PT09M20.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,280
+0022300450,390,PT07M45.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,289
+0022300450,532,PT07M09.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,389
+0022300450,578,PT03M46.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,421
+0022300463,38,PT08M50.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,29
+0022300463,61,PT07M11.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,45
+0022300463,67,PT06M47.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,51
+0022300463,68,PT06M47.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#2),Turnover,Shot Clock Turnover,1,0,52
+0022300463,162,PT01M16.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,116
+0022300463,166,PT00M34.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,125
+0022300463,178,PT00M00.10S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,135
+0022300463,278,PT03M55.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,208
+0022300463,332,PT00M24.20S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,248
+0022300463,376,PT09M58.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,281
+0022300463,429,PT06M24.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,318
+0022300463,438,PT06M13.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,323
+0022300463,465,PT04M10.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,343
+0022300463,508,PT00M40.60S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,372
+0022300463,543,PT09M13.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,398
+0022300463,575,PT07M23.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,419
+0022300463,609,PT04M25.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,442
+0022300463,636,PT02M29.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,462
+0022300463,688,PT00M07.20S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,500
+0022300476,64,PT06M45.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,46
+0022300476,90,PT04M29.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,62
+0022300476,95,PT04M22.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,65
+0022300476,140,PT01M02.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,100
+0022300476,200,PT08M31.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,141
+0022300476,222,PT06M49.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Violation: Delay of game Violation,Violation,Delay Of Game,0,0,156
+0022300476,264,PT04M32.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,183
+0022300476,279,PT03M28.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,193
+0022300476,382,PT07M39.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,267
+0022300476,418,PT05M20.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,289
+0022300476,495,PT00M33.30S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,342
+0022300476,593,PT07M04.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,390
+0022300476,663,PT01M20.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#19),Turnover,Shot Clock Turnover,1,0,461
+0022300476,676,PT00M10.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,472
+0022300476,746,PT00M33.70S,5,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,520
+0022300476,764,PT00M17.70S,5,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,526
+0022300476,822,PT04M44.00S,6,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.8 Short 0),Timeout,Regular,0,0,551
+0022300476,873,PT00M04.20S,6,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.9 Short 0),Timeout,Regular,0,0,594
+0022300488,18,PT10M47.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,11
+0022300488,57,PT07M20.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,44
+0022300488,141,PT01M51.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,105
+0022300488,177,PT00M00.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,135
+0022300488,203,PT10M20.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,151
+0022300488,224,PT08M51.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,167
+0022300488,232,PT08M39.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,172
+0022300488,244,PT07M29.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,0,0,181
+0022300488,292,PT04M10.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,217
+0022300488,321,PT01M28.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,238
+0022300488,371,PT09M44.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,270
+0022300488,390,PT08M29.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,287
+0022300488,568,PT06M38.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,409
+0022300488,587,PT05M07.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,424
+0022300488,613,PT03M29.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,444
+0022300488,624,PT02M47.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,454
+0022300488,627,PT02M32.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,457
+0022300499,72,PT05M22.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,52
+0022300499,110,PT03M07.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,0,0,79
+0022300499,130,PT01M25.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,93
+0022300499,142,PT01M03.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,100
+0022300499,151,PT00M35.40S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,108
+0022300499,204,PT09M19.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,144
+0022300499,212,PT08M29.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,151
+0022300499,262,PT05M05.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,188
+0022300499,356,PT10M18.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,259
+0022300499,460,PT02M46.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,342
+0022300499,467,PT02M46.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Violation: Delay of game Violation,Violation,Delay Of Game,0,0,345
+0022300499,543,PT08M28.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,402
+0022300499,597,PT04M59.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,433
+0022300499,608,PT04M59.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Coach Challenge (Full 4 Short 0),Timeout,Coach Challenge,0,0,434
+0022300499,670,PT04M32.00S,5,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,495
+0022300499,671,PT04M32.00S,5,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,0,0,496
+0022300499,693,PT02M54.00S,5,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,513
+0022300499,713,PT01M33.00S,5,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Coach Challenge (Full 4 Short 0),Timeout,Coach Challenge,0,0,530
+0022300513,8,PT11M31.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,4
+0022300513,9,PT11M31.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,0,0,5
+0022300513,40,PT09M08.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,28
+0022300513,236,PT06M14.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,174
+0022300513,238,PT06M14.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,175
+0022300513,264,PT04M55.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,191
+0022300513,267,PT04M39.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,193
+0022300513,288,PT03M05.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,208
+0022300513,317,PT01M28.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,232
+0022300513,374,PT09M34.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,275
+0022300513,407,PT06M36.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,302
+0022300513,551,PT09M26.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,401
+0022300513,625,PT02M27.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,456
+0022300513,635,PT02M27.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,462
+0022300513,643,PT02M03.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,1,0,467
+0022300535,65,PT07M03.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,47
+0022300535,116,PT03M26.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,88
+0022300535,136,PT02M30.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,102
+0022300535,150,PT01M20.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,112
+0022300535,176,PT00M00.10S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,133
+0022300535,221,PT08M02.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,166
+0022300535,236,PT06M46.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,176
+0022300535,323,PT00M00.60S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,236
+0022300535,369,PT07M47.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,266
+0022300535,370,PT07M47.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#9),Turnover,Shot Clock Turnover,1,0,267
+0022300535,432,PT03M12.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,315
+0022300535,440,PT02M48.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,321
+0022300535,444,PT02M24.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,1,0,323
+0022300535,563,PT07M53.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,403
+0022300535,601,PT03M47.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,432
+0022300535,611,PT03M21.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,440
+0022300535,624,PT01M43.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,451
+0022300535,655,PT00M23.10S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,473
+0022300535,662,PT00M18.50S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,476
+0022300535,681,PT00M00.10S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,489
+0022300546,101,PT02M36.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,76
+0022300546,121,PT01M02.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,91
+0022300546,133,PT00M00.10S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,101
+0022300546,172,PT09M58.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,128
+0022300546,180,PT09M47.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,134
+0022300546,201,PT08M12.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,149
+0022300546,224,PT06M24.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,166
+0022300546,246,PT05M48.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,180
+0022300546,324,PT00M35.50S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,242
+0022300546,347,PT10M25.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Violation: Delay of game Violation,Violation,Delay Of Game,0,0,259
+0022300546,376,PT06M28.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,280
+0022300546,400,PT05M22.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: 5 Second Violation (T#12),Turnover,5 Second Violation,1,0,298
+0022300546,424,PT04M07.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,314
+0022300546,511,PT09M58.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,372
+0022300546,571,PT06M51.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,416
+0022300546,603,PT04M08.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,440
+0022300557,41,PT08M51.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,26
+0022300557,56,PT07M29.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,36
+0022300557,151,PT00M26.20S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,106
+0022300557,166,PT11M41.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,115
+0022300557,267,PT04M08.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,189
+0022300557,272,PT03M49.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,192
+0022300557,285,PT02M41.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,199
+0022300557,320,PT00M06.40S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,227
+0022300557,334,PT11M16.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,236
+0022300557,376,PT07M58.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,269
+0022300557,412,PT04M53.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,295
+0022300557,413,PT04M53.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,0,0,296
+0022300557,608,PT01M14.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,438
+0022300570,10,PT11M11.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,7
+0022300570,112,PT03M07.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,90
+0022300570,172,PT10M29.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,133
+0022300570,292,PT02M07.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,222
+0022300570,340,PT10M10.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,256
+0022300570,415,PT02M53.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,314
+0022300570,550,PT05M13.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,414
+0022300570,600,PT01M41.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,453
+0022300585,57,PT06M57.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,43
+0022300585,199,PT09M27.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,151
+0022300585,205,PT09M00.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,155
+0022300585,248,PT05M52.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,187
+0022300585,289,PT03M06.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,215
+0022300585,301,PT01M56.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,225
+0022300585,305,PT01M56.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,228
+0022300585,329,PT00M00.10S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,245
+0022300585,429,PT03M26.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,315
+0022300585,446,PT02M02.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,327
+0022300585,535,PT07M13.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,385
+0022300585,566,PT05M05.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,409
+0022300601,47,PT07M50.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,35
+0022300601,59,PT06M26.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,44
+0022300601,65,PT05M39.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,49
+0022300601,118,PT02M37.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,85
+0022300601,183,PT10M05.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,132
+0022300601,269,PT04M09.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,197
+0022300601,291,PT02M28.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,214
+0022300601,301,PT02M06.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,220
+0022300601,373,PT08M00.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,265
+0022300601,386,PT06M54.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,275
+0022300601,393,PT06M38.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,279
+0022300601,490,PT00M00.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,350
+0022300601,515,PT10M51.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,365
+0022300601,539,PT08M48.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,383
+0022300601,589,PT04M37.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,417
+0022300601,619,PT03M01.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,438
+0022300601,649,PT01M09.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,459
+0022300638,20,PT10M49.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,13
+0022300638,201,PT07M57.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,148
+0022300638,259,PT03M40.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,188
+0022300638,310,PT00M00.50S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,224
+0022300638,356,PT08M23.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,255
+0022300638,409,PT04M37.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,302
+0022300638,464,PT00M41.40S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,336
+0022300638,503,PT10M23.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,363
+0022300638,508,PT10M09.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,367
+0022300638,528,PT08M20.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,382
+0022300638,558,PT06M32.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,403
+0022300638,616,PT01M21.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,451
+0022300638,638,PT00M04.70S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,470
+0022300638,646,PT00M00.90S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,475
+0022300655,115,PT02M45.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,80
+0022300655,131,PT02M08.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,93
+0022300655,233,PT11M18.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,129
+0022300655,202,PT09M10.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,146
+0022300655,206,PT08M56.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#4),Turnover,Shot Clock Turnover,1,0,148
+0022300655,280,PT03M44.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,204
+0022300655,295,PT02M58.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,215
+0022300655,401,PT04M33.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,295
+0022300655,467,PT00M56.80S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,338
+0022300655,503,PT10M35.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,366
+0022300655,530,PT09M17.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,385
+0022300655,535,PT08M43.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,390
+0022300655,551,PT07M52.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,402
+0022300655,552,PT07M52.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#9),Turnover,Shot Clock Turnover,1,0,403
+0022300655,571,PT06M59.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,420
+0022300655,649,PT01M56.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,472
+0022300655,673,PT00M11.30S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,1,0,490
+0022300666,68,PT07M02.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,47
+0022300666,140,PT02M35.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,98
+0022300666,256,PT07M31.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,166
+0022300666,245,PT07M31.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,167
+0022300666,280,PT05M05.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,188
+0022300666,300,PT03M08.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,202
+0022300666,301,PT03M08.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,1,0,203
+0022300666,382,PT07M45.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,265
+0022300666,403,PT06M55.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,281
+0022300666,454,PT02M38.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,318
+0022300666,504,PT11M49.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,351
+0022300666,617,PT02M41.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,433
+0022300666,655,PT00M53.90S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,460
+0022300666,661,PT00M36.10S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,464
+0022300666,690,PT00M10.30S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,484
+0022300666,731,PT00M00.10S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,509
+0022300681,109,PT02M01.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,81
+0022300681,213,PT08M11.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,152
+0022300681,224,PT07M21.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,161
+0022300681,274,PT04M19.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,198
+0022300681,279,PT03M48.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,202
+0022300681,285,PT03M40.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,206
+0022300681,346,PT00M00.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,249
+0022300681,466,PT02M48.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,336
+0022300681,481,PT02M00.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,346
+0022300681,557,PT08M31.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,408
+0022300681,586,PT06M39.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,427
+0022300681,601,PT06M19.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,435
+0022300681,623,PT03M25.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,452
+0022300681,675,PT00M01.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#16),Turnover,Shot Clock Turnover,1,0,494
+0022300694,37,PT08M59.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,28
+0022300694,67,PT06M34.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,50
+0022300694,131,PT02M29.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,90
+0022300694,205,PT08M01.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,143
+0022300694,218,PT06M33.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,154
+0022300694,274,PT02M48.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,190
+0022300694,281,PT02M05.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,196
+0022300694,333,PT09M57.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,240
+0022300694,373,PT06M31.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,273
+0022300694,402,PT04M45.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,292
+0022300694,418,PT03M29.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,1,0,302
+0022300694,443,PT00M03.20S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,324
+0022300694,444,PT00M03.20S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,1,0,325
+0022300694,445,PT00M03.20S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,326
+0022300694,475,PT10M32.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,344
+0022300694,520,PT07M30.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,380
+0022300694,563,PT04M26.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,414
+0022300694,565,PT04M26.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,415
+0022300694,627,PT00M04.20S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,464
+0022300704,26,PT09M27.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,19
+0022300704,40,PT08M13.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,30
+0022300704,67,PT06M44.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,50
+0022300704,88,PT04M49.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,67
+0022300704,137,PT01M27.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,102
+0022300704,158,PT11M41.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,118
+0022300704,283,PT02M36.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,206
+0022300704,293,PT01M16.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,214
+0022300704,297,PT00M57.50S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,218
+0022300704,446,PT02M21.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,322
+0022300704,553,PT05M00.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,390
+0022300704,576,PT03M07.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,410
+0022300704,597,PT01M27.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,426
+0022300704,615,PT00M11.20S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,440
+0022300721,44,PT07M48.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,33
+0022300721,56,PT06M45.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,44
+0022300721,135,PT01M30.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,101
+0022300721,160,PT00M00.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,123
+0022300721,203,PT08M52.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,150
+0022300721,240,PT05M37.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,176
+0022300721,267,PT03M55.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,196
+0022300721,453,PT02M12.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,327
+0022300721,497,PT00M03.10S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,359
+0022300721,527,PT10M05.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,379
+0022300721,566,PT06M14.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,408
+0022300721,573,PT06M03.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,413
+0022300752,27,PT09M43.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,1,0,20
+0022300752,53,PT06M44.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,40
+0022300752,69,PT05M08.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,53
+0022300752,142,PT00M00.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,105
+0022300752,178,PT09M30.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,129
+0022300752,237,PT05M22.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,171
+0022300752,243,PT04M29.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,176
+0022300752,256,PT03M32.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,184
+0022300752,273,PT02M52.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,196
+0022300752,301,PT00M00.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,217
+0022300752,321,PT09M57.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,234
+0022300752,334,PT08M35.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,244
+0022300752,376,PT05M42.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,276
+0022300752,381,PT05M42.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Violation: Delay of game Violation,Violation,Delay Of Game,0,0,279
+0022300752,416,PT02M46.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,306
+0022300752,465,PT00M00.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,343
+0022300752,487,PT10M50.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,355
+0022300752,542,PT06M34.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,397
+0022300752,543,PT06M34.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#15),Turnover,Shot Clock Turnover,1,0,398
+0022300752,608,PT03M52.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,417
+0022300752,644,PT01M43.00S,5,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,478
+0022300752,645,PT01M43.00S,5,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#17),Turnover,Shot Clock Turnover,1,0,479
+0022300752,666,PT00M16.00S,5,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,497
+0022300772,71,PT06M10.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,52
+0022300772,146,PT01M15.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,104
+0022300772,241,PT05M37.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,182
+0022300772,329,PT00M00.20S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,241
+0022300772,354,PT10M52.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,250
+0022300772,388,PT07M42.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,277
+0022300772,399,PT06M57.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,285
+0022300772,438,PT04M14.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,316
+0022300772,496,PT00M29.40S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,1,0,352
+0022300772,540,PT10M03.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,384
+0022300772,564,PT08M22.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,401
+0022300772,573,PT08M02.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,407
+0022300772,646,PT02M23.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,462
+0022300772,676,PT01M44.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,1,0,479
+0022300778,55,PT06M27.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,43
+0022300778,86,PT03M53.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,66
+0022300778,134,PT00M01.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,104
+0022300778,221,PT06M36.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,154
+0022300778,212,PT06M36.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Coach Challenge (Full 1 Short 0),Timeout,Coach Challenge,0,0,155
+0022300778,332,PT07M42.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Violation: Delay of game Violation,Violation,Delay Of Game,0,0,245
+0022300778,379,PT03M49.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,282
+0022300778,383,PT03M12.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,285
+0022300778,432,PT10M32.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,318
+0022300778,465,PT07M58.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,341
+0022300778,532,PT02M50.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Delay,Foul,Delay Technical,0,0,389
+0022300792,129,PT02M23.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,95
+0022300792,168,PT11M06.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,124
+0022300792,223,PT07M03.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,163
+0022300792,291,PT01M09.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,212
+0022300792,340,PT07M31.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,249
+0022300792,362,PT05M32.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,267
+0022300792,440,PT01M29.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,319
+0022300792,521,PT06M56.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,378
+0022300792,556,PT03M56.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,403
+0022300792,558,PT03M56.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,404
+0022300814,58,PT07M09.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,41
+0022300814,112,PT02M59.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,80
+0022300814,151,PT00M01.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,112
+0022300814,265,PT02M29.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,192
+0022300814,365,PT07M37.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,265
+0022300814,414,PT03M14.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,1,0,304
+0022300814,422,PT02M57.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,309
+0022300814,443,PT02M04.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,324
+0022300814,470,PT00M00.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,346
+0022300814,500,PT09M07.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,368
+0022300814,515,PT07M55.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,378
+0022300814,525,PT06M44.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,386
+0022300814,526,PT06M44.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,1,0,387
+0022300814,555,PT04M16.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,1,0,407
+0022300814,578,PT02M24.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,424
+0022300814,595,PT01M36.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,438
+0022300814,609,PT00M17.90S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,449
+0022300814,620,PT00M12.40S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,456
+0022300821,45,PT07M47.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,36
+0022300821,62,PT06M20.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,0,0,47
+0022300821,116,PT02M48.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,91
+0022300821,133,PT02M10.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,100
+0022300821,161,PT00M35.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,123
+0022300821,171,PT00M00.10S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,132
+0022300821,206,PT09M42.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,154
+0022300821,282,PT04M43.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,1,0,212
+0022300821,304,PT02M59.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,229
+0022300821,355,PT10M23.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,260
+0022300821,357,PT10M23.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,262
+0022300821,452,PT02M55.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,335
+0022300821,462,PT02M41.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,341
+0022300821,537,PT08M54.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,396
+0022300821,631,PT00M44.10S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,467
+0022300833,48,PT06M51.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,33
+0022300833,108,PT02M33.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,76
+0022300833,174,PT10M02.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,120
+0022300833,221,PT05M58.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,156
+0022300833,422,PT04M08.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,292
+0022300833,430,PT03M28.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,299
+0022300833,504,PT11M16.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,349
+0022300833,561,PT07M12.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,390
+0022300833,575,PT06M39.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,401
+0022300833,606,PT04M34.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,423
+0022300833,610,PT04M34.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,426
+0022300833,637,PT01M53.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,447
+0022300833,638,PT01M53.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#17),Turnover,Shot Clock Turnover,0,0,448
+0022300833,651,PT00M33.60S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: 8 Second Violation (T#18),Turnover,8 Second Violation,0,0,461
+0022300850,62,PT06M45.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,46
+0022300850,202,PT08M33.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,150
+0022300850,218,PT07M48.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,161
+0022300850,230,PT06M28.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,1,0,168
+0022300850,366,PT08M01.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,1,0,266
+0022300850,383,PT06M28.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,279
+0022300850,473,PT00M00.10S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,347
+0022300850,502,PT09M40.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,364
+0022300850,532,PT06M42.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,388
+0022300850,563,PT04M31.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,410
+0022300874,99,PT04M13.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,70
+0022300874,111,PT03M01.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,81
+0022300874,137,PT02M04.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#3),Turnover,Shot Clock Turnover,1,0,94
+0022300874,255,PT03M53.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,184
+0022300874,307,PT11M40.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,215
+0022300874,313,PT10M51.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,220
+0022300874,415,PT02M44.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,299
+0022300874,455,PT00M00.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,328
+0022300874,492,PT09M07.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,355
+0022300874,557,PT04M22.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,405
+0022300874,572,PT03M13.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,417
+0022300874,588,PT02M57.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,427
+0022300874,613,PT00M15.70S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#22),Turnover,Shot Clock Turnover,0,0,448
+0022300885,104,PT02M34.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,76
+0022300885,196,PT06M45.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,139
+0022300885,204,PT06M30.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,143
+0022300885,225,PT04M58.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,158
+0022300885,357,PT05M44.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,256
+0022300885,442,PT00M00.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,318
+0022300885,542,PT03M02.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,387
+0022300885,569,PT00M41.60S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,406
+0022300885,571,PT00M17.60S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#18),Turnover,Shot Clock Turnover,0,0,407
+0022300894,100,PT03M28.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,69
+0022300894,146,PT00M00.20S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,106
+0022300894,163,PT11M02.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,115
+0022300894,282,PT00M43.80S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,203
+0022300894,346,PT07M42.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,252
+0022300894,368,PT06M08.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,266
+0022300894,413,PT02M53.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,302
+0022300894,513,PT07M16.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,366
+0022300894,563,PT04M16.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,403
+0022300894,575,PT03M14.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,413
+0022300912,10,PT11M34.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,5
+0022300912,11,PT11M34.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,0,0,6
+0022300912,51,PT07M50.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,39
+0022300912,104,PT02M30.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,78
+0022300912,141,PT00M00.60S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,107
+0022300912,168,PT09M44.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,124
+0022300912,185,PT09M13.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,136
+0022300912,207,PT07M34.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,154
+0022300912,263,PT02M20.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,201
+0022300912,271,PT01M57.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,207
+0022300912,275,PT01M47.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,210
+0022300912,317,PT09M55.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,242
+0022300912,373,PT03M34.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,285
+0022300912,431,PT00M01.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,328
+0022300912,460,PT09M39.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,348
+0022300912,464,PT09M04.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,351
+0022300912,494,PT07M33.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,373
+0022300912,501,PT07M06.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,378
+0022300912,547,PT03M13.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,415
+0022300912,580,PT00M37.70S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,438
+0022300928,30,PT09M40.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,23
+0022300928,36,PT08M47.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,0,0,27
+0022300928,41,PT08M26.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,32
+0022300928,98,PT03M40.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,75
+0022300928,150,PT00M00.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,114
+0022300928,168,PT10M51.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,129
+0022300928,262,PT04M29.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,198
+0022300928,286,PT02M46.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,217
+0022300928,322,PT01M02.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,242
+0022300928,363,PT10M03.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,275
+0022300928,410,PT06M43.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,310
+0022300928,448,PT03M44.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,339
+0022300928,541,PT08M48.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,400
+0022300928,545,PT08M48.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,403
+0022300928,565,PT07M45.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,419
+0022300928,673,PT03M17.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,469
+0022300947,24,PT09M51.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,17
+0022300947,77,PT04M26.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,56
+0022300947,83,PT04M15.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,60
+0022300947,107,PT02M36.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,75
+0022300947,181,PT08M32.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,126
+0022300947,207,PT06M57.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,143
+0022300947,236,PT05M45.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,162
+0022300947,300,PT01M31.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,217
+0022300947,304,PT01M31.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,1,0,220
+0022300947,318,PT00M00.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,233
+0022300947,343,PT10M30.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,248
+0022300947,388,PT07M34.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,281
+0022300947,393,PT07M12.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Violation: Delay of game Violation,Violation,Delay Of Game,0,0,285
+0022300947,397,PT07M03.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,288
+0022300947,433,PT05M22.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,316
+0022300947,562,PT07M02.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,407
+0022300947,568,PT06M27.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,411
+0022300947,638,PT01M47.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,460
+0022300947,661,PT00M09.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,1,0,475
+0022300963,59,PT07M11.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,46
+0022300963,146,PT00M09.30S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,112
+0022300963,151,PT00M00.10S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,116
+0022300963,209,PT06M52.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,159
+0022300963,316,PT00M00.10S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,237
+0022300963,362,PT09M32.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,264
+0022300963,398,PT06M02.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,295
+0022300963,420,PT03M47.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,312
+0022300963,472,PT00M11.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,348
+0022300963,476,PT00M00.10S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,351
+0022300963,546,PT06M13.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,402
+0022300963,568,PT04M51.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,416
+0022300963,623,PT00M12.30S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#15),Turnover,Shot Clock Turnover,1,0,459
+0022300979,18,PT10M27.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,12
+0022300979,77,PT05M10.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,57
+0022300979,117,PT01M30.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,86
+0022300979,132,PT00M06.50S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,1,0,99
+0022300979,187,PT09M17.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,132
+0022300979,223,PT06M19.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,156
+0022300979,283,PT00M52.80S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,1,0,202
+0022300979,286,PT00M42.80S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,205
+0022300979,320,PT11M18.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,226
+0022300979,325,PT11M01.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,231
+0022300979,338,PT10M08.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,240
+0022300979,380,PT06M05.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,274
+0022300979,388,PT05M55.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,1,0,279
+0022300979,434,PT02M53.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,312
+0022300979,555,PT06M14.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,398
+0022300979,640,PT00M43.60S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,1,0,455
+0022300979,649,PT00M01.20S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#15),Turnover,Shot Clock Turnover,1,0,463
+0022300991,9,PT10M48.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,1,0,5
+0022300991,44,PT06M26.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,36
+0022300991,46,PT06M26.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,37
+0022300991,156,PT10M13.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,112
+0022300991,197,PT07M15.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,141
+0022300991,213,PT06M40.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,150
+0022300991,355,PT06M20.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,250
+0022300991,374,PT04M20.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,263
+0022300991,426,PT00M00.40S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,300
+0022300991,561,PT00M12.90S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#18),Turnover,Shot Clock Turnover,1,0,406
+0022301004,51,PT07M12.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,41
+0022301004,60,PT06M58.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,48
+0022301004,211,PT07M13.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,150
+0022301004,260,PT03M41.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,184
+0022301004,308,PT00M25.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,217
+0022301004,313,PT00M00.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,222
+0022301004,513,PT10M49.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,1,0,358
+0022301004,515,PT10M38.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,360
+0022301004,533,PT08M44.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,374
+0022301004,590,PT04M30.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,412
+0022301004,623,PT01M51.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,432
+0022301004,643,PT00M10.90S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#15),Turnover,Shot Clock Turnover,1,0,445
+0022301020,67,PT05M33.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,51
+0022301020,171,PT11M30.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,124
+0022301020,229,PT06M50.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,167
+0022301020,336,PT10M44.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,246
+0022301020,440,PT02M19.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,323
+0022301020,511,PT10M09.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,369
+0022301020,525,PT08M57.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,379
+0022301020,562,PT06M08.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,399
+0022301020,592,PT03M54.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,421
+0022301020,617,PT01M07.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Coach Challenge (Full 5 Short 0),Timeout,Coach Challenge,0,0,439
+0022301020,633,PT00M21.20S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,450
+0022301020,649,PT00M02.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,463
+0022301020,655,PT00M00.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,467
+0022301049,56,PT08M24.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,42
+0022301049,79,PT07M02.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,61
+0022301049,121,PT03M41.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,93
+0022301049,135,PT02M59.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,104
+0022301049,204,PT09M57.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,153
+0022301049,229,PT08M12.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,171
+0022301049,294,PT03M51.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,215
+0022301049,409,PT06M39.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,306
+0022301049,449,PT04M56.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,325
+0022301049,441,PT04M56.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,326
+0022301049,467,PT03M12.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,344
+0022301049,476,PT02M34.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,350
+0022301049,569,PT07M41.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,413
+0022301049,579,PT06M57.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,420
+0022301049,606,PT05M08.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,440
+0022301049,642,PT01M56.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,0,0,465
+0022301049,654,PT00M33.80S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,474
+0022301064,15,PT11M06.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,9
+0022301064,20,PT10M47.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,13
+0022301064,51,PT06M54.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,40
+0022301064,63,PT05M31.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,51
+0022301064,140,PT00M21.20S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,106
+0022301064,141,PT00M21.20S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#7),Turnover,Shot Clock Turnover,1,0,107
+0022301064,209,PT08M13.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,149
+0022301064,287,PT02M35.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,207
+0022301064,336,PT09M34.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,244
+0022301064,349,PT08M47.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Violation: Delay of game Violation,Violation,Delay Of Game,0,0,255
+0022301064,353,PT08M29.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,258
+0022301064,414,PT06M58.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Delay,Foul,Delay Technical,0,0,271
+0022301064,424,PT02M30.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,1,0,311
+0022301064,459,PT00M07.50S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,1,0,336
+0022301064,474,PT00M00.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,345
+0022301064,521,PT09M20.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,1,0,372
+0022301064,552,PT07M09.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,1,0,395
+0022301064,557,PT06M56.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,399
+0022301064,573,PT05M08.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,413
+0022301064,601,PT02M42.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,1,0,435
+0022301064,622,PT00M34.40S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,451
+0022301064,631,PT00M05.10S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,457
+0022301064,639,PT00M01.40S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,462
+0022301064,642,PT00M00.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,464
+0022301075,73,PT06M32.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,59
+0022301075,82,PT05M53.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,67
+0022301075,90,PT05M36.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,73
+0022301075,159,PT00M01.40S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,126
+0022301075,216,PT09M22.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,1,0,149
+0022301075,239,PT06M17.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,179
+0022301075,357,PT08M58.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,1,0,275
+0022301075,385,PT06M44.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,296
+0022301075,420,PT02M49.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,322
+0022301075,470,PT11M37.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,354
+0022301075,478,PT11M03.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,359
+0022301075,545,PT06M17.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,409
+0022301075,582,PT02M30.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,438
+0022301090,60,PT06M42.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,46
+0022301090,70,PT06M02.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,52
+0022301090,137,PT01M56.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#3),Turnover,Shot Clock Turnover,0,0,101
+0022301090,244,PT06M35.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,175
+0022301090,384,PT06M42.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,275
+0022301090,429,PT04M02.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,300
+0022301090,422,PT03M47.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,303
+0022301090,426,PT03M47.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,306
+0022301090,501,PT09M12.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,363
+0022301090,548,PT06M12.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,396
+0022301090,626,PT00M30.60S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,448
+0022301109,8,PT11M44.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,4
+0022301109,46,PT07M55.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,34
+0022301109,92,PT04M35.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,71
+0022301109,124,PT02M53.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,94
+0022301109,140,PT01M51.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,105
+0022301109,247,PT05M00.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,178
+0022301109,273,PT02M58.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,192
+0022301109,313,PT00M29.20S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,225
+0022301109,320,PT00M00.40S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,229
+0022301109,375,PT06M49.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,271
+0022301109,480,PT00M03.10S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,349
+0022301109,577,PT04M39.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,414
+0022301109,629,PT00M29.50S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,454
+0022301115,35,PT08M14.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,24
+0022301115,117,PT01M28.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,85
+0022301115,131,PT00M50.70S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,95
+0022301115,186,PT10M07.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,129
+0022301115,301,PT00M11.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,212
+0022301115,313,PT00M00.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,221
+0022301115,369,PT06M59.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,264
+0022301115,428,PT02M04.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,310
+0022301115,454,PT00M00.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,329
+0022301115,530,PT06M15.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,382
+0022301115,559,PT04M15.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,404
+0022301115,576,PT02M53.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,416
+0022301136,51,PT06M41.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,40
+0022301136,102,PT02M59.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,75
+0022301136,180,PT09M32.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,124
+0022301136,231,PT05M48.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,161
+0022301136,239,PT05M24.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,168
+0022301136,285,PT01M40.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,200
+0022301136,341,PT10M00.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,236
+0022301136,375,PT07M41.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,261
+0022301136,382,PT06M55.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,266
+0022301136,412,PT04M41.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,289
+0022301136,425,PT04M02.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,298
+0022301136,546,PT07M37.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,388
+0022301136,551,PT07M31.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,393
+0022301136,561,PT06M49.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,402
+0022301136,623,PT01M29.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,450
+0022301150,63,PT06M19.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,47
+0022301150,211,PT07M58.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,151
+0022301150,430,PT02M50.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,311
+0022301150,441,PT02M26.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,316
+0022301150,442,PT02M26.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,1,0,317
+0022301150,448,PT01M46.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,321
+0022301150,504,PT10M57.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,362
+0022301150,596,PT03M12.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,433
+0022301150,629,PT01M37.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,456
+0022301162,22,PT10M16.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,1,0,16
+0022301162,83,PT04M46.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,63
+0022301162,96,PT04M01.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,72
+0022301162,110,PT03M15.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,81
+0022301162,149,PT00M05.10S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,115
+0022301162,154,PT00M00.10S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,118
+0022301162,204,PT06M52.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,156
+0022301162,314,PT10M55.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,231
+0022301162,325,PT09M57.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,239
+0022301162,344,PT08M38.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,254
+0022301162,370,PT06M53.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,274
+0022301162,377,PT05M57.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,280
+0022301162,414,PT02M50.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,309
+0022301162,503,PT08M32.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,372
+0022301162,508,PT07M52.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,376
+0022301162,603,PT01M31.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,442
+0022301171,21,PT10M55.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,13
+0022301171,66,PT07M17.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,48
+0022301171,197,PT10M09.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,137
+0022301171,234,PT07M45.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,164
+0022301171,275,PT05M31.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,191
+0022301171,312,PT02M43.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,219
+0022301171,314,PT02M43.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,220
+0022301171,353,PT00M00.10S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,254
+0022301171,393,PT08M59.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,280
+0022301171,425,PT06M41.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,307
+0022301171,462,PT04M28.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,336
+0022301171,464,PT04M28.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,337
+0022301171,519,PT00M01.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,377
+0022301171,522,PT00M00.20S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,379
+0022301171,582,PT07M11.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,419
+0022301171,678,PT03M17.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,464
+0022301191,70,PT06M34.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,56
+0022301191,182,PT09M54.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,140
+0022301191,183,PT09M54.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,1,0,141
+0022301191,279,PT02M06.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,212
+0022301191,315,PT11M08.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,240
+0022301191,320,PT10M58.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,244
+0022301191,324,PT10M53.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,246
+0022301191,325,PT10M53.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#9),Turnover,Shot Clock Turnover,1,0,247
+0022301191,353,PT06M47.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,270
+0022301191,366,PT05M27.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,280
+0022301191,419,PT01M12.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,319
+0022301191,448,PT00M00.10S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,339
+0022301191,475,PT09M39.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,359
+0022301191,542,PT05M16.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,404
+0022301191,603,PT00M01.90S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,1,0,451
+0022301205,67,PT05M59.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,51
+0022301205,70,PT05M45.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,54
+0022301205,97,PT04M11.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,1,0,69
+0022301205,99,PT03M58.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,73
+0022301205,147,PT00M00.00S,1,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,109
+0022301205,153,PT11M44.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,114
+0022301205,224,PT07M11.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,167
+0022301205,232,PT06M59.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,0,0,172
+0022301205,265,PT04M55.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,195
+0022301205,309,PT03M16.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,225
+0022301205,329,PT02M24.00S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,238
+0022301205,361,PT00M00.10S,2,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,262
+0022301205,413,PT08M02.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,298
+0022301205,510,PT02M34.00S,3,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,368
+0022301205,577,PT09M45.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,416
+0022301205,589,PT08M08.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Unknown,1,0,426
+0022301205,636,PT04M23.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Rebound,Rebound,Normal Rebound,0,0,461
+0022301205,652,PT03M16.00S,4,0,,1610612753,,,0,0,0,,0,,,0,v,Magic Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,474
+0022301217,65,PT05M36.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,44
+0022301217,86,PT03M34.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,62
+0022301217,105,PT03M01.00S,1,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,0,0,72
+0022301217,242,PT05M17.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,173
+0022301217,278,PT02M05.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,201
+0022301217,288,PT01M27.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,1,0,210
+0022301217,311,PT00M00.00S,2,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,227
+0022301217,395,PT04M22.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,291
+0022301217,415,PT03M14.00S,3,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,307
+0022301217,544,PT05M29.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,398
+0022301217,595,PT02M23.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Unknown,1,0,432
+0022301217,617,PT00M48.50S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,450
+0022301217,621,PT00M12.00S,4,0,,1610612753,,,0,0,0,,0,,,0,h,MAGIC Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,1,0,454

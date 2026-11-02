@@ -1,0 +1,568 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300007,11,PT11M35.00S,1,1610612763,MEM,203935,Smart,M. Smart,-1,136,14,Made,1,0,2,2,v,Smart 14' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,1,2,5
+0022300007,86,PT04M47.00S,1,1610612763,MEM,203935,Smart,M. Smart,-82,162,18,Made,1,18,20,38,v,Smart 18' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,0,2,62
+0022300007,168,PT03M40.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,72
+0022300007,103,PT03M19.00S,1,1610612763,MEM,203935,Smart,M. Smart,-147,238,28,Missed,1,,,0,v,MISS Smart 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,3,75
+0022300007,134,PT02M21.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Jackson Jr. FOR Smart,Substitution,,0,0,99
+0022300007,179,PT00M00.00S,1,1610612763,MEM,203935,Smart,M. Smart,185,382,42,Missed,1,,,0,v,MISS Smart 42' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,128
+0022300007,285,PT04M57.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,202
+0022300007,289,PT04M28.00S,2,1610612763,MEM,203935,Smart,M. Smart,146,215,26,Missed,1,,,0,v,MISS Smart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,206
+0022300007,304,PT03M40.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Lost Ball Turnover (P3.T6),Turnover,Lost Ball,1,0,218
+0022300007,322,PT02M34.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,230
+0022300007,323,PT02M34.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,Missed,1,,,0,v,MISS Smart Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,231
+0022300007,325,PT02M27.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart S.FOUL (P1.T4) (B.Nansel),Foul,Shooting,1,0,233
+0022300007,336,PT01M26.00S,2,1610612763,MEM,203935,Smart,M. Smart,-12,43,4,Made,1,52,53,105,v,Smart 4' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,1,2,241
+0022300007,341,PT00M58.70S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,244
+0022300007,346,PT00M29.90S,2,1610612763,MEM,203935,Smart,M. Smart,9,83,8,Missed,1,,,0,v,MISS Smart 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,249
+0022300007,351,PT00M00.30S,2,1610612763,MEM,203935,Smart,M. Smart,211,185,28,Missed,1,,,0,v,MISS Smart 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,252
+0022300007,367,PT11M08.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Bad Pass Turnover (P4.T7),Turnover,Bad Pass,1,0,260
+0022300007,401,PT07M55.00S,3,1610612763,MEM,203935,Smart,M. Smart,124,222,25,Missed,1,,,0,v,MISS Smart 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,287
+0022300007,604,PT05M49.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,431
+0022300007,711,PT04M44.00S,5,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart STEAL (1 STL),,,1,0,507
+0022300007,720,PT03M20.00S,5,1610612763,MEM,203935,Smart,M. Smart,7,4,1,Missed,1,,,0,v,MISS Smart 1' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,514
+0022300007,732,PT01M52.00S,5,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart P.FOUL (P2.T1) (J.Capers),Foul,Personal,1,0,528
+0022300007,753,PT00M15.30S,5,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Bad Pass Turnover (P5.T17),Turnover,Bad Pass,1,0,544
+0022300007,759,PT00M06.70S,5,1610612763,MEM,203935,Smart,M. Smart,-7,-4,1,Made,1,115,110,225,v,Smart 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,549
+0022300012,33,PT08M43.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,10,6,16,h,Smart Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,24
+0022300012,34,PT08M43.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,11,6,17,h,Smart Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,25
+0022300012,48,PT07M19.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart S.FOUL (P1.T2) (J.Butler),Foul,Shooting,1,0,38
+0022300012,56,PT07M05.00S,1,1610612763,MEM,203935,Smart,M. Smart,89,251,27,Missed,1,,,0,h,MISS Smart 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,43
+0022300012,67,PT05M55.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,51
+0022300012,86,PT05M09.00S,1,1610612763,MEM,203935,Smart,M. Smart,-158,205,26,Missed,1,,,0,h,MISS Smart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,64
+0022300012,89,PT04M38.00S,1,1610612763,MEM,203935,Smart,M. Smart,18,104,11,Missed,1,,,0,h,MISS Smart 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,67
+0022300012,96,PT04M25.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Lofton Jr. FOR Smart,Substitution,,0,0,74
+0022300012,222,PT06M27.00S,2,1610612763,MEM,203935,Smart,M. Smart,-70,91,11,Made,1,49,57,106,h,Smart 11' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,160
+0022300012,232,PT05M44.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart P.FOUL (P2.T2) (D.Collins),Foul,Personal,1,0,166
+0022300012,252,PT04M31.00S,2,1610612763,MEM,203935,Smart,M. Smart,207,147,25,Missed,1,,,0,h,MISS Smart 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,181
+0022300012,263,PT03M29.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,191
+0022300012,323,PT03M11.00S,2,1610612763,MEM,203935,Smart,M. Smart,-94,101,14,Missed,1,,,0,h,MISS Smart 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,194
+0022300012,278,PT02M49.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart P.FOUL (P3.PN) (J.Butler),Foul,Personal,1,0,203
+0022300012,281,PT02M49.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Gilyard FOR Smart,Substitution,,0,0,205
+0022300012,347,PT08M49.00S,3,1610612763,MEM,203935,Smart,M. Smart,178,197,27,Missed,1,,,0,h,MISS Smart 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,250
+0022300012,375,PT06M53.00S,3,1610612763,MEM,203935,Smart,M. Smart,-9,6,1,Made,1,76,88,164,h,Smart 1' Driving Reverse Layup (6 PTS),Made Shot,Driving Reverse Layup Shot,1,2,271
+0022300012,386,PT05M43.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Kennard FOR Smart,Substitution,,0,0,282
+0022300012,515,PT10M34.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart P.FOUL (P4.T2) (K.Lane),Foul,Personal,1,0,379
+0022300012,517,PT10M23.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart BLOCK (1 BLK),,,1,2,381
+0022300012,546,PT08M55.00S,4,1610612763,MEM,203935,Smart,M. Smart,-43,22,5,Made,1,104,105,209,h,Smart 5' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,2,400
+0022300012,556,PT07M55.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart P.FOUL (P5.PN) (K.Lane),Foul,Personal,1,0,407
+0022300012,579,PT05M49.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart L.B.FOUL (P6.PN) (J.Butler),Foul,Loose Ball,1,0,426
+0022300012,581,PT05M49.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Gilyard FOR Smart,Substitution,,0,0,427
+0022300026,14,PT11M05.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+0022300026,19,PT10M17.00S,1,1610612763,MEM,203935,Smart,M. Smart,31,148,15,Missed,1,,,0,v,MISS Smart 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,12
+0022300026,24,PT09M42.00S,1,1610612763,MEM,203935,Smart,M. Smart,-232,9,0,Made,1,5,6,11,v,Smart 3PT Jump Shot (3 PTS) (Biyombo 1 AST),Made Shot,Jump Shot,1,3,17
+0022300026,76,PT05M46.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart BLOCK (1 BLK),,,1,2,58
+0022300026,87,PT05M12.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart STEAL (1 STL),,,1,0,66
+0022300026,111,PT04M06.00S,1,1610612763,MEM,203935,Smart,M. Smart,-124,222,25,Missed,1,,,0,v,MISS Smart 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,81
+0022300026,121,PT03M35.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Williams FOR Smart,Substitution,,0,0,91
+0022300071,23,PT10M29.00S,1,1610612763,MEM,203935,Smart,M. Smart,-137,231,27,Made,1,8,4,12,h,Smart 27' 3PT Jump Shot (3 PTS) (Tillman 1 AST),Made Shot,Jump Shot,1,3,16
+0022300071,41,PT09M07.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart P.FOUL (P1.T3) (D.Scott),Foul,Personal,1,0,30
+0022300071,46,PT08M42.00S,1,1610612763,MEM,203935,Smart,M. Smart,125,216,25,Missed,1,,,0,h,MISS Smart 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,33
+0022300071,99,PT05M17.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,18,16,34,h,Smart Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,70
+0022300071,100,PT05M17.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,MISS Smart Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,71
+0022300071,107,PT04M15.00S,1,1610612763,MEM,203935,Smart,M. Smart,-6,91,9,Made,1,20,18,38,h,Smart 9' Driving Floating Jump Shot (6 PTS) (Kennard 1 AST),Made Shot,Driving Floating Jump Shot,1,2,78
+0022300071,111,PT04M04.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Rose FOR Smart,Substitution,,0,0,81
+0022300071,255,PT06M56.00S,2,1610612763,MEM,203935,Smart,M. Smart,26,122,12,Made,1,35,41,76,h,Smart 12' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,1,2,183
+0022300071,266,PT06M34.00S,2,1610612763,MEM,203935,Smart,M. Smart,23,17,3,Missed,1,,,0,h,MISS Smart 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,189
+0022300071,278,PT05M34.00S,2,1610612763,MEM,203935,Smart,M. Smart,103,239,26,Missed,1,,,0,h,MISS Smart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,197
+0022300071,295,PT04M26.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,211
+0022300071,317,PT02M18.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Jump Ball Smart vs. Ingram: Tip to Tillman,Jump Ball,,1,0,227
+0022300071,320,PT02M18.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart STEAL (1 STL),,,1,0,229
+0022300071,331,PT01M22.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Lost Ball Turnover (P2.T5),Turnover,Lost Ball,1,0,236
+0022300071,333,PT01M22.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart P.FOUL (P2.T2) (R.Mott),Foul,Personal,1,0,238
+0022300071,346,PT00M05.80S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart S.FOUL (P3.PN) (C.Kirkland),Foul,Shooting,1,0,249
+0022300071,350,PT00M05.80S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Rose FOR Smart,Substitution,,0,0,252
+0022300071,384,PT10M00.00S,3,1610612763,MEM,203935,Smart,M. Smart,-27,10,3,Made,1,51,59,110,h,Smart 3' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,274
+0022300071,414,PT07M03.00S,3,1610612763,MEM,203935,Smart,M. Smart,-129,216,25,Missed,1,,,0,h,MISS Smart 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,298
+0022300071,420,PT06M29.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart STEAL (2 STL),,,1,0,305
+0022300071,422,PT06M27.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Out of Bounds - Bad Pass Turnover Turnover (P3.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,306
+0022300071,447,PT05M04.00S,3,1610612763,MEM,203935,Smart,M. Smart,69,96,12,Made,1,60,71,131,h,Smart 12' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,1,2,323
+0022300071,462,PT03M08.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart T.FOUL (P3.T3) (C.Kirkland),Foul,Technical,1,0,337
+0022300071,468,PT03M08.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR Smart,Substitution,,0,0,341
+0022300071,585,PT07M35.00S,4,1610612763,MEM,203935,Smart,M. Smart,181,176,25,Made,1,84,97,181,h,Smart 25' 3PT Jump Shot (15 PTS) (Bane 5 AST),Made Shot,Jump Shot,1,3,422
+0022300071,590,PT07M08.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Out of Bounds - Bad Pass Turnover Turnover (P4.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,426
+0022300071,598,PT06M48.00S,4,1610612763,MEM,203935,Smart,M. Smart,145,211,26,Missed,1,,,0,h,MISS Smart 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,432
+0022300071,607,PT06M17.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Lost Ball Turnover (P5.T12),Turnover,Lost Ball,1,0,439
+0022300071,662,PT02M45.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,96,111,207,h,Smart Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,480
+0022300071,663,PT02M45.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,MISS Smart Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,481
+0022300071,675,PT01M56.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,MISS Smart Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,489
+0022300071,677,PT01M56.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,100,111,211,h,Smart Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,491
+0022300078,13,PT11M12.00S,1,1610612763,MEM,203935,Smart,M. Smart,91,153,18,Missed,1,,,0,h,MISS Smart 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,9
+0022300078,20,PT10M21.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart P.FOUL (P1.T1) (S.Mitchell),Foul,Personal,1,0,15
+0022300078,45,PT08M12.00S,1,1610612763,MEM,203935,Smart,M. Smart,235,58,24,Missed,1,,,0,h,MISS Smart 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,34
+0022300078,51,PT07M43.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart STEAL (1 STL),,,1,0,40
+0022300078,83,PT06M19.00S,1,1610612763,MEM,203935,Smart,M. Smart,-59,29,7,Missed,1,,,0,h,MISS Smart 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,65
+0022300078,114,PT04M08.00S,1,1610612763,MEM,203935,Smart,M. Smart,100,221,24,Made,1,9,13,22,h,Smart 24' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,91
+0022300078,126,PT02M56.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR Smart,Substitution,,0,0,99
+0022300078,285,PT04M33.00S,2,1610612763,MEM,203935,Smart,M. Smart,83,51,10,Made,1,40,45,85,h,Smart 10' Fadeaway Bank Shot (5 PTS),Made Shot,Fadeaway Bank shot,1,2,212
+0022300078,308,PT03M39.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,229
+0022300078,309,PT03M33.00S,2,1610612763,MEM,203935,Smart,M. Smart,-191,157,25,Made,1,45,49,94,h,Smart 25' 3PT Jump Shot (8 PTS) (Rose 1 AST),Made Shot,Jump Shot,1,3,230
+0022300078,337,PT02M06.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart P.FOUL (P2.PN) (E.Malloy),Foul,Personal,1,0,248
+0022300078,347,PT01M36.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,256
+0022300078,350,PT01M34.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,51,56,107,h,Smart Free Throw 1 of 3 (9 PTS),Free Throw,Free Throw 1 of 3,1,0,258
+0022300078,351,PT01M34.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,52,56,108,h,Smart Free Throw 2 of 3 (10 PTS),Free Throw,Free Throw 2 of 3,1,0,259
+0022300078,352,PT01M34.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,53,56,109,h,Smart Free Throw 3 of 3 (11 PTS),Free Throw,Free Throw 3 of 3,1,0,260
+0022300078,356,PT00M45.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart STEAL (2 STL),,,1,0,265
+0022300078,370,PT00M03.10S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart STEAL (3 STL),,,1,0,275
+0022300078,372,PT00M01.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,276
+0022300078,387,PT11M42.00S,3,1610612763,MEM,203935,Smart,M. Smart,69,239,25,Made,1,59,61,120,h,Smart 25' 3PT Running Jump Shot (14 PTS) (Jackson Jr. 2 AST),Made Shot,Running Jump Shot,1,3,283
+0022300078,416,PT09M09.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart STEAL (4 STL),,,1,0,307
+0022300078,418,PT09M04.00S,3,1610612763,MEM,203935,Smart,M. Smart,10,13,2,Made,1,61,66,127,h,Smart 2' Running Reverse Layup (16 PTS),Made Shot,Running Reverse Layup Shot,1,2,308
+0022300078,433,PT07M09.00S,3,1610612763,MEM,203935,Smart,M. Smart,212,128,25,Missed,1,,,0,h,MISS Smart 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,320
+0022300078,445,PT06M17.00S,3,1610612763,MEM,203935,Smart,M. Smart,20,74,8,Made,1,68,71,139,h,Smart 8' Driving Floating Jump Shot (18 PTS),Made Shot,Driving Floating Jump Shot,1,2,329
+0022300078,467,PT04M41.00S,3,1610612763,MEM,203935,Smart,M. Smart,-77,264,28,Missed,1,,,0,h,MISS Smart 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,342
+0022300078,481,PT03M42.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Rose FOR Smart,Substitution,,0,0,351
+0022300078,633,PT06M17.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart OFF.Foul (P3) (S.Mitchell),Foul,Offensive,1,0,462
+0022300078,635,PT06M17.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Offensive Foul Turnover (P2.T18),Turnover,Offensive Foul Turnover,1,0,463
+0022300078,656,PT04M09.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart STEAL (5 STL),,,1,0,480
+0022300078,669,PT03M18.00S,4,1610612763,MEM,203935,Smart,M. Smart,-232,1,0,Missed,1,,,0,h,MISS Smart 3PT Jump Shot,Missed Shot,Jump Shot,1,3,489
+0022300078,692,PT00M44.20S,4,1610612763,MEM,203935,Smart,M. Smart,81,112,14,Made,1,104,105,209,h,Smart 14' Driving Floating Jump Shot (20 PTS),Made Shot,Driving Floating Jump Shot,1,2,508
+0022300089,79,PT06M21.00S,1,1610612763,MEM,203935,Smart,M. Smart,-7,101,10,Made,1,8,9,17,v,Smart 10' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,64
+0022300089,84,PT05M51.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,69
+0022300089,109,PT04M01.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Roddy FOR Smart,Substitution,,0,0,87
+0022300089,286,PT04M15.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,208
+0022300089,288,PT04M12.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,209
+0022300089,344,PT00M08.80S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart BLOCK (1 BLK),,,1,2,246
+0022300089,356,PT11M49.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart P.FOUL (P1.T1) (M.Dagher),Foul,Personal,1,0,254
+0022300089,375,PT09M51.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart BLOCK (2 BLK),,,1,2,269
+0022300089,396,PT08M29.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart STEAL (1 STL),,,1,0,287
+0022300089,449,PT05M00.00S,3,1610612763,MEM,203935,Smart,M. Smart,192,40,20,Made,1,85,69,154,v,Smart 20' Jump Shot (4 PTS) (Bane 4 AST),Made Shot,Jump Shot,1,2,323
+0022300089,454,PT04M23.00S,3,1610612763,MEM,203935,Smart,M. Smart,-20,262,26,Made,1,87,72,159,v,Smart 26' 3PT Pullup Jump Shot (7 PTS) (Tillman 3 AST),Made Shot,Pullup Jump shot,1,3,327
+0022300089,458,PT03M49.00S,3,1610612763,MEM,203935,Smart,M. Smart,20,277,28,Missed,1,,,0,v,MISS Smart 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,330
+0022300089,471,PT03M11.00S,3,1610612763,MEM,203935,Smart,M. Smart,-67,257,27,Missed,1,,,0,v,MISS Smart 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,338
+0022300089,476,PT02M32.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,343
+0022300089,487,PT01M44.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: LaRavia FOR Smart,Substitution,,0,0,354
+0022300089,599,PT06M17.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,429
+0022300089,612,PT05M05.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart STEAL (2 STL),,,1,0,441
+0022300089,624,PT04M37.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,447
+0022300089,631,PT04M07.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart P.FOUL (P2.T4) (A.Smith),Foul,Personal,1,0,451
+0022300089,646,PT02M35.00S,4,1610612763,MEM,203935,Smart,M. Smart,40,274,28,Missed,1,,,0,v,MISS Smart 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,463
+0022300089,651,PT01M50.00S,4,1610612763,MEM,203935,Smart,M. Smart,13,115,12,Made,1,107,101,208,v,Smart 12' Driving Floating Jump Shot (9 PTS) (Jackson Jr. 2 AST),Made Shot,Driving Floating Jump Shot,1,2,468
+0022300089,662,PT01M16.00S,4,1610612763,MEM,203935,Smart,M. Smart,-186,218,29,Missed,1,,,0,v,MISS Smart 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,472
+0022300106,19,PT10M48.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,13
+0022300106,20,PT10M47.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Step Out of Bounds Turnover (P1.T1),Turnover,Step Out of Bounds Turnover,1,0,14
+0022300106,22,PT10M21.00S,1,1610612763,MEM,203935,Smart,M. Smart,-56,114,13,Missed,1,,,0,h,MISS Smart 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,16
+0022300106,33,PT09M07.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Out of Bounds - Bad Pass Turnover Turnover (P2.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,23
+0022300106,39,PT08M28.00S,1,1610612763,MEM,203935,Smart,M. Smart,-102,225,25,Made,1,9,11,20,h,Smart 25' 3PT Jump Shot (3 PTS) (Jackson Jr. 1 AST),Made Shot,Jump Shot,1,3,28
+0022300106,48,PT07M27.00S,1,1610612763,MEM,203935,Smart,M. Smart,125,226,26,Missed,1,,,0,h,MISS Smart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,35
+0022300106,51,PT07M00.00S,1,1610612763,MEM,203935,Smart,M. Smart,206,137,25,Missed,1,,,0,h,MISS Smart 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,38
+0022300106,81,PT05M48.00S,1,1610612763,MEM,203935,Smart,M. Smart,23,247,25,Missed,1,,,0,h,MISS Smart 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,59
+0022300106,90,PT05M31.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart OFF.Foul (P1) (E.Dalen),Foul,Offensive,1,0,65
+0022300106,92,PT05M31.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Offensive Foul Turnover (P3.T3),Turnover,Offensive Foul Turnover,1,0,66
+0022300106,118,PT03M34.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,87
+0022300106,119,PT03M34.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,Made,1,20,19,39,h,Smart Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,1,2,88
+0022300106,125,PT02M35.00S,1,1610612763,MEM,203935,Smart,M. Smart,232,19,0,Made,1,26,25,51,h,Smart 3PT Jump Shot (8 PTS) (Roddy 1 AST),Made Shot,Jump Shot,1,3,92
+0022300106,129,PT02M00.00S,1,1610612763,MEM,203935,Smart,M. Smart,-103,227,25,Missed,1,,,0,h,MISS Smart 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,94
+0022300106,136,PT01M14.00S,1,1610612763,MEM,203935,Smart,M. Smart,230,80,24,Missed,1,,,0,h,MISS Smart 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,101
+0022300106,140,PT00M40.30S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Bad Pass Turnover (P4.T4),Turnover,Bad Pass,1,0,105
+0022300106,145,PT00M01.80S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart STEAL (1 STL),,,1,0,111
+0022300106,282,PT04M49.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,202
+0022300106,283,PT04M41.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Out of Bounds - Bad Pass Turnover Turnover (P5.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,203
+0022300106,319,PT01M41.00S,2,1610612763,MEM,203935,Smart,M. Smart,4,250,25,Made,1,55,58,113,h,Smart 25' 3PT Jump Shot (11 PTS) (Bane 2 AST),Made Shot,Jump Shot,1,3,231
+0022300106,337,PT00M02.40S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart STEAL (2 STL),,,1,0,244
+0022300106,359,PT10M50.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart P.FOUL (P2.T1) (M.Ervin),Foul,Personal,1,0,257
+0022300106,405,PT07M35.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart OFF.Foul (P3) (M.Ervin),Foul,Offensive,1,0,294
+0022300106,407,PT07M35.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Offensive Foul Turnover (P6.T7),Turnover,Offensive Foul Turnover,1,0,295
+0022300106,411,PT07M22.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,298
+0022300106,416,PT06M55.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart STEAL (3 STL),,,1,0,303
+0022300106,421,PT06M31.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,307
+0022300106,432,PT05M28.00S,3,1610612763,MEM,203935,Smart,M. Smart,91,238,25,Made,1,78,80,158,h,Smart 25' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,3,316
+0022300106,435,PT04M58.00S,3,1610612763,MEM,203935,Smart,M. Smart,7,28,3,Made,1,80,83,163,h,Smart 3' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,1,2,318
+0022300106,458,PT03M46.00S,3,1610612763,MEM,203935,Smart,M. Smart,-18,21,3,Made,1,82,85,167,h,Smart 3' Driving Floating Bank Jump Shot (18 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,335
+0022300106,466,PT03M10.00S,3,1610612763,MEM,203935,Smart,M. Smart,-10,191,19,Made,1,84,85,169,h,Smart 19' Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,1,2,339
+0022300106,472,PT02M21.00S,3,1610612763,MEM,203935,Smart,M. Smart,21,54,6,Missed,1,,,0,h,MISS Smart 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,345
+0022300106,483,PT01M45.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Williams FOR Smart,Substitution,,0,0,354
+0022300106,598,PT05M42.00S,4,1610612763,MEM,203935,Smart,M. Smart,-135,230,27,Made,1,103,110,213,h,Smart 27' 3PT Jump Shot (23 PTS) (Jackson Jr. 4 AST),Made Shot,Jump Shot,1,3,438
+0022300106,624,PT02M53.00S,4,1610612763,MEM,203935,Smart,M. Smart,64,226,23,Missed,1,,,0,h,MISS Smart 23' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,459
+0022300106,630,PT01M58.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart P.FOUL (P4.T2) (E.Dalen),Foul,Personal,1,0,465
+0022300106,632,PT01M51.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart P.FOUL (P5.PN) (E.Dalen),Foul,Personal,1,0,466
+0022300106,653,PT00M38.10S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart P.FOUL (P6.PN) (M.Ervin),Foul,Personal,1,0,483
+0022300106,655,PT00M38.10S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: LaRavia FOR Smart,Substitution,,0,0,484
+0022300125,18,PT10M45.00S,1,1610612763,MEM,203935,Smart,M. Smart,225,83,24,Missed,1,,,0,v,MISS Smart 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,11
+0022300125,44,PT09M20.00S,1,1610612763,MEM,203935,Smart,M. Smart,78,244,26,Missed,1,,,0,v,MISS Smart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,32
+0022300125,53,PT08M12.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,39
+0022300125,79,PT05M58.00S,1,1610612763,MEM,203935,Smart,M. Smart,56,122,13,Missed,1,,,0,v,MISS Smart 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,57
+0022300125,96,PT04M22.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,70
+0022300125,110,PT03M36.00S,1,1610612763,MEM,203935,Smart,M. Smart,-2,47,5,Made,1,24,14,38,v,Smart 5' Alley Oop Layup (2 PTS) (Kennard 1 AST),Made Shot,Alley Oop Layup shot,1,2,81
+0022300125,121,PT02M58.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Gilyard FOR Smart,Substitution,,0,0,90
+0022300125,210,PT08M28.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Lost Ball Turnover (P3.T6),Turnover,Lost Ball,1,0,148
+0022300125,211,PT08M28.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart L.B.FOUL (P1.T2) (T.Brothers),Foul,Loose Ball,1,0,149
+0022300125,213,PT08M20.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart STEAL (1 STL),,,1,0,151
+0022300125,219,PT07M49.00S,2,1610612763,MEM,203935,Smart,M. Smart,58,258,26,Missed,1,,,0,v,MISS Smart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,155
+0022300125,221,PT07M40.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart P.FOUL (P2.T3) (J.Van Duyne),Foul,Personal,1,0,157
+0022300125,230,PT07M09.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart STEAL (2 STL),,,1,0,165
+0022300125,276,PT04M29.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,60,38,98,v,Smart Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,197
+0022300125,277,PT04M29.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,60,39,99,v,Smart Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,198
+0022300125,293,PT03M42.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Bad Pass Turnover (P4.T8),Turnover,Bad Pass,1,0,211
+0022300125,308,PT03M06.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart STEAL (3 STL),,,1,0,222
+0022300125,328,PT01M48.00S,2,1610612763,MEM,203935,Smart,M. Smart,-214,144,26,Missed,1,,,0,v,MISS Smart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,237
+0022300125,345,PT00M47.40S,2,1610612763,MEM,203935,Smart,M. Smart,-216,191,29,Missed,1,,,0,v,MISS Smart 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,250
+0022300125,349,PT00M11.90S,2,1610612763,MEM,203935,Smart,M. Smart,130,228,26,Made,1,78,46,124,v,Smart 26' 3PT Jump Shot (7 PTS) (Lofton Jr. 1 AST),Made Shot,Jump Shot,1,3,253
+0022300125,351,PT00M05.80S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart P.FOUL (P3.PN) (J.Van Duyne),Foul,Personal,1,0,254
+0022300125,376,PT11M43.00S,3,1610612763,MEM,203935,Smart,M. Smart,136,237,27,Missed,1,,,0,v,MISS Smart 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,265
+0022300125,387,PT10M51.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,276
+0022300125,407,PT09M32.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart STEAL (4 STL),,,1,0,295
+0022300125,431,PT07M44.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,313
+0022300125,441,PT07M30.00S,3,1610612763,MEM,203935,Smart,M. Smart,-66,66,9,Made,1,82,58,140,v,Smart 9' Turnaround Jump Shot (9 PTS),Made Shot,Turnaround Jump Shot,1,2,321
+0022300125,452,PT06M22.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Inbound Turnover (P5.T12),Turnover,Inbound Turnover,1,0,332
+0022300125,498,PT03M06.00S,3,1610612763,MEM,203935,Smart,M. Smart,-2,24,2,Made,1,96,66,162,v,Smart 2' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,2,367
+0022300125,510,PT02M01.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Gilyard FOR Smart,Substitution,,0,0,377
+0022300144,7,PT11M41.00S,1,1610612763,MEM,203935,Smart,M. Smart,-2,159,16,Made,1,0,2,2,v,Smart 16' Pullup Jump Shot (2 PTS) (Bane 1 AST),Made Shot,Pullup Jump shot,1,2,3
+0022300144,14,PT10M57.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart P.FOUL (P1.T1) (G.Petraitis),Foul,Personal,1,0,7
+0022300144,17,PT10M34.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,9
+0022300144,26,PT10M02.00S,1,1610612763,MEM,203935,Smart,M. Smart,-138,244,28,Missed,1,,,0,v,MISS Smart 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,17
+0022300144,31,PT09M40.00S,1,1610612763,MEM,203935,Smart,M. Smart,23,186,19,Missed,1,,,0,v,MISS Smart 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,21
+0022300144,33,PT09M34.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart STEAL (1 STL),,,0,0,24
+0022300144,81,PT05M53.00S,1,1610612763,MEM,203935,Smart,M. Smart,-237,31,24,Missed,1,,,0,v,MISS Smart 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,61
+0022300144,85,PT05M33.00S,1,1610612763,MEM,203935,Smart,M. Smart,-18,1,2,Missed,1,,,0,v,MISS Smart 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,65
+0022300144,92,PT05M25.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Lofton Jr. FOR Smart,Substitution,,0,0,72
+0022300144,175,PT00M11.90S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,126
+0022300144,197,PT10M37.00S,2,1610612763,MEM,203935,Smart,M. Smart,121,227,26,Made,1,34,33,67,v,Smart 26' 3PT Jump Shot (5 PTS) (Jackson Jr. 1 AST),Made Shot,Jump Shot,1,3,142
+0022300144,201,PT10M18.00S,2,1610612763,MEM,203935,Smart,M. Smart,-121,238,27,Missed,1,,,0,v,MISS Smart 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,145
+0022300144,211,PT09M22.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart S.FOUL (P2.T1) (L.Wood),Foul,Shooting,1,0,155
+0022300144,219,PT09M04.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,160
+0022300144,224,PT08M42.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart P.FOUL (P3.T2) (L.Wood),Foul,Personal,1,0,165
+0022300144,232,PT08M14.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Bane FOR Smart,Substitution,,0,0,171
+0022300144,482,PT02M48.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Jackson Jr. FOR Smart,Substitution,,0,0,356
+0022300144,580,PT07M53.00S,4,1610612763,MEM,203935,Smart,M. Smart,-23,124,13,Made,1,98,88,186,v,Smart 13' Floating Jump Shot (7 PTS),Made Shot,Floating Jump shot,1,2,425
+0022300144,588,PT06M45.00S,4,1610612763,MEM,203935,Smart,M. Smart,-195,152,25,Made,1,98,93,191,v,Smart 25' 3PT Jump Shot (10 PTS) (Biyombo 4 AST),Made Shot,Jump Shot,1,3,431
+0022300144,654,PT05M46.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart STEAL (2 STL),,,1,0,441
+0022300144,599,PT05M44.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Bad Pass Turnover (P3.T15),Turnover,Bad Pass,1,0,442
+0022300144,658,PT00M23.80S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,490
+0022300164,35,PT09M24.00S,1,1610612763,MEM,203935,Smart,M. Smart,-2,78,8,Made,1,6,7,13,h,Smart 8' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,1,2,25
+0022300164,38,PT08M59.00S,1,1610612763,MEM,203935,Smart,M. Smart,-20,85,9,Missed,1,,,0,h,MISS Smart 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,27
+0022300164,47,PT08M17.00S,1,1610612763,MEM,203935,Smart,M. Smart,-12,6,1,Made,1,8,12,20,h,Smart 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,34
+0022300164,55,PT07M27.00S,1,1610612763,MEM,203935,Smart,M. Smart,-72,250,26,Missed,1,,,0,h,MISS Smart 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,41
+0022300164,73,PT06M42.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,53
+0022300164,77,PT06M00.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,56
+0022300164,95,PT04M21.00S,1,1610612763,MEM,203935,Smart,M. Smart,228,14,0,Missed,1,,,0,h,MISS Smart 3PT Jump Shot,Missed Shot,Jump Shot,1,3,71
+0022300164,106,PT03M51.00S,1,1610612763,MEM,203935,Smart,M. Smart,-74,66,10,Missed,1,,,0,h,MISS Smart 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,78
+0022300164,144,PT01M18.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Roddy FOR Smart,Substitution,,0,0,111
+0022300164,276,PT04M43.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,200
+0022300164,277,PT04M28.00S,2,1610612763,MEM,203935,Smart,M. Smart,28,36,5,Missed,1,,,0,h,MISS Smart 5' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,201
+0022300164,293,PT03M08.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart S.FOUL (P1.T4) (J.Van Duyne),Foul,Shooting,1,0,215
+0022300164,314,PT02M22.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,MISS Smart Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,230
+0022300164,316,PT02M22.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,42,47,89,h,Smart Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,232
+0022300164,325,PT02M00.00S,2,1610612763,MEM,203935,Smart,M. Smart,22,19,3,Missed,1,,,0,h,MISS Smart 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,239
+0022300164,333,PT01M25.00S,2,1610612763,MEM,203935,Smart,M. Smart,-54,8,5,Made,1,44,52,96,h,Smart 5' Fadeaway Jumper (7 PTS),Made Shot,Fadeaway Jump Shot,1,2,244
+0022300164,348,PT00M23.30S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,255
+0022300164,377,PT10M21.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart STEAL (1 STL),,,1,0,275
+0022300164,379,PT10M15.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,276
+0022300164,400,PT08M45.00S,3,1610612763,MEM,203935,Smart,M. Smart,26,120,12,Missed,1,,,0,h,MISS Smart 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,294
+0022300164,424,PT06M25.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart L.B.FOUL (P2.T2) (J.Van Duyne),Foul,Loose Ball,1,0,311
+0022300164,429,PT06M19.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart STEAL (2 STL),,,1,0,315
+0022300164,431,PT06M14.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart OFF.Foul (P3) (J.Van Duyne),Foul,Offensive,1,0,316
+0022300164,433,PT06M14.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Offensive Foul Turnover (P3.T11),Turnover,Offensive Foul Turnover,1,0,317
+0022300164,456,PT04M50.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart P.FOUL (P4.T4) (M.Lindsay),Foul,Personal,1,0,334
+0022300164,458,PT04M50.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Gilyard FOR Smart,Substitution,,0,0,335
+0022300164,602,PT07M33.00S,4,1610612763,MEM,203935,Smart,M. Smart,34,97,10,Missed,1,,,0,h,MISS Smart 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,438
+0022300164,619,PT06M34.00S,4,1610612763,MEM,203935,Smart,M. Smart,18,79,8,Missed,1,,,0,h,MISS Smart 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,450
+0022300164,627,PT05M42.00S,4,1610612763,MEM,203935,Smart,M. Smart,136,232,27,Missed,1,,,0,h,MISS Smart 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,457
+0022300164,646,PT04M32.00S,4,1610612763,MEM,203935,Smart,M. Smart,-2,78,8,Made,1,88,95,183,h,Smart 8' Driving Floating Jump Shot (9 PTS) (Kennard 3 AST),Made Shot,Driving Floating Jump Shot,1,2,473
+0022300164,660,PT03M54.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart T.FOUL (P4.PN) (J.Van Duyne),Foul,Technical,0,0,483
+0022300164,664,PT03M44.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,89,99,188,h,Smart Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,486
+0022300164,665,PT03M44.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,90,99,189,h,Smart Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,487
+0022300164,694,PT01M29.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,511
+0022300179,22,PT10M08.00S,1,1610612763,MEM,203935,Smart,M. Smart,-184,52,19,Missed,1,,,0,v,MISS Smart 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,14
+0022300179,42,PT08M02.00S,1,1610612763,MEM,203935,Smart,M. Smart,-154,221,27,Made,1,7,10,17,v,Smart 27' 3PT Jump Shot (3 PTS) (Gilyard 1 AST),Made Shot,Jump Shot,1,3,30
+0022300179,57,PT07M26.00S,1,1610612763,MEM,203935,Smart,M. Smart,-210,137,25,Made,1,7,16,23,v,Smart 25' 3PT Running Jump Shot (6 PTS) (Bane 3 AST),Made Shot,Running Jump Shot,1,3,40
+0022300179,113,PT02M48.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Williams FOR Smart,Substitution,,0,0,85
+0022300179,246,PT06M05.00S,2,1610612763,MEM,203935,Smart,M. Smart,51,19,5,Missed,1,,,0,v,MISS Smart 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,174
+0022300179,254,PT05M47.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Non-Unsportsmanlike Tech Foul - Flopping (P0.T3) (J.Conley),Foul,Flopping,1,0,181
+0022300179,280,PT04M22.00S,2,1610612763,MEM,203935,Smart,M. Smart,-150,203,25,Missed,1,,,0,v,MISS Smart 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,198
+0022300179,285,PT04M02.00S,2,1610612763,MEM,203935,Smart,M. Smart,237,50,24,Missed,1,,,0,v,MISS Smart 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,203
+0022300179,298,PT03M14.00S,2,1610612763,MEM,203935,Smart,M. Smart,-37,32,5,Made,1,42,44,86,v,Smart 5' Driving Reverse Layup (8 PTS),Made Shot,Driving Reverse Layup Shot,1,2,212
+0022300179,306,PT02M23.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,219
+0022300179,376,PT10M54.00S,3,1610612763,MEM,203935,Smart,M. Smart,208,147,25,Made,1,45,55,100,v,Smart 25' 3PT Jump Shot (11 PTS) (Gilyard 3 AST),Made Shot,Jump Shot,1,3,263
+0022300179,400,PT09M28.00S,3,1610612763,MEM,203935,Smart,M. Smart,-77,290,30,Missed,1,,,0,v,MISS Smart 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,282
+0022300179,422,PT07M44.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart P.FOUL (P1.T1) (J.Conley),Foul,Personal,1,0,296
+0022300179,427,PT07M33.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,299
+0022300179,428,PT07M27.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,300
+0022300179,468,PT04M50.00S,3,1610612763,MEM,203935,Smart,M. Smart,9,50,5,Missed,1,,,0,v,MISS Smart 5' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,329
+0022300179,487,PT03M41.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Backcourt Turnover (P2.T11),Turnover,Backcourt Turnover,1,0,342
+0022300179,492,PT02M55.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart S.FOUL (P2.T4) (T.Ford),Foul,Shooting,1,0,345
+0022300179,514,PT01M20.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart OFF.Foul (P3) (J.Conley),Foul,Offensive,1,0,362
+0022300179,518,PT01M20.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Offensive Foul Turnover (P3.T12),Turnover,Offensive Foul Turnover,1,0,363
+0022300179,530,PT00M32.10S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Lost Ball Turnover (P4.T13),Turnover,Lost Ball,1,0,373
+0022300179,590,PT08M22.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Bad Pass Turnover (P5.T14),Turnover,Bad Pass,1,0,412
+0022300179,602,PT07M16.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,79,83,162,v,Smart Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,421
+0022300179,603,PT07M16.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,79,84,163,v,Smart Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,422
+0022300179,607,PT06M46.00S,4,1610612763,MEM,203935,Smart,M. Smart,237,79,25,Missed,1,,,0,v,MISS Smart 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,424
+0022300179,660,PT02M53.00S,4,1610612763,MEM,203935,Smart,M. Smart,4,46,5,Made,1,95,95,190,v,Smart 5' Driving Finger Roll Layup (15 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,465
+0022300179,711,PT00M25.60S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,98,102,200,v,Smart Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,504
+0022300179,712,PT00M25.60S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,98,103,201,v,Smart Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,505
+0022300179,740,PT00M00.30S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,523
+0022300410,17,PT10M31.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,12
+0022300410,20,PT10M21.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,15
+0022300410,30,PT09M34.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart STEAL (1 STL),,,1,0,24
+0022300410,63,PT07M17.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart STEAL (2 STL),,,1,0,51
+0022300410,72,PT06M04.00S,1,1610612763,MEM,203935,Smart,M. Smart,172,191,26,Missed,1,,,0,v,MISS Smart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,59
+0022300410,84,PT05M51.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Williams FOR Smart,Substitution,,0,0,69
+0022300410,202,PT09M46.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart S.FOUL (P1.T1) (M.Ervin),Foul,Shooting,1,0,152
+0022300410,207,PT09M38.00S,2,1610612763,MEM,203935,Smart,M. Smart,-237,4,24,Missed,1,,,0,v,MISS Smart 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,156
+0022300410,224,PT07M48.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Out of Bounds Lost Ball Turnover (P2.T8),Turnover,Out of Bounds Lost Ball Turnover,1,0,170
+0022300410,248,PT06M34.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Bane FOR Smart,Substitution,,0,0,188
+0022300410,349,PT11M15.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart STEAL (3 STL),,,1,0,261
+0022300410,387,PT07M32.00S,3,1610612763,MEM,203935,Smart,M. Smart,-233,3,0,Missed,1,,,0,v,MISS Smart 3PT Jump Shot,Missed Shot,Jump Shot,1,3,291
+0022300410,418,PT05M57.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Williams Jr. FOR Smart,Substitution,,0,0,317
+0022300410,514,PT11M53.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Out of Bounds - Bad Pass Turnover Turnover (P3.T15),Turnover,Out of Bounds - Bad Pass Turnover,1,0,381
+0022300410,517,PT11M28.00S,4,1610612763,MEM,203935,Smart,M. Smart,216,114,24,Missed,1,,,0,v,MISS Smart 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,384
+0022300410,521,PT11M06.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart S.FOUL (P2.T1) (B.Schwab),Foul,Shooting,1,0,388
+0022300410,526,PT10M48.00S,4,1610612763,MEM,203935,Smart,M. Smart,234,14,0,Made,1,81,70,151,v,Smart 3PT Jump Shot (3 PTS) (Morant 7 AST),Made Shot,Jump Shot,1,3,392
+0022300410,531,PT10M26.00S,4,1610612763,MEM,203935,Smart,M. Smart,-224,78,24,Made,1,81,73,154,v,Smart 24' 3PT Running Jump Shot (6 PTS) (Williams Jr. 3 AST),Made Shot,Running Jump Shot,1,3,396
+0022300410,543,PT09M08.00S,4,1610612763,MEM,203935,Smart,M. Smart,1,16,2,Made,1,84,77,161,v,Smart 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,404
+0022300410,545,PT08M52.00S,4,1610612763,MEM,203935,Smart,M. Smart,168,198,26,Missed,1,,,0,v,MISS Smart 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,406
+0022300410,557,PT08M33.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Bane FOR Smart,Substitution,,0,0,416
+0022300410,667,PT02M26.00S,4,1610612763,MEM,203935,Smart,M. Smart,-224,-10,0,Missed,1,,,0,v,MISS Smart 3PT Jump Shot,Missed Shot,Jump Shot,1,3,496
+0022300410,673,PT01M47.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart BLOCK (1 BLK),,,1,2,503
+0022300410,677,PT01M45.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart STEAL (4 STL),,,1,0,506
+0022300410,683,PT01M44.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,101,96,197,v,Smart Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,509
+0022300410,684,PT01M44.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,101,97,198,v,Smart Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,510
+0022300410,754,PT04M08.00S,5,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart L.B.FOUL (P3.T1) (J.DeRosa),Foul,Loose Ball,1,0,552
+0022300410,768,PT03M20.00S,5,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart STEAL (5 STL),,,1,0,563
+0022300410,770,PT03M18.00S,5,1610612763,MEM,203935,Smart,M. Smart,28,8,3,Made,1,104,106,210,v,Smart 3' Running Layup (12 PTS),Made Shot,Running Layup Shot,1,2,564
+0022300410,775,PT03M18.00S,5,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,104,107,211,v,Smart Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,1,0,567
+0022300410,810,PT00M16.80S,5,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart S.FOUL (P4.PN) (J.DeRosa),Foul,Shooting,1,0,590
+0022300425,39,PT07M54.00S,1,1610612763,MEM,203935,Smart,M. Smart,32,38,5,Missed,1,,,0,v,MISS Smart 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,32
+0022300425,41,PT07M51.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,34
+0022300425,47,PT07M17.00S,1,1610612763,MEM,203935,Smart,M. Smart,91,235,25,Missed,1,,,0,v,MISS Smart 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,38
+0022300425,63,PT06M10.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Konchar FOR Smart,Substitution,,0,0,52
+0022300425,127,PT01M29.00S,1,1610612763,MEM,203935,Smart,M. Smart,22,105,11,Made,1,26,27,53,v,Smart 11' Pullup Jump Shot (2 PTS) (Tillman 2 AST),Made Shot,Pullup Jump shot,1,2,92
+0022300425,135,PT00M42.50S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,100
+0022300425,136,PT00M36.70S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,101
+0022300425,139,PT00M17.80S,1,1610612763,MEM,203935,Smart,M. Smart,-16,132,13,Missed,1,,,0,v,MISS Smart 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,104
+0022300425,141,PT00M07.40S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart P.FOUL (P1.T4) (A.Smith),Foul,Personal,1,0,106
+0022300425,164,PT10M54.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Lost Ball Turnover (P2.T6),Turnover,Lost Ball,1,0,120
+0022300425,174,PT10M06.00S,2,1610612763,MEM,203935,Smart,M. Smart,-234,16,0,Missed,1,,,0,v,MISS Smart 3PT Jump Shot,Missed Shot,Jump Shot,1,3,130
+0022300425,192,PT09M14.00S,2,1610612763,MEM,203935,Smart,M. Smart,28,21,4,Missed,1,,,0,v,MISS Smart 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,143
+0022300425,199,PT08M56.00S,2,1610612763,MEM,203935,Smart,M. Smart,23,55,6,Made,1,42,29,71,v,Smart 6' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,147
+0022300425,220,PT07M05.00S,2,1610612763,MEM,203935,Smart,M. Smart,225,47,0,Made,1,42,37,79,v,Smart 3PT Running Jump Shot (7 PTS) (Jackson Jr. 1 AST),Made Shot,Running Jump Shot,1,3,163
+0022300425,228,PT07M04.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Konchar FOR Smart,Substitution,,0,0,170
+0022300425,318,PT11M18.00S,3,1610612763,MEM,203935,Smart,M. Smart,-18,29,3,Made,1,67,50,117,v,Smart 3' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,2,232
+0022300425,321,PT10M47.00S,3,1610612763,MEM,203935,Smart,M. Smart,108,6,11,Missed,1,,,0,v,MISS Smart 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,234
+0022300425,328,PT10M30.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,73,51,124,v,Smart Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,239
+0022300425,329,PT10M30.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,MISS Smart Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,240
+0022300425,339,PT09M29.00S,3,1610612763,MEM,203935,Smart,M. Smart,225,119,25,Missed,1,,,0,v,MISS Smart 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,249
+0022300425,342,PT09M18.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,252
+0022300425,343,PT09M17.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0,253
+0022300425,347,PT08M53.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart STEAL (1 STL),,,1,0,257
+0022300425,351,PT08M49.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,75,52,127,v,Smart Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,259
+0022300425,352,PT08M49.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,75,53,128,v,Smart Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,260
+0022300425,360,PT07M50.00S,3,1610612763,MEM,203935,Smart,M. Smart,-4,-5,1,Made,1,77,55,132,v,Smart 1' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,2,267
+0022300425,365,PT07M19.00S,3,1610612763,MEM,203935,Smart,M. Smart,91,235,25,Missed,1,,,0,v,MISS Smart 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,271
+0022300425,379,PT06M26.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart T.FOUL (P1.T2) (A.Smith),Foul,Technical,1,0,284
+0022300425,382,PT06M26.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Roddy FOR Smart,Substitution,,0,0,287
+0022300425,456,PT02M44.00S,3,1610612763,MEM,203935,Smart,M. Smart,-186,171,25,Made,1,100,75,175,v,Smart 25' 3PT Jump Shot (17 PTS) (Jackson Jr. 2 AST),Made Shot,Jump Shot,1,3,334
+0022300438,7,PT11M48.00S,1,1610612763,MEM,203935,Smart,M. Smart,-2,-1,0,Made,1,0,2,2,v,Smart Cutting Layup Shot (2 PTS) (Morant 1 AST),Made Shot,Cutting Layup Shot,1,2,3
+0022300438,22,PT09M35.00S,1,1610612763,MEM,203935,Smart,M. Smart,134,174,22,Made,1,5,10,15,v,Smart 22' Step Back Jump Shot (4 PTS) (Morant 3 AST),Made Shot,Step Back Jump shot,1,2,14
+0022300438,71,PT05M58.00S,1,1610612763,MEM,203935,Smart,M. Smart,-134,224,26,Missed,1,,,0,v,MISS Smart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,52
+0022300438,79,PT05M01.00S,1,1610612763,MEM,203935,Smart,M. Smart,-168,214,27,Missed,1,,,0,v,MISS Smart 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,60
+0022300438,123,PT02M26.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,26,22,48,v,Smart Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,90
+0022300438,126,PT02M26.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,26,23,49,v,Smart Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,92
+0022300438,131,PT01M55.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Morant FOR Smart,Substitution,,0,0,95
+0022300438,235,PT06M30.00S,2,1610612763,MEM,203935,Smart,M. Smart,206,159,26,Missed,1,,,0,v,MISS Smart 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,169
+0022300438,255,PT05M31.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,184
+0022300438,262,PT04M53.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,190
+0022300438,263,PT04M37.00S,2,1610612763,MEM,203935,Smart,M. Smart,1,72,7,Made,1,49,44,93,v,Smart 7' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,1,2,191
+0022300438,290,PT02M31.00S,2,1610612763,MEM,203935,Smart,M. Smart,233,61,24,Made,1,49,49,98,v,Smart 24' 3PT Jump Shot (11 PTS) (Williams Jr. 1 AST),Made Shot,Jump Shot,1,3,209
+0022300438,294,PT02M18.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Morant FOR Smart,Substitution,,0,0,211
+0022300438,384,PT09M02.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,266
+0022300438,400,PT07M40.00S,3,1610612763,MEM,203935,Smart,M. Smart,-48,257,26,Missed,1,,,0,v,MISS Smart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,278
+0022300438,411,PT06M25.00S,3,1610612763,MEM,203935,Smart,M. Smart,-230,15,0,Made,1,76,61,137,v,Smart 3PT Jump Shot (14 PTS) (Morant 7 AST),Made Shot,Jump Shot,1,3,288
+0022300438,413,PT06M10.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart STEAL (1 STL),,,1,0,290
+0022300438,432,PT04M19.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Williams Jr. FOR Smart,Substitution,,0,0,304
+0022300438,518,PT11M10.00S,4,1610612763,MEM,203935,Smart,M. Smart,-143,260,30,Missed,1,,,0,v,MISS Smart 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,363
+0022300438,530,PT10M31.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart STEAL (2 STL),,,1,0,371
+0022300438,532,PT10M23.00S,4,1610612763,MEM,203935,Smart,M. Smart,-240,37,24,Made,1,96,81,177,v,Smart 24' 3PT Jump Shot (17 PTS) (Williams Jr. 5 AST),Made Shot,Jump Shot,1,3,372
+0022300438,546,PT09M36.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Aldama FOR Smart,Substitution,,0,0,382
+0022300438,601,PT06M03.00S,4,1610612763,MEM,203935,Smart,M. Smart,-227,26,0,Made,1,105,97,202,v,Smart 3PT Jump Shot (20 PTS) (Bane 5 AST),Made Shot,Jump Shot,1,3,422
+0022300438,603,PT05M46.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart STEAL (3 STL),,,1,0,424
+0022300438,605,PT05M39.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Discontinue Dribble Turnover (P2.T11),Turnover,Discontinue Dribble,1,0,425
+0022300438,624,PT04M09.00S,4,1610612763,MEM,203935,Smart,M. Smart,27,268,27,Missed,1,,,0,v,MISS Smart 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,441
+0022300438,654,PT01M35.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,112,102,214,v,Smart Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,466
+0022300438,657,PT01M35.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,112,103,215,v,Smart Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,467
+0022300438,675,PT00M32.40S,4,1610612763,MEM,203935,Smart,M. Smart,-208,158,26,Missed,1,,,0,v,MISS Smart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,481
+0022300449,7,PT11M45.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,3
+0022300449,14,PT10M42.00S,1,1610612763,MEM,203935,Smart,M. Smart,-228,-7,0,Missed,1,,,0,h,MISS Smart 3PT Jump Shot,Missed Shot,Jump Shot,1,3,8
+0022300449,19,PT09M55.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,13
+0022300449,40,PT07M34.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Step Out of Bounds Turnover (P2.T3),Turnover,Step Out of Bounds Turnover,1,0,30
+0022300449,74,PT04M20.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Kennard FOR Smart,Substitution,,0,0,57
+0022300449,208,PT07M31.00S,2,1610612763,MEM,203935,Smart,M. Smart,67,42,8,Missed,1,,,0,h,MISS Smart 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,146
+0022300449,216,PT07M14.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart S.FOUL (P1.T3) (J.Van Duyne),Foul,Shooting,1,0,153
+0022300449,255,PT05M09.00S,2,1610612763,MEM,203935,Smart,M. Smart,-137,216,26,Missed,1,,,0,h,MISS Smart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,182
+0022300449,260,PT04M50.00S,2,1610612763,MEM,203935,Smart,M. Smart,6,68,7,Made,1,43,54,97,h,Smart 7' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,186
+0022300449,263,PT04M09.00S,2,1610612763,MEM,203935,Smart,M. Smart,-77,72,11,Made,1,45,54,99,h,Smart 11' Jump Shot (4 PTS) (Rose 2 AST),Made Shot,Jump Shot,1,2,189
+0022300449,277,PT03M07.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,MISS Smart Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,200
+0022300449,282,PT03M07.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,46,56,102,h,Smart Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,204
+0022300449,300,PT02M11.00S,2,1610612763,MEM,203935,Smart,M. Smart,2,42,4,Made,1,50,61,111,h,Smart 4' Layup (7 PTS) (Morant 3 AST),Made Shot,Layup Shot,1,2,215
+0022300449,304,PT02M11.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,MISS Smart Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,217
+0022300449,308,PT01M39.00S,2,1610612763,MEM,203935,Smart,M. Smart,4,52,5,Made,1,52,64,116,h,Smart 5' Turnaround Jump Shot (9 PTS),Made Shot,Turnaround Jump Shot,1,2,220
+0022300449,331,PT00M16.30S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,57,68,125,h,Smart Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,237
+0022300449,332,PT00M16.30S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,58,68,126,h,Smart Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,238
+0022300449,349,PT10M51.00S,3,1610612763,MEM,203935,Smart,M. Smart,-233,1,0,Missed,1,,,0,h,MISS Smart 3PT Jump Shot,Missed Shot,Jump Shot,1,3,251
+0022300449,371,PT08M26.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart STEAL (1 STL),,,1,0,270
+0022300449,390,PT07M32.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,60,78,138,h,Smart Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,284
+0022300449,391,PT07M32.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,MISS Smart Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,285
+0022300449,395,PT07M09.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart L.B.FOUL (P2.T1) (J.Van Duyne),Foul,Loose Ball,1,0,289
+0022300449,417,PT05M06.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart STEAL (2 STL),,,1,0,307
+0022300449,419,PT04M58.00S,3,1610612763,MEM,203935,Smart,M. Smart,42,92,10,Missed,1,,,0,h,MISS Smart 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,308
+0022300449,441,PT04M06.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Roddy FOR Smart,Substitution,,0,0,322
+0022300449,529,PT08M44.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart STEAL (3 STL),,,1,0,384
+0022300449,553,PT06M46.00S,4,1610612763,MEM,203935,Smart,M. Smart,192,173,26,Missed,1,,,0,h,MISS Smart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,404
+0022300449,571,PT05M47.00S,4,1610612763,MEM,203935,Smart,M. Smart,-42,107,11,Missed,1,,,0,h,MISS Smart 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,418
+0022300449,582,PT04M49.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Konchar FOR Smart,Substitution,,0,0,428
+0022300460,44,PT08M16.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,1,0,30
+0022300460,55,PT07M36.00S,1,1610612763,MEM,203935,Smart,M. Smart,-66,53,8,Missed,1,,,0,h,MISS Smart 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,38
+0022300460,99,PT04M31.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Kennard FOR Smart,Substitution,,0,0,70
+0022300460,266,PT04M40.00S,2,1610612763,MEM,203935,Smart,M. Smart,173,210,27,Missed,1,,,0,h,MISS Smart 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,195
+0022300460,331,PT00M00.20S,2,1610612763,MEM,203935,Smart,M. Smart,114,458,47,Missed,1,,,0,h,MISS Smart 47' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,244
+0022300460,388,PT06M41.00S,3,1610612763,MEM,203935,Smart,M. Smart,-18,242,24,Missed,1,,,0,h,MISS Smart 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,281
+0022300460,419,PT05M20.00S,3,1610612763,MEM,203935,Smart,M. Smart,16,10,2,Made,1,60,53,113,h,Smart 2' Reverse Layup (2 PTS) (Bane 1 AST),Made Shot,Reverse Layup Shot,1,2,305
+0022300460,422,PT05M06.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart S.FOUL (P1.T3) (M.Ervin),Foul,Shooting,1,0,307
+0022300460,433,PT04M34.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,315
+0022300460,439,PT04M03.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Kennard FOR Smart,Substitution,,0,0,319
+0022300460,495,PT00M14.20S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,78,66,144,h,Smart Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,361
+0022300460,496,PT00M14.20S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,MISS Smart Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,362
+0022300460,595,PT05M52.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Out of Bounds - Bad Pass Turnover Turnover (P2.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,432
+0022300460,612,PT04M26.00S,4,1610612763,MEM,203935,Smart,M. Smart,228,50,0,Missed,1,,,0,h,MISS Smart 3PT Jump Shot,Missed Shot,Jump Shot,1,3,445
+0022300460,627,PT03M07.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Non-Unsportsmanlike Tech Foul - Flopping (P1.PN) (M.Ervin),Foul,Flopping,0,0,457
+0022300460,635,PT02M33.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,101,88,189,h,Smart Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,462
+0022300460,636,PT02M33.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,102,88,190,h,Smart Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,463
+0022300460,642,PT02M09.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart S.FOUL (P2.PN) (P.Ransom),Foul,Shooting,1,0,468
+0022300460,647,PT02M03.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart OFF.Foul (P3) (M.Ervin),Foul,Offensive,1,0,472
+0022300460,649,PT02M03.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Offensive Foul Turnover (P3.T14),Turnover,Offensive Foul Turnover,1,0,473
+0022300460,658,PT01M18.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,480
+0022300460,659,PT01M18.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,Missed,1,,,0,h,MISS Smart Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,481
+0022300460,676,PT00M20.20S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Williams FOR Smart,Substitution,,0,0,494
+0022300470,7,PT11M42.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,3
+0022300470,21,PT10M33.00S,1,1610612763,MEM,203935,Smart,M. Smart,5,263,26,Missed,1,,,0,h,MISS Smart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,16
+0022300470,49,PT07M09.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,36
+0022300470,59,PT06M13.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart S.FOUL (P1.T1) (S.Wall),Foul,Shooting,1,0,45
+0022300470,93,PT04M35.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Kennard FOR Smart,Substitution,,0,0,69
+0022300470,232,PT06M38.00S,2,1610612763,MEM,203935,Smart,M. Smart,-66,67,9,Missed,1,,,0,h,MISS Smart 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,170
+0022300470,242,PT05M58.00S,2,1610612763,MEM,203935,Smart,M. Smart,161,204,26,Missed,1,,,0,h,MISS Smart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,178
+0022300470,272,PT04M42.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart OFF.Foul (P2) (J.Capers),Foul,Offensive,1,0,198
+0022300470,274,PT04M42.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,1,0,199
+0022300470,292,PT02M45.00S,2,1610612763,MEM,203935,Smart,M. Smart,-21,23,3,Missed,1,,,0,h,MISS Smart 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,213
+0022300470,318,PT00M53.60S,2,1610612763,MEM,203935,Smart,M. Smart,-121,239,27,Missed,1,,,0,h,MISS Smart 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,234
+0022300470,323,PT00M28.60S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Williams FOR Smart,Substitution,,0,0,238
+0022300470,351,PT11M25.00S,3,1610612763,MEM,203935,Smart,M. Smart,-103,239,26,Missed,1,,,0,h,MISS Smart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,252
+0022300470,367,PT10M18.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Traveling Turnover (P3.T8),Turnover,Traveling,1,0,262
+0022300470,375,PT09M10.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart STEAL (1 STL),,,1,0,270
+0022300470,407,PT06M32.00S,3,1610612763,MEM,203935,Smart,M. Smart,2,1,0,Made,1,62,76,138,h,Smart Cutting Layup Shot (2 PTS) (Morant 6 AST),Made Shot,Cutting Layup Shot,1,2,293
+0022300470,431,PT05M02.00S,3,1610612763,MEM,203935,Smart,M. Smart,-6,5,1,Made,1,66,78,144,h,Smart 1' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,311
+0022300470,438,PT05M02.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,67,78,145,h,Smart Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,315
+0022300470,478,PT02M46.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,SUB: Williams FOR Smart,Substitution,,0,0,347
+0022300470,557,PT08M25.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,399
+0022300470,589,PT06M35.00S,4,1610612763,MEM,203935,Smart,M. Smart,-4,1,0,Missed,1,,,0,h,MISS Smart Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,2,424
+0022300470,602,PT05M02.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,436
+0022300470,606,PT04M33.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,439
+0022300470,617,PT03M55.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,447
+0022300470,631,PT02M18.00S,4,1610612763,MEM,203935,Smart,M. Smart,-228,83,24,Missed,1,,,0,h,MISS Smart 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,458
+0022300470,649,PT00M48.10S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,106,112,218,h,Smart Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,471
+0022300470,652,PT00M48.10S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,MISS Smart Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,473
+0022300470,660,PT00M08.50S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart Personal Take Foul (P3.PN) (B.Nansel),Foul,Personal Take,1,0,481
+0022300470,666,PT00M00.90S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,h,Smart P.FOUL (P4.PN) (B.Nansel),Foul,Personal,1,0,486
+0022300491,9,PT11M24.00S,1,1610612763,MEM,203935,Smart,M. Smart,-224,17,0,Missed,1,,,0,v,MISS Smart 3PT Jump Shot,Missed Shot,Jump Shot,1,3,4
+0022300491,32,PT09M17.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,22
+0022300491,48,PT08M00.00S,1,1610612763,MEM,203935,Smart,M. Smart,76,248,26,Made,1,6,8,14,v,Smart 26' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,34
+0022300491,50,PT07M37.00S,1,1610612763,MEM,203935,Smart,M. Smart,-34,63,7,Missed,1,,,0,v,MISS Smart 7' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,36
+0022300491,69,PT06M10.00S,1,1610612763,MEM,203935,Smart,M. Smart,-2,83,8,Made,1,13,14,27,v,Smart 8' Turnaround Fadeaway (5 PTS) (Bane 2 AST),Made Shot,Turnaround Fadeaway shot,1,2,50
+0022300491,89,PT04M47.00S,1,1610612763,MEM,203935,Smart,M. Smart,183,173,25,Made,1,19,22,41,v,Smart 25' 3PT Jump Shot (8 PTS) (Bane 3 AST),Made Shot,Jump Shot,1,3,62
+0022300491,96,PT04M19.00S,1,1610612763,MEM,203935,Smart,M. Smart,-227,71,24,Missed,1,,,0,v,MISS Smart 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,66
+0022300491,113,PT01M50.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart S.FOUL (P1.T3) (S.Corbin),Foul,Shooting,1,0,80
+0022300491,118,PT01M50.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Morant FOR Smart,Substitution,,0,0,84
+0022300491,219,PT07M21.00S,2,1610612763,MEM,203935,Smart,M. Smart,-138,227,27,Made,1,45,35,80,v,Smart 27' 3PT Jump Shot (11 PTS) (Tillman 1 AST),Made Shot,Jump Shot,1,3,159
+0022300491,238,PT06M00.00S,2,1610612763,MEM,203935,Smart,M. Smart,-222,11,0,Missed,1,,,0,v,MISS Smart 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,173
+0022300491,245,PT05M20.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart S.FOUL (P2.T3) (S.Corbin),Foul,Shooting,1,0,180
+0022300491,253,PT05M06.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,47,39,86,v,Smart Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,185
+0022300491,254,PT05M06.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,47,40,87,v,Smart Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,186
+0022300491,270,PT03M56.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,198
+0022300491,283,PT03M06.00S,2,1610612763,MEM,203935,Smart,M. Smart,-218,108,24,Made,1,52,47,99,v,Smart 24' 3PT Jump Shot (16 PTS) (Bane 5 AST),Made Shot,Jump Shot,1,3,210
+0022300491,303,PT01M39.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Lost Ball Turnover (P2.T12),Turnover,Lost Ball,1,0,225
+0022300491,307,PT01M24.00S,2,1610612763,MEM,203935,Smart,M. Smart,185,173,25,Made,1,59,53,112,v,Smart 25' 3PT Jump Shot (19 PTS) (Bane 6 AST),Made Shot,Jump Shot,1,3,228
+0022300491,365,PT07M39.00S,3,1610612763,MEM,203935,Smart,M. Smart,-230,22,0,Made,1,70,73,143,v,Smart 3PT Jump Shot (22 PTS) (Bane 12 AST),Made Shot,Jump Shot,1,3,272
+0022300491,369,PT07M21.00S,3,1610612763,MEM,203935,Smart,M. Smart,-176,181,25,Missed,1,,,0,v,MISS Smart 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,275
+0022300491,381,PT06M21.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Bad Pass Turnover (P3.T15),Turnover,Bad Pass,1,0,284
+0022300491,397,PT05M11.00S,3,1610612763,MEM,203935,Smart,M. Smart,-229,62,24,Missed,1,,,0,v,MISS Smart 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,298
+0022300491,423,PT04M12.00S,3,1610612763,MEM,203935,Smart,M. Smart,-190,173,26,Missed,1,,,0,v,MISS Smart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,318
+0022300491,438,PT03M19.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Williams FOR Smart,Substitution,,0,0,328
+0022300491,505,PT10M34.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart STEAL (1 STL),,,1,0,374
+0022300491,522,PT09M01.00S,4,1610612763,MEM,203935,Smart,M. Smart,-4,256,26,Made,1,98,101,199,v,Smart 26' 3PT Pullup Jump Shot (25 PTS) (Kennard 4 AST),Made Shot,Pullup Jump shot,1,3,386
+0022300491,552,PT06M55.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,MISS Smart Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,406
+0022300491,556,PT06M55.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,103,107,210,v,Smart Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,1,0,409
+0022300491,603,PT02M44.00S,4,1610612763,MEM,203935,Smart,M. Smart,-150,257,30,Made,1,111,122,233,v,Smart 30' 3PT Jump Shot (29 PTS) (Bane 13 AST),Made Shot,Jump Shot,1,3,443
+0022300491,614,PT01M50.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,453
+0022300503,8,PT11M40.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+0022300503,9,PT11M29.00S,1,1610612763,MEM,203935,Smart,M. Smart,140,212,25,Missed,1,,,0,v,MISS Smart 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,5
+0022300503,11,PT11M23.00S,1,1610612763,MEM,203935,Smart,M. Smart,145,207,25,Missed,1,,,0,v,MISS Smart 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,7
+0022300503,52,PT08M49.00S,1,1610612763,MEM,203935,Smart,M. Smart,-222,153,27,Made,1,8,4,12,v,Smart 27' 3PT Jump Shot (3 PTS) (Bane 1 AST),Made Shot,Jump Shot,1,3,38
+0022300503,65,PT07M51.00S,1,1610612763,MEM,203935,Smart,M. Smart,-1,274,27,Missed,1,,,0,v,MISS Smart 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,46
+0022300503,71,PT07M16.00S,1,1610612763,MEM,203935,Smart,M. Smart,-4,15,2,Made,1,13,8,21,v,Smart 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,51
+0022300503,89,PT06M06.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart S.FOUL (P1.T3) (K.Cutler),Foul,Shooting,1,0,65
+0022300503,108,PT05M54.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Aldama FOR Smart,Substitution,,0,0,72
+0022300503,168,PT01M39.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Kicked Ball Violation Turnover (P1.T5),Turnover,Kicked Ball Violation,1,0,121
+0022300503,195,PT00M13.60S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,134
+0022300503,189,PT00M04.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,138
+0022300503,191,PT00M00.00S,1,1610612763,MEM,203935,Smart,M. Smart,92,477,49,Missed,1,,,0,v,MISS Smart 49' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,139
+0022300503,224,PT09M26.00S,2,1610612763,MEM,203935,Smart,M. Smart,163,248,30,Made,1,35,37,72,v,Smart 30' 3PT Running Jump Shot (8 PTS) (Aldama 1 AST),Made Shot,Running Jump Shot,1,3,162
+0022300503,242,PT08M30.00S,2,1610612763,MEM,203935,Smart,M. Smart,192,170,26,Missed,1,,,0,v,MISS Smart 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,173
+0022300503,265,PT06M46.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Bane FOR Smart,Substitution,,0,0,191
+0022300503,335,PT02M18.00S,2,1610612763,MEM,203935,Smart,M. Smart,-34,81,9,Missed,1,,,0,v,MISS Smart 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,239
+0022300503,346,PT01M41.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Out of Bounds - Bad Pass Turnover Turnover (P2.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,247
+0022300503,350,PT01M24.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,56,56,112,v,Smart Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,250
+0022300503,351,PT01M24.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,MISS Smart Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,251
+0022300503,355,PT00M56.10S,2,1610612763,MEM,203935,Smart,M. Smart,-42,105,11,Made,1,59,58,117,v,Smart 11' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,2,254
+0022300503,358,PT00M35.10S,2,1610612763,MEM,203935,Smart,M. Smart,-113,223,25,Missed,1,,,0,v,MISS Smart 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,256
+0022300503,393,PT10M03.00S,3,1610612763,MEM,203935,Smart,M. Smart,217,146,26,Missed,1,,,0,v,MISS Smart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,275
+0022300503,402,PT09M04.00S,3,1610612763,MEM,203935,Smart,M. Smart,60,26,7,Made,1,72,67,139,v,Smart 7' Driving Floating Bank Jump Shot (13 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,282
+0022300503,413,PT08M15.00S,3,1610612763,MEM,203935,Smart,M. Smart,92,250,27,Made,1,74,70,144,v,Smart 27' 3PT Jump Shot (16 PTS) (Biyombo 2 AST),Made Shot,Jump Shot,1,3,291
+0022300503,431,PT06M22.00S,3,1610612763,MEM,203935,Smart,M. Smart,132,32,14,Made,1,82,77,159,v,Smart 14' Driving Floating Bank Jump Shot (18 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,301
+0022300503,438,PT05M26.00S,3,1610612763,MEM,203935,Smart,M. Smart,9,115,12,Made,1,82,82,164,v,Smart 12' Turnaround Jump Shot (20 PTS),Made Shot,Turnaround Jump Shot,1,2,307
+0022300503,441,PT05M26.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,82,83,165,v,Smart Free Throw 1 of 1 (21 PTS),Free Throw,Free Throw 1 of 1,1,0,309
+0022300503,502,PT04M01.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart STEAL (1 STL),,,1,0,338
+0022300503,495,PT03M02.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,0,352
+0022300503,500,PT03M00.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Kennard FOR Smart,Substitution,,0,0,356
+0022300503,619,PT09M16.00S,4,1610612763,MEM,203935,Smart,M. Smart,-172,190,26,Missed,1,,,0,v,MISS Smart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,438
+0022300503,631,PT08M11.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart STEAL (2 STL),,,1,0,449
+0022300503,635,PT08M08.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,MISS Smart Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,451
+0022300503,641,PT08M08.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,98,100,198,v,Smart Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,455
+0022300503,647,PT07M38.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,460
+0022300503,659,PT06M42.00S,4,1610612763,MEM,203935,Smart,M. Smart,-100,222,24,Made,1,102,105,207,v,Smart 24' 3PT Jump Shot (25 PTS) (Jackson Jr. 5 AST),Made Shot,Jump Shot,1,3,468
+0022300503,665,PT06M01.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart OFF.Foul (P2) (K.Cutler),Foul,Offensive,1,0,472
+0022300503,667,PT06M01.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Offensive Foul Turnover (P4.T17),Turnover,Offensive Foul Turnover,1,0,473
+0022300503,678,PT05M31.00S,4,1610612763,MEM,203935,Smart,M. Smart,-20,6,2,Missed,1,,,0,v,MISS Smart 2' Hook Shot,Missed Shot,Hook Shot,1,2,481
+0022300503,687,PT04M56.00S,4,1610612763,MEM,203935,Smart,M. Smart,-210,178,28,Missed,1,,,0,v,MISS Smart 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,488
+0022300503,704,PT03M25.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Out of Bounds - Bad Pass Turnover Turnover (P5.T18),Turnover,Out of Bounds - Bad Pass Turnover,1,0,502
+0022300503,719,PT02M00.00S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,513
+0022300503,739,PT00M24.70S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart STEAL (3 STL),,,1,0,533
+0022300503,767,PT00M03.20S,4,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,553
+0022300515,17,PT10M19.00S,1,1610612763,MEM,203935,Smart,M. Smart,4,153,15,Missed,1,,,0,v,MISS Smart 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,11
+0022300515,23,PT09M44.00S,1,1610612763,MEM,203935,Smart,M. Smart,-134,242,28,Made,1,7,5,12,v,Smart 28' 3PT Jump Shot (3 PTS) (Williams Jr. 1 AST),Made Shot,Jump Shot,1,3,17
+0022300515,33,PT08M45.00S,1,1610612763,MEM,203935,Smart,M. Smart,234,79,25,Missed,1,,,0,v,MISS Smart 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,25
+0022300515,71,PT06M00.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,59
+0022300515,79,PT05M21.00S,1,1610612763,MEM,203935,Smart,M. Smart,-1,105,11,Made,1,16,16,32,v,Smart 11' Pullup Jump Shot (5 PTS) (Kennard 1 AST),Made Shot,Pullup Jump shot,1,2,65
+0022300515,102,PT03M40.00S,1,1610612763,MEM,203935,Smart,M. Smart,-232,5,0,Made,1,18,23,41,v,Smart 3PT Jump Shot (8 PTS) (Bane 3 AST),Made Shot,Jump Shot,1,3,79
+0022300515,108,PT03M03.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart STEAL (1 STL),,,1,0,85
+0022300515,115,PT02M58.00S,1,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Tillman FOR Smart,Substitution,,0,0,90
+0022300515,164,PT11M36.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,123
+0022300515,165,PT11M24.00S,2,1610612763,MEM,203935,Smart,M. Smart,2,78,8,Made,1,22,31,53,v,Smart 8' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,1,2,124
+0022300515,168,PT10M55.00S,2,1610612763,MEM,203935,Smart,M. Smart,-45,37,6,Missed,1,,,0,v,MISS Smart 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,126
+0022300515,180,PT09M46.00S,2,1610612763,MEM,203935,Smart,M. Smart,-116,242,27,Missed,1,,,0,v,MISS Smart 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,135
+0022300515,203,PT08M27.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,151
+0022300515,204,PT08M09.00S,2,1610612763,MEM,203935,Smart,M. Smart,230,-13,0,Missed,1,,,0,v,MISS Smart 3PT Jump Shot,Missed Shot,Jump Shot,1,3,152
+0022300515,235,PT06M52.00S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Bane FOR Smart,Substitution,,0,0,173
+0022300515,308,PT01M49.00S,2,1610612763,MEM,203935,Smart,M. Smart,29,12,3,Made,1,48,62,110,v,Smart 3' Driving Floating Bank Jump Shot (12 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,226
+0022300515,313,PT01M17.00S,2,1610612763,MEM,203935,Smart,M. Smart,40,25,5,Made,1,51,64,115,v,Smart 5' Driving Floating Jump Shot (14 PTS),Made Shot,Driving Floating Jump Shot,1,2,230
+0022300515,328,PT00M32.00S,2,1610612763,MEM,203935,Smart,M. Smart,-58,57,8,Missed,1,,,0,v,MISS Smart 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,238
+0022300515,333,PT00M22.70S,2,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart STEAL (2 STL),,,1,0,245
+0022300515,356,PT11M35.00S,3,1610612763,MEM,203935,Smart,M. Smart,124,88,15,Made,1,55,70,125,v,Smart 15' Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1,2,255
+0022300515,359,PT11M35.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,55,71,126,v,Smart Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,1,0,257
+0022300515,379,PT09M46.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Backcourt Turnover (P1.T6),Turnover,Backcourt Turnover,1,0,273
+0022300515,381,PT09M30.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,275
+0022300515,382,PT09M21.00S,3,1610612763,MEM,203935,Smart,M. Smart,232,10,0,Missed,1,,,0,v,MISS Smart 3PT Jump Shot,Missed Shot,Jump Shot,1,3,276
+0022300515,389,PT08M36.00S,3,1610612763,MEM,203935,Smart,M. Smart,124,240,27,Made,1,62,77,139,v,Smart 27' 3PT Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,1,3,281
+0022300515,401,PT07M39.00S,3,1610612763,MEM,203935,Smart,M. Smart,-165,189,25,Made,1,62,80,142,v,Smart 25' 3PT Jump Shot (23 PTS) (Biyombo 3 AST),Made Shot,Jump Shot,1,3,291
+0022300515,404,PT07M38.00S,3,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,SUB: Williams FOR Smart,Substitution,,0,0,293
+0022300989,765,PT01M09.00S,5,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart T.FOUL (P0.T1) (S.Twardoski),Foul,Technical,1,0,559
+0022300989,766,PT01M09.00S,5,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart T.FOUL (P0.T1) (K.Cutler),Foul,Technical,0,0,560
+0022300989,769,PT01M09.00S,5,1610612763,MEM,203935,Smart,M. Smart,0,0,0,,0,,,0,v,Smart Ejection:Other,Ejection,Other,0,0,563

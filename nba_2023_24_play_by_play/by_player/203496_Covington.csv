@@ -1,0 +1,397 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300008,137,PT03M07.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington STEAL (1 STL),,,1,0,106
+0022300008,139,PT03M02.00S,1,1610612755,PHI,203496,Covington,R. Covington,157,190,25,Made,1,21,17,38,v,Covington 25' 3PT Running Jump Shot (3 PTS) (Melton 1 AST),Made Shot,Running Jump Shot,1,3,107
+0022300008,222,PT08M57.00S,2,1610612755,PHI,203496,Covington,R. Covington,183,172,25,Missed,1,,,0,v,MISS Covington 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,163
+0022300008,237,PT08M20.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington STEAL (2 STL),,,1,0,175
+0022300008,245,PT07M35.00S,2,1610612755,PHI,203496,Covington,R. Covington,53,277,28,Missed,1,,,0,v,MISS Covington 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,181
+0022300008,249,PT07M22.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington STEAL (3 STL),,,1,0,186
+0022300008,276,PT05M25.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,SUB: Melton FOR Covington,Substitution,,0,0,204
+0022300008,475,PT03M30.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington STEAL (4 STL),,,1,0,346
+0022300019,29,PT09M35.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,22
+0022300019,85,PT06M11.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington BLOCK (1 BLK),,,1,2,58
+0022300019,128,PT03M06.00S,1,1610612755,PHI,203496,Covington,R. Covington,241,47,25,Missed,1,,,0,h,MISS Covington 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,90
+0022300019,135,PT02M37.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,SUB: House Jr. FOR Covington,Substitution,,0,0,96
+0022300019,306,PT03M04.00S,2,1610612755,PHI,203496,Covington,R. Covington,-66,249,26,Missed,1,,,0,h,MISS Covington 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,211
+0022300019,340,PT01M49.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,SUB: House Jr. FOR Covington,Substitution,,0,0,238
+0022300019,382,PT11M03.00S,3,1610612755,PHI,203496,Covington,R. Covington,-1,48,5,Made,1,56,65,121,h,Covington 5' Finger Roll Layup (2 PTS) (Harris 2 AST),Made Shot,Finger Roll Layup Shot,1,2,267
+0022300019,421,PT08M41.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington S.FOUL (P1.T3) (J.Goldenberg),Foul,Shooting,1,0,295
+0022300019,447,PT07M05.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington P.FOUL (P2.PN) (C.Kirkland),Foul,Personal,1,0,315
+0022300019,451,PT07M05.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,SUB: Beverley FOR Covington,Substitution,,0,0,318
+0022300029,7,PT11M41.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington BLOCK (1 BLK),,,1,3,4
+0022300029,16,PT10M42.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+0022300029,54,PT06M36.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,39
+0022300029,71,PT04M38.00S,1,1610612755,PHI,203496,Covington,R. Covington,-235,21,24,Made,1,18,20,38,v,Covington 24' 3PT Jump Shot (3 PTS) (Embiid 3 AST),Made Shot,Jump Shot,1,3,53
+0022300029,78,PT03M45.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington S.FOUL (P1.T2) (A.Nagy),Foul,Shooting,1,0,58
+0022300029,95,PT03M27.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,SUB: Springer FOR Covington,Substitution,,0,0,69
+0022300029,231,PT07M14.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,167
+0022300029,242,PT06M21.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington STEAL (1 STL),,,1,0,178
+0022300029,254,PT05M56.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,186
+0022300029,259,PT05M27.00S,2,1610612755,PHI,203496,Covington,R. Covington,234,55,24,Made,1,41,42,83,v,Covington 24' 3PT Running Jump Shot (6 PTS) (Harris 1 AST),Made Shot,Running Jump Shot,1,3,190
+0022300029,289,PT03M23.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,210
+0022300029,297,PT02M45.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington S.FOUL (P2.T3) (A.Smith),Foul,Shooting,1,0,216
+0022300029,314,PT01M22.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,229
+0022300029,326,PT00M05.80S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,239
+0022300029,340,PT11M26.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington P.FOUL (P3.T1) (A.Smith),Foul,Personal,1,0,248
+0022300029,348,PT10M29.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,253
+0022300029,429,PT10M29.00S,3,1610612755,PHI,203496,Covington,R. Covington,-5,8,1,Missed,1,,,0,v,MISS Covington 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,254
+0022300029,375,PT09M24.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington S.FOUL (P4.T2) (B.Taylor),Foul,Shooting,1,0,277
+0022300029,385,PT08M49.00S,3,1610612755,PHI,203496,Covington,R. Covington,-2,13,1,Missed,1,,,0,v,MISS Covington 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,284
+0022300029,395,PT08M15.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,SUB: Beverley FOR Covington,Substitution,,0,0,293
+0022300040,80,PT05M31.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington BLOCK (1 BLK),,,1,2,60
+0022300040,84,PT05M25.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,63
+0022300040,110,PT03M33.00S,1,1610612755,PHI,203496,Covington,R. Covington,-40,260,26,Missed,1,,,0,h,MISS Covington 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,81
+0022300040,120,PT02M36.00S,1,1610612755,PHI,203496,Covington,R. Covington,1,268,27,Made,1,20,23,43,h,Covington 27' 3PT Pullup Jump Shot (3 PTS) (Embiid 2 AST),Made Shot,Pullup Jump shot,1,3,90
+0022300040,140,PT01M16.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,105
+0022300040,142,PT01M11.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Jump Ball Covington vs. Niang: Tip to Beverley,Jump Ball,,1,0,106
+0022300040,145,PT01M06.00S,1,1610612755,PHI,203496,Covington,R. Covington,-53,14,5,Missed,1,,,0,h,MISS Covington 5' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,107
+0022300040,428,PT04M07.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington BLOCK (2 BLK),,,1,2,315
+0022300040,444,PT03M22.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,325
+0022300040,466,PT01M41.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,341
+0022300040,468,PT01M33.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,343
+0022300040,469,PT01M32.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,344
+0022300040,471,PT01M26.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington STEAL (1 STL),,,1,0,347
+0022300040,480,PT00M35.20S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington STEAL (2 STL),,,1,0,354
+0022300040,500,PT11M34.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,363
+0022300040,511,PT10M58.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,371
+0022300040,524,PT09M38.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,SUB: Batum FOR Covington,Substitution,,0,0,382
+0022300040,686,PT00M13.50S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,SUB: Batum FOR Covington,Substitution,,0,0,499
+0022300074,8,PT11M46.00S,1,1610612746,LAC,203496,Covington,R. Covington,224,83,24,Missed,1,,,0,h,MISS Covington 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,4
+0022300074,12,PT11M35.00S,1,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+0022300074,23,PT10M26.00S,1,1610612746,LAC,203496,Covington,R. Covington,225,47,0,Missed,1,,,0,h,MISS Covington 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,16
+0022300074,71,PT07M05.00S,1,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington STEAL (1 STL),,,1,0,53
+0022300074,84,PT06M04.00S,1,1610612746,LAC,203496,Covington,R. Covington,9,8,1,Made,1,15,6,21,h,Covington 1' Running Dunk (2 PTS) (Leonard 2 AST),Made Shot,Running Dunk Shot,1,2,62
+0022300074,96,PT05M09.00S,1,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,SUB: Hyland FOR Covington,Substitution,,0,0,71
+0022300074,284,PT04M08.00S,2,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington STEAL (2 STL),,,1,0,204
+0022300074,286,PT03M52.00S,2,1610612746,LAC,203496,Covington,R. Covington,156,218,27,Made,1,57,40,97,h,Covington 27' 3PT Jump Shot (5 PTS) (Westbrook 7 AST),Made Shot,Jump Shot,1,3,205
+0022300074,295,PT03M08.00S,2,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington STEAL (3 STL),,,1,0,213
+0022300074,342,PT00M38.00S,2,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,246
+0022300074,349,PT00M01.50S,2,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington BLOCK (1 BLK),,,1,2,253
+0022300074,382,PT09M38.00S,3,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington P.FOUL (P1.T2) (J.Tiven),Foul,Personal,1,0,269
+0022300074,386,PT09M36.00S,3,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington S.FOUL (P2.T3) (J.DeRosa),Foul,Shooting,1,0,271
+0022300074,424,PT06M13.00S,3,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,303
+0022300074,451,PT05M22.00S,3,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,SUB: Powell FOR Covington,Substitution,,0,0,313
+0022300074,596,PT06M37.00S,4,1610612746,LAC,203496,Covington,R. Covington,-65,256,26,Missed,1,,,0,h,MISS Covington 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,427
+0022300074,607,PT05M25.00S,4,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,434
+0022300074,614,PT05M18.00S,4,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,SUB: Brown FOR Covington,Substitution,,0,0,440
+0022300085,11,PT11M08.00S,1,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington STEAL (1 STL),,,1,0,6
+0022300085,28,PT09M56.00S,1,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington L.B.FOUL (P1.T1) (K.Cutler),Foul,Loose Ball,1,0,21
+0022300085,47,PT07M58.00S,1,1610612746,LAC,203496,Covington,R. Covington,-238,-1,24,Made,1,12,9,21,v,Covington 24' 3PT Jump Shot (3 PTS) (Westbrook 2 AST),Made Shot,Jump Shot,1,3,36
+0022300085,58,PT06M44.00S,1,1610612746,LAC,203496,Covington,R. Covington,-229,127,26,Missed,1,,,0,v,MISS Covington 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,44
+0022300085,75,PT05M51.00S,1,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington STEAL (2 STL),,,1,0,57
+0022300085,79,PT05M48.00S,1,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,20,15,35,v,Covington Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,59
+0022300085,82,PT05M48.00S,1,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,v,MISS Covington Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,61
+0022300085,96,PT04M35.00S,1,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,v,SUB: Powell FOR Covington,Substitution,,0,0,72
+0022300085,255,PT05M36.00S,2,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington S.FOUL (P2.T4) (K.Cutler),Foul,Shooting,1,0,186
+0022300085,286,PT02M23.00S,2,1610612746,LAC,203496,Covington,R. Covington,126,220,25,Missed,1,,,0,v,MISS Covington 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,207
+0022300085,288,PT02M04.00S,2,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington S.FOUL (P3.PN) (J.Goldenberg),Foul,Shooting,1,0,209
+0022300085,293,PT02M04.00S,2,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,v,SUB: Powell FOR Covington,Substitution,,0,0,213
+0022300085,377,PT07M24.00S,3,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,274
+0022300085,418,PT05M05.00S,3,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington P.FOUL (P4.T2) (D.Guthrie),Foul,Personal,1,0,305
+0022300085,420,PT05M05.00S,3,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,v,SUB: Powell FOR Covington,Substitution,,0,0,306
+0022300099,23,PT10M36.00S,1,1610612746,LAC,203496,Covington,R. Covington,-232,20,0,Missed,1,,,0,h,MISS Covington 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,16
+0022300099,39,PT09M25.00S,1,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,30
+0022300099,101,PT04M09.00S,1,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,SUB: Plumlee FOR Covington,Substitution,,0,0,82
+0022300099,228,PT08M19.00S,2,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington P.FOUL (P1.T3) (C.Flores),Foul,Personal,1,0,174
+0022300099,318,PT02M02.00S,2,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,SUB: Powell FOR Covington,Substitution,,0,0,236
+0022300099,398,PT07M29.00S,3,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington BLOCK (1 BLK),,,1,2,294
+0022300099,450,PT04M57.00S,3,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,333
+0022300099,458,PT04M23.00S,3,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington STEAL (1 STL),,,1,0,340
+0022300099,489,PT01M55.00S,3,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,364
+0022300099,498,PT01M25.00S,3,1610612746,LAC,203496,Covington,R. Covington,0,0,0,,0,,,0,h,SUB: Powell FOR Covington,Substitution,,0,0,371
+0022300132,91,PT05M37.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington S.FOUL (P1.T4) (M.Boland),Foul,Shooting,1,0,65
+0022300132,105,PT04M32.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,76
+0022300132,141,PT01M38.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington STEAL (1 STL),,,1,0,104
+0022300132,149,PT01M20.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,110
+0022300132,150,PT00M59.10S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,111
+0022300132,548,PT09M48.00S,4,1610612755,PHI,203496,Covington,R. Covington,240,63,25,Missed,1,,,0,h,MISS Covington 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,397
+0022300132,589,PT06M42.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington OFF.Foul (P2) (E.Dalen),Foul,Offensive,1,0,427
+0022300132,591,PT06M42.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington Offensive Foul Turnover (P2.T16),Turnover,Offensive Foul Turnover,1,0,428
+0022300132,592,PT06M27.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington STEAL (2 STL),,,1,0,430
+0022300132,634,PT03M50.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,460
+0022300132,648,PT03M12.00S,4,1610612755,PHI,203496,Covington,R. Covington,178,200,27,Missed,1,,,0,h,MISS Covington 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,470
+0022300132,650,PT03M03.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington BLOCK (1 BLK),,,1,2,473
+0022300132,668,PT02M25.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,109,93,202,h,Covington Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,482
+0022300132,673,PT02M25.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,110,93,203,h,Covington Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,485
+0022300132,676,PT02M05.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington P.FOUL (P3.PN) (E.Dalen),Foul,Personal,1,0,488
+0022300132,685,PT01M16.00S,4,1610612755,PHI,203496,Covington,R. Covington,121,238,27,Missed,1,,,0,h,MISS Covington 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,494
+0022300132,709,PT00M15.90S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,513
+0022300148,595,PT07M18.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington STEAL (1 STL),,,1,0,421
+0022300148,597,PT07M14.00S,4,1610612755,PHI,203496,Covington,R. Covington,-1,22,2,Made,1,135,111,246,h,Covington 2' Layup (2 PTS) (Reed 2 AST),Made Shot,Layup Shot,1,2,422
+0022300148,611,PT06M43.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,137,111,248,h,Covington Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,432
+0022300148,614,PT06M43.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,138,111,249,h,Covington Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,434
+0022300148,615,PT06M31.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,1,0,435
+0022300148,625,PT06M01.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington BLOCK (1 BLK),,,1,2,444
+0022300148,629,PT05M40.00S,4,1610612755,PHI,203496,Covington,R. Covington,-129,229,26,Made,1,141,114,255,h,Covington 26' 3PT Jump Shot (7 PTS) (Korkmaz 2 AST),Made Shot,Jump Shot,1,3,447
+0022300148,636,PT05M12.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington STEAL (2 STL),,,1,0,454
+0022300148,642,PT04M48.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington P.FOUL (P2.T2) (J.Tiven),Foul,Personal,1,0,459
+0022300148,644,PT04M36.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington STEAL (3 STL),,,1,0,461
+0022300148,651,PT03M58.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,SUB: Martin FOR Covington,Substitution,,0,0,466
+0022300159,120,PT01M44.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington S.FOUL (P1.T3) (L.Holtkamp),Foul,Shooting,0,0,95
+0022300159,145,PT00M13.40S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,SUB: Harris FOR Covington,Substitution,,0,0,111
+0022300159,285,PT02M45.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington STEAL (1 STL),,,1,0,218
+0022300159,291,PT02M19.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,222
+0022300159,300,PT02M03.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,SUB: Batum FOR Covington,Substitution,,0,0,228
+0022300159,453,PT02M33.00S,3,1610612755,PHI,203496,Covington,R. Covington,-165,222,28,Missed,1,,,0,h,MISS Covington 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,347
+0022300159,455,PT02M11.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington STEAL (2 STL),,,1,0,350
+0022300159,468,PT00M53.40S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,361
+0022300159,469,PT00M49.20S,3,1610612755,PHI,203496,Covington,R. Covington,137,230,27,Made,1,79,71,150,h,Covington 27' 3PT Step Back Jump Shot (3 PTS) (Oubre Jr. 1 AST),Made Shot,Step Back Jump shot,1,3,362
+0022300159,582,PT03M32.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington P.FOUL (P2.T2) (D.Taylor),Foul,Personal,1,0,441
+0022300159,590,PT02M28.00S,4,1610612755,PHI,203496,Covington,R. Covington,-11,26,3,Missed,1,,,0,h,MISS Covington 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,446
+0022300159,591,PT02M23.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,447
+0022300159,592,PT02M23.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,Made,1,104,90,194,h,Covington Putback Layup (5 PTS),Made Shot,Putback Layup Shot,1,2,448
+0022300159,605,PT01M46.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,SUB: Batum FOR Covington,Substitution,,0,0,458
+0022300180,117,PT03M04.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,85
+0022300180,118,PT02M59.00S,1,1610612755,PHI,203496,Covington,R. Covington,120,239,27,Missed,1,,,0,h,MISS Covington 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,86
+0022300180,139,PT01M23.00S,1,1610612755,PHI,203496,Covington,R. Covington,6,26,3,Missed,1,,,0,h,MISS Covington 3' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,2,103
+0022300180,140,PT01M21.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,104
+0022300180,150,PT00M31.40S,1,1610612755,PHI,203496,Covington,R. Covington,86,63,11,Made,1,36,27,63,h,Covington 11' Turnaround Fadeaway Bank Jump Shot (2 PTS) (Beverley 1 AST),Made Shot,Turnaround Fadeaway Bank Jump Shot,1,2,113
+0022300180,182,PT11M16.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington S.FOUL (P1.T1) (L.Wood),Foul,Shooting,1,0,131
+0022300180,185,PT11M14.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,133
+0022300180,238,PT06M54.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,172
+0022300180,259,PT05M21.00S,2,1610612755,PHI,203496,Covington,R. Covington,7,4,1,Missed,1,,,0,h,MISS Covington 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,182
+0022300180,263,PT05M20.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,SUB: Melton FOR Covington,Substitution,,0,0,185
+0022300180,449,PT03M10.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,329
+0022300180,484,PT00M47.90S,3,1610612755,PHI,203496,Covington,R. Covington,-31,279,28,Missed,1,,,0,h,MISS Covington 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,351
+0022300194,17,PT10M35.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington S.FOUL (P1.T1) (C.Washington),Foul,Shooting,1,0,12
+0022300194,34,PT08M35.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,25
+0022300194,35,PT08M35.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,Made,1,10,8,18,h,Covington Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,2,26
+0022300194,45,PT08M07.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,34
+0022300194,46,PT08M07.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,Made,1,12,10,22,h,Covington Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,1,2,35
+0022300194,49,PT07M39.00S,1,1610612755,PHI,203496,Covington,R. Covington,78,251,26,Missed,1,,,0,h,MISS Covington 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,38
+0022300194,61,PT06M03.00S,1,1610612755,PHI,203496,Covington,R. Covington,49,55,7,Made,1,16,16,32,h,Covington 7' Turnaround Bank Hook Shot (6 PTS) (Embiid 2 AST),Made Shot,Turnaround Bank Hook Shot,1,2,47
+0022300194,77,PT04M57.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,17,20,37,h,Covington Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,58
+0022300194,82,PT04M57.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,18,20,38,h,Covington Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,61
+0022300194,85,PT04M34.00S,1,1610612755,PHI,203496,Covington,R. Covington,230,57,24,Missed,1,,,0,h,MISS Covington 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,64
+0022300194,104,PT02M56.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,SUB: House Jr. FOR Covington,Substitution,,0,0,81
+0022300194,182,PT09M12.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington STEAL (1 STL),,,1,0,134
+0022300194,188,PT08M55.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Jump Ball Covington vs. White: Tip to Reed,Jump Ball,,1,0,138
+0022300194,191,PT08M51.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington STEAL (2 STL),,,1,0,140
+0022300194,200,PT08M06.00S,2,1610612755,PHI,203496,Covington,R. Covington,-244,41,25,Missed,1,,,0,h,MISS Covington 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,146
+0022300194,206,PT07M24.00S,2,1610612755,PHI,203496,Covington,R. Covington,-12,5,1,Made,1,36,47,83,h,Covington 1' Driving Finger Roll Layup (10 PTS) (Reed 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,151
+0022300194,263,PT03M14.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,SUB: Harris FOR Covington,Substitution,,0,0,196
+0022300194,309,PT10M52.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,227
+0022300194,349,PT07M15.00S,3,1610612755,PHI,203496,Covington,R. Covington,33,33,5,Made,1,69,67,136,h,Covington 5' Cutting Layup Shot (12 PTS) (Embiid 5 AST),Made Shot,Cutting Layup Shot,1,2,259
+0022300194,379,PT03M25.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,283
+0022300194,380,PT03M25.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,Missed,1,,,0,h,MISS Covington Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,284
+0022300194,406,PT02M10.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,74,80,154,h,Covington Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,303
+0022300194,407,PT02M10.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,75,80,155,h,Covington Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,304
+0022300194,551,PT04M01.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,407
+0022300194,552,PT03M45.00S,4,1610612755,PHI,203496,Covington,R. Covington,6,25,3,Made,1,100,105,205,h,Covington 3' Driving Finger Roll Layup (16 PTS) (Embiid 6 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,408
+0022300194,571,PT01M46.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,420
+0022300194,572,PT01M30.00S,4,1610612755,PHI,203496,Covington,R. Covington,-21,25,3,Missed,1,,,0,h,MISS Covington 3' Layup,Missed Shot,Layup Shot,1,2,421
+0022300194,585,PT00M39.80S,4,1610612755,PHI,203496,Covington,R. Covington,-150,231,28,Missed,1,,,0,h,MISS Covington 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,434
+0022300194,594,PT00M20.60S,4,1610612755,PHI,203496,Covington,R. Covington,227,96,25,Missed,1,,,0,h,MISS Covington 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,440
+0022300208,138,PT00M51.50S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington P.FOUL (P1.T4) (J.Orr),Foul,Personal,1,0,102
+0022300208,146,PT00M30.60S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,107
+0022300208,416,PT03M03.00S,3,1610612755,PHI,203496,Covington,R. Covington,15,11,2,Made,1,65,86,151,v,Covington 2' Cutting Layup Shot (2 PTS) (Embiid 8 AST),Made Shot,Cutting Layup Shot,1,2,298
+0022300208,424,PT02M49.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington STEAL (1 STL),,,1,0,303
+0022300208,444,PT01M39.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington BLOCK (1 BLK),,,1,2,319
+0022300208,455,PT00M39.60S,3,1610612755,PHI,203496,Covington,R. Covington,20,11,2,Made,1,67,94,161,v,Covington 2' Layup (4 PTS) (Embiid 9 AST),Made Shot,Layup Shot,1,2,327
+0022300208,468,PT00M04.60S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,335
+0022300232,151,PT01M08.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,110
+0022300232,154,PT01M08.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,MISS Covington Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,112
+0022300232,156,PT01M08.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,34,18,52,v,Covington Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,114
+0022300232,199,PT09M56.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,145
+0022300232,221,PT08M18.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington BLOCK (1 BLK),,,1,2,163
+0022300232,230,PT07M57.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington P.FOUL (P1.T1) (T.Washington),Foul,Personal,1,0,169
+0022300232,281,PT04M12.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,SUB: Springer FOR Covington,Substitution,,0,0,209
+0022300232,340,PT00M34.30S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington P.FOUL (P2.PN) (T.Washington),Foul,Personal,1,0,250
+0022300232,348,PT00M03.60S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,257
+0022300232,443,PT06M21.00S,3,1610612755,PHI,203496,Covington,R. Covington,10,21,2,Made,1,75,66,141,v,Covington 2' Reverse Layup (3 PTS) (Melton 2 AST),Made Shot,Reverse Layup Shot,1,2,320
+0022300232,479,PT04M36.00S,3,1610612755,PHI,203496,Covington,R. Covington,22,30,4,Made,1,80,71,151,v,Covington 4' Driving Layup (5 PTS) (Beverley 1 AST),Made Shot,Driving Layup Shot,1,2,346
+0022300232,487,PT03M50.00S,3,1610612755,PHI,203496,Covington,R. Covington,207,146,25,Missed,1,,,0,v,MISS Covington 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,352
+0022300232,689,PT03M09.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington BLOCK (2 BLK),,,1,2,363
+0022300232,691,PT03M08.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,364
+0022300232,501,PT02M57.00S,3,1610612755,PHI,203496,Covington,R. Covington,12,35,4,Missed,1,,,0,v,MISS Covington 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,365
+0022300232,523,PT00M57.60S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,382
+0022300232,614,PT06M45.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,443
+0022300232,633,PT05M35.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,SUB: House Jr. FOR Covington,Substitution,,0,0,460
+0022300239,132,PT02M38.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington BLOCK (1 BLK),,,1,3,96
+0022300239,139,PT02M27.00S,1,1610612755,PHI,203496,Covington,R. Covington,-224,147,27,Missed,1,,,0,v,MISS Covington 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,101
+0022300239,141,PT02M20.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington P.FOUL (P1.T3) (M.Ervin),Foul,Personal,1,0,103
+0022300239,195,PT10M24.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington P.FOUL (P2.T1) (B.Kennedy),Foul,Personal,1,0,134
+0022300239,201,PT10M11.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington STEAL (1 STL),,,1,0,137
+0022300239,235,PT07M41.00S,2,1610612755,PHI,203496,Covington,R. Covington,67,54,9,Made,1,43,38,81,v,Covington 9' Driving Floating Bank Jump Shot (2 PTS) (Melton 4 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,166
+0022300239,240,PT07M34.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,SUB: Batum FOR Covington,Substitution,,0,0,169
+0022300239,358,PT00M20.70S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,SUB: Harris FOR Covington,Substitution,,0,0,251
+0022300239,537,PT00M23.20S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington P.FOUL (P3.T2) (B.Kennedy),Foul,Personal,1,0,375
+0022300239,543,PT00M12.10S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,SUB: Maxey FOR Covington,Substitution,,0,0,379
+0022300239,567,PT11M16.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,85,94,179,v,Covington Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,388
+0022300239,568,PT11M16.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,MISS Covington Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,389
+0022300239,571,PT10M56.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington S.FOUL (P4.T1) (D.Taylor),Foul,Shooting,1,0,392
+0022300239,575,PT10M40.00S,4,1610612755,PHI,203496,Covington,R. Covington,153,208,26,Made,1,87,97,184,v,Covington 26' 3PT Jump Shot (6 PTS) (Maxey 3 AST),Made Shot,Jump Shot,1,3,395
+0022300239,596,PT08M48.00S,4,1610612755,PHI,203496,Covington,R. Covington,-224,125,26,Made,1,93,103,196,v,Covington 26' 3PT Jump Shot (9 PTS) (Beverley 3 AST),Made Shot,Jump Shot,1,3,410
+0022300239,616,PT06M48.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington P.FOUL (P5.T3) (D.Taylor),Foul,Personal,1,0,424
+0022300239,646,PT04M43.00S,4,1610612755,PHI,203496,Covington,R. Covington,-4,155,16,Missed,1,,,0,v,MISS Covington 16' Jump Shot,Missed Shot,Jump Shot,1,2,447
+0022300239,652,PT04M02.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,453
+0022300239,675,PT02M36.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,SUB: Harris FOR Covington,Substitution,,0,0,471
+0022300255,88,PT04M47.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington BLOCK (1 BLK),,,1,2,62
+0022300255,90,PT04M44.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,63
+0022300255,92,PT04M33.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,65
+0022300255,96,PT04M13.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,68
+0022300255,109,PT02M59.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,78
+0022300255,121,PT02M31.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,86
+0022300255,264,PT03M00.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,180
+0022300255,270,PT02M21.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington P.FOUL (P1.PN) (S.Corbin),Foul,Personal,1,0,185
+0022300255,392,PT04M55.00S,3,1610612755,PHI,203496,Covington,R. Covington,-60,267,27,Missed,1,,,0,h,MISS Covington 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,271
+0022300255,424,PT02M31.00S,3,1610612755,PHI,203496,Covington,R. Covington,-10,15,2,Missed,1,,,0,h,MISS Covington 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,296
+0022300255,606,PT01M08.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,434
+0022300255,617,PT00M41.20S,4,1610612755,PHI,203496,Covington,R. Covington,115,279,30,Missed,1,,,0,h,MISS Covington 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,444
+0022300262,100,PT03M36.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,74
+0022300262,113,PT02M33.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington S.FOUL (P1.T4) (K.Cutler),Foul,Shooting,1,0,82
+0022300262,137,PT00M56.90S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington S.FOUL (P2.PN) (K.Cutler),Foul,Shooting,1,0,98
+0022300262,342,PT01M29.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,237
+0022300262,440,PT07M03.00S,3,1610612755,PHI,203496,Covington,R. Covington,222,63,0,Made,1,85,61,146,v,Covington 3PT Jump Shot (3 PTS) (Harris 1 AST),Made Shot,Jump Shot,1,3,303
+0022300262,456,PT06M18.00S,3,1610612755,PHI,203496,Covington,R. Covington,28,-4,3,Missed,1,,,0,v,MISS Covington 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,311
+0022300262,498,PT02M40.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,340
+0022300262,500,PT02M25.00S,3,1610612755,PHI,203496,Covington,R. Covington,223,20,0,Made,1,97,76,173,v,Covington 3PT Jump Shot (6 PTS) (Beverley 5 AST),Made Shot,Jump Shot,1,3,341
+0022300262,513,PT01M46.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington T.FOUL (P2.PN) (J.Goldenberg),Foul,Technical,1,0,349
+0022300262,525,PT01M11.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,359
+0022300262,527,PT00M53.20S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,361
+0022300262,601,PT08M30.00S,4,1610612755,PHI,203496,Covington,R. Covington,-146,220,26,Made,1,110,90,200,v,Covington 26' 3PT Jump Shot (9 PTS) (Martin 1 AST),Made Shot,Jump Shot,1,3,414
+0022300262,615,PT07M03.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington S.FOUL (P3.T2) (K.Cutler),Foul,Shooting,1,0,424
+0022300262,649,PT05M04.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington BLOCK (1 BLK),,,1,2,449
+0022300262,656,PT04M47.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,454
+0022300262,657,PT04M38.00S,4,1610612755,PHI,203496,Covington,R. Covington,232,6,0,Made,1,116,100,216,v,Covington 3PT Jump Shot (12 PTS) (Harris 2 AST),Made Shot,Jump Shot,1,3,455
+0022300262,700,PT02M01.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,484
+0022300275,90,PT05M31.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington STEAL (1 STL),,,1,0,71
+0022300275,93,PT05M15.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington STEAL (2 STL),,,1,0,74
+0022300275,95,PT05M10.00S,1,1610612755,PHI,203496,Covington,R. Covington,184,204,27,Made,1,25,23,48,v,Covington 27' 3PT Running Jump Shot (3 PTS) (Melton 1 AST),Made Shot,Running Jump Shot,1,3,75
+0022300275,133,PT03M10.00S,1,1610612755,PHI,203496,Covington,R. Covington,-61,269,28,Made,1,32,29,61,v,Covington 28' 3PT Jump Shot (6 PTS) (Beverley 2 AST),Made Shot,Jump Shot,1,3,101
+0022300275,137,PT02M41.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington STEAL (3 STL),,,1,0,105
+0022300275,161,PT01M27.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,38,33,71,v,Covington Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,121
+0022300275,162,PT01M27.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,38,34,72,v,Covington Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,122
+0022300275,165,PT01M17.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,124
+0022300275,166,PT01M08.00S,1,1610612755,PHI,203496,Covington,R. Covington,-82,271,28,Missed,1,,,0,v,MISS Covington 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,125
+0022300275,271,PT05M24.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington STEAL (4 STL),,,1,0,201
+0022300275,276,PT04M35.00S,2,1610612755,PHI,203496,Covington,R. Covington,-240,30,24,Missed,1,,,0,v,MISS Covington 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,204
+0022300275,292,PT04M07.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington BLOCK (1 BLK),,,1,2,216
+0022300275,299,PT03M46.00S,2,1610612755,PHI,203496,Covington,R. Covington,-30,10,3,Made,1,58,63,121,v,Covington 3' Hook Bank Shot (10 PTS) (Morris Sr. 1 AST),Made Shot,Hook Bank Shot,1,2,221
+0022300275,412,PT05M59.00S,3,1610612755,PHI,203496,Covington,R. Covington,-53,74,9,Missed,1,,,0,v,MISS Covington 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,307
+0022300275,420,PT05M18.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,84,80,164,v,Covington Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,314
+0022300275,421,PT05M18.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,84,81,165,v,Covington Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,315
+0022300275,443,PT03M59.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington STEAL (5 STL),,,1,0,336
+0022300275,479,PT01M52.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,366
+0022300275,482,PT01M27.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington S.FOUL (P1.PN) (P.Ransom),Foul,Shooting,1,0,369
+0022300275,497,PT00M26.80S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,380
+0022300275,510,PT00M02.60S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,95,95,190,v,Covington Free Throw Technical (13 PTS),Free Throw,Free Throw Technical,1,0,387
+0022300275,514,PT00M02.60S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,95,96,191,v,Covington Free Throw Flagrant 1 of 2 (14 PTS),Free Throw,Free Throw Flagrant 1 of 2,1,0,390
+0022300275,515,PT00M02.60S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,95,97,192,v,Covington Free Throw Flagrant 2 of 2 (15 PTS),Free Throw,Free Throw Flagrant 2 of 2,1,0,391
+0022300275,548,PT09M30.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington S.FOUL (P2.T1) (P.Ransom),Foul,Shooting,1,0,416
+0022300275,560,PT08M28.00S,4,1610612755,PHI,203496,Covington,R. Covington,-44,269,27,Made,1,104,104,208,v,Covington 27' 3PT Jump Shot (18 PTS) (Beverley 6 AST),Made Shot,Jump Shot,1,3,426
+0022300275,564,PT08M07.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington P.FOUL (P3.T2) (P.Ransom),Foul,Personal,1,0,429
+0022300275,596,PT06M21.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,453
+0022300275,597,PT06M19.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington Lost Ball Turnover (P1.T14),Turnover,Lost Ball,1,0,454
+0022300275,606,PT05M10.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,462
+0022300275,607,PT05M09.00S,4,1610612755,PHI,203496,Covington,R. Covington,11,53,5,Missed,1,,,0,v,MISS Covington 5' Putback Layup,Missed Shot,Putback Layup Shot,1,2,463
+0022300275,654,PT01M43.00S,4,1610612755,PHI,203496,Covington,R. Covington,-232,59,24,Missed,1,,,0,v,MISS Covington 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,497
+0022300275,662,PT01M18.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington Offensive Charge Foul (P4) (N.Buchert),Foul,Offensive Charge,1,0,503
+0022300275,664,PT01M18.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington Offensive Foul Turnover (P2.T16),Turnover,Offensive Foul Turnover,1,0,504
+0022300295,231,PT08M36.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,168
+0022300295,242,PT07M16.00S,2,1610612755,PHI,203496,Covington,R. Covington,239,37,24,Made,1,58,32,90,h,Covington 24' 3PT Jump Shot (3 PTS) (Maxey 4 AST),Made Shot,Jump Shot,1,3,178
+0022300295,277,PT05M43.00S,2,1610612755,PHI,203496,Covington,R. Covington,125,236,27,Missed,1,,,0,h,MISS Covington 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,204
+0022300295,284,PT05M11.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,210
+0022300295,304,PT03M47.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington P.FOUL (P1.T3) (K.Lane),Foul,Personal,1,0,226
+0022300295,306,PT03M47.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,SUB: Maxey FOR Covington,Substitution,,0,0,227
+0022300295,462,PT02M10.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington STEAL (1 STL),,,1,0,345
+0022300295,502,PT00M00.60S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,111,67,178,h,Covington Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,368
+0022300295,503,PT00M00.60S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,112,67,179,h,Covington Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,369
+0022300295,518,PT11M28.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,377
+0022300295,528,PT10M35.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,384
+0022300295,529,PT10M27.00S,4,1610612755,PHI,203496,Covington,R. Covington,-55,248,25,Made,1,116,69,185,h,Covington 25' 3PT Jump Shot (8 PTS) (Melton 5 AST),Made Shot,Jump Shot,1,3,385
+0022300295,549,PT09M14.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,SUB: Korkmaz FOR Covington,Substitution,,0,0,401
+0022300310,205,PT09M47.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,148
+0022300310,216,PT08M51.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,157
+0022300310,258,PT05M11.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington P.FOUL (P1.PN) (E.Dalen),Foul,Personal,1,0,184
+0022300310,274,PT04M33.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,194
+0022300310,284,PT03M50.00S,2,1610612755,PHI,203496,Covington,R. Covington,-88,240,26,Missed,1,,,0,v,MISS Covington 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,203
+0022300310,296,PT02M57.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,SUB: Maxey FOR Covington,Substitution,,0,0,213
+0022300310,518,PT11M52.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington P.FOUL (P2.T1) (E.Dalen),Foul,Personal,1,0,380
+0022300310,527,PT11M06.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,386
+0022300310,532,PT10M44.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,390
+0022300310,533,PT10M35.00S,4,1610612755,PHI,203496,Covington,R. Covington,-211,158,26,Missed,1,,,0,v,MISS Covington 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,391
+0022300310,566,PT08M27.00S,4,1610612755,PHI,203496,Covington,R. Covington,15,38,4,Made,1,86,111,197,v,Covington 4' Driving Floating Jump Shot (2 PTS) (Morris Sr. 2 AST),Made Shot,Driving Floating Jump Shot,1,2,415
+0022300310,576,PT08M27.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,86,112,198,v,Covington Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,418
+0022300310,605,PT05M52.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,439
+0022300310,621,PT04M59.00S,4,1610612755,PHI,203496,Covington,R. Covington,-7,63,6,Made,1,94,120,214,v,Covington 6' Fadeaway Jumper (5 PTS) (Springer 1 AST),Made Shot,Fadeaway Jump Shot,1,2,451
+0022300310,630,PT04M04.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington Discontinue Dribble Turnover (P1.T11),Turnover,Discontinue Dribble,1,0,457
+0022300310,631,PT04M04.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,SUB: Martin FOR Covington,Substitution,,0,0,458
+0022300327,230,PT07M15.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington STEAL (1 STL),,,1,0,174
+0022300327,246,PT06M30.00S,2,1610612755,PHI,203496,Covington,R. Covington,47,42,6,Missed,1,,,0,h,MISS Covington 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,181
+0022300327,248,PT06M30.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,182
+0022300327,305,PT03M19.00S,2,1610612755,PHI,203496,Covington,R. Covington,147,223,27,Missed,1,,,0,h,MISS Covington 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,222
+0022300327,309,PT03M01.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,226
+0022300327,316,PT02M39.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,SUB: Maxey FOR Covington,Substitution,,0,0,231
+0022300327,600,PT08M32.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,442
+0022300327,608,PT07M08.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington Lost Ball Turnover (P1.T11),Turnover,Lost Ball,1,0,449
+0022300327,615,PT06M31.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington Violation:Kicked Ball (B.Kennedy),Violation,Kicked Ball,0,0,455
+0022300327,618,PT06M31.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,SUB: Korkmaz FOR Covington,Substitution,,0,0,458
+0022300335,205,PT07M54.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington BLOCK (1 BLK),,,1,3,155
+0022300335,207,PT07M50.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,156
+0022300335,270,PT03M16.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,SUB: Harris FOR Covington,Substitution,,0,0,201
+0022300335,467,PT11M33.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington P.FOUL (P1.T1) (M.Kallio),Foul,Personal,1,0,342
+0022300335,476,PT10M03.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,350
+0022300335,477,PT09M54.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington Traveling Turnover (P1.T8),Turnover,Traveling,1,0,351
+0022300335,483,PT09M07.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington S.FOUL (P2.T2) (J.Van Duyne),Foul,Shooting,1,0,357
+0022300335,491,PT08M21.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,364
+0022300335,515,PT06M37.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,SUB: Bamba FOR Covington,Substitution,,0,0,382
+0022300351,133,PT00M01.70S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington STEAL (1 STL),,,1,0,103
+0022300351,135,PT00M00.10S,1,1610612755,PHI,203496,Covington,R. Covington,-17,195,20,Missed,1,,,0,h,MISS Covington 20' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,104
+0022300351,158,PT11M06.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington P.FOUL (P1.T1) (J.Capers),Foul,Personal,1,0,116
+0022300351,173,PT10M16.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington STEAL (2 STL),,,1,0,127
+0022300351,191,PT09M11.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,SUB: House Jr. FOR Covington,Substitution,,0,0,139
+0022300351,455,PT11M32.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington P.FOUL (P2.T1) (J.Capers),Foul,Personal,1,0,337
+0022300351,458,PT11M25.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,339
+0022300351,484,PT09M35.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington BLOCK (1 BLK),,,1,2,359
+0022300351,487,PT09M16.00S,4,1610612755,PHI,203496,Covington,R. Covington,-17,8,2,Missed,1,,,0,h,MISS Covington 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,361
+0022300351,511,PT07M36.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,378
+0022300351,505,PT07M33.00S,4,1610612755,PHI,203496,Covington,R. Covington,12,27,3,Made,1,84,87,171,h,Covington 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,379
+0022300351,556,PT04M03.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,SUB: Melton FOR Covington,Substitution,,0,0,413
+0022300382,108,PT03M05.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington STEAL (1 STL),,,1,0,77
+0022300382,134,PT01M30.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington P.FOUL (P1.T4) (R.Acosta),Foul,Personal,1,0,95
+0022300382,164,PT11M34.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington P.FOUL (P2.T1) (S.Twardoski),Foul,Personal,1,0,113
+0022300382,194,PT09M37.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington BLOCK (1 BLK),,,1,2,139
+0022300382,221,PT07M49.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington L.B.FOUL (P3.T2) (R.Acosta),Foul,Loose Ball,1,0,159
+0022300382,228,PT07M39.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,SUB: Harris FOR Covington,Substitution,,0,0,163
+0022300382,403,PT05M32.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,292
+0022300382,455,PT01M15.00S,3,1610612755,PHI,203496,Covington,R. Covington,-176,194,26,Missed,1,,,0,h,MISS Covington 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,324
+0022300382,496,PT10M56.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,353
+0022300382,508,PT09M19.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington S.FOUL (P4.T1) (C.Kirkland),Foul,Shooting,1,0,363
+0022300382,552,PT06M39.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,Covington REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,392
+0022300382,581,PT03M48.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,h,SUB: Harris FOR Covington,Substitution,,0,0,415
+0022300415,284,PT03M06.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington OFF.Foul (P1) (A.Moyer-Gleich),Foul,Offensive,1,0,221
+0022300415,286,PT03M06.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,222
+0022300415,302,PT01M33.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,233
+0022300415,438,PT03M49.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington STEAL (1 STL),,,1,0,329
+0022300415,466,PT01M01.00S,3,1610612755,PHI,203496,Covington,R. Covington,232,113,26,Missed,1,,,0,v,MISS Covington 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,350
+0022300415,473,PT00M23.00S,3,1610612755,PHI,203496,Covington,R. Covington,13,19,2,Made,1,73,84,157,v,Covington 2' Running Layup (2 PTS) (Beverley 2 AST),Made Shot,Running Layup Shot,1,2,357
+0022300415,499,PT11M36.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington STEAL (2 STL),,,1,0,374
+0022300415,505,PT11M36.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,MISS Covington Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,376
+0022300415,509,PT11M21.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington S.FOUL (P2.T1) (B.Forte),Foul,Shooting,1,0,380
+0022300415,529,PT09M36.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,SUB: Melton FOR Covington,Substitution,,0,0,396
+0022300434,120,PT02M57.00S,1,1610612755,PHI,203496,Covington,R. Covington,4,19,2,Made,1,24,19,43,v,Covington 2' Driving Floating Bank Jump Shot (2 PTS) (Harris 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,92
+0022300434,130,PT02M57.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,24,20,44,v,Covington Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,97
+0022300434,163,PT00M23.90S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,123
+0022300434,223,PT09M26.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington STEAL (1 STL),,,1,0,164
+0022300434,249,PT07M32.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,SUB: Harris FOR Covington,Substitution,,0,0,185
+0022300434,460,PT02M10.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington P.FOUL (P1.T2) (C.Kirkland),Foul,Personal,1,0,337
+0022300434,468,PT01M32.00S,3,1610612755,PHI,203496,Covington,R. Covington,-104,239,26,Missed,1,,,0,v,MISS Covington 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,344
+0022300434,470,PT01M16.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington P.FOUL (P2.T3) (R.Acosta),Foul,Personal,1,0,346
+0022300434,474,PT00M57.30S,3,1610612755,PHI,203496,Covington,R. Covington,-67,84,11,Missed,1,,,0,v,MISS Covington 11' Driving Layup,Missed Shot,Driving Layup Shot,1,2,348
+0022300434,483,PT00M04.90S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,356
+0022300434,484,PT00M04.90S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,Made,1,97,90,187,v,Covington Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,1,2,357
+0022300434,491,PT11M50.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington STEAL (2 STL),,,1,0,361
+0022300434,515,PT10M06.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,376
+0022300434,517,PT09M50.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington P.FOUL (P3.T1) (B.Maru),Foul,Personal,1,0,378
+0022300434,524,PT09M18.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,382
+0022300434,525,PT09M18.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,Made,1,101,96,197,v,Covington Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,1,2,383
+0022300434,537,PT07M55.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington STEAL (3 STL),,,1,0,392
+0022300434,541,PT07M48.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington S.FOUL (P4.T2) (R.Acosta),Foul,Shooting,1,0,395
+0022300434,544,PT07M48.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,SUB: Maxey FOR Covington,Substitution,,0,0,397
+0022300442,184,PT11M19.00S,2,1610612755,PHI,203496,Covington,R. Covington,169,190,25,Missed,1,,,0,v,MISS Covington 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,139
+0022300442,191,PT10M53.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,145
+0022300442,229,PT08M42.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,SUB: Reed FOR Covington,Substitution,,0,0,173
+0022301208,168,PT10M53.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington P.FOUL (P1.T1) (D.Guthrie),Foul,Personal,1,0,124
+0022301208,179,PT09M45.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,131
+0022301208,187,PT09M10.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,Covington Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,137
+0022301208,198,PT08M00.00S,2,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,,,0,v,SUB: Harris FOR Covington,Substitution,,0,0,144

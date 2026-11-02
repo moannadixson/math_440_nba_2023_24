@@ -1,0 +1,201 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300097,680,PT02M23.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-92,126,16,Missed,1,,,0,v,MISS Bufkin 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,480
+0022300097,692,PT01M32.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,490
+0022300097,695,PT01M30.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,MISS Bufkin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,492
+0022300097,697,PT01M30.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,105,127,232,v,Bufkin Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,494
+0022300097,701,PT01M02.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,497
+0022300097,702,PT00M55.60S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-200,153,25,Missed,1,,,0,v,MISS Bufkin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,498
+0022300104,619,PT00M52.80S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-78,27,8,Missed,1,,,0,h,MISS Bufkin 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,447
+0022300669,683,PT00M32.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,493
+0022300669,684,PT00M27.60S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-81,242,26,Made,1,138,120,258,h,Bufkin 26' 3PT Running Pull-Up Jump Shot (3 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,494
+0022300754,82,PT05M20.00S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,-80,247,26,Missed,1,,,0,h,MISS Bufkin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,55
+0022300754,189,PT10M54.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,137
+0022300754,197,PT10M10.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,SUB: Murray FOR Bufkin,Substitution,,0,0,143
+0022300754,423,PT05M57.00S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,-167,186,25,Made,1,77,65,142,h,Bufkin 25' 3PT Jump Shot (3 PTS) (Johnson 3 AST),Made Shot,Jump Shot,1,3,313
+0022300754,444,PT04M09.00S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,-230,2,0,Missed,1,,,0,h,MISS Bufkin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,329
+0022300754,467,PT02M23.00S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin L.B.FOUL (P1.T3) (T.Washington),Foul,Loose Ball,1,0,346
+0022300754,512,PT11M47.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,374
+0022300754,513,PT11M42.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,113,236,26,Missed,1,,,0,h,MISS Bufkin 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,375
+0022300754,514,PT11M39.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,376
+0022300754,536,PT10M35.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,SUB: Murray FOR Bufkin,Substitution,,0,0,391
+0022300777,630,PT02M19.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-109,148,18,Made,1,117,97,214,v,Bufkin 18' Pullup Jump Shot (2 PTS) (Fernando 1 AST),Made Shot,Pullup Jump shot,1,2,460
+0022300777,635,PT01M45.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,190,184,26,Missed,1,,,0,v,MISS Bufkin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,464
+0022300777,652,PT00M52.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin Out of Bounds - Bad Pass Turnover Turnover (P1.T16),Turnover,Out of Bounds - Bad Pass Turnover,1,0,478
+0022300821,143,PT01M37.00S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin BLOCK (1 BLK),,,1,2,109
+0022300821,145,PT01M34.00S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,110
+0022300821,169,PT00M03.50S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin Step Out of Bounds Turnover (P1.T4),Turnover,Step Out of Bounds Turnover,1,0,130
+0022300821,203,PT09M42.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin S.FOUL (P1.T1) (D.Collins),Foul,Shooting,1,0,152
+0022300821,222,PT08M12.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin STEAL (1 STL),,,1,0,167
+0022300821,224,PT08M09.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,-4,6,1,Missed,1,,,0,h,MISS Bufkin 1' Running Layup,Missed Shot,Running Layup Shot,1,2,168
+0022300821,228,PT08M08.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,SUB: Hunter FOR Bufkin,Substitution,,0,0,171
+0022300821,513,PT10M27.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-67,245,25,Missed,1,,,0,h,MISS Bufkin 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,380
+0022300821,532,PT09M12.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-43,110,12,Made,1,90,74,164,h,Bufkin 12' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,392
+0022300821,546,PT08M09.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-16,253,25,Missed,1,,,0,h,MISS Bufkin 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,403
+0022300821,549,PT07M55.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,SUB: Murray FOR Bufkin,Substitution,,0,0,406
+0022300835,122,PT02M53.00S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,-44,32,5,Missed,1,,,0,h,MISS Bufkin 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,94
+0022300835,146,PT00M50.00S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,114
+0022300835,147,PT00M44.00S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,58,151,16,Made,1,26,16,42,h,Bufkin 16' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,115
+0022300835,150,PT00M27.40S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,86,236,25,Missed,1,,,0,h,MISS Bufkin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,117
+0022300835,220,PT07M33.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,SUB: Murray FOR Bufkin,Substitution,,0,0,169
+0022300835,504,PT00M49.70S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,27,83,9,Made,1,87,69,156,h,Bufkin 9' Driving Floating Jump Shot (4 PTS) (Fernando 1 AST),Made Shot,Driving Floating Jump Shot,1,2,382
+0022300835,664,PT00M00.80S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin STEAL (1 STL),,,1,0,389
+0022300835,521,PT11M40.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,393
+0022300835,526,PT11M11.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin STEAL (2 STL),,,1,0,398
+0022300835,562,PT08M43.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Jump Ball Bufkin vs. Clarkson: Tip to Horton-Tucker,Jump Ball,,1,0,420
+0022300835,606,PT05M35.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-6,12,1,Missed,1,,,0,h,MISS Bufkin 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,452
+0022300835,625,PT04M34.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin S.FOUL (P1.PN) (D.Mosher),Foul,Shooting,1,0,465
+0022300835,643,PT03M47.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Bufkin,Substitution,,0,0,479
+0022300835,676,PT01M29.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-6,7,1,Missed,1,,,0,h,MISS Bufkin 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,502
+0022300835,684,PT00M54.30S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,156,190,25,Made,1,124,97,221,h,Bufkin 25' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,3,509
+0022300851,149,PT02M18.00S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,124,143,19,Missed,1,,,0,v,MISS Bufkin 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,108
+0022300851,153,PT01M47.00S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,47,63,8,Made,1,30,14,44,v,Bufkin 8' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,111
+0022300851,164,PT00M07.60S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,-42,13,4,Missed,1,,,0,v,MISS Bufkin 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,122
+0022300851,180,PT11M24.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,131
+0022300851,181,PT11M19.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,138,230,27,Missed,1,,,0,v,MISS Bufkin 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,132
+0022300851,194,PT09M49.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,125,186,22,Made,1,39,22,61,v,Bufkin 22' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,144
+0022300851,217,PT08M46.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,-181,163,24,Made,1,39,26,65,v,Bufkin 24' 3PT Jump Shot (7 PTS) (Capela 1 AST),Made Shot,Jump Shot,1,3,160
+0022300851,246,PT07M12.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,184,213,28,Missed,1,,,0,v,MISS Bufkin 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,180
+0022300851,259,PT06M25.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,SUB: Johnson FOR Bufkin,Substitution,,0,0,192
+0022300851,436,PT01M42.00S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,1,199,20,Missed,1,,,0,v,MISS Bufkin 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,319
+0022300851,440,PT01M16.00S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,323
+0022300851,453,PT00M10.60S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,-1,12,1,Made,1,94,75,169,v,Bufkin 1' Driving Finger Roll Layup (9 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,332
+0022300851,490,PT09M30.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin Step Out of Bounds Turnover (P1.T9),Turnover,Step Out of Bounds Turnover,1,0,362
+0022300851,491,PT09M30.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,SUB: Murray FOR Bufkin,Substitution,,0,0,363
+0022300851,584,PT04M28.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-10,267,27,Missed,1,,,0,v,MISS Bufkin 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,422
+0022300851,591,PT04M07.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,427
+0022300851,611,PT02M07.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-172,214,27,Made,1,120,95,215,v,Bufkin 27' 3PT Pullup Jump Shot (12 PTS) (Forrest 1 AST),Made Shot,Pullup Jump shot,1,3,443
+0022300851,614,PT01M37.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin Bad Pass Turnover (P2.T13),Turnover,Bad Pass,1,0,445
+0022300851,616,PT01M29.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin S.FOUL (P1.T4) (E.Dalen),Foul,Shooting,1,0,447
+0022300866,174,PT00M08.90S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,SUB: Murray FOR Bufkin,Substitution,,0,0,129
+0022300866,187,PT11M30.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin P.FOUL (P1.T1) (T.Brothers),Foul,Personal,1,0,137
+0022300866,202,PT09M36.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,MISS Bufkin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,146
+0022300866,208,PT09M36.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,28,34,62,v,Bufkin Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,150
+0022300866,213,PT09M00.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin P.FOUL (P2.T2) (K.Lane),Foul,Personal,1,0,155
+0022300866,250,PT06M57.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Bufkin,Substitution,,0,0,181
+0022300866,465,PT02M22.00S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,-27,33,4,Missed,1,,,0,v,MISS Bufkin 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,335
+0022300866,480,PT01M21.00S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,25,29,4,Missed,1,,,0,v,MISS Bufkin 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,348
+0022300866,510,PT00M00.90S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,369
+0022300866,519,PT11M42.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,374
+0022300866,522,PT11M21.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,9,73,7,Made,1,90,82,172,v,Bufkin 7' Floating Jump Shot (3 PTS),Made Shot,Floating Jump shot,1,2,377
+0022300866,540,PT09M54.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,151,29,15,Missed,1,,,0,v,MISS Bufkin 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,393
+0022300866,543,PT09M34.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,396
+0022300866,549,PT09M11.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,SUB: Capela FOR Bufkin,Substitution,,0,0,401
+0022300866,676,PT01M10.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,232,39,24,Missed,1,,,0,v,MISS Bufkin 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,491
+0022301091,136,PT00M59.80S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin S.FOUL (P1.T3) (B.Adair),Foul,Shooting,1,0,97
+0022301091,140,PT00M54.60S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,100
+0022301091,315,PT11M33.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,115
+0022301091,158,PT11M31.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,116
+0022301091,178,PT09M27.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin BLOCK (1 BLK),,,1,2,136
+0022301091,228,PT05M57.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,-154,242,29,Missed,1,,,0,v,MISS Bufkin 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,171
+0022301091,233,PT05M42.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Bufkin,Substitution,,0,0,175
+0022301091,460,PT00M49.10S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,92,145,17,Missed,1,,,0,v,MISS Bufkin 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,343
+0022301091,465,PT00M37.20S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,SUB: Murray FOR Bufkin,Substitution,,0,0,347
+0022301091,495,PT10M57.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-34,262,26,Made,1,79,93,172,v,Bufkin 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,366
+0022301091,528,PT08M19.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,SUB: Hunter FOR Bufkin,Substitution,,0,0,393
+0022301091,652,PT00M47.90S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,227,6,0,Missed,1,,,0,v,MISS Bufkin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,480
+0022301104,138,PT02M39.00S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,-227,22,0,Missed,1,,,0,h,MISS Bufkin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,104
+0022301104,156,PT01M07.00S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,233,-1,0,Made,1,28,23,51,h,Bufkin 3PT Jump Shot (3 PTS) (Bogdanovic 1 AST),Made Shot,Jump Shot,1,3,118
+0022301104,164,PT00M25.00S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,135,218,26,Missed,1,,,0,h,MISS Bufkin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,125
+0022301104,166,PT00M03.50S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin BLOCK (1 BLK),,,1,2,128
+0022301104,199,PT10M05.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,9,21,2,Made,1,30,26,56,h,Bufkin 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,154
+0022301104,201,PT09M28.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,175,4,18,Made,1,32,28,60,h,Bufkin 18' Step Back Jump Shot (7 PTS) (Johnson 3 AST),Made Shot,Step Back Jump shot,1,2,156
+0022301104,203,PT09M12.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin STEAL (1 STL),,,1,0,158
+0022301104,217,PT08M39.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin STEAL (2 STL),,,1,0,168
+0022301104,222,PT08M19.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin S.FOUL (P1.T2) (B.Forte),Foul,Shooting,1,0,171
+0022301104,225,PT08M19.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,SUB: Murray FOR Bufkin,Substitution,,0,0,173
+0022301104,452,PT01M55.00S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,341
+0022301104,453,PT01M54.00S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,-239,59,25,Missed,1,,,0,h,MISS Bufkin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,342
+0022301104,487,PT00M38.10S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin BLOCK (2 BLK),,,1,2,359
+0022301104,479,PT00M09.30S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,224,-25,0,Missed,1,,,0,h,MISS Bufkin 3PT Jump Shot,Missed Shot,Jump Shot,0,3,363
+0022301104,514,PT10M17.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-146,-22,15,Made,1,94,82,176,h,Bufkin 15' Step Back Jump Shot (9 PTS) (Fernando 3 AST),Made Shot,Step Back Jump shot,1,2,384
+0022301104,531,PT08M37.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,SUB: Murray FOR Bufkin,Substitution,,0,0,398
+0022301124,155,PT01M37.00S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,119
+0022301124,174,PT00M42.00S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin STEAL (1 STL),,,1,0,135
+0022301124,179,PT00M00.00S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,197,103,22,Made,1,25,31,56,v,Bufkin 22' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,138
+0022301124,198,PT11M17.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,132,226,26,Missed,1,,,0,v,MISS Bufkin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,144
+0022301124,203,PT10M58.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin P.FOUL (P1.T1) (C.Kirkland),Foul,Personal,1,0,148
+0022301124,208,PT10M30.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin S.FOUL (P2.T2) (D.Mosher),Foul,Shooting,1,0,152
+0022301124,227,PT09M04.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,SUB: Murray FOR Bufkin,Substitution,,0,0,170
+0022301124,482,PT01M58.00S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,-72,71,10,Made,1,90,77,167,v,Bufkin 10' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,361
+0022301124,487,PT01M16.00S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin S.FOUL (P3.T4) (C.Kirkland),Foul,Shooting,1,0,366
+0022301124,490,PT01M01.00S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,-110,105,15,Missed,1,,,0,v,MISS Bufkin 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,368
+0022301124,519,PT11M36.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-125,252,28,Made,1,93,84,177,v,Bufkin 28' 3PT Pullup Jump Shot (7 PTS) (Johnson 4 AST),Made Shot,Pullup Jump shot,1,3,383
+0022301124,528,PT11M02.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,389
+0022301124,546,PT09M39.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,5,159,16,Made,1,96,88,184,v,Bufkin 16' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,2,401
+0022301124,554,PT08M36.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,408
+0022301124,567,PT07M49.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,186,159,24,Missed,1,,,0,v,MISS Bufkin 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,420
+0022301124,571,PT07M32.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,SUB: Johnson FOR Bufkin,Substitution,,0,0,423
+0022301124,687,PT00M19.20S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-112,252,28,Missed,1,,,0,v,MISS Bufkin 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,506
+0022301130,132,PT01M47.00S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,-224,-1,0,Missed,1,,,0,v,MISS Bufkin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,101
+0022301130,189,PT10M49.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,140
+0022301130,204,PT09M42.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,SUB: Capela FOR Bufkin,Substitution,,0,0,151
+0022301130,516,PT11M04.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-34,20,4,Missed,1,,,0,v,MISS Bufkin 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,359
+0022301130,528,PT09M53.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin P.FOUL (P1.T1) (P.Fraher),Foul,Personal,1,0,370
+0022301130,553,PT07M59.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-229,99,25,Missed,1,,,0,v,MISS Bufkin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,390
+0022301130,565,PT07M09.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,SUB: Mathews FOR Bufkin,Substitution,,0,0,400
+0022301130,623,PT03M35.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,440
+0022301130,639,PT03M07.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,452
+0022301130,640,PT02M53.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-142,97,17,Made,1,131,108,239,v,Bufkin 17' Pullup Jump Shot (2 PTS) (Fernando 2 AST),Made Shot,Pullup Jump shot,1,2,453
+0022301130,650,PT02M07.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,21,259,26,Missed,1,,,0,v,MISS Bufkin 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,461
+0022301130,665,PT00M54.50S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,96,84,13,Made,1,140,110,250,v,Bufkin 13' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,473
+0022301147,114,PT02M14.00S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,80
+0022301147,136,PT00M39.40S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,-23,169,17,Missed,1,,,0,h,MISS Bufkin 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,93
+0022301147,141,PT00M02.40S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin STEAL (1 STL),,,1,0,99
+0022301147,143,PT00M01.50S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,170,342,38,Missed,1,,,0,h,MISS Bufkin 38' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,100
+0022301147,154,PT11M27.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,106
+0022301147,161,PT10M50.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin P.FOUL (P1.T1) (M.Boland),Foul,Personal,1,0,113
+0022301147,169,PT09M38.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,-178,185,26,Missed,1,,,0,h,MISS Bufkin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,119
+0022301147,181,PT08M48.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,76,8,8,Made,1,31,37,68,h,Bufkin 8' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,127
+0022301147,185,PT08M48.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,MISS Bufkin Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,129
+0022301147,188,PT08M34.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,132
+0022301147,189,PT08M26.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,69,78,10,Missed,1,,,0,h,MISS Bufkin 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,133
+0022301147,190,PT08M24.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,134
+0022301147,191,PT08M22.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,135
+0022301147,198,PT07M46.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,SUB: Hunter FOR Bufkin,Substitution,,0,0,141
+0022301147,473,PT11M13.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,121,12,Missed,1,,,0,h,MISS Bufkin 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,337
+0022301147,491,PT09M52.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-228,30,0,Missed,1,,,0,h,MISS Bufkin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,353
+0022301147,494,PT09M18.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,9,6,1,Missed,1,,,0,h,MISS Bufkin 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,356
+0022301147,504,PT08M46.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,118,143,19,Made,1,88,88,176,h,Bufkin 19' Pullup Jump Shot (4 PTS) (Matthews 1 AST),Made Shot,Pullup Jump shot,1,2,363
+0022301147,511,PT08M09.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin Out of Bounds - Bad Pass Turnover Turnover (P2.T12),Turnover,Out of Bounds - Bad Pass Turnover,1,0,367
+0022301147,512,PT08M09.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,SUB: Murray FOR Bufkin,Substitution,,0,0,368
+0022301159,69,PT06M31.00S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,-58,129,14,Missed,1,,,0,h,MISS Bufkin 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,47
+0022301159,107,PT03M35.00S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,-45,48,7,Made,1,23,25,48,h,Bufkin 7' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,73
+0022301159,115,PT03M04.00S,1,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,SUB: Young FOR Bufkin,Substitution,,0,0,79
+0022301159,215,PT07M07.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin Traveling Turnover (P1.T8),Turnover,Traveling,1,0,154
+0022301159,303,PT06M40.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,156,205,26,Missed,1,,,0,h,MISS Bufkin 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,157
+0022301159,257,PT03M48.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin P.FOUL (P1.T2) (M.Smith),Foul,Personal,1,0,185
+0022301159,263,PT03M48.00S,2,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,SUB: Mathews FOR Bufkin,Substitution,,0,0,188
+0022301159,356,PT06M53.00S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,250
+0022301159,359,PT06M50.00S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,82,66,148,h,Bufkin Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,252
+0022301159,364,PT06M50.00S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,83,66,149,h,Bufkin Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,255
+0022301159,365,PT06M40.00S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin S.FOUL (P2.T2) (M.Smith),Foul,Shooting,1,0,256
+0022301159,372,PT06M08.00S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin BLOCK (1 BLK),,,0,2,262
+0022301159,376,PT05M55.00S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,-94,160,19,Missed,1,,,0,h,MISS Bufkin 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,264
+0022301159,418,PT03M11.00S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,28,17,3,Made,1,87,73,160,h,Bufkin 3' Driving Floating Bank Jump Shot (6 PTS) (Mathews 4 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,295
+0022301159,422,PT03M11.00S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,MISS Bufkin Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,297
+0022301159,426,PT02M44.00S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,-16,12,2,Made,1,89,73,162,h,Bufkin 2' Driving Layup (8 PTS) (Forrest 2 AST),Made Shot,Driving Layup Shot,1,2,301
+0022301159,458,PT00M01.50S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,-91,210,23,Missed,1,,,0,h,MISS Bufkin 23' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,325
+0022301159,459,PT00M01.00S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,326
+0022301159,460,PT00M01.00S,3,1610612737,ATL,1641723,Bufkin,K. Bufkin,-109,118,16,Missed,1,,,0,h,MISS Bufkin 16' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,327
+0022301159,508,PT08M18.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-28,95,10,Missed,1,,,0,h,MISS Bufkin 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,357
+0022301159,511,PT07M53.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,93,116,15,Missed,1,,,0,h,MISS Bufkin 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,360
+0022301159,520,PT07M36.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin S.FOUL (P3.T2) (M.Smith),Foul,Shooting,1,0,366
+0022301159,530,PT07M08.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin S.FOUL (P4.T3) (J.Schroeder),Foul,Shooting,1,0,372
+0022301159,552,PT05M13.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,153,201,25,Made,1,106,99,205,h,Bufkin 25' 3PT Jump Shot (11 PTS) (Krejci 2 AST),Made Shot,Jump Shot,1,3,388
+0022301159,579,PT03M25.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-103,233,25,Missed,1,,,0,h,MISS Bufkin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,410
+0022301159,591,PT02M32.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,h,Bufkin S.FOUL (P5.PN) (J.Goble),Foul,Shooting,1,0,419
+0022301178,562,PT09M14.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,392
+0022301178,565,PT09M06.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,395
+0022301178,568,PT08M40.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,66,226,24,Missed,1,,,0,v,MISS Bufkin 24' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,398
+0022301178,598,PT06M43.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,235,47,24,Missed,1,,,0,v,MISS Bufkin 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,419
+0022301178,621,PT04M20.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,437
+0022301178,635,PT03M30.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,70,75,10,Made,1,98,100,198,v,Bufkin 10' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,1,2,446
+0022301178,658,PT01M47.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-4,9,1,Made,1,103,102,205,v,Bufkin 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,464
+0022301178,682,PT00M21.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin Personal Take Foul (P1.T3) (J.Goldenberg),Foul,Personal Take,1,0,481
+0022301178,687,PT00M18.60S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin Personal Take Foul (P2.PN) (A.Smith),Foul,Personal Take,1,0,483
+0022301178,706,PT00M04.40S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,496
+0022301178,707,PT00M04.40S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,Made,1,109,106,215,v,Bufkin Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,497
+0022301188,595,PT06M24.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-1,158,16,Made,1,144,108,252,v,Bufkin 16' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,426
+0022301188,625,PT03M52.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-142,216,26,Missed,1,,,0,v,MISS Bufkin 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,446
+0022301188,656,PT01M07.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,,,0,v,Bufkin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,472
+0022301188,657,PT00M55.20S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-93,104,14,Missed,1,,,0,v,MISS Bufkin 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,473

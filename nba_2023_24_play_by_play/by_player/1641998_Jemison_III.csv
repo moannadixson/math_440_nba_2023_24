@@ -1,0 +1,500 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300620,718,PT00M25.90S,4,1610612764,WAS,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Bad Pass Turnover (P1.T21),Turnover,Bad Pass,1,0,510
+0022300628,638,PT00M39.50S,4,1610612764,WAS,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,457
+0022300687,133,PT01M40.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison BLOCK (1 BLK),,,1,2,98
+0022300687,141,PT01M14.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,105
+0022300687,151,PT00M57.70S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,111
+0022300687,188,PT10M00.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison P.FOUL (P1.T1) (B.Forte),Foul,Personal,1,0,137
+0022300687,210,PT07M47.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,11,17,2,Made,1,38,30,68,h,Jemison 2' Running Layup (2 PTS) (Aldama 1 AST),Made Shot,Running Layup Shot,1,2,155
+0022300687,214,PT07M47.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,39,30,69,h,Jemison Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,157
+0022300687,220,PT07M27.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR Jemison,Substitution,,0,0,162
+0022300687,333,PT00M33.40S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison S.FOUL (P2.PN) (T.Brothers),Foul,Shooting,1,0,252
+0022300687,445,PT04M23.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison STEAL (1 STL),,,1,0,324
+0022300687,466,PT03M36.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,341
+0022300687,467,PT03M32.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,Made,1,74,73,147,h,Jemison Putback Dunk (5 PTS),Made Shot,Putback Dunk Shot,1,2,342
+0022300706,7,PT11M50.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison S.FOUL (P1.T1) (S.Twardoski),Foul,Shooting,1,0,3
+0022300706,14,PT11M18.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,9
+0022300706,15,PT11M13.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison OFF.Foul (P2) (S.Foster),Foul,Offensive,1,0,10
+0022300706,17,PT11M13.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,11
+0022300706,18,PT11M13.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,SUB: Evbuomwan FOR Jemison,Substitution,,0,0,12
+0022300706,216,PT08M33.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison BLOCK (1 BLK),,,1,2,172
+0022300706,224,PT08M04.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,178
+0022300706,225,PT08M04.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,Made,1,38,32,70,v,Jemison Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,179
+0022300706,250,PT05M19.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,44,41,85,v,Jemison Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,197
+0022300706,253,PT05M19.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,44,42,86,v,Jemison Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,199
+0022300706,260,PT04M23.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,-18,65,7,Missed,1,,,0,v,MISS Jemison 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,203
+0022300706,301,PT00M54.20S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison OFF.Foul (P3) (S.Foster),Foul,Offensive,1,0,235
+0022300706,303,PT00M54.20S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,1,0,236
+0022300706,304,PT00M54.20S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,SUB: Evbuomwan FOR Jemison,Substitution,,0,0,237
+0022300706,444,PT00M45.70S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,340
+0022300706,630,PT00M43.20S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison Lost Ball Turnover (P3.T15),Turnover,Lost Ball,0,0,342
+0022300706,483,PT11M25.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,-23,-2,2,Made,1,99,78,177,v,Jemison 2' Driving Reverse Layup (6 PTS) (Hurt 2 AST),Made Shot,Driving Reverse Layup Shot,1,2,363
+0022300706,512,PT09M05.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,386
+0022300706,525,PT08M20.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,1,95,10,Missed,1,,,0,v,MISS Jemison 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,396
+0022300706,535,PT07M13.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,SUB: Roddy FOR Jemison,Substitution,,0,0,405
+0022300706,579,PT04M30.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,437
+0022300706,588,PT03M39.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison BLOCK (2 BLK),,,1,2,446
+0022300706,625,PT00M27.70S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,-75,62,10,Missed,1,,,0,v,MISS Jemison 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,474
+0022300722,28,PT08M43.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,-87,17,9,Missed,1,,,0,v,MISS Jemison 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,21
+0022300722,35,PT08M12.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,-7,1,1,Made,1,12,4,16,v,Jemison 1' Cutting Dunk Shot (2 PTS) (Aldama 1 AST),Made Shot,Cutting Dunk Shot,1,2,27
+0022300722,75,PT04M07.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,SUB: Jackson FOR Jemison,Substitution,,0,0,54
+0022300722,188,PT06M10.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,9,5,1,Missed,1,,,0,v,MISS Jemison 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,131
+0022300722,199,PT05M28.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison BLOCK (1 BLK),,,0,2,140
+0022300722,210,PT04M38.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison S.FOUL (P1.T2) (N.Buchert),Foul,Shooting,1,0,148
+0022300722,226,PT03M27.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison S.FOUL (P2.T3) (K.Scott),Foul,Shooting,0,0,157
+0022300722,271,PT00M01.70S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,-163,99,19,Missed,1,,,0,v,MISS Jemison 19' Jump Shot,Missed Shot,Jump Shot,1,2,191
+0022300722,296,PT09M56.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,208
+0022300722,300,PT09M32.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,11,6,1,Made,1,72,51,123,v,Jemison 1' Driving Layup (4 PTS) (Aldama 4 AST),Made Shot,Driving Layup Shot,1,2,211
+0022300722,316,PT07M43.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,7,1,1,Made,1,77,56,133,v,Jemison 1' Reverse Layup (6 PTS) (Kennard 4 AST),Made Shot,Reverse Layup Shot,1,2,222
+0022300722,326,PT06M34.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,16,71,7,Made,1,81,60,141,v,Jemison 7' Turnaround Hook Shot (8 PTS) (Williams Jr. 3 AST),Made Shot,Turnaround Hook Shot,1,2,229
+0022300722,337,PT05M39.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,236
+0022300722,338,PT05M39.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,Missed,1,,,0,v,MISS Jemison Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,237
+0022300722,339,PT05M37.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,238
+0022300722,340,PT05M37.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,Made,1,83,62,145,v,Jemison Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,1,2,239
+0022300722,382,PT02M40.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison S.FOUL (P3.T3) (N.Buchert),Foul,Shooting,1,0,269
+0022300722,403,PT01M01.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison P.FOUL (P4.T4) (S.Mitchell),Foul,Personal,1,0,286
+0022300722,524,PT04M39.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,367
+0022300722,534,PT03M37.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison BLOCK (2 BLK),,,1,2,377
+0022300722,538,PT03M30.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,380
+0022300722,539,PT03M30.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,Made,1,109,100,209,v,Jemison Tip Dunk Shot (12 PTS),Made Shot,Tip Dunk Shot,1,2,381
+0022300722,545,PT02M42.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison S.FOUL (P5.PN) (S.Mitchell),Foul,Shooting,1,0,386
+0022300722,590,PT00M02.50S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:5 Def:1),Rebound,Unknown,1,0,424
+0022300722,595,PT00M01.10S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison Bad Pass Turnover (P1.T18),Turnover,Bad Pass,1,0,425
+0022300751,99,PT03M31.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison BLOCK (1 BLK),,,1,2,74
+0022300751,112,PT02M25.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,83
+0022300751,158,PT10M58.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison P.FOUL (P1.T1) (J.Goble),Foul,Personal,1,0,113
+0022300751,168,PT09M53.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,MISS Jemison Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,119
+0022300751,174,PT09M53.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,29,29,58,v,Jemison Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,123
+0022300751,178,PT09M25.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,127
+0022300751,182,PT09M14.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,SUB: Jackson Jr. FOR Jemison,Substitution,,0,0,130
+0022300751,422,PT02M18.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,288
+0022300766,161,PT11M48.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison OFF.Foul (P1) (T.Ford),Foul,Offensive,1,0,114
+0022300766,163,PT11M48.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,115
+0022300766,165,PT11M23.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,117
+0022300766,196,PT09M09.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,143
+0022300766,199,PT08M41.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,146
+0022300766,230,PT06M47.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison S.FOUL (P2.T3) (J.Van Duyne),Foul,Shooting,1,0,165
+0022300766,253,PT05M39.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Konchar FOR Jemison,Substitution,,0,0,181
+0022300766,424,PT05M10.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison BLOCK (1 BLK),,,1,2,305
+0022300766,431,PT04M03.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison S.FOUL (P3.T2) (T.Ford),Foul,Shooting,1,0,311
+0022300766,445,PT03M18.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison S.FOUL (P4.T3) (D.Scott),Foul,Shooting,1,0,320
+0022300766,459,PT02M18.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,Made,1,64,85,149,h,Jemison Cutting Finger Roll Layup Shot (2 PTS) (Watanabe 1 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,332
+0022300766,466,PT01M34.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,337
+0022300766,467,PT01M23.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,-2,4,0,Made,1,68,85,153,h,Jemison Alley Oop Layup (4 PTS) (Williams Jr. 6 AST),Made Shot,Alley Oop Layup shot,1,2,338
+0022300766,472,PT01M04.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison BLOCK (2 BLK),,,1,2,342
+0022300766,479,PT00M49.30S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Lost Ball Turnover (P2.T14),Turnover,Lost Ball,1,0,347
+0022300766,481,PT00M46.50S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison STEAL (1 STL),,,1,0,350
+0022300766,495,PT00M01.70S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,100,3,10,Made,1,73,86,159,h,Jemison 10' Hook Shot (6 PTS),Made Shot,Hook Shot,1,2,360
+0022300766,526,PT09M27.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,6,3,1,Missed,1,,,0,h,MISS Jemison 1' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,2,382
+0022300766,548,PT07M29.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison BLOCK (3 BLK),,,1,2,400
+0022300766,550,PT07M25.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,401
+0022300766,566,PT06M34.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Watanabe FOR Jemison,Substitution,,0,0,412
+0022300790,4,PT12M00.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jump Ball Jemison vs. Lopez: Tip to Lillard,Jump Ball,,1,0,2
+0022300790,9,PT11M39.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+0022300790,26,PT09M39.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,-21,59,6,Made,1,7,5,12,h,Jemison 6' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,1,2,17
+0022300790,29,PT09M00.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,17,101,10,Made,1,9,8,17,h,Jemison 10' Floating Jump Shot (4 PTS) (Williams 2 AST),Made Shot,Floating Jump shot,1,2,19
+0022300790,44,PT07M46.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jump Ball Jemison vs. Lopez: Tip to G. Antetokounmpo,Jump Ball,,1,0,30
+0022300790,49,PT07M22.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,21,17,3,Missed,1,,,0,h,MISS Jemison 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,32
+0022300790,55,PT06M43.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,37
+0022300790,56,PT06M43.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,Missed,1,,,0,h,MISS Jemison Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,38
+0022300790,57,PT06M42.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,39
+0022300790,58,PT06M42.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,Missed,1,,,0,h,MISS Jemison Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,40
+0022300790,59,PT06M42.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,41
+0022300790,60,PT06M38.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,Missed,1,,,0,h,MISS Jemison Putback Layup,Missed Shot,Putback Layup Shot,1,2,42
+0022300790,76,PT05M18.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison BLOCK (1 BLK),,,1,2,57
+0022300790,83,PT05M07.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,60
+0022300790,99,PT04M11.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison S.FOUL (P1.T3) (B.Adair),Foul,Shooting,0,0,73
+0022300790,103,PT03M59.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,1,12,1,Missed,1,,,0,h,MISS Jemison 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,76
+0022300790,117,PT03M06.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Gilyard FOR Jemison,Substitution,,0,0,88
+0022300790,226,PT05M31.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,165
+0022300790,261,PT03M33.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Violation:Defensive Goaltending (B.Kennedy),Violation,Defensive Goaltending,1,0,189
+0022300790,267,PT02M47.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,11,15,2,Missed,1,,,0,h,MISS Jemison 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,193
+0022300790,286,PT01M23.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Stevens FOR Jemison,Substitution,,0,0,209
+0022300790,329,PT11M05.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison S.FOUL (P2.T1) (E.Dalen),Foul,Shooting,1,0,238
+0022300790,339,PT10M13.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Traveling Turnover (P1.T7),Turnover,Traveling,1,0,245
+0022300790,356,PT08M09.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,4,0,0,Made,1,70,64,134,h,Jemison Hook Shot (6 PTS),Made Shot,Hook Shot,1,2,258
+0022300790,363,PT07M37.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,92,47,10,Missed,1,,,0,h,MISS Jemison 10' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,263
+0022300790,369,PT07M15.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,-6,63,6,Made,1,73,67,140,h,Jemison 6' Floating Jump Shot (8 PTS) (Goodwin 3 AST),Made Shot,Floating Jump shot,1,2,268
+0022300790,386,PT05M12.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Stevens FOR Jemison,Substitution,,0,0,279
+0022300790,482,PT11M25.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison S.FOUL (P3.T1) (B.Adair),Foul,Shooting,1,0,344
+0022300790,487,PT11M13.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,95,88,183,h,Jemison Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,347
+0022300790,488,PT11M13.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,96,88,184,h,Jemison Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,348
+0022300790,493,PT10M43.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,0,352
+0022300790,504,PT09M56.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison S.FOUL (P4.T3) (B.Adair),Foul,Shooting,1,0,362
+0022300790,509,PT09M56.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Stevens FOR Jemison,Substitution,,0,0,365
+0022300861,4,PT12M00.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jump Ball Jemison vs. Reath: Tip to Simons,Jump Ball,,1,0,3
+0022300861,18,PT10M49.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,11
+0022300861,29,PT09M49.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jump Ball Jemison vs. Murray: Tip to Reath,Jump Ball,,0,0,23
+0022300861,42,PT08M53.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,34
+0022300861,48,PT07M55.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,39
+0022300861,49,PT07M55.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,Made,1,5,2,7,h,Jemison Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,40
+0022300861,52,PT07M41.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison S.FOUL (P1.T1) (N.Buchert),Foul,Shooting,1,0,42
+0022300861,70,PT06M34.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,80,29,9,Made,1,7,7,14,h,Jemison 9' Driving Hook Shot (4 PTS),Made Shot,Driving Hook Shot,1,2,54
+0022300861,90,PT04M42.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Stevens FOR Jemison,Substitution,,0,0,70
+0022300861,216,PT07M58.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,32,32,64,h,Jemison Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,160
+0022300861,217,PT07M58.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,MISS Jemison Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,161
+0022300861,230,PT07M39.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison OFF.Foul (P2) (N.Buchert),Foul,Offensive,1,0,171
+0022300861,232,PT07M39.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,172
+0022300861,288,PT03M27.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,211
+0022300861,289,PT03M06.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,23,11,3,Missed,1,,,0,h,MISS Jemison 3' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,212
+0022300861,300,PT02M13.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Stevens FOR Jemison,Substitution,,0,0,222
+0022300861,375,PT06M49.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison S.FOUL (P3.T1) (R.Hussey),Foul,Shooting,1,0,279
+0022300861,391,PT06M18.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Violation:Defensive Goaltending (A.Nagy),Violation,Defensive Goaltending,1,0,288
+0022300861,413,PT04M42.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Stevens FOR Jemison,Substitution,,0,0,304
+0022300861,526,PT08M58.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,388
+0022300861,541,PT07M51.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison S.FOUL (P4.T3) (N.Buchert),Foul,Shooting,1,0,399
+0022300861,567,PT06M18.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,417
+0022300861,590,PT04M31.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison L.B.FOUL (P5.T4) (A.Nagy),Foul,Loose Ball,1,0,434
+0022300861,634,PT01M46.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Violation:Defensive Goaltending (N.Buchert),Violation,Defensive Goaltending,1,0,468
+0022300879,12,PT11M08.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+0022300879,20,PT10M17.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison S.FOUL (P1.T1) (C.Washington),Foul,Shooting,1,0,13
+0022300879,25,PT10M14.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,17
+0022300879,39,PT08M27.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,-21,6,2,Made,1,7,14,21,v,Jemison 2' Driving Reverse Layup (2 PTS) (Aldama 2 AST),Made Shot,Driving Reverse Layup Shot,1,2,27
+0022300879,45,PT07M45.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,32
+0022300879,67,PT06M08.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,48
+0022300879,76,PT04M52.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,54
+0022300879,80,PT04M47.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison L.B.FOUL (P2.T3) (J.Williams),Foul,Loose Ball,1,0,58
+0022300879,85,PT04M47.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,SUB: Jackson FOR Jemison,Substitution,,0,0,62
+0022300879,217,PT07M19.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,98,57,11,Made,1,37,40,77,v,Jemison 11' Fadeaway Bank Shot (4 PTS),Made Shot,Fadeaway Bank shot,1,2,161
+0022300879,251,PT05M24.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,186
+0022300879,252,PT05M23.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,Made,1,37,44,81,v,Jemison Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,187
+0022300879,255,PT04M55.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,17,50,5,Made,1,40,46,86,v,Jemison 5' Driving Layup (8 PTS) (Kennard 4 AST),Made Shot,Driving Layup Shot,1,2,189
+0022300879,276,PT03M34.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison S.FOUL (P3.PN) (M.Ervin),Foul,Shooting,1,0,203
+0022300879,280,PT03M34.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,SUB: Stevens FOR Jemison,Substitution,,0,0,206
+0022300879,345,PT10M07.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,-10,20,2,Missed,1,,,0,v,MISS Jemison 2' Layup,Missed Shot,Layup Shot,1,2,254
+0022300879,349,PT10M03.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,-4,1,0,Made,1,54,58,112,v,Jemison Alley Oop Dunk (10 PTS) (Kennard 5 AST),Made Shot,Alley Oop Dunk Shot,1,2,257
+0022300879,366,PT07M58.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison BLOCK (1 BLK),,,1,2,270
+0022300879,378,PT07M16.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,279
+0022300879,381,PT06M49.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison S.FOUL (P4.T2) (M.Ervin),Foul,Shooting,1,0,281
+0022300879,387,PT06M45.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,285
+0022300879,393,PT06M08.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison S.FOUL (P5.T3) (C.Washington),Foul,Shooting,1,0,287
+0022300879,398,PT06M08.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,SUB: Hurt FOR Jemison,Substitution,,0,0,291
+0022300879,586,PT04M27.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison P.FOUL (P6.T2) (J.Williams),Foul,Personal,1,0,428
+0022300879,588,PT04M27.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,SUB: Stevens FOR Jemison,Substitution,,0,0,429
+0022300913,161,PT10M39.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,124
+0022300913,162,PT10M30.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,32,19,4,Missed,1,,,0,h,MISS Jemison 4' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,125
+0022300913,180,PT09M44.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison S.FOUL (P1.T2) (D.Taylor),Foul,Shooting,1,0,137
+0022300913,190,PT09M06.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,145
+0022300913,205,PT08M03.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,MISS Jemison Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,156
+0022300913,207,PT08M03.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,35,26,61,h,Jemison Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,158
+0022300913,211,PT07M25.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,9,13,2,Made,1,37,26,63,h,Jemison 2' Cutting Dunk Shot (3 PTS) (Gabriel 1 AST),Made Shot,Cutting Dunk Shot,1,2,162
+0022300913,221,PT06M32.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Aldama FOR Jemison,Substitution,,0,0,169
+0022300913,444,PT01M46.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison STEAL (1 STL),,,1,0,331
+0022300913,469,PT00M02.40S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,-13,13,2,Made,1,72,80,152,h,Jemison 2' Cutting Dunk Shot (5 PTS) (Williams Jr. 6 AST),Made Shot,Cutting Dunk Shot,1,2,348
+0022300913,509,PT09M37.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,374
+0022300913,539,PT07M35.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison S.FOUL (P2.T3) (D.Taylor),Foul,Shooting,1,0,398
+0022300913,544,PT07M35.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Aldama FOR Jemison,Substitution,,0,0,402
+0022300931,121,PT01M33.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,82
+0022300931,192,PT08M01.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,27,16,3,Missed,1,,,0,v,MISS Jemison 3' Layup,Missed Shot,Layup Shot,1,2,129
+0022300931,208,PT07M03.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,140
+0022300931,210,PT07M03.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,SUB: Aldama FOR Jemison,Substitution,,0,0,142
+0022300931,461,PT01M15.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,318
+0022300931,462,PT01M13.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,-11,12,2,Missed,1,,,0,v,MISS Jemison 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,319
+0022300931,511,PT10M13.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,355
+0022300931,512,PT10M11.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,-4,4,1,Made,1,104,74,178,v,Jemison 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,356
+0022300931,577,PT05M23.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,405
+0022300931,603,PT02M10.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison Violation:Kicked Ball (A.Nagy),Violation,Kicked Ball,0,0,425
+0022300940,4,PT12M00.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jump Ball Jemison vs. Kuzma: Tip to Goodwin,Jump Ball,,1,0,2
+0022300940,8,PT11M35.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,25,94,10,Made,1,2,0,2,h,Jemison 10' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,1,2,3
+0022300940,11,PT10M53.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,58,113,13,Made,1,4,0,4,h,Jemison 13' Turnaround Hook Shot (4 PTS),Made Shot,Turnaround Hook Shot,1,2,6
+0022300940,22,PT09M48.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,15
+0022300940,52,PT09M14.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,23
+0022300940,29,PT09M14.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,Made,1,6,2,8,h,Jemison Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,2,24
+0022300940,43,PT07M45.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,-16,5,2,Made,1,10,6,16,h,Jemison 2' Layup (8 PTS) (Kennard 1 AST),Made Shot,Layup Shot,1,2,35
+0022300940,56,PT07M03.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,-1,4,0,Made,1,13,6,19,h,Jemison Cutting Finger Roll Layup Shot (10 PTS) (Goodwin 2 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,44
+0022300940,64,PT06M16.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison BLOCK (1 BLK),,,1,2,51
+0022300940,75,PT05M09.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison P.FOUL (P1.T2) (E.Dalen),Foul,Personal,1,0,60
+0022300940,93,PT03M49.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,73
+0022300940,99,PT03M49.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Gabriel FOR Jemison,Substitution,,0,0,77
+0022300940,239,PT06M23.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,-2,-4,0,Made,1,42,32,74,h,Jemison Alley Oop Dunk (12 PTS) (Kennard 3 AST),Made Shot,Alley Oop Dunk Shot,1,2,181
+0022300940,252,PT05M38.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:4 Def:0),Rebound,Unknown,1,0,190
+0022300940,272,PT05M38.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,-4,26,3,Missed,1,,,0,h,MISS Jemison 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,191
+0022300940,273,PT05M36.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:5 Def:0),Rebound,Unknown,1,0,192
+0022300940,253,PT05M36.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,7,8,1,Made,1,44,32,76,h,Jemison 1' Putback Layup (14 PTS),Made Shot,Putback Layup Shot,1,2,193
+0022300940,266,PT03M56.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:5 Def:1),Rebound,Unknown,1,0,204
+0022300940,291,PT02M22.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,4,4,1,Made,1,56,39,95,h,Jemison 1' Layup (16 PTS) (Aldama 1 AST),Made Shot,Layup Shot,1,2,222
+0022300940,308,PT01M12.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison S.FOUL (P2.PN) (D.Mosher),Foul,Shooting,1,0,236
+0022300940,313,PT01M12.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Gabriel FOR Jemison,Substitution,,0,0,240
+0022300940,355,PT11M11.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,92,28,10,Missed,1,,,0,h,MISS Jemison 10' Hook Shot,Missed Shot,Hook Shot,1,2,263
+0022300940,357,PT10M57.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,-4,10,1,Made,1,69,45,114,h,Jemison 1' Alley Oop Dunk (18 PTS) (Goodwin 4 AST),Made Shot,Alley Oop Dunk Shot,1,2,265
+0022300940,385,PT07M28.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,287
+0022300940,390,PT07M19.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Lost Ball Turnover (P2.T8),Turnover,Lost Ball,1,0,291
+0022300940,391,PT07M19.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison L.B.FOUL (P3.T1) (J.Tiven),Foul,Loose Ball,1,0,292
+0022300940,427,PT04M07.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Gabriel FOR Jemison,Substitution,,0,0,317
+0022300940,555,PT07M26.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison OFF.Foul (P4) (J.Tiven),Foul,Offensive,1,0,407
+0022300940,557,PT07M26.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Offensive Foul Turnover (P3.T14),Turnover,Offensive Foul Turnover,1,0,408
+0022300940,569,PT06M36.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison BLOCK (2 BLK),,,1,2,418
+0022300940,601,PT04M16.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,9,-6,1,Made,1,96,88,184,h,Jemison 1' Reverse Layup (20 PTS) (Kennard 7 AST),Made Shot,Reverse Layup Shot,1,2,443
+0022300940,630,PT01M53.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,104,91,195,h,Jemison Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,461
+0022300940,631,PT01M53.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,105,91,196,h,Jemison Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,462
+0022300940,634,PT01M27.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,-6,7,1,Made,1,107,94,201,h,Jemison 1' Alley Oop Layup (24 PTS) (Goodwin 7 AST),Made Shot,Alley Oop Layup shot,1,2,464
+0022300950,4,PT12M00.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jump Ball Jemison vs. Richards: Tip to Bridges,Jump Ball,,1,0,2
+0022300950,27,PT09M33.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,20
+0022300950,38,PT08M42.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,-31,52,6,Missed,1,,,0,h,MISS Jemison 6' Hook Shot,Missed Shot,Hook Shot,1,2,28
+0022300950,64,PT06M06.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,48
+0022300950,65,PT06M06.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,Made,1,13,16,29,h,Jemison Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,49
+0022300950,70,PT05M16.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,-5,126,13,Made,1,15,19,34,h,Jemison 13' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,53
+0022300950,74,PT05M01.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Jarreau FOR Jemison,Substitution,,0,0,56
+0022300950,199,PT07M24.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,155
+0022300950,212,PT06M47.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Violation:Defensive Goaltending (M.Boland),Violation,Defensive Goaltending,1,0,164
+0022300950,225,PT05M28.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison STEAL (1 STL),,,1,0,176
+0022300950,278,PT01M44.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,-7,99,10,Missed,1,,,0,h,MISS Jemison 10' Hook Shot,Missed Shot,Hook Shot,1,2,211
+0022300950,280,PT01M43.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison P.FOUL (P1.T2) (K.Lane),Foul,Personal,1,0,213
+0022300950,282,PT01M29.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison BLOCK (1 BLK),,,1,2,215
+0022300950,310,PT11M42.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,47,56,103,h,Jemison Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,231
+0022300950,311,PT11M42.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,48,56,104,h,Jemison Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,232
+0022300950,313,PT11M09.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,1,3,0,Made,1,50,58,108,h,Jemison Driving Dunk (8 PTS) (Pippen Jr. 6 AST),Made Shot,Driving Dunk Shot,1,2,234
+0022300950,327,PT09M12.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Lost Ball Turnover (P2.T12),Turnover,Lost Ball,1,0,243
+0022300950,378,PT05M50.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Jarreau FOR Jemison,Substitution,,0,0,281
+0022300950,503,PT08M40.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,372
+0022300950,560,PT05M13.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison S.FOUL (P2.PN) (M.Boland),Foul,Shooting,1,0,413
+0022300950,568,PT04M41.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison BLOCK (2 BLK),,,1,2,419
+0022300950,576,PT03M49.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,425
+0022300950,577,PT03M49.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,Made,1,88,100,188,h,Jemison Putback Layup (10 PTS),Made Shot,Putback Layup Shot,1,2,426
+0022300950,585,PT03M19.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,432
+0022300950,586,PT03M19.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,Made,1,90,102,192,h,Jemison Tip Dunk Shot (12 PTS),Made Shot,Tip Dunk Shot,1,2,433
+0022300950,595,PT02M04.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison OFF.Foul (P3) (B.Barnaky),Foul,Offensive,1,0,440
+0022300950,597,PT02M04.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Offensive Foul Turnover (P3.T24),Turnover,Offensive Foul Turnover,1,0,441
+0022300950,602,PT01M44.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Violation:Defensive Goaltending (B.Barnaky),Violation,Defensive Goaltending,1,0,444
+0022300950,614,PT00M55.50S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:5 Def:1),Rebound,Unknown,1,0,454
+0022300950,615,PT00M55.50S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,Made,1,95,108,203,h,Jemison Tip Layup Shot (14 PTS),Made Shot,Tip Layup Shot,1,2,455
+0022300989,164,PT00M02.50S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,116
+0022300989,206,PT08M42.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,-86,-4,9,Missed,1,,,0,v,MISS Jemison 9' Jump Shot,Missed Shot,Jump Shot,1,2,144
+0022300989,220,PT08M13.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,SUB: Jackson Jr. FOR Jemison,Substitution,,0,0,154
+0022300989,324,PT00M53.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,232
+0022300989,335,PT00M03.80S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison S.FOUL (P1.PN) (S.Twardoski),Foul,Shooting,1,0,240
+0022300989,342,PT00M03.80S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,SUB: Bane FOR Jemison,Substitution,,0,0,245
+0022300989,492,PT02M36.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison S.FOUL (P2.T4) (S.Twardoski),Foul,Shooting,1,0,345
+0022300989,499,PT02M00.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,351
+0022300989,501,PT01M48.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,353
+0022300989,508,PT01M13.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,359
+0022301001,96,PT03M34.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,-16,69,7,Made,1,22,21,43,v,Jemison 7' Driving Hook Shot (2 PTS) (Konchar 1 AST),Made Shot,Driving Hook Shot,1,2,71
+0022301001,109,PT02M17.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,80
+0022301001,136,PT00M44.20S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,-17,54,6,Missed,1,,,0,v,MISS Jemison 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,97
+0022301001,137,PT00M41.40S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,98
+0022301001,138,PT00M40.30S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,99
+0022301001,165,PT11M16.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,31,4,3,Made,1,33,34,67,v,Jemison 3' Layup (4 PTS) (LaRavia 1 AST),Made Shot,Layup Shot,1,2,120
+0022301001,183,PT09M56.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,132
+0022301001,197,PT09M05.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,SUB: Konchar FOR Jemison,Substitution,,0,0,143
+0022301001,286,PT02M57.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,20,22,3,Missed,1,,,0,v,MISS Jemison 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,204
+0022301001,442,PT03M32.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison S.FOUL (P1.T1) (P.Ransom),Foul,Shooting,1,0,315
+0022301001,589,PT04M54.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,418
+0022301001,628,PT01M47.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison S.FOUL (P2.PN) (D.Collins),Foul,Shooting,1,0,443
+0022301001,633,PT01M29.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,20,56,6,Missed,1,,,0,v,MISS Jemison 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,447
+0022301040,67,PT07M26.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison STEAL (1 STL),,,1,0,53
+0022301040,74,PT06M44.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,57
+0022301040,100,PT04M50.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,-10,23,3,Made,1,26,15,41,v,Jemison 3' Jump Bank Shot (2 PTS) (Bane 1 AST),Made Shot,Jump Bank Shot,1,2,74
+0022301040,105,PT04M25.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,78,20,8,Missed,1,,,0,v,MISS Jemison 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,77
+0022301040,286,PT04M22.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,206
+0022301040,289,PT04M22.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,60,35,95,v,Jemison Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,208
+0022301040,292,PT04M22.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,60,36,96,v,Jemison Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,210
+0022301040,294,PT04M07.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,212
+0022301040,297,PT03M44.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,214
+0022301040,298,PT03M43.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,215
+0022301040,338,PT00M30.50S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,-38,102,11,Made,1,69,44,113,v,Jemison 11' Floating Jump Shot (6 PTS),Made Shot,Floating Jump shot,1,2,245
+0022301040,481,PT00M49.70S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison BLOCK (1 BLK),,,1,2,352
+0022301040,485,PT00M44.40S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,355
+0022301040,496,PT00M01.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison Violation:Defensive Goaltending (S.Wall),Violation,Defensive Goaltending,1,0,364
+0022301040,621,PT05M25.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,9,6,1,Made,1,114,88,202,v,Jemison 1' Running Dunk (8 PTS) (LaRavia 1 AST),Made Shot,Running Dunk Shot,1,2,454
+0022301040,647,PT03M31.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,-42,85,9,Missed,1,,,0,v,MISS Jemison 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,469
+0022301040,651,PT03M14.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison OFF.Foul (P1) (S.Wall),Foul,Offensive,1,0,473
+0022301040,653,PT03M14.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison Offensive Foul Turnover (P2.T17),Turnover,Offensive Foul Turnover,1,0,474
+0022301107,26,PT09M51.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,17
+0022301107,40,PT08M14.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,3,90,9,Made,1,10,8,18,v,Jemison 9' Hook Shot (2 PTS) (Pippen Jr. 1 AST),Made Shot,Hook Shot,1,2,28
+0022301107,45,PT07M43.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,-1,176,18,Missed,1,,,0,v,MISS Jemison 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,31
+0022301107,49,PT07M26.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,-2,11,1,Missed,1,,,0,v,MISS Jemison 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,35
+0022301107,56,PT07M19.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,41
+0022301107,65,PT05M57.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,62,38,7,Made,1,13,15,28,v,Jemison 7' Turnaround Hook Shot (4 PTS) (Kennard 1 AST),Made Shot,Turnaround Hook Shot,1,2,49
+0022301107,72,PT05M47.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,SUB: Goodwin FOR Jemison,Substitution,,0,0,54
+0022301107,181,PT08M38.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,-119,5,12,Missed,1,,,0,v,MISS Jemison 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,142
+0022301107,221,PT06M08.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,SUB: Jackson FOR Jemison,Substitution,,0,0,172
+0022301107,330,PT09M44.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,251
+0022301107,331,PT09M44.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,Made,1,57,57,114,v,Jemison Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,252
+0022301107,345,PT08M32.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison BLOCK (1 BLK),,,1,2,265
+0022301107,428,PT07M28.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,273
+0022301107,356,PT07M24.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,7,37,4,Missed,1,,,0,v,MISS Jemison 4' Layup,Missed Shot,Layup Shot,1,2,274
+0022301107,378,PT05M36.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison BLOCK (2 BLK),,,1,2,291
+0022301107,385,PT05M17.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,MISS Jemison Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,295
+0022301107,389,PT05M17.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,69,64,133,v,Jemison Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,298
+0022301107,390,PT05M07.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Grizzlies T.Foul (Def. 3 Sec Jemison ) (E.Dalen),Foul,Defense 3 Second,1,0,299
+0022301107,393,PT05M07.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,SUB: Goodwin FOR Jemison,Substitution,,0,0,302
+0022301121,4,PT12M00.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jump Ball Jemison vs. Duren: Tip to Ivey,Jump Ball,,1,0,2
+0022301121,42,PT08M19.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison BLOCK (1 BLK),,,1,2,33
+0022301121,57,PT06M10.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,44
+0022301121,60,PT06M10.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,12,13,25,h,Jemison Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,46
+0022301121,61,PT06M10.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,13,13,26,h,Jemison Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,47
+0022301121,72,PT05M24.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Violation:Defensive Goaltending (A.Nagy),Violation,Defensive Goaltending,1,0,54
+0022301121,81,PT05M09.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,61
+0022301121,83,PT04M45.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,63
+0022301121,84,PT04M45.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,Made,1,15,19,34,h,Jemison Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,64
+0022301121,97,PT03M33.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison S.FOUL (P1.T2) (J.DeRosa),Foul,Shooting,1,0,77
+0022301121,100,PT03M33.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Pereira FOR Jemison,Substitution,,0,0,79
+0022301121,213,PT06M45.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison BLOCK (2 BLK),,,1,2,164
+0022301121,249,PT05M08.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jump Ball Jemison vs. Duren: Tip to Simpson,Jump Ball,,1,0,191
+0022301121,262,PT03M47.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison OFF.Foul (P2) (J.DeRosa),Foul,Offensive,1,0,199
+0022301121,264,PT03M47.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,200
+0022301121,282,PT02M53.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison STEAL (1 STL),,,1,0,211
+0022301121,286,PT02M27.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,214
+0022301121,326,PT02M05.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,216
+0022301121,287,PT02M04.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,23,32,4,Missed,1,,,0,h,MISS Jemison 4' Putback Layup,Missed Shot,Putback Layup Shot,1,2,217
+0022301121,290,PT01M55.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,220
+0022301121,291,PT01M52.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,221
+0022301121,300,PT01M32.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Pippen Jr. FOR Jemison,Substitution,,0,0,228
+0022301121,338,PT11M37.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,4,8,1,Made,1,59,38,97,h,Jemison 1' Dunk (6 PTS) (Pippen Jr. 3 AST),Made Shot,Dunk Shot,1,2,247
+0022301121,345,PT11M05.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison S.FOUL (P3.T1) (J.DeRosa),Foul,Shooting,1,0,252
+0022301121,352,PT10M18.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,-1,8,1,Made,1,66,42,108,h,Jemison 1' Alley Oop Dunk (8 PTS) (Pippen Jr. 4 AST),Made Shot,Alley Oop Dunk Shot,1,2,257
+0022301121,366,PT08M36.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,7,-1,1,Made,1,73,46,119,h,Jemison 1' Cutting Dunk Shot (10 PTS) (Goodwin 5 AST),Made Shot,Cutting Dunk Shot,1,2,268
+0022301121,374,PT07M50.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Traveling Turnover (P3.T8),Turnover,Traveling,1,0,274
+0022301121,387,PT06M45.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,283
+0022301121,422,PT03M48.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,-10,15,2,Made,1,83,63,146,h,Jemison 2' Cutting Layup Shot (12 PTS) (Stevens 1 AST),Made Shot,Cutting Layup Shot,1,2,310
+0022301121,426,PT03M48.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,84,63,147,h,Jemison Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,1,0,312
+0022301121,434,PT03M09.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Violation:Defensive Goaltending (J.DeRosa),Violation,Defensive Goaltending,1,0,318
+0022301121,449,PT02M14.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,328
+0022301121,451,PT02M09.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,330
+0022301121,453,PT01M41.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison BLOCK (3 BLK),,,1,2,333
+0022301121,455,PT01M39.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:5 Def:5),Rebound,Unknown,1,0,334
+0022301121,458,PT01M28.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison S.FOUL (P4.PN) (J.DeRosa),Foul,Shooting,1,0,337
+0022301121,461,PT01M28.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Pippen Jr. FOR Jemison,Substitution,,0,0,339
+0022301121,570,PT05M24.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,39,8,4,Missed,1,,,0,h,MISS Jemison 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,422
+0022301121,576,PT05M20.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:6 Def:5),Rebound,Unknown,1,0,427
+0022301121,577,PT05M15.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,Made,1,102,81,183,h,Jemison Putback Layup (15 PTS),Made Shot,Putback Layup Shot,1,2,428
+0022301121,584,PT04M37.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:7 Def:5),Rebound,Unknown,1,0,433
+0022301121,585,PT04M37.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,Made,1,104,81,185,h,Jemison Tip Layup Shot (17 PTS),Made Shot,Tip Layup Shot,1,2,434
+0022301121,606,PT02M57.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Out of Bounds Lost Ball Turnover (P4.T19),Turnover,Out of Bounds Lost Ball Turnover,1,0,451
+0022301121,613,PT01M47.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:8 Def:5),Rebound,Unknown,1,0,457
+0022301129,4,PT12M00.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jump Ball Jemison vs. Embiid: Tip to Maxey,Jump Ball,,1,0,2
+0022301129,10,PT11M26.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,42,100,11,Missed,1,,,0,h,MISS Jemison 11' Hook Shot,Missed Shot,Hook Shot,1,2,6
+0022301129,16,PT10M17.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,4,75,8,Missed,1,,,0,h,MISS Jemison 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,11
+0022301129,48,PT07M19.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,38
+0022301129,49,PT07M15.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,-5,115,12,Missed,1,,,0,h,MISS Jemison 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,39
+0022301129,70,PT06M10.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison L.B.FOUL (P1.T2) (I.Hwang),Foul,Loose Ball,1,0,56
+0022301129,83,PT04M51.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,67
+0022301129,85,PT04M51.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Clarke FOR Jemison,Substitution,,0,0,69
+0022301129,148,PT00M26.40S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,66,119,14,Made,1,23,26,49,h,Jemison 14' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,1,2,114
+0022301129,169,PT10M43.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,-18,9,2,Missed,1,,,0,h,MISS Jemison 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,129
+0022301129,252,PT04M50.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Pereira FOR Jemison,Substitution,,0,0,191
+0022301129,295,PT01M35.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,6,42,4,Made,1,41,52,93,h,Jemison 4' Driving Layup (4 PTS) (Jackson 2 AST),Made Shot,Driving Layup Shot,1,2,225
+0022301129,299,PT01M35.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,42,52,94,h,Jemison Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,227
+0022301129,302,PT01M02.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Lost Ball Turnover (P2.T5),Turnover,Lost Ball,1,0,229
+0022301129,366,PT09M00.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,278
+0022301129,368,PT08M37.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison S.FOUL (P2.T2) (N.Sago),Foul,Shooting,1,0,280
+0022301129,382,PT07M43.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,291
+0022301129,397,PT06M37.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Clarke FOR Jemison,Substitution,,0,0,300
+0022301129,547,PT08M17.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,407
+0022301129,568,PT06M16.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,426
+0022301129,572,PT06M09.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Pereira FOR Jemison,Substitution,,0,0,429
+0022301129,629,PT01M40.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,469
+0022301129,630,PT01M39.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Lost Ball Turnover (P3.T17),Turnover,Lost Ball,1,0,470
+0022301129,638,PT00M34.70S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,478
+0022301151,4,PT12M00.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jump Ball Jemison vs. Wembanyama: Tip to Jones,Jump Ball,,1,0,2
+0022301151,8,PT11M22.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,-6,110,11,Made,1,2,2,4,h,Jemison 11' Driving Floating Jump Shot (2 PTS) (Pippen Jr. 1 AST),Made Shot,Driving Floating Jump Shot,1,2,4
+0022301151,22,PT09M37.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison P.FOUL (P1.T1) (T.Washington),Foul,Personal,1,0,16
+0022301151,61,PT06M01.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,47
+0022301151,92,PT03M32.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,70
+0022301151,93,PT03M23.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,-4,106,11,Missed,1,,,0,h,MISS Jemison 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,71
+0022301151,103,PT02M44.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: White FOR Jemison,Substitution,,0,0,80
+0022301151,225,PT06M25.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,-4,13,1,Missed,1,,,0,h,MISS Jemison 1' Layup,Missed Shot,Layup Shot,1,2,166
+0022301151,243,PT05M01.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,182
+0022301151,272,PT03M12.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,201
+0022301151,273,PT03M10.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,17,8,2,Missed,1,,,0,h,MISS Jemison 2' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,202
+0022301151,277,PT02M50.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,-2,4,0,Made,1,45,40,85,h,Jemison Driving Dunk (4 PTS) (Pippen Jr. 5 AST),Made Shot,Driving Dunk Shot,1,2,206
+0022301151,294,PT01M14.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,219
+0022301151,295,PT01M14.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,Made,1,49,46,95,h,Jemison Putback Layup (6 PTS),Made Shot,Putback Layup Shot,0,2,220
+0022301151,298,PT00M42.40S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,-2,17,2,Missed,1,,,0,h,MISS Jemison 2' Dunk,Missed Shot,Dunk Shot,1,2,222
+0022301151,325,PT11M45.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison L.B.FOUL (P2.T1) (R.Hussey),Foul,Loose Ball,1,0,235
+0022301151,330,PT11M06.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,240
+0022301151,331,PT11M06.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,Missed,1,,,0,h,MISS Jemison Putback Layup,Missed Shot,Putback Layup Shot,1,2,241
+0022301151,335,PT11M05.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,50,50,100,h,Jemison Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,244
+0022301151,337,PT11M05.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,51,50,101,h,Jemison Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,245
+0022301151,341,PT10M50.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison BLOCK (1 BLK),,,1,2,250
+0022301151,344,PT10M41.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,-10,22,2,Made,1,53,50,103,h,Jemison 2' Hook Shot (10 PTS),Made Shot,Hook Shot,1,2,252
+0022301151,371,PT07M59.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,-1,5,1,Made,1,55,59,114,h,Jemison 1' Cutting Dunk Shot (12 PTS) (Goodwin 4 AST),Made Shot,Cutting Dunk Shot,1,2,276
+0022301151,383,PT06M50.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,9,8,1,Missed,1,,,0,h,MISS Jemison 1' Layup,Missed Shot,Layup Shot,1,2,284
+0022301151,392,PT06M10.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,292
+0022301151,394,PT05M44.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,294
+0022301151,395,PT05M44.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,Missed,1,,,0,h,MISS Jemison Putback Layup,Missed Shot,Putback Layup Shot,1,2,295
+0022301151,423,PT04M05.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,89,26,9,Missed,1,,,0,h,MISS Jemison 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,315
+0022301151,430,PT03M52.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison S.FOUL (P3.T3) (C.Blair),Foul,Shooting,1,0,319
+0022301151,433,PT03M52.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Clarke FOR Jemison,Substitution,,0,0,321
+0022301151,517,PT09M48.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison STEAL (1 STL),,,1,0,381
+0022301151,547,PT09M07.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:5 Def:3),Rebound,Unknown,1,0,386
+0022301151,522,PT09M05.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,45,36,6,Made,1,69,82,151,h,Jemison 6' Hook Bank Shot (14 PTS),Made Shot,Hook Bank Shot,1,2,387
+0022301151,566,PT04M16.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,421
+0022301151,571,PT03M58.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Pippen Jr. FOR Jemison,Substitution,,0,0,425
+0022301158,12,PT11M39.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison BLOCK (1 BLK),,,1,2,9
+0022301158,14,PT11M38.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+0022301158,26,PT09M47.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,20
+0022301158,51,PT06M12.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,37
+0022301158,70,PT04M39.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,49
+0022301158,83,PT03M59.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,22,2,2,Missed,1,,,0,v,MISS Jemison 2' Layup,Missed Shot,Layup Shot,1,2,57
+0022301158,86,PT03M46.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,60
+0022301158,121,PT01M10.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison BLOCK (2 BLK),,,1,2,86
+0022301158,132,PT00M44.90S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,SUB: Stevens FOR Jemison,Substitution,,0,0,95
+0022301158,247,PT06M12.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,181
+0022301158,249,PT05M55.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,183
+0022301158,256,PT05M38.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison BLOCK (3 BLK),,,1,2,189
+0022301158,263,PT04M56.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,-26,99,10,Missed,1,,,0,v,MISS Jemison 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,194
+0022301158,267,PT04M38.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison BLOCK (4 BLK),,,1,2,199
+0022301158,345,PT11M34.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison S.FOUL (P1.T1) (N.Green),Foul,Shooting,1,0,255
+0022301158,355,PT10M54.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,-4,13,1,Missed,1,,,0,v,MISS Jemison 1' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,2,264
+0022301158,367,PT09M33.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison STEAL (1 STL),,,1,0,276
+0022301158,380,PT07M52.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,284
+0022301158,419,PT05M22.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,318
+0022301158,442,PT04M23.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,-6,25,3,Made,1,65,61,126,v,Jemison 3' Driving Layup (2 PTS) (Jackson 2 AST),Made Shot,Driving Layup Shot,1,2,333
+0022301158,451,PT03M33.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison P.FOUL (P2.PN) (N.Green),Foul,Personal,1,0,339
+0022301158,467,PT02M12.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,SUB: LaRavia FOR Jemison,Substitution,,0,0,352
+0022301158,561,PT08M34.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,16,16,2,Missed,1,,,0,v,MISS Jemison 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,415
+0022301158,595,PT05M50.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,-4,4,1,Made,1,97,80,177,v,Jemison 1' Cutting Dunk Shot (4 PTS) (Stevens 2 AST),Made Shot,Cutting Dunk Shot,1,2,441
+0022301158,602,PT05M01.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,1,11,1,Missed,1,,,0,v,MISS Jemison 1' Layup,Missed Shot,Layup Shot,1,2,446
+0022301158,628,PT03M47.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,Jemison REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,463
+0022301158,637,PT02M54.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,v,SUB: Pippen Jr. FOR Jemison,Substitution,,0,0,470
+0022301177,4,PT12M00.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jump Ball Jemison vs. Davis: Tip to Russell,Jump Ball,,1,0,2
+0022301177,28,PT09M44.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison BLOCK (1 BLK),,,1,2,22
+0022301177,32,PT09M38.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,GRIZZLIES T.Foul (Def. 3 Sec Jemison ) (S.Wright),Foul,Defense 3 Second,1,0,24
+0022301177,49,PT08M10.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,1,32,3,Made,1,12,12,24,h,Jemison 3' Turnaround Hook Shot (2 PTS) (Pippen Jr. 1 AST),Made Shot,Turnaround Hook Shot,1,2,37
+0022301177,72,PT06M22.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,58
+0022301177,130,PT01M18.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,105
+0022301177,142,PT00M32.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison S.FOUL (P1.PN) (S.Twardoski),Foul,Shooting,1,0,114
+0022301177,151,PT00M04.90S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison L.B.FOUL (P2.PN) (S.Wall),Foul,Loose Ball,1,0,121
+0022301177,282,PT03M02.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,65,58,9,Made,1,57,63,120,h,Jemison 9' Driving Bank Hook Shot (4 PTS) (LaRavia 4 AST),Made Shot,Driving Bank Hook Shot,1,2,206
+0022301177,308,PT01M29.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Allen FOR Jemison,Substitution,,0,0,224
+0022301177,379,PT07M35.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,275
+0022301177,392,PT06M30.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,284
+0022301177,393,PT06M30.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,Made,1,82,77,159,h,Jemison Tip Dunk Shot (6 PTS),Made Shot,Tip Dunk Shot,1,2,285
+0022301177,412,PT05M20.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison S.FOUL (P3.T4) (S.Wright),Foul,Shooting,1,0,298
+0022301177,468,PT01M18.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,85,94,13,Missed,1,,,0,h,MISS Jemison 13' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,346
+0022301177,485,PT00M32.50S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison OFF.Foul (P4) (S.Wright),Foul,Offensive,1,0,354
+0022301177,487,PT00M32.50S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,1,0,355
+0022301177,578,PT06M25.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison S.FOUL (P5.T3) (S.Twardoski),Foul,Shooting,1,0,426
+0022301177,595,PT05M11.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: White FOR Jemison,Substitution,,0,0,439
+0022301177,622,PT02M54.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,459
+0022301177,640,PT01M23.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison L.B.FOUL (P6.PN) (S.Wright),Foul,Loose Ball,1,0,474
+0022301177,642,PT01M23.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: White FOR Jemison,Substitution,,0,0,475
+0022301193,4,PT12M00.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jump Ball Jemison vs. Jokic: Tip to Caldwell-Pope,Jump Ball,,1,0,2
+0022301193,7,PT11M42.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison BLOCK (1 BLK),,,1,2,4
+0022301193,30,PT09M37.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison STEAL (1 STL),,,1,0,22
+0022301193,38,PT09M16.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,27
+0022301193,56,PT07M42.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,6,9,1,Made,1,11,14,25,h,Jemison 1' Layup (2 PTS) (Goodwin 1 AST),Made Shot,Layup Shot,1,2,43
+0022301193,59,PT07M22.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,45
+0022301193,68,PT06M54.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,52
+0022301193,88,PT05M14.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,62,66,9,Missed,1,,,0,h,MISS Jemison 9' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,2,67
+0022301193,91,PT05M03.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,70
+0022301193,109,PT03M36.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,85
+0022301193,117,PT02M39.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,-47,100,11,Missed,1,,,0,h,MISS Jemison 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,92
+0022301193,143,PT01M22.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,111
+0022301193,144,PT01M22.00S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,Made,1,22,24,46,h,Jemison Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,112
+0022301193,148,PT00M55.70S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison 3 Second Violation Turnover (P1.T3),Turnover,3 Second Violation,1,0,114
+0022301193,159,PT00M07.30S,1,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison STEAL (2 STL),,,1,0,120
+0022301193,246,PT05M58.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,191
+0022301193,247,PT05M58.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,Made,1,42,43,85,h,Jemison Hook Shot (6 PTS),Made Shot,Hook Shot,1,2,192
+0022301193,258,PT05M28.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,200
+0022301193,259,PT05M28.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,201
+0022301193,264,PT05M13.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison S.FOUL (P1.T2) (M.Davis),Foul,Shooting,1,0,205
+0022301193,291,PT03M03.00S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison P.FOUL (P2.T4) (M.Smith),Foul,Personal,1,0,225
+0022301193,328,PT00M31.10S,2,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,SUB: Allen FOR Jemison,Substitution,,0,0,252
+0022301193,384,PT07M47.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,76,54,9,Missed,1,,,0,h,MISS Jemison 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,295
+0022301193,386,PT07M35.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison S.FOUL (P3.T2) (M.Davis),Foul,Shooting,1,0,297
+0022301193,477,PT00M07.00S,3,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,366
+0022301193,553,PT06M59.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison P.FOUL (P4.T2) (P.Ransom),Foul,Personal,1,0,420
+0022301193,560,PT06M02.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,424
+0022301193,572,PT04M27.00S,4,1610612763,MEM,1641998,Jemison III,T. Jemison III,0,0,0,,0,,,0,h,Jemison REBOUND (Off:3 Def:8),Rebound,Unknown,1,0,434

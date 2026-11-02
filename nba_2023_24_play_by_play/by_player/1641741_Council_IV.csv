@@ -1,0 +1,283 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300459,702,PT00M52.80S,4,1610612755,PHI,1641741,Council IV,R. Council IV,105,248,27,Missed,1,,,0,h,MISS Council IV 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,517
+0022300585,633,PT01M21.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,MISS Council IV Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,457
+0022300585,634,PT01M21.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,100,116,216,v,Council IV Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,459
+0022300585,636,PT01M16.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV P.FOUL (P1.PN) (J.Goble),Foul,Personal,1,0,460
+0022300593,630,PT00M27.10S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,SUB: Batum FOR Council IV,Substitution,,0,0,464
+0022300627,570,PT11M20.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,110,92,202,v,Council IV Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,406
+0022300627,573,PT11M20.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,MISS Council IV Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,408
+0022300627,581,PT10M25.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,31,28,4,Missed,1,,,0,v,MISS Council IV 4' Layup,Missed Shot,Layup Shot,1,2,414
+0022300627,582,PT10M21.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,415
+0022300627,583,PT10M19.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,4,15,2,Missed,1,,,0,v,MISS Council IV 2' Layup,Missed Shot,Layup Shot,1,2,416
+0022300627,593,PT10M04.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,15,41,4,Missed,1,,,0,v,MISS Council IV 4' Running Layup,Missed Shot,Running Layup Shot,1,2,423
+0022300627,643,PT06M38.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,44,42,6,Made,1,118,98,216,v,Council IV 6' Running Layup (3 PTS),Made Shot,Running Layup Shot,1,2,462
+0022300627,646,PT06M38.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,118,99,217,v,Council IV Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,1,0,464
+0022300627,663,PT05M32.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-225,118,25,Made,1,120,105,225,v,Council IV 25' 3PT Jump Shot (7 PTS) (Smith 3 AST),Made Shot,Jump Shot,1,3,476
+0022300627,674,PT04M56.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,120,106,226,v,Council IV Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,482
+0022300627,677,PT04M56.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,120,107,227,v,Council IV Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,484
+0022300627,741,PT00M21.50S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-43,17,5,Made,1,134,122,256,v,Council IV 5' Running Layup (11 PTS) (Korkmaz 2 AST),Made Shot,Running Layup Shot,1,2,532
+0022300627,745,PT00M21.50S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,MISS Council IV Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,534
+0022300627,747,PT00M16.10S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV STEAL (1 STL),,,1,0,537
+0022300668,571,PT06M16.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,2,8,1,Missed,1,,,0,v,MISS Council IV 1' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,406
+0022300668,572,PT06M14.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,407
+0022300668,573,PT06M14.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,4,1,0,Missed,1,,,0,v,MISS Council IV Putback Layup,Missed Shot,Putback Layup Shot,1,2,408
+0022300668,578,PT05M45.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-2,1,0,Made,1,107,86,193,v,Council IV Running Dunk (2 PTS) (Smith 1 AST),Made Shot,Running Dunk Shot,1,2,413
+0022300668,590,PT04M51.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,423
+0022300668,593,PT04M50.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,109,89,198,v,Council IV Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,425
+0022300668,598,PT04M50.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,109,90,199,v,Council IV Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,428
+0022300668,621,PT03M18.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,117,93,210,v,Council IV Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,445
+0022300668,622,PT03M18.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,117,94,211,v,Council IV Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,446
+0022300668,658,PT01M02.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV STEAL (1 STL),,,1,0,474
+0022300668,660,PT01M00.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-5,10,1,Made,1,130,104,234,v,Council IV 1' Running Dunk (8 PTS),Made Shot,Running Dunk Shot,1,2,475
+0022300673,639,PT01M00.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-33,49,6,Made,1,117,107,224,v,Council IV 6' Driving Layup (2 PTS) (Korkmaz 3 AST),Made Shot,Driving Layup Shot,1,2,465
+0022300698,224,PT08M24.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,159
+0022300698,239,PT07M32.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,172
+0022300698,266,PT06M02.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,SUB: Bamba FOR Council IV,Substitution,,0,0,192
+0022300698,577,PT08M51.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,410
+0022300698,629,PT06M17.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,2,41,4,Missed,1,,,0,h,MISS Council IV 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,448
+0022300698,637,PT05M15.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,456
+0022300698,658,PT03M22.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-9,27,3,Missed,1,,,0,h,MISS Council IV 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,471
+0022300698,659,PT03M22.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,472
+0022300698,660,PT03M22.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,Made,1,107,131,238,h,Council IV Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,473
+0022300698,663,PT03M22.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,MISS Council IV Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,475
+0022300698,669,PT02M52.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-130,216,25,Made,1,110,133,243,h,Council IV 25' 3PT Jump Shot (5 PTS) (Martin 2 AST),Made Shot,Jump Shot,1,3,480
+0022300715,608,PT05M05.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,MISS Council IV Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,434
+0022300715,610,PT05M05.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,89,107,196,h,Council IV Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,436
+0022300715,619,PT04M41.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,90,107,197,h,Council IV Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,442
+0022300715,626,PT04M41.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,91,107,198,h,Council IV Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,446
+0022300715,659,PT02M35.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV OFF.Foul (P1) (R.Acosta),Foul,Offensive,1,0,471
+0022300715,661,PT02M35.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV Offensive Foul Turnover (P1.T12),Turnover,Offensive Foul Turnover,1,0,472
+0022300715,664,PT02M07.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,10,4,1,Made,1,96,116,212,h,Council IV 1' Cutting Layup Shot (5 PTS) (Smith 1 AST),Made Shot,Cutting Layup Shot,1,2,474
+0022300715,681,PT00M37.60S,4,1610612755,PHI,1641741,Council IV,R. Council IV,2,4,0,Made,1,102,118,220,h,Council IV Running Layup (7 PTS),Made Shot,Running Layup Shot,1,2,488
+0022300727,557,PT09M03.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,74,101,175,h,Council IV Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,396
+0022300727,560,PT09M03.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,75,101,176,h,Council IV Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,398
+0022300727,605,PT05M27.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,94,246,26,Missed,1,,,0,h,MISS Council IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,432
+0022300727,609,PT05M14.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-4,0,0,Made,1,87,106,193,h,Council IV Running Dunk (4 PTS),Made Shot,Running Dunk Shot,1,2,436
+0022300727,631,PT03M41.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,21,85,9,Made,1,89,111,200,h,Council IV 9' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,1,2,452
+0022300727,636,PT03M41.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,90,111,201,h,Council IV Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,455
+0022300727,641,PT03M20.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,91,111,202,h,Council IV Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,459
+0022300727,644,PT03M20.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,92,111,203,h,Council IV Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,461
+0022300727,664,PT01M36.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-112,229,25,Made,1,99,123,222,h,Council IV 25' 3PT Jump Shot (12 PTS) (Martin 1 AST),Made Shot,Jump Shot,1,3,475
+0022300727,668,PT01M19.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,16,43,5,Missed,1,,,0,h,MISS Council IV 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,478
+0022300727,672,PT01M19.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,100,123,223,h,Council IV Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,481
+0022300727,673,PT01M19.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,101,123,224,h,Council IV Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,482
+0022300727,674,PT01M09.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV S.FOUL (P1.T4) (A.Smith),Foul,Shooting,1,0,483
+0022300727,687,PT00M34.60S,4,1610612755,PHI,1641741,Council IV,R. Council IV,178,199,27,Missed,1,,,0,h,MISS Council IV 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,494
+0022300727,689,PT00M29.90S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-1,27,3,Made,1,103,127,230,h,Council IV 3' Driving Layup (16 PTS) (Martin 2 AST),Made Shot,Driving Layup Shot,1,2,496
+0022300727,693,PT00M29.90S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,104,127,231,h,Council IV Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,1,0,498
+0022300742,169,PT00M02.90S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,SUB: Smith FOR Council IV,Substitution,,0,0,125
+0022300742,184,PT11M38.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,22,166,17,Made,1,28,37,65,h,Council IV 17' Pullup Jump Shot (2 PTS) (Hield 2 AST),Made Shot,Pullup Jump shot,1,2,131
+0022300742,199,PT10M33.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,31,43,74,h,Council IV Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,141
+0022300742,200,PT10M33.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,32,43,75,h,Council IV Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,142
+0022300742,203,PT09M58.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,-125,221,25,Missed,1,,,0,h,MISS Council IV 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,144
+0022300742,218,PT08M23.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,43,20,5,Missed,1,,,0,h,MISS Council IV 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,156
+0022300742,238,PT07M13.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,171
+0022300742,247,PT06M54.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,SUB: Oubre Jr. FOR Council IV,Substitution,,0,0,178
+0022300742,557,PT09M45.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV S.FOUL (P1.T3) (D.Taylor),Foul,Shooting,1,0,398
+0022300742,565,PT09M14.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,404
+0022300742,570,PT09M10.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,SUB: Hield FOR Council IV,Substitution,,0,0,407
+0022300753,98,PT05M21.00S,1,1610612755,PHI,1641741,Council IV,R. Council IV,224,72,24,Missed,1,,,0,v,MISS Council IV 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,67
+0022300753,112,PT04M35.00S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,19,17,36,v,Council IV Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,79
+0022300753,113,PT04M35.00S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,19,18,37,v,Council IV Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,80
+0022300753,127,PT03M24.00S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,91
+0022300753,128,PT03M24.00S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,Missed,1,,,0,v,MISS Council IV Tip Dunk Shot,Missed Shot,Tip Dunk Shot,1,2,92
+0022300753,164,PT01M35.00S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,123
+0022300753,165,PT01M27.00S,1,1610612755,PHI,1641741,Council IV,R. Council IV,-26,63,7,Made,1,23,28,51,v,Council IV 7' Driving Floating Bank Jump Shot (4 PTS) (Oubre Jr. 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,124
+0022300753,174,PT00M58.10S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,131
+0022300753,175,PT00M58.10S,1,1610612755,PHI,1641741,Council IV,R. Council IV,6,6,1,Made,1,23,30,53,v,Council IV 1' Running Finger Roll Layup (6 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,132
+0022300753,191,PT00M13.10S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,MISS Council IV Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,142
+0022300753,193,PT00M13.10S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,23,33,56,v,Council IV Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,144
+0022300753,199,PT00M12.60S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,SUB: Payne FOR Council IV,Substitution,,0,0,149
+0022300753,223,PT10M55.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,159
+0022300753,254,PT08M38.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,48,35,6,Missed,1,,,0,v,MISS Council IV 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,178
+0022300753,264,PT08M06.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,184
+0022300753,269,PT07M39.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV S.FOUL (P1.T2) (Z.Zarba),Foul,Shooting,1,0,189
+0022300753,274,PT07M39.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,SUB: Martin FOR Council IV,Substitution,,0,0,193
+0022300753,337,PT03M10.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,238
+0022300753,448,PT03M09.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,-13,5,1,Missed,1,,,0,v,MISS Council IV 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,239
+0022300753,355,PT01M38.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,-34,22,4,Made,1,48,57,105,v,Council IV 4' Driving Floating Bank Jump Shot (9 PTS) (Hield 4 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,255
+0022300753,369,PT00M36.40S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,SUB: Payne FOR Council IV,Substitution,,0,0,263
+0022300753,498,PT04M38.00S,3,1610612755,PHI,1641741,Council IV,R. Council IV,-27,-3,3,Made,1,69,83,152,v,Council IV 3' Driving Layup (11 PTS) (Payne 4 AST),Made Shot,Driving Layup Shot,1,2,352
+0022300753,510,PT03M24.00S,3,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,362
+0022300753,513,PT03M24.00S,3,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,MISS Council IV Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,364
+0022300753,521,PT03M24.00S,3,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,71,86,157,v,Council IV Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,369
+0022300753,525,PT03M03.00S,3,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV S.FOUL (P2.PN) (E.Dalen),Foul,Shooting,1,0,373
+0022300753,555,PT00M22.60S,3,1610612755,PHI,1641741,Council IV,R. Council IV,-13,64,7,Missed,1,,,0,v,MISS Council IV 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,395
+0022300753,650,PT04M35.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-83,6,8,Missed,1,,,0,v,MISS Council IV 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,457
+0022300753,652,PT04M33.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,459
+0022300753,653,PT04M31.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-16,7,2,Made,1,98,104,202,v,Council IV 2' Putback Layup (14 PTS),Made Shot,Putback Layup Shot,1,2,460
+0022300753,659,PT04M03.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,12,0,1,Made,1,98,106,204,v,Council IV 1' Running Dunk (16 PTS) (Payne 6 AST),Made Shot,Running Dunk Shot,1,2,465
+0022300753,686,PT01M13.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,MISS Council IV Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,484
+0022300753,688,PT01M13.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,107,113,220,v,Council IV Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,486
+0022300753,692,PT00M45.90S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,489
+0022300753,693,PT00M45.90S,4,1610612755,PHI,1641741,Council IV,R. Council IV,31,0,3,Made,1,109,115,224,v,Council IV 3' Putback Layup (19 PTS),Made Shot,Putback Layup Shot,1,2,490
+0022300753,703,PT00M12.30S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:5 Def:5),Rebound,Unknown,1,0,497
+0022300762,127,PT01M41.00S,1,1610612755,PHI,1641741,Council IV,R. Council IV,-234,31,24,Missed,1,,,0,v,MISS Council IV 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,88
+0022300762,132,PT01M20.00S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,92
+0022300762,143,PT00M22.90S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,MISS Council IV Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,99
+0022300762,149,PT00M22.90S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,33,34,67,v,Council IV Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,103
+0022300762,164,PT11M28.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,111
+0022300762,188,PT09M07.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,13,105,11,Missed,1,,,0,v,MISS Council IV 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,131
+0022300762,196,PT08M14.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,72,79,11,Made,1,40,46,86,v,Council IV 11' Driving Floating Jump Shot (3 PTS),Made Shot,Driving Floating Jump Shot,1,2,139
+0022300762,202,PT07M14.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,145
+0022300762,213,PT07M10.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,SUB: Bamba FOR Council IV,Substitution,,0,0,153
+0022300762,379,PT05M35.00S,3,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,270
+0022300762,380,PT05M32.00S,3,1610612755,PHI,1641741,Council IV,R. Council IV,7,11,1,Missed,1,,,0,v,MISS Council IV 1' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,271
+0022300762,407,PT04M10.00S,3,1610612755,PHI,1641741,Council IV,R. Council IV,142,215,26,Missed,1,,,0,v,MISS Council IV 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,293
+0022300762,485,PT11M15.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,347
+0022300762,486,PT11M15.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,Missed,1,,,0,v,MISS Council IV Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,348
+0022300762,501,PT10M21.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV Violation:Kicked Ball (N.Buchert),Violation,Kicked Ball,0,0,360
+0022300762,517,PT08M49.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,5,2,1,Made,1,98,97,195,v,Council IV 1' Layup (5 PTS) (Reed 1 AST),Made Shot,Layup Shot,1,2,372
+0022300762,531,PT08M49.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,98,98,196,v,Council IV Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,379
+0022300762,545,PT08M02.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,SUB: Oubre Jr. FOR Council IV,Substitution,,0,0,390
+0022300762,662,PT00M10.10S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,119,121,240,v,Council IV Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,469
+0022300762,667,PT00M10.10S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,119,122,241,v,Council IV Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,472
+0022300762,673,PT00M09.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV P.FOUL (P1.PN) (N.Buchert),Foul,Personal,1,0,476
+0022300762,677,PT00M09.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,SUB: Maxey FOR Council IV,Substitution,,0,0,479
+0022300779,96,PT04M09.00S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV S.FOUL (P1.T3) (M.Ervin),Foul,Shooting,1,0,67
+0022300779,122,PT03M20.00S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV Traveling Turnover (P1.T1),Turnover,Traveling,1,0,85
+0022300779,124,PT03M03.00S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,87
+0022300779,133,PT01M57.00S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,95
+0022300779,144,PT01M14.00S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,30,33,63,h,Council IV Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,103
+0022300779,147,PT01M14.00S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,31,33,64,h,Council IV Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,105
+0022300779,150,PT00M48.40S,1,1610612755,PHI,1641741,Council IV,R. Council IV,-49,0,5,Made,1,33,33,66,h,Council IV 5' Pullup Jump Shot (4 PTS) (Hield 2 AST),Made Shot,Pullup Jump shot,1,2,108
+0022300779,153,PT00M33.60S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,110
+0022300779,180,PT10M25.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,180,187,26,Missed,1,,,0,h,MISS Council IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,128
+0022300779,186,PT10M07.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,-15,9,2,Made,1,38,37,75,h,Council IV 2' Reverse Layup (6 PTS) (Reed 1 AST),Made Shot,Reverse Layup Shot,1,2,134
+0022300779,194,PT09M26.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,-9,6,1,Missed,1,,,0,h,MISS Council IV 1' Layup,Missed Shot,Layup Shot,1,2,140
+0022300779,202,PT08M59.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,SUB: Martin FOR Council IV,Substitution,,0,0,146
+0022300779,376,PT07M23.00S,3,1610612755,PHI,1641741,Council IV,R. Council IV,-129,231,26,Missed,1,,,0,h,MISS Council IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,267
+0022300779,403,PT05M41.00S,3,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,285
+0022300779,425,PT03M50.00S,3,1610612755,PHI,1641741,Council IV,R. Council IV,5,100,10,Missed,1,,,0,h,MISS Council IV 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,301
+0022300779,439,PT02M26.00S,3,1610612755,PHI,1641741,Council IV,R. Council IV,-17,6,2,Made,1,77,79,156,h,Council IV 2' Driving Layup (8 PTS) (Hield 8 AST),Made Shot,Driving Layup Shot,1,2,313
+0022300779,448,PT01M47.00S,3,1610612755,PHI,1641741,Council IV,R. Council IV,113,237,26,Made,1,80,79,159,h,Council IV 26' 3PT Pullup Jump Shot (11 PTS) (Maxey 7 AST),Made Shot,Pullup Jump shot,1,3,319
+0022300779,463,PT00M05.10S,3,1610612755,PHI,1641741,Council IV,R. Council IV,146,216,26,Missed,1,,,0,h,MISS Council IV 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,330
+0022300779,484,PT10M44.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,50,121,13,Made,1,87,85,172,h,Council IV 13' Turnaround Jump Shot (13 PTS) (Hield 9 AST),Made Shot,Turnaround Jump Shot,1,2,340
+0022300779,532,PT05M49.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,SUB: Martin FOR Council IV,Substitution,,0,0,375
+0022300794,289,PT00M59.10S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,212
+0022300794,292,PT00M59.10S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,MISS Council IV Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,214
+0022300794,296,PT00M59.10S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,MISS Council IV Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,217
+0022300794,306,PT00M30.20S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,SUB: Maxey FOR Council IV,Substitution,,0,0,225
+0022300794,639,PT01M21.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,464
+0022300805,135,PT01M47.00S,1,1610612755,PHI,1641741,Council IV,R. Council IV,123,339,36,Missed,1,,,0,h,MISS Council IV 36' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,96
+0022300805,155,PT00M02.50S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,113
+0022300805,173,PT10M26.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,MISS Council IV Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,125
+0022300805,177,PT10M26.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,29,30,59,h,Council IV Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,128
+0022300805,189,PT09M28.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,232,119,26,Missed,1,,,0,h,MISS Council IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,139
+0022300805,199,PT09M18.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,30,30,60,h,Council IV Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,145
+0022300805,202,PT09M18.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,31,30,61,h,Council IV Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,147
+0022300805,204,PT08M33.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,-6,51,5,Missed,1,,,0,h,MISS Council IV 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,149
+0022300805,211,PT07M50.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,SUB: Martin FOR Council IV,Substitution,,0,0,154
+0022300817,281,PT03M30.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,SUB: Harris FOR Council IV,Substitution,,0,0,205
+0022300817,632,PT03M19.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-13,28,3,Made,1,89,112,201,h,Council IV 3' Driving Layup (2 PTS) (Hield 4 AST),Made Shot,Driving Layup Shot,1,2,447
+0022300817,643,PT02M20.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,453
+0022300836,130,PT01M06.00S,1,1610612755,PHI,1641741,Council IV,R. Council IV,40,66,8,Made,1,28,25,53,v,Council IV 8' Driving Floating Bank Jump Shot (2 PTS) (Batum 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,101
+0022300836,144,PT00M07.60S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,111
+0022300836,145,PT00M07.60S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,Made,1,30,30,60,v,Council IV Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,1,2,112
+0022300836,179,PT10M55.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,129
+0022300836,185,PT10M09.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,134
+0022300836,190,PT09M54.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,SUB: Bamba FOR Council IV,Substitution,,0,0,138
+0022300836,456,PT00M57.60S,3,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,339
+0022300836,457,PT00M51.50S,3,1610612755,PHI,1641741,Council IV,R. Council IV,-2,26,3,Made,1,84,74,158,v,Council IV 3' Running Layup (6 PTS),Made Shot,Running Layup Shot,1,2,340
+0022300836,462,PT00M51.50S,3,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,84,75,159,v,Council IV Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,343
+0022300836,465,PT00M31.50S,3,1610612755,PHI,1641741,Council IV,R. Council IV,-15,15,2,Missed,1,,,0,v,MISS Council IV 2' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,2,346
+0022300836,483,PT11M37.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,11,29,3,Made,1,86,77,163,v,Council IV 3' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,359
+0022300836,486,PT11M37.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,86,78,164,v,Council IV Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,1,0,361
+0022300836,491,PT10M55.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,365
+0022300836,552,PT06M01.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,SUB: Hield FOR Council IV,Substitution,,0,0,412
+0022300836,591,PT03M06.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-18,41,4,Made,1,110,93,203,v,Council IV 4' Driving Layup (12 PTS) (Bazley 1 AST),Made Shot,Driving Layup Shot,1,2,440
+0022300836,622,PT01M46.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-9,17,2,Made,1,115,97,212,v,Council IV 2' Driving Dunk (14 PTS) (Hield 4 AST),Made Shot,Driving Dunk Shot,1,2,459
+0022300836,636,PT00M33.80S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,117,98,215,v,Council IV Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,470
+0022300836,637,PT00M33.80S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,117,99,216,v,Council IV Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,471
+0022300836,641,PT00M11.30S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-45,18,5,Missed,1,,,0,v,MISS Council IV 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,474
+0022300858,161,PT11M21.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,-230,47,0,Missed,1,,,0,h,MISS Council IV 3PT Jump Shot,Missed Shot,Jump Shot,1,3,110
+0022300858,164,PT10M51.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,28,7,3,Missed,1,,,0,h,MISS Council IV 3' Layup,Missed Shot,Layup Shot,1,2,113
+0022300858,171,PT10M20.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,33,33,66,h,Council IV Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,118
+0022300858,176,PT10M20.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,MISS Council IV Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,121
+0022300858,184,PT09M14.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,6,8,1,Made,1,38,37,75,h,Council IV 1' Driving Dunk (3 PTS) (Lowry 2 AST),Made Shot,Driving Dunk Shot,1,2,126
+0022300858,201,PT08M03.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,-33,44,6,Missed,1,,,0,h,MISS Council IV 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,138
+0022300858,206,PT07M29.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,64,132,15,Missed,1,,,0,h,MISS Council IV 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,142
+0022300858,211,PT07M01.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,SUB: Maxey FOR Council IV,Substitution,,0,0,146
+0022300858,448,PT00M04.40S,3,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,320
+0022300896,109,PT02M29.00S,1,1610612755,PHI,1641741,Council IV,R. Council IV,-229,55,24,Missed,1,,,0,h,MISS Council IV 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,78
+0022300896,126,PT01M20.00S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,90
+0022300896,132,PT00M50.30S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,MISS Council IV Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,94
+0022300896,138,PT00M50.30S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,MISS Council IV Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,98
+0022300896,467,PT02M05.00S,3,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV Traveling Turnover (P1.T8),Turnover,Traveling,1,0,345
+0022300896,482,PT01M15.00S,3,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV L.B.FOUL (P1.PN) (M.Boland),Foul,Loose Ball,1,0,356
+0022300896,516,PT00M02.10S,3,1610612755,PHI,1641741,Council IV,R. Council IV,-70,247,26,Missed,1,,,0,h,MISS Council IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,380
+0022300896,527,PT11M26.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-22,17,3,Missed,1,,,0,h,MISS Council IV 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,385
+0022300896,544,PT09M55.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,MISS Council IV Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,398
+0022300896,550,PT09M55.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,96,87,183,h,Council IV Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,402
+0022300896,553,PT09M25.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,SUB: Hield FOR Council IV,Substitution,,0,0,405
+0022300909,264,PT05M24.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV P.FOUL (P1.T4) (E.Dalen),Foul,Personal,1,0,189
+0022300909,270,PT04M52.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,-13,97,10,Missed,1,,,0,h,MISS Council IV 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,192
+0022300909,300,PT03M09.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV S.FOUL (P2.PN) (C.Kirkland),Foul,Shooting,1,0,215
+0022300909,304,PT02M45.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,43,270,27,Missed,1,,,0,h,MISS Council IV 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,218
+0022300909,321,PT00M06.30S,2,1610612755,PHI,1641741,Council IV,R. Council IV,188,69,20,Made,1,34,61,95,h,Council IV 20' Pullup Jump Shot (2 PTS) (Lowry 5 AST),Made Shot,Pullup Jump shot,1,2,236
+0022300939,516,PT05M41.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,95,67,162,v,Council IV Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,372
+0022300939,517,PT05M41.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,95,68,163,v,Council IV Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,373
+0022300939,548,PT02M25.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-6,52,5,Missed,1,,,0,v,MISS Council IV 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,397
+0022300939,553,PT01M47.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,7,47,5,Missed,1,,,0,v,MISS Council IV 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,401
+0022300939,568,PT00M25.40S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV BLOCK (1 BLK),,,1,3,416
+0022300939,571,PT00M20.70S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-11,0,1,Made,1,106,79,185,v,Council IV 1' Running Layup (4 PTS) (Hield 4 AST),Made Shot,Running Layup Shot,1,2,418
+0022301002,535,PT10M25.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-2,36,4,Missed,1,,,0,v,MISS Council IV 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,381
+0022301002,545,PT10M10.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-40,296,30,Made,1,92,69,161,v,Council IV 30' 3PT Jump Shot (3 PTS) (Oubre Jr. 4 AST),Made Shot,Jump Shot,1,3,389
+0022301002,563,PT08M27.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,7,8,1,Made,1,96,75,171,v,Council IV 1' Running Reverse Dunk Shot (5 PTS) (Dowtin Jr. 1 AST),Made Shot,Running Reverse Dunk Shot,1,2,402
+0022301002,645,PT01M48.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-151,263,30,Made,1,112,98,210,v,Council IV 30' 3PT Jump Shot (8 PTS) (Dowtin Jr. 4 AST),Made Shot,Jump Shot,1,3,457
+0022301002,662,PT01M18.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-26,47,5,Made,1,112,100,212,v,Council IV 5' Driving Floating Bank Jump Shot (10 PTS) (Dowtin Jr. 5 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,467
+0022301028,567,PT02M00.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-175,184,25,Made,1,103,118,221,v,Council IV 25' 3PT Jump Shot (3 PTS) (Reed 3 AST),Made Shot,Jump Shot,1,3,413
+0022301042,157,PT00M00.80S,1,1610612755,PHI,1641741,Council IV,R. Council IV,199,215,29,Missed,1,,,0,v,MISS Council IV 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,113
+0022301042,584,PT06M42.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,414
+0022301042,587,PT06M40.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,94,77,171,v,Council IV Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,416
+0022301042,593,PT06M40.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,94,78,172,v,Council IV Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,420
+0022301042,603,PT05M56.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,25,8,3,Made,1,97,81,178,v,Council IV 3' Driving Finger Roll Layup (4 PTS) (Maxey 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,428
+0022301042,631,PT03M12.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,103,86,189,v,Council IV Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,447
+0022301042,633,PT03M12.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,103,87,190,v,Council IV Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,449
+0022301042,636,PT02M34.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-227,26,0,Missed,1,,,0,v,MISS Council IV 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,451
+0022301042,638,PT02M27.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV Personal Take Foul (P1.T2) (M.Dagher),Foul,Personal Take,1,0,453
+0022301042,659,PT01M20.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,235,21,24,Made,1,105,93,198,v,Council IV 24' 3PT Jump Shot (9 PTS) (Payne 6 AST),Made Shot,Jump Shot,1,3,468
+0022301042,666,PT00M52.10S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-48,83,10,Missed,1,,,0,v,MISS Council IV 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,473
+0022301042,667,PT00M48.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,474
+0022301042,683,PT00M19.20S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,MISS Council IV Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,485
+0022301042,685,PT00M19.20S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,108,96,204,v,Council IV Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,487
+0022301067,248,PT07M15.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV P.FOUL (P1.T1) (R.Hussey),Foul,Personal,1,0,169
+0022301067,253,PT06M51.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,-234,9,0,Made,1,43,42,85,v,Council IV 3PT Jump Shot (3 PTS) (Harris 2 AST),Made Shot,Jump Shot,1,3,172
+0022301067,288,PT04M36.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,MISS Council IV Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,197
+0022301067,290,PT04M36.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,50,46,96,v,Council IV Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,199
+0022301067,320,PT02M40.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,SUB: Harris FOR Council IV,Substitution,,0,0,220
+0022301067,530,PT11M21.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-55,46,7,Missed,1,,,0,v,MISS Council IV 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,356
+0022301067,551,PT09M34.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,SUB: Lowry FOR Council IV,Substitution,,0,0,371
+0022301129,532,PT09M39.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,228,32,0,Made,1,74,95,169,v,Council IV 3PT Jump Shot (3 PTS) (Payne 4 AST),Made Shot,Jump Shot,1,3,398
+0022301129,563,PT06M40.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,50,74,9,Missed,1,,,0,v,MISS Council IV 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,421
+0022301129,632,PT01M33.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,200,159,26,Missed,1,,,0,v,MISS Council IV 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,472
+0022301129,639,PT00M28.90S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV STEAL (1 STL),,,1,0,480
+0022301140,530,PT10M47.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV STEAL (1 STL),,,1,0,387
+0022301140,552,PT08M13.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,31,62,7,Made,1,91,83,174,v,Council IV 7' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,403
+0022301140,561,PT07M46.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,1,20,2,Made,1,91,85,176,v,Council IV 2' Running Layup (4 PTS) (Maxey 4 AST),Made Shot,Running Layup Shot,1,2,409
+0022301140,570,PT06M47.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV STEAL (2 STL),,,1,0,416
+0022301140,577,PT06M06.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-6,65,7,Made,1,93,89,182,v,Council IV 7' Floating Jump Shot (6 PTS) (Batum 1 AST),Made Shot,Floating Jump shot,1,2,421
+0022301140,598,PT04M26.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-36,26,4,Missed,1,,,0,v,MISS Council IV 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,436
+0022301140,610,PT03M45.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV S.FOUL (P1.T2) (B.Barnaky),Foul,Shooting,1,0,445
+0022301140,715,PT00M31.70S,5,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV STEAL (3 STL),,,1,0,517
+0022301140,735,PT04M28.00S,6,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,531
+0022301140,757,PT03M04.00S,6,1610612755,PHI,1641741,Council IV,R. Council IV,6,21,2,Made,1,126,125,251,v,Council IV 2' Reverse Layup (8 PTS) (Maxey 7 AST),Made Shot,Reverse Layup Shot,1,2,549
+0022301140,761,PT03M04.00S,6,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,126,126,252,v,Council IV Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,551
+0022301140,776,PT01M56.00S,6,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,126,127,253,v,Council IV Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,562
+0022301140,777,PT01M56.00S,6,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,126,128,254,v,Council IV Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,563
+0022301140,779,PT01M32.00S,6,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,565
+0022301140,787,PT00M59.80S,6,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,v,Council IV STEAL (4 STL),,,1,0,572
+0022301145,115,PT03M14.00S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV S.FOUL (P1.T2) (J.Capers),Foul,Shooting,1,0,88
+0022301145,149,PT01M21.00S,1,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV STEAL (1 STL),,,1,0,113
+0022301145,151,PT01M15.00S,1,1610612755,PHI,1641741,Council IV,R. Council IV,22,12,3,Missed,1,,,0,h,MISS Council IV 3' Running Layup,Missed Shot,Running Layup Shot,1,2,114
+0022301145,155,PT01M01.00S,1,1610612755,PHI,1641741,Council IV,R. Council IV,238,69,25,Missed,1,,,0,h,MISS Council IV 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,118
+0022301145,165,PT00M00.50S,1,1610612755,PHI,1641741,Council IV,R. Council IV,-229,20,0,Made,1,30,22,52,h,Council IV 3PT Jump Shot (3 PTS) (Harris 2 AST),Made Shot,Jump Shot,1,3,126
+0022301145,441,PT03M27.00S,3,1610612755,PHI,1641741,Council IV,R. Council IV,-34,22,4,Missed,1,,,0,h,MISS Council IV 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,324
+0022301145,468,PT02M38.00S,3,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV P.FOUL (P2.PN) (S.Wall),Foul,Personal,1,0,346
+0022301145,498,PT00M40.60S,3,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,369
+0022301192,516,PT06M54.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-29,17,3,Missed,1,,,0,h,MISS Council IV 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,390
+0022301192,540,PT05M33.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV S.FOUL (P1.T3) (A.Nagy),Foul,Shooting,1,0,410
+0022301192,587,PT02M07.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,-207,143,25,Made,1,103,85,188,h,Council IV 25' 3PT Jump Shot (3 PTS) (Dowtin Jr. 1 AST),Made Shot,Jump Shot,1,3,446
+0022301192,590,PT01M48.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,448
+0022301192,591,PT01M43.00S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0,449
+0022301192,609,PT00M24.30S,4,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,,,0,h,Council IV REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,466

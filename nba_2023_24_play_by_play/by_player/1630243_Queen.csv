@@ -1,0 +1,108 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300415,653,PT01M00.00S,4,1610612753,ORL,1630243,Queen,T. Queen,-61,259,27,Missed,1,,,0,h,MISS Queen 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,484
+0022300415,655,PT00M37.50S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,h,Queen STEAL (1 STL),,,1,0,487
+0022300476,114,PT03M09.00S,1,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,79
+0022300476,148,PT00M33.40S,1,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen S.FOUL (P1.PN) (M.Smith),Foul,Shooting,1,0,105
+0022300476,151,PT00M33.40S,1,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,SUB: M. Wagner FOR Queen,Substitution,,0,0,107
+0022300476,286,PT03M12.00S,2,1610612753,ORL,1630243,Queen,T. Queen,69,86,11,Missed,1,,,0,v,MISS Queen 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,197
+0022300476,347,PT09M46.00S,3,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen STEAL (1 STL),,,1,0,243
+0022300476,363,PT08M57.00S,3,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen S.FOUL (P2.T2) (C.Aubry),Foul,Shooting,1,0,254
+0022300476,370,PT08M39.00S,3,1610612753,ORL,1630243,Queen,T. Queen,70,171,18,Made,1,77,66,143,v,Queen 18' Pullup Jump Shot (2 PTS) (Bitadze 2 AST),Made Shot,Pullup Jump shot,1,2,259
+0022300476,389,PT07M29.00S,3,1610612753,ORL,1630243,Queen,T. Queen,158,221,27,Missed,1,,,0,v,MISS Queen 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,271
+0022300476,410,PT06M04.00S,3,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,SUB: Okeke FOR Queen,Substitution,,0,0,284
+0022300476,477,PT01M33.00S,3,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen S.FOUL (P3.PN) (S.Wright),Foul,Shooting,1,0,329
+0022300476,520,PT10M46.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen BLOCK (1 BLK),,,1,2,361
+0022300476,522,PT10M46.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,362
+0022300476,530,PT09M45.00S,4,1610612753,ORL,1630243,Queen,T. Queen,53,252,26,Missed,1,,,0,v,MISS Queen 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,368
+0022300476,568,PT06M54.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,96,101,197,v,Queen Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,395
+0022300476,569,PT06M54.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,MISS Queen Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,396
+0022300476,571,PT06M43.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen STEAL (2 STL),,,1,0,399
+0022300476,573,PT06M39.00S,4,1610612753,ORL,1630243,Queen,T. Queen,-5,10,1,Made,1,96,103,199,v,Queen 1' Running Dunk (5 PTS) (M. Wagner 2 AST),Made Shot,Running Dunk Shot,1,2,400
+0022300476,576,PT06M31.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen S.FOUL (P4.T2) (M.Smith),Foul,Shooting,1,0,402
+0022300476,619,PT04M39.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,SUB: Houstan FOR Queen,Substitution,,0,0,431
+0022300476,713,PT02M17.00S,5,1610612753,ORL,1630243,Queen,T. Queen,239,50,24,Missed,1,,,0,v,MISS Queen 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,495
+0022300476,728,PT01M21.00S,5,1610612753,ORL,1630243,Queen,T. Queen,-55,161,17,Missed,1,,,0,v,MISS Queen 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,507
+0022300476,758,PT00M25.00S,5,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen P.FOUL (P5.T3) (C.Aubry),Foul,Personal,1,0,524
+0022300476,769,PT00M17.70S,5,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,SUB: Houstan FOR Queen,Substitution,,0,0,528
+0022300476,877,PT00M04.20S,6,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,SUB: M. Wagner FOR Queen,Substitution,,0,0,598
+0022300488,132,PT02M31.00S,1,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,99
+0022300488,163,PT00M53.20S,1,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen S.FOUL (P1.PN) (M.Myers),Foul,Shooting,1,0,124
+0022300488,187,PT11M23.00S,2,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen BLOCK (1 BLK),,,1,2,143
+0022300488,208,PT09M47.00S,2,1610612753,ORL,1630243,Queen,T. Queen,32,-8,3,Missed,1,,,0,v,MISS Queen 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,155
+0022300488,275,PT05M45.00S,2,1610612753,ORL,1630243,Queen,T. Queen,28,241,24,Missed,1,,,0,v,MISS Queen 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,204
+0022300488,278,PT05M43.00S,2,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,SUB: Anthony FOR Queen,Substitution,,0,0,206
+0022300488,306,PT02M47.00S,2,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,227
+0022300488,326,PT01M15.00S,2,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,242
+0022300488,446,PT03M32.00S,3,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen STEAL (1 STL),,,0,0,324
+0022300488,448,PT03M29.00S,3,1610612753,ORL,1630243,Queen,T. Queen,5,6,1,Made,1,91,85,176,v,Queen 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,325
+0022300488,452,PT03M29.00S,3,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,91,86,177,v,Queen Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,328
+0022300488,492,PT11M31.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen P.FOUL (P2.T1) (M.Myers),Foul,Personal,1,0,354
+0022300488,516,PT09M05.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen P.FOUL (P3.T3) (M.Myers),Foul,Personal,1,0,372
+0022300488,553,PT07M26.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,398
+0022300488,560,PT06M43.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen STEAL (2 STL),,,1,0,404
+0022300488,570,PT06M25.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen P.FOUL (P4.PN) (E.Malloy),Foul,Personal,1,0,411
+0022300488,575,PT06M07.00S,4,1610612753,ORL,1630243,Queen,T. Queen,6,8,1,Made,1,107,110,217,v,Queen 1' Driving Layup (5 PTS) (Banchero 11 AST),Made Shot,Driving Layup Shot,1,2,415
+0022300488,583,PT05M18.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,421
+0022300499,507,PT11M09.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,h,Queen REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,372
+0022300499,508,PT11M09.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,Made,1,87,78,165,h,Queen Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,373
+0022300499,515,PT10M26.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,h,Queen P.FOUL (P1.T1) (E.Scott),Foul,Personal,1,0,378
+0022300499,517,PT10M15.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,h,Queen S.FOUL (P2.T2) (E.Scott),Foul,Shooting,1,0,379
+0022300499,521,PT09M57.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,h,Queen Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,385
+0022300499,569,PT06M14.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,h,SUB: Houstan FOR Queen,Substitution,,0,0,421
+0022300513,111,PT03M26.00S,1,1610612753,ORL,1630243,Queen,T. Queen,21,30,4,Missed,1,,,0,h,MISS Queen 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,82
+0022300513,116,PT02M51.00S,1,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,h,Queen REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,86
+0022300513,117,PT02M51.00S,1,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,Missed,1,,,0,h,MISS Queen Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,87
+0022300513,181,PT10M13.00S,2,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,h,Queen P.FOUL (P1.T3) (P.Fraher),Foul,Personal,1,0,135
+0022300513,210,PT08M16.00S,2,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,h,Queen Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,1,0,155
+0022300513,222,PT07M25.00S,2,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,29,39,68,h,Queen Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,163
+0022300513,227,PT07M25.00S,2,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,30,39,69,h,Queen Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,166
+0022300513,244,PT06M00.00S,2,1610612753,ORL,1630243,Queen,T. Queen,89,232,25,Made,1,33,43,76,h,Queen 25' 3PT Jump Shot (5 PTS) (Bitadze 1 AST),Made Shot,Jump Shot,1,3,178
+0022300513,281,PT03M44.00S,2,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,h,Queen Violation:Defensive Goaltending (P.Fraher),Violation,Defensive Goaltending,1,0,202
+0022300513,289,PT03M05.00S,2,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,h,SUB: Houstan FOR Queen,Substitution,,0,0,209
+0022300513,526,PT10M56.00S,4,1610612753,ORL,1630243,Queen,T. Queen,234,69,24,Missed,1,,,0,h,MISS Queen 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,383
+0022300513,558,PT08M35.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,h,Queen REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,407
+0022300513,559,PT08M29.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,h,Queen Lost Ball Turnover (P2.T12),Turnover,Lost Ball,1,0,408
+0022300513,573,PT07M40.00S,4,1610612753,ORL,1630243,Queen,T. Queen,-230,37,0,Made,1,78,99,177,h,Queen 3PT Jump Shot (8 PTS) (Houstan 2 AST),Made Shot,Jump Shot,1,3,418
+0022300513,583,PT06M53.00S,4,1610612753,ORL,1630243,Queen,T. Queen,23,157,16,Missed,1,,,0,h,MISS Queen 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,424
+0022300513,602,PT04M17.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,h,Queen STEAL (1 STL),,,1,0,440
+0022300513,615,PT03M22.00S,4,1610612753,ORL,1630243,Queen,T. Queen,29,8,3,Missed,1,,,0,h,MISS Queen 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,447
+0022300513,618,PT03M02.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,h,Queen REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,450
+0022300513,653,PT01M18.00S,4,1610612753,ORL,1630243,Queen,T. Queen,40,27,5,Missed,1,,,0,h,MISS Queen 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,477
+0022300513,662,PT00M19.10S,4,1610612753,ORL,1630243,Queen,T. Queen,36,258,26,Made,1,92,113,205,h,Queen 26' 3PT Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,3,485
+0022300535,308,PT01M07.00S,2,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,227
+0022300535,395,PT06M00.00S,3,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen Out of Bounds - Bad Pass Turnover Turnover (P1.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,286
+0022300535,437,PT02M59.00S,3,1610612753,ORL,1630243,Queen,T. Queen,-112,230,26,Missed,1,,,0,v,MISS Queen 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,318
+0022300535,457,PT01M27.00S,3,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,SUB: Okeke FOR Queen,Substitution,,0,0,334
+0022300535,490,PT00M08.20S,3,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,SUB: Anthony FOR Queen,Substitution,,0,0,358
+0022300535,646,PT00M38.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,SUB: Suggs FOR Queen,Substitution,,0,0,467
+0022300535,665,PT00M18.50S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,SUB: Houstan FOR Queen,Substitution,,0,0,479
+0022300546,115,PT01M16.00S,1,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen S.FOUL (P1.T4) (G.Petraitis),Foul,Shooting,1,0,87
+0022300546,120,PT01M04.00S,1,1610612753,ORL,1630243,Queen,T. Queen,-233,-10,0,Missed,1,,,0,v,MISS Queen 3PT Jump Shot,Missed Shot,Jump Shot,1,3,90
+0022300546,124,PT00M51.20S,1,1610612753,ORL,1630243,Queen,T. Queen,27,25,4,Made,1,23,21,44,v,Queen 4' Cutting Finger Roll Layup Shot (2 PTS) (Anthony 1 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,93
+0022300546,127,PT00M29.50S,1,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,95
+0022300546,155,PT10M59.00S,2,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,113
+0022300546,159,PT10M50.00S,2,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen BLOCK (1 BLK),,,1,2,118
+0022300546,202,PT08M01.00S,2,1610612753,ORL,1630243,Queen,T. Queen,-4,5,1,Made,1,31,26,57,v,Queen 1' Cutting Dunk Shot (4 PTS) (Isaac 1 AST),Made Shot,Cutting Dunk Shot,1,2,150
+0022300546,211,PT07M15.00S,2,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen P.FOUL (P2.T3) (G.Petraitis),Foul,Personal,1,0,155
+0022300546,217,PT07M00.00S,2,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,159
+0022300546,219,PT06M55.00S,2,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen BLOCK (2 BLK),,,1,2,162
+0022300546,228,PT06M24.00S,2,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,SUB: Suggs FOR Queen,Substitution,,0,0,169
+0022300546,506,PT10M00.00S,4,1610612753,ORL,1630243,Queen,T. Queen,-238,19,24,Missed,1,,,0,v,MISS Queen 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,368
+0022300546,517,PT09M08.00S,4,1610612753,ORL,1630243,Queen,T. Queen,190,173,26,Missed,1,,,0,v,MISS Queen 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,378
+0022300546,526,PT08M36.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,386
+0022300546,542,PT07M41.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen BLOCK (3 BLK),,,1,2,398
+0022300546,544,PT07M39.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,399
+0022300546,545,PT07M38.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen Bad Pass Turnover (P2.T15),Turnover,Bad Pass,1,0,400
+0022300546,552,PT07M23.00S,4,1610612753,ORL,1630243,Queen,T. Queen,55,-1,6,Made,1,94,86,180,v,Queen 6' Driving Layup (6 PTS) (Banchero 8 AST),Made Shot,Driving Layup Shot,1,2,405
+0022300546,556,PT07M23.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,94,87,181,v,Queen Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,407
+0022300546,564,PT06M51.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,SUB: Houstan FOR Queen,Substitution,,0,0,413
+0022300585,649,PT00M39.30S,4,1610612753,ORL,1630243,Queen,T. Queen,-2,15,2,Made,1,106,121,227,h,Queen 2' Cutting Dunk Shot (2 PTS) (Wagner 1 AST),Made Shot,Cutting Dunk Shot,1,2,470
+0022300601,657,PT00M17.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,h,Queen REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,467
+0022300638,282,PT02M09.00S,2,1610612753,ORL,1630243,Queen,T. Queen,-168,200,26,Missed,1,,,0,v,MISS Queen 26' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,1,3,203
+0022300638,290,PT01M35.00S,2,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,SUB: F. Wagner FOR Queen,Substitution,,0,0,209
+0022300655,663,PT01M10.00S,4,1610612753,ORL,1630243,Queen,T. Queen,120,233,26,Missed,1,,,0,h,MISS Queen 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,480
+0022300778,120,PT01M23.00S,1,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,h,Queen S.FOUL (P1.T4) (N.Buchert),Foul,Shooting,0,0,92
+0022300778,517,PT03M46.00S,4,1610612753,ORL,1630243,Queen,T. Queen,-233,26,0,Missed,1,,,0,h,MISS Queen 3PT Jump Shot,Missed Shot,Jump Shot,1,3,378
+0022300778,520,PT03M27.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,h,Queen REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,381
+0022300778,521,PT03M19.00S,4,1610612753,ORL,1630243,Queen,T. Queen,48,16,5,Missed,1,,,0,h,MISS Queen 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,382
+0022301150,643,PT01M19.00S,4,1610612753,ORL,1630243,Queen,T. Queen,0,0,0,,0,,,0,v,Queen REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,463

@@ -1,0 +1,554 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300010,79,PT05M42.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,56
+0022300010,118,PT03M44.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,SUB: Pritchard FOR Brissett,Substitution,,0,0,86
+0022300010,175,PT11M46.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,125
+0022300010,176,PT11M31.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,140,205,25,Missed,1,,,0,h,MISS Brissett 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,126
+0022300010,178,PT11M27.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett STEAL (1 STL),,,0,0,129
+0022300010,185,PT10M50.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,134
+0022300010,201,PT09M51.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,-235,38,24,Missed,1,,,0,h,MISS Brissett 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,146
+0022300010,206,PT09M42.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,SUB: Porzingis FOR Brissett,Substitution,,0,0,150
+0022300010,462,PT00M51.40S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett S.FOUL (P1.T4) (S.Corbin),Foul,Shooting,1,0,339
+0022300010,479,PT00M03.70S,3,1610612738,BOS,1629052,Brissett,O. Brissett,-29,55,6,Missed,1,,,0,h,MISS Brissett 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,352
+0022300010,618,PT01M12.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,MISS Brissett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,453
+0022300010,620,PT01M12.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,120,103,223,h,Brissett Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,455
+0022300010,625,PT00M46.30S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,MISS Brissett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,458
+0022300010,627,PT00M46.30S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,121,105,226,h,Brissett Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,460
+0022300010,630,PT00M30.70S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett S.FOUL (P2.T2) (S.Corbin),Foul,Shooting,1,0,463
+0022300043,176,PT11M12.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett S.FOUL (P1.T1) (J.DeRosa),Foul,Shooting,1,0,125
+0022300043,196,PT09M38.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Kornet FOR Brissett,Substitution,,0,0,141
+0022300043,503,PT11M38.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,MISS Brissett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,362
+0022300043,505,PT11M38.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,MISS Brissett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,364
+0022300043,513,PT10M42.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett S.FOUL (P2.T1) (J.Goldenberg),Foul,Shooting,1,0,371
+0022300043,529,PT09M35.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Brown FOR Brissett,Substitution,,0,0,385
+0022300080,108,PT04M03.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,84
+0022300080,128,PT02M56.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,99
+0022300080,129,PT02M55.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,32,17,4,Missed,1,,,0,h,MISS Brissett 4' Putback Layup,Missed Shot,Putback Layup Shot,1,2,100
+0022300080,134,PT02M50.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,105
+0022300080,149,PT01M31.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,1,0,114
+0022300080,165,PT00M26.20S,1,1610612738,BOS,1629052,Brissett,O. Brissett,-1,16,2,Made,1,25,28,53,h,Brissett 2' Cutting Dunk Shot (2 PTS) (Tatum 2 AST),Made Shot,Cutting Dunk Shot,1,2,128
+0022300080,192,PT09M57.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,SUB: Porzingis FOR Brissett,Substitution,,0,0,145
+0022300080,406,PT04M51.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett Out of Bounds - Bad Pass Turnover Turnover (P2.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,313
+0022300080,408,PT04M34.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,315
+0022300080,413,PT04M14.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett P.FOUL (P1.T2) (E.Dalen),Foul,Personal,1,0,320
+0022300080,464,PT00M15.40S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,357
+0022300103,498,PT10M42.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett S.FOUL (P1.T1) (M.Lindsay),Foul,Shooting,1,0,367
+0022300103,505,PT10M21.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-36,86,9,Missed,1,,,0,v,MISS Brissett 9' Driving Layup,Missed Shot,Driving Layup Shot,1,2,372
+0022300103,510,PT09M57.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-227,57,0,Missed,1,,,0,v,MISS Brissett 3PT Jump Shot,Missed Shot,Jump Shot,1,3,376
+0022300103,519,PT09M27.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett STEAL (1 STL),,,1,0,385
+0022300103,521,PT09M22.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,45,33,6,Missed,1,,,0,v,MISS Brissett 6' Running Layup,Missed Shot,Running Layup Shot,1,2,386
+0022300103,527,PT09M01.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett S.FOUL (P2.T2) (B.Barnaky),Foul,Shooting,1,0,392
+0022300103,531,PT08M57.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,395
+0022300103,546,PT07M46.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,407
+0022300103,554,PT06M58.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-232,20,0,Missed,1,,,0,v,MISS Brissett 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,414
+0022300103,580,PT05M31.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Stevens FOR Brissett,Substitution,,0,0,437
+0022300118,208,PT08M16.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett STEAL (1 STL),,,1,0,156
+0022300118,272,PT03M53.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,11,-4,1,Missed,1,,,0,h,MISS Brissett 1' Running Layup,Missed Shot,Running Layup Shot,1,2,205
+0022300118,282,PT03M30.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,SUB: Tatum FOR Brissett,Substitution,,0,0,212
+0022300118,470,PT01M11.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett STEAL (2 STL),,,1,0,356
+0022300118,512,PT10M54.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,381
+0022300118,544,PT07M50.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-210,156,26,Missed,1,,,0,h,MISS Brissett 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,405
+0022300118,553,PT06M51.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-34,35,5,Missed,1,,,0,h,MISS Brissett 5' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,411
+0022300118,590,PT04M29.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,140,90,230,h,Brissett Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,438
+0022300118,594,PT04M29.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,141,90,231,h,Brissett Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,441
+0022300118,600,PT03M33.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-1,34,3,Made,1,145,94,239,h,Brissett 3' Layup (4 PTS) (Pritchard 8 AST),Made Shot,Layup Shot,1,2,445
+0022300136,132,PT01M50.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,195,172,26,Made,1,26,30,56,v,Brissett 26' 3PT Jump Shot (3 PTS) (Pritchard 1 AST),Made Shot,Jump Shot,1,3,103
+0022300136,150,PT00M40.60S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,118
+0022300136,205,PT10M22.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,-229,-31,0,Missed,1,,,0,v,MISS Brissett 3PT Jump Shot,Missed Shot,Jump Shot,1,3,150
+0022300136,209,PT10M20.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Horford FOR Brissett,Substitution,,0,0,153
+0022300136,525,PT11M41.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,88,92,180,v,Brissett Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,382
+0022300136,526,PT11M41.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,88,93,181,v,Brissett Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,383
+0022300136,528,PT11M18.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,385
+0022300136,533,PT10M50.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-93,246,26,Missed,1,,,0,v,MISS Brissett 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,390
+0022300136,541,PT10M24.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,230,8,0,Missed,1,,,0,v,MISS Brissett 3PT Jump Shot,Missed Shot,Jump Shot,1,3,397
+0022300136,570,PT07M27.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,419
+0022300136,577,PT07M03.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Horford FOR Brissett,Substitution,,0,0,423
+0022300217,106,PT03M57.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,MISS Brissett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,87
+0022300217,118,PT03M57.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,18,16,34,v,Brissett Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,89
+0022300217,120,PT03M02.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,96
+0022300217,123,PT02M50.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett P.FOUL (P1.T4) (M.Ervin),Foul,Personal,1,0,99
+0022300217,133,PT02M34.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,105
+0022300217,161,PT11M15.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,127
+0022300217,167,PT10M42.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,132
+0022300217,173,PT10M17.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett S.FOUL (P2.T1) (R.Mott),Foul,Shooting,1,0,137
+0022300217,204,PT07M30.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Hauser FOR Brissett,Substitution,,0,0,162
+0022300217,505,PT08M50.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,389
+0022300217,507,PT08M30.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,391
+0022300217,518,PT06M56.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,400
+0022300217,521,PT06M38.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Tatum FOR Brissett,Substitution,,0,0,403
+0022300217,715,PT00M07.20S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Porzingis FOR Brissett,Substitution,,0,0,474
+0022300329,179,PT11M16.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,17,13,2,Made,1,32,24,56,h,Brissett 2' Driving Reverse Layup (2 PTS) (Tatum 1 AST),Made Shot,Driving Reverse Layup Shot,1,2,128
+0022300329,198,PT10M11.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,140
+0022300329,200,PT10M10.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett P.FOUL (P1.T3) (M.Smith),Foul,Personal,1,0,142
+0022300329,202,PT09M58.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett S.FOUL (P2.T4) (L.Wood),Foul,Shooting,1,0,143
+0022300329,218,PT08M35.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,-233,64,24,Made,1,40,36,76,h,Brissett 24' 3PT Jump Shot (5 PTS) (Queta 1 AST),Made Shot,Jump Shot,1,3,154
+0022300329,235,PT07M43.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,-10,17,2,Made,1,44,38,82,h,Brissett 2' Cutting Dunk Shot (7 PTS) (Holiday 2 AST),Made Shot,Cutting Dunk Shot,1,2,166
+0022300329,244,PT07M23.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,SUB: Brown FOR Brissett,Substitution,,0,0,172
+0022300329,516,PT00M29.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,371
+0022300329,519,PT00M29.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,97,75,172,h,Brissett Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,373
+0022300329,520,PT00M29.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,98,75,173,h,Brissett Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,374
+0022300329,579,PT07M52.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,22,26,3,Made,1,116,91,207,h,Brissett 3' Running Dunk (11 PTS) (White 8 AST),Made Shot,Running Dunk Shot,1,2,410
+0022300329,588,PT07M38.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett P.FOUL (P3.T3) (M.Smith),Foul,Personal,1,0,415
+0022300329,597,PT06M37.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett OFF.Foul (P4) (L.Wood),Foul,Offensive,1,0,421
+0022300329,599,PT06M37.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,1,0,422
+0022300329,606,PT06M13.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,SUB: Queta FOR Brissett,Substitution,,0,0,428
+0022300344,623,PT02M27.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,464
+0022300344,646,PT00M05.30S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,484
+0022300362,72,PT06M41.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,13,39,4,Made,1,12,16,28,v,Brissett 4' Driving Dunk (2 PTS) (Brown 1 AST),Made Shot,Driving Dunk Shot,1,2,54
+0022300362,74,PT06M27.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett STEAL (1 STL),,,1,0,56
+0022300362,76,PT06M23.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,5,44,4,Made,1,12,18,30,v,Brissett 4' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,1,2,57
+0022300362,86,PT05M04.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,39,34,5,Made,1,16,23,39,v,Brissett 5' Running Layup (6 PTS) (Brown 2 AST),Made Shot,Running Layup Shot,1,2,66
+0022300362,133,PT02M19.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Mykhailiuk FOR Brissett,Substitution,,0,0,97
+0022300362,436,PT03M29.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Queta FOR Brissett,Substitution,,0,0,328
+0022300373,92,PT05M02.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,70
+0022300373,98,PT04M25.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,75
+0022300373,121,PT02M44.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,93
+0022300373,276,PT03M30.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Holiday FOR Brissett,Substitution,,0,0,209
+0022300373,590,PT03M31.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,440
+0022300373,607,PT02M22.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,453
+0022300373,614,PT01M34.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-78,256,27,Made,1,114,144,258,v,Brissett 27' 3PT Jump Shot (3 PTS) (Pritchard 4 AST),Made Shot,Jump Shot,1,3,459
+0022300389,86,PT05M04.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,64
+0022300389,119,PT03M03.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Pritchard FOR Brissett,Substitution,,0,0,90
+0022300389,185,PT09M41.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,-229,13,0,Made,1,25,35,60,v,Brissett 3PT Jump Shot (3 PTS) (Horford 3 AST),Made Shot,Jump Shot,1,3,136
+0022300389,206,PT07M26.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,234,37,24,Made,1,34,44,78,v,Brissett 24' 3PT Jump Shot (6 PTS) (Holiday 4 AST),Made Shot,Jump Shot,1,3,151
+0022300389,211,PT07M21.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Queta FOR Brissett,Substitution,,0,0,154
+0022300389,522,PT09M28.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,MISS Brissett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,381
+0022300389,524,PT09M28.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,86,112,198,v,Brissett Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,383
+0022300389,529,PT09M06.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Queta FOR Brissett,Substitution,,0,0,386
+0022300389,576,PT05M23.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,419
+0022300389,585,PT04M43.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-228,62,24,Missed,1,,,0,v,MISS Brissett 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,425
+0022300389,586,PT04M39.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,426
+0022300389,602,PT03M32.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,5,10,1,Made,1,102,133,235,v,Brissett 1' Driving Dunk (9 PTS) (Hauser 4 AST),Made Shot,Driving Dunk Shot,1,2,437
+0022300389,627,PT01M35.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,44,257,26,Made,1,104,140,244,v,Brissett 26' 3PT Jump Shot (12 PTS) (Banton 1 AST),Made Shot,Jump Shot,1,3,456
+0022300421,169,PT11M10.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,132
+0022300421,205,PT08M44.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,SUB: Porzingis FOR Brissett,Substitution,,0,0,159
+0022300432,80,PT05M50.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,64
+0022300432,88,PT04M51.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,70
+0022300432,101,PT04M27.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,78
+0022300432,114,PT02M48.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,152,104,18,Missed,1,,,0,h,MISS Brissett 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,87
+0022300432,413,PT03M10.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,302
+0022300432,414,PT03M09.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,303
+0022300432,426,PT02M31.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,312
+0022300432,427,PT02M23.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,142,209,25,Missed,1,,,0,h,MISS Brissett 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,313
+0022300432,434,PT01M59.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,320
+0022300432,435,PT01M58.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,28,12,3,Made,1,93,80,173,h,Brissett 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,321
+0022300432,444,PT01M20.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,328
+0022300432,486,PT10M46.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,SUB: Holiday FOR Brissett,Substitution,,0,0,356
+0022300432,629,PT00M15.50S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,SUB: Hauser FOR Brissett,Substitution,,0,0,462
+0022300448,107,PT02M59.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,84
+0022300448,135,PT00M47.50S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,105
+0022300448,256,PT02M42.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett STEAL (1 STL),,,1,0,187
+0022300448,258,PT02M38.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,-1,15,2,Missed,1,,,0,v,MISS Brissett 2' Running Layup,Missed Shot,Running Layup Shot,1,2,188
+0022300448,279,PT00M29.30S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,206
+0022300448,405,PT02M29.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,301
+0022300448,406,PT02M29.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,Missed,1,,,0,v,MISS Brissett Putback Layup,Missed Shot,Putback Layup Shot,1,2,302
+0022300448,407,PT02M27.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,303
+0022300448,408,PT02M27.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,Missed,1,,,0,v,MISS Brissett Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,304
+0022300448,410,PT02M19.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett S.FOUL (P1.T3) (A.Smith),Foul,Shooting,1,0,306
+0022300448,456,PT11M43.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,339
+0022300448,552,PT10M40.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett STEAL (2 STL),,,1,0,348
+0022300448,466,PT10M34.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,6,-1,1,Made,1,76,112,188,v,Brissett 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,349
+0022300448,471,PT10M34.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,MISS Brissett Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,352
+0022300448,528,PT07M04.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Stevens FOR Brissett,Substitution,,0,0,394
+0022300448,591,PT02M35.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett S.FOUL (P2.PN) (B.Forte),Foul,Shooting,1,0,439
+0022300448,613,PT00M55.90S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-2,6,1,Made,1,101,134,235,v,Brissett 1' Layup (4 PTS) (Banton 1 AST),Made Shot,Layup Shot,1,2,458
+0022300479,103,PT04M26.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett STEAL (1 STL),,,1,0,78
+0022300479,134,PT01M58.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,SUB: Pritchard FOR Brissett,Substitution,,0,0,107
+0022300479,297,PT03M19.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,232
+0022300479,298,PT03M19.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,Made,1,59,29,88,h,Brissett Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,233
+0022300479,301,PT02M53.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,-17,41,4,Made,1,61,31,92,h,Brissett 4' Cutting Layup Shot (4 PTS) (Brown 4 AST),Made Shot,Cutting Layup Shot,0,2,235
+0022300479,308,PT02M26.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,SUB: Tatum FOR Brissett,Substitution,,0,0,239
+0022300479,481,PT02M42.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett P.FOUL (P1.PN) (B.Adair),Foul,Personal,1,0,369
+0022300479,489,PT02M23.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,101,67,168,h,Brissett Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,375
+0022300479,490,PT02M23.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,102,67,169,h,Brissett Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,376
+0022300479,492,PT01M45.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,13,28,3,Missed,1,,,0,h,MISS Brissett 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,378
+0022300479,494,PT01M41.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,228,2,0,Missed,1,,,0,h,MISS Brissett 3PT Jump Shot,Missed Shot,Jump Shot,1,3,380
+0022300479,502,PT01M08.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett P.FOUL (P2.PN) (A.Nagy),Foul,Personal,1,0,385
+0022300479,638,PT04M34.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,94,239,26,Missed,1,,,0,h,MISS Brissett 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,487
+0022300479,653,PT03M29.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett STEAL (2 STL),,,1,0,500
+0022300479,664,PT03M03.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett S.FOUL (P3.PN) (M.Ervin),Foul,Shooting,1,0,507
+0022300479,682,PT02M25.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,520
+0022300479,694,PT01M28.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,530
+0022300493,109,PT03M33.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,84
+0022300493,124,PT02M52.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,95
+0022300493,138,PT01M44.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,105
+0022300493,162,PT00M06.50S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Hauser FOR Brissett,Substitution,,0,0,120
+0022300493,203,PT08M30.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,151
+0022300493,204,PT08M30.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,Missed,1,,,0,v,MISS Brissett Putback Layup,Missed Shot,Putback Layup Shot,1,2,152
+0022300493,205,PT08M30.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,153
+0022300493,317,PT08M29.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,11,25,3,Missed,1,,,0,v,MISS Brissett 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,154
+0022300493,223,PT06M28.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett S.FOUL (P1.T2) (J.Schroeder),Foul,Shooting,1,0,169
+0022300493,230,PT06M28.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Brown FOR Brissett,Substitution,,0,0,175
+0022300493,401,PT06M09.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett P.FOUL (P2.T3) (P.Ransom),Foul,Personal,1,0,302
+0022300493,417,PT04M48.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,315
+0022300493,418,PT04M48.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,Missed,1,,,0,v,MISS Brissett Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,316
+0022300493,434,PT03M33.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,233,24,0,Missed,1,,,0,v,MISS Brissett 3PT Jump Shot,Missed Shot,Jump Shot,1,3,328
+0022300493,442,PT03M14.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Pritchard FOR Brissett,Substitution,,0,0,334
+0022300493,503,PT10M23.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,20,2,Missed,1,,,0,v,MISS Brissett 2' Layup,Missed Shot,Layup Shot,1,2,377
+0022300493,519,PT09M01.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,4,-10,1,Made,1,85,93,178,v,Brissett 1' Driving Finger Roll Layup (2 PTS) (Kornet 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,390
+0022300493,526,PT09M01.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,85,94,179,v,Brissett Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,394
+0022300493,530,PT08M37.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:5 Def:2),Rebound,Unknown,1,0,398
+0022300493,559,PT07M43.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:5 Def:3),Rebound,Unknown,1,0,418
+0022300493,605,PT04M22.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,233,68,24,Made,1,92,108,200,v,Brissett 24' 3PT Jump Shot (6 PTS) (Horford 8 AST),Made Shot,Jump Shot,1,3,451
+0022300493,652,PT04M01.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett BLOCK (1 BLK),,,1,3,456
+0022300493,612,PT03M51.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-230,-25,0,Missed,1,,,0,v,MISS Brissett 3PT Jump Shot,Missed Shot,Jump Shot,1,3,458
+0022300493,616,PT03M36.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett S.FOUL (P3.T4) (M.Davis),Foul,Shooting,1,0,461
+0022300493,618,PT03M36.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: White FOR Brissett,Substitution,,0,0,462
+0022300493,674,PT00M40.60S,4,1610612738,BOS,1629052,Brissett,O. Brissett,10,3,1,Made,1,99,118,217,v,Brissett 1' Driving Layup (8 PTS) (Kornet 3 AST),Made Shot,Driving Layup Shot,1,2,501
+0022300507,72,PT05M54.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,-224,137,26,Missed,1,,,0,v,MISS Brissett 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,50
+0022300507,74,PT05M49.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,-225,6,0,Missed,1,,,0,v,MISS Brissett 3PT Jump Shot,Missed Shot,Jump Shot,1,3,52
+0022300507,81,PT05M32.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,57
+0022300507,90,PT05M07.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett STEAL (1 STL),,,1,0,64
+0022300507,95,PT05M02.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,15,15,30,v,Brissett Free Throw Flagrant 1 of 2 (1 PTS),Free Throw,Free Throw Flagrant 1 of 2,1,0,67
+0022300507,98,PT05M02.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,15,16,31,v,Brissett Free Throw Flagrant 2 of 2 (2 PTS),Free Throw,Free Throw Flagrant 2 of 2,1,0,69
+0022300507,108,PT03M55.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,78
+0022300507,121,PT03M00.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,233,17,0,Made,1,23,24,47,v,Brissett 3PT Jump Shot (5 PTS) (Pritchard 2 AST),Made Shot,Jump Shot,1,3,86
+0022300507,256,PT05M56.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,179
+0022300507,259,PT05M56.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,MISS Brissett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,181
+0022300507,265,PT05M56.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,MISS Brissett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,185
+0022300507,273,PT05M16.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,193
+0022300507,275,PT04M52.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett STEAL (2 STL),,,1,0,196
+0022300507,301,PT03M10.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Horford FOR Brissett,Substitution,,0,0,216
+0022300507,414,PT05M53.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett S.FOUL (P1.T3) (J.Williams),Foul,Shooting,1,0,303
+0022300507,423,PT04M52.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett S.FOUL (P2.T4) (D.Richardson),Foul,Shooting,1,0,310
+0022300507,427,PT04M37.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,-227,-4,0,Missed,1,,,0,v,MISS Brissett 3PT Jump Shot,Missed Shot,Jump Shot,1,3,313
+0022300507,433,PT03M47.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,318
+0022300507,436,PT03M44.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,92,93,185,v,Brissett Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,320
+0022300507,441,PT03M44.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,MISS Brissett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,323
+0022300507,448,PT03M27.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,328
+0022300507,480,PT00M33.70S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett P.FOUL (P3.PN) (D.Richardson),Foul,Personal,1,0,351
+0022300507,490,PT00M07.30S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: White FOR Brissett,Substitution,,0,0,358
+0022300517,203,PT07M12.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,148
+0022300517,206,PT06M51.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,," Foul : Double Personal - Brissett (1 PF), Towns (1 PF) (C.Kirkland)",Foul,Double Personal,1,0,151
+0022300517,216,PT06M32.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,155
+0022300517,255,PT03M05.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,SUB: Tatum FOR Brissett,Substitution,,0,0,185
+0022300528,117,PT02M51.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,91
+0022300528,118,PT02M37.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,13,1,Made,1,29,21,50,v,Brissett 1' Driving Dunk (2 PTS) (Porzingis 2 AST),Made Shot,Driving Dunk Shot,1,2,92
+0022300528,130,PT02M14.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,-1,10,1,Made,1,31,23,54,v,Brissett 1' Cutting Dunk Shot (4 PTS) (Tatum 2 AST),Made Shot,Cutting Dunk Shot,1,2,99
+0022300528,139,PT01M10.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,228,44,0,Missed,1,,,0,v,MISS Brissett 3PT Jump Shot,Missed Shot,Jump Shot,1,3,106
+0022300528,398,PT05M38.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,-121,235,26,Missed,1,,,0,v,MISS Brissett 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,291
+0022300528,404,PT05M13.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,-4,22,2,Made,1,95,55,150,v,Brissett 2' Driving Hook Shot (6 PTS) (Pritchard 2 AST),Made Shot,Driving Hook Shot,1,2,296
+0022300528,419,PT04M01.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,114,236,26,Missed,1,,,0,v,MISS Brissett 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,307
+0022300528,463,PT01M21.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,106,66,172,v,Brissett Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,337
+0022300528,466,PT01M21.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,106,67,173,v,Brissett Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,339
+0022300528,492,PT10M32.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,111,77,188,v,Brissett Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,357
+0022300528,493,PT10M32.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,111,78,189,v,Brissett Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,358
+0022300528,505,PT09M19.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,116,81,197,v,Brissett Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,367
+0022300528,506,PT09M19.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,MISS Brissett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,368
+0022300528,509,PT09M00.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,371
+0022300528,518,PT08M43.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-9,25,3,Made,1,116,83,199,v,Brissett 3' Driving Dunk (13 PTS),Made Shot,Driving Dunk Shot,1,2,377
+0022300528,528,PT08M11.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-70,204,22,Missed,1,,,0,v,MISS Brissett 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,386
+0022300528,554,PT06M42.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Mykhailiuk FOR Brissett,Substitution,,0,0,403
+0022300542,588,PT07M05.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,439
+0022300542,591,PT06M50.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett STEAL (1 STL),,,1,0,443
+0022300542,609,PT05M45.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-227,70,24,Made,1,134,99,233,h,Brissett 24' 3PT Jump Shot (3 PTS) (Pritchard 3 AST),Made Shot,Jump Shot,1,3,456
+0022300542,626,PT04M41.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett S.FOUL (P1.PN) (M.Kallio),Foul,Shooting,1,0,467
+0022300542,638,PT04M09.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,477
+0022300542,654,PT02M36.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,490
+0022300542,655,PT02M33.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,2,5,1,Made,1,139,106,245,h,Brissett 1' Running Dunk (5 PTS),Made Shot,Running Dunk Shot,1,2,491
+0022300563,200,PT07M05.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,12,93,9,Missed,1,,,0,v,MISS Brissett 9' Fadeaway Bank Shot,Missed Shot,Fadeaway Bank shot,1,2,146
+0022300563,203,PT07M00.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,149
+0022300563,204,PT06M55.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,Missed,1,,,0,v,MISS Brissett Tip Dunk Shot,Missed Shot,Tip Dunk Shot,1,2,150
+0022300563,213,PT06M16.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,38,41,79,v,Brissett Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,158
+0022300563,224,PT06M16.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,38,42,80,v,Brissett Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,164
+0022300563,234,PT04M52.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,174
+0022300563,235,PT04M52.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,Made,1,40,47,87,v,Brissett Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,175
+0022300563,264,PT02M55.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,237,51,24,Made,1,46,53,99,v,Brissett 24' 3PT Jump Shot (7 PTS) (Holiday 5 AST),Made Shot,Jump Shot,1,3,194
+0022300563,267,PT02M27.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,196
+0022300563,270,PT02M16.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett S.FOUL (P1.T3) (C.Flores),Foul,Shooting,1,0,199
+0022300563,274,PT02M16.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Horford FOR Brissett,Substitution,,0,0,202
+0022300571,74,PT06M29.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,49
+0022300571,75,PT06M19.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,25,-3,3,Made,1,20,15,35,h,Brissett 3' Driving Layup (2 PTS) (Brown 1 AST),Made Shot,Driving Layup Shot,1,2,50
+0022300571,86,PT05M11.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,59
+0022300571,103,PT04M00.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,73
+0022300571,117,PT02M39.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,-232,57,24,Missed,1,,,0,h,MISS Brissett 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,83
+0022300571,129,PT01M46.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,SUB: Holiday FOR Brissett,Substitution,,0,0,91
+0022300571,424,PT01M48.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,309
+0022300571,448,PT00M00.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,-169,30,17,Missed,1,,,0,h,MISS Brissett 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,326
+0022300571,465,PT11M20.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,98,78,176,h,Brissett Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,336
+0022300571,468,PT11M20.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,MISS Brissett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,338
+0022300571,471,PT11M02.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,341
+0022300571,477,PT10M32.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,2,21,2,Made,1,102,78,180,h,Brissett 2' Cutting Layup Shot (5 PTS) (Brown 5 AST),Made Shot,Cutting Layup Shot,1,2,347
+0022300571,510,PT08M12.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,106,82,188,h,Brissett Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,372
+0022300571,513,PT08M12.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,107,82,189,h,Brissett Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,374
+0022300571,522,PT07M25.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-29,39,5,Missed,1,,,0,h,MISS Brissett 5' Running Layup,Missed Shot,Running Layup Shot,1,2,382
+0022300571,537,PT06M30.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,SUB: Tatum FOR Brissett,Substitution,,0,0,392
+0022300630,503,PT05M58.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,10,59,6,Made,1,96,128,224,v,Brissett 6' Fadeaway Jumper (2 PTS) (Pritchard 3 AST),Made Shot,Fadeaway Jump Shot,1,2,358
+0022300630,515,PT04M55.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,368
+0022300630,529,PT03M31.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,377
+0022300630,530,PT03M28.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,5,13,1,Made,1,104,135,239,v,Brissett 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,378
+0022300630,535,PT03M14.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Walsh FOR Brissett,Substitution,,0,0,383
+0022300646,211,PT08M18.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,163
+0022300646,223,PT07M14.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,172
+0022300646,270,PT04M07.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,SUB: Holiday FOR Brissett,Substitution,,0,0,210
+0022300646,501,PT11M40.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,381
+0022300646,521,PT10M34.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,190,160,25,Missed,1,,,0,h,MISS Brissett 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,397
+0022300646,537,PT10M06.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,MISS Brissett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,405
+0022300646,539,PT10M06.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,65,99,164,h,Brissett Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,407
+0022300646,543,PT09M35.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,18,16,2,Missed,1,,,0,h,MISS Brissett 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,411
+0022300646,555,PT08M51.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-28,21,4,Missed,1,,,0,h,MISS Brissett 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,422
+0022300646,602,PT04M55.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,457
+0022300646,603,PT04M51.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-1,16,2,Made,1,80,105,185,h,Brissett 2' Running Dunk (3 PTS),Made Shot,Running Dunk Shot,1,2,458
+0022300646,606,PT04M25.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,460
+0022300646,636,PT01M29.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,484
+0022300646,641,PT01M06.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-2,6,1,Made,1,92,112,204,h,Brissett 1' Driving Dunk (5 PTS) (Banton 2 AST),Made Shot,Driving Dunk Shot,1,2,487
+0022300659,205,PT07M29.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,149
+0022300659,209,PT07M11.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,153
+0022300659,210,PT06M59.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,-22,262,26,Missed,1,,,0,h,MISS Brissett 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,154
+0022300659,240,PT05M30.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,175
+0022300659,248,PT05M01.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett S.FOUL (P1.T4) (A.Smith),Foul,Shooting,1,0,181
+0022300659,254,PT04M19.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,186
+0022300659,257,PT03M44.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett S.FOUL (P2.PN) (A.Smith),Foul,Shooting,1,0,188
+0022300659,261,PT03M44.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,SUB: Holiday FOR Brissett,Substitution,,0,0,191
+0022300659,484,PT10M12.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett S.FOUL (P3.T1) (S.Wall),Foul,Shooting,1,0,353
+0022300659,502,PT08M10.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,369
+0022300659,507,PT08M08.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,SUB: Brown FOR Brissett,Substitution,,0,0,371
+0022300670,106,PT03M41.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett P.FOUL (P1.T3) (Z.Zarba),Foul,Personal,1,0,76
+0022300670,124,PT03M03.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,87
+0022300684,681,PT00M29.60S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,489
+0022300684,682,PT00M28.10S,4,1610612738,BOS,1629052,Brissett,O. Brissett,234,33,24,Missed,1,,,0,h,MISS Brissett 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,490
+0022300706,183,PT10M46.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,43,55,7,Missed,1,,,0,h,MISS Brissett 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,145
+0022300706,188,PT10M43.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,150
+0022300706,189,PT10M42.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,7,36,4,Made,1,31,22,53,h,Brissett 4' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,151
+0022300706,192,PT10M42.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,32,22,54,h,Brissett Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,153
+0022300706,195,PT10M02.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,-12,32,3,Missed,1,,,0,h,MISS Brissett 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,156
+0022300706,200,PT09M39.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,-161,219,27,Made,1,35,24,59,h,Brissett 27' 3PT Jump Shot (6 PTS) (Pritchard 1 AST),Made Shot,Jump Shot,1,3,161
+0022300706,219,PT08M29.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett STEAL (1 STL),,,1,0,175
+0022300706,235,PT06M48.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,SUB: Porzingis FOR Brissett,Substitution,,0,0,188
+0022300706,481,PT11M33.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett L.B.FOUL (P1.T1) (S.Twardoski),Foul,Loose Ball,1,0,362
+0022300706,501,PT10M11.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett Offensive Goaltending Turnover (P1.T10),Turnover,Offensive Goaltending,1,0,377
+0022300706,510,PT09M23.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,384
+0022300706,528,PT08M09.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,399
+0022300706,542,PT06M56.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,SUB: Mykhailiuk FOR Brissett,Substitution,,0,0,409
+0022300729,191,PT08M55.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,45,46,91,h,Brissett Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,136
+0022300729,197,PT08M55.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,46,46,92,h,Brissett Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,139
+0022300729,233,PT06M41.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,-230,20,0,Missed,1,,,0,h,MISS Brissett 3PT Jump Shot,Missed Shot,Jump Shot,1,3,165
+0022300729,242,PT06M03.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,SUB: Hauser FOR Brissett,Substitution,,0,0,173
+0022300759,167,PT09M07.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,119
+0022300759,183,PT07M43.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Porzingis FOR Brissett,Substitution,,0,0,128
+0022300771,190,PT08M17.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Kornet FOR Brissett,Substitution,,0,0,134
+0022300771,204,PT07M54.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,MISS Brissett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,143
+0022300771,208,PT07M54.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,MISS Brissett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,146
+0022300771,213,PT07M39.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Tatum FOR Brissett,Substitution,,0,0,150
+0022300771,550,PT10M43.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,385
+0022300771,564,PT09M08.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,86,99,185,v,Brissett Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,397
+0022300771,565,PT09M08.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,MISS Brissett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,398
+0022300771,585,PT07M20.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Holiday FOR Brissett,Substitution,,0,0,413
+0022300780,97,PT03M39.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,69
+0022300780,421,PT01M21.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,297
+0022300780,438,PT00M15.80S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,100,55,155,h,Brissett Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,311
+0022300780,439,PT00M15.80S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,101,55,156,h,Brissett Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,312
+0022300780,459,PT11M39.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-235,37,24,Made,1,104,55,159,h,Brissett 24' 3PT Jump Shot (5 PTS) (Pritchard 2 AST),Made Shot,Jump Shot,1,3,319
+0022300780,470,PT10M09.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,325
+0022300780,474,PT09M57.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,110,60,170,h,Brissett Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,327
+0022300780,475,PT09M57.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,MISS Brissett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,328
+0022300780,488,PT08M36.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,22,11,2,Missed,1,,,0,h,MISS Brissett 2' Running Layup,Missed Shot,Running Layup Shot,1,2,336
+0022300780,516,PT06M58.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Jump Ball Brissett vs. Clowney: Tip to Pritchard,Jump Ball,,0,0,358
+0022300780,527,PT06M03.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-72,114,13,Made,1,123,71,194,h,Brissett 13' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,1,2,365
+0022300780,530,PT06M03.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,124,71,195,h,Brissett Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,367
+0022300780,532,PT05M42.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,369
+0022300780,540,PT04M38.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,93,237,25,Missed,1,,,0,h,MISS Brissett 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,376
+0022300780,550,PT03M40.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-158,205,26,Missed,1,,,0,h,MISS Brissett 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,383
+0022300780,552,PT03M28.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett STEAL (1 STL),,,1,0,386
+0022300780,554,PT03M24.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,1,10,1,Made,1,132,78,210,h,Brissett 1' Running Dunk (11 PTS),Made Shot,Running Dunk Shot,1,2,387
+0022300780,573,PT00M54.80S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett S.FOUL (P1.PN) (J.Schroeder),Foul,Shooting,1,0,402
+0022300836,147,PT00M02.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,SUB: Porzingis FOR Brissett,Substitution,,0,0,113
+0022300836,638,PT00M22.40S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-169,209,27,Missed,1,,,0,h,MISS Brissett 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,472
+0022300859,574,PT02M19.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-60,63,9,Missed,1,,,0,h,MISS Brissett 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,418
+0022300859,577,PT02M09.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett BLOCK (1 BLK),,,1,2,421
+0022300859,593,PT01M06.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett Violation:Kicked Ball (B.Adair),Violation,Kicked Ball,0,0,437
+0022300859,603,PT00M20.70S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-9,37,4,Made,1,137,110,247,h,Brissett 4' Driving Layup (2 PTS) (Mykhailiuk 1 AST),Made Shot,Driving Layup Shot,1,2,443
+0022300859,606,PT00M20.70S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,138,110,248,h,Brissett Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,445
+0022300872,390,PT05M48.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,275
+0022300872,403,PT05M01.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,-5,37,4,Missed,1,,,0,h,MISS Brissett 4' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,1,2,284
+0022300872,423,PT02M59.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,299
+0022300872,454,PT01M02.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,MISS Brissett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,322
+0022300872,456,PT01M02.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,MISS Brissett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,324
+0022300872,470,PT00M44.20S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,329
+0022300872,460,PT00M40.30S,3,1610612738,BOS,1629052,Brissett,O. Brissett,6,18,2,Made,1,113,62,175,h,Brissett 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,330
+0022300872,466,PT00M01.30S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett STEAL (1 STL),,,0,0,337
+0022300872,480,PT11M38.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,185,168,25,Missed,1,,,0,h,MISS Brissett 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,342
+0022300872,494,PT10M21.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,352
+0022300872,501,PT09M55.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett P.FOUL (P1.T1) (N.Buchert),Foul,Personal,1,0,358
+0022300872,512,PT09M17.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,367
+0022300872,520,PT08M46.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-23,38,4,Missed,1,,,0,h,MISS Brissett 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,373
+0022300872,523,PT08M37.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,376
+0022300872,536,PT07M37.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett STEAL (2 STL),,,1,0,388
+0022300872,538,PT07M33.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-4,7,1,Made,1,123,72,195,h,Brissett 1' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,1,2,389
+0022300872,564,PT04M17.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,410
+0022300872,565,PT04M09.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett OFF.Foul (P2) (M.Myers),Foul,Offensive,1,0,411
+0022300872,567,PT04M09.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,1,0,412
+0022300872,568,PT03M57.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett BLOCK (1 BLK),,,1,2,414
+0022300872,573,PT03M42.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,417
+0022300872,578,PT03M06.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-1,7,1,Made,1,130,81,211,h,Brissett 1' Driving Reverse Layup (6 PTS) (Pritchard 5 AST),Made Shot,Driving Reverse Layup Shot,1,2,422
+0022300872,597,PT01M26.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,436
+0022300872,598,PT01M21.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,16,16,2,Missed,1,,,0,h,MISS Brissett 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,437
+0022300938,124,PT01M54.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett P.FOUL (P1.T3) (J.Van Duyne),Foul,Personal,1,0,92
+0022300938,130,PT01M33.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett S.FOUL (P2.PN) (M.Lindsay),Foul,Shooting,1,0,95
+0022300938,148,PT00M10.30S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: White FOR Brissett,Substitution,,0,0,106
+0022300938,162,PT11M37.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,113
+0022300938,163,PT11M24.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,-53,250,26,Missed,1,,,0,v,MISS Brissett 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,114
+0022300938,164,PT11M21.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,115
+0022300938,167,PT11M19.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,MISS Brissett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,117
+0022300938,169,PT11M19.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,28,38,66,v,Brissett Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,119
+0022300938,171,PT11M06.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,121
+0022300938,198,PT08M35.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,141
+0022300938,208,PT07M38.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett S.FOUL (P3.T1) (J.Van Duyne),Foul,Shooting,1,0,151
+0022300938,214,PT07M38.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Brown FOR Brissett,Substitution,,0,0,156
+0022300938,409,PT02M19.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,305
+0022300938,443,PT00M16.40S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Pritchard FOR Brissett,Substitution,,0,0,328
+0022300938,459,PT11M39.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,335
+0022300938,473,PT09M45.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,16,17,2,Made,1,80,95,175,v,Brissett 2' Cutting Dunk Shot (3 PTS) (Tatum 7 AST),Made Shot,Cutting Dunk Shot,1,2,344
+0022300938,508,PT07M14.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,370
+0022300938,521,PT06M09.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Horford FOR Brissett,Substitution,,0,0,380
+0022300943,95,PT04M57.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,64
+0022300943,131,PT01M52.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,32,11,3,Made,1,29,40,69,v,Brissett 3' Running Layup (2 PTS) (Tatum 1 AST),Made Shot,Running Layup Shot,1,2,91
+0022300943,144,PT00M30.10S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,102
+0022300943,229,PT05M32.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Tatum FOR Brissett,Substitution,,0,0,161
+0022300943,408,PT04M18.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,289
+0022300943,412,PT03M19.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,293
+0022300943,415,PT03M19.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,MISS Brissett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,295
+0022300943,419,PT03M19.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,MISS Brissett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,298
+0022300943,612,PT00M32.50S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,439
+0022300980,51,PT07M11.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,38
+0022300980,56,PT07M01.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,13,16,29,v,Brissett Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,41
+0022300980,57,PT07M01.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,13,17,30,v,Brissett Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,42
+0022300980,58,PT06M49.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett S.FOUL (P1.T1) (R.Hussey),Foul,Shooting,1,0,43
+0022300980,80,PT05M28.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Kornet FOR Brissett,Substitution,,0,0,61
+0022300980,217,PT08M22.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,-248,19,25,Missed,1,,,0,v,MISS Brissett 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,151
+0022300980,236,PT06M55.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,165
+0022300980,283,PT04M19.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett S.FOUL (P2.T4) (C.Kirkland),Foul,Shooting,1,0,197
+0022300980,304,PT03M13.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Kornet FOR Brissett,Substitution,,0,0,211
+0022300980,356,PT10M54.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,230,38,0,Missed,1,,,0,v,MISS Brissett 3PT Jump Shot,Missed Shot,Jump Shot,1,3,241
+0022300980,380,PT08M41.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett Violation:Jump Ball (J.Van Duyne),Violation,Jump Ball,0,0,261
+0022300980,398,PT07M43.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett L.B.FOUL (P3.T3) (J.Van Duyne),Foul,Loose Ball,1,0,276
+0022300980,412,PT06M57.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,65,95,160,v,Brissett Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,284
+0022300980,413,PT06M57.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,65,96,161,v,Brissett Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,285
+0022300980,437,PT05M07.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Kornet FOR Brissett,Substitution,,0,0,306
+0022300980,494,PT02M47.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett Traveling Turnover (P1.T9),Turnover,Traveling,1,0,346
+0022300980,506,PT01M37.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,48,268,27,Missed,1,,,0,v,MISS Brissett 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,356
+0022300980,623,PT04M48.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,431
+0022300980,624,PT04M40.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,26,132,13,Missed,1,,,0,v,MISS Brissett 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,432
+0022300980,625,PT04M37.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,433
+0022300980,637,PT03M30.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,MISS Brissett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,441
+0022300980,639,PT03M30.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,100,126,226,v,Brissett Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,443
+0022300980,645,PT02M44.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-2,-14,1,Made,1,102,128,230,v,Brissett 1' Running Layup (7 PTS) (Pritchard 13 AST),Made Shot,Running Layup Shot,1,2,448
+0022300984,134,PT00M05.40S,1,1610612738,BOS,1629052,Brissett,O. Brissett,50,63,8,Missed,1,,,0,h,MISS Brissett 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,102
+0022300984,175,PT08M28.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,132
+0022300984,202,PT07M20.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,149
+0022300984,203,PT07M16.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,-31,41,5,Missed,1,,,0,h,MISS Brissett 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,150
+0022300984,212,PT06M34.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,159
+0022300984,213,PT06M31.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,-36,22,4,Missed,1,,,0,h,MISS Brissett 4' Putback Layup,Missed Shot,Putback Layup Shot,1,2,160
+0022300984,219,PT06M24.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,SUB: Brown FOR Brissett,Substitution,,0,0,166
+0022300984,479,PT08M52.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-100,246,27,Missed,1,,,0,h,MISS Brissett 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,355
+0022300984,501,PT06M57.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,2,17,2,Missed,1,,,0,h,MISS Brissett 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,375
+0022300984,543,PT03M58.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,50,25,6,Missed,1,,,0,h,MISS Brissett 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,404
+0022300984,550,PT03M34.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,88,246,26,Made,1,109,85,194,h,Brissett 26' 3PT Jump Shot (3 PTS) (Pritchard 7 AST),Made Shot,Jump Shot,1,3,410
+0022300984,563,PT01M56.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,422
+0022300984,580,PT00M42.20S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett S.FOUL (P1.PN) (C.Blair),Foul,Shooting,1,0,432
+0022301011,148,PT00M29.10S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,34,29,63,v,Brissett Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,109
+0022301011,151,PT00M29.10S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,MISS Brissett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,111
+0022301011,226,PT07M14.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett BLOCK (1 BLK),,,1,3,160
+0022301011,242,PT06M17.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,172
+0022301011,261,PT04M55.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Pritchard FOR Brissett,Substitution,,0,0,187
+0022301011,311,PT01M24.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,225
+0022301011,312,PT01M16.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,234,106,26,Made,1,51,64,115,v,Brissett 26' 3PT Jump Shot (4 PTS) (Pritchard 7 AST),Made Shot,Jump Shot,1,3,226
+0022301011,360,PT09M47.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett P.FOUL (P1.T1) (D.Guthrie),Foul,Personal,1,0,258
+0022301011,376,PT08M26.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,9,29,3,Made,1,60,80,140,v,Brissett 3' Cutting Dunk Shot (6 PTS) (White 5 AST),Made Shot,Cutting Dunk Shot,1,2,268
+0022301011,434,PT04M31.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Tillman FOR Brissett,Substitution,,0,0,311
+0022301011,493,PT00M21.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Mykhailiuk FOR Brissett,Substitution,,0,0,355
+0022301011,609,PT02M48.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Davison FOR Brissett,Substitution,,0,0,440
+0022301023,112,PT03M11.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett L.B.FOUL (P1.T3) (N.Sago),Foul,Loose Ball,1,0,83
+0022301023,152,PT00M27.70S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,108
+0022301023,153,PT00M27.70S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,Made,1,28,31,59,v,Brissett Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,109
+0022301023,371,PT04M59.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,259
+0022301023,373,PT04M45.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,261
+0022301023,374,PT04M45.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett Out of Bounds Lost Ball Turnover (P1.T9),Turnover,Out of Bounds Lost Ball Turnover,1,0,262
+0022301023,385,PT04M03.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,270
+0022301023,459,PT11M47.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,-1,0,Made,1,92,97,189,v,Brissett Cutting Dunk Shot (4 PTS) (Kornet 3 AST),Made Shot,Cutting Dunk Shot,1,2,317
+0022301023,480,PT09M30.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-178,164,24,Made,1,96,103,199,v,Brissett 24' 3PT Jump Shot (7 PTS) (Kornet 4 AST),Made Shot,Jump Shot,1,3,333
+0022301023,511,PT06M30.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Tatum FOR Brissett,Substitution,,0,0,357
+0022301034,144,PT00M21.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,103
+0022301034,166,PT10M48.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,1,0,116
+0022301034,180,PT10M12.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Horford FOR Brissett,Substitution,,0,0,128
+0022301087,125,PT01M12.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,93
+0022301087,423,PT01M05.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,MISS Brissett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,307
+0022301087,425,PT01M05.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,79,90,169,v,Brissett Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,309
+0022301087,452,PT11M24.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,324
+0022301087,483,PT08M16.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,120,225,26,Missed,1,,,0,v,MISS Brissett 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,349
+0022301087,488,PT08M05.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,SUB: Horford FOR Brissett,Substitution,,0,0,354
+0022301105,654,PT01M20.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,132,98,230,h,Brissett Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,470
+0022301105,655,PT01M20.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,133,98,231,h,Brissett Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,471
+0022301105,659,PT00M30.90S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,475
+0022301118,535,PT06M08.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,387
+0022301118,538,PT06M06.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,98,79,177,h,Brissett Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,389
+0022301118,539,PT06M06.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,MISS Brissett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,390
+0022301118,554,PT05M02.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,401
+0022301118,561,PT04M24.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,406
+0022301118,580,PT03M04.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett P.FOUL (P1.T3) (K.Cutler),Foul,Personal,1,0,423
+0022301118,591,PT02M13.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,MISS Brissett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,431
+0022301118,593,PT02M13.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,99,92,191,h,Brissett Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,433
+0022301118,597,PT01M38.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,436
+0022301118,601,PT01M21.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,440
+0022301118,604,PT01M03.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett P.FOUL (P2.T4) (J.Conley),Foul,Personal,1,0,443
+0022301134,515,PT08M36.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,372
+0022301134,516,PT08M24.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,158,222,27,Missed,1,,,0,h,MISS Brissett 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,373
+0022301134,528,PT07M11.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-10,21,2,Made,1,102,92,194,h,Brissett 2' Driving Layup (2 PTS) (Pritchard 3 AST),Made Shot,Driving Layup Shot,1,2,382
+0022301134,549,PT05M58.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,0,399
+0022301134,571,PT04M02.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett STEAL (1 STL),,,1,0,416
+0022301134,578,PT03M25.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-18,29,3,Missed,1,,,0,h,MISS Brissett 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,420
+0022301134,583,PT02M54.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,12,43,4,Made,1,114,98,212,h,Brissett 4' Driving Dunk (4 PTS) (Pritchard 6 AST),Made Shot,Driving Dunk Shot,1,2,423
+0022301134,586,PT02M46.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett S.FOUL (P1.T1) (M.Ervin),Foul,Shooting,1,0,425
+0022301134,592,PT02M14.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,26,37,5,Made,1,118,101,219,h,Brissett 5' Running Dunk (6 PTS) (Pritchard 7 AST),Made Shot,Running Dunk Shot,1,2,430
+0022301148,496,PT05M28.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-2,17,2,Made,1,95,78,173,v,Brissett 2' Cutting Layup Shot (2 PTS) (Kornet 1 AST),Made Shot,Cutting Layup Shot,1,2,359
+0022301148,510,PT03M47.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,369
+0022301148,519,PT02M23.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,376
+0022301148,520,PT02M22.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,10,20,2,Missed,1,,,0,v,MISS Brissett 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,377
+0022301148,522,PT02M20.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,v,Brissett P.FOUL (P1.T1) (M.Davis),Foul,Personal,1,0,379
+0022301148,535,PT00M53.60S,4,1610612738,BOS,1629052,Brissett,O. Brissett,184,213,28,Missed,1,,,0,v,MISS Brissett 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,389
+0022301173,88,PT03M58.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,17,30,3,Missed,1,,,0,h,MISS Brissett 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,63
+0022301173,89,PT03M57.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,64
+0022301173,90,PT03M55.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,74,48,9,Missed,1,,,0,h,MISS Brissett 9' Driving Layup,Missed Shot,Driving Layup Shot,1,2,65
+0022301173,93,PT03M35.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett STEAL (1 STL),,,1,0,69
+0022301173,107,PT03M15.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,77
+0022301173,114,PT02M39.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,84
+0022301173,128,PT01M24.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,29,29,4,Made,1,28,19,47,h,Brissett 4' Cutting Layup Shot (2 PTS) (Pritchard 5 AST),Made Shot,Cutting Layup Shot,1,2,94
+0022301173,139,PT00M07.80S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett Personal Take Foul (P1.T4) (M.Myers),Foul,Personal Take,1,0,102
+0022301173,170,PT10M02.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,123
+0022301173,171,PT10M00.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,5,25,3,Made,1,34,29,63,h,Brissett 3' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,124
+0022301173,176,PT09M35.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,MISS Brissett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,128
+0022301173,180,PT09M35.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,MISS Brissett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,131
+0022301173,186,PT09M03.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,MISS Brissett Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,0,135
+0022301173,188,PT09M03.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,35,32,67,h,Brissett Free Throw 2 of 3 (5 PTS),Free Throw,Free Throw 2 of 3,0,0,137
+0022301173,189,PT09M03.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,36,32,68,h,Brissett Free Throw 3 of 3 (6 PTS),Free Throw,Free Throw 3 of 3,1,0,138
+0022301173,191,PT08M48.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,140
+0022301173,193,PT08M36.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,142
+0022301173,194,PT08M36.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,Made,1,38,32,70,h,Brissett Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,2,143
+0022301173,203,PT07M49.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,SUB: Kornet FOR Brissett,Substitution,,0,0,150
+0022301173,399,PT03M53.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,284
+0022301173,415,PT03M06.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,296
+0022301173,419,PT02M37.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,299
+0022301173,420,PT02M33.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,-15,12,2,Missed,1,,,0,h,MISS Brissett 2' Running Layup,Missed Shot,Running Layup Shot,1,2,300
+0022301173,422,PT02M33.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:5 Def:5),Rebound,Unknown,1,0,302
+0022301173,426,PT01M57.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,-33,20,4,Missed,1,,,0,h,MISS Brissett 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,306
+0022301173,432,PT01M27.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:6 Def:5),Rebound,Unknown,1,0,311
+0022301173,433,PT01M26.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,-12,8,1,Missed,1,,,0,h,MISS Brissett 1' Putback Dunk,Missed Shot,Putback Dunk Shot,1,2,312
+0022301186,143,PT02M06.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,-21,11,2,Missed,1,,,0,h,MISS Brissett 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,103
+0022301186,155,PT00M56.90S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,114
+0022301186,186,PT11M51.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett BLOCK (1 BLK),,,1,2,128
+0022301186,193,PT11M12.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,133
+0022301186,216,PT09M52.00S,2,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,SUB: Mykhailiuk FOR Brissett,Substitution,,0,0,153
+0022301186,509,PT11M14.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,50,30,6,Made,1,111,89,200,h,Brissett 6' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,359
+0022301186,512,PT11M14.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,MISS Brissett Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,361
+0022301186,516,PT10M54.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-200,178,27,Missed,1,,,0,h,MISS Brissett 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,365
+0022301186,520,PT10M26.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-9,26,3,Made,1,113,89,202,h,Brissett 3' Running Dunk (4 PTS) (Davison 2 AST),Made Shot,Running Dunk Shot,1,2,369
+0022301186,537,PT08M51.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,381
+0022301186,543,PT08M28.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett BLOCK (2 BLK),,,1,2,387
+0022301186,548,PT08M24.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,MISS Brissett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,390
+0022301186,550,PT08M24.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,MISS Brissett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,392
+0022301186,552,PT08M15.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett BLOCK (3 BLK),,,1,2,395
+0022301186,557,PT07M39.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,38,29,5,Missed,1,,,0,h,MISS Brissett 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,400
+0022301186,583,PT06M42.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett STEAL (1 STL),,,1,0,417
+0022301186,589,PT05M48.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-36,31,5,Missed,1,,,0,h,MISS Brissett 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,420
+0022301186,652,PT05M08.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,0,432
+0022301186,623,PT03M28.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,Brissett REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,447
+0022301186,632,PT02M43.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,,,0,h,SUB: Hauser FOR Brissett,Substitution,,0,0,455

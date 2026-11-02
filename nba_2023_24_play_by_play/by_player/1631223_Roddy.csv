@@ -1,0 +1,937 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300007,16,PT10M45.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+0022300007,40,PT08M18.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,217,116,25,Missed,1,,,0,v,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,29
+0022300007,51,PT06M50.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-230,31,0,Missed,1,,,0,v,MISS Roddy 3PT Jump Shot,Missed Shot,Jump Shot,1,3,38
+0022300007,55,PT06M30.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,18,-3,2,Made,1,14,13,27,v,Roddy 2' Running Layup (2 PTS) (Bane 1 AST),Made Shot,Running Layup Shot,1,2,42
+0022300007,57,PT06M17.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy P.FOUL (P1.T1) (B.Nansel),Foul,Personal,1,0,43
+0022300007,77,PT05M26.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,152,194,25,Missed,1,,,0,v,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,56
+0022300007,113,PT03M10.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Konchar FOR Roddy,Substitution,,0,0,83
+0022300007,175,PT00M02.20S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy P.FOUL (P2.PN) (A.Nagy),Foul,Personal,1,0,125
+0022300007,281,PT05M24.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-11,4,1,Made,1,37,48,85,v,Roddy 1' Running Layup (4 PTS) (Williams 1 AST),Made Shot,Running Layup Shot,1,2,199
+0022300007,338,PT01M06.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Konchar FOR Roddy,Substitution,,0,0,242
+0022300007,385,PT09M59.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,-10,1,Made,1,56,59,115,v,Roddy 1' Cutting Dunk Shot (6 PTS) (Williams 2 AST),Made Shot,Cutting Dunk Shot,1,2,274
+0022300007,392,PT08M57.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,6,1,Made,1,56,63,119,v,Roddy 1' Running Layup (8 PTS),Made Shot,Running Layup Shot,1,2,280
+0022300007,446,PT04M17.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,10,11,1,Made,1,68,70,138,v,Roddy 1' Running Layup (10 PTS) (Smart 3 AST),Made Shot,Running Layup Shot,1,2,326
+0022300007,460,PT03M42.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,232,78,24,Missed,1,,,0,v,MISS Roddy 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,335
+0022300007,475,PT02M59.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,12,6,1,Made,1,73,72,145,v,Roddy 1' Cutting Layup Shot (12 PTS) (Bane 5 AST),Made Shot,Cutting Layup Shot,1,2,348
+0022300007,497,PT00M09.40S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,365
+0022300007,498,PT00M07.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,165,157,23,Missed,1,,,0,v,MISS Roddy 23' Jump Shot,Missed Shot,Jump Shot,1,2,366
+0022300007,619,PT05M03.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,12,8,1,Made,1,88,96,184,v,Roddy 1' Dunk (14 PTS) (Bane 6 AST),Made Shot,Dunk Shot,1,2,441
+0022300007,640,PT03M21.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,4,-4,1,Made,1,90,100,190,v,Roddy 1' Running Dunk (16 PTS) (Kennard 3 AST),Made Shot,Running Dunk Shot,1,2,458
+0022300007,650,PT02M28.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,464
+0022300007,651,PT02M05.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,11,25,3,Missed,1,,,0,v,MISS Roddy 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,465
+0022300007,663,PT01M32.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy S.FOUL (P3.PN) (A.Nagy),Foul,Shooting,1,0,475
+0022300007,691,PT00M08.30S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy S.FOUL (P4.PN) (B.Nansel),Foul,Shooting,1,0,494
+0022300012,172,PT10M29.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,126
+0022300012,199,PT07M51.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-184,185,26,Missed,1,,,0,h,MISS Roddy 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,145
+0022300012,211,PT06M53.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-178,211,28,Made,1,47,54,101,h,Roddy 28' 3PT Jump Shot (3 PTS) (Konchar 2 AST),Made Shot,Jump Shot,1,3,154
+0022300012,225,PT06M02.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,200,151,25,Missed,1,,,0,h,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,162
+0022300012,229,PT06M01.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Bane FOR Roddy,Substitution,,0,0,165
+0022300012,310,PT00M07.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,226
+0022300012,311,PT00M01.70S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-176,132,22,Missed,1,,,0,h,MISS Roddy 22' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,227
+0022300012,318,PT00M00.60S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Bane FOR Roddy,Substitution,,0,0,231
+0022300012,536,PT09M37.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,12,25,3,Made,1,102,105,207,h,Roddy 3' Running Finger Roll Layup (5 PTS) (Bane 7 AST),Made Shot,Running Finger Roll Layup Shot,1,2,393
+0022300012,550,PT08M34.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy OFF.Foul (P1) (K.Lane),Foul,Offensive,1,0,403
+0022300012,552,PT08M34.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,1,0,404
+0022300012,568,PT07M18.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,18,20,3,Missed,1,,,0,h,MISS Roddy 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,417
+0022300012,569,PT07M14.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,418
+0022300012,570,PT07M14.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,Made,1,108,109,217,h,Roddy Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,1,2,419
+0022300012,595,PT04M38.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Kennard FOR Roddy,Substitution,,0,0,439
+0022300012,626,PT02M49.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,221,113,25,Missed,1,,,0,h,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,462
+0022300012,633,PT01M53.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,468
+0022300012,639,PT01M24.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-230,69,24,Missed,1,,,0,h,MISS Roddy 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,474
+0022300012,649,PT00M33.10S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Konchar FOR Roddy,Substitution,,0,0,483
+0022300026,161,PT01M12.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,203,176,27,Made,1,33,26,59,v,Roddy 27' 3PT Jump Shot (3 PTS) (Jackson Jr. 2 AST),Made Shot,Jump Shot,1,3,118
+0022300026,210,PT10M19.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,199,194,28,Made,1,39,29,68,v,Roddy 28' 3PT Jump Shot (6 PTS) (Tillman 1 AST),Made Shot,Jump Shot,1,3,149
+0022300026,228,PT08M55.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-20,32,4,Missed,1,,,0,v,MISS Roddy 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,161
+0022300026,229,PT08M53.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,162
+0022300026,230,PT08M51.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,29,3,Made,1,44,33,77,v,Roddy 3' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,2,163
+0022300026,240,PT07M54.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy S.FOUL (P1.T4) (R.Acosta),Foul,Shooting,1,0,173
+0022300026,271,PT06M10.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,124,239,27,Missed,1,,,0,v,MISS Roddy 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,193
+0022300026,284,PT05M20.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Williams FOR Roddy,Substitution,,0,0,203
+0022300026,368,PT10M47.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-99,112,15,Made,1,79,55,134,v,Roddy 15' Turnaround Fadeaway (10 PTS),Made Shot,Turnaround Fadeaway shot,1,2,260
+0022300026,371,PT10M21.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-89,94,13,Missed,1,,,0,v,MISS Roddy 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,262
+0022300026,375,PT09M55.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy STEAL (1 STL),,,1,0,267
+0022300026,403,PT08M01.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,85,59,144,v,Roddy Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,290
+0022300026,404,PT08M01.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,MISS Roddy Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,291
+0022300026,435,PT06M11.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,313
+0022300026,438,PT06M08.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,88,71,159,v,Roddy Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,315
+0022300026,439,PT06M08.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,88,72,160,v,Roddy Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,316
+0022300026,449,PT05M17.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-82,40,9,Missed,1,,,0,v,MISS Roddy 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,324
+0022300026,455,PT04M54.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Gilyard FOR Roddy,Substitution,,0,0,329
+0022300026,522,PT00M49.90S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-233,65,24,Missed,1,,,0,v,MISS Roddy 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,372
+0022300026,540,PT11M21.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,214,139,26,Missed,1,,,0,v,MISS Roddy 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,388
+0022300026,542,PT11M17.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy STEAL (2 STL),,,1,0,391
+0022300026,544,PT11M07.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-11,36,4,Missed,1,,,0,v,MISS Roddy 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,392
+0022300026,550,PT10M48.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy BLOCK (1 BLK),,,1,2,398
+0022300026,570,PT08M42.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,416
+0022300026,588,PT08M00.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,228,59,24,Missed,1,,,0,v,MISS Roddy 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,427
+0022300026,596,PT06M45.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-2,59,6,Made,1,117,98,215,v,Roddy 6' Driving Hook Shot (15 PTS) (Konchar 6 AST),Made Shot,Driving Hook Shot,1,2,433
+0022300026,598,PT06M32.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy S.FOUL (P2.T2) (B.Taylor),Foul,Shooting,1,0,434
+0022300026,633,PT03M59.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy BLOCK (2 BLK),,,1,2,459
+0022300026,641,PT03M18.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,163,204,26,Missed,1,,,0,v,MISS Roddy 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,464
+0022300026,647,PT02M33.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,2,39,4,Missed,1,,,0,v,MISS Roddy 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,469
+0022300026,651,PT02M13.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,6,31,3,Made,1,130,105,235,v,Roddy 3' Driving Hook Shot (17 PTS) (Tillman 2 AST),Made Shot,Driving Hook Shot,1,2,473
+0022300026,658,PT01M25.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-205,139,25,Missed,1,,,0,v,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,478
+0022300044,63,PT06M10.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy BLOCK (1 BLK),,,1,2,49
+0022300044,69,PT05M41.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,54
+0022300044,90,PT04M13.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-88,231,25,Made,1,18,15,33,h,Roddy 25' 3PT Jump Shot (3 PTS) (Konchar 1 AST),Made Shot,Jump Shot,1,3,70
+0022300044,100,PT03M30.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-99,232,25,Missed,1,,,0,h,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,75
+0022300044,117,PT02M32.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,MISS Roddy Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,85
+0022300044,123,PT02M32.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,23,22,45,h,Roddy Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,89
+0022300044,126,PT02M17.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy STEAL (1 STL),,,1,0,92
+0022300044,128,PT02M13.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,93
+0022300044,157,PT00M01.80S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,119
+0022300044,229,PT07M27.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,-2,0,Made,1,38,41,79,h,Roddy Cutting Dunk Shot (6 PTS) (Gilyard 4 AST),Made Shot,Cutting Dunk Shot,1,2,169
+0022300044,246,PT06M11.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,181
+0022300044,247,PT06M02.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,7,37,4,Made,1,43,43,86,h,Roddy 4' Driving Layup (8 PTS) (Bane 5 AST),Made Shot,Driving Layup Shot,1,2,182
+0022300044,257,PT06M02.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,44,43,87,h,Roddy Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,187
+0022300044,261,PT05M07.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,191
+0022300044,284,PT03M18.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-20,1,2,Missed,1,,,0,h,MISS Roddy 2' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,207
+0022300044,312,PT00M10.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,87,68,11,Missed,1,,,0,h,MISS Roddy 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,231
+0022300044,368,PT06M21.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-12,11,2,Made,1,57,72,129,h,Roddy 2' Layup (11 PTS) (Bane 6 AST),Made Shot,Layup Shot,1,2,277
+0022300044,389,PT04M14.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-120,237,27,Made,1,65,77,142,h,Roddy 27' 3PT Jump Shot (14 PTS) (Bane 8 AST),Made Shot,Jump Shot,1,3,291
+0022300044,428,PT01M08.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,185,165,25,Missed,1,,,0,h,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,321
+0022300044,430,PT00M58.20S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy STEAL (2 STL),,,1,0,324
+0022300044,432,PT00M55.30S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Lost Ball Turnover (P2.T11),Turnover,Lost Ball,1,0,325
+0022300044,567,PT01M38.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Lofton Jr. FOR Roddy,Substitution,,0,0,421
+0022300071,114,PT03M47.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-230,37,0,Made,1,23,18,41,h,Roddy 3PT Jump Shot (3 PTS) (Rose 1 AST),Made Shot,Jump Shot,1,3,82
+0022300071,152,PT01M26.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy S.FOUL (P1.PN) (C.Kirkland),Foul,Shooting,1,0,111
+0022300071,175,PT00M01.40S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,130
+0022300071,189,PT11M36.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,77,252,26,Missed,1,,,0,h,MISS Roddy 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,135
+0022300071,192,PT11M24.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,138
+0022300071,193,PT11M19.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,10,17,2,Missed,1,,,0,h,MISS Roddy 2' Running Layup,Missed Shot,Running Layup Shot,1,2,139
+0022300071,201,PT10M38.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,6,15,2,Made,1,33,25,58,h,Roddy 2' Cutting Finger Roll Layup Shot (5 PTS) (Rose 2 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,145
+0022300071,207,PT10M06.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,149
+0022300071,239,PT07M32.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: LaRavia FOR Roddy,Substitution,,0,0,174
+0022300071,460,PT03M08.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy S.FOUL (P2.T3) (D.Scott),Foul,Shooting,1,0,336
+0022300071,503,PT00M53.10S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-11,10,1,Made,1,70,78,148,h,Roddy 1' Driving Layup (7 PTS) (Rose 3 AST),Made Shot,Driving Layup Shot,1,2,365
+0022300071,529,PT10M26.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,379
+0022300071,530,PT10M26.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,Made,1,77,85,162,h,Roddy Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,1,2,380
+0022300071,568,PT08M12.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Bane FOR Roddy,Substitution,,0,0,411
+0022300071,616,PT05M32.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,445
+0022300071,667,PT02M25.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,484
+0022300071,690,PT00M43.90S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-126,248,28,Missed,1,,,0,h,MISS Roddy 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,502
+0022300078,107,PT04M48.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-18,24,3,Missed,1,,,0,h,MISS Roddy 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,84
+0022300078,110,PT04M23.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,87
+0022300078,113,PT04M14.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,90
+0022300078,131,PT02M45.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy STEAL (1 STL),,,1,0,102
+0022300078,136,PT02M23.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,105
+0022300078,159,PT00M43.90S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy S.FOUL (P1.T4) (T.Maddox),Foul,Shooting,1,0,121
+0022300078,281,PT05M00.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,209
+0022300078,294,PT04M19.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy S.FOUL (P2.T4) (E.Malloy),Foul,Shooting,1,0,217
+0022300078,307,PT03M44.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-223,85,24,Missed,1,,,0,h,MISS Roddy 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,228
+0022300078,320,PT02M47.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR Roddy,Substitution,,0,0,238
+0022300078,472,PT04M12.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy P.FOUL (P3.T2) (T.Maddox),Foul,Personal,1,0,346
+0022300078,497,PT02M28.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,162,202,26,Missed,1,,,0,h,MISS Roddy 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,360
+0022300078,501,PT02M06.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-28,76,8,Missed,1,,,0,h,MISS Roddy 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,364
+0022300078,520,PT01M20.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: LaRavia FOR Roddy,Substitution,,0,0,378
+0022300089,134,PT02M36.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,105
+0022300089,149,PT00M58.90S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy S.FOUL (P1.T4) (G.Petraitis),Foul,Shooting,1,0,115
+0022300089,168,PT00M08.70S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Bane FOR Roddy,Substitution,,0,0,128
+0022300089,186,PT11M15.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-22,59,6,Missed,1,,,0,v,MISS Roddy 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,138
+0022300089,190,PT11M12.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,232,1,0,Made,1,27,25,52,v,Roddy 3PT Jump Shot (3 PTS) (Rose 2 AST),Made Shot,Jump Shot,1,3,140
+0022300089,212,PT09M19.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-232,36,0,Made,1,32,30,62,v,Roddy 3PT Jump Shot (6 PTS) (Rose 3 AST),Made Shot,Jump Shot,1,3,155
+0022300089,252,PT06M27.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,183
+0022300089,260,PT05M18.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,234,58,24,Missed,1,,,0,v,MISS Roddy 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,190
+0022300089,268,PT05M02.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: LaRavia FOR Roddy,Substitution,,0,0,196
+0022300089,465,PT03M43.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,15,14,2,Missed,1,,,0,v,MISS Roddy 2' Layup,Missed Shot,Layup Shot,1,2,335
+0022300089,503,PT00M42.70S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,57,6,Made,1,92,80,172,v,Roddy 6' Layup (8 PTS),Made Shot,Layup Shot,1,2,362
+0022300089,544,PT10M09.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-9,15,2,Made,1,95,82,177,v,Roddy 2' Dunk (10 PTS),Made Shot,Dunk Shot,1,2,390
+0022300089,547,PT10M09.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,95,83,178,v,Roddy Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,392
+0022300089,549,PT09M52.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,394
+0022300089,554,PT08M53.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy P.FOUL (P2.T2) (G.Petraitis),Foul,Personal,1,0,399
+0022300089,565,PT08M15.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Lost Ball Turnover (P1.T17),Turnover,Lost Ball,1,0,408
+0022300089,587,PT07M05.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Tillman FOR Roddy,Substitution,,0,0,423
+0022300089,634,PT03M52.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,453
+0022300089,638,PT03M24.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy S.FOUL (P3.PN) (G.Petraitis),Foul,Shooting,1,0,457
+0022300089,642,PT02M43.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy BLOCK (1 BLK),,,1,2,461
+0022300089,644,PT02M41.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,462
+0022300089,675,PT00M34.90S,4,1610612763,MEM,1631223,Roddy,D. Roddy,237,40,24,Made,1,111,104,215,v,Roddy 24' 3PT Jump Shot (14 PTS) (Smart 5 AST),Made Shot,Jump Shot,1,3,482
+0022300089,690,PT00M18.70S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,493
+0022300106,69,PT06M28.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,50
+0022300106,98,PT05M18.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,10,3,1,Made,1,14,19,33,h,Roddy 1' Cutting Layup Shot (2 PTS) (Smart 2 AST),Made Shot,Cutting Layup Shot,1,2,70
+0022300106,101,PT04M59.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,72
+0022300106,102,PT04M54.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,50,98,11,Made,1,16,19,35,h,Roddy 11' Turnaround Fadeaway (4 PTS),Made Shot,Turnaround Fadeaway shot,1,2,73
+0022300106,110,PT04M21.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,79
+0022300106,137,PT01M11.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,102
+0022300106,138,PT01M11.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-6,9,1,Made,1,31,28,59,h,Roddy 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,2,103
+0022300106,216,PT08M06.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,203,-15,20,Missed,1,,,0,h,MISS Roddy 20' Jump Shot,Missed Shot,Jump Shot,1,2,153
+0022300106,264,PT05M46.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,MISS Roddy Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,188
+0022300106,266,PT05M46.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,43,48,91,h,Roddy Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,190
+0022300106,296,PT03M28.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR Roddy,Substitution,,0,0,214
+0022300106,469,PT02M51.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-6,28,3,Missed,1,,,0,h,MISS Roddy 3' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,342
+0022300106,517,PT11M44.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,6,4,1,Made,1,88,97,185,h,Roddy 1' Driving Finger Roll Layup (9 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,375
+0022300106,529,PT10M49.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-25,26,4,Missed,1,,,0,h,MISS Roddy 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,384
+0022300106,553,PT08M36.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,109,222,25,Missed,1,,,0,h,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,404
+0022300106,589,PT07M28.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy BLOCK (1 BLK),,,1,2,422
+0022300106,597,PT05M54.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,437
+0022300106,612,PT03M42.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy S.FOUL (P1.T1) (E.Dalen),Foul,Shooting,1,0,450
+0022300106,645,PT00M55.80S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Personal Take Foul (P2.PN) (M.Ervin),Foul,Personal Take,1,0,477
+0022300106,659,PT00M38.10S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Jackson FOR Roddy,Substitution,,0,0,487
+0022300125,170,PT11M24.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-232,53,24,Made,1,42,25,67,v,Roddy 24' 3PT Jump Shot (3 PTS) (Kennard 2 AST),Made Shot,Jump Shot,1,3,122
+0022300125,190,PT09M29.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-16,69,7,Missed,1,,,0,v,MISS Roddy 7' Hook Shot,Missed Shot,Hook Shot,1,2,135
+0022300125,240,PT06M51.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Williams FOR Roddy,Substitution,,0,0,173
+0022300125,310,PT02M52.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,223
+0022300125,339,PT01M29.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-235,90,25,Missed,1,,,0,v,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,246
+0022300125,340,PT01M25.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,247
+0022300125,480,PT04M52.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-25,13,3,Made,1,91,62,153,v,Roddy 3' Cutting Layup Shot (5 PTS) (Smart 6 AST),Made Shot,Cutting Layup Shot,1,2,352
+0022300125,487,PT03M58.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,238,66,25,Missed,1,,,0,v,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,356
+0022300125,491,PT03M46.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,360
+0022300125,492,PT03M42.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,29,15,3,Made,1,94,64,158,v,Roddy 3' Running Layup (7 PTS),Made Shot,Running Layup Shot,1,2,361
+0022300125,694,PT01M39.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy BLOCK (1 BLK),,,1,2,381
+0022300125,546,PT11M31.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy S.FOUL (P1.T2) (T.Brothers),Foul,Shooting,1,0,401
+0022300125,551,PT11M13.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-4,53,5,Made,1,105,81,186,v,Roddy 5' Turnaround Hook Shot (9 PTS),Made Shot,Turnaround Hook Shot,1,2,405
+0022300125,553,PT10M44.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,407
+0022300125,554,PT10M37.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,43,29,5,Missed,1,,,0,v,MISS Roddy 5' Running Layup,Missed Shot,Running Layup Shot,1,2,408
+0022300125,565,PT10M00.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Konchar FOR Roddy,Substitution,,0,0,417
+0022300144,130,PT02M51.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy P.FOUL (P1.T4) (G.Petraitis),Foul,Personal,1,0,93
+0022300144,134,PT02M33.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-229,8,0,Missed,1,,,0,v,MISS Roddy 3PT Jump Shot,Missed Shot,Jump Shot,1,3,96
+0022300144,204,PT10M07.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,148
+0022300144,221,PT09M00.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy STEAL (1 STL),,,1,0,163
+0022300144,223,PT08M55.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-7,11,1,Made,1,38,35,73,v,Roddy 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,164
+0022300144,239,PT07M27.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,176
+0022300144,240,PT07M20.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,22,17,3,Missed,1,,,0,v,MISS Roddy 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,177
+0022300144,243,PT07M00.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,40,0,4,Missed,1,,,0,v,MISS Roddy 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,180
+0022300144,256,PT06M28.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-113,47,12,Made,1,40,40,80,v,Roddy 12' Turnaround Fadeaway (4 PTS),Made Shot,Turnaround Fadeaway shot,1,2,188
+0022300144,268,PT05M28.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Williams FOR Roddy,Substitution,,0,0,196
+0022300144,564,PT08M52.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Kennard FOR Roddy,Substitution,,0,0,416
+0022300164,194,PT10M46.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,137
+0022300164,199,PT10M15.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy STEAL (1 STL),,,1,0,143
+0022300164,228,PT07M35.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,35,38,73,h,Roddy Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,165
+0022300164,229,PT07M35.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,36,38,74,h,Roddy Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,166
+0022300164,232,PT07M09.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,2,88,9,Made,1,38,40,78,h,Roddy 9' Turnaround Fadeaway (4 PTS),Made Shot,Turnaround Fadeaway shot,1,2,168
+0022300164,237,PT06M45.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy S.FOUL (P1.T2) (J.Van Duyne),Foul,Shooting,1,0,173
+0022300164,251,PT06M02.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,183
+0022300164,256,PT05M48.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Smart FOR Roddy,Substitution,,0,0,187
+0022300164,510,PT00M36.20S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Offensive Charge Foul (P2) (T.Mirkovich),Foul,Offensive Charge,1,0,374
+0022300164,512,PT00M36.20S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Offensive Foul Turnover (P2.T13),Turnover,Offensive Foul Turnover,1,0,375
+0022300164,526,PT00M15.40S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,386
+0022300164,527,PT00M14.80S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,Missed,1,,,0,h,MISS Roddy Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,387
+0022300164,528,PT00M13.70S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,388
+0022300164,598,PT08M01.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Bane FOR Roddy,Substitution,,0,0,435
+0022300179,252,PT05M47.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,180
+0022300179,256,PT05M41.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,178,194,26,Missed,1,,,0,v,MISS Roddy 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,183
+0022300179,281,PT04M17.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,199
+0022300179,282,PT04M14.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-5,6,1,Made,1,40,42,82,v,Roddy 1' Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,1,2,200
+0022300179,283,PT04M05.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy STEAL (1 STL),,,1,0,202
+0022300179,350,PT00M19.30S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-42,20,5,Missed,1,,,0,v,MISS Roddy 5' Layup,Missed Shot,Layup Shot,1,2,250
+0022300179,503,PT02M35.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-18,34,4,Made,1,64,79,143,v,Roddy 4' Cutting Layup Shot (4 PTS) (Smart 5 AST),Made Shot,Cutting Layup Shot,1,2,353
+0022300179,569,PT09M30.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,397
+0022300179,637,PT04M20.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,447
+0022300179,639,PT04M05.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,449
+0022300179,640,PT04M05.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,Made,1,92,93,185,v,Roddy Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,2,450
+0022300179,648,PT03M36.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy P.FOUL (P1.PN) (T.Ford),Foul,Personal,1,0,456
+0022300179,662,PT02M25.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,5,50,5,Missed,1,,,0,v,MISS Roddy 5' Layup,Missed Shot,Layup Shot,1,2,467
+0022300179,697,PT00M47.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,11,10,1,Made,1,98,101,199,v,Roddy 1' Driving Layup (8 PTS) (Smart 7 AST),Made Shot,Driving Layup Shot,1,2,494
+0022300179,699,PT00M36.90S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy BLOCK (1 BLK),,,1,3,496
+0022300179,707,PT00M28.50S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,502
+0022300179,722,PT00M18.90S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Kennard FOR Roddy,Substitution,,0,0,514
+0022300206,119,PT03M33.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy STEAL (1 STL),,,1,0,83
+0022300206,121,PT03M29.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,84
+0022300206,165,PT00M31.70S,1,1610612763,MEM,1631223,Roddy,D. Roddy,162,205,26,Missed,1,,,0,v,MISS Roddy 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,120
+0022300206,231,PT08M35.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Biyombo FOR Roddy,Substitution,,0,0,164
+0022300206,318,PT03M36.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,MISS Roddy Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,224
+0022300206,322,PT03M36.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,MISS Roddy Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,227
+0022300206,326,PT03M06.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,203,167,26,Missed,1,,,0,v,MISS Roddy 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,231
+0022300206,369,PT00M01.70S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,263
+0022300206,370,PT00M00.80S,2,1610612763,MEM,1631223,Roddy,D. Roddy,85,249,26,Missed,1,,,0,v,MISS Roddy 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,264
+0022300206,474,PT04M26.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy S.FOUL (P1.T2) (L.Wood),Foul,Shooting,1,0,341
+0022300206,538,PT00M33.60S,3,1610612763,MEM,1631223,Roddy,D. Roddy,18,25,3,Missed,1,,,0,v,MISS Roddy 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,386
+0022300206,543,PT00M02.10S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,391
+0022300206,587,PT09M15.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy STEAL (2 STL),,,1,0,423
+0022300206,627,PT07M39.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,451
+0022300206,654,PT05M05.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,475
+0022300206,658,PT04M09.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,4,30,3,Missed,1,,,0,v,MISS Roddy 3' Hook Shot,Missed Shot,Hook Shot,1,2,478
+0022300206,666,PT03M59.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Bane FOR Roddy,Substitution,,0,0,485
+0022300213,240,PT05M43.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,179
+0022300213,246,PT05M30.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Konchar FOR Roddy,Substitution,,0,0,184
+0022300213,312,PT01M49.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,231
+0022300213,411,PT06M30.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,232,73,24,Missed,1,,,0,h,MISS Roddy 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,298
+0022300213,466,PT02M31.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,108,239,26,Missed,1,,,0,h,MISS Roddy 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,339
+0022300213,479,PT01M07.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Williams Jr. FOR Roddy,Substitution,,0,0,349
+0022300231,106,PT03M23.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-123,22,12,Missed,1,,,0,v,MISS Roddy 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,79
+0022300231,132,PT01M30.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,101
+0022300231,133,PT01M18.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,13,23,3,Made,1,16,27,43,v,Roddy 3' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,102
+0022300231,146,PT00M00.50S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,112
+0022300231,247,PT05M38.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,178
+0022300231,270,PT04M59.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,191
+0022300231,271,PT04M55.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,192
+0022300231,281,PT04M10.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,200
+0022300231,282,PT04M01.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-21,15,3,Made,1,39,37,76,v,Roddy 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,201
+0022300231,324,PT00M05.50S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-108,70,13,Missed,1,,,0,v,MISS Roddy 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,231
+0022300231,479,PT02M00.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-18,98,10,Missed,1,,,0,v,MISS Roddy 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,341
+0022300231,495,PT00M53.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,355
+0022300231,584,PT06M56.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,415
+0022300231,595,PT06M02.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-165,188,25,Missed,1,,,0,v,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,424
+0022300231,610,PT04M59.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,51,77,9,Missed,1,,,0,v,MISS Roddy 9' Hook Shot,Missed Shot,Hook Shot,1,2,436
+0022300231,630,PT04M15.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Williams Jr. FOR Roddy,Substitution,,0,0,451
+0022300249,35,PT08M00.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,234,-4,0,Made,1,6,15,21,h,Roddy 3PT Jump Shot (3 PTS) (Biyombo 1 AST),Made Shot,Jump Shot,1,3,24
+0022300249,44,PT06M58.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,30
+0022300249,45,PT06M55.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,28,34,4,Made,1,10,15,25,h,Roddy 4' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,1,2,31
+0022300249,48,PT06M55.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,11,15,26,h,Roddy Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,33
+0022300249,67,PT04M47.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,25,32,4,Missed,1,,,0,h,MISS Roddy 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,47
+0022300249,85,PT03M21.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-4,253,25,Missed,1,,,0,h,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,61
+0022300249,87,PT03M18.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,63
+0022300249,110,PT02M01.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-165,183,25,Missed,1,,,0,h,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,80
+0022300249,225,PT05M49.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy L.B.FOUL (P1.T3) (J.DeRosa),Foul,Loose Ball,1,0,167
+0022300249,261,PT02M53.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy S.FOUL (P2.PN) (J.Reneau),Foul,Shooting,1,0,192
+0022300249,264,PT02M53.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR Roddy,Substitution,,0,0,194
+0022300249,386,PT08M10.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,281
+0022300249,387,PT08M05.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,282
+0022300249,405,PT07M16.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,93,242,26,Missed,1,,,0,h,MISS Roddy 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,294
+0022300249,410,PT07M16.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Nowell FOR Roddy,Substitution,,0,0,298
+0022300249,560,PT09M21.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,15,8,2,Missed,1,,,0,h,MISS Roddy 2' Running Layup,Missed Shot,Running Layup Shot,1,2,408
+0022300249,583,PT07M01.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,423
+0022300249,584,PT06M58.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-25,16,3,Made,1,84,102,186,h,Roddy 3' Reverse Layup (8 PTS),Made Shot,Reverse Layup Shot,1,2,424
+0022300249,615,PT03M32.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-238,10,24,Made,1,93,110,203,h,Roddy 24' 3PT Jump Shot (11 PTS) (Bane 4 AST),Made Shot,Jump Shot,1,3,448
+0022300249,637,PT02M19.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Lofton Jr. FOR Roddy,Substitution,,0,0,465
+0022300261,9,PT11M36.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-197,172,26,Made,1,3,0,3,h,Roddy 26' 3PT Jump Shot (3 PTS) (Bane 1 AST),Made Shot,Jump Shot,1,3,4
+0022300261,27,PT09M44.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-224,121,25,Missed,1,,,0,h,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,16
+0022300261,43,PT08M02.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,227,113,25,Missed,1,,,0,h,MISS Roddy 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,31
+0022300261,53,PT07M25.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,175,183,25,Made,1,10,15,25,h,Roddy 25' 3PT Jump Shot (6 PTS) (Biyombo 2 AST),Made Shot,Jump Shot,1,3,38
+0022300261,77,PT05M25.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,229,23,0,Missed,1,,,0,h,MISS Roddy 3PT Jump Shot,Missed Shot,Jump Shot,1,3,56
+0022300261,81,PT04M58.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,12,18,2,Made,1,16,17,33,h,Roddy 2' Running Layup (8 PTS) (Jackson Jr. 1 AST),Made Shot,Running Layup Shot,1,2,60
+0022300261,84,PT04M34.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,62
+0022300261,87,PT04M20.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy S.FOUL (P1.T2) (M.Kallio),Foul,Shooting,1,0,65
+0022300261,91,PT04M20.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Aldama FOR Roddy,Substitution,,0,0,68
+0022300261,248,PT04M58.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,183
+0022300261,255,PT04M11.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-228,4,0,Made,1,45,34,79,h,Roddy 3PT Jump Shot (11 PTS) (Rose 3 AST),Made Shot,Jump Shot,1,3,188
+0022300261,278,PT01M51.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,205
+0022300261,286,PT01M07.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,232,31,0,Made,1,55,42,97,h,Roddy 3PT Jump Shot (14 PTS) (Bane 4 AST),Made Shot,Jump Shot,1,3,211
+0022300261,293,PT00M12.60S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-174,194,26,Made,1,60,42,102,h,Roddy 26' 3PT Jump Shot (17 PTS) (Bane 5 AST),Made Shot,Jump Shot,1,3,217
+0022300261,295,PT00M05.80S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Personal Take Foul (P2.T3) (T.Washington),Foul,Personal Take,1,0,218
+0022300261,300,PT00M02.40S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,221
+0022300261,326,PT10M53.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,17,30,3,Made,1,65,42,107,h,Roddy 3' Cutting Layup Shot (19 PTS) (Rose 7 AST),Made Shot,Cutting Layup Shot,1,2,238
+0022300261,335,PT09M49.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,245
+0022300261,385,PT05M45.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Aldama FOR Roddy,Substitution,,0,0,281
+0022300261,557,PT04M33.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-100,239,26,Missed,1,,,0,h,MISS Roddy 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,411
+0022300261,596,PT03M26.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,425
+0022300261,600,PT02M03.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Rose FOR Roddy,Substitution,,0,0,445
+0022300277,10,PT11M33.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,211,132,25,Missed,1,,,0,v,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,5
+0022300277,25,PT10M02.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,19
+0022300277,54,PT07M09.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,42
+0022300277,63,PT06M26.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,49
+0022300277,71,PT05M36.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-94,247,26,Missed,1,,,0,v,MISS Roddy 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,55
+0022300277,79,PT05M25.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Williams Jr. FOR Roddy,Substitution,,0,0,62
+0022300277,248,PT05M21.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,180
+0022300277,251,PT05M17.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,34,41,75,v,Roddy Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,182
+0022300277,256,PT05M17.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,34,42,76,v,Roddy Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,185
+0022300277,269,PT04M30.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,195
+0022300277,280,PT03M16.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,12,12,2,Made,1,34,50,84,v,Roddy 2' Running Layup (4 PTS) (Aldama 1 AST),Made Shot,Running Layup Shot,1,2,205
+0022300277,302,PT01M21.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,221
+0022300277,304,PT01M07.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,223
+0022300277,305,PT01M07.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,Missed,1,,,0,v,MISS Roddy Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,224
+0022300277,354,PT10M00.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-2,11,1,Missed,1,,,0,v,MISS Roddy 1' Running Layup,Missed Shot,Running Layup Shot,1,2,255
+0022300277,364,PT09M37.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-230,14,0,Missed,1,,,0,v,MISS Roddy 3PT Jump Shot,Missed Shot,Jump Shot,1,3,263
+0022300277,375,PT08M56.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,10,15,2,Missed,1,,,0,v,MISS Roddy 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,273
+0022300277,384,PT08M15.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy BLOCK (1 BLK),,,1,2,280
+0022300277,398,PT07M30.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy STEAL (1 STL),,,1,0,290
+0022300277,413,PT06M42.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Williams Jr. FOR Roddy,Substitution,,0,0,301
+0022300277,595,PT06M26.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy S.FOUL (P1.PN) (M.Myers),Foul,Shooting,1,0,432
+0022300277,601,PT06M07.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,15,22,3,Made,1,82,97,179,v,Roddy 3' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,436
+0022300277,605,PT05M18.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy P.FOUL (P2.PN) (R.Acosta),Foul,Personal,1,0,440
+0022300277,633,PT03M52.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-40,17,4,Missed,1,,,0,v,MISS Roddy 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,458
+0022300277,662,PT02M01.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Gilyard FOR Roddy,Substitution,,0,0,481
+0022300288,67,PT06M24.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,27,4,3,Missed,1,,,0,v,MISS Roddy 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,52
+0022300288,83,PT05M31.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,233,46,24,Made,1,14,14,28,v,Roddy 24' 3PT Jump Shot (3 PTS) (Bane 1 AST),Made Shot,Jump Shot,1,3,65
+0022300288,103,PT04M55.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Williams Jr. FOR Roddy,Substitution,,0,0,78
+0022300288,188,PT10M31.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,161,218,27,Made,1,29,32,61,v,Roddy 27' 3PT Jump Shot (6 PTS) (Jackson Jr. 1 AST),Made Shot,Jump Shot,1,3,131
+0022300288,200,PT08M47.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-12,49,5,Missed,1,,,0,v,MISS Roddy 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,140
+0022300288,223,PT07M11.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy STEAL (1 STL),,,1,0,161
+0022300288,287,PT04M46.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Nowell FOR Roddy,Substitution,,0,0,201
+0022300288,383,PT11M14.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,265
+0022300288,384,PT11M08.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,150,203,25,Missed,1,,,0,v,MISS Roddy 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,266
+0022300288,399,PT10M16.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,279
+0022300288,403,PT09M42.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,283
+0022300288,408,PT09M17.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-1,8,1,Missed,1,,,0,v,MISS Roddy 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,287
+0022300288,410,PT09M16.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,289
+0022300288,411,PT09M16.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,7,-1,1,Made,1,53,55,108,v,Roddy 1' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,1,2,290
+0022300288,463,PT05M57.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Williams Jr. FOR Roddy,Substitution,,0,0,329
+0022300288,605,PT08M55.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy P.FOUL (P1.T2) (C.Blair),Foul,Personal,1,0,424
+0022300288,619,PT07M59.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,437
+0022300288,656,PT05M49.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy S.FOUL (P2.T3) (R.Mott),Foul,Shooting,1,0,458
+0022300288,743,PT00M24.10S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Bad Pass Turnover (P1.T16),Turnover,Bad Pass,1,0,520
+0022300288,775,PT00M01.70S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,543
+0022300299,26,PT09M42.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-158,193,25,Missed,1,,,0,h,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,17
+0022300299,38,PT08M41.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Traveling Turnover (P1.T1),Turnover,Traveling,1,0,28
+0022300299,41,PT08M08.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,86,237,25,Missed,1,,,0,h,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,30
+0022300299,44,PT07M51.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,33
+0022300299,68,PT05M58.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy S.FOUL (P1.T3) (J.Williams),Foul,Shooting,1,0,52
+0022300299,72,PT05M58.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Williams Jr. FOR Roddy,Substitution,,0,0,54
+0022300299,198,PT08M28.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,143
+0022300299,199,PT08M27.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,12,6,1,Made,1,33,41,74,h,Roddy 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,144
+0022300299,209,PT07M35.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,151
+0022300299,221,PT06M42.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Biyombo FOR Roddy,Substitution,,0,0,161
+0022300299,263,PT03M51.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,190
+0022300299,264,PT03M47.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-15,5,2,Missed,1,,,0,h,MISS Roddy 2' Running Layup,Missed Shot,Running Layup Shot,1,2,191
+0022300299,348,PT09M59.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-229,17,0,Made,1,60,74,134,h,Roddy 3PT Jump Shot (5 PTS) (Aldama 2 AST),Made Shot,Jump Shot,1,3,247
+0022300299,355,PT09M27.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-13,22,3,Missed,1,,,0,h,MISS Roddy 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,251
+0022300299,359,PT09M09.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,255
+0022300299,400,PT05M57.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,286
+0022300299,413,PT04M39.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Williams FOR Roddy,Substitution,,0,0,296
+0022300299,557,PT06M59.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,232,69,24,Missed,1,,,0,h,MISS Roddy 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,398
+0022300299,561,PT06M57.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,92,104,196,h,Roddy Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,401
+0022300299,562,PT06M57.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,MISS Roddy Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,402
+0022300299,567,PT06M28.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,13,1,Made,1,94,104,198,h,Roddy 1' Running Finger Roll Layup (8 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,407
+0022300299,610,PT03M07.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-146,216,26,Missed,1,,,0,h,MISS Roddy 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,441
+0022300299,635,PT00M49.70S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy STEAL (1 STL),,,1,0,463
+0022300314,5,PT11M47.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,5,0,1,Missed,1,,,0,v,MISS Roddy 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,4
+0022300314,45,PT08M29.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-121,181,22,Missed,1,,,0,v,MISS Roddy 22' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,32
+0022300314,47,PT08M26.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Violation:Kicked Ball (A.Moyer-Gleich),Violation,Kicked Ball,0,0,34
+0022300314,52,PT07M52.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy P.FOUL (P1.T3) (D.Guthrie),Foul,Personal,1,0,38
+0022300314,87,PT05M40.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-233,62,24,Made,1,19,14,33,v,Roddy 24' 3PT Jump Shot (3 PTS) (Nowell 1 AST),Made Shot,Jump Shot,1,3,62
+0022300314,93,PT05M01.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-217,133,25,Missed,1,,,0,v,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,67
+0022300314,96,PT04M49.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,70
+0022300314,97,PT04M40.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,31,78,8,Missed,1,,,0,v,MISS Roddy 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,71
+0022300314,101,PT04M17.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-192,168,26,Made,1,21,17,38,v,Roddy 26' 3PT Jump Shot (6 PTS) (Biyombo 1 AST),Made Shot,Jump Shot,1,3,75
+0022300314,119,PT02M55.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Konchar FOR Roddy,Substitution,,0,0,91
+0022300314,238,PT06M24.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy STEAL (1 STL),,,1,0,171
+0022300314,261,PT05M02.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,188
+0022300314,285,PT03M17.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,205
+0022300314,316,PT01M39.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,226
+0022300314,317,PT01M29.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,17,106,11,Missed,1,,,0,v,MISS Roddy 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,227
+0022300314,319,PT01M18.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-237,27,24,Missed,1,,,0,v,MISS Roddy 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,229
+0022300314,322,PT01M12.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,232
+0022300314,377,PT10M14.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,55,79,10,Missed,1,,,0,v,MISS Roddy 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,267
+0022300314,384,PT09M58.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,235,34,24,Missed,1,,,0,v,MISS Roddy 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,273
+0022300314,412,PT07M26.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,69,59,9,Missed,1,,,0,v,MISS Roddy 9' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,295
+0022300314,419,PT07M08.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Williams FOR Roddy,Substitution,,0,0,301
+0022300314,583,PT10M13.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,17,8,2,Made,1,88,83,171,v,Roddy 2' Cutting Layup Shot (8 PTS) (Jackson Jr. 2 AST),Made Shot,Cutting Layup Shot,1,2,416
+0022300314,609,PT08M08.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-163,179,24,Missed,1,,,0,v,MISS Roddy 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,435
+0022300314,656,PT04M59.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,469
+0022300314,664,PT04M20.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,MISS Roddy Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,475
+0022300314,667,PT04M20.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,106,100,206,v,Roddy Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,478
+0022300314,676,PT04M01.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,485
+0022300314,684,PT02M55.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-224,1,0,Missed,1,,,0,v,MISS Roddy 3PT Jump Shot,Missed Shot,Jump Shot,1,3,493
+0022300332,84,PT04M49.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-229,4,0,Made,1,21,8,29,h,Roddy 3PT Jump Shot (3 PTS) (Gilyard 1 AST),Made Shot,Jump Shot,1,3,65
+0022300332,97,PT04M06.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy BLOCK (1 BLK),,,1,2,78
+0022300332,99,PT04M06.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,79
+0022300332,116,PT03M09.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,83,241,25,Missed,1,,,0,h,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,89
+0022300332,118,PT03M06.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,91
+0022300332,252,PT05M49.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,29,29,4,Missed,1,,,0,h,MISS Roddy 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,189
+0022300332,268,PT04M59.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy S.FOUL (P1.PN) (J.Ralls),Foul,Shooting,1,0,202
+0022300332,275,PT04M14.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-229,5,0,Missed,1,,,0,h,MISS Roddy 3PT Jump Shot,Missed Shot,Jump Shot,1,3,207
+0022300332,281,PT03M52.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,213
+0022300332,308,PT00M54.80S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Williams Jr. FOR Roddy,Substitution,,0,0,233
+0022300332,450,PT02M52.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-225,29,0,Missed,1,,,0,h,MISS Roddy 3PT Jump Shot,Missed Shot,Jump Shot,1,3,344
+0022300332,562,PT08M27.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-109,222,25,Missed,1,,,0,h,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,423
+0022300332,591,PT07M04.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,79,83,162,h,Roddy Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,444
+0022300332,592,PT07M04.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,80,83,163,h,Roddy Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,445
+0022300332,620,PT05M13.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,36,21,4,Made,1,87,88,175,h,Roddy 4' Driving Layup (7 PTS) (Bane 2 AST),Made Shot,Driving Layup Shot,1,2,465
+0022300332,623,PT04M49.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,467
+0022300332,634,PT04M00.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,9,75,8,Missed,1,,,0,h,MISS Roddy 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,476
+0022300332,658,PT02M33.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,58,36,7,Made,1,91,92,183,h,Roddy 7' Driving Floating Bank Jump Shot (9 PTS) (Bane 3 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,492
+0022300332,673,PT01M00.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,241,20,24,Missed,1,,,0,h,MISS Roddy 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,504
+0022300332,695,PT00M18.80S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,520
+0022300332,698,PT00M11.40S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy P.FOUL (P2.PN) (T.Washington),Foul,Personal,1,0,523
+0022300355,194,PT10M38.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,23,10,3,Made,1,34,31,65,v,Roddy 3' Cutting Layup Shot (2 PTS) (Jackson Jr. 1 AST),Made Shot,Cutting Layup Shot,1,2,137
+0022300355,198,PT10M38.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,34,32,66,v,Roddy Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,139
+0022300355,234,PT06M57.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,232,73,24,Missed,1,,,0,v,MISS Roddy 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,160
+0022300355,246,PT05M44.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,18,8,2,Missed,1,,,0,v,MISS Roddy 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,170
+0022300355,252,PT05M44.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Williams Jr. FOR Roddy,Substitution,,0,0,175
+0022300355,472,PT03M45.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,338
+0022300355,498,PT02M26.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,359
+0022300355,503,PT01M53.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-113,235,26,Missed,1,,,0,v,MISS Roddy 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,363
+0022300355,520,PT00M56.70S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,377
+0022300355,521,PT00M51.10S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Out of Bounds - Bad Pass Turnover Turnover (P1.T17),Turnover,Out of Bounds - Bad Pass Turnover,1,0,378
+0022300355,522,PT00M37.10S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy P.FOUL (P1.PN) (S.Wright),Foul,Personal,1,0,379
+0022300355,632,PT06M39.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,108,78,186,v,Roddy Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,452
+0022300355,635,PT06M39.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,108,79,187,v,Roddy Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,454
+0022300355,638,PT06M04.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,116,235,26,Made,1,108,82,190,v,Roddy 26' 3PT Jump Shot (8 PTS) (Williams 3 AST),Made Shot,Jump Shot,1,3,457
+0022300355,642,PT05M41.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy STEAL (1 STL),,,1,0,461
+0022300355,667,PT03M05.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,480
+0022300355,668,PT03M00.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Out of Bounds Lost Ball Turnover (P2.T21),Turnover,Out of Bounds Lost Ball Turnover,1,0,481
+0022300355,677,PT02M15.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Out of Bounds - Bad Pass Turnover Turnover (P3.T22),Turnover,Out of Bounds - Bad Pass Turnover,1,0,488
+0022300360,309,PT00M58.40S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-18,5,2,Missed,1,,,0,v,MISS Roddy 2' Layup,Missed Shot,Layup Shot,1,2,234
+0022300360,414,PT06M01.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Traveling Turnover (P1.T12),Turnover,Traveling,1,0,303
+0022300360,424,PT05M26.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-227,-10,0,Missed,1,,,0,v,MISS Roddy 3PT Jump Shot,Missed Shot,Jump Shot,1,3,310
+0022300360,425,PT05M24.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,311
+0022300360,449,PT03M26.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Aldama FOR Roddy,Substitution,,0,0,331
+0022300410,188,PT11M42.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,138
+0022300410,196,PT10M36.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,146
+0022300410,215,PT08M57.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,214,116,24,Missed,1,,,0,v,MISS Roddy 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,164
+0022300410,221,PT08M22.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,26,8,3,Made,1,27,26,53,v,Roddy 3' Driving Floating Bank Jump Shot (2 PTS) (Morant 3 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,168
+0022300410,239,PT06M55.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-120,235,26,Made,1,33,29,62,v,Roddy 26' 3PT Jump Shot (5 PTS) (Jackson Jr. 1 AST),Made Shot,Jump Shot,1,3,181
+0022300410,264,PT05M52.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-40,15,4,Missed,1,,,0,v,MISS Roddy 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,198
+0022300410,290,PT03M01.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-235,-9,24,Missed,1,,,0,v,MISS Roddy 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,218
+0022300410,300,PT02M47.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Morant FOR Roddy,Substitution,,0,0,227
+0022300410,518,PT11M23.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,385
+0022300410,583,PT07M17.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,211,130,25,Made,1,90,83,173,v,Roddy 25' 3PT Jump Shot (8 PTS) (Bane 5 AST),Made Shot,Jump Shot,1,3,436
+0022300410,589,PT06M04.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,440
+0022300410,613,PT05M13.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-227,64,24,Missed,1,,,0,v,MISS Roddy 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,457
+0022300410,618,PT05M09.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Morant FOR Roddy,Substitution,,0,0,459
+0022300425,76,PT05M05.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,124,231,26,Made,1,17,18,35,v,Roddy 26' 3PT Jump Shot (3 PTS) (Konchar 1 AST),Made Shot,Jump Shot,1,3,59
+0022300425,271,PT03M02.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Williams FOR Roddy,Substitution,,0,0,197
+0022300425,398,PT05M48.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,MISS Roddy Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,297
+0022300425,402,PT05M48.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,MISS Roddy Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,299
+0022300425,412,PT05M16.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,89,59,148,v,Roddy Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,304
+0022300425,413,PT05M16.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,89,60,149,v,Roddy Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,305
+0022300425,460,PT02M12.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,13,22,3,Made,1,100,77,177,v,Roddy 3' Driving Layup (7 PTS) (Tillman 3 AST),Made Shot,Driving Layup Shot,1,2,337
+0022300425,462,PT01M37.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-25,17,3,Missed,1,,,0,v,MISS Roddy 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,339
+0022300425,516,PT10M18.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,22,98,10,Made,1,110,88,198,v,Roddy 10' Turnaround Fadeaway (9 PTS),Made Shot,Turnaround Fadeaway shot,1,2,374
+0022300425,521,PT09M49.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,MISS Roddy Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,377
+0022300425,523,PT09M49.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,112,89,201,v,Roddy Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,379
+0022300425,525,PT09M16.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,27,263,26,Missed,1,,,0,v,MISS Roddy 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,381
+0022300425,530,PT09M08.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Tillman FOR Roddy,Substitution,,0,0,386
+0022300425,566,PT06M36.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,103,56,12,Missed,1,,,0,v,MISS Roddy 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,411
+0022300425,579,PT05M31.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,127,93,220,v,Roddy Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,420
+0022300425,584,PT05M31.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,MISS Roddy Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,423
+0022300425,604,PT03M59.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,42,9,4,Missed,1,,,0,v,MISS Roddy 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,438
+0022300425,614,PT03M04.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,34,4,3,Made,1,136,100,236,v,Roddy 3' Cutting Layup Shot (13 PTS) (Williams 1 AST),Made Shot,Cutting Layup Shot,1,2,447
+0022300425,630,PT01M44.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,6,1,1,Made,1,140,104,244,v,Roddy 1' Cutting Dunk Shot (15 PTS) (Tillman 4 AST),Made Shot,Cutting Dunk Shot,1,2,459
+0022300438,150,PT00M30.70S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-25,34,4,Missed,1,,,0,v,MISS Roddy 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,109
+0022300438,152,PT00M10.80S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy P.FOUL (P1.T4) (S.Twardoski),Foul,Personal,1,0,111
+0022300438,322,PT00M13.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-232,37,0,Missed,1,,,0,v,MISS Roddy 3PT Jump Shot,Missed Shot,Jump Shot,1,3,227
+0022300438,453,PT03M04.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,318
+0022300438,468,PT02M04.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,330
+0022300438,499,PT00M01.10S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Out of Bounds - Bad Pass Turnover Turnover (P1.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,351
+0022300438,522,PT10M54.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,4,39,4,Made,1,96,77,173,v,Roddy 4' Running Finger Roll Layup (2 PTS) (Williams Jr. 4 AST),Made Shot,Running Finger Roll Layup Shot,1,2,367
+0022300438,526,PT10M54.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,96,78,174,v,Roddy Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,369
+0022300438,571,PT07M51.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,98,88,186,v,Roddy Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,399
+0022300438,574,PT07M51.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,MISS Roddy Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,401
+0022300438,620,PT04M26.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Morant FOR Roddy,Substitution,,0,0,439
+0022300449,505,PT11M05.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-100,249,27,Missed,1,,,0,h,MISS Roddy 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,366
+0022300449,516,PT10M01.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR Roddy,Substitution,,0,0,375
+0022300449,592,PT04M02.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,433
+0022300449,597,PT03M46.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,91,119,210,h,Roddy Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,436
+0022300449,604,PT03M46.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,92,119,211,h,Roddy Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,440
+0022300449,614,PT03M16.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,6,42,4,Missed,1,,,0,h,MISS Roddy 4' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,447
+0022300449,623,PT02M07.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-129,226,26,Missed,1,,,0,h,MISS Roddy 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,455
+0022300470,167,PT00M10.40S,1,1610612763,MEM,1631223,Roddy,D. Roddy,150,206,25,Missed,1,,,0,h,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,122
+0022300470,201,PT09M19.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,170,181,25,Missed,1,,,0,h,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,146
+0022300470,251,PT05M43.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Bane FOR Roddy,Substitution,,0,0,186
+0022300491,163,PT11M15.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,115
+0022300491,164,PT11M06.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-4,69,7,Missed,1,,,0,v,MISS Roddy 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,116
+0022300491,194,PT08M36.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy P.FOUL (P1.T1) (D.Guthrie),Foul,Personal,1,0,143
+0022300491,218,PT07M30.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,158
+0022300491,242,PT05M28.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-115,229,26,Missed,1,,,0,v,MISS Roddy 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,177
+0022300491,247,PT05M20.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Kennard FOR Roddy,Substitution,,0,0,181
+0022300515,150,PT00M00.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-40,291,29,Missed,1,,,0,v,MISS Roddy 29' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,1,3,118
+0022300515,207,PT07M54.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,155
+0022300515,226,PT07M03.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,29,12,3,Made,1,31,44,75,v,Roddy 3' Driving Layup (2 PTS) (Kennard 3 AST),Made Shot,Driving Layup Shot,1,2,166
+0022300515,244,PT06M23.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-6,2,1,Made,1,34,46,80,v,Roddy 1' Driving Dunk (4 PTS) (Williams Jr. 2 AST),Made Shot,Driving Dunk Shot,1,2,177
+0022300515,251,PT06M01.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,34,47,81,v,Roddy Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,181
+0022300515,252,PT06M01.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,34,48,82,v,Roddy Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,182
+0022300515,255,PT05M37.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,228,6,0,Made,1,34,51,85,v,Roddy 3PT Running Jump Shot (9 PTS) (Williams Jr. 3 AST),Made Shot,Running Jump Shot,1,3,185
+0022300515,261,PT05M17.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,34,52,86,v,Roddy Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,189
+0022300515,264,PT05M17.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,34,53,87,v,Roddy Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,191
+0022300515,310,PT01M29.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy S.FOUL (P1.PN) (J.Sterling),Foul,Shooting,1,0,228
+0022300515,443,PT04M54.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Transition Take Foul (P2.T3) (J.Sterling),Foul,Transition Take,1,0,319
+0022300515,468,PT03M25.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,339
+0022300515,469,PT03M25.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,7,15,2,Missed,1,,,0,v,MISS Roddy 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,340
+0022300515,483,PT02M30.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-18,30,3,Missed,1,,,0,v,MISS Roddy 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,348
+0022300515,484,PT02M30.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,349
+0022300515,487,PT02M08.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,352
+0022300515,531,PT11M22.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Out of Bounds Lost Ball Turnover (P1.T10),Turnover,Out of Bounds Lost Ball Turnover,1,0,380
+0022300515,546,PT10M13.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,21,21,3,Missed,1,,,0,v,MISS Roddy 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,391
+0022300515,555,PT09M30.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Lost Ball Turnover (P2.T12),Turnover,Lost Ball,1,0,400
+0022300515,560,PT09M08.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Konchar FOR Roddy,Substitution,,0,0,404
+0022300515,653,PT01M46.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,470
+0022300537,88,PT04M15.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-194,164,25,Missed,1,,,0,h,MISS Roddy 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,69
+0022300537,148,PT00M54.80S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-11,21,2,Made,1,24,19,43,h,Roddy 2' Cutting Finger Roll Layup Shot (2 PTS) (Williams 1 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,115
+0022300537,168,PT11M23.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,232,27,0,Made,1,29,25,54,h,Roddy 3PT Jump Shot (5 PTS) (Konchar 1 AST),Made Shot,Jump Shot,1,3,127
+0022300537,172,PT10M52.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,103,247,27,Missed,1,,,0,h,MISS Roddy 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,129
+0022300537,196,PT09M07.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy STEAL (1 STL),,,1,0,148
+0022300537,213,PT07M26.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,157
+0022300537,219,PT06M57.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy S.FOUL (P1.T3) (B.Haskill),Foul,Shooting,1,0,162
+0022300537,224,PT06M57.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Bane FOR Roddy,Substitution,,0,0,165
+0022300537,455,PT01M24.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,13,24,3,Missed,1,,,0,h,MISS Roddy 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,345
+0022300537,458,PT01M01.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,31,22,4,Made,1,79,98,177,h,Roddy 4' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,348
+0022300537,460,PT00M33.80S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,350
+0022300537,482,PT11M26.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,363
+0022300537,502,PT09M53.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,380
+0022300537,503,PT09M41.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-20,16,3,Made,1,85,104,189,h,Roddy 3' Driving Finger Roll Layup (9 PTS) (Tillman 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,381
+0022300537,514,PT08M44.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,202,194,28,Made,1,91,106,197,h,Roddy 28' 3PT Jump Shot (12 PTS) (Gilyard 3 AST),Made Shot,Jump Shot,1,3,388
+0022300537,519,PT07M46.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,392
+0022300537,527,PT07M24.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy P.FOUL (P2.T3) (B.Haskill),Foul,Personal,1,0,399
+0022300537,538,PT07M05.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,59,250,26,Made,1,96,111,207,h,Roddy 26' 3PT Step Back Jump Shot (15 PTS) (LaRavia 1 AST),Made Shot,Step Back Jump shot,1,3,406
+0022300537,541,PT06M50.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy S.FOUL (P3.PN) (C.Kirkland),Foul,Shooting,1,0,408
+0022300537,546,PT06M28.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,412
+0022300537,555,PT06M03.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,420
+0022300537,556,PT05M52.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,15,17,2,Made,1,99,114,213,h,Roddy 2' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,2,421
+0022300537,595,PT02M42.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,448
+0022300537,611,PT01M18.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,72,35,8,Missed,1,,,0,h,MISS Roddy 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,460
+0022300544,17,PT10M59.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-140,215,26,Made,1,5,0,5,h,Roddy 26' 3PT Jump Shot (3 PTS) (Tillman 1 AST),Made Shot,Jump Shot,1,3,11
+0022300544,34,PT08M53.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-23,11,3,Made,1,10,4,14,h,Roddy 3' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,25
+0022300544,36,PT08M29.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,2,3,0,Missed,1,,,0,h,MISS Roddy Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,27
+0022300544,52,PT07M39.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy S.FOUL (P1.T2) (R.Acosta),Foul,Shooting,1,0,41
+0022300544,71,PT05M42.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: LaRavia FOR Roddy,Substitution,,0,0,57
+0022300544,211,PT06M54.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,159
+0022300544,224,PT06M07.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Tillman FOR Roddy,Substitution,,0,0,168
+0022300544,311,PT00M38.70S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,230
+0022300544,316,PT00M03.10S,2,1610612763,MEM,1631223,Roddy,D. Roddy,16,9,2,Missed,1,,,0,h,MISS Roddy 2' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,233
+0022300544,320,PT00M01.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,238
+0022300544,334,PT11M02.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-31,25,4,Made,1,61,57,118,h,Roddy 4' Driving Floating Bank Jump Shot (7 PTS) (Williams Jr. 6 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,244
+0022300544,379,PT06M36.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy STEAL (1 STL),,,1,0,284
+0022300544,381,PT06M32.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,15,15,2,Missed,1,,,0,h,MISS Roddy 2' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,1,2,285
+0022300544,383,PT06M25.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy P.FOUL (P2.T3) (R.Acosta),Foul,Personal,1,0,287
+0022300544,392,PT05M44.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Jackson FOR Roddy,Substitution,,0,0,294
+0022300544,456,PT01M07.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,340
+0022300544,481,PT11M18.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-36,264,27,Made,1,75,85,160,h,Roddy 27' 3PT Jump Shot (10 PTS) (Williams 2 AST),Made Shot,Jump Shot,1,3,355
+0022300544,485,PT11M00.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy S.FOUL (P3.T1) (J.Conley),Foul,Shooting,1,0,358
+0022300544,489,PT10M44.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-53,75,9,Made,1,77,87,164,h,Roddy 9' Turnaround Fadeaway (12 PTS) (Gilyard 7 AST),Made Shot,Turnaround Fadeaway shot,1,2,361
+0022300544,492,PT10M27.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,363
+0022300544,493,PT10M19.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-174,183,25,Missed,1,,,0,h,MISS Roddy 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,364
+0022300544,498,PT09M52.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,87,251,27,Missed,1,,,0,h,MISS Roddy 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,369
+0022300544,542,PT06M23.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-11,17,2,Missed,1,,,0,h,MISS Roddy 2' Dunk,Missed Shot,Dunk Shot,1,2,406
+0022300544,568,PT04M42.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-7,76,8,Made,1,86,96,182,h,Roddy 8' Driving Floating Jump Shot (14 PTS) (Williams Jr. 8 AST),Made Shot,Driving Floating Jump Shot,1,2,425
+0022300544,604,PT02M10.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy STEAL (2 STL),,,1,0,455
+0022300544,606,PT02M03.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Lost Ball Turnover (P2.T12),Turnover,Lost Ball,1,0,456
+0022300544,615,PT00M38.20S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Personal Take Foul (P4.PN) (K.Scott),Foul,Personal Take,1,0,464
+0022300560,107,PT03M18.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-199,154,25,Missed,1,,,0,h,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,79
+0022300560,110,PT03M05.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,82
+0022300560,140,PT01M10.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,64,15,7,Missed,1,,,0,h,MISS Roddy 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,101
+0022300560,141,PT01M05.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,102
+0022300560,142,PT01M05.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,Missed,1,,,0,h,MISS Roddy Putback Layup,Missed Shot,Putback Layup Shot,1,2,103
+0022300560,143,PT01M05.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,104
+0022300560,144,PT01M04.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,Made,1,20,27,47,h,Roddy Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,105
+0022300560,177,PT10M56.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-196,152,25,Missed,1,,,0,h,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,127
+0022300560,191,PT10M05.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-28,23,4,Made,1,30,33,63,h,Roddy 4' Driving Layup (4 PTS) (Gilyard 1 AST),Made Shot,Driving Layup Shot,1,2,140
+0022300560,196,PT09M44.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Offensive Charge Foul (P1) (J.Schroeder),Foul,Offensive Charge,1,0,144
+0022300560,198,PT09M44.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0,145
+0022300560,200,PT09M26.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,147
+0022300560,202,PT09M15.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,149
+0022300560,217,PT08M06.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Williams Jr. FOR Roddy,Substitution,,0,0,158
+0022300560,281,PT04M15.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,12,65,7,Made,1,41,46,87,h,Roddy 7' Floating Jump Shot (6 PTS) (Williams Jr. 2 AST),Made Shot,Floating Jump shot,1,2,205
+0022300560,292,PT02M49.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,88,244,26,Made,1,47,49,96,h,Roddy 26' 3PT Jump Shot (9 PTS) (Jackson Jr. 3 AST),Made Shot,Jump Shot,1,3,213
+0022300560,322,PT00M32.10S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,236
+0022300560,323,PT00M14.40S,2,1610612763,MEM,1631223,Roddy,D. Roddy,94,44,10,Missed,1,,,0,h,MISS Roddy 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,237
+0022300560,441,PT05M13.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-45,25,5,Missed,1,,,0,h,MISS Roddy 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,318
+0022300560,485,PT02M54.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,350
+0022300560,486,PT02M35.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,43,34,5,Missed,1,,,0,h,MISS Roddy 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,351
+0022300560,503,PT00M56.50S,3,1610612763,MEM,1631223,Roddy,D. Roddy,25,242,24,Made,1,85,86,171,h,Roddy 24' 3PT Jump Shot (12 PTS) (Jackson Jr. 5 AST),Made Shot,Jump Shot,1,3,363
+0022300560,522,PT00M07.30S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Gilyard FOR Roddy,Substitution,,0,0,377
+0022300560,684,PT01M55.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Out of Bounds - Bad Pass Turnover Turnover (P2.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,492
+0022300560,685,PT01M55.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Tillman FOR Roddy,Substitution,,0,0,493
+0022300582,171,PT10M23.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,121
+0022300582,219,PT07M05.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-20,250,25,Missed,1,,,0,v,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,161
+0022300582,228,PT06M16.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,169
+0022300582,233,PT05M38.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-132,214,25,Made,1,38,42,80,v,Roddy 25' 3PT Jump Shot (3 PTS) (Konchar 1 AST),Made Shot,Jump Shot,1,3,173
+0022300582,247,PT04M41.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy L.B.FOUL (P1.T3) (S.Twardoski),Foul,Loose Ball,1,0,180
+0022300582,262,PT03M30.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Williams Jr. FOR Roddy,Substitution,,0,0,192
+0022300582,437,PT02M51.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,2,54,5,Made,1,73,78,151,v,Roddy 5' Turnaround Hook Shot (5 PTS),Made Shot,Turnaround Hook Shot,1,2,318
+0022300582,458,PT01M05.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,77,82,159,v,Roddy Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,333
+0022300582,459,PT01M05.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,MISS Roddy Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,334
+0022300582,462,PT00M52.90S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy S.FOUL (P2.PN) (J.Goble),Foul,Shooting,1,0,336
+0022300582,477,PT00M05.50S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,81,85,166,v,Roddy Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,346
+0022300582,480,PT00M05.50S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,81,86,167,v,Roddy Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,348
+0022300582,512,PT10M17.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,26,17,3,Missed,1,,,0,v,MISS Roddy 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,363
+0022300582,523,PT09M25.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,371
+0022300582,524,PT09M16.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-138,0,14,Missed,1,,,0,v,MISS Roddy 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,372
+0022300582,534,PT08M41.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,7,18,2,Missed,1,,,0,v,MISS Roddy 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,379
+0022300582,553,PT07M07.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Konchar FOR Roddy,Substitution,,0,0,393
+0022300582,627,PT00M43.70S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,449
+0022300582,628,PT00M39.30S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-32,25,4,Missed,1,,,0,v,MISS Roddy 4' Running Layup,Missed Shot,Running Layup Shot,1,2,450
+0022300597,79,PT04M39.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,217,110,24,Missed,1,,,0,v,MISS Roddy 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,63
+0022300597,102,PT03M15.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,79
+0022300597,132,PT00M34.70S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy S.FOUL (P1.T2) (A.Nagy),Foul,Shooting,1,0,104
+0022300597,155,PT11M19.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,28,21,4,Made,1,24,19,43,v,Roddy 4' Driving Layup (2 PTS) (Kennard 2 AST),Made Shot,Driving Layup Shot,1,2,115
+0022300597,169,PT09M45.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,125
+0022300597,171,PT09M26.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,127
+0022300597,184,PT08M16.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,152,209,26,Missed,1,,,0,v,MISS Roddy 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,138
+0022300597,196,PT07M58.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,7,6,1,Made,1,34,21,55,v,Roddy 1' Driving Dunk (4 PTS) (Konchar 3 AST),Made Shot,Driving Dunk Shot,1,2,146
+0022300597,214,PT06M31.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,23,4,2,Missed,1,,,0,v,MISS Roddy 2' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,157
+0022300597,245,PT03M58.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Aldama FOR Roddy,Substitution,,0,0,180
+0022300597,271,PT01M54.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-28,46,5,Made,1,46,34,80,v,Roddy 5' Driving Floating Jump Shot (6 PTS) (Kennard 3 AST),Made Shot,Driving Floating Jump Shot,1,2,198
+0022300597,385,PT04M41.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,163,206,26,Missed,1,,,0,v,MISS Roddy 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,283
+0022300597,389,PT04M15.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-22,48,5,Made,1,73,59,132,v,Roddy 5' Driving Floating Jump Shot (8 PTS) (Jackson Jr. 4 AST),Made Shot,Driving Floating Jump Shot,1,2,286
+0022300597,391,PT04M02.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy S.FOUL (P2.T2) (A.Nagy),Foul,Shooting,1,0,287
+0022300597,401,PT03M03.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-21,251,25,Made,1,77,62,139,v,Roddy 25' 3PT Jump Shot (11 PTS) (Jackson Jr. 5 AST),Made Shot,Jump Shot,1,3,294
+0022300597,478,PT10M07.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-100,233,25,Missed,1,,,0,v,MISS Roddy 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,346
+0022300597,517,PT07M31.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,11,47,5,Missed,1,,,0,v,MISS Roddy 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,376
+0022300597,524,PT07M24.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Jackson FOR Roddy,Substitution,,0,0,382
+0022300597,607,PT01M52.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy S.FOUL (P3.T4) (E.Scott),Foul,Shooting,1,0,438
+0022300621,52,PT07M19.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy STEAL (1 STL),,,1,0,44
+0022300621,69,PT05M52.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,1,0,56
+0022300621,81,PT04M07.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,64
+0022300621,91,PT03M37.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Jackson FOR Roddy,Substitution,,0,0,72
+0022300621,145,PT00M28.70S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,110
+0022300621,163,PT11M49.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy BLOCK (1 BLK),,,1,2,119
+0022300621,157,PT11M30.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,5,39,4,Missed,1,,,0,v,MISS Roddy 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,123
+0022300621,222,PT07M10.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Jackson FOR Roddy,Substitution,,0,0,172
+0022300621,291,PT02M07.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,188,215,29,Missed,1,,,0,v,MISS Roddy 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,219
+0022300621,310,PT00M23.60S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy P.FOUL (P1.PN) (S.Mitchell),Foul,Personal,1,0,235
+0022300621,317,PT00M03.50S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Step Out of Bounds Turnover (P2.T12),Turnover,Step Out of Bounds Turnover,1,0,240
+0022300621,362,PT08M54.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,4,10,1,Made,1,52,58,110,v,Roddy 1' Driving Dunk (2 PTS) (Williams Jr. 1 AST),Made Shot,Driving Dunk Shot,1,2,273
+0022300621,364,PT08M46.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy STEAL (2 STL),,,1,0,275
+0022300621,366,PT08M42.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-169,205,27,Made,1,52,61,113,v,Roddy 27' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,3,276
+0022300621,367,PT08M34.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy S.FOUL (P2.T1) (S.Mitchell),Foul,Shooting,1,0,277
+0022300621,371,PT08M19.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Discontinue Dribble Turnover (P3.T13),Turnover,Discontinue Dribble,1,0,280
+0022300621,397,PT06M35.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-240,8,24,Missed,1,,,0,v,MISS Roddy 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,301
+0022300621,403,PT06M09.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-211,174,27,Made,1,58,66,124,v,Roddy 27' 3PT Jump Shot (8 PTS) (Konchar 2 AST),Made Shot,Jump Shot,1,3,306
+0022300621,407,PT05M49.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-11,12,2,Missed,1,,,0,v,MISS Roddy 2' Running Layup,Missed Shot,Running Layup Shot,1,2,309
+0022300621,416,PT05M29.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,36,15,4,Missed,1,,,0,v,MISS Roddy 4' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,2,316
+0022300621,438,PT04M35.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Jackson FOR Roddy,Substitution,,0,0,333
+0022300621,511,PT10M37.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,15,4,2,Missed,1,,,0,v,MISS Roddy 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,387
+0022300621,513,PT10M34.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,389
+0022300621,514,PT10M33.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-2,48,5,Missed,1,,,0,v,MISS Roddy 5' Hook Shot,Missed Shot,Hook Shot,1,2,390
+0022300621,536,PT08M00.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,13,8,2,Made,1,76,88,164,v,Roddy 2' Driving Layup (10 PTS) (Williams 1 AST),Made Shot,Driving Layup Shot,1,2,408
+0022300621,568,PT05M41.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Jackson FOR Roddy,Substitution,,0,0,431
+0022300638,101,PT02M59.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy P.FOUL (P1.T4) (D.Scott),Foul,Personal,1,0,74
+0022300638,116,PT02M21.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,84
+0022300638,119,PT02M21.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,MISS Roddy Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,86
+0022300638,123,PT02M21.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,24,24,48,h,Roddy Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,89
+0022300638,128,PT02M06.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,93
+0022300638,129,PT01M53.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,38,10,4,Missed,1,,,0,h,MISS Roddy 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,94
+0022300638,132,PT01M24.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,97
+0022300638,152,PT00M00.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,175,476,51,Missed,1,,,0,h,MISS Roddy 51' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,112
+0022300638,161,PT11M40.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,117
+0022300638,173,PT10M12.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,126
+0022300638,183,PT09M07.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Aldama FOR Roddy,Substitution,,0,0,134
+0022300638,286,PT01M35.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy S.FOUL (P2.PN) (C.Kirkland),Foul,Shooting,1,0,206
+0022300638,293,PT01M18.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,13,14,2,Missed,1,,,0,h,MISS Roddy 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,211
+0022300638,294,PT01M18.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,212
+0022300638,295,PT01M14.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,Made,1,62,57,119,h,Roddy Tip Layup Shot (3 PTS),Made Shot,Tip Layup Shot,1,2,213
+0022300638,297,PT00M58.70S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,215
+0022300638,302,PT00M33.90S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,218
+0022300638,426,PT03M41.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,312
+0022300638,455,PT01M00.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,332
+0022300638,575,PT05M16.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,417
+0022300638,587,PT04M10.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Kennard FOR Roddy,Substitution,,0,0,426
+0022300652,14,PT10M41.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-58,268,27,Made,1,2,5,7,v,Roddy 27' 3PT Jump Shot (3 PTS) (Jackson Jr. 1 AST),Made Shot,Jump Shot,1,3,9
+0022300652,18,PT10M10.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,9,1,1,Made,1,4,7,11,v,Roddy 1' Driving Finger Roll Layup (5 PTS) (Konchar 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,11
+0022300652,37,PT08M14.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-192,188,27,Missed,1,,,0,v,MISS Roddy 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,27
+0022300652,42,PT07M52.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-185,210,28,Missed,1,,,0,v,MISS Roddy 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,31
+0022300652,53,PT07M02.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy BLOCK (1 BLK),,,1,2,40
+0022300652,87,PT04M05.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-224,-22,0,Missed,1,,,0,v,MISS Roddy 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,66
+0022300652,95,PT03M39.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy P.FOUL (P1.T3) (D.Collins),Foul,Personal,1,0,73
+0022300652,99,PT03M39.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Williams FOR Roddy,Substitution,,0,0,76
+0022300652,217,PT05M57.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,240,-31,24,Made,1,40,38,78,v,Roddy 24' 3PT Jump Shot (8 PTS) (Pippen Jr. 2 AST),Made Shot,Jump Shot,1,3,159
+0022300652,233,PT05M11.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy P.FOUL (P2.T3) (P.Ransom),Foul,Personal,1,0,170
+0022300652,244,PT04M23.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy P.FOUL (P3.T4) (D.Collins),Foul,Personal,1,0,177
+0022300652,248,PT04M03.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,1,38,4,Missed,1,,,0,v,MISS Roddy 4' Hook Shot,Missed Shot,Hook Shot,1,2,180
+0022300652,277,PT02M11.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Aldama FOR Roddy,Substitution,,0,0,201
+0022300652,334,PT09M30.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,9,1,Made,1,57,59,116,v,Roddy 1' Driving Finger Roll Layup (10 PTS) (Aldama 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,241
+0022300652,354,PT08M02.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,66,62,128,v,Roddy Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,254
+0022300652,355,PT08M02.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,66,63,129,v,Roddy Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,255
+0022300652,369,PT06M28.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy STEAL (1 STL),,,1,0,267
+0022300652,392,PT05M28.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,283
+0022300652,393,PT05M23.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-2,15,2,Missed,1,,,0,v,MISS Roddy 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,284
+0022300652,416,PT03M52.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Tillman FOR Roddy,Substitution,,0,0,303
+0022300652,503,PT11M36.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,367
+0022300652,504,PT11M32.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-238,-26,24,Missed,1,,,0,v,MISS Roddy 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,368
+0022300652,512,PT10M56.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-5,21,2,Made,1,94,84,178,v,Roddy 2' Driving Finger Roll Layup (14 PTS) (Tillman 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,373
+0022300652,524,PT09M21.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,382
+0022300652,541,PT08M33.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,229,68,24,Missed,1,,,0,v,MISS Roddy 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,394
+0022300652,553,PT07M52.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,404
+0022300652,554,PT07M39.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-91,21,9,Missed,1,,,0,v,MISS Roddy 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,405
+0022300652,636,PT01M10.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,469
+0022300652,651,PT00M16.10S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Personal Take Foul (P4.T4) (J.Capers),Foul,Personal Take,1,0,479
+0022300663,7,PT11M47.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,53,64,8,Missed,1,,,0,h,MISS Roddy 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,3
+0022300663,8,PT11M42.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,4
+0022300663,9,PT11M42.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,Made,1,2,0,2,h,Roddy Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,5
+0022300663,36,PT08M41.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,25
+0022300663,38,PT08M29.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,28
+0022300663,52,PT07M06.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,39
+0022300663,62,PT06M05.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,48
+0022300663,85,PT04M54.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Hurt FOR Roddy,Substitution,,0,0,67
+0022300663,179,PT09M46.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,36,25,61,h,Roddy Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,133
+0022300663,180,PT09M46.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,MISS Roddy Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,134
+0022300663,184,PT09M15.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,97,222,24,Missed,1,,,0,h,MISS Roddy 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,137
+0022300663,237,PT06M21.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy STEAL (1 STL),,,1,0,178
+0022300663,256,PT04M47.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,62,72,10,Missed,1,,,0,h,MISS Roddy 10' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,1,2,190
+0022300663,259,PT04M37.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,193
+0022300663,270,PT03M42.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Jackson FOR Roddy,Substitution,,0,0,204
+0022300663,377,PT06M57.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,286
+0022300663,390,PT05M59.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,119,239,27,Missed,1,,,0,h,MISS Roddy 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,293
+0022300663,401,PT04M44.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,302
+0022300663,404,PT04M42.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,65,67,132,h,Roddy Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,304
+0022300663,411,PT04M42.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,66,67,133,h,Roddy Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,308
+0022300663,413,PT04M25.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,310
+0022300663,416,PT04M11.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,22,260,26,Missed,1,,,0,h,MISS Roddy 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,313
+0022300663,426,PT03M04.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Hurt FOR Roddy,Substitution,,0,0,323
+0022300663,468,PT00M15.60S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Out of Bounds - Bad Pass Turnover Turnover (P3.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,352
+0022300663,484,PT11M00.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-9,28,3,Made,1,78,77,155,h,Roddy 3' Driving Floating Bank Jump Shot (7 PTS) (Gilyard 4 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,364
+0022300663,488,PT11M00.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,MISS Roddy Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,366
+0022300663,522,PT08M25.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,390
+0022300663,529,PT07M41.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Lost Ball Turnover (P4.T12),Turnover,Lost Ball,1,0,395
+0022300663,536,PT07M25.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,398
+0022300663,544,PT07M03.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Aldama FOR Roddy,Substitution,,0,0,405
+0022300663,584,PT03M05.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-31,83,9,Made,1,94,95,189,h,Roddy 9' Turnaround Hook Shot (9 PTS),Made Shot,Turnaround Hook Shot,1,2,432
+0022300663,598,PT01M40.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,224,97,24,Missed,1,,,0,h,MISS Roddy 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,444
+0022300663,601,PT01M14.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,447
+0022300687,103,PT03M46.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy P.FOUL (P1.T3) (T.Brothers),Foul,Personal,1,0,77
+0022300687,120,PT02M53.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy P.FOUL (P2.T4) (B.Forte),Foul,Personal,1,0,88
+0022300687,152,PT00M50.80S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-20,8,2,Missed,1,,,0,h,MISS Roddy 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,112
+0022300687,156,PT00M31.20S,1,1610612763,MEM,1631223,Roddy,D. Roddy,6,34,3,Made,1,27,27,54,h,Roddy 3' Driving Floating Bank Jump Shot (2 PTS) (Gilyard 2 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,116
+0022300687,159,PT00M08.50S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,118
+0022300687,209,PT07M50.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,154
+0022300687,215,PT07M35.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy STEAL (1 STL),,,1,0,159
+0022300687,236,PT06M42.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-31,11,3,Missed,1,,,0,h,MISS Roddy 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,174
+0022300687,242,PT05M55.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-22,32,4,Missed,1,,,0,h,MISS Roddy 4' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,180
+0022300687,276,PT03M47.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-7,67,7,Missed,1,,,0,h,MISS Roddy 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,204
+0022300687,287,PT03M24.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Jackson FOR Roddy,Substitution,,0,0,212
+0022300687,447,PT04M15.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-232,34,0,Missed,1,,,0,h,MISS Roddy 3PT Jump Shot,Missed Shot,Jump Shot,1,3,325
+0022300687,463,PT03M43.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-38,95,10,Missed,1,,,0,h,MISS Roddy 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,337
+0022300687,472,PT02M52.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,39,42,6,Missed,1,,,0,h,MISS Roddy 6' Hook Bank Shot,Missed Shot,Hook Bank Shot,1,2,345
+0022300687,475,PT02M47.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,228,-10,0,Missed,1,,,0,h,MISS Roddy 3PT Jump Shot,Missed Shot,Jump Shot,1,3,347
+0022300687,487,PT01M32.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,356
+0022300687,489,PT01M17.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Konchar FOR Roddy,Substitution,,0,0,358
+0022300687,532,PT10M05.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,383
+0022300687,533,PT09M59.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,49,21,5,Missed,1,,,0,h,MISS Roddy 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,384
+0022300687,546,PT08M51.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-109,92,14,Missed,1,,,0,h,MISS Roddy 14' Jump Shot,Missed Shot,Jump Shot,1,2,394
+0022300687,556,PT07M49.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-17,-1,2,Missed,1,,,0,h,MISS Roddy 2' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,403
+0022300687,565,PT07M34.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Jackson FOR Roddy,Substitution,,0,0,408
+0022300693,159,PT00M33.80S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-11,12,2,Made,1,23,24,47,h,Roddy 2' Cutting Finger Roll Layup Shot (2 PTS) (Rose 1 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,122
+0022300693,170,PT00M06.20S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Step Out of Bounds Turnover (P1.T3),Turnover,Step Out of Bounds Turnover,1,0,128
+0022300693,204,PT09M32.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-161,200,26,Made,1,29,32,61,h,Roddy 26' 3PT Jump Shot (5 PTS) (Aldama 1 AST),Made Shot,Jump Shot,1,3,146
+0022300693,252,PT05M53.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Kennard FOR Roddy,Substitution,,0,0,180
+0022300693,278,PT04M17.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy S.FOUL (P1.T3) (S.Wright),Foul,Shooting,1,0,197
+0022300693,436,PT04M39.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,127,235,27,Missed,1,,,0,h,MISS Roddy 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,311
+0022300693,448,PT03M59.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,54,47,7,Made,1,65,74,139,h,Roddy 7' Driving Floating Bank Jump Shot (7 PTS) (Kennard 2 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,321
+0022300693,473,PT02M06.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-2,5,1,Made,1,71,79,150,h,Roddy 1' Running Dunk (9 PTS) (Rose 3 AST),Made Shot,Running Dunk Shot,1,2,337
+0022300693,487,PT01M15.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,345
+0022300693,488,PT00M54.10S,3,1610612763,MEM,1631223,Roddy,D. Roddy,25,73,8,Missed,1,,,0,h,MISS Roddy 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,346
+0022300693,513,PT11M24.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,365
+0022300693,516,PT11M20.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,74,85,159,h,Roddy Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,367
+0022300693,517,PT11M20.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,75,85,160,h,Roddy Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,368
+0022300693,555,PT08M55.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy S.FOUL (P2.T1) (S.Mehta),Foul,Shooting,1,0,394
+0022300693,562,PT08M38.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-6,3,1,Made,1,84,93,177,h,Roddy 1' Driving Finger Roll Layup (13 PTS) (Gilyard 4 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,399
+0022300693,572,PT07M45.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Violation:Kicked Ball (S.Mehta),Violation,Kicked Ball,0,0,407
+0022300693,573,PT07M45.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Williams Jr. FOR Roddy,Substitution,,0,0,408
+0022300693,604,PT05M53.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy S.FOUL (P3.T3) (S.Wright),Foul,Shooting,1,0,428
+0022300693,629,PT03M55.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,15,45,5,Missed,1,,,0,h,MISS Roddy 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,444
+0022300693,640,PT03M27.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,100,250,27,Missed,1,,,0,h,MISS Roddy 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,454
+0022300693,664,PT01M46.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,MISS Roddy Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,471
+0022300693,680,PT01M46.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,99,114,213,h,Roddy Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,480
+0022300693,683,PT01M04.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-9,-2,1,Made,1,101,117,218,h,Roddy 1' Finger Roll Layup (16 PTS),Made Shot,Finger Roll Layup Shot,1,2,482
+0022300693,686,PT00M39.70S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Out of Bounds - Bad Pass Turnover Turnover (P2.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,484
+0022300706,22,PT10M49.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,195,157,25,Missed,1,,,0,v,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,15
+0022300706,29,PT10M03.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,15,13,2,Made,1,3,2,5,v,Roddy 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,22
+0022300706,74,PT06M29.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,17,10,27,v,Roddy Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,53
+0022300706,75,PT06M29.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,17,11,28,v,Roddy Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,54
+0022300706,80,PT05M48.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-164,57,17,Missed,1,,,0,v,MISS Roddy 17' Jump Shot,Missed Shot,Jump Shot,1,2,58
+0022300706,84,PT05M27.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,116,230,26,Missed,1,,,0,v,MISS Roddy 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,61
+0022300706,87,PT05M17.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,64
+0022300706,94,PT05M09.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,71
+0022300706,95,PT05M06.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-1,10,1,Made,1,22,13,35,v,Roddy 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,2,72
+0022300706,116,PT03M42.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,91
+0022300706,140,PT02M11.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,110
+0022300706,150,PT01M07.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Gilyard FOR Roddy,Substitution,,0,0,117
+0022300706,245,PT05M53.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-25,29,4,Made,1,42,40,82,v,Roddy 4' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,194
+0022300706,272,PT03M25.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,110,25,11,Made,1,53,46,99,v,Roddy 11' Turnaround Fadeaway (10 PTS) (Kennard 1 AST),Made Shot,Turnaround Fadeaway shot,1,2,213
+0022300706,283,PT02M14.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,158,206,26,Missed,1,,,0,v,MISS Roddy 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,222
+0022300706,309,PT00M02.60S,2,1610612763,MEM,1631223,Roddy,D. Roddy,59,16,6,Missed,1,,,0,v,MISS Roddy 6' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,241
+0022300706,322,PT11M30.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,247
+0022300706,334,PT10M36.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,258
+0022300706,338,PT10M14.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,261
+0022300706,382,PT09M42.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Out of Bounds Lost Ball Turnover (P1.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0,265
+0022300706,361,PT07M39.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-9,104,10,Missed,1,,,0,v,MISS Roddy 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,278
+0022300706,365,PT07M09.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0,282
+0022300706,410,PT03M51.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,31,26,4,Missed,1,,,0,v,MISS Roddy 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,313
+0022300706,422,PT02M26.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-5,77,8,Made,1,92,73,165,v,Roddy 8' Turnaround Hook Shot (12 PTS),Made Shot,Turnaround Hook Shot,1,2,323
+0022300706,432,PT01M42.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,229,108,25,Missed,1,,,0,v,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,330
+0022300706,547,PT06M41.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,20,37,4,Made,1,112,85,197,v,Roddy 4' Floating Jump Shot (14 PTS) (Gilyard 5 AST),Made Shot,Floating Jump shot,1,2,411
+0022300706,550,PT06M41.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,MISS Roddy Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,413
+0022300706,559,PT05M43.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Lost Ball Turnover (P3.T19),Turnover,Lost Ball,1,0,421
+0022300706,562,PT05M36.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,424
+0022300706,582,PT04M21.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-180,200,27,Missed,1,,,0,v,MISS Roddy 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,440
+0022300706,586,PT03M54.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,22,32,4,Missed,1,,,0,v,MISS Roddy 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,443
+0022300706,592,PT03M38.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Gilyard FOR Roddy,Substitution,,0,0,448
+0022300722,136,PT11M35.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,93
+0022300722,144,PT10M18.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,1,0,100
+0022300722,150,PT09M54.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,104
+0022300722,151,PT09M43.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-23,37,4,Missed,1,,,0,v,MISS Roddy 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,105
+0022300722,184,PT06M40.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-162,209,26,Missed,1,,,0,v,MISS Roddy 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,128
+0022300722,192,PT05M59.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Kennard FOR Roddy,Substitution,,0,0,135
+0022300722,379,PT03M05.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,267
+0022300722,392,PT01M59.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-15,20,3,Missed,1,,,0,v,MISS Roddy 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,277
+0022300722,397,PT01M19.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,MISS Roddy Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,281
+0022300722,401,PT01M19.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,MISS Roddy Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,284
+0022300722,417,PT00M01.50S,3,1610612763,MEM,1631223,Roddy,D. Roddy,34,72,8,Made,1,97,74,171,v,Roddy 8' Floating Jump Shot (2 PTS) (Evbuomwan 2 AST),Made Shot,Floating Jump shot,1,2,295
+0022300722,440,PT11M01.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,1,6,1,Made,1,99,77,176,v,Roddy 1' Running Layup (4 PTS) (Konchar 3 AST),Made Shot,Running Layup Shot,1,2,307
+0022300722,448,PT10M03.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Traveling Turnover (P2.T15),Turnover,Traveling,1,0,313
+0022300722,453,PT09M37.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-93,242,26,Missed,1,,,0,v,MISS Roddy 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,317
+0022300722,461,PT08M57.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-228,-13,0,Made,1,103,80,183,v,Roddy 3PT Jump Shot (7 PTS) (Konchar 4 AST),Made Shot,Jump Shot,1,3,324
+0022300722,537,PT03M31.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-5,14,1,Missed,1,,,0,v,MISS Roddy 1' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,379
+0022300722,543,PT02M58.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,180,220,28,Made,1,111,103,214,v,Roddy 28' 3PT Jump Shot (10 PTS) (Gilyard 2 AST),Made Shot,Jump Shot,1,3,385
+0022300722,554,PT02M05.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,168,193,26,Made,1,113,109,222,v,Roddy 26' 3PT Running Jump Shot (13 PTS) (Gilyard 4 AST),Made Shot,Running Jump Shot,1,3,393
+0022300722,561,PT01M26.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Bad Pass Turnover (P3.T16),Turnover,Bad Pass,1,0,398
+0022300722,574,PT00M50.40S,4,1610612763,MEM,1631223,Roddy,D. Roddy,28,90,9,Made,1,121,113,234,v,Roddy 9' Driving Hook Shot (15 PTS),Made Shot,Driving Hook Shot,1,2,410
+0022300787,798,PT00M22.00S,3,1610612756,PHX,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy Lost Ball Turnover (P1.T20),Turnover,Lost Ball,0,0,433
+0022300787,701,PT06M29.00S,4,1610612756,PHX,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy P.FOUL (P1.T3) (J.Van Duyne),Foul,Personal,1,0,508
+0022300787,708,PT05M51.00S,4,1610612756,PHX,1631223,Roddy,D. Roddy,228,25,0,Made,1,108,81,189,h,Roddy 3PT Jump Shot (3 PTS) (Lee 1 AST),Made Shot,Jump Shot,1,3,513
+0022300787,711,PT05M31.00S,4,1610612756,PHX,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,515
+0022300787,717,PT05M10.00S,4,1610612756,PHX,1631223,Roddy,D. Roddy,1,18,2,Made,1,110,81,191,h,Roddy 2' Running Layup (5 PTS) (Lee 2 AST),Made Shot,Running Layup Shot,1,2,521
+0022300787,722,PT04M41.00S,4,1610612756,PHX,1631223,Roddy,D. Roddy,229,67,24,Missed,1,,,0,h,MISS Roddy 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,525
+0022300818,641,PT00M36.00S,4,1610612756,PHX,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,459
+0022300878,189,PT10M18.00S,2,1610612756,PHX,1631223,Roddy,D. Roddy,-240,-23,24,Missed,1,,,0,h,MISS Roddy 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,135
+0022300878,251,PT05M51.00S,2,1610612756,PHX,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Gordon FOR Roddy,Substitution,,0,0,183
+0022300893,221,PT07M18.00S,2,1610612756,PHX,1631223,Roddy,D. Roddy,-12,9,2,Made,1,43,38,81,v,Roddy 2' Cutting Layup Shot (2 PTS) (Allen 2 AST),Made Shot,Cutting Layup Shot,1,2,159
+0022300893,231,PT07M18.00S,2,1610612756,PHX,1631223,Roddy,D. Roddy,0,0,0,,0,43,39,82,v,Roddy Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,164
+0022300893,277,PT06M34.00S,2,1610612756,PHX,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: O'Neale FOR Roddy,Substitution,,0,0,178
+0022300920,267,PT02M32.00S,2,1610612756,PHX,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Beal FOR Roddy,Substitution,,0,0,200
+0022300920,430,PT02M43.00S,3,1610612756,PHX,1631223,Roddy,D. Roddy,125,232,26,Missed,1,,,0,h,MISS Roddy 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,320
+0022300920,439,PT01M43.00S,3,1610612756,PHX,1631223,Roddy,D. Roddy,140,211,25,Missed,1,,,0,h,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,328
+0022300920,441,PT01M34.00S,3,1610612756,PHX,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy S.FOUL (P1.PN) (S.Corbin),Foul,Shooting,1,0,330
+0022300920,451,PT00M40.70S,3,1610612756,PHX,1631223,Roddy,D. Roddy,26,27,4,Made,1,78,84,162,h,Roddy 4' Layup (2 PTS) (Durant 5 AST),Made Shot,Layup Shot,1,2,337
+0022300920,455,PT00M15.20S,3,1610612756,PHX,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,340
+0022300920,456,PT00M15.20S,3,1610612756,PHX,1631223,Roddy,D. Roddy,0,0,0,Missed,1,,,0,h,MISS Roddy Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,341
+0022300920,598,PT00M14.40S,4,1610612756,PHX,1631223,Roddy,D. Roddy,-234,11,0,Missed,1,,,0,h,MISS Roddy 3PT Jump Shot,Missed Shot,Jump Shot,1,3,439
+0022300934,222,PT06M10.00S,2,1610612756,PHX,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,150
+0022300934,254,PT03M44.00S,2,1610612756,PHX,1631223,Roddy,D. Roddy,-9,22,2,Made,1,63,52,115,v,Roddy 2' Running Layup (2 PTS) (Booker 3 AST),Made Shot,Running Layup Shot,1,2,174
+0022300934,267,PT02M53.00S,2,1610612756,PHX,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Beal FOR Roddy,Substitution,,0,0,183
+0022300955,584,PT02M50.00S,4,1610612756,PHX,1631223,Roddy,D. Roddy,1,20,2,Made,1,124,108,232,v,Roddy 2' Cutting Layup Shot (2 PTS) (Young 1 AST),Made Shot,Cutting Layup Shot,1,2,419
+0022300955,595,PT01M37.00S,4,1610612756,PHX,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,426
+0022300955,596,PT01M31.00S,4,1610612756,PHX,1631223,Roddy,D. Roddy,-20,15,3,Made,1,127,110,237,v,Roddy 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,427
+0022300955,603,PT00M49.30S,4,1610612756,PHX,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Lost Ball Turnover (P1.T14),Turnover,Lost Ball,1,0,433
+0022300955,607,PT00M35.30S,4,1610612756,PHX,1631223,Roddy,D. Roddy,-97,247,27,Missed,1,,,0,v,MISS Roddy 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,437
+0022300961,644,PT01M01.00S,4,1610612756,PHX,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,469
+0022300961,645,PT00M54.40S,4,1610612756,PHX,1631223,Roddy,D. Roddy,103,57,12,Missed,1,,,0,v,MISS Roddy 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,470
+0022300976,598,PT00M24.70S,4,1610612756,PHX,1631223,Roddy,D. Roddy,-10,9,1,Made,1,140,129,269,v,Roddy 1' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,425
+0022301002,658,PT01M29.00S,4,1610612756,PHX,1631223,Roddy,D. Roddy,140,-13,14,Missed,1,,,0,h,MISS Roddy 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,464
+0022301002,680,PT00M07.40S,4,1610612756,PHX,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy STEAL (1 STL),,,1,0,490
+0022301025,572,PT03M17.00S,4,1610612756,PHX,1631223,Roddy,D. Roddy,-5,48,5,Made,1,97,121,218,v,Roddy 5' Driving Floating Jump Shot (2 PTS) (Young 1 AST),Made Shot,Driving Floating Jump Shot,1,2,407
+0022301025,573,PT03M09.00S,4,1610612756,PHX,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy STEAL (1 STL),,,1,0,409
+0022301025,595,PT01M24.00S,4,1610612756,PHX,1631223,Roddy,D. Roddy,-75,43,9,Missed,1,,,0,v,MISS Roddy 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,425
+0022301025,598,PT01M13.00S,4,1610612756,PHX,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,428
+0022301069,608,PT03M52.00S,4,1610612756,PHX,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,427
+0022301069,612,PT03M35.00S,4,1610612756,PHX,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,430
+0022301069,613,PT03M33.00S,4,1610612756,PHX,1631223,Roddy,D. Roddy,34,8,3,Missed,1,,,0,v,MISS Roddy 3' Layup,Missed Shot,Layup Shot,1,2,431
+0022301069,621,PT02M35.00S,4,1610612756,PHX,1631223,Roddy,D. Roddy,23,-2,2,Made,1,123,97,220,v,Roddy 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,438
+0022301069,631,PT01M37.00S,4,1610612756,PHX,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,444
+0022301069,632,PT01M28.00S,4,1610612756,PHX,1631223,Roddy,D. Roddy,-11,258,26,Missed,1,,,0,v,MISS Roddy 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,445
+0022301110,620,PT00M35.80S,4,1610612756,PHX,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy L.B.FOUL (P1.PN) (R.Acosta),Foul,Loose Ball,1,0,445
+0022301110,625,PT00M33.20S,4,1610612756,PHX,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,449
+0022301165,599,PT00M52.90S,4,1610612756,PHX,1631223,Roddy,D. Roddy,-58,19,6,Missed,1,,,0,v,MISS Roddy 6' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,448
+0022301194,634,PT01M51.00S,4,1610612756,PHX,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,449
+0022301194,642,PT01M26.00S,4,1610612756,PHX,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy S.FOUL (P1.T3) (S.Wright),Foul,Shooting,1,0,456
+0022301206,14,PT11M02.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+0022301206,69,PT05M10.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy P.FOUL (P1.T2) (J.Schroeder),Foul,Personal,1,0,52
+0022301206,74,PT05M10.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Williams Jr. FOR Roddy,Substitution,,0,0,56
+0022301206,247,PT04M56.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,180
+0022301206,253,PT04M05.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,186
+0022301206,254,PT03M58.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,187
+0022301206,265,PT03M25.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Jackson Jr. FOR Roddy,Substitution,,0,0,197
+0022301206,323,PT11M41.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,231
+0022301206,326,PT11M32.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,234
+0022301206,355,PT09M07.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,259
+0022301206,362,PT08M40.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy STEAL (1 STL),,,1,0,266
+0022301206,366,PT08M37.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,64,61,125,v,Roddy Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,268
+0022301206,367,PT08M37.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,MISS Roddy Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,269
+0022301206,374,PT07M34.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-222,13,0,Missed,1,,,0,v,MISS Roddy 3PT Jump Shot,Missed Shot,Jump Shot,1,3,276
+0022301206,391,PT06M14.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Williams Jr. FOR Roddy,Substitution,,0,0,289
+0022301206,556,PT05M43.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-232,-7,0,Made,1,88,99,187,v,Roddy 3PT Jump Shot (4 PTS) (Biyombo 4 AST),Made Shot,Jump Shot,1,3,405
+0022301206,591,PT02M15.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,-21,25,3,Missed,1,,,0,v,MISS Roddy 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,431
+0022301206,611,PT00M31.40S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,447
+0022301206,612,PT00M30.50S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy Lost Ball Turnover (P3.T14),Turnover,Lost Ball,1,0,448
+0022301206,614,PT00M26.30S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,Roddy STEAL (2 STL),,,1,0,451
+0022301206,617,PT00M21.20S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,v,SUB: Nowell FOR Roddy,Substitution,,0,0,453
+0022301221,15,PT11M10.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,-6,5,1,Made,1,2,2,4,h,Roddy 1' Driving Dunk (2 PTS) (Rose 1 AST),Made Shot,Driving Dunk Shot,1,2,11
+0022301221,23,PT10M22.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,104,225,25,Made,1,5,4,9,h,Roddy 25' 3PT Jump Shot (5 PTS) (Rose 2 AST),Made Shot,Jump Shot,1,3,17
+0022301221,77,PT05M19.00S,1,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Aldama FOR Roddy,Substitution,,0,0,57
+0022301221,256,PT05M47.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,189
+0022301221,261,PT04M58.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,156,198,25,Missed,1,,,0,h,MISS Roddy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,194
+0022301221,279,PT04M08.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,22,6,2,Made,1,44,50,94,h,Roddy 2' Running Layup (7 PTS),Made Shot,Running Layup Shot,1,2,207
+0022301221,284,PT03M29.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-2,68,7,Missed,1,,,0,h,MISS Roddy 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,211
+0022301221,306,PT02M18.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,230
+0022301221,307,PT02M08.00S,2,1610612763,MEM,1631223,Roddy,D. Roddy,2,22,2,Made,1,48,52,100,h,Roddy 2' Layup (9 PTS),Made Shot,Layup Shot,1,2,231
+0022301221,331,PT00M05.50S,2,1610612763,MEM,1631223,Roddy,D. Roddy,-1,6,1,Made,1,55,60,115,h,Roddy 1' Reverse Layup (11 PTS) (Aldama 3 AST),Made Shot,Reverse Layup Shot,1,2,246
+0022301221,377,PT08M41.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,2,15,2,Made,1,66,72,138,h,Roddy 2' Driving Finger Roll Layup (13 PTS) (Biyombo 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,274
+0022301221,391,PT07M21.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-55,125,14,Missed,1,,,0,h,MISS Roddy 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,283
+0022301221,405,PT05M37.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,-53,253,26,Missed,1,,,0,h,MISS Roddy 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,294
+0022301221,413,PT05M17.00S,3,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Aldama FOR Roddy,Substitution,,0,0,301
+0022301221,540,PT09M35.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,100,231,25,Missed,1,,,0,h,MISS Roddy 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,390
+0022301221,577,PT07M06.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,Roddy REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,418
+0022301221,604,PT04M24.00S,4,1610612763,MEM,1631223,Roddy,D. Roddy,0,0,0,,0,,,0,h,SUB: Williams FOR Roddy,Substitution,,0,0,440

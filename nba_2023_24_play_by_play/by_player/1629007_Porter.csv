@@ -1,0 +1,349 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300470,140,PT01M47.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,102
+0022300470,162,PT00M53.40S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter P.FOUL (P1.PN) (B.Nansel),Foul,Personal,1,0,118
+0022300470,168,PT00M06.80S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,123
+0022300470,181,PT11M50.00S,2,1610612761,TOR,1629007,Porter,J. Porter,-100,234,25,Missed,1,,,0,v,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,129
+0022300470,205,PT08M32.00S,2,1610612761,TOR,1629007,Porter,J. Porter,-39,251,25,Missed,1,,,0,v,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,150
+0022300470,208,PT08M06.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,153
+0022300470,211,PT07M51.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter L.B.FOUL (P2.T1) (J.Capers),Foul,Loose Ball,1,0,156
+0022300470,225,PT06M56.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,SUB: Poeltl FOR Porter,Substitution,,0,0,166
+0022300492,80,PT06M31.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,63
+0022300492,99,PT04M11.00S,1,1610612761,TOR,1629007,Porter,J. Porter,168,197,26,Missed,1,,,0,v,MISS Porter 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,78
+0022300492,121,PT03M31.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter S.FOUL (P1.T2) (J.Orr),Foul,Shooting,1,0,94
+0022300492,129,PT03M23.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,23,19,42,v,Porter Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,99
+0022300492,132,PT03M23.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,23,20,43,v,Porter Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,101
+0022300492,171,PT00M23.90S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,SUB: Boucher FOR Porter,Substitution,,0,0,129
+0022300492,466,PT02M47.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,339
+0022300492,476,PT02M30.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,345
+0022300492,483,PT01M08.00S,3,1610612761,TOR,1629007,Porter,J. Porter,-91,238,25,Made,1,107,93,200,v,Porter 25' 3PT Jump Shot (5 PTS) (Siakam 8 AST),Made Shot,Jump Shot,1,3,350
+0022300492,496,PT00M05.70S,3,1610612761,TOR,1629007,Porter,J. Porter,5,27,3,Made,1,107,97,204,v,Porter 3' Layup (7 PTS) (Schroder 3 AST),Made Shot,Layup Shot,1,2,359
+0022300492,500,PT00M02.40S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,SUB: Boucher FOR Porter,Substitution,,0,0,361
+0022300492,521,PT11M23.00S,4,1610612761,TOR,1629007,Porter,J. Porter,87,244,26,Made,1,110,100,210,v,Porter 26' 3PT Jump Shot (10 PTS) (Quickley 4 AST),Made Shot,Jump Shot,1,3,369
+0022300492,532,PT10M26.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,376
+0022300492,550,PT09M06.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter BLOCK (1 BLK),,,1,2,389
+0022300492,552,PT09M06.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter L.B.FOUL (P2.T2) (C.Blair),Foul,Loose Ball,1,0,391
+0022300492,570,PT08M31.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,SUB: Poeltl FOR Porter,Substitution,,0,0,403
+0022300504,109,PT03M06.00S,1,1610612761,TOR,1629007,Porter,J. Porter,-96,258,28,Missed,1,,,0,v,MISS Porter 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,79
+0022300504,124,PT01M31.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter BLOCK (1 BLK),,,1,2,92
+0022300504,141,PT00M06.30S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,SUB: Quickley FOR Porter,Substitution,,0,0,106
+0022300504,527,PT09M36.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,376
+0022300504,528,PT09M36.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,Made,1,93,112,205,v,Porter Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,377
+0022300504,538,PT08M24.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter S.FOUL (P1.T2) (M.Boland),Foul,Shooting,1,0,384
+0022300504,540,PT08M24.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,SUB: Poeltl FOR Porter,Substitution,,0,0,385
+0022300504,601,PT03M46.00S,4,1610612761,TOR,1629007,Porter,J. Porter,235,27,24,Missed,1,,,0,v,MISS Porter 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,426
+0022300504,614,PT03M29.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,434
+0022300504,621,PT02M27.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter STEAL (1 STL),,,1,0,440
+0022300516,420,PT02M44.00S,3,1610612761,TOR,1629007,Porter,J. Porter,222,115,25,Missed,1,,,0,v,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,303
+0022300516,442,PT00M48.20S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter STEAL (1 STL),,,1,0,319
+0022300516,455,PT00M27.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,SUB: Quickley FOR Porter,Substitution,,0,0,328
+0022300516,485,PT10M47.00S,4,1610612761,TOR,1629007,Porter,J. Porter,74,238,25,Missed,1,,,0,v,MISS Porter 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,344
+0022300516,496,PT10M16.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,SUB: Young FOR Porter,Substitution,,0,0,353
+0022300526,58,PT06M22.00S,1,1610612761,TOR,1629007,Porter,J. Porter,-9,16,2,Made,1,14,13,27,v,Porter 2' Alley Oop Layup (2 PTS) (Barnes 3 AST),Made Shot,Alley Oop Layup shot,1,2,39
+0022300526,64,PT05M33.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter S.FOUL (P1.T2) (T.Brothers),Foul,Shooting,1,0,42
+0022300526,71,PT05M04.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,48
+0022300526,95,PT03M40.00S,1,1610612761,TOR,1629007,Porter,J. Porter,12,166,17,Made,1,22,17,39,v,Porter 17' Pullup Jump Shot (4 PTS) (Trent Jr. 1 AST),Made Shot,Pullup Jump shot,1,2,64
+0022300526,101,PT02M44.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,69
+0022300526,102,PT02M30.00S,1,1610612761,TOR,1629007,Porter,J. Porter,10,110,11,Missed,1,,,0,v,MISS Porter 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,70
+0022300526,116,PT01M16.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter P.FOUL (P2.PN) (G.Petraitis),Foul,Personal,1,0,80
+0022300526,151,PT11M04.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,105
+0022300526,152,PT11M04.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,Made,1,28,33,61,v,Porter Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,106
+0022300526,155,PT10M33.00S,2,1610612761,TOR,1629007,Porter,J. Porter,-114,245,27,Made,1,30,36,66,v,Porter 27' 3PT Jump Shot (9 PTS) (Schroder 3 AST),Made Shot,Jump Shot,1,3,108
+0022300526,159,PT10M07.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter OFF.Foul (P3) (G.Petraitis),Foul,Offensive,1,0,111
+0022300526,161,PT10M07.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0,112
+0022300526,162,PT10M07.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,SUB: Boucher FOR Porter,Substitution,,0,0,113
+0022300526,366,PT06M14.00S,3,1610612761,TOR,1629007,Porter,J. Porter,127,235,27,Missed,1,,,0,v,MISS Porter 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,256
+0022300526,407,PT02M50.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,287
+0022300526,408,PT02M50.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,Missed,1,,,0,v,MISS Porter Putback Layup,Missed Shot,Putback Layup Shot,1,2,288
+0022300526,423,PT02M02.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter OFF.Foul (P4) (T.Brothers),Foul,Offensive,1,0,298
+0022300526,425,PT02M02.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,1,0,299
+0022300526,427,PT01M51.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,301
+0022300526,436,PT01M01.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,0,308
+0022300526,443,PT00M28.60S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,SUB: Young FOR Porter,Substitution,,0,0,313
+0022300526,486,PT10M27.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,335
+0022300526,494,PT09M54.00S,4,1610612761,TOR,1629007,Porter,J. Porter,100,243,26,Missed,1,,,0,v,MISS Porter 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,341
+0022300526,515,PT08M11.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,357
+0022300526,517,PT08M11.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,SUB: Barnes FOR Porter,Substitution,,0,0,359
+0022300540,110,PT03M46.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,84
+0022300540,132,PT02M33.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter S.FOUL (P1.T4) (R.Mott),Foul,Shooting,1,0,101
+0022300540,276,PT05M23.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,49,37,86,v,Porter Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,203
+0022300540,277,PT05M23.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,49,38,87,v,Porter Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,204
+0022300540,287,PT04M12.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter BLOCK (1 BLK),,,1,2,212
+0022300540,293,PT03M58.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,217
+0022300540,299,PT03M38.00S,2,1610612761,TOR,1629007,Porter,J. Porter,-26,256,26,Missed,1,,,0,v,MISS Porter 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,220
+0022300540,309,PT02M23.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,228
+0022300540,336,PT00M34.90S,2,1610612761,TOR,1629007,Porter,J. Porter,-29,16,3,Made,1,62,47,109,v,Porter 3' Cutting Layup Shot (4 PTS) (Barnes 2 AST),Made Shot,Cutting Layup Shot,1,2,251
+0022300540,354,PT11M45.00S,3,1610612761,TOR,1629007,Porter,J. Porter,100,10,10,Missed,1,,,0,v,MISS Porter 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,262
+0022300540,373,PT10M01.00S,3,1610612761,TOR,1629007,Porter,J. Porter,-40,255,26,Made,1,73,53,126,v,Porter 26' 3PT Jump Shot (7 PTS) (Barnes 3 AST),Made Shot,Jump Shot,1,3,273
+0022300540,378,PT09M30.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,276
+0022300540,393,PT07M57.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter STEAL (1 STL),,,1,0,288
+0022300540,410,PT06M42.00S,3,1610612761,TOR,1629007,Porter,J. Porter,96,226,25,Missed,1,,,0,v,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,300
+0022300540,418,PT06M11.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter BLOCK (2 BLK),,,1,2,307
+0022300540,449,PT03M44.00S,3,1610612761,TOR,1629007,Porter,J. Porter,29,34,4,Missed,1,,,0,v,MISS Porter 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,328
+0022300540,450,PT03M37.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,329
+0022300540,451,PT03M37.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,Made,1,93,74,167,v,Porter Putback Layup (9 PTS),Made Shot,Putback Layup Shot,1,2,330
+0022300540,462,PT02M26.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,SUB: Dick FOR Porter,Substitution,,0,0,337
+0022300540,574,PT06M34.00S,4,1610612761,TOR,1629007,Porter,J. Porter,143,210,25,Missed,1,,,0,v,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,418
+0022300540,577,PT06M16.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter STEAL (2 STL),,,1,0,422
+0022300540,603,PT04M36.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,441
+0022300563,8,PT11M40.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+0022300563,24,PT10M22.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,18
+0022300563,25,PT10M12.00S,1,1610612761,TOR,1629007,Porter,J. Porter,20,11,2,Missed,1,,,0,h,MISS Porter 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,19
+0022300563,29,PT10M08.00S,1,1610612761,TOR,1629007,Porter,J. Porter,18,34,4,Missed,1,,,0,h,MISS Porter 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,22
+0022300563,50,PT07M38.00S,1,1610612761,TOR,1629007,Porter,J. Porter,36,249,25,Missed,1,,,0,h,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,40
+0022300563,84,PT04M41.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,65
+0022300563,89,PT04M07.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,SUB: McDaniels FOR Porter,Substitution,,0,0,69
+0022300563,195,PT07M28.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter BLOCK (1 BLK),,,1,2,142
+0022300563,225,PT06M03.00S,2,1610612761,TOR,1629007,Porter,J. Porter,-40,267,27,Missed,1,,,0,h,MISS Porter 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,165
+0022300563,244,PT04M25.00S,2,1610612761,TOR,1629007,Porter,J. Porter,-22,63,7,Made,1,42,47,89,h,Porter 7' Driving Hook Shot (2 PTS) (Barrett 3 AST),Made Shot,Driving Hook Shot,1,2,181
+0022300563,246,PT04M10.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter P.FOUL (P1.T2) (T.Ford),Foul,Personal,1,0,182
+0022300563,269,PT02M18.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,198
+0022300563,279,PT02M02.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter S.FOUL (P2.PN) (T.Ford),Foul,Shooting,1,0,205
+0022300563,285,PT01M40.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter P.FOUL (P3.PN) (B.Nansel),Foul,Personal,1,0,210
+0022300563,288,PT01M40.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,SUB: Young FOR Porter,Substitution,,0,0,212
+0022300563,320,PT11M50.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter OFF.Foul (P4) (B.Nansel),Foul,Offensive,1,0,235
+0022300563,322,PT11M50.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1,0,236
+0022300563,323,PT11M50.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,SUB: Young FOR Porter,Substitution,,0,0,237
+0022300574,13,PT11M00.00S,1,1610612761,TOR,1629007,Porter,J. Porter,-13,17,2,Missed,1,,,0,h,MISS Porter 2' Running Layup,Missed Shot,Running Layup Shot,1,2,8
+0022300574,14,PT10M58.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,9
+0022300574,15,PT10M58.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,Missed,1,,,0,h,MISS Porter Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,10
+0022300574,16,PT10M57.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,11
+0022300574,19,PT10M34.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,14
+0022300574,27,PT09M46.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter BLOCK (1 BLK),,,1,2,21
+0022300574,41,PT08M37.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter P.FOUL (P1.T1) (T.Washington),Foul,Personal,1,0,31
+0022300574,46,PT07M46.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter S.FOUL (P2.T2) (R.Hussey),Foul,Shooting,1,0,35
+0022300574,49,PT07M46.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,SUB: Young FOR Porter,Substitution,,0,0,37
+0022300574,188,PT08M44.00S,2,1610612761,TOR,1629007,Porter,J. Porter,-131,238,27,Made,1,53,20,73,h,Porter 27' 3PT Jump Shot (3 PTS) (Dick 4 AST),Made Shot,Jump Shot,1,3,139
+0022300574,193,PT08M16.00S,2,1610612761,TOR,1629007,Porter,J. Porter,225,76,24,Made,1,56,20,76,h,Porter 24' 3PT Jump Shot (6 PTS) (Barrett 3 AST),Made Shot,Jump Shot,1,3,142
+0022300574,227,PT05M43.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter S.FOUL (P3.T4) (B.Taylor),Foul,Shooting,1,0,164
+0022300574,235,PT05M27.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter BLOCK (2 BLK),,,1,2,171
+0022300574,245,PT04M36.00S,2,1610612761,TOR,1629007,Porter,J. Porter,-11,151,15,Missed,1,,,0,h,MISS Porter 15' Jump Shot,Missed Shot,Jump Shot,1,2,178
+0022300574,249,PT04M07.00S,2,1610612761,TOR,1629007,Porter,J. Porter,-20,263,26,Missed,1,,,0,h,MISS Porter 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,181
+0022300574,258,PT03M10.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,190
+0022300574,262,PT03M07.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,SUB: Young FOR Porter,Substitution,,0,0,193
+0022300574,324,PT10M29.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,SUB: Young FOR Porter,Substitution,,0,0,235
+0022300574,488,PT10M13.00S,4,1610612761,TOR,1629007,Porter,J. Porter,-118,219,25,Missed,1,,,0,h,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,359
+0022300574,508,PT09M05.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,SUB: Young FOR Porter,Substitution,,0,0,375
+0022300574,603,PT01M48.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,SUB: McDaniels FOR Porter,Substitution,,0,0,438
+0022300580,7,PT11M42.00S,1,1610612761,TOR,1629007,Porter,J. Porter,-229,13,0,Missed,1,,,0,h,MISS Porter 3PT Jump Shot,Missed Shot,Jump Shot,1,3,3
+0022300580,29,PT09M36.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter P.FOUL (P1.T1) (B.Barnaky),Foul,Personal,1,0,22
+0022300580,42,PT08M33.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter L.B.FOUL (P2.T2) (Z.Zarba),Foul,Loose Ball,1,0,34
+0022300580,45,PT08M33.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,SUB: Young FOR Porter,Substitution,,0,0,36
+0022300580,170,PT11M08.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter BLOCK (1 BLK),,,1,2,123
+0022300580,180,PT10M16.00S,2,1610612761,TOR,1629007,Porter,J. Porter,-186,162,25,Made,1,34,43,77,h,Porter 25' 3PT Jump Shot (3 PTS) (Schroder 2 AST),Made Shot,Jump Shot,1,3,131
+0022300580,189,PT09M28.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter STEAL (1 STL),,,1,0,140
+0022300580,194,PT09M00.00S,2,1610612761,TOR,1629007,Porter,J. Porter,158,195,25,Made,1,37,43,80,h,Porter 25' 3PT Jump Shot (6 PTS) (Schroder 3 AST),Made Shot,Jump Shot,1,3,144
+0022300580,216,PT08M02.00S,2,1610612761,TOR,1629007,Porter,J. Porter,-4,263,26,Missed,1,,,0,h,MISS Porter 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,156
+0022300580,251,PT07M29.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Defensive Goaltending,Violation,Defensive Goaltending,1,0,162
+0022300580,230,PT06M59.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter BLOCK (2 BLK),,,1,2,168
+0022300580,231,PT06M57.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,169
+0022300580,258,PT05M07.00S,2,1610612761,TOR,1629007,Porter,J. Porter,13,11,2,Made,1,48,50,98,h,Porter 2' Layup (8 PTS) (Boucher 2 AST),Made Shot,Layup Shot,1,2,187
+0022300580,264,PT05M01.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,SUB: Young FOR Porter,Substitution,,0,0,190
+0022300580,354,PT09M20.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,256
+0022300580,358,PT09M20.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,62,67,129,h,Porter Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,258
+0022300580,359,PT09M20.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,63,67,130,h,Porter Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,259
+0022300580,371,PT08M31.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,269
+0022300580,380,PT07M40.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,278
+0022300580,385,PT07M10.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,282
+0022300580,394,PT06M46.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,SUB: Young FOR Porter,Substitution,,0,0,288
+0022300580,454,PT02M30.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,SUB: Boucher FOR Porter,Substitution,,0,0,328
+0022300580,568,PT07M10.00S,4,1610612761,TOR,1629007,Porter,J. Porter,-1,257,26,Missed,1,,,0,h,MISS Porter 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,407
+0022300580,585,PT05M46.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,SUB: Barnes FOR Porter,Substitution,,0,0,419
+0022300596,15,PT10M41.00S,1,1610612761,TOR,1629007,Porter,J. Porter,-17,13,2,Missed,1,,,0,v,MISS Porter 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,8
+0022300596,27,PT09M56.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter Violation:Kicked Ball (D.Taylor),Violation,Kicked Ball,0,0,17
+0022300596,43,PT08M19.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter STEAL (1 STL),,,1,0,30
+0022300596,47,PT08M13.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,10,11,21,v,Porter Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,32
+0022300596,48,PT08M13.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,10,12,22,v,Porter Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,33
+0022300596,80,PT05M12.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter STEAL (2 STL),,,1,0,57
+0022300596,96,PT04M39.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter BLOCK (1 BLK),,,1,2,68
+0022300596,101,PT04M31.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,SUB: Young FOR Porter,Substitution,,0,0,71
+0022300596,170,PT10M34.00S,2,1610612761,TOR,1629007,Porter,J. Porter,60,246,25,Missed,1,,,0,v,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,124
+0022300596,188,PT09M43.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,SUB: Boucher FOR Porter,Substitution,,0,0,139
+0022300596,251,PT05M17.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter STEAL (3 STL),,,1,0,184
+0022300596,256,PT04M43.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter S.FOUL (P1.T4) (E.Malloy),Foul,Shooting,1,0,187
+0022300596,264,PT04M27.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,1,0,191
+0022300596,270,PT03M52.00S,2,1610612761,TOR,1629007,Porter,J. Porter,16,4,2,Missed,1,,,0,v,MISS Porter 2' Layup,Missed Shot,Layup Shot,1,2,198
+0022300596,279,PT02M37.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,SUB: Young FOR Porter,Substitution,,0,0,204
+0022300596,311,PT11M46.00S,3,1610612761,TOR,1629007,Porter,J. Porter,4,6,1,Made,1,59,59,118,v,Porter 1' Layup (4 PTS) (Quickley 9 AST),Made Shot,Layup Shot,1,2,225
+0022300596,345,PT08M30.00S,3,1610612761,TOR,1629007,Porter,J. Porter,37,93,10,Missed,1,,,0,v,MISS Porter 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,253
+0022300596,350,PT08M07.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,SUB: Young FOR Porter,Substitution,,0,0,258
+0022300596,554,PT08M14.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,409
+0022300596,571,PT07M04.00S,4,1610612761,TOR,1629007,Porter,J. Porter,131,236,27,Missed,1,,,0,v,MISS Porter 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,423
+0022300596,578,PT06M28.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,429
+0022300596,584,PT05M37.00S,4,1610612761,TOR,1629007,Porter,J. Porter,10,4,1,Missed,1,,,0,v,MISS Porter 1' Layup,Missed Shot,Layup Shot,1,2,433
+0022300596,585,PT05M35.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,434
+0022300596,586,PT05M35.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,Made,1,110,88,198,v,Porter Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,435
+0022300596,596,PT05M00.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,SUB: Dick FOR Porter,Substitution,,0,0,445
+0022300637,106,PT03M27.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,78
+0022300637,115,PT02M15.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter S.FOUL (P1.T4) (J.DeRosa),Foul,Shooting,1,0,87
+0022300637,132,PT01M48.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,97
+0022300637,152,PT00M01.20S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,116
+0022300653,84,PT04M44.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter STEAL (1 STL),,,1,0,59
+0022300653,114,PT02M52.00S,1,1610612761,TOR,1629007,Porter,J. Porter,-26,254,26,Missed,1,,,0,v,MISS Porter 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,81
+0022300653,130,PT01M57.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,252,25,Made,1,30,21,51,v,Porter 25' 3PT Running Jump Shot (3 PTS) (Schroder 1 AST),Made Shot,Running Jump Shot,1,3,93
+0022300653,137,PT01M24.00S,1,1610612761,TOR,1629007,Porter,J. Porter,158,204,26,Made,1,32,24,56,v,Porter 26' 3PT Jump Shot (6 PTS) (Dick 2 AST),Made Shot,Jump Shot,1,3,97
+0022300653,145,PT00M46.50S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,34,25,59,v,Porter Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,102
+0022300653,146,PT00M46.50S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,34,26,60,v,Porter Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,103
+0022300653,152,PT00M01.70S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter STEAL (2 STL),,,1,0,109
+0022300653,162,PT11M14.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,117
+0022300653,184,PT09M12.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,135
+0022300653,189,PT08M47.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter P.FOUL (P1.T1) (P.Fraher),Foul,Personal,1,0,139
+0022300653,203,PT08M33.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,147
+0022300653,205,PT08M25.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,149
+0022300653,206,PT08M25.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,Missed,1,,,0,v,MISS Porter Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,150
+0022300653,207,PT08M24.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,151
+0022300653,210,PT08M24.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,MISS Porter Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,153
+0022300653,213,PT08M24.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,37,41,78,v,Porter Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,155
+0022300653,217,PT08M16.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,SUB: Young FOR Porter,Substitution,,0,0,158
+0022300653,483,PT02M33.00S,3,1610612761,TOR,1629007,Porter,J. Porter,-112,237,26,Made,1,89,89,178,v,Porter 26' 3PT Jump Shot (12 PTS) (Schroder 5 AST),Made Shot,Jump Shot,1,3,358
+0022300653,504,PT01M10.00S,3,1610612761,TOR,1629007,Porter,J. Porter,11,115,12,Missed,1,,,0,v,MISS Porter 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,374
+0022300653,521,PT00M14.60S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter S.FOUL (P2.PN) (M.Kogut),Foul,Shooting,1,0,388
+0022300653,526,PT00M08.80S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,391
+0022300653,562,PT09M22.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,414
+0022300653,603,PT07M08.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,SUB: Young FOR Porter,Substitution,,0,0,447
+0022300672,101,PT02M50.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,75
+0022300672,125,PT01M19.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter S.FOUL (P1.T1) (S.Wright),Foul,Shooting,1,0,92
+0022300672,128,PT01M08.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,94
+0022300672,135,PT00M28.50S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,100
+0022300672,138,PT00M00.80S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter STEAL (1 STL),,,1,0,104
+0022300672,154,PT11M33.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,SUB: Young FOR Porter,Substitution,,0,0,114
+0022300744,123,PT03M23.00S,1,1610612761,TOR,1629007,Porter,J. Porter,-88,237,25,Missed,1,,,0,h,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,96
+0022300744,144,PT01M44.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,111
+0022300744,152,PT01M23.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter STEAL (1 STL),,,1,0,118
+0022300744,183,PT11M26.00S,2,1610612761,TOR,1629007,Porter,J. Porter,-36,15,4,Made,1,36,22,58,h,Porter 4' Cutting Layup Shot (2 PTS) (Barnes 4 AST),Made Shot,Cutting Layup Shot,1,2,135
+0022300744,188,PT10M52.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter S.FOUL (P1.T2) (J.Van Duyne),Foul,Shooting,1,0,141
+0022300744,203,PT09M56.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,SUB: Poeltl FOR Porter,Substitution,,0,0,151
+0022300744,476,PT02M16.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,348
+0022300744,496,PT01M01.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,15,2,Made,1,85,71,156,h,Porter 2' Cutting Dunk Shot (4 PTS) (Barnes 7 AST),Made Shot,Cutting Dunk Shot,1,2,363
+0022300744,500,PT00M31.60S,3,1610612761,TOR,1629007,Porter,J. Porter,-229,-8,0,Made,1,88,71,159,h,Porter 3PT Jump Shot (7 PTS) (Barnes 8 AST),Made Shot,Jump Shot,1,3,366
+0022300744,524,PT10M21.00S,4,1610612761,TOR,1629007,Porter,J. Porter,-53,50,7,Missed,1,,,0,h,MISS Porter 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,381
+0022300744,533,PT09M40.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,389
+0022300744,534,PT09M40.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,Missed,1,,,0,h,MISS Porter Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,390
+0022300744,539,PT09M35.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,SUB: Poeltl FOR Porter,Substitution,,0,0,395
+0022300756,614,PT02M44.00S,4,1610612761,TOR,1629007,Porter,J. Porter,-88,237,25,Missed,1,,,0,h,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,448
+0022300764,640,PT04M35.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter P.FOUL (P1.T3) (J.Sterling),Foul,Personal,1,0,463
+0022300764,645,PT04M15.00S,4,1610612761,TOR,1629007,Porter,J. Porter,-1,263,26,Missed,1,,,0,h,MISS Porter 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,467
+0022300764,653,PT03M39.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter Out of Bounds Lost Ball Turnover (P1.T18),Turnover,Out of Bounds Lost Ball Turnover,1,0,475
+0022300764,656,PT03M27.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter S.FOUL (P2.T4) (T.Washington),Foul,Shooting,1,0,477
+0022300764,666,PT02M55.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,485
+0022300764,667,PT02M44.00S,4,1610612761,TOR,1629007,Porter,J. Porter,4,17,2,Made,1,94,120,214,h,Porter 2' Cutting Dunk Shot (2 PTS) (McDaniels 1 AST),Made Shot,Cutting Dunk Shot,1,2,486
+0022300764,687,PT01M33.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,500
+0022300875,399,PT05M15.00S,3,1610612761,TOR,1629007,Porter,J. Porter,-45,265,27,Missed,1,,,0,h,MISS Porter 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,305
+0022300875,440,PT02M30.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,333
+0022300875,448,PT01M56.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter L.B.FOUL (P1.T3) (M.Lindsay),Foul,Loose Ball,1,0,339
+0022300875,465,PT00M52.30S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0,349
+0022300875,573,PT04M38.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,SUB: Barrett FOR Porter,Substitution,,0,0,427
+0022300890,99,PT02M45.00S,1,1610612761,TOR,1629007,Porter,J. Porter,-21,251,25,Made,1,26,32,58,h,Porter 25' 3PT Jump Shot (3 PTS) (Quickley 3 AST),Made Shot,Jump Shot,1,3,67
+0022300890,130,PT00M30.20S,1,1610612761,TOR,1629007,Porter,J. Porter,60,98,11,Missed,1,,,0,h,MISS Porter 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,92
+0022300890,134,PT00M03.60S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,95
+0022300890,136,PT00M01.60S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter S.FOUL (P1.T2) (A.Nagy),Foul,Shooting,1,0,97
+0022300890,158,PT11M05.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,111
+0022300890,171,PT09M51.00S,2,1610612761,TOR,1629007,Porter,J. Porter,-61,250,26,Missed,1,,,0,h,MISS Porter 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,122
+0022300890,178,PT09M28.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,SUB: Olynyk FOR Porter,Substitution,,0,0,128
+0022300890,442,PT03M21.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter Out of Bounds - Bad Pass Turnover Turnover (P2.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,325
+0022300890,465,PT01M21.00S,3,1610612761,TOR,1629007,Porter,J. Porter,-32,80,9,Made,1,74,100,174,h,Porter 9' Jump Shot (5 PTS) (Freeman-Liberty 1 AST),Made Shot,Jump Shot,1,2,340
+0022300890,572,PT06M42.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,410
+0022300890,576,PT06M20.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,414
+0022300890,579,PT05M51.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter Violation:Kicked Ball (S.Wall),Violation,Kicked Ball,0,0,417
+0022300890,602,PT04M12.00S,4,1610612761,TOR,1629007,Porter,J. Porter,173,176,25,Missed,1,,,0,h,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,437
+0022300890,611,PT03M43.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,0,444
+0022300890,613,PT03M38.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter BLOCK (1 BLK),,,1,2,447
+0022300890,624,PT03M23.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,SUB: Gueye FOR Porter,Substitution,,0,0,452
+0022300937,79,PT06M32.00S,1,1610612761,TOR,1629007,Porter,J. Porter,-99,92,14,Missed,1,,,0,v,MISS Porter 14' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,58
+0022300937,84,PT06M03.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,62
+0022300937,100,PT04M50.00S,1,1610612761,TOR,1629007,Porter,J. Porter,126,216,25,Made,1,23,22,45,v,Porter 25' 3PT Jump Shot (3 PTS) (Freeman-Liberty 1 AST),Made Shot,Jump Shot,1,3,76
+0022300937,103,PT04M30.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,78
+0022300937,114,PT03M15.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter STEAL (1 STL),,,1,0,88
+0022300937,145,PT01M16.00S,1,1610612761,TOR,1629007,Porter,J. Porter,75,252,26,Missed,1,,,0,v,MISS Porter 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,108
+0022300937,171,PT11M38.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,128
+0022300937,172,PT11M38.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,Made,1,32,36,68,v,Porter Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,1,2,129
+0022300937,185,PT10M19.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,SUB: Olynyk FOR Porter,Substitution,,0,0,140
+0022300937,244,PT06M18.00S,2,1610612761,TOR,1629007,Porter,J. Porter,-82,241,25,Missed,1,,,0,v,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,182
+0022300937,278,PT04M07.00S,2,1610612761,TOR,1629007,Porter,J. Porter,-103,251,27,Made,1,40,59,99,v,Porter 27' 3PT Jump Shot (8 PTS) (Dick 2 AST),Made Shot,Jump Shot,1,3,209
+0022300937,291,PT02M59.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,SUB: Barrett FOR Porter,Substitution,,0,0,217
+0022300937,437,PT04M26.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter Violation:Kicked Ball (S.Corbin),Violation,Kicked Ball,0,0,322
+0022300937,444,PT04M00.00S,3,1610612761,TOR,1629007,Porter,J. Porter,-13,242,24,Made,1,77,93,170,v,Porter 24' 3PT Jump Shot (11 PTS) (Freeman-Liberty 2 AST),Made Shot,Jump Shot,1,3,326
+0022300937,470,PT02M02.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,345
+0022300937,480,PT01M12.00S,3,1610612761,TOR,1629007,Porter,J. Porter,235,13,24,Made,1,86,98,184,v,Porter 24' 3PT Jump Shot (14 PTS) (Barrett 9 AST),Made Shot,Jump Shot,1,3,357
+0022300937,482,PT01M02.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter P.FOUL (P1.PN) (T.Ford),Foul,Personal,1,0,358
+0022300937,575,PT07M04.00S,4,1610612761,TOR,1629007,Porter,J. Porter,168,187,25,Missed,1,,,0,v,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,419
+0022300937,577,PT06M57.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter P.FOUL (P2.T3) (S.Corbin),Foul,Personal,1,0,421
+0022300937,598,PT05M34.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,SUB: Barrett FOR Porter,Substitution,,0,0,437
+0022300946,104,PT02M16.00S,1,1610612761,TOR,1629007,Porter,J. Porter,17,46,5,Made,1,25,24,49,v,Porter 5' Driving Hook Shot (2 PTS) (Quickley 2 AST),Made Shot,Driving Hook Shot,1,2,78
+0022300946,165,PT09M56.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter BLOCK (1 BLK),,,1,2,122
+0022300946,167,PT09M53.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,123
+0022300946,176,PT09M01.00S,2,1610612761,TOR,1629007,Porter,J. Porter,-55,262,27,Made,1,32,36,68,v,Porter 27' 3PT Running Jump Shot (5 PTS) (Brown 1 AST),Made Shot,Running Jump Shot,1,3,131
+0022300946,211,PT08M27.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter BLOCK (2 BLK),,,1,2,140
+0022300946,190,PT08M16.00S,2,1610612761,TOR,1629007,Porter,J. Porter,100,244,26,Missed,1,,,0,v,MISS Porter 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,142
+0022300946,194,PT08M05.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter S.FOUL (P1.T1) (J.Williams),Foul,Shooting,1,0,144
+0022300946,218,PT07M00.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,SUB: Olynyk FOR Porter,Substitution,,0,0,161
+0022300946,451,PT03M44.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,75,74,149,v,Porter Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,335
+0022300946,452,PT03M44.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,75,75,150,v,Porter Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,336
+0022300946,473,PT02M45.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,350
+0022300946,484,PT01M46.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,360
+0022300946,495,PT01M01.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter BLOCK (3 BLK),,,1,2,371
+0022300946,504,PT00M29.30S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,378
+0022300946,522,PT11M31.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter BLOCK (4 BLK),,,1,2,391
+0022300946,524,PT11M28.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,392
+0022300946,545,PT10M02.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,MISS Porter Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,408
+0022300946,547,PT10M02.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,MISS Porter Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,410
+0022300946,550,PT09M44.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,413
+0022300946,565,PT08M15.00S,4,1610612761,TOR,1629007,Porter,J. Porter,-53,266,27,Missed,1,,,0,v,MISS Porter 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,423
+0022300946,572,PT08M01.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,SUB: Olynyk FOR Porter,Substitution,,0,0,429
+0022300946,638,PT02M43.00S,4,1610612761,TOR,1629007,Porter,J. Porter,75,252,26,Made,1,105,92,197,v,Porter 26' 3PT Jump Shot (10 PTS) (Quickley 7 AST),Made Shot,Jump Shot,1,3,477
+0022300946,647,PT02M00.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter STEAL (1 STL),,,1,0,485
+0022300946,661,PT00M43.90S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter P.FOUL (P2.T4) (J.Williams),Foul,Personal,1,0,496
+0022300946,676,PT00M17.00S,4,1610612761,TOR,1629007,Porter,J. Porter,158,243,29,Missed,1,,,0,v,MISS Porter 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,508
+0022300946,686,PT00M14.80S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,SUB: Nwora FOR Porter,Substitution,,0,0,517
+0022300963,104,PT03M38.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,77
+0022300963,138,PT00M52.30S,1,1610612761,TOR,1629007,Porter,J. Porter,-176,188,26,Missed,1,,,0,h,MISS Porter 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,106
+0022300963,165,PT11M09.00S,2,1610612761,TOR,1629007,Porter,J. Porter,-147,217,26,Missed,1,,,0,h,MISS Porter 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,122
+0022300963,179,PT09M45.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter BLOCK (1 BLK),,,1,2,136
+0022300963,200,PT07M53.00S,2,1610612761,TOR,1629007,Porter,J. Porter,32,120,12,Missed,1,,,0,h,MISS Porter 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,151
+0022300963,205,PT07M04.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter STEAL (1 STL),,,1,0,157
+0022300963,212,PT06M52.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,SUB: Olynyk FOR Porter,Substitution,,0,0,162
+0022300963,301,PT00M25.80S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter S.FOUL (P1.PN) (C.Kirkland),Foul,Shooting,1,0,227
+0022300963,387,PT07M04.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter STEAL (2 STL),,,0,0,285
+0022300963,410,PT04M57.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter BLOCK (2 BLK),,,1,2,304
+0022300963,467,PT00M14.10S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter STEAL (3 STL),,,1,0,345
+0022300963,517,PT09M07.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,380
+0022300963,521,PT08M19.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,384
+0022300963,539,PT06M48.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,397
+0022300963,548,PT06M13.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,SUB: Agbaji FOR Porter,Substitution,,0,0,404
+0022300963,620,PT00M44.70S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,456
+0022300963,621,PT00M38.10S,4,1610612761,TOR,1629007,Porter,J. Porter,44,268,27,Missed,1,,,0,h,MISS Porter 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,457
+0022300979,163,PT10M49.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter STEAL (1 STL),,,1,0,114
+0022300979,227,PT06M19.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,SUB: Olynyk FOR Porter,Substitution,,0,0,160
+0022300979,402,PT04M52.00S,3,1610612761,TOR,1629007,Porter,J. Porter,-227,105,25,Missed,1,,,0,v,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,289
+0022300979,429,PT02M59.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,308
+0022300979,441,PT02M16.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,318
+0022300979,509,PT09M07.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,369
+0022300979,526,PT08M12.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,SUB: Olynyk FOR Porter,Substitution,,0,0,378
+0022300979,589,PT03M57.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter Bad Pass Turnover (P1.T17),Turnover,Bad Pass,1,0,417
+0022300979,596,PT02M56.00S,4,1610612761,TOR,1629007,Porter,J. Porter,201,158,26,Missed,1,,,0,v,MISS Porter 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,424
+0022300979,623,PT01M54.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,441
+0022300979,627,PT01M21.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter BLOCK (1 BLK),,,1,2,445
+0022300979,635,PT00M52.90S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,451
+0022300979,636,PT00M52.90S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,Made,1,111,94,205,v,Porter Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,452
+0022300979,645,PT00M26.20S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,459
+0022300979,646,PT00M26.20S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,Missed,1,,,0,v,MISS Porter Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,460
+0022300979,647,PT00M26.20S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,v,Porter REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,461
+0022300979,648,PT00M26.20S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,Made,1,111,96,207,v,Porter Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,462
+0022300999,124,PT02M23.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,90
+0022300999,126,PT02M18.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,92
+0022300999,127,PT02M08.00S,1,1610612761,TOR,1629007,Porter,J. Porter,21,167,17,Missed,1,,,0,h,MISS Porter 17' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,93
+0022301012,82,PT05M42.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,57
+0022301012,94,PT04M56.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter BLOCK (1 BLK),,,1,2,68
+0022301012,99,PT04M45.00S,1,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter STEAL (1 STL),,,1,0,73
+0022301012,180,PT11M30.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,127
+0022301012,183,PT11M09.00S,2,1610612761,TOR,1629007,Porter,J. Porter,-44,83,9,Made,1,37,32,69,h,Porter 9' Turnaround Hook Shot (2 PTS) (Ramsey 1 AST),Made Shot,Turnaround Hook Shot,1,2,129
+0022301012,186,PT10M56.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,131
+0022301012,193,PT10M42.00S,2,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,SUB: Olynyk FOR Porter,Substitution,,0,0,136
+0022301012,432,PT04M17.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter STEAL (2 STL),,,1,0,311
+0022301012,436,PT03M59.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,314
+0022301012,458,PT02M19.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter Bad Pass Turnover (P3.T16),Turnover,Bad Pass,1,0,330
+0022301012,492,PT00M20.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,77,89,166,h,Porter Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,352
+0022301012,493,PT00M20.00S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,78,89,167,h,Porter Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,353
+0022301012,495,PT00M00.40S,3,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,Porter REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,355
+0022301012,531,PT09M15.00S,4,1610612761,TOR,1629007,Porter,J. Porter,23,257,26,Made,1,88,94,182,h,Porter 26' 3PT Jump Bank Shot (7 PTS) (Nwora 2 AST),Made Shot,Jump Bank Shot,1,3,378
+0022301012,564,PT07M04.00S,4,1610612761,TOR,1629007,Porter,J. Porter,0,0,0,,0,,,0,h,SUB: Olynyk FOR Porter,Substitution,,0,0,402
+0022301012,651,PT02M15.00S,4,1610612761,TOR,1629007,Porter,J. Porter,-207,150,26,Missed,1,,,0,h,MISS Porter 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,460

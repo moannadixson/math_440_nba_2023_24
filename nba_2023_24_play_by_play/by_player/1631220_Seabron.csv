@@ -1,0 +1,38 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300011,132,PT01M50.00S,1,1610612740,NOP,1631220,Seabron,D. Seabron,0,0,0,,0,,,0,v,Seabron REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,94
+0022300011,184,PT10M50.00S,2,1610612740,NOP,1631220,Seabron,D. Seabron,25,22,3,Missed,1,,,0,v,MISS Seabron 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,131
+0022300011,186,PT10M39.00S,2,1610612740,NOP,1631220,Seabron,D. Seabron,0,0,0,,0,,,0,v,Seabron STEAL (1 STL),,,1,0,134
+0022300011,188,PT10M34.00S,2,1610612740,NOP,1631220,Seabron,D. Seabron,-5,13,1,Missed,1,,,0,v,MISS Seabron 1' Running Layup,Missed Shot,Running Layup Shot,1,2,135
+0022300011,208,PT08M53.00S,2,1610612740,NOP,1631220,Seabron,D. Seabron,9,11,1,Missed,1,,,0,v,MISS Seabron 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,152
+0022300011,259,PT05M32.00S,2,1610612740,NOP,1631220,Seabron,D. Seabron,0,0,0,,0,,,0,v,SUB: Williamson FOR Seabron,Substitution,,0,0,190
+0022300022,703,PT01M54.00S,4,1610612740,NOP,1631220,Seabron,D. Seabron,0,0,0,,0,,,0,h,Seabron STEAL (1 STL),,,1,0,505
+0022300129,208,PT09M54.00S,2,1610612740,NOP,1631220,Seabron,D. Seabron,0,0,0,,0,,,0,h,Seabron P.FOUL (P1.T1) (D.Scott),Foul,Personal,1,0,143
+0022300129,244,PT07M25.00S,2,1610612740,NOP,1631220,Seabron,D. Seabron,-7,117,12,Missed,1,,,0,h,MISS Seabron 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,170
+0022300129,285,PT04M20.00S,2,1610612740,NOP,1631220,Seabron,D. Seabron,0,0,0,,0,58,38,96,h,Seabron Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,200
+0022300129,296,PT04M20.00S,2,1610612740,NOP,1631220,Seabron,D. Seabron,0,0,0,,0,59,38,97,h,Seabron Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,205
+0022300129,309,PT03M20.00S,2,1610612740,NOP,1631220,Seabron,D. Seabron,0,0,0,,0,,,0,h,SUB: Ryan FOR Seabron,Substitution,,0,0,216
+0022300129,574,PT10M51.00S,4,1610612740,NOP,1631220,Seabron,D. Seabron,115,62,13,Missed,1,,,0,h,MISS Seabron 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,392
+0022300129,627,PT07M37.00S,4,1610612740,NOP,1631220,Seabron,D. Seabron,0,0,0,,0,,,0,h,SUB: Daniels FOR Seabron,Substitution,,0,0,434
+0022300166,121,PT01M45.00S,1,1610612740,NOP,1631220,Seabron,D. Seabron,0,0,0,,0,23,21,44,v,Seabron Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,87
+0022300166,122,PT01M45.00S,1,1610612740,NOP,1631220,Seabron,D. Seabron,0,0,0,,0,23,22,45,v,Seabron Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,88
+0022300166,176,PT09M38.00S,2,1610612740,NOP,1631220,Seabron,D. Seabron,1,22,2,Missed,1,,,0,v,MISS Seabron 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,125
+0022300166,183,PT09M13.00S,2,1610612740,NOP,1631220,Seabron,D. Seabron,0,0,0,,0,,,0,v,SUB: Daniels FOR Seabron,Substitution,,0,0,130
+0022300166,501,PT10M14.00S,4,1610612740,NOP,1631220,Seabron,D. Seabron,1,123,12,Made,1,101,74,175,v,Seabron 12' Floating Jump Shot (4 PTS),Made Shot,Floating Jump shot,1,2,358
+0022300166,502,PT10M07.00S,4,1610612740,NOP,1631220,Seabron,D. Seabron,0,0,0,,0,,,0,v,Seabron S.FOUL (P1.T1) (K.Lane),Foul,Shooting,1,0,359
+0022300166,507,PT09M53.00S,4,1610612740,NOP,1631220,Seabron,D. Seabron,33,29,4,Missed,1,,,0,v,MISS Seabron 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,363
+0022300166,550,PT07M53.00S,4,1610612740,NOP,1631220,Seabron,D. Seabron,-227,1,0,Missed,1,,,0,v,MISS Seabron 3PT Jump Shot,Missed Shot,Jump Shot,1,3,394
+0022300166,613,PT03M37.00S,4,1610612740,NOP,1631220,Seabron,D. Seabron,0,0,0,,0,,,0,v,Seabron REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,441
+0022300166,655,PT01M04.00S,4,1610612740,NOP,1631220,Seabron,D. Seabron,25,17,3,Missed,1,,,0,v,MISS Seabron 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,474
+0022300166,656,PT01M03.00S,4,1610612740,NOP,1631220,Seabron,D. Seabron,0,0,0,,0,,,0,v,Seabron REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,475
+0022300166,657,PT01M03.00S,4,1610612740,NOP,1631220,Seabron,D. Seabron,0,0,0,Made,1,119,96,215,v,Seabron Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,476
+0022300166,662,PT00M51.60S,4,1610612740,NOP,1631220,Seabron,D. Seabron,0,0,0,,0,,,0,v,Seabron REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,480
+0022300166,668,PT00M15.20S,4,1610612740,NOP,1631220,Seabron,D. Seabron,-207,137,25,Made,1,122,101,223,v,Seabron 25' 3PT Step Back Jump Shot (9 PTS) (Lewis Jr. 2 AST),Made Shot,Step Back Jump shot,1,3,485
+0022300183,595,PT06M58.00S,4,1610612740,NOP,1631220,Seabron,D. Seabron,0,0,0,,0,,,0,h,Seabron REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,427
+0022300183,602,PT06M03.00S,4,1610612740,NOP,1631220,Seabron,D. Seabron,0,0,0,,0,,,0,h,Seabron P.FOUL (P1.T3) (P.Ransom),Foul,Personal,1,0,432
+0022300183,609,PT05M56.00S,4,1610612740,NOP,1631220,Seabron,D. Seabron,0,0,0,,0,,,0,h,Seabron REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,436
+0022300183,619,PT05M05.00S,4,1610612740,NOP,1631220,Seabron,D. Seabron,0,0,0,,0,,,0,h,Seabron S.FOUL (P2.T4) (N.Buchert),Foul,Shooting,1,0,444
+0022300183,642,PT04M45.00S,4,1610612740,NOP,1631220,Seabron,D. Seabron,0,0,0,,0,,,0,h,Seabron BLOCK (1 BLK),,,1,2,449
+0022300183,655,PT02M47.00S,4,1610612740,NOP,1631220,Seabron,D. Seabron,0,0,0,,0,,,0,h,Seabron REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,470
+0022300183,658,PT02M44.00S,4,1610612740,NOP,1631220,Seabron,D. Seabron,0,0,0,,0,111,130,241,h,Seabron Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,472
+0022300183,659,PT02M44.00S,4,1610612740,NOP,1631220,Seabron,D. Seabron,0,0,0,,0,,,0,h,MISS Seabron Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,473
+0022300183,680,PT01M00.00S,4,1610612740,NOP,1631220,Seabron,D. Seabron,-20,11,2,Made,1,119,134,253,h,Seabron 2' Driving Layup (3 PTS),Made Shot,Driving Layup Shot,1,2,491

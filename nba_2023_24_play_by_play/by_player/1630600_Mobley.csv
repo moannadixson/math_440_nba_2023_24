@@ -1,0 +1,50 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300112,593,PT04M38.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,,0,,,0,h,I. Mobley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,440
+0022300112,597,PT04M09.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,,0,,,0,h,I. Mobley S.FOUL (P1.T4) (J.Orr),Foul,Shooting,1,0,444
+0022300112,599,PT04M09.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,,0,,,0,h,SUB: Thompson FOR I. Mobley,Substitution,,0,0,445
+0022300229,557,PT07M17.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,,0,,,0,h,I. Mobley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,401
+0022300229,558,PT07M14.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,,0,,,0,h,I. Mobley OFF.Foul (P1) (J.DeRosa),Foul,Offensive,1,0,402
+0022300229,560,PT07M14.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,,0,,,0,h,I. Mobley Offensive Foul Turnover (P1.T18),Turnover,Offensive Foul Turnover,1,0,403
+0022300229,565,PT06M37.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,,0,,,0,h,I. Mobley STEAL (1 STL),,,1,0,408
+0022300229,583,PT04M22.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,4,10,1,Made,1,91,120,211,h,I. Mobley 1' Turnaround Bank Hook Shot (2 PTS),Made Shot,Turnaround Bank Hook Shot,1,2,419
+0022300229,613,PT03M00.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,-51,77,9,Missed,1,,,0,h,MISS I. Mobley 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,437
+0022300229,617,PT02M27.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,224,9,0,Missed,1,,,0,h,MISS I. Mobley 3PT Jump Shot,Missed Shot,Jump Shot,1,3,441
+0022300375,606,PT02M43.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,7,259,26,Made,1,97,116,213,h,Mobley 26' 3PT Jump Shot (3 PTS) (Bates 1 AST),Made Shot,Jump Shot,1,3,408
+0022300930,171,PT00M26.00S,1,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,,0,,,0,h,Mobley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,127
+0022300930,237,PT08M09.00S,2,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,,0,,,0,h,Mobley REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,171
+0022300930,246,PT07M24.00S,2,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,,0,,,0,h,SUB: Niang FOR Mobley,Substitution,,0,0,176
+0022300930,485,PT10M58.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,-12,32,3,Missed,1,,,0,h,MISS Mobley 3' Hook Shot,Missed Shot,Hook Shot,1,2,336
+0022300930,502,PT08M54.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,,0,,,0,h,Mobley REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,349
+0022300930,544,PT06M04.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,,0,,,0,h,Mobley REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,381
+0022300930,545,PT05M55.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,13,93,9,Missed,1,,,0,h,MISS Mobley 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,382
+0022300930,575,PT03M16.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,-5,11,1,Made,1,99,116,215,h,Mobley 1' Running Dunk (2 PTS) (Porter Jr. 4 AST),Made Shot,Running Dunk Shot,1,2,406
+0022300930,597,PT01M25.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,,0,,,0,h,Mobley S.FOUL (P1.T2) (M.Boland),Foul,Shooting,1,0,421
+0022300934,111,PT02M05.00S,1,1610612739,CLE,1630600,Mobley,I. Mobley,234,13,0,Made,1,34,24,58,h,Mobley 3PT Jump Shot (3 PTS) (Okoro 2 AST),Made Shot,Jump Shot,1,3,79
+0022300934,195,PT07M05.00S,2,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,,0,,,0,h,Mobley P.FOUL (P1.T1) (B.Schwab),Foul,Personal,1,0,132
+0022300934,199,PT06M39.00S,2,1610612739,CLE,1630600,Mobley,I. Mobley,216,118,25,Missed,1,,,0,h,MISS Mobley 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,135
+0022300934,210,PT06M19.00S,2,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,,0,,,0,h,SUB: Okoro FOR Mobley,Substitution,,0,0,145
+0022300934,445,PT02M52.00S,3,1610612739,CLE,1630600,Mobley,I. Mobley,-222,125,25,Missed,1,,,0,h,MISS Mobley 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,311
+0022300934,454,PT02M07.00S,3,1610612739,CLE,1630600,Mobley,I. Mobley,-62,240,25,Missed,1,,,0,h,MISS Mobley 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,319
+0022300934,469,PT01M24.00S,3,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,,0,,,0,h,SUB: Jones FOR Mobley,Substitution,,0,0,330
+0022300951,593,PT03M15.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,-233,-13,0,Missed,1,,,0,v,MISS Mobley 3PT Jump Shot,Missed Shot,Jump Shot,1,3,421
+0022300951,599,PT02M33.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,,0,,,0,v,Mobley S.FOUL (P1.T4) (D.Guthrie),Foul,Shooting,1,0,427
+0022300951,607,PT01M37.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,9,8,1,Made,1,90,114,204,v,Mobley 1' Layup (2 PTS),Made Shot,Layup Shot,1,2,432
+0022301158,666,PT01M35.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,,0,,,0,h,I. Mobley S.FOUL (P1.PN) (B.Barnaky),Foul,Shooting,1,0,485
+0022301158,672,PT01M12.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,74,122,14,Missed,1,,,0,h,MISS I. Mobley 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,489
+0022301158,677,PT00M42.70S,4,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,,0,,,0,h,I. Mobley REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,494
+0022301158,678,PT00M42.70S,4,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,Missed,1,,,0,h,MISS I. Mobley Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,495
+0022301187,402,PT03M49.00S,3,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,,0,,,0,h,I. Mobley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,285
+0022301187,405,PT03M32.00S,3,1610612739,CLE,1630600,Mobley,I. Mobley,-130,223,26,Made,1,87,82,169,h,I. Mobley 26' 3PT Jump Shot (3 PTS) (E. Mobley 5 AST),Made Shot,Jump Shot,1,3,288
+0022301187,419,PT02M19.00S,3,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,,0,,,0,h,I. Mobley STEAL (1 STL),,,1,0,300
+0022301187,421,PT02M17.00S,3,1610612739,CLE,1630600,Mobley,I. Mobley,1,4,0,Made,1,91,84,175,h,I. Mobley Running Dunk (5 PTS) (Bates 3 AST),Made Shot,Running Dunk Shot,1,2,301
+0022301187,438,PT01M13.00S,3,1610612739,CLE,1630600,Mobley,I. Mobley,2,-3,0,Made,1,93,84,177,h,I. Mobley Running Layup (7 PTS) (Okoro 5 AST),Made Shot,Running Layup Shot,1,2,311
+0022301187,445,PT00M00.00S,3,1610612739,CLE,1630600,Mobley,I. Mobley,6,11,1,Missed,1,,,0,h,MISS I. Mobley 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,315
+0022301187,472,PT10M57.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,,0,,,0,h,I. Mobley REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,327
+0022301187,473,PT10M55.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,0,13,1,Made,1,101,88,189,h,I. Mobley 1' Putback Layup (9 PTS),Made Shot,Putback Layup Shot,1,2,328
+0022301187,494,PT08M28.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,75,251,26,Missed,1,,,0,h,MISS I. Mobley 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,342
+0022301187,515,PT06M39.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,4,5,1,Made,1,108,102,210,h,I. Mobley 1' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,2,358
+0022301187,523,PT06M39.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,,0,,,0,h,MISS I. Mobley Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,362
+0022301187,527,PT06M09.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,-234,-1,0,Missed,1,,,0,h,MISS I. Mobley 3PT Jump Shot,Missed Shot,Jump Shot,1,3,366
+0022301187,570,PT01M58.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,,0,,,0,h,I. Mobley Lost Ball Turnover (P1.T13),Turnover,Lost Ball,1,0,402
+0022301187,585,PT01M16.00S,4,1610612739,CLE,1630600,Mobley,I. Mobley,0,0,0,,0,,,0,h,I. Mobley REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,414
+0022301187,591,PT00M33.80S,4,1610612739,CLE,1630600,Mobley,I. Mobley,43,46,6,Missed,1,,,0,h,MISS I. Mobley 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,419

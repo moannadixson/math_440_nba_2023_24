@@ -1,0 +1,423 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300042,535,PT07M44.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic S.FOUL (P1.T2) (C.Kirkland),Foul,Shooting,1,0,398
+0022300042,567,PT05M33.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic Traveling Turnover (P1.T13),Turnover,Traveling,1,0,421
+0022300042,579,PT04M36.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,429
+0022300042,580,PT04M30.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,92,249,27,Missed,1,,,0,v,MISS Samanic 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,430
+0022300042,605,PT03M05.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-230,12,0,Missed,1,,,0,v,MISS Samanic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,451
+0022300042,619,PT01M30.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,463
+0022300042,623,PT01M07.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,466
+0022300042,624,PT00M59.80S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-17,34,4,Missed,1,,,0,v,MISS Samanic 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,467
+0022300072,699,PT02M18.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,23,5,2,Made,1,111,127,238,h,Samanic 2' Dunk (2 PTS) (Fontecchio 1 AST),Made Shot,Dunk Shot,1,2,514
+0022300072,731,PT00M26.50S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-206,119,24,Missed,1,,,0,h,MISS Samanic 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,536
+0022300094,680,PT03M32.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,17,21,3,Missed,1,,,0,v,MISS Samanic 3' Layup,Missed Shot,Layup Shot,1,2,447
+0022300094,641,PT03M28.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic STEAL (1 STL),,,1,0,451
+0022300094,655,PT02M24.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-1,4,0,Missed,1,,,0,v,MISS Samanic Driving Layup,Missed Shot,Driving Layup Shot,1,2,462
+0022300094,659,PT02M06.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,12,6,1,Made,1,120,96,216,v,Samanic 1' Cutting Dunk Shot (2 PTS) (Dunn 2 AST),Made Shot,Cutting Dunk Shot,1,2,466
+0022300094,667,PT01M05.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-228,-32,0,Made,1,124,102,226,v,Samanic 3PT Jump Shot (5 PTS) (Dunn 3 AST),Made Shot,Jump Shot,1,3,470
+0022300094,670,PT00M51.40S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,472
+0022300138,679,PT01M45.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,486
+0022300138,680,PT01M33.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-227,36,0,Missed,1,,,0,v,MISS Samanic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,487
+0022300138,692,PT00M31.70S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,497
+0022300138,693,PT00M28.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,7,20,2,Made,1,121,94,215,v,Samanic 2' Layup (2 PTS) (Sexton 4 AST),Made Shot,Layup Shot,1,2,498
+0022300138,697,PT00M28.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,121,95,216,v,Samanic Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,500
+0022300152,639,PT01M08.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,148,209,26,Missed,1,,,0,v,MISS Samanic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,462
+0022300152,647,PT00M38.80S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,470
+0022300152,650,PT00M29.10S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic P.FOUL (P1.PN) (S.Twardoski),Foul,Personal,1,0,472
+0022300152,654,PT00M18.50S,4,1610612762,UTA,1629677,Samanic,L. Samanic,237,4,24,Made,1,130,113,243,v,Samanic 24' 3PT Jump Shot (3 PTS) (Sexton 2 AST),Made Shot,Jump Shot,1,3,475
+0022300261,549,PT05M03.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,404
+0022300261,594,PT03M26.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic BLOCK (1 BLK),,,1,2,424
+0022300261,586,PT02M31.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-234,7,0,Made,1,103,88,191,v,Samanic 3PT Jump Shot (3 PTS) (Horton-Tucker 3 AST),Made Shot,Jump Shot,1,3,439
+0022300261,591,PT02M03.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,15,18,2,Made,1,103,90,193,v,Samanic 2' Running Finger Roll Layup (5 PTS) (Sexton 3 AST),Made Shot,Running Finger Roll Layup Shot,1,2,443
+0022300261,628,PT00M21.20S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,464
+0022300261,629,PT00M21.20S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic Lost Ball Turnover (P1.T18),Turnover,Lost Ball,1,0,465
+0022300270,122,PT01M51.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,91
+0022300270,123,PT01M50.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,92
+0022300270,133,PT00M59.70S,1,1610612762,UTA,1629677,Samanic,L. Samanic,34,47,6,Missed,1,,,0,v,MISS Samanic 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,99
+0022300270,165,PT10M27.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,-15,10,2,Made,1,23,29,52,v,Samanic 2' Layup (2 PTS) (Sexton 2 AST),Made Shot,Layup Shot,1,2,120
+0022300270,168,PT10M07.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,122
+0022300270,174,PT09M47.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,127
+0022300270,185,PT09M05.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,136
+0022300270,215,PT07M32.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,-72,-6,7,Missed,1,,,0,v,MISS Samanic 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,155
+0022300270,231,PT06M45.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,SUB: Fontecchio FOR Samanic,Substitution,,0,0,169
+0022300270,494,PT11M32.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-228,11,0,Missed,1,,,0,v,MISS Samanic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,359
+0022300270,503,PT10M29.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,366
+0022300270,526,PT08M36.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,SUB: George FOR Samanic,Substitution,,0,0,383
+0022300289,133,PT02M10.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic L.B.FOUL (P1.T2) (S.Wright),Foul,Loose Ball,1,0,102
+0022300289,146,PT01M15.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,34,18,4,Missed,1,,,0,h,MISS Samanic 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,110
+0022300289,150,PT00M31.30S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic BLOCK (1 BLK),,,1,2,115
+0022300289,162,PT11M43.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,2,26,3,Missed,1,,,0,h,MISS Samanic 3' Layup,Missed Shot,Layup Shot,1,2,123
+0022300289,171,PT11M10.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic P.FOUL (P2.T1) (S.Wright),Foul,Personal,1,0,130
+0022300289,176,PT11M00.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic S.FOUL (P3.T2) (S.Wright),Foul,Shooting,1,0,132
+0022300289,178,PT11M00.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,SUB: Fontecchio FOR Samanic,Substitution,,0,0,133
+0022300289,460,PT02M29.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,335
+0022300289,470,PT01M17.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,99,234,25,Missed,1,,,0,h,MISS Samanic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,343
+0022300289,474,PT01M02.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,31,-2,3,Made,1,80,72,152,h,Samanic 3' Layup (2 PTS) (Sexton 2 AST),Made Shot,Layup Shot,1,2,347
+0022300289,503,PT11M40.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,365
+0022300289,514,PT10M57.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,373
+0022300289,541,PT08M37.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,183,183,26,Missed,1,,,0,h,MISS Samanic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,397
+0022300289,578,PT06M39.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,SUB: Fontecchio FOR Samanic,Substitution,,0,0,421
+0022300302,230,PT07M06.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,-55,251,26,Missed,1,,,0,v,MISS Samanic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,160
+0022300302,235,PT06M57.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic S.FOUL (P1.T3) (D.Scott),Foul,Shooting,1,0,165
+0022300302,247,PT06M23.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,172
+0022300302,252,PT05M50.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,-21,-1,2,Made,1,52,35,87,v,Samanic 2' Layup (2 PTS) (Dunn 3 AST),Made Shot,Layup Shot,1,2,176
+0022300302,282,PT04M43.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,SUB: Olynyk FOR Samanic,Substitution,,0,0,196
+0022300302,502,PT01M26.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic S.FOUL (P2.PN) (T.Maddox),Foul,Shooting,1,0,361
+0022300302,508,PT01M23.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,365
+0022300302,517,PT00M27.30S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,371
+0022300302,550,PT10M32.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,228,39,0,Missed,1,,,0,v,MISS Samanic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,395
+0022300302,567,PT09M21.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,222,-27,0,Made,1,117,88,205,v,Samanic 3PT Jump Shot (5 PTS) (George 4 AST),Made Shot,Jump Shot,1,3,408
+0022300302,579,PT08M29.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,416
+0022300302,580,PT08M25.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-2,23,2,Made,1,119,90,209,v,Samanic 2' Running Dunk (7 PTS),Made Shot,Running Dunk Shot,1,2,417
+0022300302,599,PT06M45.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,432
+0022300302,609,PT06M19.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic Out of Bounds Lost Ball Turnover (P1.T16),Turnover,Out of Bounds Lost Ball Turnover,1,0,439
+0022300302,614,PT05M48.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-12,12,2,Made,1,124,101,225,v,Samanic 2' Driving Layup (9 PTS) (George 5 AST),Made Shot,Driving Layup Shot,1,2,443
+0022300302,620,PT04M54.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-18,12,2,Made,1,126,106,232,v,Samanic 2' Driving Layup (11 PTS) (Dunn 7 AST),Made Shot,Driving Layup Shot,1,2,448
+0022300302,623,PT04M17.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-5,268,27,Missed,1,,,0,v,MISS Samanic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,450
+0022300302,628,PT03M59.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,13,18,2,Made,1,129,108,237,v,Samanic 2' Cutting Layup Shot (13 PTS) (George 6 AST),Made Shot,Cutting Layup Shot,1,2,454
+0022300302,632,PT03M59.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,129,109,238,v,Samanic Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,1,0,456
+0022300302,639,PT03M31.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-20,37,4,Missed,1,,,0,v,MISS Samanic 4' Running Layup,Missed Shot,Running Layup Shot,1,2,462
+0022300302,655,PT01M56.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,474
+0022300302,656,PT01M53.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic OFF.Foul (P3) (T.Brothers),Foul,Offensive,1,0,475
+0022300302,658,PT01M53.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic Offensive Foul Turnover (P2.T17),Turnover,Offensive Foul Turnover,1,0,476
+0022300302,670,PT00M58.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,484
+0022300357,655,PT00M49.50S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-26,151,15,Made,1,122,103,225,h,Samanic 15' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,2,481
+0022300357,659,PT00M40.10S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic S.FOUL (P1.T2) (R.Hussey),Foul,Shooting,1,0,485
+0022300357,662,PT00M39.10S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,487
+0022300357,663,PT00M17.20S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-157,228,28,Made,1,125,105,230,h,Samanic 28' 3PT Jump Shot (5 PTS) (Sexton 6 AST),Made Shot,Jump Shot,1,3,488
+0022300374,487,PT01M24.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,341
+0022300374,488,PT01M23.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,-25,25,4,Missed,1,,,0,v,MISS Samanic 4' Layup,Missed Shot,Layup Shot,1,2,342
+0022300374,522,PT11M40.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,369
+0022300374,523,PT11M28.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-20,5,2,Missed,1,,,0,v,MISS Samanic 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,370
+0022300374,528,PT10M33.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-53,-1,5,Missed,1,,,0,v,MISS Samanic 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,375
+0022300374,559,PT08M38.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,400
+0022300374,563,PT08M02.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-15,-7,2,Missed,1,,,0,v,MISS Samanic 2' Layup,Missed Shot,Layup Shot,1,2,404
+0022300374,567,PT07M52.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,407
+0022300374,577,PT07M08.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,233,85,25,Missed,1,,,0,v,MISS Samanic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,414
+0022300374,585,PT06M55.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic P.FOUL (P1.T1) (Z.Zarba),Foul,Personal,1,0,420
+0022300374,593,PT06M26.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,97,103,200,v,Samanic Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,425
+0022300374,594,PT06M26.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,97,104,201,v,Samanic Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,426
+0022300374,596,PT06M00.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,428
+0022300374,622,PT04M24.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,SUB: Fontecchio FOR Samanic,Substitution,,0,0,449
+0022300457,643,PT03M14.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,51,26,6,Missed,1,,,0,h,MISS Samanic 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,455
+0022300457,644,PT03M10.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,456
+0022300457,645,PT03M10.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,22,0,2,Missed,1,,,0,h,MISS Samanic 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,457
+0022300457,673,PT00M51.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,18,40,4,Made,1,127,88,215,h,Samanic 4' Cutting Dunk Shot (2 PTS) (George 3 AST),Made Shot,Cutting Dunk Shot,1,2,479
+0022300457,676,PT00M17.90S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-28,52,6,Missed,1,,,0,h,MISS Samanic 6' Hook Shot,Missed Shot,Hook Shot,1,2,481
+0022300479,573,PT09M10.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,437
+0022300479,596,PT07M11.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic Out of Bounds - Bad Pass Turnover Turnover (P1.T15),Turnover,Out of Bounds - Bad Pass Turnover,1,0,455
+0022300479,603,PT06M43.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic Bad Pass Turnover (P2.T16),Turnover,Bad Pass,1,0,461
+0022300479,608,PT06M34.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,466
+0022300479,609,PT06M34.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-18,11,2,Made,1,112,85,197,v,Samanic 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,467
+0022300479,612,PT06M34.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,112,86,198,v,Samanic Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,469
+0022300479,627,PT05M36.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,479
+0022300479,628,PT05M28.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-7,55,6,Missed,1,,,0,v,MISS Samanic 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,480
+0022300479,634,PT05M03.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,117,89,206,v,Samanic Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,484
+0022300479,635,PT05M03.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,117,90,207,v,Samanic Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,485
+0022300479,641,PT04M25.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,490
+0022300479,666,PT03M03.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,MISS Samanic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,508
+0022300479,668,PT03M03.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,121,91,212,v,Samanic Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,510
+0022300479,696,PT01M13.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,532
+0022300479,697,PT01M04.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,145,222,27,Missed,1,,,0,v,MISS Samanic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,533
+0022300524,670,PT02M03.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,MISS Samanic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,476
+0022300524,672,PT02M03.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,124,103,227,h,Samanic Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,478
+0022300540,606,PT04M30.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,444
+0022300540,607,PT04M30.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic Bad Pass Turnover (P1.T14),Turnover,Bad Pass,1,0,445
+0022300540,609,PT04M29.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic S.FOUL (P1.T3) (E.Scott),Foul,Shooting,1,0,447
+0022300540,623,PT03M39.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,127,101,228,h,Samanic Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,458
+0022300540,628,PT03M39.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,128,101,229,h,Samanic Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,461
+0022300540,634,PT03M15.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-31,36,5,Missed,1,,,0,h,MISS Samanic 5' Running Layup,Missed Shot,Running Layup Shot,1,2,465
+0022300540,666,PT00M53.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic S.FOUL (P2.PN) (R.Mott),Foul,Shooting,1,0,490
+0022300540,670,PT00M42.50S,4,1610612762,UTA,1629677,Samanic,L. Samanic,21,18,3,Made,1,142,110,252,h,Samanic 3' Cutting Layup Shot (4 PTS) (Hendricks 1 AST),Made Shot,Cutting Layup Shot,1,2,493
+0022300564,673,PT01M41.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,492
+0022300564,678,PT01M03.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic S.FOUL (P1.PN) (B.Kennedy),Foul,Shooting,1,0,497
+0022300616,682,PT00M23.20S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-172,178,25,Missed,1,,,0,v,MISS Samanic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,487
+0022300660,627,PT03M59.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,7,-1,1,Made,1,132,107,239,v,Samanic 1' Layup (2 PTS) (Horton-Tucker 2 AST),Made Shot,Layup Shot,1,2,470
+0022300660,634,PT03M27.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic S.FOUL (P1.T1) (M.Smith),Foul,Shooting,1,0,475
+0022300660,657,PT02M41.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,492
+0022300660,660,PT02M41.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,MISS Samanic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,494
+0022300660,664,PT02M41.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,138,108,246,v,Samanic Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,497
+0022300660,677,PT01M14.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic BLOCK (1 BLK),,,1,3,509
+0022300660,693,PT00M41.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,147,113,260,v,Samanic Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,519
+0022300660,694,PT00M41.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,147,114,261,v,Samanic Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,520
+0022300724,146,PT00M23.30S,1,1610612762,UTA,1629677,Samanic,L. Samanic,-235,12,24,Missed,1,,,0,h,MISS Samanic 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,106
+0022300724,172,PT10M35.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic Step Out of Bounds Turnover (P1.T7),Turnover,Step Out of Bounds Turnover,1,0,123
+0022300724,174,PT10M12.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic Traveling Turnover (P2.T8),Turnover,Traveling,1,0,125
+0022300724,187,PT09M02.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,135
+0022300724,190,PT08M54.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,MISS Samanic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,137
+0022300724,192,PT08M54.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,34,41,75,h,Samanic Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,139
+0022300724,196,PT08M08.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,4,67,7,Missed,1,,,0,h,MISS Samanic 7' Layup,Missed Shot,Layup Shot,1,2,143
+0022300724,197,PT08M06.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,144
+0022300724,200,PT08M06.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,35,43,78,h,Samanic Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,146
+0022300724,207,PT08M06.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,36,43,79,h,Samanic Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,150
+0022300724,211,PT07M28.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic P.FOUL (P1.T2) (E.Malloy),Foul,Personal,1,0,153
+0022300724,215,PT07M09.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,-170,188,25,Missed,1,,,0,h,MISS Samanic 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,158
+0022300724,223,PT06M52.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,SUB: Markkanen FOR Samanic,Substitution,,0,0,163
+0022300769,659,PT01M37.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic S.FOUL (P1.T3) (P.Fraher),Foul,Shooting,1,0,484
+0022300769,667,PT01M06.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,491
+0022300788,644,PT01M13.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,466
+0022300788,645,PT01M04.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,50,252,26,Made,1,121,136,257,h,Samanic 26' 3PT Jump Shot (3 PTS) (Lewis Jr. 2 AST),Made Shot,Jump Shot,1,3,467
+0022300825,694,PT00M57.10S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic Out of Bounds Lost Ball Turnover (P1.T17),Turnover,Out of Bounds Lost Ball Turnover,1,0,500
+0022300850,90,PT04M41.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic S.FOUL (P1.T3) (J.Conley),Foul,Shooting,1,0,64
+0022300850,98,PT04M03.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,-29,20,4,Made,1,21,18,39,v,Samanic 4' Driving Layup (2 PTS) (George 3 AST),Made Shot,Driving Layup Shot,1,2,70
+0022300850,104,PT04M03.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,21,19,40,v,Samanic Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,73
+0022300850,106,PT03M47.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,75
+0022300850,115,PT03M02.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic S.FOUL (P2.T4) (J.Conley),Foul,Shooting,1,0,82
+0022300850,125,PT02M25.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,89
+0022300850,142,PT02M05.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,101
+0022300850,150,PT01M13.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,-12,253,25,Missed,1,,,0,v,MISS Samanic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,108
+0022300850,154,PT00M42.70S,1,1610612762,UTA,1629677,Samanic,L. Samanic,-124,230,26,Missed,1,,,0,v,MISS Samanic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,111
+0022300850,159,PT00M13.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,116
+0022300850,491,PT10M20.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-4,263,26,Made,1,86,87,173,v,Samanic 26' 3PT Jump Shot (6 PTS) (Clarkson 3 AST),Made Shot,Jump Shot,1,3,358
+0022300850,506,PT09M20.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-26,26,4,Missed,1,,,0,v,MISS Samanic 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,366
+0022300850,513,PT08M31.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,20,2,Made,1,91,89,180,v,Samanic 2' Cutting Dunk Shot (8 PTS) (Clarkson 4 AST),Made Shot,Cutting Dunk Shot,1,2,373
+0022300850,546,PT05M52.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,SUB: Markkanen FOR Samanic,Substitution,,0,0,398
+0022300867,243,PT06M47.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,SUB: Markkanen FOR Samanic,Substitution,,0,0,176
+0022300882,19,PT10M05.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic BLOCK (1 BLK),,,1,2,12
+0022300882,55,PT07M23.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,-39,68,8,Missed,1,,,0,h,MISS Samanic 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,39
+0022300882,61,PT07M19.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,SUB: Sensabaugh FOR Samanic,Substitution,,0,0,44
+0022300882,150,PT01M27.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,6,252,25,Missed,1,,,0,h,MISS Samanic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,105
+0022300882,165,PT00M24.50S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic BLOCK (2 BLK),,,1,3,119
+0022300882,187,PT11M25.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,-10,257,26,Missed,1,,,0,h,MISS Samanic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,130
+0022300882,197,PT09M58.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,228,17,0,Missed,1,,,0,h,MISS Samanic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,139
+0022300882,204,PT09M50.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,SUB: Collins FOR Samanic,Substitution,,0,0,144
+0022300882,350,PT11M15.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,-227,-13,0,Made,1,79,75,154,h,Samanic 3PT Jump Shot (3 PTS) (Clarkson 4 AST),Made Shot,Jump Shot,1,3,251
+0022300882,378,PT09M02.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,-66,6,7,Missed,1,,,0,h,MISS Samanic 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,276
+0022300882,395,PT07M20.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,148,251,29,Missed,1,,,0,h,MISS Samanic 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,290
+0022300882,397,PT07M07.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic STEAL (1 STL),,,1,0,293
+0022300882,403,PT07M04.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,SUB: Sensabaugh FOR Samanic,Substitution,,0,0,296
+0022300882,488,PT01M21.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,-22,13,3,Made,1,98,101,199,h,Samanic 3' Reverse Layup (5 PTS) (Sensabaugh 2 AST),Made Shot,Reverse Layup Shot,1,2,363
+0022300882,494,PT00M28.30S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,368
+0022300882,505,PT11M20.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-17,43,5,Missed,1,,,0,h,MISS Samanic 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,373
+0022300882,543,PT08M02.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,403
+0022300882,562,PT06M47.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,SUB: Clarkson FOR Samanic,Substitution,,0,0,416
+0022300898,9,PT11M43.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic OFF.Foul (P1) (E.Scott),Foul,Offensive,1,0,4
+0022300898,11,PT11M43.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,0,5
+0022300898,19,PT10M39.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,10
+0022300898,30,PT09M48.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,39,11,4,Missed,1,,,0,h,MISS Samanic 4' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,20
+0022300898,31,PT09M44.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,21
+0022300898,32,PT09M44.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,Missed,1,,,0,h,MISS Samanic Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,22
+0022300898,48,PT08M20.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,58,68,9,Missed,1,,,0,h,MISS Samanic 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,34
+0022300898,52,PT08M00.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,15,72,7,Made,1,9,12,21,h,Samanic 7' Floating Jump Shot (2 PTS) (Sexton 3 AST),Made Shot,Floating Jump shot,1,2,37
+0022300898,65,PT06M26.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,-39,258,26,Missed,1,,,0,h,MISS Samanic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,46
+0022300898,79,PT05M16.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,SUB: Horton-Tucker FOR Samanic,Substitution,,0,0,58
+0022300898,238,PT05M10.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,-229,26,0,Missed,1,,,0,h,MISS Samanic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,173
+0022300898,264,PT03M13.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,192
+0022300898,265,PT03M11.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,193
+0022300898,285,PT01M31.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,-112,224,25,Missed,1,,,0,h,MISS Samanic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,208
+0022300898,330,PT09M39.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic S.FOUL (P2.T1) (K.Scott),Foul,Shooting,1,0,244
+0022300898,345,PT08M06.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,-237,78,25,Made,1,65,70,135,h,Samanic 25' 3PT Jump Shot (5 PTS) (Dunn 3 AST),Made Shot,Jump Shot,1,3,256
+0022300898,378,PT05M15.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,-45,21,5,Made,1,71,80,151,h,Samanic 5' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,281
+0022300898,383,PT05M04.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,SUB: Clarkson FOR Samanic,Substitution,,0,0,286
+0022300922,66,PT05M26.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,49
+0022300922,85,PT04M22.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,-161,194,25,Missed,1,,,0,v,MISS Samanic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,61
+0022300922,93,PT04M02.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic BLOCK (1 BLK),,,1,2,70
+0022300922,96,PT03M59.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic L.B.FOUL (P1.T2) (N.Buchert),Foul,Loose Ball,1,0,74
+0022300922,114,PT03M04.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic OFF.Foul (P2) (N.Buchert),Foul,Offensive,1,0,82
+0022300922,116,PT03M04.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,83
+0022300922,123,PT02M24.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,60,254,26,Missed,1,,,0,v,MISS Samanic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,87
+0022300922,134,PT02M06.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,SUB: George FOR Samanic,Substitution,,0,0,95
+0022300922,422,PT04M32.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,5,15,2,Made,1,95,69,164,v,Samanic 2' Cutting Finger Roll Layup Shot (2 PTS) (George 3 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,299
+0022300922,428,PT04M32.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,95,70,165,v,Samanic Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,302
+0022300922,439,PT04M02.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,311
+0022300922,462,PT02M01.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,327
+0022300922,467,PT01M17.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,-172,184,25,Missed,1,,,0,v,MISS Samanic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,331
+0022300922,496,PT11M28.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,33,19,4,Made,1,104,90,194,v,Samanic 4' Hook Shot (5 PTS),Made Shot,Hook Shot,1,2,347
+0022300922,522,PT08M52.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,20,15,3,Missed,1,,,0,v,MISS Samanic 3' Running Layup,Missed Shot,Running Layup Shot,1,2,368
+0022300922,531,PT08M29.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,115,98,213,v,Samanic Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,375
+0022300922,532,PT08M29.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,115,99,214,v,Samanic Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,376
+0022300922,537,PT08M17.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,380
+0022300922,547,PT07M39.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic S.FOUL (P3.T4) (M.Lindsay),Foul,Shooting,1,0,387
+0022300922,558,PT06M23.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,395
+0022300922,563,PT06M03.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,SUB: Collins FOR Samanic,Substitution,,0,0,399
+0022300943,18,PT10M30.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,11
+0022300943,36,PT08M33.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,25,25,4,Made,1,13,12,25,h,Samanic 4' Driving Dunk (2 PTS) (Sexton 2 AST),Made Shot,Driving Dunk Shot,1,2,25
+0022300943,61,PT07M13.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,39
+0022300943,81,PT06M05.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,54
+0022300943,101,PT04M47.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,SUB: Kessler FOR Samanic,Substitution,,0,0,69
+0022300943,331,PT10M09.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,230
+0022300943,344,PT08M18.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,137,208,25,Made,1,70,84,154,h,Samanic 25' 3PT Jump Shot (5 PTS) (Sexton 4 AST),Made Shot,Jump Shot,1,3,241
+0022300943,354,PT07M45.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,248
+0022300943,355,PT07M37.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,20,67,7,Missed,1,,,0,h,MISS Samanic 7' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,249
+0022300943,358,PT07M22.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,252
+0022300943,359,PT07M21.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,9,47,5,Missed,1,,,0,h,MISS Samanic 5' Running Layup,Missed Shot,Running Layup Shot,1,2,253
+0022300943,364,PT07M17.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,257
+0022300943,367,PT07M17.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,71,84,155,h,Samanic Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,259
+0022300943,368,PT07M17.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,72,84,156,h,Samanic Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,260
+0022300943,403,PT04M54.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,SUB: Clarkson FOR Samanic,Substitution,,0,0,285
+0022301000,621,PT03M01.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic S.FOUL (P1.PN) (K.Lane),Foul,Shooting,1,0,460
+0022301058,121,PT03M15.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,91
+0022301058,146,PT00M42.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic S.FOUL (P1.T2) (S.Wall),Foul,Shooting,1,0,107
+0022301058,154,PT00M11.50S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,114
+0022301058,182,PT11M34.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,127
+0022301058,189,PT10M59.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,MISS Samanic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,131
+0022301058,191,PT10M59.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,MISS Samanic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,133
+0022301058,194,PT10M48.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,136
+0022301058,209,PT09M57.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,SUB: Collins FOR Samanic,Substitution,,0,0,148
+0022301058,477,PT00M38.60S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,336
+0022301100,103,PT03M15.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,63
+0022301100,104,PT02M59.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,-29,27,4,Made,1,23,31,54,h,Samanic 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,64
+0022301100,111,PT02M59.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,MISS Samanic Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,68
+0022301100,125,PT02M03.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,79
+0022301100,164,PT10M38.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,230,12,0,Missed,1,,,0,h,MISS Samanic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,107
+0022301100,167,PT10M19.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,110
+0022301100,200,PT08M08.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,98,238,26,Made,1,34,46,80,h,Samanic 26' 3PT Jump Shot (5 PTS) (Sexton 1 AST),Made Shot,Jump Shot,1,3,135
+0022301100,214,PT06M59.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,146
+0022301100,215,PT06M42.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,147
+0022301100,222,PT06M38.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,SUB: Hendricks FOR Samanic,Substitution,,0,0,153
+0022301100,474,PT00M37.60S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,78,95,173,h,Samanic Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,339
+0022301100,477,PT00M37.60S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,79,95,174,h,Samanic Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,341
+0022301100,478,PT00M30.50S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic S.FOUL (P1.PN) (C.Washington),Foul,Shooting,1,0,342
+0022301100,493,PT11M24.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,27,48,6,Made,1,83,100,183,h,Samanic 6' Driving Dunk (9 PTS) (Lewis Jr. 2 AST),Made Shot,Driving Dunk Shot,1,2,351
+0022301100,497,PT10M57.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,18,247,25,Missed,1,,,0,h,MISS Samanic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,353
+0022301100,500,PT10M46.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,356
+0022301100,503,PT10M41.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,84,102,186,h,Samanic Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,358
+0022301100,504,PT10M41.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,85,102,187,h,Samanic Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,359
+0022301100,514,PT09M24.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic BLOCK (1 BLK),,,1,3,368
+0022301100,519,PT09M15.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,89,107,196,h,Samanic Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,371
+0022301100,526,PT09M15.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,MISS Samanic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,375
+0022301100,557,PT06M45.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,235,8,24,Missed,1,,,0,h,MISS Samanic 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,396
+0022301100,563,PT06M34.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,SUB: Hendricks FOR Samanic,Substitution,,0,0,401
+0022301126,104,PT03M41.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,10,55,6,Missed,1,,,0,v,MISS Samanic 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,75
+0022301126,131,PT02M06.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,96
+0022301126,143,PT00M51.40S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,SUB: Horton-Tucker FOR Samanic,Substitution,,0,0,106
+0022301142,145,PT11M49.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,23,15,3,Missed,1,,,0,v,MISS Samanic 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,105
+0022301142,153,PT10M48.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,-200,169,26,Missed,1,,,0,v,MISS Samanic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,113
+0022301142,198,PT07M39.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,-151,228,27,Missed,1,,,0,v,MISS Samanic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,146
+0022301142,204,PT06M58.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,21,60,6,Missed,1,,,0,v,MISS Samanic 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,151
+0022301142,212,PT06M38.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,SUB: Hendricks FOR Samanic,Substitution,,0,0,158
+0022301154,20,PT09M59.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,-31,43,5,Missed,1,,,0,h,MISS Samanic 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,12
+0022301154,21,PT09M56.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,13
+0022301154,22,PT09M55.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,-26,27,4,Missed,1,,,0,h,MISS Samanic 4' Layup,Missed Shot,Layup Shot,1,2,14
+0022301154,35,PT08M58.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,25
+0022301154,51,PT07M25.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,39
+0022301154,52,PT07M12.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,58,21,6,Missed,1,,,0,h,MISS Samanic 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,40
+0022301154,56,PT07M07.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Jump Ball Samanic vs. Murray: Tip to George,Jump Ball,,1,0,44
+0022301154,77,PT05M19.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,SUB: Sensabaugh FOR Samanic,Substitution,,0,0,59
+0022301154,101,PT02M57.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,-72,27,8,Missed,1,,,0,h,MISS Samanic 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,74
+0022301154,123,PT01M36.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,SUB: Yurtseven FOR Samanic,Substitution,,0,0,94
+0022301154,260,PT02M46.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,197
+0022301154,278,PT00M58.60S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,211
+0022301154,300,PT11M32.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,58,29,6,Missed,1,,,0,h,MISS Samanic 6' Layup,Missed Shot,Layup Shot,1,2,228
+0022301154,304,PT11M25.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,4,32,3,Made,1,55,65,120,h,Samanic 3' Driving Layup (2 PTS) (Yurtseven 2 AST),Made Shot,Driving Layup Shot,1,2,231
+0022301154,311,PT10M29.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,1,57,6,Missed,1,,,0,h,MISS Samanic 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,235
+0022301154,312,PT10M26.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,236
+0022301154,313,PT10M13.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,1,63,6,Made,1,57,67,124,h,Samanic 6' Hook Shot (4 PTS),Made Shot,Hook Shot,1,2,237
+0022301154,318,PT09M14.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,191,167,25,Missed,1,,,0,h,MISS Samanic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,242
+0022301154,340,PT07M26.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,-44,22,5,Made,1,65,71,136,h,Samanic 5' Driving Dunk (6 PTS),Made Shot,Driving Dunk Shot,1,2,258
+0022301154,366,PT05M04.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,278
+0022301154,377,PT04M15.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,SUB: Sensabaugh FOR Samanic,Substitution,,0,0,287
+0022301154,481,PT09M03.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,364
+0022301154,507,PT06M45.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,85,94,179,h,Samanic Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,385
+0022301154,508,PT06M45.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,86,94,180,h,Samanic Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,386
+0022301154,516,PT06M15.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,22,35,4,Made,1,88,95,183,h,Samanic 4' Turnaround Bank Hook Shot (10 PTS),Made Shot,Turnaround Bank Hook Shot,1,2,391
+0022301154,526,PT04M47.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,402
+0022301154,527,PT04M44.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-16,40,4,Made,1,90,101,191,h,Samanic 4' Hook Shot (12 PTS),Made Shot,Hook Shot,1,2,403
+0022301154,542,PT03M40.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,412
+0022301154,543,PT03M34.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,59,247,25,Missed,1,,,0,h,MISS Samanic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,413
+0022301154,548,PT03M11.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,20,42,5,Missed,1,,,0,h,MISS Samanic 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,417
+0022301154,550,PT03M10.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Jump Ball Samanic vs. Murray: Tip to George,Jump Ball,,1,0,420
+0022301154,587,PT00M59.70S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-227,6,0,Made,1,95,111,206,h,Samanic 3PT Jump Shot (15 PTS) (George 5 AST),Made Shot,Jump Shot,1,3,447
+0022301154,590,PT00M50.80S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,449
+0022301168,9,PT11M27.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,6,35,4,Missed,1,,,0,h,MISS Samanic 4' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,4
+0022301168,23,PT10M04.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,17
+0022301168,33,PT09M02.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,15,82,8,Made,1,7,7,14,h,Samanic 8' Driving Floating Jump Shot (2 PTS) (George 1 AST),Made Shot,Driving Floating Jump Shot,1,2,24
+0022301168,40,PT08M41.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,8,7,15,h,Samanic Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,28
+0022301168,41,PT08M41.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,9,7,16,h,Samanic Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,29
+0022301168,44,PT08M24.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,32
+0022301168,60,PT07M06.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,-32,63,7,Made,1,13,11,24,h,Samanic 7' Driving Bank Hook Shot (6 PTS),Made Shot,Driving Bank Hook Shot,1,2,44
+0022301168,63,PT07M06.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,14,11,25,h,Samanic Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,46
+0022301168,81,PT05M13.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,-2,13,1,Made,1,18,16,34,h,Samanic 1' Running Finger Roll Layup (9 PTS) (Hendricks 3 AST),Made Shot,Running Finger Roll Layup Shot,1,2,60
+0022301168,84,PT04M49.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,167,189,25,Missed,1,,,0,h,MISS Samanic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,62
+0022301168,102,PT03M59.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,-17,6,2,Made,1,20,19,39,h,Samanic 2' Driving Layup (11 PTS) (Sensabaugh 1 AST),Made Shot,Driving Layup Shot,1,2,74
+0022301168,118,PT02M52.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,SUB: Lofton Jr. FOR Samanic,Substitution,,0,0,84
+0022301168,268,PT03M23.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,MISS Samanic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,193
+0022301168,272,PT03M23.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,59,60,119,h,Samanic Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,196
+0022301168,290,PT01M17.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,1,43,4,Missed,1,,,0,h,MISS Samanic 4' Hook Shot,Missed Shot,Hook Shot,1,2,209
+0022301168,292,PT01M16.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,211
+0022301168,293,PT01M15.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,5,48,5,Missed,1,,,0,h,MISS Samanic 5' Putback Layup,Missed Shot,Putback Layup Shot,1,2,212
+0022301168,302,PT00M48.60S,2,1610612762,UTA,1629677,Samanic,L. Samanic,-233,6,0,Missed,1,,,0,h,MISS Samanic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,220
+0022301168,317,PT11M46.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,-47,34,6,Made,1,66,67,133,h,Samanic 6' Driving Layup (14 PTS) (Hendricks 4 AST),Made Shot,Driving Layup Shot,1,2,231
+0022301168,339,PT09M15.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,MISS Samanic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,245
+0022301168,341,PT09M15.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,75,70,145,h,Samanic Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,247
+0022301168,369,PT07M07.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,141,214,26,Made,1,80,76,156,h,Samanic 26' 3PT Jump Shot (18 PTS) (George 3 AST),Made Shot,Jump Shot,1,3,267
+0022301168,385,PT05M31.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,-71,57,9,Missed,1,,,0,h,MISS Samanic 9' Driving Layup,Missed Shot,Driving Layup Shot,1,2,280
+0022301168,434,PT02M26.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,316
+0022301168,447,PT01M35.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic STEAL (1 STL),,,1,0,327
+0022301168,451,PT01M32.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,94,92,186,h,Samanic Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,329
+0022301168,452,PT01M32.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,95,92,187,h,Samanic Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,330
+0022301168,467,PT00M37.80S,3,1610612762,UTA,1629677,Samanic,L. Samanic,225,17,0,Missed,1,,,0,h,MISS Samanic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,341
+0022301168,471,PT00M25.20S,3,1610612762,UTA,1629677,Samanic,L. Samanic,-233,23,0,Missed,1,,,0,h,MISS Samanic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,345
+0022301168,542,PT07M41.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic S.FOUL (P1.T4) (A.Nagy),Foul,Shooting,1,0,392
+0022301168,562,PT06M11.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-148,211,26,Missed,1,,,0,h,MISS Samanic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,409
+0022301168,579,PT05M04.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic Violation:Kicked Ball (A.Nagy),Violation,Kicked Ball,0,0,425
+0022301168,609,PT03M27.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic S.FOUL (P2.PN) (C.Flores),Foul,Shooting,1,0,450
+0022301168,615,PT03M11.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic Out of Bounds Lost Ball Turnover (P1.T14),Turnover,Out of Bounds Lost Ball Turnover,1,0,454
+0022301168,620,PT02M47.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,459
+0022301168,642,PT01M04.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-234,6,0,Missed,1,,,0,h,MISS Samanic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,477
+0022301168,645,PT00M56.10S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,480
+0022301168,646,PT00M54.60S,4,1610612762,UTA,1629677,Samanic,L. Samanic,23,22,3,Made,1,124,118,242,h,Samanic 3' Putback Layup (22 PTS),Made Shot,Putback Layup Shot,1,2,481
+0022301168,662,PT00M09.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,h,Samanic Lost Ball Turnover (P2.T16),Turnover,Lost Ball,1,0,491
+0022301184,7,PT11M42.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,-12,16,2,Made,1,0,2,2,v,Samanic 2' Cutting Layup Shot (2 PTS) (Hendricks 1 AST),Made Shot,Cutting Layup Shot,1,2,3
+0022301184,11,PT11M14.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,-25,26,4,Missed,1,,,0,v,MISS Samanic 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,5
+0022301184,24,PT09M53.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,15
+0022301184,25,PT09M44.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,16
+0022301184,40,PT08M06.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic Lost Ball Turnover (P2.T4),Turnover,Lost Ball,1,0,28
+0022301184,46,PT07M36.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,34
+0022301184,47,PT07M36.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,Made,1,15,6,21,v,Samanic Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,35
+0022301184,58,PT07M36.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,15,7,22,v,Samanic Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,41
+0022301184,63,PT06M58.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic STEAL (1 STL),,,1,0,45
+0022301184,65,PT06M54.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,21,22,3,Missed,1,,,0,v,MISS Samanic 3' Running Layup,Missed Shot,Running Layup Shot,1,2,46
+0022301184,91,PT04M13.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,SUB: Preston FOR Samanic,Substitution,,0,0,65
+0022301184,253,PT04M49.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,189
+0022301184,254,PT04M49.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,Made,1,48,53,101,v,Samanic Putback Layup (7 PTS),Made Shot,Putback Layup Shot,1,2,190
+0022301184,275,PT03M15.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,-18,6,2,Made,1,54,58,112,v,Samanic 2' Driving Dunk (9 PTS) (Lofton Jr. 5 AST),Made Shot,Driving Dunk Shot,1,2,206
+0022301184,283,PT02M43.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,54,59,113,v,Samanic Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,212
+0022301184,284,PT02M43.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,MISS Samanic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,213
+0022301184,289,PT01M59.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,218
+0022301184,299,PT01M19.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,MISS Samanic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,227
+0022301184,301,PT01M19.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,56,60,116,v,Samanic Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,229
+0022301184,312,PT00M11.10S,2,1610612762,UTA,1629677,Samanic,L. Samanic,-227,3,0,Missed,1,,,0,v,MISS Samanic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,237
+0022301184,352,PT08M43.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,-230,36,0,Missed,1,,,0,v,MISS Samanic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,263
+0022301184,375,PT06M55.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,189,194,27,Missed,1,,,0,v,MISS Samanic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,282
+0022301184,382,PT06M49.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,SUB: Sensabaugh FOR Samanic,Substitution,,0,0,288
+0022301184,598,PT02M40.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,458
+0022301184,617,PT00M51.70S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,470
+0022301198,15,PT10M19.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+0022301198,26,PT09M34.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic STEAL (1 STL),,,1,0,21
+0022301198,28,PT09M25.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,40,49,6,Missed,1,,,0,v,MISS Samanic 6' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,1,2,22
+0022301198,31,PT09M17.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic Traveling Turnover (P1.T3),Turnover,Traveling,1,0,24
+0022301198,33,PT08M52.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,-190,189,27,Missed,1,,,0,v,MISS Samanic 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,26
+0022301198,41,PT07M51.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic Offensive Charge Foul (P1) (D.Taylor),Foul,Offensive Charge,1,0,32
+0022301198,43,PT07M51.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic Offensive Foul Turnover (P2.T4),Turnover,Offensive Foul Turnover,1,0,33
+0022301198,47,PT07M18.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,-32,17,4,Made,1,12,9,21,v,Samanic 4' Cutting Finger Roll Layup Shot (2 PTS) (Juzang 1 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,36
+0022301198,53,PT07M18.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,12,10,22,v,Samanic Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,39
+0022301198,72,PT04M29.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,110,239,26,Missed,1,,,0,v,MISS Samanic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,54
+0022301198,86,PT03M49.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,-5,79,8,Made,1,19,21,40,v,Samanic 8' Driving Layup (5 PTS) (George 1 AST),Made Shot,Driving Layup Shot,1,2,63
+0022301198,91,PT03M17.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,66
+0022301198,191,PT03M16.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic Lost Ball Turnover (P3.T5),Turnover,Lost Ball,1,0,67
+0022301198,95,PT03M15.00S,1,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,SUB: Lewis Jr. FOR Samanic,Substitution,,0,0,71
+0022301198,281,PT02M40.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,61,249,26,Missed,1,,,0,v,MISS Samanic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,202
+0022301198,291,PT02M06.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,210
+0022301198,292,PT01M49.00S,2,1610612762,UTA,1629677,Samanic,L. Samanic,17,-1,2,Made,1,53,53,106,v,Samanic 2' Driving Layup (7 PTS) (George 2 AST),Made Shot,Driving Layup Shot,1,2,211
+0022301198,299,PT00M59.10S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic Offensive Charge Foul (P2) (K.Cutler),Foul,Offensive Charge,1,0,216
+0022301198,301,PT00M59.10S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic Offensive Foul Turnover (P4.T8),Turnover,Offensive Foul Turnover,1,0,217
+0022301198,314,PT00M25.30S,2,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic S.FOUL (P3.PN) (K.Cutler),Foul,Shooting,1,0,227
+0022301198,382,PT08M21.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,265
+0022301198,393,PT07M01.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,-15,1,2,Made,1,75,79,154,v,Samanic 2' Cutting Layup Shot (9 PTS) (Juzang 2 AST),Made Shot,Cutting Layup Shot,1,2,279
+0022301198,439,PT04M05.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,235,11,24,Missed,1,,,0,v,MISS Samanic 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,310
+0022301198,454,PT02M42.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic Bad Pass Turnover (P5.T12),Turnover,Bad Pass,1,0,322
+0022301198,486,PT01M32.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,332
+0022301198,490,PT01M29.00S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic Bad Pass Turnover (P6.T13),Turnover,Bad Pass,1,0,333
+0022301198,498,PT00M41.30S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,89,88,177,v,Samanic Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,346
+0022301198,499,PT00M41.30S,3,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,89,89,178,v,Samanic Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,347
+0022301198,615,PT04M39.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-223,2,0,Missed,1,,,0,v,MISS Samanic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,424
+0022301198,619,PT04M10.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,47,8,5,Made,1,113,113,226,v,Samanic 5' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,2,428
+0022301198,622,PT04M10.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,113,114,227,v,Samanic Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,430
+0022301198,623,PT03M48.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic S.FOUL (P4.PN) (D.Taylor),Foul,Shooting,1,0,431
+0022301198,629,PT03M36.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic Lost Ball Turnover (P7.T18),Turnover,Lost Ball,1,0,434
+0022301213,597,PT05M05.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,0,0,0,,0,,,0,v,Samanic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,430
+0022301213,598,PT04M49.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,16,58,6,Missed,1,,,0,v,MISS Samanic 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,431
+0022301213,606,PT04M31.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-232,-13,0,Missed,1,,,0,v,MISS Samanic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,439
+0022301213,621,PT03M00.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,17,45,5,Missed,1,,,0,v,MISS Samanic 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,450
+0022301213,625,PT02M26.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-7,21,2,Made,1,141,92,233,v,Samanic 2' Driving Finger Roll Layup (2 PTS) (George 10 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,453
+0022301213,639,PT01M12.00S,4,1610612762,UTA,1629677,Samanic,L. Samanic,-70,235,25,Missed,1,,,0,v,MISS Samanic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,463

@@ -1,0 +1,656 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300009,118,PT02M28.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,87
+0022300009,182,PT09M58.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens S.FOUL (P1.T2) (P.Ransom),Foul,Shooting,1,0,137
+0022300009,205,PT08M20.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,154
+0022300009,218,PT07M39.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Hayward FOR McGowens,Substitution,,0,0,164
+0022300009,528,PT11M44.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens Double Dribble Turnover (P1.T8),Turnover,Double Dribble,1,0,389
+0022300009,529,PT11M36.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens P.FOUL (P2.T1) (P.Ransom),Foul,Personal,1,0,390
+0022300009,536,PT11M05.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,228,124,26,Missed,1,,,0,v,MISS McGowens 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,394
+0022300009,558,PT09M19.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-36,8,4,Made,1,99,97,196,v,McGowens 4' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,413
+0022300009,573,PT08M45.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens P.FOUL (P3.T3) (L.Wood),Foul,Personal,1,0,422
+0022300009,575,PT08M45.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Washington FOR McGowens,Substitution,,0,0,423
+0022300017,87,PT04M46.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,64
+0022300017,88,PT04M34.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,2,36,4,Made,1,24,16,40,h,McGowens 4' Cutting Layup Shot (2 PTS) (Ball 4 AST),Made Shot,Cutting Layup Shot,1,2,65
+0022300017,90,PT04M19.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,1,0,66
+0022300017,110,PT03M07.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,233,64,24,Made,1,27,19,46,h,McGowens 24' 3PT Jump Shot (5 PTS) (Smith 1 AST),Made Shot,Jump Shot,1,3,81
+0022300017,124,PT02M08.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,90
+0022300017,128,PT01M50.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,38,18,4,Missed,1,,,0,h,MISS McGowens 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,94
+0022300017,145,PT00M54.40S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,MISS McGowens Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,107
+0022300017,147,PT00M54.40S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,30,21,51,h,McGowens Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,109
+0022300017,168,PT10M25.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,-114,249,27,Missed,1,,,0,h,MISS McGowens 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,127
+0022300017,177,PT09M39.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,136
+0022300017,180,PT09M04.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,139
+0022300017,199,PT08M05.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Maledon FOR McGowens,Substitution,,0,0,152
+0022300017,288,PT01M55.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,216
+0022300017,408,PT04M14.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens S.FOUL (P2.PN) (Z.Zarba),Foul,Shooting,1,0,301
+0022300017,452,PT01M47.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens S.FOUL (P3.PN) (M.Kallio),Foul,Shooting,1,0,333
+0022300017,460,PT00M53.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,-114,239,26,Made,1,76,85,161,h,McGowens 26' 3PT Jump Shot (9 PTS) (Ball 9 AST),Made Shot,Jump Shot,1,3,340
+0022300017,512,PT10M08.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,93,288,30,Missed,1,,,0,h,MISS McGowens 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,375
+0022300017,566,PT05M21.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens STEAL (1 STL),,,1,0,418
+0022300017,579,PT03M34.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-234,-1,0,Made,1,101,105,206,h,McGowens 3PT Jump Shot (12 PTS) (Richards 1 AST),Made Shot,Jump Shot,1,3,427
+0022300017,597,PT01M43.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens S.FOUL (P4.T4) (Z.Zarba),Foul,Shooting,1,0,443
+0022300027,121,PT03M30.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,-72,98,12,Missed,1,,,0,h,MISS McGowens 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,92
+0022300027,125,PT03M12.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,229,13,0,Made,1,26,23,49,h,McGowens 3PT Running Jump Shot (3 PTS) (Bridges 1 AST),Made Shot,Running Jump Shot,1,3,96
+0022300027,135,PT02M44.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Ball FOR McGowens,Substitution,,0,0,103
+0022300027,643,PT07M58.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Hayward FOR McGowens,Substitution,,0,0,386
+0022300027,627,PT00M58.80S,4,1610612766,CHA,1631121,McGowens,B. McGowens,203,167,26,Missed,1,,,0,h,MISS McGowens 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,459
+0022300027,638,PT00M05.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,98,130,228,h,McGowens Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,468
+0022300027,639,PT00M05.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,99,130,229,h,McGowens Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,469
+0022300057,117,PT02M04.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens STEAL (1 STL),,,1,0,88
+0022300057,119,PT01M52.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,-26,201,20,Missed,1,,,0,v,MISS McGowens 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,89
+0022300057,127,PT01M12.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,-191,168,25,Missed,1,,,0,v,MISS McGowens 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,97
+0022300057,152,PT11M44.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,-2,23,2,Missed,1,,,0,v,MISS McGowens 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,114
+0022300057,153,PT11M42.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,115
+0022300057,154,PT11M40.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,Made,1,29,18,47,v,McGowens Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,116
+0022300057,156,PT11M19.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens S.FOUL (P1.T1) (B.Nansel),Foul,Shooting,1,0,118
+0022300057,178,PT08M36.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,233,26,0,Made,1,34,27,61,v,McGowens 3PT Jump Shot (5 PTS) (Rozier 2 AST),Made Shot,Jump Shot,1,3,134
+0022300057,189,PT07M28.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,144
+0022300057,197,PT07M11.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Hayward FOR McGowens,Substitution,,0,0,151
+0022300143,177,PT11M40.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,126
+0022300143,187,PT10M02.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens STEAL (1 STL),,,1,0,134
+0022300143,191,PT09M57.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,28,38,66,v,McGowens Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,136
+0022300143,194,PT09M57.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,MISS McGowens Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,138
+0022300143,201,PT09M01.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,165,188,25,Missed,1,,,0,v,MISS McGowens 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,145
+0022300143,206,PT08M28.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,150
+0022300143,211,PT08M04.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Thor FOR McGowens,Substitution,,0,0,154
+0022300143,498,PT02M49.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens STEAL (2 STL),,,1,0,354
+0022300143,511,PT01M35.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Washington FOR McGowens,Substitution,,0,0,363
+0022300157,134,PT02M29.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,101
+0022300157,158,PT00M41.20S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,120
+0022300157,195,PT09M36.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens S.FOUL (P1.T1) (P.O'Connell),Foul,Shooting,1,0,143
+0022300157,218,PT08M10.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Hayward FOR McGowens,Substitution,,0,0,162
+0022300157,529,PT00M03.40S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,83,103,186,h,McGowens Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,393
+0022300157,530,PT00M03.40S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,84,103,187,h,McGowens Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,394
+0022300157,669,PT03M20.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens Bad Pass Turnover (P1.T18),Turnover,Bad Pass,1,0,490
+0022300157,685,PT02M38.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens S.FOUL (P2.T4) (S.Foster),Foul,Shooting,1,0,502
+0022300157,693,PT01M59.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens Bad Pass Turnover (P2.T20),Turnover,Bad Pass,1,0,509
+0022300157,700,PT01M25.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,515
+0022300177,145,PT00M54.70S,1,1610612766,CHA,1631121,McGowens,B. McGowens,127,207,24,Missed,1,,,0,v,MISS McGowens 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,99
+0022300177,217,PT07M36.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Hayward FOR McGowens,Substitution,,0,0,152
+0022300177,503,PT00M04.60S,3,1610612766,CHA,1631121,McGowens,B. McGowens,221,117,25,Missed,1,,,0,v,MISS McGowens 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,364
+0022300177,590,PT06M13.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,37,152,16,Made,1,116,90,206,v,McGowens 16' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,2,422
+0022300177,596,PT05M21.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens Non-Unsportsmanlike Tech Foul - Flopping (P0.T2) (S.Wright),Foul,Flopping,1,0,427
+0022300177,660,PT00M41.40S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-124,-6,12,Missed,1,,,0,v,MISS McGowens 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,475
+0022300202,151,PT00M29.40S,1,1610612766,CHA,1631121,McGowens,B. McGowens,-15,26,3,Missed,1,,,0,h,MISS McGowens 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,111
+0022300202,192,PT09M51.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,140
+0022300202,212,PT08M03.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Hayward FOR McGowens,Substitution,,0,0,157
+0022300202,447,PT01M30.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,158,216,27,Missed,1,,,0,h,MISS McGowens 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,324
+0022300202,484,PT11M06.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens S.FOUL (P1.T1) (B.Schwab),Foul,Shooting,1,0,345
+0022300202,499,PT09M06.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,356
+0022300202,502,PT09M02.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens P.FOUL (P2.T2) (B.Barnaky),Foul,Personal,1,0,359
+0022300202,568,PT08M46.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Hayward FOR McGowens,Substitution,,0,0,364
+0022300217,122,PT02M50.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,98
+0022300217,132,PT02M36.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,11,275,28,Missed,1,,,0,h,MISS McGowens 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,104
+0022300217,135,PT02M05.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,244,21,24,Missed,1,,,0,h,MISS McGowens 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,107
+0022300217,141,PT01M01.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,239,27,24,Made,1,23,25,48,h,McGowens 24' 3PT Pullup Jump Shot (3 PTS) (Bridges 2 AST),Made Shot,Pullup Jump shot,1,3,112
+0022300217,146,PT00M14.40S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens OFF.Foul (P1) (R.Mott),Foul,Offensive,1,0,116
+0022300217,148,PT00M14.40S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0,117
+0022300217,160,PT11M18.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,-208,162,26,Missed,1,,,0,h,MISS McGowens 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,126
+0022300217,201,PT07M30.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Smith FOR McGowens,Substitution,,0,0,159
+0022300217,488,PT10M34.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,376
+0022300217,489,PT10M22.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-91,237,25,Missed,1,,,0,h,MISS McGowens 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,377
+0022300217,504,PT08M50.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,163,192,25,Missed,1,,,0,h,MISS McGowens 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,388
+0022300217,520,PT06M38.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Williams FOR McGowens,Substitution,,0,0,402
+0022300225,129,PT02M00.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,95
+0022300225,138,PT00M50.30S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,104
+0022300225,139,PT00M44.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,-9,22,2,Made,1,21,22,43,h,McGowens 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,105
+0022300225,187,PT08M47.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,222,4,0,Made,1,35,31,66,h,McGowens 3PT Jump Shot (5 PTS) (Ball 3 AST),Made Shot,Jump Shot,1,3,138
+0022300225,201,PT07M09.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,151
+0022300225,202,PT07M06.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens OFF.Foul (P1) (T.Maddox),Foul,Offensive,1,0,152
+0022300225,204,PT07M06.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,153
+0022300225,207,PT07M06.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Hayward FOR McGowens,Substitution,,0,0,156
+0022300225,265,PT02M24.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,-240,1,24,Made,1,47,43,90,h,McGowens 24' 3PT Running Jump Shot (8 PTS) (Ball 4 AST),Made Shot,Running Jump Shot,1,3,197
+0022300225,424,PT02M51.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,68,83,151,h,McGowens Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,307
+0022300225,433,PT02M51.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,69,83,152,h,McGowens Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,312
+0022300225,470,PT00M57.40S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens BLOCK (1 BLK),,,1,2,327
+0022300225,476,PT11M38.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,195,193,27,Made,1,81,91,172,h,McGowens 27' 3PT Jump Shot (13 PTS) (Smith 4 AST),Made Shot,Jump Shot,1,3,346
+0022300225,486,PT10M28.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens STEAL (1 STL),,,1,0,355
+0022300225,501,PT09M40.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,174,209,27,Missed,1,,,0,h,MISS McGowens 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,364
+0022300225,554,PT05M48.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Hayward FOR McGowens,Substitution,,0,0,403
+0022300248,449,PT02M29.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens STEAL (1 STL),,,1,0,325
+0022300248,459,PT02M13.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens S.FOUL (P1.T4) (M.Smith),Foul,Shooting,1,0,332
+0022300248,469,PT01M47.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens S.FOUL (P2.PN) (J.Conley),Foul,Shooting,1,0,339
+0022300248,477,PT01M06.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,345
+0022300248,525,PT10M33.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,378
+0022300248,528,PT10M20.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens Traveling Turnover (P1.T13),Turnover,Traveling,1,0,380
+0022300248,546,PT09M32.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Rozier FOR McGowens,Substitution,,0,0,393
+0022300266,15,PT10M51.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,175,180,25,Made,1,0,3,3,v,McGowens 25' 3PT Jump Shot (3 PTS) (Hayward 1 AST),Made Shot,Jump Shot,1,3,11
+0022300266,48,PT06M50.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,-16,12,2,Made,1,14,13,27,v,McGowens 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,36
+0022300266,72,PT05M32.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,229,36,0,Made,1,19,19,38,v,McGowens 3PT Jump Shot (8 PTS) (Washington 1 AST),Made Shot,Jump Shot,1,3,56
+0022300266,98,PT03M17.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Rozier FOR McGowens,Substitution,,0,0,74
+0022300266,244,PT04M54.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,178
+0022300266,275,PT03M19.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens P.FOUL (P1.PN) (B.Forte),Foul,Personal,1,0,202
+0022300266,278,PT03M19.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Washington FOR McGowens,Substitution,,0,0,204
+0022300266,327,PT11M36.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens BLOCK (1 BLK),,,1,2,241
+0022300266,337,PT10M54.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,249
+0022300266,342,PT10M14.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,189,206,28,Made,1,76,76,152,v,McGowens 28' 3PT Pullup Jump Shot (11 PTS) (Bridges 2 AST),Made Shot,Pullup Jump shot,1,3,254
+0022300266,385,PT06M46.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,9,256,26,Made,1,88,88,176,v,McGowens 26' 3PT Jump Shot (14 PTS) (Hayward 4 AST),Made Shot,Jump Shot,1,3,282
+0022300266,411,PT04M53.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,180,206,27,Missed,1,,,0,v,MISS McGowens 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,300
+0022300266,415,PT04M33.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,27,16,3,Missed,1,,,0,v,MISS McGowens 3' Running Layup,Missed Shot,Running Layup Shot,1,2,304
+0022300266,435,PT03M10.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Rozier FOR McGowens,Substitution,,0,0,323
+0022300266,591,PT03M52.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Washington FOR McGowens,Substitution,,0,0,437
+0022300281,212,PT07M16.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,-1,57,6,Missed,1,,,0,h,MISS McGowens 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,151
+0022300281,246,PT03M55.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Bridges FOR McGowens,Substitution,,0,0,176
+0022300281,309,PT00M01.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens S.FOUL (P1.PN) (M.Kogut),Foul,Shooting,1,0,219
+0022300281,477,PT10M27.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,340
+0022300281,497,PT09M04.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-5,16,2,Made,1,94,94,188,h,McGowens 2' Cutting Dunk Shot (2 PTS) (Bridges 4 AST),Made Shot,Cutting Dunk Shot,1,2,357
+0022300281,517,PT07M50.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,1,32,3,Missed,1,,,0,h,MISS McGowens 3' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,369
+0022300281,556,PT04M53.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Rozier FOR McGowens,Substitution,,0,0,394
+0022300292,153,PT00M35.10S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,106
+0022300292,166,PT11M40.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens S.FOUL (P1.T1) (N.Sago),Foul,Shooting,1,0,115
+0022300292,189,PT09M20.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,233,44,24,Missed,1,,,0,h,MISS McGowens 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,133
+0022300292,207,PT07M47.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Smith FOR McGowens,Substitution,,0,0,148
+0022300292,290,PT01M45.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens S.FOUL (P2.T4) (T.Ricks),Foul,Shooting,1,0,202
+0022300292,301,PT01M07.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,-222,27,0,Missed,1,,,0,h,MISS McGowens 3PT Jump Shot,Missed Shot,Jump Shot,1,3,211
+0022300292,460,PT01M31.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,75,83,158,h,McGowens Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,322
+0022300292,461,PT01M31.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,MISS McGowens Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,323
+0022300292,465,PT00M46.70S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,326
+0022300292,515,PT10M02.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,17,4,2,Made,1,84,89,173,h,McGowens 2' Driving Layup (3 PTS) (Miller 2 AST),Made Shot,Driving Layup Shot,1,2,358
+0022300292,527,PT09M03.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,16,17,2,Missed,1,,,0,h,MISS McGowens 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,367
+0022300292,546,PT07M28.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Hayward FOR McGowens,Substitution,,0,0,380
+0022300292,636,PT00M12.30S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Thor FOR McGowens,Substitution,,0,0,447
+0022300312,108,PT03M18.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens P.FOUL (P1.T3) (T.Maddox),Foul,Personal,1,0,80
+0022300312,115,PT03M04.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,84
+0022300312,120,PT02M58.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens S.FOUL (P2.T4) (J.Williams),Foul,Shooting,1,0,88
+0022300312,133,PT02M13.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,153,237,28,Missed,1,,,0,v,MISS McGowens 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,97
+0022300312,145,PT01M34.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,108
+0022300312,146,PT01M29.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,22,13,3,Missed,1,,,0,v,MISS McGowens 3' Running Layup,Missed Shot,Running Layup Shot,1,2,109
+0022300312,200,PT09M26.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,31,28,59,v,McGowens Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,150
+0022300312,201,PT09M26.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,31,29,60,v,McGowens Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,151
+0022300312,216,PT07M48.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Hayward FOR McGowens,Substitution,,0,0,163
+0022300312,285,PT03M06.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Richards FOR McGowens,Substitution,,0,0,213
+0022300312,416,PT04M24.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,224,-17,0,Made,1,78,62,140,v,McGowens 3PT Jump Shot (5 PTS) (Hayward 5 AST),Made Shot,Jump Shot,1,3,304
+0022300312,444,PT02M21.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,323
+0022300312,445,PT02M18.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,Made,1,83,68,151,v,McGowens Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,1,2,324
+0022300312,492,PT11M08.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Hayward FOR McGowens,Substitution,,0,0,359
+0022300326,114,PT01M45.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens S.FOUL (P1.T4) (D.Richardson),Foul,Shooting,1,0,88
+0022300326,129,PT01M00.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,-228,104,25,Missed,1,,,0,h,MISS McGowens 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,100
+0022300326,134,PT00M36.10S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,MISS McGowens Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,104
+0022300326,136,PT00M36.10S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,20,21,41,h,McGowens Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,106
+0022300326,174,PT09M48.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,225,16,0,Missed,1,,,0,h,MISS McGowens 3PT Jump Shot,Missed Shot,Jump Shot,1,3,129
+0022300326,205,PT08M05.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Thor FOR McGowens,Substitution,,0,0,152
+0022300326,239,PT05M17.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens STEAL (1 STL),,,1,0,176
+0022300326,243,PT05M17.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,36,37,73,h,McGowens Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,178
+0022300326,244,PT05M17.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,37,37,74,h,McGowens Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,179
+0022300326,267,PT03M51.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens P.FOUL (P2.T4) (A.Moyer-Gleich),Foul,Personal,1,0,197
+0022300326,309,PT01M26.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,12,21,2,Missed,1,,,0,h,MISS McGowens 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,228
+0022300326,439,PT02M42.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,325
+0022300326,455,PT01M54.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,-4,27,3,Made,1,67,71,138,h,McGowens 3' Running Layup (5 PTS) (Smith 1 AST),Made Shot,Running Layup Shot,1,2,337
+0022300326,459,PT01M54.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,MISS McGowens Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,339
+0022300326,462,PT01M32.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,342
+0022300326,479,PT00M10.30S,3,1610612766,CHA,1631121,McGowens,B. McGowens,12,12,2,Made,1,76,73,149,h,McGowens 2' Reverse Layup (7 PTS) (Rozier 6 AST),Made Shot,Reverse Layup Shot,1,2,354
+0022300326,551,PT08M14.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Hayward FOR McGowens,Substitution,,0,0,400
+0022300335,21,PT10M27.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,4,28,3,Made,1,2,4,6,h,McGowens 3' Layup (2 PTS),Made Shot,Layup Shot,1,2,15
+0022300335,25,PT10M27.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,3,4,7,h,McGowens Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,17
+0022300335,34,PT09M01.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,25
+0022300335,35,PT08M56.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,5,67,7,Missed,1,,,0,h,MISS McGowens 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,26
+0022300335,51,PT07M55.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,-9,13,2,Missed,1,,,0,h,MISS McGowens 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,39
+0022300335,103,PT04M05.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Bridges FOR McGowens,Substitution,,0,0,78
+0022300335,235,PT06M12.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,MISS McGowens Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,174
+0022300335,241,PT06M12.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,27,48,75,h,McGowens Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,178
+0022300335,244,PT05M40.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,11,269,27,Missed,1,,,0,h,MISS McGowens 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,181
+0022300335,264,PT03M16.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,6,2,1,Made,1,38,55,93,h,McGowens 1' Driving Reverse Layup (6 PTS) (Smith Jr. 1 AST),Made Shot,Driving Reverse Layup Shot,1,2,196
+0022300335,291,PT01M18.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,-5,-8,1,Missed,1,,,0,h,MISS McGowens 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,213
+0022300335,355,PT08M25.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens S.FOUL (P1.T1) (M.Davis),Foul,Shooting,1,0,260
+0022300335,363,PT07M36.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,222,-2,0,Missed,1,,,0,h,MISS McGowens 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,267
+0022300335,367,PT07M14.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,-12,6,1,Made,1,53,82,135,h,McGowens 1' Cutting Layup Shot (8 PTS) (Smith 4 AST),Made Shot,Cutting Layup Shot,1,2,270
+0022300335,394,PT04M50.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,2,-8,1,Made,1,55,86,141,h,McGowens 1' Cutting Dunk Shot (10 PTS) (Richards 1 AST),Made Shot,Cutting Dunk Shot,1,2,293
+0022300335,407,PT03M05.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,304
+0022300335,408,PT02M57.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,2,96,10,Made,1,59,88,147,h,McGowens 10' Fadeaway Jumper (12 PTS),Made Shot,Fadeaway Jump Shot,1,2,305
+0022300335,411,PT02M57.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Mensah FOR McGowens,Substitution,,0,0,308
+0022300354,31,PT08M37.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,-9,65,7,Missed,1,,,0,v,MISS McGowens 7' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,22
+0022300354,35,PT08M23.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,17,17,2,Missed,1,,,0,v,MISS McGowens 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,26
+0022300354,47,PT07M10.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,190,172,26,Made,1,9,10,19,v,McGowens 26' 3PT Jump Shot (3 PTS) (Richards 1 AST),Made Shot,Jump Shot,1,3,37
+0022300354,69,PT05M06.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,55
+0022300354,79,PT04M43.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,61
+0022300354,80,PT04M38.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens OFF.Foul (P1) (J.Butler),Foul,Offensive,1,0,62
+0022300354,82,PT04M38.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1,0,63
+0022300354,98,PT02M53.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Washington FOR McGowens,Substitution,,0,0,76
+0022300354,211,PT07M32.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,160
+0022300354,212,PT07M26.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,227,12,0,Missed,1,,,0,v,MISS McGowens 3PT Jump Shot,Missed Shot,Jump Shot,1,3,161
+0022300354,224,PT06M51.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,-229,-4,0,Missed,1,,,0,v,MISS McGowens 3PT Jump Shot,Missed Shot,Jump Shot,1,3,170
+0022300354,239,PT05M45.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,181
+0022300354,242,PT05M42.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,32,37,69,v,McGowens Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,183
+0022300354,249,PT05M42.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,32,38,70,v,McGowens Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,187
+0022300354,253,PT05M16.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,109,228,25,Made,1,32,41,73,v,McGowens 25' 3PT Jump Shot (8 PTS) (Washington 4 AST),Made Shot,Jump Shot,1,3,190
+0022300354,255,PT05M00.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens BLOCK (1 BLK),,,1,2,192
+0022300354,257,PT04M57.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,193
+0022300354,258,PT04M55.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,45,58,7,Made,1,32,43,75,v,McGowens 7' Running Finger Roll Layup (10 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,194
+0022300354,340,PT10M56.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,241,20,24,Missed,1,,,0,v,MISS McGowens 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,251
+0022300354,359,PT09M04.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens STEAL (1 STL),,,1,0,266
+0022300354,393,PT06M42.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens Out of Bounds Lost Ball Turnover (P2.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0,288
+0022300354,403,PT05M35.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,22,26,3,Made,1,63,66,129,v,McGowens 3' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,297
+0022300354,425,PT03M32.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Washington FOR McGowens,Substitution,,0,0,316
+0022300354,553,PT05M17.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,97,92,189,v,McGowens Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,411
+0022300354,558,PT05M17.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,97,93,190,v,McGowens Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,414
+0022300365,131,PT01M55.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens P.FOUL (P1.T3) (K.Scott),Foul,Personal,1,0,97
+0022300365,137,PT01M13.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens P.FOUL (P2.PN) (C.Flores),Foul,Personal,1,0,100
+0022300365,171,PT09M44.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,-224,11,0,Missed,1,,,0,v,MISS McGowens 3PT Jump Shot,Missed Shot,Jump Shot,1,3,121
+0022300365,208,PT07M35.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Hayward FOR McGowens,Substitution,,0,0,149
+0022300365,253,PT04M25.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,1,26,3,Made,1,56,52,108,v,McGowens 3' Running Dunk (2 PTS) (Hayward 2 AST),Made Shot,Running Dunk Shot,1,2,178
+0022300365,255,PT04M11.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens P.FOUL (P3.T3) (K.Scott),Foul,Personal,1,0,179
+0022300365,258,PT04M11.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Rozier FOR McGowens,Substitution,,0,0,181
+0022300365,434,PT02M55.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens S.FOUL (P4.T3) (C.Flores),Foul,Shooting,1,0,308
+0022300365,473,PT01M29.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens S.FOUL (P5.PN) (C.Flores),Foul,Shooting,1,0,333
+0022300365,476,PT01M29.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Miller FOR McGowens,Substitution,,0,0,335
+0022300365,533,PT09M59.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,371
+0022300365,612,PT04M13.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens Traveling Turnover (P2.T10),Turnover,Traveling,1,0,430
+0022300365,613,PT04M13.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Black FOR McGowens,Substitution,,0,0,431
+0022300390,220,PT08M17.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Martin FOR McGowens,Substitution,,0,0,162
+0022300390,329,PT11M34.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,16,22,3,Missed,1,,,0,h,MISS McGowens 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,244
+0022300390,333,PT11M21.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,248
+0022300390,372,PT07M42.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,-20,8,2,Missed,1,,,0,h,MISS McGowens 2' Running Layup,Missed Shot,Running Layup Shot,1,2,281
+0022300390,377,PT07M41.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens P.FOUL (P1.T2) (M.Lindsay),Foul,Personal,1,0,286
+0022300390,395,PT06M32.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Washington FOR McGowens,Substitution,,0,0,295
+0022300390,495,PT11M20.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,376
+0022300390,496,PT11M15.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,26,21,3,Missed,1,,,0,h,MISS McGowens 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,377
+0022300390,498,PT11M10.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,Jump Ball McGowens vs. Nnaji: Tip to Smith Jr.,Jump Ball,,1,0,379
+0022300390,502,PT11M05.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-20,69,7,Missed,1,,,0,h,MISS McGowens 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,380
+0022300390,541,PT08M28.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Bridges FOR McGowens,Substitution,,0,0,411
+0022300390,664,PT00M23.10S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,498
+0022300414,16,PT10M29.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,9
+0022300414,18,PT10M26.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,-1,57,6,Made,1,2,6,8,v,McGowens 6' Running Pull-Up Jump Shot (2 PTS),Made Shot,Running Pull-Up Jump Shot,1,2,10
+0022300414,22,PT10M26.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,MISS McGowens Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,12
+0022300414,33,PT09M27.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,13,27,3,Made,1,4,10,14,v,McGowens 3' Driving Bank Hook Shot (4 PTS),Made Shot,Driving Bank Hook Shot,1,2,21
+0022300414,81,PT06M02.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Martin FOR McGowens,Substitution,,0,0,56
+0022300414,164,PT11M28.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens P.FOUL (P1.T1) (J.Conley),Foul,Personal,1,0,115
+0022300414,189,PT09M28.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,17,50,5,Missed,1,,,0,v,MISS McGowens 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,134
+0022300414,220,PT07M29.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,35,30,65,v,McGowens Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,158
+0022300414,225,PT07M29.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,35,31,66,v,McGowens Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,161
+0022300414,231,PT07M04.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Hayward FOR McGowens,Substitution,,0,0,165
+0022300414,326,PT10M17.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens S.FOUL (P2.T2) (J.Conley),Foul,Shooting,1,0,236
+0022300414,338,PT09M29.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,-6,26,3,Made,1,60,56,116,v,McGowens 3' Driving Layup (8 PTS) (Rozier 3 AST),Made Shot,Driving Layup Shot,1,2,246
+0022300414,388,PT05M59.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Washington FOR McGowens,Substitution,,0,0,285
+0022300414,506,PT09M33.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,367
+0022300414,518,PT08M27.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,377
+0022300414,519,PT08M19.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-10,29,3,Made,1,87,93,180,v,McGowens 3' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,378
+0022300414,538,PT07M20.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-152,225,27,Missed,1,,,0,v,MISS McGowens 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,389
+0022300414,540,PT07M07.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens P.FOUL (P3.T3) (J.Conley),Foul,Personal,1,0,391
+0022300414,545,PT06M59.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Martin FOR McGowens,Substitution,,0,0,394
+0022300428,17,PT10M56.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,202,198,28,Made,1,2,3,5,v,McGowens 28' 3PT Jump Shot (3 PTS) (Rozier 1 AST),Made Shot,Jump Shot,1,3,11
+0022300428,26,PT10M11.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,-237,-5,24,Missed,1,,,0,v,MISS McGowens 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,17
+0022300428,50,PT07M48.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,11,12,23,v,McGowens Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,34
+0022300428,51,PT07M48.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,MISS McGowens Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,35
+0022300428,86,PT05M38.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Martin FOR McGowens,Substitution,,0,0,60
+0022300428,181,PT11M20.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,126
+0022300428,186,PT11M03.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens S.FOUL (P1.T1) (T.Washington),Foul,Shooting,1,0,130
+0022300428,204,PT08M43.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,145
+0022300428,235,PT06M49.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,2,177,18,Missed,1,,,0,v,MISS McGowens 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,167
+0022300428,244,PT06M27.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Miller FOR McGowens,Substitution,,0,0,175
+0022300428,353,PT11M36.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens S.FOUL (P2.T1) (K.Scott),Foul,Shooting,1,0,256
+0022300428,372,PT10M36.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens S.FOUL (P3.T3) (K.Scott),Foul,Shooting,1,0,268
+0022300428,398,PT08M18.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Martin FOR McGowens,Substitution,,0,0,285
+0022300428,640,PT03M26.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,164,216,27,Made,1,127,102,229,v,McGowens 27' 3PT Jump Shot (7 PTS) (Thor 1 AST),Made Shot,Jump Shot,1,3,458
+0022300428,652,PT02M19.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,3,13,1,Missed,1,,,0,v,MISS McGowens 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,465
+0022300428,655,PT02M05.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-159,236,28,Made,1,131,107,238,v,McGowens 28' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,3,469
+0022300428,659,PT01M33.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens Bad Pass Turnover (P1.T19),Turnover,Bad Pass,1,0,472
+0022300436,43,PT08M02.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,34
+0022300436,44,PT07M55.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,65,33,7,Made,1,11,11,22,v,McGowens 7' Driving Floating Jump Shot (2 PTS) (Rozier 1 AST),Made Shot,Driving Floating Jump Shot,1,2,35
+0022300436,76,PT04M23.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,-232,32,0,Missed,1,,,0,v,MISS McGowens 3PT Jump Shot,Missed Shot,Jump Shot,1,3,58
+0022300436,86,PT04M07.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Martin FOR McGowens,Substitution,,0,0,65
+0022300436,208,PT06M59.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Martin FOR McGowens,Substitution,,0,0,143
+0022300436,319,PT11M32.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens S.FOUL (P1.T1) (C.Flores),Foul,Shooting,1,0,214
+0022300436,333,PT09M42.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,4,40,4,Missed,1,,,0,v,MISS McGowens 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,225
+0022300436,368,PT08M14.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,5,18,2,Made,1,79,67,146,v,McGowens 2' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,239
+0022300436,373,PT06M13.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Smith FOR McGowens,Substitution,,0,0,254
+0022300436,522,PT07M34.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Miller FOR McGowens,Substitution,,0,0,351
+0022300455,12,PT10M22.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,18,37,4,Missed,1,,,0,v,MISS McGowens 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,8
+0022300455,28,PT08M17.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,21
+0022300455,56,PT05M20.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Washington FOR McGowens,Substitution,,0,0,45
+0022300455,159,PT10M34.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,-9,10,1,Made,1,24,24,48,v,McGowens 1' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,120
+0022300455,165,PT09M36.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,229,67,24,Missed,1,,,0,v,MISS McGowens 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,125
+0022300455,216,PT07M06.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR McGowens,Substitution,,0,0,159
+0022300455,300,PT11M32.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,20,8,2,Made,1,52,51,103,v,McGowens 2' Reverse Layup (4 PTS) (Richards 1 AST),Made Shot,Reverse Layup Shot,1,2,225
+0022300455,306,PT10M49.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens S.FOUL (P1.T1) (D.Guthrie),Foul,Shooting,1,0,230
+0022300455,329,PT08M12.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens P.FOUL (P2.T3) (D.Guthrie),Foul,Personal,1,0,249
+0022300455,353,PT06M12.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,17,6,2,Missed,1,,,0,v,MISS McGowens 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,267
+0022300455,363,PT05M18.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Washington FOR McGowens,Substitution,,0,0,275
+0022300455,462,PT11M29.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens S.FOUL (P3.T1) (M.Kogut),Foul,Shooting,1,0,342
+0022300455,471,PT11M08.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Martin FOR McGowens,Substitution,,0,0,349
+0022300455,567,PT03M55.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-28,56,6,Missed,1,,,0,v,MISS McGowens 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,419
+0022300455,575,PT03M10.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens P.FOUL (P4.T4) (M.Kogut),Foul,Personal,1,0,427
+0022300455,583,PT02M27.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,434
+0022300455,584,PT02M16.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-18,243,24,Made,1,111,88,199,v,McGowens 24' 3PT Step Back Jump Shot (7 PTS) (Bouknight 1 AST),Made Shot,Step Back Jump shot,1,3,435
+0022300455,592,PT01M33.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,224,80,24,Made,1,111,91,202,v,McGowens 24' 3PT Jump Shot (10 PTS) (Smith Jr. 2 AST),Made Shot,Jump Shot,1,3,441
+0022300464,85,PT05M12.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,-125,216,25,Missed,1,,,0,v,MISS McGowens 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,63
+0022300464,100,PT04M21.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,-2,21,2,Made,1,18,10,28,v,McGowens 2' Finger Roll Layup (2 PTS) (Smith 1 AST),Made Shot,Finger Roll Layup Shot,1,2,73
+0022300464,106,PT04M21.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,MISS McGowens Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,76
+0022300464,129,PT03M04.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Rozier FOR McGowens,Substitution,,0,0,97
+0022300464,315,PT03M08.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Martin FOR McGowens,Substitution,,0,0,212
+0022300464,369,PT10M21.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,249
+0022300464,417,PT06M43.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,294
+0022300464,435,PT05M23.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,-138,218,26,Missed,1,,,0,v,MISS McGowens 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,310
+0022300464,443,PT04M37.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,69,65,134,v,McGowens Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,316
+0022300464,450,PT04M37.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,69,66,135,v,McGowens Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,320
+0022300464,469,PT03M29.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Rozier FOR McGowens,Substitution,,0,0,333
+0022300464,621,PT04M54.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens S.FOUL (P1.T3) (A.Moyer-Gleich),Foul,Shooting,1,0,442
+0022300464,623,PT04M54.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Martin FOR McGowens,Substitution,,0,0,443
+0022300484,286,PT03M09.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,-237,-17,24,Missed,1,,,0,v,MISS McGowens 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,205
+0022300484,298,PT01M36.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens Out of Bounds Lost Ball Turnover (P1.T7),Turnover,Out of Bounds Lost Ball Turnover,1,0,214
+0022300484,307,PT00M50.80S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,219
+0022300484,320,PT00M50.80S,2,1610612766,CHA,1631121,McGowens,B. McGowens,-1,9,1,Missed,1,,,0,v,MISS McGowens 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,220
+0022300484,321,PT00M49.80S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,221
+0022300484,308,PT00M49.10S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,Missed,1,,,0,v,MISS McGowens Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,222
+0022300484,310,PT00M42.20S,2,1610612766,CHA,1631121,McGowens,B. McGowens,-11,14,2,Missed,1,,,0,v,MISS McGowens 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,224
+0022300506,18,PT10M40.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,-21,6,2,Missed,1,,,0,h,MISS McGowens 2' Running Layup,Missed Shot,Running Layup Shot,1,2,13
+0022300506,65,PT05M33.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,-100,236,26,Missed,1,,,0,h,MISS McGowens 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,54
+0022300506,92,PT03M56.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Mensah FOR McGowens,Substitution,,0,0,73
+0022300506,163,PT10M29.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,-121,235,26,Missed,1,,,0,h,MISS McGowens 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,126
+0022300506,203,PT08M27.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Bridges FOR McGowens,Substitution,,0,0,156
+0022300506,349,PT09M32.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,234,20,0,Made,1,52,56,108,h,McGowens 3PT Jump Shot (3 PTS) (Miller 2 AST),Made Shot,Jump Shot,1,3,246
+0022300506,396,PT06M14.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,234,57,24,Missed,1,,,0,h,MISS McGowens 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,281
+0022300506,435,PT04M34.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Thor FOR McGowens,Substitution,,0,0,306
+0022300506,519,PT10M32.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,365
+0022300506,542,PT08M55.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,49,173,18,Missed,1,,,0,h,MISS McGowens 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,381
+0022300506,546,PT08M37.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens P.FOUL (P1.T1) (N.Buchert),Foul,Personal,1,0,385
+0022300506,552,PT07M40.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-159,205,26,Missed,1,,,0,h,MISS McGowens 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,390
+0022300506,559,PT07M27.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Bridges FOR McGowens,Substitution,,0,0,395
+0022300518,10,PT11M19.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,5
+0022300518,19,PT10M30.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,11
+0022300518,42,PT08M26.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,MISS McGowens Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,29
+0022300518,44,PT08M26.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,9,3,12,h,McGowens Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,31
+0022300518,60,PT06M53.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,-125,233,26,Missed,1,,,0,h,MISS McGowens 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,44
+0022300518,65,PT06M21.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,1,0,48
+0022300518,102,PT03M28.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Mensah FOR McGowens,Substitution,,0,0,77
+0022300518,160,PT10M49.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,232,29,0,Made,1,31,39,70,h,McGowens 3PT Jump Shot (4 PTS) (Rozier 1 AST),Made Shot,Jump Shot,1,3,116
+0022300518,166,PT10M08.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Bouknight FOR McGowens,Substitution,,0,0,120
+0022300541,337,PT02M36.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens L.B.FOUL (P1.PN) (J.Goble),Foul,Loose Ball,1,0,252
+0022300541,349,PT01M29.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens STEAL (1 STL),,,1,0,263
+0022300541,423,PT08M15.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,172,200,26,Made,1,81,54,135,v,McGowens 26' 3PT Jump Shot (3 PTS) (Ball 4 AST),Made Shot,Jump Shot,1,3,313
+0022300541,468,PT05M09.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,344
+0022300541,482,PT04M14.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR McGowens,Substitution,,0,0,357
+0022300541,580,PT10M41.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-194,174,26,Missed,1,,,0,v,MISS McGowens 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,424
+0022300541,589,PT10M14.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens Bad Pass Turnover (P2.T15),Turnover,Bad Pass,1,0,430
+0022300541,624,PT08M35.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,76,176,19,Made,1,113,81,194,v,McGowens 19' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,2,454
+0022300541,631,PT07M48.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,17,-2,2,Made,1,115,86,201,v,McGowens 2' Running Layup (7 PTS) (Smith 5 AST),Made Shot,Running Layup Shot,1,2,459
+0022300541,636,PT07M08.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-42,-4,4,Made,1,115,88,203,v,McGowens 4' Driving Reverse Layup (9 PTS),Made Shot,Driving Reverse Layup Shot,1,2,463
+0022300541,646,PT05M47.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens Backcourt Turnover (P3.T17),Turnover,Backcourt Turnover,1,0,472
+0022300541,673,PT03M48.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,27,42,5,Missed,1,,,0,v,MISS McGowens 5' Layup,Missed Shot,Layup Shot,1,2,491
+0022300541,684,PT03M00.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-9,67,7,Made,1,125,94,219,v,McGowens 7' Driving Floating Bank Jump Shot (11 PTS) (Smith Jr. 4 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,500
+0022300541,688,PT03M00.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,125,95,220,v,McGowens Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,1,0,502
+0022300541,696,PT02M01.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens Kicked Ball Violation Turnover (P4.T18),Turnover,Kicked Ball Violation,1,0,508
+0022300551,303,PT00M12.20S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,233
+0022300551,304,PT00M12.20S,2,1610612766,CHA,1631121,McGowens,B. McGowens,36,9,4,Made,1,52,31,83,v,McGowens 4' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,234
+0022300551,635,PT00M29.70S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,470
+0022300551,636,PT00M22.10S,4,1610612766,CHA,1631121,McGowens,B. McGowens,123,236,27,Missed,1,,,0,v,MISS McGowens 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,471
+0022300610,221,PT06M01.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,50,20,5,Made,1,51,46,97,v,McGowens 5' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,149
+0022300610,274,PT02M17.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Black FOR McGowens,Substitution,,0,0,187
+0022300635,635,PT05M47.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,11,26,3,Made,1,91,128,219,h,McGowens 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,456
+0022300635,642,PT05M22.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,124,116,17,Missed,1,,,0,h,MISS McGowens 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,462
+0022300635,645,PT04M48.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,158,210,26,Missed,1,,,0,h,MISS McGowens 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,465
+0022300635,659,PT03M23.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,17,29,3,Made,1,93,132,225,h,McGowens 3' Driving Layup (4 PTS) (Smith 2 AST),Made Shot,Driving Layup Shot,1,2,476
+0022300635,668,PT03M00.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,142,67,16,Made,1,95,133,228,h,McGowens 16' Step Back Jump Shot (6 PTS) (Mensah 1 AST),Made Shot,Step Back Jump shot,1,2,482
+0022300635,671,PT02M42.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,484
+0022300635,676,PT02M18.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens P.FOUL (P1.T3) (B.Barnaky),Foul,Personal,1,0,488
+0022300635,705,PT00M35.60S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,103,138,241,h,McGowens Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,510
+0022300635,706,PT00M35.60S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,104,138,242,h,McGowens Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,511
+0022300657,550,PT01M44.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,405
+0022300657,577,PT00M30.80S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-1,72,7,Missed,1,,,0,h,MISS McGowens 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,423
+0022300674,15,PT11M01.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,9
+0022300674,20,PT10M30.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,15,6,2,Missed,1,,,0,h,MISS McGowens 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,12
+0022300674,40,PT08M24.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,15,16,2,Made,1,7,9,16,h,McGowens 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,29
+0022300674,46,PT07M41.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,8,11,19,h,McGowens Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,32
+0022300674,47,PT07M41.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,9,11,20,h,McGowens Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,33
+0022300674,61,PT06M11.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Washington FOR McGowens,Substitution,,0,0,44
+0022300674,326,PT10M22.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,-61,290,30,Missed,1,,,0,h,MISS McGowens 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,229
+0022300674,340,PT09M18.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,MISS McGowens Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,240
+0022300674,342,PT09M18.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,60,64,124,h,McGowens Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,242
+0022300674,375,PT05M53.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,-186,239,30,Missed,1,,,0,h,MISS McGowens 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,265
+0022300674,396,PT05M09.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,277
+0022300674,397,PT05M09.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Ntilikina FOR McGowens,Substitution,,0,0,280
+0022300695,42,PT08M31.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,21,61,6,Made,1,10,5,15,v,McGowens 6' Pullup Jump Shot (2 PTS) (Martin 1 AST),Made Shot,Pullup Jump shot,1,2,30
+0022300695,45,PT08M15.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,32
+0022300695,63,PT06M49.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,-230,-18,0,Missed,1,,,0,v,MISS McGowens 3PT Jump Shot,Missed Shot,Jump Shot,1,3,46
+0022300695,76,PT05M39.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Washington FOR McGowens,Substitution,,0,0,57
+0022300695,116,PT02M58.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,84
+0022300695,117,PT02M58.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,85
+0022300695,128,PT01M24.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,16,17,2,Made,1,34,19,53,v,McGowens 2' Running Finger Roll Layup (4 PTS) (Smith 2 AST),Made Shot,Running Finger Roll Layup Shot,1,2,93
+0022300695,131,PT00M55.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,36,282,28,Missed,1,,,0,v,MISS McGowens 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,95
+0022300695,259,PT04M11.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens S.FOUL (P1.PN) (J.Van Duyne),Foul,Shooting,1,0,179
+0022300695,265,PT03M49.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens BLOCK (1 BLK),,,1,2,185
+0022300695,272,PT03M17.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens S.FOUL (P2.PN) (J.Goble),Foul,Shooting,1,0,191
+0022300695,293,PT03M00.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,194
+0022300695,297,PT01M26.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,26,34,4,Made,1,68,42,110,v,McGowens 4' Driving Dunk (6 PTS),Made Shot,Driving Dunk Shot,1,2,208
+0022300695,304,PT00M39.30S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens S.FOUL (P3.PN) (J.Goble),Foul,Shooting,1,0,215
+0022300695,307,PT00M39.30S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR McGowens,Substitution,,0,0,217
+0022300695,340,PT10M42.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens STEAL (1 STL),,,1,0,241
+0022300695,352,PT09M45.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens STEAL (2 STL),,,1,0,249
+0022300695,356,PT09M41.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,80,50,130,v,McGowens Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,251
+0022300695,359,PT09M41.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,80,51,131,v,McGowens Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,253
+0022300695,363,PT08M57.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens P.FOUL (P4.T2) (D.Mosher),Foul,Personal,1,0,256
+0022300695,375,PT08M00.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,13,7,1,Made,1,83,58,141,v,McGowens 1' Running Finger Roll Layup (10 PTS) (Miller 3 AST),Made Shot,Running Finger Roll Layup Shot,1,2,267
+0022300695,382,PT07M20.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Washington FOR McGowens,Substitution,,0,0,271
+0022300695,579,PT05M47.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens STEAL (3 STL),,,1,0,413
+0022300695,586,PT05M15.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-159,211,26,Missed,1,,,0,v,MISS McGowens 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,419
+0022300695,589,PT05M02.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,422
+0022300695,590,PT05M01.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,21,16,3,Made,1,116,90,206,v,McGowens 3' Running Layup (12 PTS),Made Shot,Running Layup Shot,1,2,423
+0022300695,594,PT05M01.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,116,91,207,v,McGowens Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,1,0,426
+0022300695,610,PT03M11.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens STEAL (4 STL),,,1,0,440
+0022300695,612,PT03M05.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,17,33,4,Made,1,119,100,219,v,McGowens 4' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,1,2,441
+0022300695,615,PT03M05.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,MISS McGowens Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,443
+0022300695,628,PT02M05.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,33,17,4,Missed,1,,,0,v,MISS McGowens 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,453
+0022300695,630,PT01M59.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens S.FOUL (P5.T3) (J.Goble),Foul,Shooting,1,0,456
+0022300707,40,PT09M00.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,30
+0022300707,63,PT07M08.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Washington FOR McGowens,Substitution,,0,0,51
+0022300707,282,PT03M31.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,-5,31,3,Missed,1,,,0,h,MISS McGowens 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,211
+0022300707,315,PT00M57.30S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,43,52,95,h,McGowens Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,233
+0022300707,318,PT00M57.30S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,44,52,96,h,McGowens Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,235
+0022300707,385,PT07M20.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,-142,239,28,Missed,1,,,0,h,MISS McGowens 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,282
+0022300707,398,PT06M14.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Washington FOR McGowens,Substitution,,0,0,292
+0022300707,662,PT00M13.40S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,98,115,213,h,McGowens Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,482
+0022300707,663,PT00M13.40S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,99,115,214,h,McGowens Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,483
+0022300713,97,PT03M52.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens S.FOUL (P1.PN) (S.Mitchell),Foul,Shooting,1,0,72
+0022300713,134,PT01M15.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens STEAL (1 STL),,,1,0,99
+0022300713,136,PT01M10.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,-21,16,3,Missed,1,,,0,h,MISS McGowens 3' Running Layup,Missed Shot,Running Layup Shot,1,2,100
+0022300713,137,PT01M10.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,101
+0022300713,140,PT01M10.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,29,33,62,h,McGowens Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,103
+0022300713,141,PT01M10.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,MISS McGowens Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,104
+0022300713,162,PT11M42.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,118
+0022300713,185,PT09M34.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,218,141,26,Made,1,36,43,79,h,McGowens 26' 3PT Jump Shot (4 PTS) (Washington 2 AST),Made Shot,Jump Shot,1,3,136
+0022300713,199,PT08M22.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Bridges FOR McGowens,Substitution,,0,0,145
+0022300713,233,PT06M14.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens STEAL (2 STL),,,1,0,169
+0022300713,235,PT06M10.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,9,11,1,Made,1,46,57,103,h,McGowens 1' Running Layup (6 PTS) (Thor 1 AST),Made Shot,Running Layup Shot,1,2,170
+0022300713,247,PT05M15.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,-134,96,16,Missed,1,,,0,h,MISS McGowens 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,179
+0022300713,280,PT02M38.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,11,22,2,Made,1,52,66,118,h,McGowens 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,204
+0022300713,292,PT01M26.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens Out of Bounds - Bad Pass Turnover Turnover (P2.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,215
+0022300713,304,PT00M33.30S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens P.FOUL (P2.T3) (B.Forte),Foul,Personal,1,0,222
+0022300713,415,PT03M31.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,-33,19,4,Missed,1,,,0,h,MISS McGowens 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,304
+0022300713,481,PT10M33.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,352
+0022300713,485,PT10M05.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,356
+0022300713,490,PT09M50.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Thor FOR McGowens,Substitution,,0,0,360
+0022300713,528,PT07M22.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,388
+0022300713,540,PT05M36.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-16,16,2,Made,1,101,109,210,h,McGowens 2' Reverse Layup (10 PTS) (Bridges 3 AST),Made Shot,Reverse Layup Shot,1,2,396
+0022300713,542,PT05M14.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens P.FOUL (P3.T2) (T.Brothers),Foul,Personal,1,0,397
+0022300713,545,PT05M14.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Richards FOR McGowens,Substitution,,0,0,399
+0022300726,98,PT03M55.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,-112,231,26,Missed,1,,,0,h,MISS McGowens 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,68
+0022300726,100,PT03M42.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens P.FOUL (P1.T2) (S.Foster),Foul,Personal,1,0,70
+0022300726,103,PT03M29.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,72
+0022300726,116,PT02M22.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,-154,210,26,Missed,1,,,0,h,MISS McGowens 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,81
+0022300726,262,PT02M51.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,-233,15,0,Made,1,55,49,104,h,McGowens 3PT Jump Shot (3 PTS) (Martin 4 AST),Made Shot,Jump Shot,1,3,182
+0022300726,291,PT00M26.60S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,205
+0022300726,293,PT00M04.40S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,207
+0022300726,294,PT00M04.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,Made,1,60,54,114,h,McGowens Tip Dunk Shot (5 PTS),Made Shot,Tip Dunk Shot,1,2,208
+0022300726,422,PT02M28.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,227,41,0,Missed,1,,,0,h,MISS McGowens 3PT Jump Shot,Missed Shot,Jump Shot,1,3,295
+0022300726,439,PT00M40.80S,3,1610612766,CHA,1631121,McGowens,B. McGowens,228,38,0,Made,1,97,89,186,h,McGowens 3PT Jump Shot (8 PTS) (Smith 4 AST),Made Shot,Jump Shot,1,3,312
+0022300726,470,PT11M12.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens P.FOUL (P2.T1) (S.Foster),Foul,Personal,1,0,329
+0022300726,473,PT10M56.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,331
+0022300726,474,PT10M53.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,18,16,2,Made,1,99,91,190,h,McGowens 2' Running Layup (10 PTS),Made Shot,Running Layup Shot,1,2,332
+0022300726,487,PT09M23.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR McGowens,Substitution,,0,0,343
+0022300745,78,PT05M31.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,9,30,3,Missed,1,,,0,v,MISS McGowens 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,57
+0022300745,85,PT04M56.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,63
+0022300745,86,PT04M52.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,238,29,24,Made,1,21,14,35,v,McGowens 24' 3PT Running Jump Shot (3 PTS) (Bridges 1 AST),Made Shot,Running Jump Shot,1,3,64
+0022300745,98,PT03M45.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens S.FOUL (P1.T3) (R.Hussey),Foul,Shooting,1,0,73
+0022300745,147,PT00M26.10S,1,1610612766,CHA,1631121,McGowens,B. McGowens,235,-5,24,Missed,1,,,0,v,MISS McGowens 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,112
+0022300745,149,PT00M06.80S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens STEAL (1 STL),,,1,0,115
+0022300745,287,PT02M55.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens P.FOUL (P2.PN) (N.Buchert),Foul,Personal,1,0,217
+0022300745,316,PT00M56.60S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,236
+0022300745,317,PT00M55.20S,2,1610612766,CHA,1631121,McGowens,B. McGowens,-9,22,2,Made,1,61,36,97,v,McGowens 2' Running Dunk (5 PTS),Made Shot,Running Dunk Shot,1,2,237
+0022300745,337,PT11M47.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens S.FOUL (P3.T1) (R.Hussey),Foul,Shooting,1,0,250
+0022300745,348,PT10M41.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens S.FOUL (P4.T2) (A.Smith),Foul,Shooting,1,0,259
+0022300745,495,PT10M41.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Black FOR McGowens,Substitution,,0,0,260
+0022300745,462,PT01M32.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,-28,57,6,Missed,1,,,0,v,MISS McGowens 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,351
+0022300745,518,PT10M33.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens Bad Pass Turnover (P1.T15),Turnover,Bad Pass,1,0,384
+0022300745,528,PT09M04.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-185,223,29,Missed,1,,,0,v,MISS McGowens 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,393
+0022300745,567,PT05M53.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,423
+0022300745,570,PT05M45.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,111,72,183,v,McGowens Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,425
+0022300745,571,PT05M45.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,111,73,184,v,McGowens Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,426
+0022300745,580,PT04M48.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,121,238,27,Made,1,113,76,189,v,McGowens 27' 3PT Jump Shot (10 PTS) (Smith Jr. 3 AST),Made Shot,Jump Shot,1,3,434
+0022300745,583,PT04M28.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,436
+0022300745,591,PT03M47.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-112,248,27,Missed,1,,,0,v,MISS McGowens 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,442
+0022300745,600,PT03M22.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens P.FOUL (P5.T4) (N.Buchert),Foul,Personal,1,0,450
+0022300745,613,PT01M58.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-164,132,21,Made,1,118,81,199,v,McGowens 21' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,2,461
+0022300745,615,PT01M47.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,463
+0022300745,616,PT01M40.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,15,32,4,Made,1,118,83,201,v,McGowens 4' Driving Hook Shot (14 PTS) (Bailey 1 AST),Made Shot,Driving Hook Shot,1,2,464
+0022300745,627,PT00M33.60S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,MISS McGowens Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,472
+0022300745,629,PT00M33.60S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,120,84,204,v,McGowens Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,474
+0022300811,121,PT02M57.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,91
+0022300811,128,PT02M19.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens BLOCK (1 BLK),,,1,2,99
+0022300811,152,PT00M33.50S,1,1610612766,CHA,1631121,McGowens,B. McGowens,-15,53,6,Missed,1,,,0,v,MISS McGowens 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,114
+0022300811,162,PT00M02.60S,1,1610612766,CHA,1631121,McGowens,B. McGowens,-164,84,18,Missed,1,,,0,v,MISS McGowens 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,120
+0022300811,459,PT02M35.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens STEAL (1 STL),,,1,0,336
+0022300811,475,PT01M22.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,349
+0022300826,111,PT02M16.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,88
+0022300826,126,PT01M36.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens BLOCK (1 BLK),,,1,2,98
+0022300826,233,PT06M26.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,174
+0022300826,234,PT06M22.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,18,7,2,Missed,1,,,0,v,MISS McGowens 2' Running Layup,Missed Shot,Running Layup Shot,1,2,175
+0022300826,237,PT05M59.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,178
+0022300826,241,PT05M32.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,182
+0022300826,254,PT04M21.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,-228,10,0,Missed,1,,,0,v,MISS McGowens 3PT Jump Shot,Missed Shot,Jump Shot,1,3,193
+0022300826,266,PT03M17.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Miller FOR McGowens,Substitution,,0,0,204
+0022300826,434,PT02M23.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,53,64,117,v,McGowens Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,326
+0022300826,435,PT02M23.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,53,65,118,v,McGowens Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,327
+0022300826,438,PT01M55.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,11,0,1,Made,1,55,67,122,v,McGowens 1' Reverse Layup (4 PTS) (Micic 5 AST),Made Shot,Reverse Layup Shot,1,2,329
+0022300826,565,PT04M39.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Micic FOR McGowens,Substitution,,0,0,422
+0022300840,552,PT02M46.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,409
+0022300840,559,PT02M46.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,118,76,194,v,McGowens Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,415
+0022300840,560,PT02M46.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,118,77,195,v,McGowens Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,416
+0022300840,581,PT01M23.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,123,81,204,v,McGowens Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,430
+0022300840,582,PT01M23.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,123,82,205,v,McGowens Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,431
+0022300840,589,PT00M31.80S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,436
+0022300858,155,PT11M40.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,5,19,2,Made,1,32,29,61,v,McGowens 2' Driving Finger Roll Layup (2 PTS) (Bertans 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,106
+0022300858,159,PT11M40.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,MISS McGowens Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,108
+0022300858,164,PT10M51.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens BLOCK (1 BLK),,,1,2,114
+0022300858,189,PT08M45.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,130
+0022300858,193,PT08M34.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Martin FOR McGowens,Substitution,,0,0,133
+0022300858,423,PT01M02.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,-188,207,28,Missed,1,,,0,v,MISS McGowens 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,301
+0022300858,427,PT00M45.40S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens STEAL (1 STL),,,1,0,306
+0022300858,441,PT00M26.20S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens S.FOUL (P1.T1) (Z.Zarba),Foul,Shooting,1,0,315
+0022300858,447,PT00M04.40S,3,1610612766,CHA,1631121,McGowens,B. McGowens,-170,220,28,Missed,1,,,0,v,MISS McGowens 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,319
+0022300875,79,PT04M46.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens STEAL (1 STL),,,1,0,61
+0022300875,125,PT01M25.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens P.FOUL (P1.T2) (J.Sterling),Foul,Personal,1,0,94
+0022300875,129,PT00M58.40S,1,1610612766,CHA,1631121,McGowens,B. McGowens,132,22,13,Made,1,27,27,54,v,McGowens 13' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,1,2,96
+0022300875,132,PT00M58.40S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,27,28,55,v,McGowens Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,98
+0022300875,212,PT07M48.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,12,15,2,Made,1,33,38,71,v,McGowens 2' Running Layup (5 PTS) (Mann 1 AST),Made Shot,Running Layup Shot,1,2,160
+0022300875,237,PT06M33.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,176
+0022300875,257,PT04M25.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,8,1,Made,1,42,43,85,v,McGowens 1' Cutting Dunk Shot (7 PTS) (Williams 4 AST),Made Shot,Cutting Dunk Shot,1,2,192
+0022300875,263,PT03M30.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Miller FOR McGowens,Substitution,,0,0,195
+0022300875,472,PT00M32.10S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,MISS McGowens Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,355
+0022300875,474,PT00M32.10S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,82,75,157,v,McGowens Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,357
+0022300875,564,PT05M09.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens P.FOUL (P2.T1) (J.Sterling),Foul,Personal,1,0,420
+0022300875,587,PT03M48.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Micic FOR McGowens,Substitution,,0,0,436
+0022300885,102,PT02M34.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens P.FOUL (P1.T2) (D.Taylor),Foul,Personal,1,0,75
+0022300885,211,PT06M07.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens Traveling Turnover (P1.T9),Turnover,Traveling,1,0,148
+0022300885,245,PT02M54.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Miller FOR McGowens,Substitution,,0,0,174
+0022300910,266,PT03M39.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,201
+0022300910,267,PT03M32.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,-18,22,3,Missed,1,,,0,v,MISS McGowens 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,202
+0022300910,383,PT01M30.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens STEAL (1 STL),,,1,0,235
+0022300910,310,PT01M24.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,MISS McGowens Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,237
+0022300910,314,PT01M24.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,45,41,86,v,McGowens Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,240
+0022300910,315,PT01M14.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens S.FOUL (P1.T3) (J.Butler),Foul,Shooting,1,0,241
+0022300910,558,PT06M49.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-142,221,26,Missed,1,,,0,v,MISS McGowens 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,413
+0022300910,565,PT06M31.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Williams FOR McGowens,Substitution,,0,0,419
+0022301033,602,PT02M44.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-163,198,26,Missed,1,,,0,v,MISS McGowens 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,420
+0022301033,614,PT01M45.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,21,4,2,Made,1,110,90,200,v,McGowens 2' Driving Layup (2 PTS) (Thor 2 AST),Made Shot,Driving Layup Shot,1,2,427
+0022301062,609,PT00M54.50S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,442
+0022301062,612,PT00M47.90S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,96,115,211,h,McGowens Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,444
+0022301062,613,PT00M47.90S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,97,115,212,h,McGowens Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,445
+0022301062,617,PT00M15.50S,4,1610612766,CHA,1631121,McGowens,B. McGowens,146,232,27,Missed,1,,,0,h,MISS McGowens 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,449
+0022301079,182,PT07M13.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens P.FOUL (P1.T2) (D.Taylor),Foul,Personal,1,0,131
+0022301079,194,PT06M27.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,-238,84,25,Missed,1,,,0,h,MISS McGowens 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,140
+0022301079,228,PT04M47.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens P.FOUL (P2.T4) (M.Smith),Foul,Personal,1,0,163
+0022301079,231,PT04M39.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,165
+0022301079,249,PT02M57.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Mann FOR McGowens,Substitution,,0,0,178
+0022301102,114,PT02M13.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,12,11,2,Missed,1,,,0,h,MISS McGowens 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,85
+0022301102,123,PT01M41.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,21,11,2,Missed,1,,,0,h,MISS McGowens 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,92
+0022301102,129,PT01M25.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens L.B.FOUL (P1.T3) (E.Scott),Foul,Loose Ball,1,0,98
+0022301102,189,PT09M31.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,7,17,2,Missed,1,,,0,h,MISS McGowens 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,138
+0022301102,198,PT08M59.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,1,0,144
+0022301102,205,PT08M11.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens L.B.FOUL (P2.T3) (K.Cutler),Foul,Loose Ball,1,0,150
+0022301102,211,PT07M25.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,154
+0022301102,233,PT05M39.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Bolden FOR McGowens,Substitution,,0,0,170
+0022301102,487,PT10M24.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,1,50,5,Made,1,70,69,139,h,McGowens 5' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,360
+0022301102,490,PT10M03.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,363
+0022301102,491,PT09M58.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,9,9,1,Missed,1,,,0,h,MISS McGowens 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,364
+0022301102,511,PT08M40.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens BLOCK (1 BLK),,,1,2,381
+0022301102,515,PT08M26.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-112,129,17,Made,1,72,71,143,h,McGowens 17' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,1,2,383
+0022301102,526,PT07M27.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,175,71,19,Missed,1,,,0,h,MISS McGowens 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,391
+0022301102,529,PT06M58.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,227,3,0,Missed,1,,,0,h,MISS McGowens 3PT Jump Shot,Missed Shot,Jump Shot,1,3,394
+0022301102,535,PT06M25.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-145,225,27,Made,1,75,77,152,h,McGowens 27' 3PT Pullup Jump Shot (7 PTS) (Thor 1 AST),Made Shot,Pullup Jump shot,1,3,399
+0022301102,542,PT05M32.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,405
+0022301102,545,PT05M30.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Miller FOR McGowens,Substitution,,0,0,407
+0022301144,630,PT03M16.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,98,121,219,h,McGowens Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,450
+0022301144,631,PT03M16.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,99,121,220,h,McGowens Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,451
+0022301144,638,PT02M34.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,23,3,2,Missed,1,,,0,h,MISS McGowens 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,458
+0022301144,653,PT01M17.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-125,221,25,Missed,1,,,0,h,MISS McGowens 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,470
+0022301144,662,PT00M41.90S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,McGowens STEAL (1 STL),,,0,0,478
+0022301159,253,PT04M23.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,-2,15,2,Made,1,48,49,97,v,McGowens 2' Driving Layup (2 PTS) (Bridges 2 AST),Made Shot,Driving Layup Shot,1,2,182
+0022301159,288,PT01M15.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,161,190,25,Made,1,55,52,107,v,McGowens 25' 3PT Jump Shot (5 PTS) (Micic 4 AST),Made Shot,Jump Shot,1,3,207
+0022301159,292,PT00M47.40S,2,1610612766,CHA,1631121,McGowens,B. McGowens,-25,162,16,Missed,1,,,0,v,MISS McGowens 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,209
+0022301159,550,PT05M43.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,386
+0022301159,631,PT03M10.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Miller FOR McGowens,Substitution,,0,0,414
+0022301173,258,PT03M38.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,56,41,97,v,McGowens Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,188
+0022301173,261,PT03M38.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,MISS McGowens Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,190
+0022301173,271,PT02M38.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens Out of Bounds Lost Ball Turnover (P1.T10),Turnover,Out of Bounds Lost Ball Turnover,1,0,198
+0022301173,388,PT04M35.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens BLOCK (1 BLK),,,1,2,276
+0022301173,396,PT04M10.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,90,65,155,v,McGowens Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,281
+0022301173,397,PT04M10.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,90,66,156,v,McGowens Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,282
+0022301173,404,PT03M10.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,289
+0022301173,407,PT03M06.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,90,70,160,v,McGowens Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,291
+0022301173,414,PT03M06.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,MISS McGowens Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,295
+0022301173,418,PT02M39.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,86,50,10,Missed,1,,,0,v,MISS McGowens 10' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,2,298
+0022301173,429,PT01M51.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,-32,17,4,Made,1,92,74,166,v,McGowens 4' Running Alley Oop Layup Shot (6 PTS) (Pokusevski 1 AST),Made Shot,Running Alley Oop Layup Shot,1,2,309
+0022301173,443,PT01M11.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens Bad Pass Turnover (P2.T14),Turnover,Bad Pass,1,0,320
+0022301173,446,PT00M53.10S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,323
+0022301173,489,PT10M01.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,98,77,175,v,McGowens Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,347
+0022301173,490,PT10M01.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,98,78,176,v,McGowens Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,348
+0022301173,499,PT08M53.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens Traveling Turnover (P3.T15),Turnover,Traveling,1,0,356
+0022301173,521,PT07M17.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Mann FOR McGowens,Substitution,,0,0,374
+0022301173,608,PT01M38.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-167,199,26,Missed,1,,,0,v,MISS McGowens 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,438
+0022301173,626,PT00M14.80S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-4,6,1,Missed,1,,,0,v,MISS McGowens 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,448
+0022301187,31,PT09M04.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,241,28,24,Made,1,6,8,14,v,McGowens 24' 3PT Jump Shot (3 PTS) (Thor 1 AST),Made Shot,Jump Shot,1,3,22
+0022301187,35,PT08M31.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,2,10,1,Missed,1,,,0,v,MISS McGowens 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,24
+0022301187,65,PT06M04.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,2,-6,1,Missed,1,,,0,v,MISS McGowens 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,49
+0022301187,67,PT06M01.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,235,32,24,Missed,1,,,0,v,MISS McGowens 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,51
+0022301187,86,PT04M39.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,-237,8,24,Missed,1,,,0,v,MISS McGowens 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,64
+0022301187,100,PT03M23.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens BLOCK (1 BLK),,,1,2,75
+0022301187,111,PT02M30.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,84
+0022301187,112,PT02M30.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,Missed,1,,,0,v,MISS McGowens Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,85
+0022301187,118,PT02M30.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Bailey FOR McGowens,Substitution,,0,0,91
+0022301187,273,PT02M29.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,-188,237,30,Made,1,53,53,106,v,McGowens 30' 3PT Jump Shot (6 PTS) (Smith Jr. 1 AST),Made Shot,Jump Shot,1,3,197
+0022301187,282,PT01M12.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,235,11,24,Missed,1,,,0,v,MISS McGowens 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,203
+0022301187,285,PT01M01.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,206
+0022301187,295,PT00M00.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,230,60,24,Missed,1,,,0,v,MISS McGowens 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,214
+0022301187,312,PT10M24.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,-9,11,1,Made,1,63,63,126,v,McGowens 1' Running Reverse Layup (8 PTS) (Bolden 1 AST),Made Shot,Running Reverse Layup Shot,1,2,226
+0022301187,319,PT09M44.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,231
+0022301187,326,PT08M51.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,-110,13,11,Missed,1,,,0,v,MISS McGowens 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,0,2,237
+0022301187,332,PT08M21.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,6,1,Made,1,71,67,138,v,McGowens 1' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,242
+0022301187,349,PT07M11.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,77,71,148,v,McGowens Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,252
+0022301187,350,PT07M11.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,77,72,149,v,McGowens Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,253
+0022301187,372,PT05M42.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,81,76,157,v,McGowens Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,266
+0022301187,373,PT05M42.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,81,77,158,v,McGowens Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,267
+0022301187,385,PT04M38.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Bolden FOR McGowens,Substitution,,0,0,275
+0022301187,481,PT09M53.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-145,55,16,Made,1,103,92,195,v,McGowens 16' Fadeaway Jumper (16 PTS) (Smith Jr. 3 AST),Made Shot,Fadeaway Jump Shot,1,2,333
+0022301187,509,PT07M12.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-5,14,1,Made,1,106,102,208,v,McGowens 1' Driving Layup (18 PTS) (Pokusevski 3 AST),Made Shot,Driving Layup Shot,1,2,353
+0022301187,533,PT05M55.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Bolden FOR McGowens,Substitution,,0,0,371
+0022301211,203,PT08M32.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,145
+0022301211,224,PT07M39.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Hayward FOR McGowens,Substitution,,0,0,160
+0022301211,271,PT04M39.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,191
+0022301211,272,PT04M37.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,-1,-5,1,Made,1,45,34,79,v,McGowens 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,192
+0022301211,302,PT02M05.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Miller FOR McGowens,Substitution,,0,0,217
+0022301211,436,PT03M53.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,235,-3,24,Made,1,67,57,124,v,McGowens 24' 3PT Jump Shot (5 PTS) (Smith 3 AST),Made Shot,Jump Shot,1,3,321
+0022301211,452,PT02M47.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens P.FOUL (P1.PN) (C.Blair),Foul,Personal,1,0,329
+0022301211,477,PT00M48.70S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens S.FOUL (P2.PN) (J.Conley),Foul,Shooting,1,0,346
+0022301211,519,PT10M32.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,McGowens P.FOUL (P3.T3) (C.Blair),Foul,Personal,1,0,377
+0022301211,540,PT09M17.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,v,SUB: Hayward FOR McGowens,Substitution,,0,0,393
+0022301216,192,PT08M28.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Williams FOR McGowens,Substitution,,0,0,141
+0022301216,500,PT08M38.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,,,0,h,SUB: Miller FOR McGowens,Substitution,,0,0,356

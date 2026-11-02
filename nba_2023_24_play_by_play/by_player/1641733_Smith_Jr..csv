@@ -1,0 +1,553 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300017,251,PT04M55.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,192
+0022300017,252,PT04M53.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,21,20,3,Missed,1,,,0,h,MISS Smith Jr. 3' Layup,Missed Shot,Layup Shot,1,2,193
+0022300017,270,PT03M04.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Smith FOR Smith Jr.,Substitution,,0,0,207
+0022300017,559,PT06M17.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-179,188,26,Made,1,93,97,190,h,Smith Jr. 26' 3PT Jump Shot (3 PTS) (Washington 1 AST),Made Shot,Jump Shot,1,3,413
+0022300017,608,PT00M51.20S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. S.FOUL (P1.PN) (D.Taylor),Foul,Shooting,1,0,453
+0022300027,169,PT11M48.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-178,179,25,Missed,1,,,0,h,MISS Smith Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,124
+0022300027,181,PT10M29.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,31,155,16,Made,1,39,28,67,h,Smith Jr. 16' Pullup Jump Shot (2 PTS) (Bridges 3 AST),Made Shot,Pullup Jump shot,1,2,136
+0022300027,207,PT08M36.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,156
+0022300027,208,PT08M33.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,157
+0022300027,227,PT07M16.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. BLOCK (1 BLK),,,1,2,172
+0022300027,241,PT06M32.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Bridges FOR Smith Jr.,Substitution,,0,0,180
+0022300027,599,PT02M49.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,48,170,18,Missed,1,,,0,h,MISS Smith Jr. 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,441
+0022300027,601,PT02M40.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. P.FOUL (P1.T3) (S.Wall),Foul,Personal,1,0,443
+0022300027,621,PT01M24.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-164,117,20,Missed,1,,,0,h,MISS Smith Jr. 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,455
+0022300027,631,PT00M39.50S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-34,62,7,Missed,1,,,0,h,MISS Smith Jr. 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,462
+0022300027,632,PT00M34.90S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,463
+0022300027,633,PT00M34.90S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,Missed,1,,,0,h,MISS Smith Jr. Putback Layup,Missed Shot,Putback Layup Shot,1,2,464
+0022300057,572,PT04M35.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,25,253,25,Made,1,101,81,182,v,Smith Jr. 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,427
+0022300057,581,PT03M44.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,235,21,24,Made,1,101,84,185,v,Smith Jr. 24' 3PT Running Jump Shot (6 PTS) (Maledon 1 AST),Made Shot,Running Jump Shot,1,3,434
+0022300057,591,PT02M34.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-38,209,21,Missed,1,,,0,v,MISS Smith Jr. 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,441
+0022300057,621,PT00M48.80S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-124,162,20,Made,1,112,89,201,v,Smith Jr. 20' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,2,463
+0022300157,666,PT03M52.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,43,85,10,Made,1,111,129,240,h,Smith Jr. 10' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,1,2,487
+0022300157,673,PT02M58.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. STEAL (1 STL),,,1,0,495
+0022300157,675,PT02M55.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T19),Turnover,Out of Bounds - Bad Pass Turnover,1,0,496
+0022300157,697,PT01M35.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-158,265,31,Made,1,114,132,246,h,Smith Jr. 31' 3PT Jump Shot (5 PTS) (Black 1 AST),Made Shot,Jump Shot,1,3,513
+0022300157,707,PT00M50.70S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,522
+0022300177,602,PT04M32.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,230,-25,0,Missed,1,,,0,v,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,431
+0022300177,615,PT03M48.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,188,211,28,Missed,1,,,0,v,MISS Smith Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,441
+0022300177,619,PT03M24.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,17,6,2,Missed,1,,,0,v,MISS Smith Jr. 2' Layup,Missed Shot,Layup Shot,1,2,444
+0022300177,646,PT02M00.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-20,257,26,Made,1,124,103,227,v,Smith Jr. 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,463
+0022300177,653,PT01M10.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,118,188,22,Missed,1,,,0,v,MISS Smith Jr. 22' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,469
+0022300177,667,PT00M06.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-51,262,27,Missed,1,,,0,v,MISS Smith Jr. 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,481
+0022300225,279,PT01M10.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. S.FOUL (P1.T2) (S.Mehta),Foul,Shooting,1,0,207
+0022300225,294,PT00M03.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-7,75,8,Made,1,49,53,102,h,Smith Jr. 8' Jump Shot (2 PTS) (Hayward 4 AST),Made Shot,Jump Shot,1,2,219
+0022300266,153,PT11M52.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. S.FOUL (P1.T1) (B.Forte),Foul,Shooting,1,0,113
+0022300266,181,PT09M52.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. S.FOUL (P2.T3) (J.Sterling),Foul,Shooting,0,0,134
+0022300266,191,PT09M11.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,142
+0022300266,192,PT09M03.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-13,280,28,Made,1,45,43,88,v,Smith Jr. 28' 3PT Jump Shot (3 PTS) (Rozier 5 AST),Made Shot,Jump Shot,1,3,143
+0022300266,229,PT05M55.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: McGowens FOR Smith Jr.,Substitution,,0,0,168
+0022300266,492,PT11M03.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,75,256,27,Made,1,108,107,215,v,Smith Jr. 27' 3PT Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,1,3,360
+0022300266,501,PT10M13.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,164,227,28,Made,1,108,110,218,v,Smith Jr. 28' 3PT Jump Shot (9 PTS) (Rozier 13 AST),Made Shot,Jump Shot,1,3,369
+0022300266,503,PT09M53.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. BLOCK (1 BLK),,,1,2,371
+0022300266,515,PT08M42.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,31,15,3,Missed,1,,,0,v,MISS Smith Jr. 3' Running Alley Oop Layup Shot,Missed Shot,Running Alley Oop Layup Shot,1,2,382
+0022300266,552,PT05M55.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: McGowens FOR Smith Jr.,Substitution,,0,0,414
+0022300335,184,PT09M58.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-94,252,27,Missed,1,,,0,h,MISS Smith Jr. 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,133
+0022300335,229,PT06M38.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,2,20,2,Made,1,26,48,74,h,Smith Jr. 2' Cutting Layup Shot (2 PTS) (Smith 1 AST),Made Shot,Cutting Layup Shot,1,2,170
+0022300335,247,PT05M34.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,184
+0022300335,253,PT04M50.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-147,217,26,Made,1,32,50,82,h,Smith Jr. 26' 3PT Jump Shot (5 PTS) (Smith 2 AST),Made Shot,Jump Shot,1,3,189
+0022300335,472,PT10M47.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-10,262,26,Missed,1,,,0,h,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,346
+0022300335,475,PT10M05.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-131,221,26,Missed,1,,,0,h,MISS Smith Jr. 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,349
+0022300335,523,PT05M45.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,113,6,11,Missed,1,,,0,h,MISS Smith Jr. 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,388
+0022300335,549,PT03M34.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. S.FOUL (P1.T2) (M.Kallio),Foul,Shooting,1,0,412
+0022300335,560,PT02M23.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-5,38,4,Made,1,77,128,205,h,Smith Jr. 4' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,1,2,420
+0022300335,561,PT02M17.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. P.FOUL (P2.T3) (M.Davis),Foul,Personal,1,0,421
+0022300335,575,PT01M26.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,11,124,12,Made,1,79,130,209,h,Smith Jr. 12' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,2,428
+0022300354,112,PT02M03.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. S.FOUL (P1.T1) (J.Butler),Foul,Shooting,1,0,86
+0022300354,122,PT01M29.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-137,63,15,Made,1,15,24,39,v,Smith Jr. 15' Pullup Jump Shot (2 PTS) (Rozier 2 AST),Made Shot,Pullup Jump shot,1,2,94
+0022300354,138,PT00M15.90S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,4,285,29,Missed,1,,,0,v,MISS Smith Jr. 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,106
+0022300354,152,PT11M39.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-37,179,18,Missed,1,,,0,v,MISS Smith Jr. 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,113
+0022300354,189,PT08M35.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,142
+0022300354,192,PT08M08.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-237,43,24,Missed,1,,,0,v,MISS Smith Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,144
+0022300354,195,PT07M56.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,147
+0022300354,206,PT07M38.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: McGowens FOR Smith Jr.,Substitution,,0,0,157
+0022300354,268,PT04M19.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-191,31,19,Missed,1,,,0,v,MISS Smith Jr. 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,200
+0022300354,274,PT03M40.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. S.FOUL (P2.T3) (J.Goble),Foul,Shooting,1,0,206
+0022300354,291,PT02M42.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: Miller FOR Smith Jr.,Substitution,,0,0,218
+0022300354,442,PT02M10.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,230,-5,0,Made,1,75,77,152,v,Smith Jr. 3PT Jump Shot (5 PTS) (Smith 1 AST),Made Shot,Jump Shot,1,3,326
+0022300354,484,PT10M42.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-110,239,26,Missed,1,,,0,v,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,355
+0022300354,488,PT10M08.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,12,66,7,Made,1,83,85,168,v,Smith Jr. 7' Pullup Jump Shot (7 PTS) (Rozier 6 AST),Made Shot,Pullup Jump shot,1,2,358
+0022300354,508,PT08M54.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-214,131,25,Missed,1,,,0,v,MISS Smith Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,377
+0022300354,519,PT07M04.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. BLOCK (1 BLK),,,1,2,388
+0022300354,526,PT07M03.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: Richards FOR Smith Jr.,Substitution,,0,0,394
+0022300365,605,PT05M22.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,152,59,16,Made,1,130,104,234,v,Smith Jr. 16' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,424
+0022300365,607,PT04M41.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,148,268,31,Missed,1,,,0,v,MISS Smith Jr. 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,426
+0022300365,623,PT02M41.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,96,237,26,Missed,1,,,0,v,MISS Smith Jr. 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,440
+0022300365,626,PT02M24.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,443
+0022300365,638,PT01M44.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,1,121,12,Made,1,138,109,247,v,Smith Jr. 12' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,453
+0022300365,651,PT00M17.30S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-202,147,25,Missed,1,,,0,v,MISS Smith Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,462
+0022300365,653,PT00M14.20S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,11,58,6,Made,1,144,113,257,v,Smith Jr. 6' Floating Jump Shot (6 PTS),Made Shot,Floating Jump shot,1,2,464
+0022300390,126,PT02M17.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-18,175,18,Missed,1,,,0,h,MISS Smith Jr. 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,91
+0022300390,276,PT03M59.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Smith FOR Smith Jr.,Substitution,,0,0,204
+0022300390,429,PT03M10.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,327
+0022300390,430,PT02M59.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,135,158,21,Missed,1,,,0,h,MISS Smith Jr. 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,328
+0022300390,432,PT02M52.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,6,87,9,Missed,1,,,0,h,MISS Smith Jr. 9' Jump Shot,Missed Shot,Jump Shot,1,2,330
+0022300390,433,PT02M51.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,331
+0022300390,436,PT02M51.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,64,79,143,h,Smith Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,333
+0022300390,441,PT02M51.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,65,79,144,h,Smith Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,336
+0022300390,448,PT02M02.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,152,209,26,Missed,1,,,0,h,MISS Smith Jr. 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,343
+0022300390,583,PT11M33.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,373
+0022300390,520,PT09M58.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,17,67,7,Made,1,73,86,159,h,Smith Jr. 7' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,393
+0022300390,521,PT09M48.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. P.FOUL (P1.T1) (N.Green),Foul,Personal,1,0,394
+0022300390,533,PT08M53.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-227,22,0,Made,1,76,88,164,h,Smith Jr. 3PT Jump Shot (7 PTS) (Smith 8 AST),Made Shot,Jump Shot,1,3,405
+0022300390,572,PT06M25.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,179,245,30,Made,1,82,93,175,h,Smith Jr. 30' 3PT Jump Shot (10 PTS) (Bridges 2 AST),Made Shot,Jump Shot,1,3,432
+0022300390,576,PT05M51.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Out of Bounds Lost Ball Turnover (P1.T15),Turnover,Out of Bounds Lost Ball Turnover,1,0,435
+0022300390,593,PT04M48.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,200,177,27,Made,1,88,93,181,h,Smith Jr. 27' 3PT Pullup Jump Shot (13 PTS) (Hayward 4 AST),Made Shot,Pullup Jump shot,1,3,447
+0022300390,606,PT04M17.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,156,248,29,Made,1,91,95,186,h,Smith Jr. 29' 3PT Jump Shot (16 PTS) (Washington 1 AST),Made Shot,Jump Shot,1,3,456
+0022300390,612,PT03M24.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-173,182,25,Made,1,94,97,191,h,Smith Jr. 25' 3PT Jump Shot (19 PTS) (Washington 2 AST),Made Shot,Jump Shot,1,3,458
+0022300390,621,PT02M28.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,224,35,0,Missed,1,,,0,h,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,465
+0022300390,635,PT01M08.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. S.FOUL (P2.T4) (N.Green),Foul,Shooting,1,0,476
+0022300390,665,PT00M21.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,123,121,17,Missed,1,,,0,h,MISS Smith Jr. 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,499
+0022300414,172,PT11M06.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-237,32,24,Missed,1,,,0,v,MISS Smith Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,120
+0022300414,186,PT09M47.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. S.FOUL (P1.T3) (K.Lane),Foul,Shooting,1,0,132
+0022300414,206,PT08M03.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,146,221,26,Missed,1,,,0,v,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,148
+0022300414,237,PT06M19.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-26,43,5,Made,1,37,33,70,v,Smith Jr. 5' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,170
+0022300414,244,PT05M42.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: Bridges FOR Smith Jr.,Substitution,,0,0,177
+0022300414,493,PT10M33.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,94,262,28,Made,1,84,86,170,v,Smith Jr. 28' 3PT Jump Shot (5 PTS) (McGowens 2 AST),Made Shot,Jump Shot,1,3,356
+0022300414,515,PT08M48.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,49,322,33,Missed,1,,,0,v,MISS Smith Jr. 33' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,374
+0022300414,520,PT08M13.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. P.FOUL (P2.T1) (S.Foster),Foul,Personal,1,0,379
+0022300414,532,PT07M42.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. P.FOUL (P3.T2) (K.Lane),Foul,Personal,1,0,386
+0022300414,555,PT05M57.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: Rozier FOR Smith Jr.,Substitution,,0,0,402
+0022300428,197,PT09M45.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,39,276,28,Made,1,33,36,69,v,Smith Jr. 28' 3PT Step Back Jump Shot (3 PTS) (Rozier 3 AST),Made Shot,Step Back Jump shot,1,3,140
+0022300428,213,PT08M15.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. Out of Bounds Lost Ball Turnover (P1.T7),Turnover,Out of Bounds Lost Ball Turnover,1,0,152
+0022300428,260,PT05M43.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: Martin FOR Smith Jr.,Substitution,,0,0,185
+0022300428,558,PT08M55.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-61,118,13,Missed,1,,,0,v,MISS Smith Jr. 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,401
+0022300428,580,PT07M06.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. P.FOUL (P1.T2) (B.Nansel),Foul,Personal,1,0,415
+0022300428,585,PT06M48.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,418
+0022300428,611,PT05M51.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,146,258,30,Made,1,120,96,216,v,Smith Jr. 30' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,3,435
+0022300428,617,PT05M02.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,439
+0022300428,618,PT04M47.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,34,168,17,Missed,1,,,0,v,MISS Smith Jr. 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,440
+0022300428,622,PT04M09.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. Bad Pass Turnover (P2.T18),Turnover,Bad Pass,1,0,443
+0022300428,646,PT02M42.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. BLOCK (1 BLK),,,1,2,462
+0022300428,658,PT01M43.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,471
+0022300436,159,PT11M43.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-153,218,27,Made,1,36,33,69,v,Smith Jr. 27' 3PT Jump Shot (3 PTS) (Washington 1 AST),Made Shot,Jump Shot,1,3,107
+0022300436,170,PT10M33.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,115
+0022300436,171,PT10M32.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,116
+0022300436,185,PT09M07.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-126,4,13,Made,1,42,37,79,v,Smith Jr. 13' Jump Shot (5 PTS) (Rozier 2 AST),Made Shot,Jump Shot,1,2,127
+0022300436,189,PT08M35.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,124,262,29,Made,1,44,40,84,v,Smith Jr. 29' 3PT Jump Shot (8 PTS) (Bridges 4 AST),Made Shot,Jump Shot,1,3,129
+0022300436,192,PT07M54.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,107,-14,11,Made,1,46,42,88,v,Smith Jr. 11' Pullup Jump Shot (10 PTS) (McGowens 2 AST),Made Shot,Pullup Jump shot,1,2,131
+0022300436,199,PT07M19.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,107,29,11,Missed,1,,,0,v,MISS Smith Jr. 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,135
+0022300436,203,PT06M59.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. S.FOUL (P1.T2) (A.Smith),Foul,Shooting,1,0,139
+0022300436,209,PT06M59.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: Miller FOR Smith Jr.,Substitution,,0,0,144
+0022300436,297,PT00M31.90S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-229,28,0,Missed,1,,,0,v,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,200
+0022300436,491,PT09M45.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,232,117,26,Missed,1,,,0,v,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,327
+0022300436,494,PT09M24.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,330
+0022300436,530,PT07M20.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: Martin FOR Smith Jr.,Substitution,,0,0,356
+0022300455,81,PT04M03.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. BLOCK (1 BLK),,,1,2,65
+0022300455,120,PT01M58.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-64,127,14,Missed,1,,,0,v,MISS Smith Jr. 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,91
+0022300455,127,PT01M10.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. S.FOUL (P1.T1) (D.Guthrie),Foul,Shooting,1,0,97
+0022300455,227,PT06M09.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-233,64,24,Made,1,33,37,70,v,Smith Jr. 24' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,167
+0022300455,230,PT05M46.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. Traveling Turnover (P1.T5),Turnover,Traveling,1,0,170
+0022300455,245,PT04M13.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. P.FOUL (P2.T4) (D.Guthrie),Foul,Personal,1,0,182
+0022300455,247,PT04M13.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: Smith FOR Smith Jr.,Substitution,,0,0,183
+0022300455,371,PT04M50.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-116,10,12,Missed,1,,,0,v,MISS Smith Jr. 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,278
+0022300455,373,PT04M46.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,280
+0022300455,425,PT01M24.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,174,198,26,Missed,1,,,0,v,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,318
+0022300455,443,PT00M00.30S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,69,40,8,Missed,1,,,0,v,MISS Smith Jr. 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,333
+0022300455,547,PT05M06.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,405
+0022300455,548,PT04M59.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,20,9,2,Made,1,107,85,192,v,Smith Jr. 2' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,406
+0022300455,572,PT03M21.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,424
+0022300455,573,PT03M20.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,202,161,26,Missed,1,,,0,v,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,425
+0022300455,580,PT02M44.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. Bad Pass Turnover (P2.T13),Turnover,Bad Pass,1,0,431
+0022300455,588,PT01M41.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,26,25,4,Missed,1,,,0,v,MISS Smith Jr. 4' Running Layup,Missed Shot,Running Layup Shot,1,2,438
+0022300464,202,PT10M20.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-233,-15,0,Made,1,26,28,54,v,Smith Jr. 3PT Jump Shot (3 PTS) (Martin 1 AST),Made Shot,Jump Shot,1,3,141
+0022300464,204,PT10M09.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. S.FOUL (P1.T1) (N.Green),Foul,Shooting,1,0,142
+0022300464,222,PT09M02.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,124,226,26,Missed,1,,,0,v,MISS Smith Jr. 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,152
+0022300464,280,PT06M00.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,148,218,26,Made,1,35,36,71,v,Smith Jr. 26' 3PT Jump Shot (6 PTS) (Bridges 2 AST),Made Shot,Jump Shot,1,3,188
+0022300464,298,PT04M42.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: Washington FOR Smith Jr.,Substitution,,0,0,201
+0022300464,601,PT05M54.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. BLOCK (1 BLK),,,1,2,422
+0022300464,658,PT05M47.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. BLOCK (2 BLK),,,1,2,425
+0022300464,701,PT05M10.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: Washington FOR Smith Jr.,Substitution,,0,0,436
+0022300484,159,PT11M12.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. Traveling Turnover (P1.T4),Turnover,Traveling,1,0,116
+0022300484,172,PT10M12.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-169,183,25,Made,1,25,28,53,v,Smith Jr. 25' 3PT Jump Shot (3 PTS) (Thor 1 AST),Made Shot,Jump Shot,1,3,124
+0022300484,174,PT10M03.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. STEAL (1 STL),,,1,0,126
+0022300484,176,PT09M59.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,2,-6,1,Made,1,25,30,55,v,Smith Jr. 1' Running Layup (5 PTS),Made Shot,Running Layup Shot,1,2,127
+0022300484,188,PT08M47.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-12,153,15,Missed,1,,,0,v,MISS Smith Jr. 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,135
+0022300484,242,PT05M36.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: Thor FOR Smith Jr.,Substitution,,0,0,175
+0022300484,494,PT11M12.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,348
+0022300484,499,PT10M38.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-23,218,22,Missed,1,,,0,v,MISS Smith Jr. 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,353
+0022300484,526,PT08M51.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,372
+0022300484,545,PT07M41.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: Miller FOR Smith Jr.,Substitution,,0,0,385
+0022300484,584,PT04M20.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-217,125,25,Made,1,98,83,181,v,Smith Jr. 25' 3PT Jump Shot (8 PTS) (Martin 2 AST),Made Shot,Jump Shot,1,3,413
+0022300484,588,PT03M59.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-10,5,1,Made,1,98,85,183,v,Smith Jr. 1' Driving Reverse Layup (10 PTS) (Rozier 7 AST),Made Shot,Driving Reverse Layup Shot,1,2,416
+0022300506,157,PT11M05.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-159,213,27,Missed,1,,,0,h,MISS Smith Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,121
+0022300506,178,PT09M43.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-192,-4,19,Missed,1,,,0,h,MISS Smith Jr. 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,139
+0022300506,226,PT06M46.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,15,8,2,Missed,1,,,0,h,MISS Smith Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,169
+0022300506,249,PT04M49.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-25,3,3,Missed,1,,,0,h,MISS Smith Jr. 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,187
+0022300506,250,PT04M47.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,188
+0022300506,251,PT04M47.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,Missed,1,,,0,h,MISS Smith Jr. Putback Layup,Missed Shot,Putback Layup Shot,1,2,189
+0022300506,252,PT04M47.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,190
+0022300506,253,PT04M47.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,Made,1,31,37,68,h,Smith Jr. Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,191
+0022300506,260,PT04M33.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,196
+0022300506,322,PT02M44.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Out of Bounds Lost Ball Turnover (P1.T8),Turnover,Out of Bounds Lost Ball Turnover,1,0,211
+0022300506,295,PT01M31.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-228,3,0,Missed,1,,,0,h,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,216
+0022300506,429,PT04M57.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,237,70,25,Made,1,63,69,132,h,Smith Jr. 25' 3PT Jump Shot (5 PTS) (Bridges 2 AST),Made Shot,Jump Shot,1,3,303
+0022300506,466,PT02M46.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Rozier FOR Smith Jr.,Substitution,,0,0,326
+0022300506,510,PT11M21.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-28,62,7,Made,1,78,83,161,h,Smith Jr. 7' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,2,358
+0022300506,520,PT10M10.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,25,178,18,Missed,1,,,0,h,MISS Smith Jr. 18' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,366
+0022300506,536,PT09M47.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. STEAL (1 STL),,,1,0,378
+0022300506,549,PT08M07.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-1,101,10,Made,1,88,89,177,h,Smith Jr. 10' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,1,2,387
+0022300506,551,PT07M56.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,389
+0022300506,575,PT06M24.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-127,42,13,Missed,1,,,0,h,MISS Smith Jr. 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,403
+0022300506,599,PT04M29.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,234,41,24,Made,1,97,102,199,h,Smith Jr. 24' 3PT Jump Shot (12 PTS) (Bridges 5 AST),Made Shot,Jump Shot,1,3,420
+0022300506,627,PT01M51.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Out of Bounds Lost Ball Turnover (P2.T13),Turnover,Out of Bounds Lost Ball Turnover,1,0,442
+0022300506,680,PT01M40.00S,5,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-228,12,0,Made,1,112,115,227,h,Smith Jr. 3PT Running Jump Shot (15 PTS) (Miller 4 AST),Made Shot,Running Jump Shot,1,3,487
+0022300506,684,PT01M10.00S,5,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-20,268,27,Missed,1,,,0,h,MISS Smith Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,490
+0022300506,689,PT00M41.00S,5,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. OFF.Foul (P1) (P.O'Connell),Foul,Offensive,1,0,494
+0022300506,691,PT00M41.00S,5,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Offensive Foul Turnover (P3.T15),Turnover,Offensive Foul Turnover,1,0,495
+0022300506,699,PT00M16.20S,5,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Personal Take Foul (P2.PN) (P.O'Connell),Foul,Personal Take,1,0,500
+0022300518,151,PT11M35.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Step Out of Bounds Turnover (P1.T3),Turnover,Step Out of Bounds Turnover,1,0,109
+0022300518,175,PT09M30.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,MISS Smith Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,126
+0022300518,177,PT09M30.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,32,44,76,h,Smith Jr. Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,128
+0022300518,179,PT09M13.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. S.FOUL (P1.T1) (E.Malloy),Foul,Shooting,1,0,130
+0022300518,182,PT08M59.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-228,25,0,Made,1,35,47,82,h,Smith Jr. 3PT Jump Shot (4 PTS) (Mensah 1 AST),Made Shot,Jump Shot,1,3,132
+0022300518,192,PT08M20.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,11,54,6,Missed,1,,,0,h,MISS Smith Jr. 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,137
+0022300518,197,PT07M36.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. S.FOUL (P2.T2) (E.Malloy),Foul,Shooting,1,0,142
+0022300518,202,PT07M36.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Miller FOR Smith Jr.,Substitution,,0,0,147
+0022300518,308,PT10M32.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,2,25,3,Missed,1,,,0,h,MISS Smith Jr. 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,215
+0022300518,311,PT10M23.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,218
+0022300518,312,PT10M10.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,164,200,26,Made,1,62,73,135,h,Smith Jr. 26' 3PT Jump Shot (7 PTS) (Rozier 2 AST),Made Shot,Jump Shot,1,3,219
+0022300518,330,PT08M00.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,105,220,24,Missed,1,,,0,h,MISS Smith Jr. 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,233
+0022300518,348,PT06M09.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,249
+0022300518,367,PT05M12.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-131,214,25,Missed,1,,,0,h,MISS Smith Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,261
+0022300518,377,PT04M00.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-100,99,14,Made,1,76,90,166,h,Smith Jr. 14' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,1,2,270
+0022300518,381,PT03M15.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Rozier FOR Smith Jr.,Substitution,,0,0,275
+0022300518,448,PT11M45.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Lost Ball Turnover (P2.T8),Turnover,Lost Ball,1,0,316
+0022300518,456,PT11M14.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,229,62,24,Missed,1,,,0,h,MISS Smith Jr. 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,324
+0022300518,465,PT10M30.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,331
+0022300518,480,PT09M33.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-174,197,26,Missed,1,,,0,h,MISS Smith Jr. 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,345
+0022300518,484,PT09M21.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. S.FOUL (P3.T3) (T.Washington),Foul,Shooting,1,0,349
+0022300518,548,PT06M09.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-62,53,8,Missed,1,,,0,h,MISS Smith Jr. 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,396
+0022300518,555,PT04M41.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-124,225,26,Missed,1,,,0,h,MISS Smith Jr. 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,402
+0022300518,578,PT02M38.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-31,114,12,Missed,1,,,0,h,MISS Smith Jr. 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,424
+0022300518,582,PT02M13.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,36,99,11,Missed,1,,,0,h,MISS Smith Jr. 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,428
+0022300518,596,PT01M13.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,114,146,19,Made,1,96,119,215,h,Smith Jr. 19' Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,1,2,440
+0022300518,610,PT00M07.90S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-138,213,25,Missed,1,,,0,h,MISS Smith Jr. 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,453
+0022300541,278,PT07M11.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,210
+0022300541,279,PT07M07.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-169,94,19,Missed,1,,,0,v,MISS Smith Jr. 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,211
+0022300541,286,PT06M11.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. P.FOUL (P1.T3) (M.Dagher),Foul,Personal,1,0,215
+0022300541,300,PT05M18.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-114,248,27,Missed,1,,,0,v,MISS Smith Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,224
+0022300541,324,PT03M44.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: McGowens FOR Smith Jr.,Substitution,,0,0,242
+0022300541,488,PT03M56.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,361
+0022300541,495,PT03M32.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. FLAGRANT.FOUL.TYPE1 (P2.T2) (M.Dagher),Foul,Flagrant Type 1,1,0,370
+0022300541,542,PT00M30.50S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,403
+0022300541,543,PT00M26.80S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,5,6,1,Missed,1,,,0,v,MISS Smith Jr. 1' Running Layup,Missed Shot,Running Layup Shot,1,2,404
+0022300541,576,PT11M05.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,77,98,12,Made,1,106,75,181,v,Smith Jr. 12' Jump Shot (2 PTS) (Mensah 2 AST),Made Shot,Jump Shot,1,2,421
+0022300541,579,PT10M52.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,423
+0022300541,620,PT08M55.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,451
+0022300541,621,PT08M47.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,124,235,27,Missed,1,,,0,v,MISS Smith Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,452
+0022300541,627,PT08M10.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,239,10,24,Made,1,115,84,199,v,Smith Jr. 24' 3PT Jump Shot (5 PTS) (Smith 4 AST),Made Shot,Jump Shot,1,3,456
+0022300541,639,PT06M37.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,96,58,11,Made,1,115,90,205,v,Smith Jr. 11' Turnaround Bank Shot (7 PTS) (Smith 6 AST),Made Shot,Turnaround Bank shot,1,2,466
+0022300541,643,PT06M12.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. Bad Pass Turnover (P1.T16),Turnover,Bad Pass,1,0,469
+0022300541,662,PT05M06.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,482
+0022300541,667,PT04M28.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,75,172,19,Missed,1,,,0,v,MISS Smith Jr. 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,486
+0022300541,703,PT01M26.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,6,48,5,Made,1,133,97,230,v,Smith Jr. 5' Floating Jump Shot (9 PTS),Made Shot,Floating Jump shot,1,2,514
+0022300551,168,PT10M10.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,12,71,7,Made,1,28,20,48,v,Smith Jr. 7' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,1,2,129
+0022300551,204,PT07M47.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-223,2,0,Missed,1,,,0,v,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,156
+0022300551,231,PT05M31.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,179
+0022300551,238,PT04M51.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,185
+0022300551,249,PT04M02.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: Ball FOR Smith Jr.,Substitution,,0,0,195
+0022300551,492,PT10M23.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,368
+0022300551,500,PT09M36.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. Out of Bounds Lost Ball Turnover (P2.T14),Turnover,Out of Bounds Lost Ball Turnover,1,0,375
+0022300551,503,PT09M16.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-250,7,25,Missed,1,,,0,v,MISS Smith Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,378
+0022300551,535,PT06M59.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-99,155,18,Missed,1,,,0,v,MISS Smith Jr. 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,398
+0022300551,550,PT05M51.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: Ball FOR Smith Jr.,Substitution,,0,0,410
+0022300551,625,PT01M42.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,39,59,7,Made,1,102,86,188,v,Smith Jr. 7' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,462
+0022300575,178,PT10M27.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. P.FOUL (P1.T1) (E.Scott),Foul,Personal,1,0,123
+0022300575,236,PT06M56.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-20,-1,2,Missed,1,,,0,v,MISS Smith Jr. 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,165
+0022300575,237,PT06M55.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,166
+0022300575,239,PT06M53.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-28,10,3,Missed,1,,,0,v,MISS Smith Jr. 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,167
+0022300575,270,PT04M43.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-119,241,27,Missed,1,,,0,v,MISS Smith Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,190
+0022300575,287,PT03M08.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: Washington FOR Smith Jr.,Substitution,,0,0,204
+0022300575,541,PT10M07.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,380
+0022300575,549,PT09M30.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,386
+0022300575,564,PT08M15.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,398
+0022300575,570,PT07M28.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-32,63,7,Missed,1,,,0,v,MISS Smith Jr. 7' Jump Shot,Missed Shot,Jump Shot,1,2,403
+0022300575,593,PT06M12.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,227,5,0,Made,1,111,95,206,v,Smith Jr. 3PT Jump Shot (3 PTS) (Ball 7 AST),Made Shot,Jump Shot,1,3,418
+0022300575,624,PT03M30.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: Bouknight FOR Smith Jr.,Substitution,,0,0,444
+0022300584,126,PT01M58.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,91
+0022300584,142,PT00M33.50S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-40,84,9,Missed,1,,,0,h,MISS Smith Jr. 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,102
+0022300584,165,PT11M14.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,227,21,0,Made,1,37,34,71,h,Smith Jr. 3PT Jump Shot (3 PTS) (Miller 2 AST),Made Shot,Jump Shot,1,3,115
+0022300584,179,PT10M07.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,126
+0022300584,186,PT09M35.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Martin FOR Smith Jr.,Substitution,,0,0,132
+0022300584,270,PT03M49.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Ball FOR Smith Jr.,Substitution,,0,0,192
+0022300584,418,PT05M25.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,295
+0022300584,419,PT05M11.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,296
+0022300584,423,PT04M41.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-17,62,6,Made,1,82,77,159,h,Smith Jr. 6' Driving Floating Jump Shot (5 PTS) (Mensah 1 AST),Made Shot,Driving Floating Jump Shot,1,2,300
+0022300584,430,PT03M59.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,233,88,25,Missed,1,,,0,h,MISS Smith Jr. 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,306
+0022300584,465,PT01M24.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. S.FOUL (P1.PN) (D.Guthrie),Foul,Shooting,1,0,329
+0022300584,475,PT00M38.80S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,127,1,13,Missed,1,,,0,h,MISS Smith Jr. 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,336
+0022300584,480,PT00M13.40S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,341
+0022300584,510,PT09M40.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-18,117,12,Missed,1,,,0,h,MISS Smith Jr. 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,359
+0022300584,518,PT09M32.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Washington FOR Smith Jr.,Substitution,,0,0,365
+0022300593,176,PT09M46.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-103,96,14,Missed,1,,,0,h,MISS Smith Jr. 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,127
+0022300593,184,PT08M58.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-137,227,27,Missed,1,,,0,h,MISS Smith Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,135
+0022300593,247,PT05M07.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Step Out of Bounds Turnover (P1.T4),Turnover,Step Out of Bounds Turnover,1,0,177
+0022300593,260,PT04M15.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Miller FOR Smith Jr.,Substitution,,0,0,187
+0022300593,474,PT11M30.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-214,130,25,Missed,1,,,0,h,MISS Smith Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,346
+0022300593,483,PT10M29.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,2,31,3,Missed,1,,,0,h,MISS Smith Jr. 3' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,354
+0022300593,551,PT04M43.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Washington FOR Smith Jr.,Substitution,,0,0,408
+0022300610,186,PT09M00.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,126
+0022300610,205,PT07M46.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. Traveling Turnover (P1.T5),Turnover,Traveling,1,0,139
+0022300610,213,PT07M20.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,144
+0022300610,217,PT06M44.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-7,57,6,Made,1,49,44,93,v,Smith Jr. 6' Floating Jump Shot (2 PTS) (McGowens 1 AST),Made Shot,Floating Jump shot,1,2,147
+0022300610,223,PT05M43.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,151
+0022300610,228,PT05M18.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: Ball FOR Smith Jr.,Substitution,,0,0,156
+0022300610,536,PT07M39.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-151,233,28,Made,1,113,111,224,v,Smith Jr. 28' 3PT Jump Shot (5 PTS) (Ball 13 AST),Made Shot,Jump Shot,1,3,369
+0022300610,538,PT07M20.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. P.FOUL (P1.T1) (K.Cutler),Foul,Personal,1,0,370
+0022300610,570,PT05M47.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-229,34,0,Missed,1,,,0,v,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,389
+0022300610,584,PT03M55.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-224,42,0,Made,1,119,120,239,v,Smith Jr. 3PT Jump Shot (8 PTS) (Black 1 AST),Made Shot,Jump Shot,1,3,401
+0022300610,590,PT03M53.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: Miller FOR Smith Jr.,Substitution,,0,0,404
+0022300619,258,PT04M08.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-142,139,20,Missed,1,,,0,v,MISS Smith Jr. 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,176
+0022300619,273,PT02M43.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: Miller FOR Smith Jr.,Substitution,,0,0,188
+0022300619,541,PT07M14.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,237,-13,24,Made,1,100,97,197,v,Smith Jr. 24' 3PT Jump Shot (3 PTS) (Martin 3 AST),Made Shot,Jump Shot,1,3,375
+0022300619,573,PT04M39.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: Ball FOR Smith Jr.,Substitution,,0,0,400
+0022300635,192,PT10M44.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. S.FOUL (P1.T1) (J.Capers),Foul,Shooting,1,0,142
+0022300635,196,PT10M22.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-100,147,18,Made,1,31,36,67,h,Smith Jr. 18' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,145
+0022300635,198,PT10M07.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,147
+0022300635,201,PT09M58.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-56,90,11,Made,1,33,36,69,h,Smith Jr. 11' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,1,2,149
+0022300635,216,PT08M31.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,162
+0022300635,229,PT07M54.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-16,80,8,Missed,1,,,0,h,MISS Smith Jr. 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,170
+0022300635,253,PT06M26.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-238,0,24,Made,1,39,43,82,h,Smith Jr. 24' 3PT Jump Shot (7 PTS) (Washington 1 AST),Made Shot,Jump Shot,1,3,185
+0022300635,279,PT04M56.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Washington FOR Smith Jr.,Substitution,,0,0,207
+0022300635,327,PT01M31.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,245
+0022300635,338,PT00M51.50S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-208,7,21,Missed,1,,,0,h,MISS Smith Jr. 21' Jump Shot,Missed Shot,Jump Shot,1,2,255
+0022300635,581,PT09M32.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,38,275,28,Made,1,83,113,196,h,Smith Jr. 28' 3PT Jump Shot (10 PTS) (Washington 2 AST),Made Shot,Jump Shot,1,3,423
+0022300635,587,PT08M30.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. P.FOUL (P2.T1) (L.Wood),Foul,Personal,1,0,427
+0022300635,615,PT06M45.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Mensah FOR Smith Jr.,Substitution,,0,0,444
+0022300635,685,PT01M35.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Bad Pass Turnover (P3.T13),Turnover,Bad Pass,1,0,494
+0022300647,109,PT03M13.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,12,264,26,Missed,1,,,0,h,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,76
+0022300647,129,PT01M35.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,41,4,Missed,1,,,0,h,MISS Smith Jr. 4' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,89
+0022300647,188,PT09M43.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,140,208,25,Missed,1,,,0,h,MISS Smith Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,126
+0022300647,218,PT07M43.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. S.FOUL (P1.T2) (D.Taylor),Foul,Shooting,1,0,149
+0022300647,254,PT05M19.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Smith FOR Smith Jr.,Substitution,,0,0,178
+0022300647,469,PT01M42.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. STEAL (1 STL),,,1,0,331
+0022300647,477,PT01M17.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,147,226,27,Made,1,83,102,185,h,Smith Jr. 27' 3PT Running Pull-Up Jump Shot (3 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,337
+0022300647,503,PT11M51.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. P.FOUL (P2.T1) (B.Kennedy),Foul,Personal,1,0,353
+0022300647,540,PT08M30.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. S.FOUL (P3.T2) (E.Scott),Foul,Shooting,1,0,375
+0022300647,565,PT06M37.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Richards FOR Smith Jr.,Substitution,,0,0,391
+0022300657,165,PT10M40.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,174,206,27,Missed,1,,,0,h,MISS Smith Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,123
+0022300657,183,PT09M03.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-224,17,0,Missed,1,,,0,h,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,139
+0022300657,204,PT07M35.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-12,186,19,Missed,1,,,0,h,MISS Smith Jr. 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,155
+0022300657,221,PT06M03.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,98,239,26,Made,1,34,34,68,h,Smith Jr. 26' 3PT Jump Shot (3 PTS) (Miller 1 AST),Made Shot,Jump Shot,1,3,170
+0022300657,233,PT04M37.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,147,230,27,Made,1,37,36,73,h,Smith Jr. 27' 3PT Jump Shot (6 PTS) (Bridges 3 AST),Made Shot,Jump Shot,1,3,178
+0022300657,253,PT02M41.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Miller FOR Smith Jr.,Substitution,,0,0,192
+0022300674,180,PT09M04.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-230,6,0,Missed,1,,,0,h,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,124
+0022300674,232,PT05M33.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,228,21,0,Made,1,48,44,92,h,Smith Jr. 3PT Jump Shot (3 PTS) (Bridges 3 AST),Made Shot,Jump Shot,1,3,159
+0022300674,259,PT03M35.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,22,282,28,Missed,1,,,0,h,MISS Smith Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,176
+0022300674,265,PT03M09.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,182
+0022300674,277,PT02M02.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,9,1,1,Made,1,59,49,108,h,Smith Jr. 1' Running Layup (5 PTS) (Bridges 4 AST),Made Shot,Running Layup Shot,1,2,194
+0022300674,282,PT01M49.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Miller FOR Smith Jr.,Substitution,,0,0,197
+0022300674,540,PT07M26.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,51,44,7,Missed,1,,,0,h,MISS Smith Jr. 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,382
+0022300674,542,PT07M26.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,383
+0022300674,640,PT07M26.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,384
+0022300674,560,PT06M16.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Richards FOR Smith Jr.,Substitution,,0,0,398
+0022300695,177,PT09M20.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. S.FOUL (P1.T2) (J.Goble),Foul,Shooting,1,0,120
+0022300695,193,PT08M13.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,18,113,11,Missed,1,,,0,v,MISS Smith Jr. 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,134
+0022300695,195,PT08M06.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. STEAL (1 STL),,,1,0,137
+0022300695,197,PT08M04.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,39,5,4,Made,1,46,28,74,v,Smith Jr. 4' Running Reverse Layup (2 PTS),Made Shot,Running Reverse Layup Shot,1,2,138
+0022300695,204,PT08M04.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,46,29,75,v,Smith Jr. Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,142
+0022300695,210,PT07M03.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-233,-21,0,Made,1,50,35,85,v,Smith Jr. 3PT Jump Shot (6 PTS) (Bridges 2 AST),Made Shot,Jump Shot,1,3,146
+0022300695,242,PT05M49.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,27,104,11,Missed,1,,,0,v,MISS Smith Jr. 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,167
+0022300695,254,PT04M22.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: McGowens FOR Smith Jr.,Substitution,,0,0,177
+0022300695,312,PT00M17.40S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-153,204,26,Missed,1,,,0,v,MISS Smith Jr. 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,220
+0022300695,427,PT04M43.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. S.FOUL (P2.PN) (J.Goble),Foul,Shooting,1,0,300
+0022300695,461,PT02M03.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,2,59,6,Missed,1,,,0,v,MISS Smith Jr. 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,328
+0022300695,464,PT01M57.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. S.FOUL (P3.PN) (D.Mosher),Foul,Shooting,1,0,331
+0022300695,476,PT00M49.50S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. P.FOUL (P4.PN) (D.Mosher),Foul,Personal,1,0,341
+0022300695,565,PT06M13.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,132,102,17,Missed,1,,,0,v,MISS Smith Jr. 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,403
+0022300695,601,PT04M04.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-233,2,0,Made,1,116,96,212,v,Smith Jr. 3PT Jump Shot (9 PTS) (McGowens 2 AST),Made Shot,Jump Shot,1,3,432
+0022300695,622,PT02M42.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,152,205,26,Made,1,120,103,223,v,Smith Jr. 26' 3PT Pullup Jump Shot (12 PTS) (McGowens 3 AST),Made Shot,Pullup Jump shot,1,3,449
+0022300695,635,PT01M47.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,78,95,12,Missed,1,,,0,v,MISS Smith Jr. 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,460
+0022300707,111,PT03M28.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-140,214,26,Missed,1,,,0,h,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,83
+0022300707,118,PT03M03.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,34,242,24,Missed,1,,,0,h,MISS Smith Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,90
+0022300707,132,PT02M14.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. S.FOUL (P1.T3) (J.Goble),Foul,Shooting,1,0,100
+0022300707,137,PT01M58.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-9,1,1,Made,1,11,22,33,h,Smith Jr. 1' Cutting Dunk Shot (2 PTS) (Black 1 AST),Made Shot,Cutting Dunk Shot,1,2,104
+0022300707,144,PT01M22.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-241,-8,24,Missed,1,,,0,h,MISS Smith Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,108
+0022300707,145,PT01M20.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,109
+0022300707,184,PT10M15.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,6,53,5,Missed,1,,,0,h,MISS Smith Jr. 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,140
+0022300707,204,PT08M39.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-20,20,3,Missed,1,,,0,h,MISS Smith Jr. 3' Running Layup,Missed Shot,Running Layup Shot,1,2,155
+0022300707,206,PT08M32.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. STEAL (1 STL),,,1,0,158
+0022300707,217,PT07M44.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Black FOR Smith Jr.,Substitution,,0,0,168
+0022300707,285,PT03M19.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. STEAL (2 STL),,,1,0,215
+0022300707,297,PT01M59.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. S.FOUL (P2.T4) (J.Conley),Foul,Shooting,1,0,222
+0022300707,320,PT00M39.90S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. S.FOUL (P3.PN) (M.Ervin),Foul,Shooting,1,0,237
+0022300707,322,PT00M39.90S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Black FOR Smith Jr.,Substitution,,0,0,238
+0022300707,448,PT02M53.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-135,242,28,Missed,1,,,0,h,MISS Smith Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,326
+0022300707,547,PT09M00.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. S.FOUL (P4.T2) (M.Ervin),Foul,Shooting,1,0,400
+0022300707,555,PT08M22.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,407
+0022300707,559,PT08M01.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Black FOR Smith Jr.,Substitution,,0,0,411
+0022300707,651,PT01M14.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-5,194,19,Missed,1,,,0,h,MISS Smith Jr. 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,473
+0022300713,91,PT04M33.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,178,190,26,Missed,1,,,0,h,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,67
+0022300713,110,PT03M10.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. OFF.Foul (P1) (T.Brothers),Foul,Offensive,1,0,80
+0022300713,112,PT03M10.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,81
+0022300713,117,PT02M41.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-55,83,10,Missed,1,,,0,h,MISS Smith Jr. 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,84
+0022300713,147,PT00M42.10S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,2,74,7,Missed,1,,,0,h,MISS Smith Jr. 7' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,109
+0022300713,228,PT06M39.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: McGowens FOR Smith Jr.,Substitution,,0,0,165
+0022300713,414,PT03M38.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,303
+0022300713,451,PT00M40.90S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-157,224,27,Made,1,86,100,186,h,Smith Jr. 27' 3PT Jump Shot (3 PTS) (Miller 3 AST),Made Shot,Jump Shot,1,3,331
+0022300713,453,PT00M29.70S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. S.FOUL (P2.T1) (S.Mitchell),Foul,Shooting,1,0,332
+0022300713,458,PT00M26.70S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,336
+0022300713,494,PT09M40.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,66,158,17,Missed,1,,,0,h,MISS Smith Jr. 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,362
+0022300713,498,PT09M07.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,66,252,26,Missed,1,,,0,h,MISS Smith Jr. 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,365
+0022300713,507,PT08M25.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,11,85,9,Made,1,92,105,197,h,Smith Jr. 9' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,2,374
+0022300713,514,PT07M38.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Smith FOR Smith Jr.,Substitution,,0,0,380
+0022300726,201,PT07M37.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-224,10,0,Made,1,44,35,79,h,Smith Jr. 3PT Jump Shot (3 PTS) (Bridges 2 AST),Made Shot,Jump Shot,1,3,140
+0022300726,211,PT06M28.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. S.FOUL (P1.T1) (N.Green),Foul,Shooting,1,0,148
+0022300726,219,PT06M02.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,131,299,33,Missed,1,,,0,h,MISS Smith Jr. 33' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,153
+0022300726,228,PT05M30.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-172,184,25,Made,1,47,42,89,h,Smith Jr. 25' 3PT Jump Shot (6 PTS) (Bridges 3 AST),Made Shot,Jump Shot,1,3,159
+0022300726,234,PT04M57.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,131,262,29,Made,1,50,42,92,h,Smith Jr. 29' 3PT Jump Shot (9 PTS) (Bridges 4 AST),Made Shot,Jump Shot,1,3,164
+0022300726,245,PT04M03.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: McGowens FOR Smith Jr.,Substitution,,0,0,172
+0022300726,593,PT02M00.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Washington FOR Smith Jr.,Substitution,,0,0,419
+0022300745,110,PT03M11.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-93,237,25,Missed,1,,,0,v,MISS Smith Jr. 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,83
+0022300745,166,PT11M20.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,123
+0022300745,176,PT10M11.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,11,252,25,Made,1,34,22,56,v,Smith Jr. 25' 3PT Jump Shot (3 PTS) (Black 1 AST),Made Shot,Jump Shot,1,3,130
+0022300745,215,PT07M22.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: Martin FOR Smith Jr.,Substitution,,0,0,161
+0022300745,478,PT00M53.70S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,362
+0022300745,492,PT00M00.60S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,161,231,28,Made,1,99,63,162,v,Smith Jr. 28' 3PT Jump Shot (6 PTS) (Black 2 AST),Made Shot,Jump Shot,1,3,371
+0022300745,504,PT11M37.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. Out of Bounds Lost Ball Turnover (P2.T14),Turnover,Out of Bounds Lost Ball Turnover,1,0,374
+0022300745,507,PT11M09.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-125,263,29,Missed,1,,,0,v,MISS Smith Jr. 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,377
+0022300745,522,PT09M53.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,228,-6,0,Missed,1,,,0,v,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,387
+0022300745,532,PT08M28.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,74,262,27,Missed,1,,,0,v,MISS Smith Jr. 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,396
+0022300745,548,PT07M24.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,107,68,175,v,Smith Jr. Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,408
+0022300745,549,PT07M24.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,107,69,176,v,Smith Jr. Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,409
+0022300745,553,PT06M40.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-99,165,19,Missed,1,,,0,v,MISS Smith Jr. 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,413
+0022300745,564,PT06M12.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,111,70,181,v,Smith Jr. Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,420
+0022300745,565,PT06M12.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,111,71,182,v,Smith Jr. Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,421
+0022300745,574,PT05M19.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-165,236,29,Missed,1,,,0,v,MISS Smith Jr. 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,429
+0022300745,586,PT04M16.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,113,77,190,v,Smith Jr. Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,438
+0022300745,589,PT04M16.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,113,78,191,v,Smith Jr. Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,440
+0022300745,594,PT03M37.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,445
+0022300745,597,PT03M34.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,MISS Smith Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,447
+0022300745,599,PT03M34.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,115,79,194,v,Smith Jr. Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,449
+0022300745,608,PT02M31.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-50,64,8,Missed,1,,,0,v,MISS Smith Jr. 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,456
+0022300745,612,PT02M18.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,460
+0022300745,620,PT01M03.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-119,242,27,Missed,1,,,0,v,MISS Smith Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,466
+0022300777,653,PT00M40.80S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,479
+0022300910,102,PT03M20.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,173,204,27,Missed,1,,,0,v,MISS Smith Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,77
+0022300910,104,PT03M16.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-26,2,3,Missed,1,,,0,v,MISS Smith Jr. 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,79
+0022300910,133,PT01M35.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-5,128,13,Missed,1,,,0,v,MISS Smith Jr. 13' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,98
+0022300910,161,PT11M40.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,121
+0022300910,207,PT08M14.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: Micic FOR Smith Jr.,Substitution,,0,0,159
+0022300910,505,PT10M54.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,85,153,18,Missed,1,,,0,v,MISS Smith Jr. 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,377
+0022300910,507,PT10M48.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,27,110,11,Missed,1,,,0,v,MISS Smith Jr. 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,379
+0022300910,513,PT10M20.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. P.FOUL (P1.T1) (J.Butler),Foul,Personal,1,0,384
+0022300910,524,PT09M46.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. P.FOUL (P2.T3) (D.Guthrie),Foul,Personal,1,0,392
+0022300910,532,PT09M17.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-157,213,26,Missed,1,,,0,v,MISS Smith Jr. 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,396
+0022300910,545,PT08M29.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: Micic FOR Smith Jr.,Substitution,,0,0,406
+0022300918,121,PT01M58.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,147,212,26,Missed,1,,,0,h,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,87
+0022300918,138,PT00M37.10S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. S.FOUL (P1.T2) (A.Smith),Foul,Shooting,1,0,101
+0022300918,159,PT11M02.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-98,53,11,Made,1,35,35,70,h,Smith Jr. 11' Driving Floating Jump Shot (2 PTS) (Bertans 2 AST),Made Shot,Driving Floating Jump Shot,1,2,112
+0022300918,174,PT09M48.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. P.FOUL (P2.T2) (I.Hwang),Foul,Personal,1,0,124
+0022300918,184,PT09M02.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,131
+0022300918,196,PT08M14.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Micic FOR Smith Jr.,Substitution,,0,0,141
+0022300918,501,PT09M20.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-15,190,19,Made,1,94,84,178,h,Smith Jr. 19' Running Jump Shot (4 PTS),Made Shot,Running Jump Shot,1,2,363
+0022300918,515,PT08M32.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. STEAL (1 STL),,,1,0,374
+0022300918,517,PT08M24.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-66,66,9,Missed,1,,,0,h,MISS Smith Jr. 9' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,375
+0022300918,527,PT07M00.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. P.FOUL (P3.T1) (A.Smith),Foul,Personal,1,0,384
+0022300918,530,PT07M00.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Pokusevski FOR Smith Jr.,Substitution,,0,0,386
+0022300933,111,PT02M30.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-69,68,10,Missed,1,,,0,v,MISS Smith Jr. 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,83
+0022300933,144,PT00M00.30S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,163,542,57,Missed,1,,,0,v,MISS Smith Jr. 57' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,107
+0022300933,164,PT10M51.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,118
+0022300933,169,PT10M24.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,122
+0022300933,175,PT09M25.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,127
+0022300933,185,PT08M37.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. S.FOUL (P1.T1) (M.Myers),Foul,Shooting,1,0,136
+0022300933,190,PT08M37.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: Bridges FOR Smith Jr.,Substitution,,0,0,140
+0022300933,429,PT01M08.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,223,19,0,Missed,1,,,0,v,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,319
+0022300933,431,PT00M54.80S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. P.FOUL (P2.PN) (R.Acosta),Foul,Personal,1,0,321
+0022300933,486,PT09M38.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,26,90,9,Missed,1,,,0,v,MISS Smith Jr. 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,362
+0022300933,521,PT07M48.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: Pokusevski FOR Smith Jr.,Substitution,,0,0,389
+0022300961,643,PT01M04.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-61,250,26,Missed,1,,,0,h,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,468
+0022300961,649,PT00M37.40S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-145,17,15,Made,1,94,107,201,h,Smith Jr. 15' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,2,474
+0022300961,654,PT00M17.20S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,478
+0022300961,655,PT00M14.80S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-2,168,17,Made,1,96,107,203,h,Smith Jr. 17' Running Pull-Up Jump Shot (4 PTS),Made Shot,Running Pull-Up Jump Shot,1,2,479
+0022300969,464,PT01M24.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,145,225,27,Missed,1,,,0,v,MISS Smith Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,331
+0022300969,491,PT11M41.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,347
+0022300969,537,PT07M07.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-27,146,15,Missed,1,,,0,v,MISS Smith Jr. 15' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,381
+0022300969,541,PT06M49.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. P.FOUL (P1.T1) (J.Goble),Foul,Personal,1,0,385
+0022300969,544,PT06M49.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: Bridges FOR Smith Jr.,Substitution,,0,0,387
+0022300991,507,PT05M55.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,119,227,26,Made,1,102,78,180,v,Smith Jr. 26' 3PT Jump Shot (3 PTS) (Bailey 1 AST),Made Shot,Jump Shot,1,3,362
+0022300991,515,PT04M32.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,15,102,10,Made,1,107,80,187,v,Smith Jr. 10' Driving Floating Jump Shot (5 PTS) (Richards 3 AST),Made Shot,Driving Floating Jump Shot,1,2,367
+0022300991,536,PT02M44.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. Bad Pass Turnover (P1.T17),Turnover,Bad Pass,1,0,384
+0022300991,546,PT01M48.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-100,242,26,Made,1,112,90,202,v,Smith Jr. 26' 3PT Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,1,3,393
+0022300991,549,PT01M19.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-99,256,27,Missed,1,,,0,v,MISS Smith Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,396
+0022301021,593,PT01M46.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,156,204,26,Missed,1,,,0,v,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,419
+0022301021,601,PT01M00.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. Bad Pass Turnover (P1.T15),Turnover,Bad Pass,1,0,426
+0022301021,608,PT00M40.50S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-105,172,20,Missed,1,,,0,v,MISS Smith Jr. 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,431
+0022301021,611,PT00M00.90S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,48,257,26,Missed,1,,,0,v,MISS Smith Jr. 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,434
+0022301033,621,PT00M34.80S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,114,72,13,Made,1,115,92,207,v,Smith Jr. 13' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,432
+0022301062,604,PT01M22.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,132,23,13,Missed,1,,,0,h,MISS Smith Jr. 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,437
+0022301087,587,PT00M50.70S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-141,219,26,Made,1,103,116,219,h,Smith Jr. 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,421
+0022301102,87,PT03M41.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-40,164,17,Missed,1,,,0,h,MISS Smith Jr. 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,65
+0022301102,134,PT00M57.60S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-208,158,26,Missed,1,,,0,h,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,103
+0022301102,138,PT00M32.90S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,7,8,1,Missed,1,,,0,h,MISS Smith Jr. 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,106
+0022301102,220,PT06M51.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,160
+0022301102,228,PT05M58.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,6,21,2,Made,1,35,40,75,h,Smith Jr. 2' Driving Layup (2 PTS) (Williams 8 AST),Made Shot,Driving Layup Shot,1,2,167
+0022301102,230,PT05M39.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. P.FOUL (P1.T4) (K.Cutler),Foul,Personal,1,0,168
+0022301102,244,PT04M55.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,178
+0022301102,248,PT04M32.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,6,17,2,Missed,1,,,0,h,MISS Smith Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,181
+0022301102,278,PT02M49.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Mann FOR Smith Jr.,Substitution,,0,0,202
+0022301102,425,PT02M41.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,316
+0022301102,452,PT01M10.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,336
+0022301102,453,PT01M06.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,7,95,10,Made,1,66,67,133,h,Smith Jr. 10' Running Pull-Up Jump Shot (4 PTS),Made Shot,Running Pull-Up Jump Shot,1,2,337
+0022301102,456,PT00M30.50S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-2,8,1,Missed,1,,,0,h,MISS Smith Jr. 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,340
+0022301102,522,PT07M56.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,85,205,22,Missed,1,,,0,h,MISS Smith Jr. 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,388
+0022301102,539,PT05M52.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,105,230,25,Missed,1,,,0,h,MISS Smith Jr. 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,402
+0022301102,573,PT02M59.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,SUB: Williams FOR Smith Jr.,Substitution,,0,0,427
+0022301144,633,PT02M56.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,0,453
+0022301144,645,PT02M02.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,183,209,28,Missed,1,,,0,h,MISS Smith Jr. 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,464
+0022301144,647,PT01M53.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,h,Smith Jr. STEAL (1 STL),,,1,0,467
+0022301144,664,PT00M35.20S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,56,111,12,Missed,1,,,0,h,MISS Smith Jr. 12' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,479
+0022301173,93,PT03M35.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,68
+0022301173,115,PT02M29.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. P.FOUL (P1.T2) (M.Lindsay),Foul,Personal,1,0,85
+0022301173,190,PT08M50.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-70,46,8,Missed,1,,,0,v,MISS Smith Jr. 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,139
+0022301173,212,PT06M59.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-42,153,16,Missed,1,,,0,v,MISS Smith Jr. 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,156
+0022301173,227,PT06M24.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-232,78,24,Made,1,46,38,84,v,Smith Jr. 24' 3PT Jump Shot (3 PTS) (Bridges 1 AST),Made Shot,Jump Shot,1,3,164
+0022301173,240,PT05M07.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: McGowens FOR Smith Jr.,Substitution,,0,0,173
+0022301173,310,PT11M48.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-164,204,26,Made,1,69,46,115,v,Smith Jr. 26' 3PT Jump Shot (6 PTS) (Mann 4 AST),Made Shot,Jump Shot,1,3,219
+0022301173,356,PT07M28.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,85,56,141,v,Smith Jr. Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,252
+0022301173,357,PT07M28.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,85,57,142,v,Smith Jr. Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,253
+0022301173,364,PT06M16.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-78,103,13,Made,1,88,62,150,v,Smith Jr. 13' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,1,2,258
+0022301173,371,PT06M03.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: McGowens FOR Smith Jr.,Substitution,,0,0,264
+0022301173,425,PT02M17.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-69,147,16,Made,1,92,72,164,v,Smith Jr. 16' Turnaround Fadeaway (12 PTS),Made Shot,Turnaround Fadeaway shot,1,2,305
+0022301173,436,PT01M21.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-169,210,27,Missed,1,,,0,v,MISS Smith Jr. 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,314
+0022301173,471,PT11M44.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,334
+0022301173,478,PT11M07.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,77,263,27,Missed,1,,,0,v,MISS Smith Jr. 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,340
+0022301173,495,PT09M08.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,125,168,21,Missed,1,,,0,v,MISS Smith Jr. 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,352
+0022301173,518,PT07M18.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-191,189,27,Missed,1,,,0,v,MISS Smith Jr. 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,372
+0022301173,534,PT06M20.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-140,271,31,Made,1,113,84,197,v,Smith Jr. 31' 3PT Jump Shot (15 PTS) (Mann 8 AST),Made Shot,Jump Shot,1,3,381
+0022301173,560,PT05M14.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,398
+0022301173,567,PT04M27.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,405
+0022301173,568,PT04M18.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-136,62,15,Missed,1,,,0,v,MISS Smith Jr. 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,406
+0022301173,578,PT03M51.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: McGowens FOR Smith Jr.,Substitution,,0,0,414
+0022301187,103,PT02M59.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,67,247,26,Made,1,26,18,44,v,Smith Jr. 26' 3PT Jump Shot (3 PTS) (Micic 4 AST),Made Shot,Jump Shot,1,3,77
+0022301187,108,PT02M37.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,81
+0022301187,109,PT02M35.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,5,12,1,Missed,1,,,0,v,MISS Smith Jr. 1' Running Layup,Missed Shot,Running Layup Shot,1,2,82
+0022301187,132,PT01M21.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-235,-4,24,Missed,1,,,0,v,MISS Smith Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,97
+0022301187,237,PT06M01.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,170
+0022301187,238,PT06M00.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,Made,1,46,43,89,v,Smith Jr. Tip Dunk Shot (5 PTS),Made Shot,Tip Dunk Shot,1,2,171
+0022301187,240,PT05M43.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,173
+0022301187,244,PT05M13.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,177
+0022301187,245,PT05M03.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,214,136,25,Missed,1,,,0,v,MISS Smith Jr. 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,178
+0022301187,262,PT04M06.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,188,191,27,Made,1,48,48,96,v,Smith Jr. 27' 3PT Jump Shot (8 PTS) (Black 4 AST),Made Shot,Jump Shot,1,3,189
+0022301187,266,PT03M21.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,69,184,20,Missed,1,,,0,v,MISS Smith Jr. 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,191
+0022301187,277,PT01M54.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,20,84,9,Missed,1,,,0,v,MISS Smith Jr. 9' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,199
+0022301187,289,PT00M33.90S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,209
+0022301187,292,PT00M20.10S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. Traveling Turnover (P1.T5),Turnover,Traveling,1,0,211
+0022301187,293,PT00M05.10S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. STEAL (1 STL),,,1,0,213
+0022301187,308,PT10M45.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-32,46,6,Made,1,63,61,124,v,Smith Jr. 6' Fadeaway Jumper (10 PTS) (McGowens 2 AST),Made Shot,Fadeaway Jump Shot,1,2,223
+0022301187,320,PT09M40.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,229,-29,0,Missed,1,,,0,v,MISS Smith Jr. 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,232
+0022301187,335,PT07M45.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,91,146,17,Missed,1,,,0,v,MISS Smith Jr. 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,244
+0022301187,367,PT05M42.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: Bailey FOR Smith Jr.,Substitution,,0,0,264
+0022301187,436,PT01M20.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,107,95,14,Missed,1,,,0,v,MISS Smith Jr. 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,309
+0022301187,469,PT11M08.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,141,14,Missed,1,,,0,v,MISS Smith Jr. 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,324
+0022301187,485,PT09M38.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-6,14,2,Made,1,103,94,197,v,Smith Jr. 2' Running Reverse Layup (12 PTS) (Thor 4 AST),Made Shot,Running Reverse Layup Shot,1,2,336
+0022301187,493,PT08M41.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-114,236,26,Made,1,106,100,206,v,Smith Jr. 26' 3PT Step Back Jump Shot (15 PTS),Made Shot,Step Back Jump shot,1,3,341
+0022301187,496,PT08M09.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-16,261,26,Missed,1,,,0,v,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,344
+0022301187,500,PT07M59.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,SUB: Mann FOR Smith Jr.,Substitution,,0,0,347
+0022301187,528,PT06M04.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,,,0,v,Smith Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,367
+0022301187,539,PT05M34.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,31,271,27,Made,1,108,105,213,v,Smith Jr. 27' 3PT Step Back Jump Shot (18 PTS),Made Shot,Step Back Jump shot,1,3,375
+0022301187,549,PT04M11.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-124,248,28,Missed,1,,,0,v,MISS Smith Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,384
+0022301187,555,PT03M37.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,147,218,26,Made,1,108,110,218,v,Smith Jr. 26' 3PT Jump Shot (21 PTS) (Bailey 4 AST),Made Shot,Jump Shot,1,3,390
+0022301187,589,PT00M46.60S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-195,164,25,Made,1,110,120,230,v,Smith Jr. 25' 3PT Jump Shot (24 PTS) (Bailey 5 AST),Made Shot,Jump Shot,1,3,418

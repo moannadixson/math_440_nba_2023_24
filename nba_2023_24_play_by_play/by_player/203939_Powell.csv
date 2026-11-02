@@ -1,0 +1,699 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300006,64,PT06M32.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,21,15,36,v,Powell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,47
+0022300006,65,PT06M32.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,21,16,37,v,Powell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,48
+0022300006,81,PT04M56.00S,1,1610612742,DAL,203939,Powell,D. Powell,23,26,3,Missed,1,,,0,v,MISS Powell 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,58
+0022300006,122,PT02M41.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Lively II FOR Powell,Substitution,,0,0,89
+0022300006,244,PT07M15.00S,2,1610612742,DAL,203939,Powell,D. Powell,11,20,2,Made,1,46,36,82,v,Powell 2' Dunk (4 PTS) (Curry 1 AST),Made Shot,Dunk Shot,0,2,177
+0022300006,255,PT06M26.00S,2,1610612742,DAL,203939,Powell,D. Powell,31,10,3,Missed,1,,,0,v,MISS Powell 3' Layup,Missed Shot,Layup Shot,1,2,185
+0022300006,293,PT04M03.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Lively II FOR Powell,Substitution,,0,0,213
+0022300006,440,PT05M09.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,323
+0022300006,453,PT05M09.00S,3,1610612742,DAL,203939,Powell,D. Powell,-9,10,1,Missed,1,,,0,v,MISS Powell 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,324
+0022300006,460,PT03M37.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P1.T2) (E.Malloy),Foul,Shooting,1,0,338
+0022300006,486,PT01M41.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P2.T3) (S.Wall),Foul,Shooting,0,0,355
+0022300006,500,PT01M18.00S,3,1610612742,DAL,203939,Powell,D. Powell,-1,17,2,Made,1,99,83,182,v,Powell 2' Cutting Dunk Shot (6 PTS) (Irving 5 AST),Made Shot,Cutting Dunk Shot,0,2,365
+0022300014,102,PT04M10.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,1,0,78
+0022300014,110,PT03M31.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,85
+0022300014,161,PT00M02.10S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell STEAL (1 STL),,,1,0,122
+0022300014,312,PT02M23.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P1.T3) (M.Smith),Foul,Shooting,1,0,227
+0022300014,325,PT01M37.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,237
+0022300014,333,PT00M58.70S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Lively II FOR Powell,Substitution,,0,0,245
+0022300014,463,PT03M33.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P2.PN) (M.Lindsay),Foul,Shooting,1,0,341
+0022300014,491,PT01M59.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,359
+0022300014,527,PT00M11.70S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,114,87,201,h,Powell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,382
+0022300014,528,PT00M11.70S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,115,87,202,h,Powell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,383
+0022300014,561,PT10M06.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Lively II FOR Powell,Substitution,,0,0,409
+0022300014,650,PT03M58.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,132,112,244,h,Powell Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,472
+0022300014,651,PT03M58.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,133,112,245,h,Powell Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,473
+0022300014,667,PT02M33.00S,4,1610612742,DAL,203939,Powell,D. Powell,-37,92,10,Made,1,137,116,253,h,Powell 10' Driving Floating Jump Shot (6 PTS) (Hardaway Jr. 3 AST),Made Shot,Driving Floating Jump Shot,1,2,487
+0022300014,678,PT02M33.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,138,116,254,h,Powell Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,493
+0022300014,685,PT01M38.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,498
+0022300014,693,PT01M15.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P3.PN) (M.Lindsay),Foul,Shooting,1,0,505
+0022300014,698,PT00M57.90S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,509
+0022300014,699,PT00M57.90S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,Missed,1,,,0,h,MISS Powell Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,510
+0022300014,704,PT00M34.90S,4,1610612742,DAL,203939,Powell,D. Powell,-11,1,1,Made,1,144,124,268,h,Powell 1' Cutting Finger Roll Layup Shot (9 PTS) (Exum 6 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,515
+0022300022,82,PT05M17.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,59
+0022300022,99,PT04M17.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,73
+0022300022,137,PT01M53.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell BLOCK (1 BLK),,,1,2,102
+0022300022,145,PT01M50.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,108
+0022300022,152,PT00M35.70S,1,1610612742,DAL,203939,Powell,D. Powell,28,10,3,Made,1,29,24,53,v,Powell 3' Alley Oop Layup (2 PTS) (Irving 2 AST),Made Shot,Alley Oop Layup shot,1,2,114
+0022300022,154,PT00M20.10S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P1.PN) (K.Scott),Foul,Shooting,1,0,115
+0022300022,159,PT00M20.10S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Williams FOR Powell,Substitution,,0,0,119
+0022300022,281,PT04M34.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,207
+0022300022,282,PT04M34.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,Made,1,55,42,97,v,Powell Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,1,2,208
+0022300022,288,PT03M48.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,213
+0022300022,292,PT03M34.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,217
+0022300022,293,PT03M14.00S,2,1610612742,DAL,203939,Powell,D. Powell,4,58,6,Missed,1,,,0,v,MISS Powell 6' Layup,Missed Shot,Layup Shot,1,2,218
+0022300022,302,PT03M06.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Lively II FOR Powell,Substitution,,0,0,226
+0022300022,447,PT05M23.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell Lost Ball Turnover (P1.T14),Turnover,Lost Ball,1,0,322
+0022300022,455,PT04M27.00S,3,1610612742,DAL,203939,Powell,D. Powell,1,27,3,Missed,1,,,0,v,MISS Powell 3' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,327
+0022300022,456,PT04M27.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,328
+0022300022,470,PT04M10.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Doncic FOR Powell,Substitution,,0,0,337
+0022300059,529,PT00M12.20S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Jones Jr. FOR Powell,Substitution,,0,0,365
+0022300084,308,PT04M34.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,187
+0022300084,288,PT01M43.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Lively II FOR Powell,Substitution,,0,0,210
+0022300084,516,PT11M17.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,89,91,180,h,Powell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,363
+0022300084,519,PT11M17.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,90,91,181,h,Powell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,365
+0022300084,520,PT11M04.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell STEAL (1 STL),,,1,0,367
+0022300084,525,PT10M52.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell Violation:Defensive Goaltending (T.Ford),Violation,Defensive Goaltending,1,0,371
+0022300084,532,PT10M17.00S,4,1610612742,DAL,203939,Powell,D. Powell,-2,12,1,Made,1,92,96,188,h,Powell 1' Reverse Layup (4 PTS) (Irving 3 AST),Made Shot,Reverse Layup Shot,1,2,377
+0022300084,551,PT08M46.00S,4,1610612742,DAL,203939,Powell,D. Powell,-2,10,1,Made,1,97,101,198,h,Powell 1' Cutting Layup Shot (6 PTS) (Hardaway Jr. 1 AST),Made Shot,Cutting Layup Shot,1,2,390
+0022300084,584,PT06M28.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,414
+0022300084,585,PT06M28.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,Made,1,105,106,211,h,Powell Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,2,415
+0022300084,596,PT06M05.00S,4,1610612742,DAL,203939,Powell,D. Powell,233,-4,0,Made,1,108,106,214,h,Powell 3PT Jump Shot (11 PTS) (Irving 5 AST),Made Shot,Jump Shot,1,3,422
+0022300084,612,PT04M26.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Green FOR Powell,Substitution,,0,0,435
+0022300106,210,PT08M24.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell Step Out of Bounds Turnover (P1.T5),Turnover,Step Out of Bounds Turnover,1,0,148
+0022300106,212,PT08M10.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell BLOCK (1 BLK),,,1,2,151
+0022300106,217,PT08M04.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,154
+0022300106,230,PT07M02.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,165
+0022300106,233,PT06M46.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell BLOCK (2 BLK),,,1,2,168
+0022300106,258,PT05M46.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P1.T3) (B.Adair),Foul,Shooting,1,0,184
+0022300106,279,PT04M52.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Lively II FOR Powell,Substitution,,0,0,200
+0022300106,363,PT10M24.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Mavericks T.Foul (Def. 3 Sec Powell ) (M.Ervin),Foul,Defense 3 Second,1,0,260
+0022300106,395,PT08M28.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell BLOCK (3 BLK),,,1,2,285
+0022300106,402,PT07M46.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,291
+0022300106,419,PT06M47.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,305
+0022300106,422,PT06M21.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell BLOCK (4 BLK),,,1,2,309
+0022300106,439,PT04M38.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,322
+0022300106,449,PT04M03.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Exum FOR Powell,Substitution,,0,0,332
+0022300124,153,PT00M17.20S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,118
+0022300124,156,PT00M17.20S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,26,23,49,h,Powell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,120
+0022300124,163,PT00M17.20S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,MISS Powell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,124
+0022300124,188,PT09M51.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Kleber FOR Powell,Substitution,,0,0,136
+0022300124,417,PT03M03.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,73,73,146,h,Powell Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,311
+0022300124,418,PT03M03.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,74,73,147,h,Powell Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,312
+0022300124,428,PT02M11.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,75,75,150,h,Powell Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,320
+0022300124,429,PT02M11.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,76,75,151,h,Powell Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,321
+0022300124,430,PT02M01.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P1.T4) (A.Moyer-Gleich),Foul,Shooting,1,0,322
+0022300143,100,PT04M57.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,72
+0022300143,116,PT03M41.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,84
+0022300143,154,PT01M00.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,111
+0022300143,155,PT01M00.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,Made,1,26,28,54,h,Powell Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,112
+0022300143,237,PT06M35.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:4 Def:0),Rebound,Unknown,1,0,173
+0022300143,265,PT05M20.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,39,44,83,h,Powell Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,193
+0022300143,268,PT05M20.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,40,44,84,h,Powell Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,195
+0022300143,293,PT04M02.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,41,50,91,h,Powell Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,208
+0022300143,296,PT04M02.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,42,50,92,h,Powell Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,210
+0022300143,311,PT03M01.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Lively II FOR Powell,Substitution,,0,0,220
+0022300143,455,PT04M50.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P1.PN) (B.Kennedy),Foul,Shooting,1,0,322
+0022300143,476,PT03M43.00S,3,1610612742,DAL,203939,Powell,D. Powell,-11,5,1,Made,1,73,79,152,h,Powell 1' Finger Roll Layup (8 PTS) (Irving 6 AST),Made Shot,Finger Roll Layup Shot,1,2,337
+0022300143,492,PT03M10.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,347
+0022300143,494,PT03M10.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,MISS Powell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,349
+0022300143,508,PT01M36.00S,3,1610612742,DAL,203939,Powell,D. Powell,2,-3,0,Made,1,80,81,161,h,Powell Cutting Layup Shot (10 PTS) (Irving 8 AST),Made Shot,Cutting Layup Shot,1,2,361
+0022300143,522,PT00M43.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P2.PN) (J.Van Duyne),Foul,Shooting,1,0,368
+0022300143,529,PT00M29.50S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:5 Def:0),Rebound,Unknown,1,0,374
+0022300147,97,PT04M59.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P1.T3) (T.Ricks),Foul,Shooting,1,0,70
+0022300147,112,PT03M59.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell L.B.FOUL (P2.T4) (T.Ricks),Foul,Loose Ball,1,0,80
+0022300147,135,PT02M30.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,94
+0022300147,137,PT02M30.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,MISS Powell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,96
+0022300147,218,PT07M30.00S,2,1610612742,DAL,203939,Powell,D. Powell,12,-9,2,Made,1,46,36,82,v,Powell 2' Layup (2 PTS) (Hardy 1 AST),Made Shot,Layup Shot,1,2,152
+0022300147,253,PT07M16.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,46,37,83,v,Powell Free Throw Flagrant 1 of 2 (3 PTS),Free Throw,Free Throw Flagrant 1 of 2,1,0,162
+0022300147,254,PT07M16.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,46,38,84,v,Powell Free Throw Flagrant 2 of 2 (4 PTS),Free Throw,Free Throw Flagrant 2 of 2,1,0,163
+0022300147,327,PT00M44.70S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Jones Jr. FOR Powell,Substitution,,0,0,226
+0022300147,485,PT02M05.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P3.T4) (N.Buchert),Foul,Shooting,1,0,346
+0022300147,491,PT01M32.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,350
+0022300147,576,PT08M15.00S,4,1610612742,DAL,203939,Powell,D. Powell,-10,20,2,Made,1,90,97,187,v,Powell 2' Cutting Layup Shot (6 PTS) (Doncic 5 AST),Made Shot,Cutting Layup Shot,1,2,408
+0022300147,580,PT08M15.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,90,98,188,v,Powell Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,410
+0022300147,609,PT05M59.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell STEAL (1 STL),,,1,0,431
+0022300147,638,PT03M33.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell BLOCK (1 BLK),,,1,2,454
+0022300147,640,PT03M30.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,455
+0022300147,657,PT01M58.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell BLOCK (2 BLK),,,1,2,470
+0022300168,4,PT12M00.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Jump Ball Powell vs. Poeltl: Tip to Anunoby,Jump Ball,,1,0,2
+0022300168,32,PT09M19.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,25
+0022300168,36,PT08M49.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,28
+0022300168,97,PT03M56.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,75
+0022300168,108,PT03M08.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Holmes FOR Powell,Substitution,,0,0,85
+0022300168,267,PT04M20.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,201
+0022300168,274,PT03M58.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Holmes FOR Powell,Substitution,,0,0,206
+0022300168,398,PT07M33.00S,3,1610612742,DAL,203939,Powell,D. Powell,9,5,1,Made,1,73,73,146,h,Powell 1' Alley Oop Dunk (2 PTS) (Doncic 6 AST),Made Shot,Alley Oop Dunk Shot,1,2,291
+0022300168,404,PT07M33.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,MISS Powell Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,294
+0022300168,417,PT06M27.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Kleber FOR Powell,Substitution,,0,0,304
+0022300168,565,PT10M30.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P1.T1) (S.Wright),Foul,Shooting,1,0,403
+0022300168,579,PT09M44.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P2.T2) (B.Taylor),Foul,Shooting,1,0,413
+0022300168,585,PT09M27.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,97,108,205,h,Powell Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,417
+0022300168,586,PT09M27.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,98,108,206,h,Powell Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,418
+0022300168,588,PT09M12.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,420
+0022300168,594,PT08M27.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell BLOCK (1 BLK),,,1,2,427
+0022300168,599,PT08M18.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,430
+0022300168,605,PT08M18.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,99,111,210,h,Powell Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,434
+0022300168,616,PT07M20.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,443
+0022300168,626,PT06M13.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Irving FOR Powell,Substitution,,0,0,451
+0022300183,88,PT04M15.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,68
+0022300183,99,PT03M39.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,77
+0022300183,136,PT01M39.00S,1,1610612742,DAL,203939,Powell,D. Powell,-7,6,1,Made,1,26,26,52,v,Powell 1' Cutting Dunk Shot (2 PTS) (Irving 2 AST),Made Shot,Cutting Dunk Shot,1,2,100
+0022300183,138,PT01M26.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell P.FOUL (P1.PN) (P.Ransom),Foul,Personal,1,0,101
+0022300183,152,PT00M39.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,112
+0022300183,158,PT00M27.40S,1,1610612742,DAL,203939,Powell,D. Powell,-21,6,2,Made,1,27,34,61,v,Powell 2' Alley Oop Layup (4 PTS) (Irving 3 AST),Made Shot,Alley Oop Layup shot,1,2,117
+0022300183,186,PT10M16.00S,2,1610612742,DAL,203939,Powell,D. Powell,35,24,4,Missed,1,,,0,v,MISS Powell 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,138
+0022300183,189,PT10M00.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,141
+0022300183,195,PT09M51.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Lively II FOR Powell,Substitution,,0,0,146
+0022300183,295,PT03M45.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell STEAL (1 STL),,,1,0,219
+0022300183,298,PT03M39.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,221
+0022300183,302,PT03M19.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,224
+0022300183,310,PT02M36.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P2.T3) (P.Ransom),Foul,Shooting,1,0,231
+0022300183,335,PT01M34.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell P.FOUL (P3.T4) (P.Ransom),Foul,Personal,1,0,250
+0022300183,342,PT01M00.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,255
+0022300183,346,PT01M00.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,49,64,113,v,Powell Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,258
+0022300183,461,PT04M44.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell L.B.FOUL (P4.T1) (J.Van Duyne),Foul,Loose Ball,1,0,334
+0022300183,477,PT03M19.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,343
+0022300183,488,PT02M21.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,351
+0022300183,510,PT00M36.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,366
+0022300183,518,PT00M00.70S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,374
+0022300183,519,PT00M00.30S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,Made,1,85,109,194,v,Powell Putback Layup (7 PTS),Made Shot,Putback Layup Shot,1,2,375
+0022300192,134,PT01M23.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,95
+0022300192,140,PT00M48.00S,1,1610612742,DAL,203939,Powell,D. Powell,4,8,1,Made,1,22,39,61,v,Powell 1' Layup (2 PTS) (Hardaway Jr. 1 AST),Made Shot,Layup Shot,1,2,101
+0022300192,494,PT02M14.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell P.FOUL (P1.T2) (T.Washington),Foul,Personal,1,0,349
+0022300205,292,PT01M55.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P1.T1) (R.Acosta),Foul,Shooting,1,0,210
+0022300205,295,PT01M55.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Hardaway Jr. FOR Powell,Substitution,,0,0,212
+0022300205,388,PT07M02.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,280
+0022300205,412,PT05M51.00S,3,1610612742,DAL,203939,Powell,D. Powell,7,9,1,Missed,1,,,0,v,MISS Powell 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,295
+0022300205,429,PT04M18.00S,3,1610612742,DAL,203939,Powell,D. Powell,12,1,1,Made,1,74,82,156,v,Powell 1' Cutting Layup Shot (2 PTS) (Doncic 7 AST),Made Shot,Cutting Layup Shot,1,2,308
+0022300205,435,PT04M18.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,74,83,157,v,Powell Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,311
+0022300205,454,PT02M23.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,325
+0022300205,625,PT08M12.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell P.FOUL (P2.T2) (S.Mehta),Foul,Personal,1,0,380
+0022300205,532,PT08M12.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Williams FOR Powell,Substitution,,0,0,381
+0022300205,601,PT03M38.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P3.PN) (R.Acosta),Foul,Shooting,1,0,432
+0022300205,617,PT02M24.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,443
+0022300205,628,PT02M15.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Lively II FOR Powell,Substitution,,0,0,448
+0022300212,123,PT02M42.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P1.T4) (E.Malloy),Foul,Shooting,1,0,90
+0022300212,148,PT01M32.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell STEAL (1 STL),,,1,0,107
+0022300212,308,PT02M40.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,210
+0022300212,311,PT02M28.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,212
+0022300212,316,PT02M08.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,216
+0022300212,330,PT01M07.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Lively II FOR Powell,Substitution,,0,0,226
+0022300238,461,PT00M36.40S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell OFF.Foul (P1) (Z.Zarba),Foul,Offensive,1,0,337
+0022300238,463,PT00M36.40S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0,338
+0022300238,483,PT11M38.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P2.T1) (M.Kogut),Foul,Shooting,1,0,350
+0022300238,511,PT09M49.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Williams FOR Powell,Substitution,,0,0,370
+0022300244,61,PT07M31.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,48
+0022300244,119,PT02M44.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell P.FOUL (P1.T3) (M.Dagher),Foul,Personal,1,0,90
+0022300244,127,PT02M44.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Holmes FOR Powell,Substitution,,0,0,94
+0022300244,257,PT06M21.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,44,27,71,v,Powell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,183
+0022300244,258,PT06M21.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,44,28,72,v,Powell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,184
+0022300244,310,PT01M51.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Holmes FOR Powell,Substitution,,0,0,220
+0022300244,424,PT06M26.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P2.T3) (T.Brothers),Foul,Shooting,1,0,303
+0022300244,443,PT04M56.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,320
+0022300244,455,PT04M34.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Williams FOR Powell,Substitution,,0,0,329
+0022300287,512,PT03M08.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,80,90,170,h,Powell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,379
+0022300287,513,PT03M08.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,81,90,171,h,Powell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,380
+0022300287,532,PT01M40.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell OFF.Foul (P1) (M.Ervin),Foul,Offensive,1,0,395
+0022300287,534,PT01M40.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell Offensive Foul Turnover (P1.T12),Turnover,Offensive Foul Turnover,1,0,396
+0022300299,106,PT04M00.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,78
+0022300299,132,PT01M56.00S,1,1610612742,DAL,203939,Powell,D. Powell,18,8,2,Missed,1,,,0,v,MISS Powell 2' Layup,Missed Shot,Layup Shot,1,2,97
+0022300299,134,PT01M44.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P1.T2) (L.Holtkamp),Foul,Shooting,1,0,99
+0022300299,144,PT00M47.20S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,108
+0022300299,420,PT04M33.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell OFF.Foul (P2) (J.Williams),Foul,Offensive,1,0,299
+0022300299,422,PT04M33.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,1,0,300
+0022300299,477,PT00M44.20S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P3.T1) (E.Dalen),Foul,Shooting,1,0,336
+0022300299,503,PT10M35.00S,4,1610612742,DAL,203939,Powell,D. Powell,9,6,1,Made,1,82,101,183,v,Powell 1' Cutting Layup Shot (2 PTS) (Hardy 4 AST),Made Shot,Cutting Layup Shot,1,2,357
+0022300299,532,PT09M02.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Curry FOR Powell,Substitution,,0,0,379
+0022300321,447,PT03M52.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,75,82,157,h,Powell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,322
+0022300321,450,PT03M52.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,76,82,158,h,Powell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,324
+0022300321,452,PT03M37.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,326
+0022300321,487,PT01M06.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,353
+0022300321,494,PT00M31.80S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,360
+0022300321,518,PT10M48.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Lively II FOR Powell,Substitution,,0,0,371
+0022300321,665,PT01M34.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,96,114,210,h,Powell Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,474
+0022300321,666,PT01M34.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,97,114,211,h,Powell Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,475
+0022300321,673,PT00M50.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P1.T3) (C.Blair),Foul,Shooting,1,0,480
+0022300321,679,PT00M20.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,484
+0022300341,262,PT05M28.00S,2,1610612742,DAL,203939,Powell,D. Powell,10,24,3,Made,1,48,56,104,v,Powell 3' Driving Layup (2 PTS) (Doncic 3 AST),Made Shot,Driving Layup Shot,1,2,195
+0022300341,276,PT04M39.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,204
+0022300341,277,PT04M39.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,Made,1,53,60,113,v,Powell Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,1,2,205
+0022300341,312,PT01M41.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,232
+0022300341,315,PT01M37.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,57,69,126,v,Powell Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,234
+0022300341,316,PT01M37.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,MISS Powell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,235
+0022300341,324,PT00M49.40S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P1.PN) (T.Brothers),Foul,Shooting,1,0,241
+0022300341,333,PT00M36.70S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,61,72,133,v,Powell Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,248
+0022300341,343,PT00M00.70S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,256
+0022300341,391,PT08M40.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell BLOCK (1 BLK),,,1,2,293
+0022300341,401,PT08M26.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P2.T1) (J.Orr),Foul,Shooting,1,0,300
+0022300341,404,PT08M13.00S,3,1610612742,DAL,203939,Powell,D. Powell,12,6,1,Missed,1,,,0,v,MISS Powell 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,302
+0022300341,420,PT07M31.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,315
+0022300341,431,PT06M40.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Morris FOR Powell,Substitution,,0,0,325
+0022300341,524,PT11M33.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,386
+0022300341,582,PT06M47.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Morris FOR Powell,Substitution,,0,0,432
+0022300356,15,PT10M45.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P1.T1) (J.Williams),Foul,Shooting,1,0,9
+0022300356,31,PT09M33.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,23
+0022300356,36,PT09M10.00S,1,1610612742,DAL,203939,Powell,D. Powell,1,5,1,Made,1,5,5,10,v,Powell 1' Hook Shot (2 PTS) (Doncic 1 AST),Made Shot,Hook Shot,1,2,28
+0022300356,52,PT07M48.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,39
+0022300356,53,PT07M48.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,Made,1,9,7,16,v,Powell Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,40
+0022300356,60,PT07M23.00S,1,1610612742,DAL,203939,Powell,D. Powell,22,19,3,Made,1,11,9,20,v,Powell 3' Cutting Layup Shot (6 PTS) (Doncic 2 AST),Made Shot,Cutting Layup Shot,1,2,45
+0022300356,89,PT04M20.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,68
+0022300356,103,PT03M22.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Exum FOR Powell,Substitution,,0,0,81
+0022300356,288,PT00M27.60S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,207
+0022300356,300,PT11M49.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell Traveling Turnover (P1.T7),Turnover,Traveling,1,0,216
+0022300356,313,PT10M19.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell L.B.FOUL (P2.T1) (S.Mitchell),Foul,Loose Ball,1,0,227
+0022300356,333,PT07M54.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,242
+0022300356,355,PT06M25.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,259
+0022300356,361,PT06M06.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Morris FOR Powell,Substitution,,0,0,264
+0022300356,462,PT10M36.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P3.T2) (J.Williams),Foul,Shooting,1,0,334
+0022300356,469,PT10M23.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:5 Def:2),Rebound,Unknown,1,0,340
+0022300356,470,PT10M23.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,Missed,1,,,0,v,MISS Powell Putback Dunk,Missed Shot,Putback Dunk Shot,1,2,341
+0022300356,471,PT10M20.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:6 Def:2),Rebound,Unknown,1,0,342
+0022300356,472,PT10M19.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,Made,1,103,82,185,v,Powell Putback Layup (8 PTS),Made Shot,Putback Layup Shot,1,2,343
+0022300356,500,PT08M41.00S,4,1610612742,DAL,203939,Powell,D. Powell,9,23,2,Missed,1,,,0,v,MISS Powell 2' Layup,Missed Shot,Layup Shot,1,2,364
+0022300356,526,PT06M36.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P4.PN) (J.Williams),Foul,Shooting,1,0,382
+0022300356,529,PT06M36.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Holmes FOR Powell,Substitution,,0,0,384
+0022300372,4,PT12M00.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Jump Ball Powell vs. Zubac: Tip to Harden,Jump Ball,,1,0,2
+0022300372,14,PT10M53.00S,1,1610612742,DAL,203939,Powell,D. Powell,2,16,2,Made,1,2,0,2,h,Powell 2' Cutting Dunk Shot (2 PTS) (Doncic 1 AST),Made Shot,Cutting Dunk Shot,1,2,9
+0022300372,63,PT06M36.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P1.T1) (M.Kallio),Foul,Shooting,1,0,48
+0022300372,93,PT04M46.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Morris FOR Powell,Substitution,,0,0,72
+0022300372,169,PT11M49.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,121
+0022300372,243,PT06M05.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,175
+0022300372,249,PT06M05.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,37,55,92,h,Powell Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,179
+0022300372,251,PT05M46.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell Violation:Defensive Goaltending (J.Tiven),Violation,Defensive Goaltending,1,0,181
+0022300372,257,PT04M58.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Williams FOR Powell,Substitution,,0,0,187
+0022300372,380,PT06M24.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P2.PN) (A.Moyer-Gleich),Foul,Shooting,1,0,278
+0022300372,411,PT04M31.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Hardaway Jr. FOR Powell,Substitution,,0,0,300
+0022300385,66,PT06M48.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell L.B.FOUL (P1.T2) (B.Adair),Foul,Loose Ball,1,0,54
+0022300385,76,PT06M00.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,62
+0022300385,107,PT03M43.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,86
+0022300385,110,PT03M08.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,89
+0022300385,124,PT02M21.00S,1,1610612742,DAL,203939,Powell,D. Powell,237,26,24,Missed,1,,,0,v,MISS Powell 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,98
+0022300385,131,PT01M55.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,105
+0022300398,92,PT04M30.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P1.T2) (R.Hussey),Foul,Shooting,1,0,67
+0022300398,117,PT03M30.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,84
+0022300398,118,PT03M30.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,Made,1,26,24,50,h,Powell Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,2,85
+0022300398,135,PT01M24.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,100
+0022300398,141,PT00M53.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,106
+0022300398,142,PT00M52.50S,1,1610612742,DAL,203939,Powell,D. Powell,-14,23,3,Made,1,36,24,60,h,Powell 3' Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,107
+0022300398,149,PT00M33.80S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,37,27,64,h,Powell Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,112
+0022300398,150,PT00M33.80S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,38,27,65,h,Powell Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,113
+0022300398,268,PT04M59.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell STEAL (1 STL),,,1,0,191
+0022300398,279,PT04M14.00S,2,1610612742,DAL,203939,Powell,D. Powell,-1,15,2,Made,1,62,55,117,h,Powell 2' Cutting Finger Roll Layup Shot (8 PTS) (Doncic 6 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,198
+0022300398,283,PT04M02.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P2.T4) (S.Wright),Foul,Shooting,1,0,201
+0022300398,297,PT02M54.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell BLOCK (1 BLK),,,1,2,213
+0022300398,308,PT02M00.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Lawson FOR Powell,Substitution,,0,0,222
+0022300398,441,PT03M48.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,316
+0022300398,457,PT03M00.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell P.FOUL (P3.T2) (R.Hussey),Foul,Personal,1,0,328
+0022300398,493,PT00M57.60S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,114,86,200,h,Powell Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,355
+0022300398,494,PT00M57.60S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,115,86,201,h,Powell Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,356
+0022300398,499,PT00M23.50S,3,1610612742,DAL,203939,Powell,D. Powell,-1,6,1,Made,1,117,86,203,h,Powell 1' Alley Oop Dunk (12 PTS) (Doncic 10 AST),Made Shot,Alley Oop Dunk Shot,1,2,359
+0022300398,670,PT02M05.00S,4,1610612742,DAL,203939,Powell,D. Powell,-15,10,2,Made,1,138,113,251,h,Powell 2' Alley Oop Layup (14 PTS) (Exum 4 AST),Made Shot,Alley Oop Layup shot,1,2,484
+0022300398,672,PT01M53.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P4.PN) (K.Scott),Foul,Shooting,1,0,485
+0022300405,186,PT09M59.00S,2,1610612742,DAL,203939,Powell,D. Powell,-11,4,1,Made,1,32,43,75,v,Powell 1' Alley Oop Layup (2 PTS) (Exum 4 AST),Made Shot,Alley Oop Layup shot,1,2,131
+0022300405,213,PT08M00.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Doncic FOR Powell,Substitution,,0,0,154
+0022300405,317,PT02M30.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P1.PN) (N.Sago),Foul,Shooting,1,0,227
+0022300405,326,PT01M50.00S,2,1610612742,DAL,203939,Powell,D. Powell,22,45,5,Made,1,47,62,109,v,Powell 5' Hook Bank Shot (4 PTS) (Doncic 8 AST),Made Shot,Hook Bank Shot,1,2,233
+0022300405,342,PT00M11.50S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,246
+0022300420,171,PT11M19.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,121
+0022300420,186,PT09M56.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P1.T1) (C.Kirkland),Foul,Shooting,1,0,134
+0022300420,192,PT09M45.00S,2,1610612742,DAL,203939,Powell,D. Powell,18,7,2,Made,1,49,30,79,h,Powell 2' Cutting Layup Shot (2 PTS) (Curry 1 AST),Made Shot,Cutting Layup Shot,1,2,139
+0022300420,198,PT09M45.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,50,30,80,h,Powell Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,142
+0022300420,236,PT07M05.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Lively II FOR Powell,Substitution,,0,0,169
+0022300423,136,PT00M48.10S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell STEAL (1 STL),,,1,0,100
+0022300423,236,PT06M40.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P1.T3) (J.Tiven),Foul,Shooting,1,0,164
+0022300423,261,PT05M06.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell BLOCK (1 BLK),,,1,2,185
+0022300423,263,PT05M03.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,186
+0022300423,266,PT04M44.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,189
+0022300423,267,PT04M42.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,190
+0022300423,286,PT03M57.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,204
+0022300423,287,PT03M39.00S,2,1610612742,DAL,203939,Powell,D. Powell,-1,17,2,Made,1,54,43,97,v,Powell 2' Cutting Dunk Shot (2 PTS) (Curry 2 AST),Made Shot,Cutting Dunk Shot,1,2,205
+0022300423,309,PT02M29.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell STEAL (2 STL),,,1,0,222
+0022300423,315,PT01M53.00S,2,1610612742,DAL,203939,Powell,D. Powell,22,31,4,Missed,1,,,0,v,MISS Powell 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,227
+0022300423,317,PT01M49.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,229
+0022300423,318,PT01M49.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,Made,1,54,48,102,v,Powell Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,230
+0022300423,320,PT01M30.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,232
+0022300423,333,PT00M22.60S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell P.FOUL (P2.PN) (G.Petraitis),Foul,Personal,1,0,242
+0022300423,407,PT08M52.00S,3,1610612742,DAL,203939,Powell,D. Powell,5,7,1,Made,1,71,70,141,v,Powell 1' Alley Oop Dunk (6 PTS) (Hardy 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,288
+0022300423,414,PT08M09.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,293
+0022300423,415,PT08M09.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,Made,1,71,72,143,v,Powell Putback Layup (8 PTS),Made Shot,Putback Layup Shot,1,2,294
+0022300423,433,PT06M44.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Morris FOR Powell,Substitution,,0,0,311
+0022300423,510,PT01M33.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,362
+0022300423,511,PT01M33.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,Made,1,93,84,177,v,Powell Putback Layup (10 PTS),Made Shot,Putback Layup Shot,1,2,363
+0022300423,533,PT00M03.60S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:5 Def:3),Rebound,Unknown,1,0,380
+0022300423,534,PT00M03.60S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,Made,1,98,91,189,v,Powell Tip Layup Shot (12 PTS),Made Shot,Tip Layup Shot,1,2,381
+0022300423,632,PT05M12.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,449
+0022300423,634,PT04M51.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:6 Def:4),Rebound,Unknown,1,0,451
+0022300423,675,PT02M45.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:6 Def:5),Rebound,Unknown,1,0,480
+0022300423,703,PT00M50.10S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:6 Def:6),Rebound,Unknown,1,0,500
+0022300423,706,PT00M38.70S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell Personal Take Foul (P3.PN) (E.Scott),Foul,Personal Take,1,0,502
+0022300423,715,PT00M31.90S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:7 Def:6),Rebound,Unknown,1,0,509
+0022300423,716,PT00M31.90S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,Missed,1,,,0,v,MISS Powell Tip Dunk Shot,Missed Shot,Tip Dunk Shot,1,2,510
+0022300423,719,PT00M10.90S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:7 Def:7),Rebound,Unknown,1,0,513
+0022300444,118,PT02M26.00S,1,1610612742,DAL,203939,Powell,D. Powell,50,26,6,Made,1,20,32,52,v,Powell 6' Alley Oop Layup (2 PTS) (Green 1 AST),Made Shot,Alley Oop Layup shot,1,2,80
+0022300444,133,PT01M19.00S,1,1610612742,DAL,203939,Powell,D. Powell,32,80,9,Missed,1,,,0,v,MISS Powell 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,93
+0022300444,285,PT03M09.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Lively II FOR Powell,Substitution,,0,0,200
+0022300444,406,PT05M36.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P1.T3) (K.Scott),Foul,Shooting,1,0,286
+0022300444,439,PT02M58.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell P.FOUL (P2.T4) (S.Wall),Foul,Personal,1,0,311
+0022300444,465,PT01M46.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,330
+0022300444,597,PT03M53.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,417
+0022300444,604,PT03M39.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Hardaway Jr. FOR Powell,Substitution,,0,0,424
+0022300457,118,PT03M21.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,80
+0022300457,134,PT01M51.00S,1,1610612742,DAL,203939,Powell,D. Powell,28,37,5,Missed,1,,,0,v,MISS Powell 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,91
+0022300457,141,PT01M09.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,97
+0022300457,429,PT05M39.00S,3,1610612742,DAL,203939,Powell,D. Powell,7,21,2,Made,1,81,75,156,v,Powell 2' Alley Oop Layup (2 PTS) (Doncic 13 AST),Made Shot,Alley Oop Layup shot,1,2,296
+0022300457,446,PT04M23.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,308
+0022300457,508,PT03M25.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell STEAL (1 STL),,,1,0,321
+0022300457,461,PT03M25.00S,3,1610612742,DAL,203939,Powell,D. Powell,21,27,3,Made,1,87,77,164,v,Powell 3' Layup (4 PTS),Made Shot,Layup Shot,1,2,322
+0022300457,467,PT02M29.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell STEAL (2 STL),,,1,0,329
+0022300457,490,PT01M12.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,344
+0022300457,492,PT00M54.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P1.T3) (S.Corbin),Foul,Shooting,1,0,346
+0022300472,103,PT05M23.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell Traveling Turnover (P1.T2),Turnover,Traveling,1,0,75
+0022300472,123,PT04M34.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,23,15,38,h,Powell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,89
+0022300472,124,PT04M34.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,MISS Powell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,90
+0022300472,138,PT03M48.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,27,17,44,h,Powell Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,99
+0022300472,141,PT03M48.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,MISS Powell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,101
+0022300472,153,PT02M50.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,112
+0022300472,160,PT02M22.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,118
+0022300472,165,PT01M56.00S,1,1610612742,DAL,203939,Powell,D. Powell,-5,-1,1,Made,1,31,21,52,h,Powell 1' Cutting Layup Shot (4 PTS) (Doncic 2 AST),Made Shot,Cutting Layup Shot,1,2,123
+0022300472,185,PT00M07.80S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,135
+0022300472,316,PT03M57.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,63,35,98,h,Powell Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,226
+0022300472,321,PT03M57.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,MISS Powell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,229
+0022300472,340,PT01M46.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell P.FOUL (P1.T3) (R.Mott),Foul,Personal,1,0,244
+0022300472,343,PT01M46.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Lively II FOR Powell,Substitution,,0,0,246
+0022300472,492,PT04M19.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P2.T3) (R.Mott),Foul,Shooting,1,0,351
+0022300472,495,PT04M19.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: G. Williams FOR Powell,Substitution,,0,0,353
+0022300487,4,PT12M00.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Jump Ball Powell vs. Reath: Tip to Irving,Jump Ball,,1,0,2
+0022300487,7,PT11M43.00S,1,1610612742,DAL,203939,Powell,D. Powell,11,7,1,Missed,1,,,0,h,MISS Powell 1' Layup,Missed Shot,Layup Shot,1,2,3
+0022300487,51,PT07M27.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,35
+0022300487,68,PT05M41.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,49
+0022300487,71,PT05M33.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Curry FOR Powell,Substitution,,0,0,51
+0022300487,156,PT00M16.60S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,114
+0022300487,160,PT00M16.60S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,38,26,64,h,Powell Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,117
+0022300487,180,PT10M51.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,127
+0022300487,181,PT10M51.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,128
+0022300487,183,PT10M33.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,130
+0022300487,191,PT09M45.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell Lost Ball Turnover (P2.T6),Turnover,Lost Ball,1,0,136
+0022300487,201,PT09M16.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Curry FOR Powell,Substitution,,0,0,144
+0022300487,247,PT06M54.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell STEAL (1 STL),,,0,0,177
+0022300487,249,PT06M52.00S,2,1610612742,DAL,203939,Powell,D. Powell,6,-1,1,Made,1,45,37,82,h,Powell 1' Running Dunk (3 PTS),Made Shot,Running Dunk Shot,0,2,178
+0022300487,251,PT06M38.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,180
+0022300487,270,PT05M03.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,,"Double Technical - Powell, Reath (J.Goble)",Foul,Double Technical,1,0,193
+0022300487,290,PT04M07.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,53,42,95,h,Powell Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,206
+0022300487,293,PT04M07.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,MISS Powell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,208
+0022300487,296,PT03M51.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,211
+0022300487,299,PT03M24.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell BLOCK (1 BLK),,,1,2,215
+0022300487,312,PT02M22.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Irving FOR Powell,Substitution,,0,0,224
+0022300487,384,PT09M04.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,277
+0022300487,388,PT08M35.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,281
+0022300487,431,PT06M03.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,308
+0022300487,432,PT06M03.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,Missed,1,,,0,h,MISS Powell Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,309
+0022300487,474,PT02M47.00S,3,1610612742,DAL,203939,Powell,D. Powell,5,45,5,Made,1,98,62,160,h,Powell 5' Cutting Layup Shot (6 PTS) (Curry 1 AST),Made Shot,Cutting Layup Shot,1,2,344
+0022300487,492,PT02M02.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Prosper FOR Powell,Substitution,,0,0,351
+0022300501,4,PT12M00.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Jump Ball Powell vs. Gobert: Tip to Doncic,Jump Ball,,1,0,2
+0022300501,36,PT08M09.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,27
+0022300501,58,PT06M48.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,42
+0022300501,60,PT06M48.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,15,11,26,h,Powell Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,44
+0022300501,75,PT05M52.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: G. Williams FOR Powell,Substitution,,0,0,54
+0022300501,164,PT00M23.60S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell P.FOUL (P1.PN) (J.Capers),Foul,Personal,1,0,119
+0022300501,197,PT10M15.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,139
+0022300501,198,PT10M15.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,Made,1,37,33,70,h,Powell Tip Layup Shot (3 PTS),Made Shot,Tip Layup Shot,1,2,140
+0022300501,200,PT10M05.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,142
+0022300501,218,PT09M05.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,156
+0022300501,222,PT09M05.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,38,33,71,h,Powell Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,158
+0022300501,223,PT09M05.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,MISS Powell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,159
+0022300501,228,PT08M45.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,164
+0022300501,242,PT07M53.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P2.T2) (S.Twardoski),Foul,Shooting,1,0,174
+0022300501,255,PT07M28.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P3.T3) (J.Capers),Foul,Shooting,1,0,183
+0022300501,258,PT07M28.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: G. Williams FOR Powell,Substitution,,0,0,185
+0022300501,411,PT09M39.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,MAVERICKS T.Foul (Def. 3 Sec Powell ) (J.Capers),Foul,Defense 3 Second,1,0,294
+0022300501,455,PT06M26.00S,3,1610612742,DAL,203939,Powell,D. Powell,-2,24,2,Missed,1,,,0,h,MISS Powell 2' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,329
+0022300501,459,PT05M57.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell STEAL (1 STL),,,1,0,333
+0022300501,475,PT04M36.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:5 Def:1),Rebound,Unknown,1,0,347
+0022300501,476,PT04M36.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,Made,1,80,75,155,h,Powell Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,348
+0022300501,478,PT04M36.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Curry FOR Powell,Substitution,,0,0,350
+0022300501,552,PT10M48.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell P.FOUL (P4.T1) (B.Adair),Foul,Personal,1,0,398
+0022300501,589,PT08M21.00S,4,1610612742,DAL,203939,Powell,D. Powell,-20,30,4,Missed,1,,,0,h,MISS Powell 4' Layup,Missed Shot,Layup Shot,1,2,426
+0022300501,599,PT07M44.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: G. Williams FOR Powell,Substitution,,0,0,434
+0022300501,644,PT03M30.00S,4,1610612742,DAL,203939,Powell,D. Powell,-13,14,2,Made,1,102,106,208,h,Powell 2' Cutting Layup Shot (8 PTS) (Doncic 7 AST),Made Shot,Cutting Layup Shot,1,2,466
+0022300501,648,PT03M30.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,103,106,209,h,Powell Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,468
+0022300515,4,PT12M00.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Jump Ball Powell vs. Biyombo: Tip to Bane,Jump Ball,,1,0,2
+0022300515,9,PT11M24.00S,1,1610612742,DAL,203939,Powell,D. Powell,10,11,1,Made,1,2,0,2,h,Powell 1' Alley Oop Dunk (2 PTS) (Doncic 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,5
+0022300515,26,PT09M20.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P1.T1) (M.Lindsay),Foul,Shooting,1,0,19
+0022300515,30,PT08M58.00S,1,1610612742,DAL,203939,Powell,D. Powell,-26,3,3,Missed,1,,,0,h,MISS Powell 3' Layup,Missed Shot,Layup Shot,1,2,22
+0022300515,31,PT08M55.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,23
+0022300515,32,PT08M55.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,Made,1,11,7,18,h,Powell Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,24
+0022300515,46,PT07M49.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,39
+0022300515,49,PT07M34.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell STEAL (1 STL),,,1,0,43
+0022300515,60,PT06M48.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell OFF.Foul (P2) (J.Sterling),Foul,Offensive,1,0,50
+0022300515,62,PT06M48.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,0,51
+0022300515,64,PT06M48.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: G. Williams FOR Powell,Substitution,,0,0,53
+0022300515,142,PT00M29.70S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P3.T3) (J.Van Duyne),Foul,Shooting,1,0,112
+0022300515,145,PT00M29.70S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Holmes FOR Powell,Substitution,,0,0,114
+0022300515,383,PT09M18.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,277
+0022300515,433,PT05M27.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,313
+0022300515,437,PT05M18.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Curry FOR Powell,Substitution,,0,0,315
+0022300515,534,PT11M05.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,0,383
+0022300515,546,PT10M13.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell BLOCK (1 BLK),,,1,2,392
+0022300515,610,PT04M45.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell STEAL (2 STL),,,1,0,439
+0022300515,631,PT03M03.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: B. Williams FOR Powell,Substitution,,0,0,456
+0022300530,4,PT12M00.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Jump Ball Powell vs. Hartenstein: Tip to Irving,Jump Ball,,1,0,2
+0022300530,17,PT10M11.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,13
+0022300530,19,PT10M00.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,15
+0022300530,23,PT09M11.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,19
+0022300530,49,PT06M54.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,38
+0022300530,55,PT06M13.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: G. Williams FOR Powell,Substitution,,0,0,43
+0022300530,211,PT07M27.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P1.T4) (S.Wright),Foul,Shooting,1,0,155
+0022300530,289,PT06M38.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,168
+0022300530,227,PT06M37.00S,2,1610612742,DAL,203939,Powell,D. Powell,-21,10,2,Made,1,53,39,92,h,Powell 2' Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,169
+0022300530,235,PT06M16.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: G. Williams FOR Powell,Substitution,,0,0,175
+0022300530,292,PT02M18.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,216
+0022300530,293,PT02M12.00S,2,1610612742,DAL,203939,Powell,D. Powell,-7,12,1,Made,1,66,47,113,h,Powell 1' Cutting Layup Shot (4 PTS) (Hardy 4 AST),Made Shot,Cutting Layup Shot,1,2,217
+0022300530,304,PT01M14.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell STEAL (1 STL),,,1,0,226
+0022300530,325,PT00M24.20S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: G. Williams FOR Powell,Substitution,,0,0,239
+0022300530,361,PT11M17.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P2.T1) (S.Wright),Foul,Shooting,1,0,258
+0022300530,382,PT09M22.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,274
+0022300530,383,PT09M22.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,Missed,1,,,0,h,MISS Powell Tip Dunk Shot,Missed Shot,Tip Dunk Shot,1,2,275
+0022300530,398,PT07M58.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: G. Williams FOR Powell,Substitution,,0,0,288
+0022300530,499,PT00M35.60S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell P.FOUL (P3.PN) (D.Scott),Foul,Personal,1,0,362
+0022300530,532,PT09M57.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: G. Williams FOR Powell,Substitution,,0,0,385
+0022300530,588,PT05M35.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P4.T1) (D.Scott),Foul,Shooting,1,0,423
+0022300530,594,PT04M57.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,428
+0022300530,598,PT04M44.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P5.T2) (S.Wright),Foul,Shooting,1,0,431
+0022300530,600,PT04M44.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Hardaway Jr. FOR Powell,Substitution,,0,0,432
+0022300530,660,PT00M44.40S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,476
+0022300530,665,PT00M25.90S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: G. Williams FOR Powell,Substitution,,0,0,480
+0022300547,4,PT12M00.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Jump Ball Powell vs. Valanciunas: Tip to Irving,Jump Ball,,1,0,2
+0022300547,10,PT11M23.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,6
+0022300547,35,PT08M37.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,24
+0022300547,50,PT07M45.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P1.T2) (M.Dagher),Foul,Shooting,1,0,35
+0022300547,58,PT07M22.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,40
+0022300547,65,PT07M09.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: G. Williams FOR Powell,Substitution,,0,0,44
+0022300547,154,PT00M42.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,109
+0022300547,179,PT10M42.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,125
+0022300547,180,PT10M42.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,Missed,1,,,0,h,MISS Powell Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,126
+0022300547,183,PT10M29.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,129
+0022300547,217,PT07M44.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: G. Williams FOR Powell,Substitution,,0,0,153
+0022300547,307,PT01M40.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,217
+0022300547,367,PT08M37.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,261
+0022300547,376,PT07M50.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P2.T2) (M.Dagher),Foul,Shooting,1,0,266
+0022300547,386,PT07M15.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell STEAL (1 STL),,,1,0,274
+0022300547,391,PT06M47.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell STEAL (2 STL),,,1,0,279
+0022300547,408,PT05M18.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: G. Williams FOR Powell,Substitution,,0,0,290
+0022300547,496,PT11M09.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell STEAL (3 STL),,,1,0,350
+0022300547,509,PT09M59.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,358
+0022300547,535,PT08M17.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,378
+0022300547,538,PT07M53.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P3.T2) (J.Goldenberg),Foul,Shooting,1,0,380
+0022300547,541,PT07M53.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Jones Jr. FOR Powell,Substitution,,0,0,382
+0022300547,573,PT05M37.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P4.T4) (J.Goldenberg),Foul,Shooting,1,0,405
+0022300547,621,PT02M09.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,101,111,212,h,Powell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,440
+0022300547,622,PT02M09.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,102,111,213,h,Powell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,441
+0022300547,630,PT01M22.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P5.PN) (M.Dagher),Foul,Shooting,1,0,448
+0022300556,99,PT05M23.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell BLOCK (1 BLK),,,1,2,74
+0022300556,126,PT02M49.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,94
+0022300556,127,PT02M46.00S,1,1610612742,DAL,203939,Powell,D. Powell,-7,5,1,Made,1,23,9,32,h,Powell 1' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,95
+0022300556,137,PT02M17.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell P.FOUL (P1.PN) (G.Petraitis),Foul,Personal,1,0,102
+0022300556,161,PT01M01.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,119
+0022300556,162,PT01M01.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,Made,1,30,17,47,h,Powell Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,1,2,120
+0022300556,169,PT00M18.70S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell BLOCK (2 BLK),,,1,2,126
+0022300556,286,PT05M34.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell P.FOUL (P2.PN) (G.Petraitis),Foul,Personal,1,0,203
+0022300556,289,PT05M34.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Lively II FOR Powell,Substitution,,0,0,205
+0022300556,332,PT01M59.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,234
+0022300556,432,PT07M16.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P3.T3) (S.Wall),Foul,Shooting,1,0,305
+0022300556,476,PT04M21.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P4.PN) (K.Lane),Foul,Shooting,1,0,339
+0022300556,479,PT04M21.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Lively II FOR Powell,Substitution,,0,0,341
+0022300556,510,PT02M50.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,363
+0022300556,513,PT02M30.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P5.PN) (S.Wall),Foul,Shooting,1,0,365
+0022300556,517,PT02M30.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Lively II FOR Powell,Substitution,,0,0,368
+0022300577,479,PT01M19.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P1.PN) (N.Green),Foul,Shooting,1,0,356
+0022300577,485,PT01M16.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,360
+0022300577,621,PT03M37.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,449
+0022300577,622,PT03M37.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell Bad Pass Turnover (P1.T15),Turnover,Bad Pass,1,0,450
+0022300577,625,PT03M27.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,453
+0022300577,632,PT02M49.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,123,102,225,v,Powell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,458
+0022300577,633,PT02M49.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,MISS Powell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,459
+0022300577,646,PT01M12.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,468
+0022300577,649,PT00M58.90S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell Violation:Kicked Ball (S.Foster),Violation,Kicked Ball,0,0,470
+0022300589,157,PT00M59.10S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,118
+0022300589,239,PT07M17.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,171
+0022300589,242,PT07M17.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,173
+0022300589,250,PT07M17.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,MISS Powell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,178
+0022300589,254,PT07M01.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,182
+0022300589,282,PT04M48.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Kleber FOR Powell,Substitution,,0,0,203
+0022300666,169,PT00M23.90S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,116
+0022300680,95,PT04M37.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,72
+0022300680,97,PT04M37.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,MISS Powell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,74
+0022300680,115,PT03M15.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,86
+0022300680,117,PT03M01.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,88
+0022300680,144,PT00M49.10S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,109
+0022300680,159,PT00M01.10S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,119
+0022300680,161,PT00M01.10S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,24,21,45,v,Powell Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,121
+0022300680,247,PT06M36.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell Lost Ball Turnover (P2.T5),Turnover,Lost Ball,1,0,181
+0022300680,251,PT06M02.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell Out of Bounds - Bad Pass Turnover Turnover (P3.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,184
+0022300680,254,PT06M02.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Curry FOR Powell,Substitution,,0,0,187
+0022300680,402,PT06M13.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell P.FOUL (P1.T2) (T.Ford),Foul,Personal,1,0,286
+0022300680,408,PT06M05.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell P.FOUL (P2.T3) (M.Ervin),Foul,Personal,1,0,290
+0022300680,423,PT05M04.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell OFF.Foul (P3) (T.Ford),Foul,Offensive,1,0,300
+0022300680,425,PT05M04.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell Offensive Foul Turnover (P4.T12),Turnover,Offensive Foul Turnover,1,0,301
+0022300702,124,PT03M15.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,86
+0022300702,147,PT00M50.60S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,105
+0022300702,156,PT00M31.80S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,43,20,63,h,Powell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,113
+0022300702,159,PT00M31.80S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,44,20,64,h,Powell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,115
+0022300702,191,PT09M52.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Green FOR Powell,Substitution,,0,0,140
+0022300702,257,PT04M40.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,187
+0022300702,279,PT03M51.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,201
+0022300702,282,PT03M45.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Kleber FOR Powell,Substitution,,0,0,203
+0022300702,401,PT05M49.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell Out of Bounds Lost Ball Turnover (P1.T12),Turnover,Out of Bounds Lost Ball Turnover,1,0,295
+0022300702,405,PT05M24.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,299
+0022300702,417,PT04M59.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P1.T2) (B.Forte),Foul,Shooting,1,0,309
+0022300702,420,PT04M59.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Kleber FOR Powell,Substitution,,0,0,311
+0022300702,450,PT02M47.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,332
+0022300702,463,PT01M54.00S,3,1610612742,DAL,203939,Powell,D. Powell,-7,1,1,Made,1,86,85,171,h,Powell 1' Cutting Dunk Shot (4 PTS) (Doncic 8 AST),Made Shot,Cutting Dunk Shot,1,2,341
+0022300702,480,PT01M19.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell BLOCK (1 BLK),,,1,2,353
+0022300702,516,PT10M30.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,374
+0022300702,520,PT10M05.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,377
+0022300702,551,PT08M19.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Kleber FOR Powell,Substitution,,0,0,400
+0022300715,75,PT06M25.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,53
+0022300715,122,PT03M46.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,86
+0022300715,147,PT02M09.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,106
+0022300715,161,PT00M52.20S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Kleber FOR Powell,Substitution,,0,0,119
+0022300715,289,PT03M55.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,204
+0022300715,296,PT03M27.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Kleber FOR Powell,Substitution,,0,0,210
+0022300715,418,PT06M14.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,296
+0022300715,425,PT05M38.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,301
+0022300715,426,PT05M34.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell OFF.Foul (P1) (S.Mehta),Foul,Offensive,1,0,302
+0022300715,428,PT05M34.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,1,0,303
+0022300715,460,PT03M15.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Kleber FOR Powell,Substitution,,0,0,333
+0022300715,586,PT05M53.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,422
+0022300715,606,PT05M05.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P2.T3) (S.Mehta),Foul,Shooting,1,0,433
+0022300715,611,PT04M48.00S,4,1610612742,DAL,203939,Powell,D. Powell,7,4,1,Missed,1,,,0,v,MISS Powell 1' Layup,Missed Shot,Layup Shot,1,2,437
+0022300715,617,PT04M41.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P3.T4) (R.Acosta),Foul,Shooting,1,0,441
+0022300715,620,PT04M41.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Hardy FOR Powell,Substitution,,0,0,443
+0022300720,112,PT02M38.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,84
+0022300720,115,PT02M32.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell L.B.FOUL (P1.T2) (E.Dalen),Foul,Loose Ball,1,0,87
+0022300720,246,PT04M46.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,173
+0022300720,251,PT04M23.00S,2,1610612742,DAL,203939,Powell,D. Powell,1,22,2,Made,1,38,58,96,v,Powell 2' Turnaround Hook Shot (2 PTS) (Green 2 AST),Made Shot,Turnaround Hook Shot,1,2,176
+0022300720,278,PT01M45.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell BLOCK (1 BLK),,,1,2,197
+0022300720,281,PT01M36.00S,2,1610612742,DAL,203939,Powell,D. Powell,-13,11,2,Missed,1,,,0,v,MISS Powell 2' Running Layup,Missed Shot,Running Layup Shot,1,2,199
+0022300720,294,PT00M47.80S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Kleber FOR Powell,Substitution,,0,0,210
+0022300720,430,PT02M37.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P2.PN) (E.Dalen),Foul,Shooting,1,0,309
+0022300720,433,PT02M37.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Kleber FOR Powell,Substitution,,0,0,311
+0022300720,573,PT03M10.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Kleber FOR Powell,Substitution,,0,0,413
+0022300748,685,PT04M06.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell L.B.FOUL (P1.T3) (S.Foster),Foul,Loose Ball,1,0,478
+0022300748,701,PT02M48.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell BLOCK (1 BLK),,,1,2,491
+0022300748,718,PT01M23.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,503
+0022300748,719,PT01M18.00S,4,1610612742,DAL,203939,Powell,D. Powell,2,-4,0,Made,1,144,105,249,h,Powell Dunk (2 PTS) (Hardy 3 AST),Made Shot,Dunk Shot,1,2,504
+0022300785,85,PT06M59.00S,1,1610612742,DAL,203939,Powell,D. Powell,4,17,2,Missed,1,,,0,h,MISS Powell 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,62
+0022300785,94,PT06M02.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,24,2,Made,1,10,20,30,h,Powell 2' Cutting Layup Shot (2 PTS) (Doncic 2 AST),Made Shot,Cutting Layup Shot,1,2,70
+0022300785,111,PT05M16.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,79
+0022300785,113,PT05M16.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,11,24,35,h,Powell Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,81
+0022300785,185,PT04M50.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Jones Jr. FOR Powell,Substitution,,0,0,86
+0022300785,596,PT04M13.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,429
+0022300785,601,PT03M48.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,437
+0022300785,602,PT03M39.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell Out of Bounds - Bad Pass Turnover Turnover (P1.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,438
+0022300859,600,PT01M15.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell BLOCK (1 BLK),,,1,2,434
+0022300859,604,PT00M20.70S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P1.T2) (B.Adair),Foul,Shooting,1,0,444
+0022300892,665,PT01M32.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell STEAL (1 STL),,,1,0,477
+0022300919,80,PT06M46.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,61
+0022300919,81,PT06M45.00S,1,1610612742,DAL,203939,Powell,D. Powell,16,47,5,Missed,1,,,0,v,MISS Powell 5' Putback Layup,Missed Shot,Putback Layup Shot,1,2,62
+0022300919,94,PT05M36.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P1.T4) (B.Schwab),Foul,Shooting,1,0,73
+0022300919,120,PT04M16.00S,1,1610612742,DAL,203939,Powell,D. Powell,17,17,2,Made,1,18,19,37,v,Powell 2' Layup (2 PTS) (Doncic 4 AST),Made Shot,Layup Shot,1,2,91
+0022300919,130,PT04M16.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,18,20,38,v,Powell Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,96
+0022300919,149,PT02M18.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell P.FOUL (P2.PN) (M.Ervin),Foul,Personal,1,0,111
+0022300919,180,PT00M49.90S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,131
+0022300919,201,PT12M00.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell T.FOUL (P2.T0) (J.Goble),Foul,Technical,0,0,145
+0022300919,679,PT04M10.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell OFF.Foul (P3) (B.Schwab),Foul,Offensive,1,0,493
+0022300919,681,PT04M10.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell Offensive Foul Turnover (P1.T12),Turnover,Offensive Foul Turnover,1,0,494
+0022300919,709,PT02M49.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P4.T3) (B.Schwab),Foul,Shooting,1,0,515
+0022300935,606,PT03M32.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,437
+0022300935,607,PT03M32.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,Missed,1,,,0,v,MISS Powell Putback Layup,Missed Shot,Putback Layup Shot,1,2,438
+0022300935,630,PT01M24.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell P.FOUL (P1.PN) (D.Guthrie),Foul,Personal,1,0,456
+0022300935,636,PT01M10.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,461
+0022301008,709,PT00M22.80S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,488
+0022301047,618,PT03M40.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,440
+0022301047,631,PT02M50.00S,4,1610612742,DAL,203939,Powell,D. Powell,-7,36,4,Missed,1,,,0,v,MISS Powell 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,449
+0022301097,90,PT06M10.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,65
+0022301097,116,PT04M31.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell STEAL (1 STL),,,1,0,83
+0022301097,120,PT04M17.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell STEAL (2 STL),,,1,0,87
+0022301097,137,PT02M55.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell P.FOUL (P1.T4) (K.Scott),Foul,Personal,1,0,98
+0022301097,148,PT02M22.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Gafford FOR Powell,Substitution,,0,0,105
+0022301097,437,PT05M05.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,320
+0022301097,472,PT02M48.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,70,69,139,h,Powell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,346
+0022301097,477,PT02M48.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,71,69,140,h,Powell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,349
+0022301097,480,PT02M26.00S,3,1610612742,DAL,203939,Powell,D. Powell,37,18,4,Missed,1,,,0,h,MISS Powell 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,351
+0022301097,482,PT02M13.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell P.FOUL (P2.PN) (C.Flores),Foul,Personal,1,0,353
+0022301097,486,PT02M13.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Gafford FOR Powell,Substitution,,0,0,356
+0022301124,160,PT01M17.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,124
+0022301124,161,PT01M17.00S,1,1610612742,DAL,203939,Powell,D. Powell,4,1,0,Made,1,23,23,46,h,Powell Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,125
+0022301124,164,PT01M17.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,MISS Powell Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,127
+0022301124,445,PT04M17.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,335
+0022301124,463,PT03M10.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,347
+0022301124,464,PT03M09.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,348
+0022301124,469,PT03M08.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Kleber FOR Powell,Substitution,,0,0,352
+0022301181,143,PT00M28.60S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,102
+0022301181,343,PT09M08.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P1.T1) (D.Richardson),Foul,Shooting,1,0,234
+0022301181,353,PT08M07.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,242
+0022301181,358,PT07M29.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,247
+0022301181,359,PT07M29.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,Made,1,58,66,124,h,Powell Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,248
+0022301181,366,PT06M54.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,253
+0022301181,375,PT06M26.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Morris FOR Powell,Substitution,,0,0,259
+0022301181,477,PT10M56.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,334
+0022301181,481,PT10M37.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,337
+0022301181,490,PT09M39.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,344
+0022301181,498,PT08M12.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,351
+0022301181,499,PT08M12.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,Made,1,80,86,166,h,Powell Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,352
+0022301181,507,PT07M41.00S,4,1610612742,DAL,203939,Powell,D. Powell,-18,23,3,Missed,1,,,0,h,MISS Powell 3' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,358
+0022301181,526,PT06M42.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,371
+0022301181,530,PT06M35.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:5 Def:5),Rebound,Unknown,1,0,374
+0022301181,543,PT05M23.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell Bad Pass Turnover (P1.T18),Turnover,Bad Pass,1,0,385
+0022301181,548,PT04M48.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell P.FOUL (P2.T2) (D.Richardson),Foul,Personal,1,0,389
+0022301181,566,PT03M06.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P3.T3) (A.Moyer-Gleich),Foul,Shooting,1,0,405
+0022301181,583,PT01M55.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Fudge FOR Powell,Substitution,,0,0,420
+0022301196,31,PT09M23.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,19
+0022301196,66,PT06M50.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Morris FOR Powell,Substitution,,0,0,47
+0022301196,199,PT10M51.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P1.T1) (N.Sago),Foul,Shooting,1,0,133
+0022301196,210,PT10M17.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P2.T2) (N.Sago),Foul,Shooting,1,0,141
+0022301196,233,PT08M06.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,160
+0022301196,241,PT07M27.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Morris FOR Powell,Substitution,,0,0,168
+0022301196,378,PT11M41.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,255
+0022301196,405,PT09M38.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell BLOCK (1 BLK),,,1,2,279
+0022301196,434,PT07M19.00S,3,1610612742,DAL,203939,Powell,D. Powell,-45,248,25,Missed,1,,,0,v,MISS Powell 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,299
+0022301196,437,PT07M03.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Morris FOR Powell,Substitution,,0,0,302
+0022301196,512,PT02M09.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,361
+0022301196,516,PT01M54.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,365
+0022301196,518,PT01M35.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P3.T3) (K.Lane),Foul,Shooting,1,0,367
+0022301196,523,PT01M32.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,371
+0022301196,533,PT00M20.90S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,380
+0022301196,534,PT00M20.40S,3,1610612742,DAL,203939,Powell,D. Powell,0,4,0,Made,1,106,57,163,v,Powell Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,381
+0022301196,577,PT09M01.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,410
+0022301196,581,PT08M40.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,413
+0022301196,609,PT05M47.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell STEAL (1 STL),,,1,0,434
+0022301196,613,PT05M47.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Lawson FOR Powell,Substitution,,0,0,437
+0022301213,113,PT03M49.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,81
+0022301213,176,PT11M09.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,126
+0022301213,177,PT11M07.00S,2,1610612742,DAL,203939,Powell,D. Powell,-17,19,3,Made,1,42,31,73,h,Powell 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,127
+0022301213,201,PT08M50.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Lively II FOR Powell,Substitution,,0,0,145
+0022301213,461,PT01M27.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,340
+0022301213,518,PT10M24.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,373
+0022301213,527,PT09M28.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell STEAL (1 STL),,,1,0,381
+0022301213,561,PT06M53.00S,4,1610612742,DAL,203939,Powell,D. Powell,-1,2,0,Made,1,125,82,207,h,Powell Cutting Dunk Shot (4 PTS) (Exum 7 AST),Made Shot,Cutting Dunk Shot,1,2,408
+0022301213,583,PT05M38.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,Powell S.FOUL (P1.T2) (B.Forte),Foul,Shooting,1,0,420
+0022301213,586,PT05M38.00S,4,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,h,SUB: Holmes FOR Powell,Substitution,,0,0,422
+0022301226,118,PT03M41.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,91
+0022301226,124,PT03M29.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell STEAL (1 STL),,,1,0,96
+0022301226,126,PT03M26.00S,1,1610612742,DAL,203939,Powell,D. Powell,23,15,3,Made,1,10,28,38,v,Powell 3' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,1,2,97
+0022301226,131,PT02M40.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell L.B.FOUL (P1.T2) (J.Van Duyne),Foul,Loose Ball,1,0,101
+0022301226,144,PT01M30.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,110
+0022301226,157,PT00M53.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,18,33,51,v,Powell Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,119
+0022301226,158,PT00M53.00S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,18,34,52,v,Powell Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,120
+0022301226,166,PT00M02.60S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell OFF.Foul (P2) (J.Van Duyne),Foul,Offensive,1,0,126
+0022301226,168,PT00M02.60S,1,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,127
+0022301226,316,PT03M23.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell S.FOUL (P3.PN) (J.Van Duyne),Foul,Shooting,1,0,227
+0022301226,328,PT02M33.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell P.FOUL (P4.PN) (B.Kennedy),Foul,Personal,1,0,235
+0022301226,332,PT02M33.00S,2,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Morris FOR Powell,Substitution,,0,0,238
+0022301226,440,PT07M59.00S,3,1610612742,DAL,203939,Powell,D. Powell,1,46,5,Missed,1,,,0,v,MISS Powell 5' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,2,313
+0022301226,443,PT07M51.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell STEAL (2 STL),,,1,0,316
+0022301226,472,PT05M43.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell STEAL (3 STL),,,1,0,336
+0022301226,488,PT04M37.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,Powell L.B.FOUL (P5.T4) (S.Mehta),Foul,Loose Ball,1,0,348
+0022301226,492,PT04M37.00S,3,1610612742,DAL,203939,Powell,D. Powell,0,0,0,,0,,,0,v,SUB: Morris FOR Powell,Substitution,,0,0,350

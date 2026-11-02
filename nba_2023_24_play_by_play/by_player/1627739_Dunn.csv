@@ -1,0 +1,992 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300023,657,PT00M28.40S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Out of Bounds - Bad Pass Turnover Turnover (P1.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,0,488
+0022300042,541,PT07M34.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,-205,152,26,Made,1,114,84,198,v,Dunn 26' 3PT Jump Shot (3 PTS) (Horton-Tucker 7 AST),Made Shot,Jump Shot,1,3,402
+0022300042,553,PT06M56.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P1.T3) (E.Scott),Foul,Shooting,1,0,410
+0022300042,563,PT05M54.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Traveling Turnover (P1.T12),Turnover,Traveling,1,0,418
+0022300042,593,PT03M30.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,-31,17,4,Missed,1,,,0,v,MISS Dunn 4' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,441
+0022300042,602,PT03M18.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Bad Pass Turnover (P2.T14),Turnover,Bad Pass,1,0,448
+0022300042,629,PT00M28.90S,4,1610612762,UTA,1627739,Dunn,K. Dunn,10,65,7,Missed,1,,,0,v,MISS Dunn 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,471
+0022300042,632,PT00M00.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,-25,20,3,Made,1,131,99,230,v,Dunn 3' Driving Reverse Layup (5 PTS) (Sexton 4 AST),Made Shot,Driving Reverse Layup Shot,1,2,474
+0022300072,127,PT02M43.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,99
+0022300072,148,PT01M37.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Out of Bounds Lost Ball Turnover (P2.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0,116
+0022300072,164,PT00M10.30S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,MISS Dunn Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,127
+0022300072,166,PT00M10.30S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,24,32,56,h,Dunn Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,129
+0022300072,171,PT00M03.40S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,133
+0022300072,184,PT11M03.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (1 STL),,,1,0,145
+0022300072,196,PT09M57.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-4,69,7,Made,1,32,40,72,h,Dunn 7' Driving Floating Jump Shot (3 PTS),Made Shot,Driving Floating Jump Shot,1,2,153
+0022300072,211,PT08M49.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,MISS Dunn Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,162
+0022300072,213,PT08M49.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,36,46,82,h,Dunn Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,164
+0022300072,216,PT08M20.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-50,28,6,Missed,1,,,0,h,MISS Dunn 6' Layup,Missed Shot,Layup Shot,1,2,167
+0022300072,225,PT07M38.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-1,63,6,Missed,1,,,0,h,MISS Dunn 6' Layup,Missed Shot,Layup Shot,1,2,174
+0022300072,245,PT06M50.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Markkanen FOR Dunn,Substitution,,0,0,187
+0022300072,517,PT00M43.40S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Lost Ball Turnover (P3.T11),Turnover,Lost Ball,1,0,385
+0022300072,525,PT00M22.30S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (2 STL),,,1,0,393
+0022300072,527,PT00M20.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-6,19,2,Made,1,86,102,188,h,Dunn 2' Dunk (6 PTS),Made Shot,Dunk Shot,1,2,394
+0022300072,559,PT10M43.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,167,192,25,Missed,1,,,0,h,MISS Dunn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,411
+0022300072,567,PT10M10.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Bad Pass Turnover (P4.T12),Turnover,Bad Pass,1,0,418
+0022300072,570,PT09M55.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,-12,94,9,Made,1,89,110,199,h,Dunn 9' Floating Jump Shot (8 PTS),Made Shot,Floating Jump shot,1,2,421
+0022300072,579,PT09M11.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Clarkson FOR Dunn,Substitution,,0,0,428
+0022300085,131,PT02M29.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-222,-12,0,Missed,1,,,0,h,MISS Dunn 3PT Jump Shot,Missed Shot,Jump Shot,1,3,98
+0022300085,134,PT02M11.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn P.FOUL (P1.PN) (J.Goldenberg),Foul,Personal,1,0,101
+0022300085,148,PT00M21.90S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (1 STL),,,1,0,113
+0022300085,150,PT00M15.70S,1,1610612762,UTA,1627739,Dunn,K. Dunn,31,38,5,Missed,1,,,0,h,MISS Dunn 5' Jump Shot,Missed Shot,Jump Shot,1,2,114
+0022300085,177,PT10M28.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,131
+0022300085,245,PT06M00.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn OFF.Foul (P2) (K.Cutler),Foul,Offensive,1,0,178
+0022300085,247,PT06M00.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,1,0,179
+0022300085,252,PT05M36.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,1,66,7,Missed,1,,,0,h,MISS Dunn 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,183
+0022300085,274,PT03M56.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Markkanen FOR Dunn,Substitution,,0,0,198
+0022300085,320,PT00M00.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-99,225,25,Missed,1,,,0,h,MISS Dunn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,233
+0022300085,460,PT02M00.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Offensive Charge Foul (P3) (K.Cutler),Foul,Offensive Charge,1,0,335
+0022300085,462,PT02M00.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,1,0,336
+0022300085,474,PT01M04.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P4.PN) (J.Goldenberg),Foul,Shooting,1,0,347
+0022300085,493,PT00M05.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Bad Pass Turnover (P3.T13),Turnover,Bad Pass,1,0,361
+0022300085,620,PT02M54.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P5.T4) (J.Goldenberg),Foul,Shooting,1,0,451
+0022300085,624,PT02M36.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,-4,67,7,Made,1,113,111,224,h,Dunn 7' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,454
+0022300085,633,PT01M51.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,-11,34,4,Made,1,115,113,228,h,Dunn 4' Dunk (4 PTS) (Clarkson 6 AST),Made Shot,Dunk Shot,1,2,463
+0022300085,637,PT01M14.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,-13,65,7,Missed,1,,,0,h,MISS Dunn 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,466
+0022300085,652,PT00M41.20S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P6.PN) (D.Guthrie),Foul,Shooting,1,0,481
+0022300085,658,PT00M41.20S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Horton-Tucker FOR Dunn,Substitution,,0,0,484
+0022300094,125,PT02M35.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P1.T4) (S.Twardoski),Foul,Shooting,1,0,86
+0022300094,180,PT10M09.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,234,-15,0,Missed,1,,,0,v,MISS Dunn 3PT Jump Shot,Missed Shot,Jump Shot,1,3,124
+0022300094,192,PT08M49.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,135
+0022300094,198,PT07M56.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-4,-3,1,Made,1,42,36,78,v,Dunn 1' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,141
+0022300094,202,PT07M25.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,13,44,5,Missed,1,,,0,v,MISS Dunn 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,144
+0022300094,211,PT06M48.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Olynyk FOR Dunn,Substitution,,0,0,150
+0022300094,315,PT00M05.10S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P2.PN) (S.Twardoski),Foul,Personal,1,0,220
+0022300094,319,PT00M05.10S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Clarkson FOR Dunn,Substitution,,0,0,223
+0022300094,540,PT11M49.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Out of Bounds - Bad Pass Turnover Turnover (P1.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,374
+0022300094,545,PT11M16.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,-2,-6,1,Made,1,106,80,186,v,Dunn 1' Driving Layup (4 PTS) (George 5 AST),Made Shot,Driving Layup Shot,1,2,379
+0022300094,591,PT06M43.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,413
+0022300094,613,PT05M30.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (1 STL),,,1,0,428
+0022300094,615,PT05M27.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,-5,4,1,Missed,1,,,0,v,MISS Dunn 1' Running Layup,Missed Shot,Running Layup Shot,1,2,429
+0022300094,642,PT03M21.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,37,17,4,Missed,1,,,0,v,MISS Dunn 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,452
+0022300094,657,PT02M11.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (2 STL),,,1,0,465
+0022300094,671,PT00M45.80S,4,1610612762,UTA,1627739,Dunn,K. Dunn,-1,19,2,Missed,1,,,0,v,MISS Dunn 2' Running Layup,Missed Shot,Running Layup Shot,1,2,473
+0022300110,175,PT11M19.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,127
+0022300110,176,PT11M12.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-158,214,27,Missed,1,,,0,v,MISS Dunn 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,128
+0022300110,182,PT10M23.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P1.T1) (R.Hussey),Foul,Personal,1,0,133
+0022300110,211,PT07M47.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,32,6,3,Missed,1,,,0,v,MISS Dunn 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,158
+0022300110,214,PT07M40.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,161
+0022300110,273,PT05M34.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: George FOR Dunn,Substitution,,0,0,196
+0022300125,263,PT05M20.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P1.T4) (T.Brothers),Foul,Shooting,1,0,187
+0022300125,299,PT03M38.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Markkanen FOR Dunn,Substitution,,0,0,216
+0022300125,617,PT07M36.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,-10,67,7,Missed,1,,,0,h,MISS Dunn 7' Jump Shot,Missed Shot,Jump Shot,1,2,454
+0022300125,657,PT04M32.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,484
+0022300125,658,PT04M26.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,-130,226,26,Made,1,118,93,211,h,Dunn 26' 3PT Jump Shot (3 PTS) (Sexton 5 AST),Made Shot,Jump Shot,1,3,485
+0022300125,684,PT03M08.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P2.PN) (S.Wall),Foul,Shooting,1,0,504
+0022300125,691,PT02M40.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P3.PN) (T.Brothers),Foul,Shooting,1,0,509
+0022300125,715,PT01M56.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,128,101,229,h,Dunn Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,524
+0022300125,716,PT01M56.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,129,101,230,h,Dunn Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,525
+0022300130,247,PT09M20.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,182
+0022300130,262,PT07M59.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-45,92,10,Made,1,44,42,86,h,Dunn 10' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,1,2,195
+0022300130,266,PT07M47.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,198
+0022300130,307,PT05M36.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-4,54,5,Missed,1,,,0,h,MISS Dunn 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,225
+0022300130,329,PT04M28.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Markkanen FOR Dunn,Substitution,,0,0,240
+0022300152,128,PT01M41.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,95
+0022300152,130,PT01M28.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,98
+0022300152,134,PT01M10.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,101
+0022300152,137,PT00M50.70S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P1.T4) (E.Scott),Foul,Personal,1,0,103
+0022300152,148,PT00M02.30S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,110
+0022300152,166,PT10M56.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,138,224,26,Made,1,39,35,74,v,Dunn 26' 3PT Jump Shot (3 PTS) (Agbaji 1 AST),Made Shot,Jump Shot,1,3,120
+0022300152,190,PT09M31.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,138
+0022300152,195,PT09M06.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,0,142
+0022300152,203,PT08M56.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Clarkson FOR Dunn,Substitution,,0,0,150
+0022300152,642,PT00M58.50S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,465
+0022300158,161,PT11M35.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,120
+0022300158,173,PT10M52.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,131
+0022300158,188,PT09M16.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,146
+0022300158,218,PT07M49.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-49,92,10,Made,1,39,40,79,v,Dunn 10' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,166
+0022300158,242,PT06M29.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Collins FOR Dunn,Substitution,,0,0,181
+0022300158,501,PT00M59.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-232,45,24,Made,1,95,98,193,v,Dunn 24' 3PT Running Jump Shot (5 PTS) (Horton-Tucker 5 AST),Made Shot,Running Jump Shot,1,3,370
+0022300158,520,PT11M19.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,-18,71,7,Missed,1,,,0,v,MISS Dunn 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,385
+0022300158,527,PT10M13.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,51,47,7,Missed,1,,,0,v,MISS Dunn 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,391
+0022300158,536,PT09M58.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,398
+0022300158,542,PT09M25.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,29,25,4,Made,1,108,104,212,v,Dunn 4' Turnaround Jump Shot (7 PTS),Made Shot,Turnaround Jump Shot,1,2,403
+0022300158,571,PT08M01.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Clarkson FOR Dunn,Substitution,,0,0,424
+0022300237,165,PT10M43.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-130,94,16,Missed,1,,,0,v,MISS Dunn 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,124
+0022300237,169,PT10M27.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,128
+0022300237,172,PT10M21.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,36,22,58,v,Dunn Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,130
+0022300237,173,PT10M21.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,MISS Dunn Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,131
+0022300237,175,PT10M15.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn BLOCK (1 BLK),,,1,2,134
+0022300237,219,PT07M46.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,162
+0022300237,231,PT06M28.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Clarkson FOR Dunn,Substitution,,0,0,172
+0022300243,20,PT10M36.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,14
+0022300243,39,PT09M28.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (1 STL),,,1,0,31
+0022300243,55,PT08M19.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,43
+0022300243,77,PT06M32.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,61
+0022300243,78,PT06M32.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,Made,1,13,8,21,h,Dunn Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,62
+0022300243,100,PT04M39.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P1.T2) (L.Holtkamp),Foul,Shooting,0,0,81
+0022300243,111,PT04M28.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,21,84,9,Missed,1,,,0,h,MISS Dunn 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,88
+0022300243,114,PT04M25.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Agbaji FOR Dunn,Substitution,,0,0,90
+0022300243,277,PT06M27.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (2 STL),,,1,0,213
+0022300243,279,PT06M24.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-22,0,2,Made,1,35,38,73,h,Dunn 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,214
+0022300243,289,PT04M59.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,45,41,6,Made,1,37,45,82,h,Dunn 6' Floating Jump Shot (6 PTS),Made Shot,Floating Jump shot,1,2,222
+0022300243,326,PT02M28.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Out of Bounds Lost Ball Turnover (P1.T14),Turnover,Out of Bounds Lost Ball Turnover,1,0,250
+0022300243,351,PT00M21.50S,2,1610612762,UTA,1627739,Dunn,K. Dunn,20,15,3,Missed,1,,,0,h,MISS Dunn 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,273
+0022300243,372,PT10M36.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-10,58,6,Made,1,50,57,107,h,Dunn 6' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,287
+0022300243,389,PT09M23.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,6,92,9,Missed,1,,,0,h,MISS Dunn 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,298
+0022300243,397,PT08M42.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Offensive Charge Foul (P2) (D.Richardson),Foul,Offensive Charge,1,0,305
+0022300243,399,PT08M42.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Offensive Foul Turnover (P2.T17),Turnover,Offensive Foul Turnover,1,0,306
+0022300243,414,PT06M54.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P3.T1) (J.Williams),Foul,Shooting,1,0,319
+0022300243,417,PT06M54.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Sexton FOR Dunn,Substitution,,0,0,321
+0022300302,143,PT01M39.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P1.PN) (T.Brothers),Foul,Shooting,1,0,103
+0022300302,154,PT00M28.80S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,113
+0022300302,179,PT11M30.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,126
+0022300302,194,PT10M10.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P2.T1) (T.Maddox),Foul,Personal,1,0,137
+0022300302,203,PT09M17.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,77,99,13,Made,1,40,25,65,v,Dunn 13' Pullup Jump Shot (2 PTS) (Olynyk 2 AST),Made Shot,Pullup Jump shot,1,2,143
+0022300302,211,PT08M33.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-38,72,8,Made,1,43,27,70,v,Dunn 8' Driving Floating Jump Shot (4 PTS) (Hendricks 1 AST),Made Shot,Driving Floating Jump Shot,1,2,148
+0022300302,218,PT08M13.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,152
+0022300302,248,PT06M18.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,17,256,26,Missed,1,,,0,v,MISS Dunn 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,173
+0022300302,261,PT05M23.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Agbaji FOR Dunn,Substitution,,0,0,183
+0022300302,485,PT02M19.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,16,105,11,Missed,1,,,0,v,MISS Dunn 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,349
+0022300302,549,PT10M42.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,394
+0022300302,611,PT05M59.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,441
+0022300302,619,PT05M03.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,447
+0022300302,637,PT03M35.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (1 STL),,,1,0,461
+0022300318,117,PT03M25.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (1 STL),,,1,0,90
+0022300318,150,PT00M27.10S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-235,39,24,Made,1,22,28,50,h,Dunn 24' 3PT Jump Shot (3 PTS) (Agbaji 1 AST),Made Shot,Jump Shot,1,3,117
+0022300318,198,PT08M50.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,150
+0022300318,207,PT08M17.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Sexton FOR Dunn,Substitution,,0,0,156
+0022300318,452,PT03M54.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,332
+0022300318,453,PT03M43.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,26,58,6,Made,1,76,71,147,h,Dunn 6' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,1,2,333
+0022300318,489,PT01M02.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Violation:Kicked Ball (A.Smith),Violation,Kicked Ball,0,0,360
+0022300318,496,PT00M28.70S,3,1610612762,UTA,1627739,Dunn,K. Dunn,227,110,25,Made,1,86,84,170,h,Dunn 25' 3PT Jump Shot (8 PTS) (Horton-Tucker 3 AST),Made Shot,Jump Shot,1,3,365
+0022300318,542,PT09M09.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn P.FOUL (P1.T2) (Z.Zarba),Foul,Personal,1,0,401
+0022300318,557,PT08M25.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,-2,50,5,Made,1,99,84,183,h,Dunn 5' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,1,2,413
+0022300318,558,PT08M14.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn P.FOUL (P2.T4) (A.Smith),Foul,Personal,1,0,414
+0022300318,580,PT06M47.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,428
+0022300318,586,PT06M07.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn P.FOUL (P3.PN) (J.Ralls),Foul,Personal,1,0,433
+0022300318,589,PT06M07.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Sexton FOR Dunn,Substitution,,0,0,435
+0022300323,122,PT02M24.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,208,123,24,Missed,1,,,0,v,MISS Dunn 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,85
+0022300323,148,PT00M09.80S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-32,88,9,Made,1,30,38,68,v,Dunn 9' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,106
+0022300323,169,PT10M27.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-7,36,4,Missed,1,,,0,v,MISS Dunn 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,118
+0022300323,203,PT07M22.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,143
+0022300323,215,PT06M22.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Fontecchio FOR Dunn,Substitution,,0,0,153
+0022300323,440,PT04M44.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,10,5,1,Made,1,60,92,152,v,Dunn 1' Running Dunk (4 PTS) (Olynyk 6 AST),Made Shot,Running Dunk Shot,1,2,321
+0022300323,535,PT10M13.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,50,52,7,Made,1,78,109,187,v,Dunn 7' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,1,2,396
+0022300323,540,PT09M18.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,400
+0022300323,607,PT03M37.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,-230,30,0,Missed,1,,,0,v,MISS Dunn 3PT Jump Shot,Missed Shot,Jump Shot,1,3,447
+0022300323,609,PT03M28.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P1.T4) (B.Forte),Foul,Personal,1,0,449
+0022300323,615,PT02M54.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P2.PN) (C.Washington),Foul,Shooting,1,0,454
+0022300323,628,PT01M46.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,10,20,2,Missed,1,,,0,v,MISS Dunn 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,463
+0022300323,637,PT00M58.50S,4,1610612762,UTA,1627739,Dunn,K. Dunn,55,58,8,Missed,1,,,0,v,MISS Dunn 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,470
+0022300342,9,PT11M35.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,5
+0022300342,12,PT11M13.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,65,4,7,Missed,1,,,0,v,MISS Dunn 7' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,8
+0022300342,19,PT10M41.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (1 STL),,,1,0,15
+0022300342,32,PT09M38.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Traveling Turnover (P2.T2),Turnover,Traveling,1,0,23
+0022300342,68,PT06M37.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Horton-Tucker FOR Dunn,Substitution,,0,0,53
+0022300342,134,PT01M47.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn BLOCK (1 BLK),,,1,2,103
+0022300342,141,PT01M16.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn OFF.Foul (P1) (M.Myers),Foul,Offensive,1,0,108
+0022300342,143,PT01M16.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Offensive Foul Turnover (P3.T4),Turnover,Offensive Foul Turnover,1,0,109
+0022300342,148,PT00M45.20S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-232,-17,0,Made,1,33,20,53,v,Dunn 3PT Jump Shot (3 PTS) (Markkanen 1 AST),Made Shot,Jump Shot,1,3,113
+0022300342,164,PT11M04.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Out of Bounds - Bad Pass Turnover Turnover (P4.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,125
+0022300342,169,PT10M21.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,132
+0022300342,185,PT09M30.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,146
+0022300342,186,PT09M30.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,Made,1,35,29,64,v,Dunn Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,1,2,147
+0022300342,201,PT08M55.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Traveling Turnover (P5.T6),Turnover,Traveling,0,0,156
+0022300342,209,PT07M46.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,12,11,2,Made,1,38,33,71,v,Dunn 2' Driving Layup (7 PTS) (Hendricks 1 AST),Made Shot,Driving Layup Shot,1,2,163
+0022300342,212,PT07M27.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,165
+0022300342,238,PT06M25.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Bad Pass Turnover (P6.T8),Turnover,Bad Pass,1,0,182
+0022300342,257,PT04M50.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,22,13,3,Missed,1,,,0,v,MISS Dunn 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,196
+0022300342,266,PT04M16.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Horton-Tucker FOR Dunn,Substitution,,0,0,202
+0022300342,317,PT11M18.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,232
+0022300342,353,PT08M12.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-190,168,25,Missed,1,,,0,v,MISS Dunn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,258
+0022300342,375,PT06M34.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-42,101,11,Made,1,80,63,143,v,Dunn 11' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,2,275
+0022300342,391,PT05M07.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,32,67,7,Made,1,86,68,154,v,Dunn 7' Floating Jump Shot (11 PTS) (Sexton 1 AST),Made Shot,Floating Jump shot,1,2,285
+0022300342,404,PT04M36.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Horton-Tucker FOR Dunn,Substitution,,0,0,293
+0022300342,598,PT03M01.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,-62,257,26,Missed,1,,,0,v,MISS Dunn 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,428
+0022300342,612,PT01M50.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,235,29,24,Missed,1,,,0,v,MISS Dunn 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,437
+0022300357,107,PT03M55.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,83
+0022300357,112,PT03M27.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,40,3,4,Made,1,20,14,34,h,Dunn 4' Running Layup (2 PTS) (Fontecchio 1 AST),Made Shot,Running Layup Shot,1,2,88
+0022300357,186,PT10M14.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P1.T1) (K.Lane),Foul,Shooting,1,0,140
+0022300357,192,PT09M56.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-1,58,6,Made,1,34,34,68,h,Dunn 6' Turnaround Hook Shot (4 PTS) (Agbaji 1 AST),Made Shot,Turnaround Hook Shot,1,2,144
+0022300357,221,PT07M52.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Sexton FOR Dunn,Substitution,,0,0,164
+0022300357,481,PT02M41.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,353
+0022300357,522,PT11M41.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,382
+0022300357,561,PT08M06.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Sexton FOR Dunn,Substitution,,0,0,414
+0022300364,42,PT07M55.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,29
+0022300364,47,PT07M29.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn OFF.Foul (P1) (S.Foster),Foul,Offensive,1,0,33
+0022300364,49,PT07M29.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,34
+0022300364,58,PT05M58.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,235,31,24,Made,1,18,13,31,v,Dunn 24' 3PT Jump Shot (3 PTS) (Markkanen 1 AST),Made Shot,Jump Shot,1,3,41
+0022300364,94,PT04M31.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,39,256,26,Made,1,18,18,36,v,Dunn 26' 3PT Jump Shot (6 PTS) (Olynyk 2 AST),Made Shot,Jump Shot,1,3,64
+0022300364,96,PT04M23.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P2.T3) (S.Twardoski),Foul,Personal,1,0,65
+0022300364,122,PT03M55.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Traveling Turnover (P2.T3),Turnover,Traveling,1,0,67
+0022300364,113,PT02M43.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Bad Pass Turnover (P3.T4),Turnover,Bad Pass,1,0,76
+0022300364,125,PT02M13.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Horton-Tucker FOR Dunn,Substitution,,0,0,86
+0022300364,249,PT05M12.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,175
+0022300364,297,PT01M47.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P3.T2) (S.Twardoski),Foul,Personal,1,0,209
+0022300364,320,PT00M41.60S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Agbaji FOR Dunn,Substitution,,0,0,224
+0022300364,449,PT02M47.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-6,20,2,Made,1,86,88,174,v,Dunn 2' Layup (8 PTS),Made Shot,Layup Shot,1,2,311
+0022300364,494,PT11M28.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn OFF.Foul (P4) (S.Foster),Foul,Offensive,1,0,345
+0022300364,496,PT11M28.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Offensive Foul Turnover (P4.T13),Turnover,Offensive Foul Turnover,1,0,346
+0022300364,512,PT10M26.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Sexton FOR Dunn,Substitution,,0,0,355
+0022300374,23,PT10M16.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,16,2,Made,1,4,4,8,v,Dunn 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,18
+0022300374,58,PT07M01.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-145,210,26,Missed,1,,,0,v,MISS Dunn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,39
+0022300374,70,PT05M59.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,48
+0022300374,79,PT05M41.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Agbaji FOR Dunn,Substitution,,0,0,55
+0022300374,122,PT02M44.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,22,18,3,Made,1,29,26,55,v,Dunn 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,82
+0022300374,140,PT01M00.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,39,52,7,Missed,1,,,0,v,MISS Dunn 7' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,97
+0022300374,173,PT11M31.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (1 STL),,,1,0,121
+0022300374,186,PT10M54.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-5,28,3,Made,1,32,40,72,v,Dunn 3' Floating Jump Shot (6 PTS),Made Shot,Floating Jump shot,1,2,133
+0022300374,191,PT10M41.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P1.T1) (J.Butler),Foul,Personal,1,0,134
+0022300374,201,PT09M59.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,139
+0022300374,202,PT09M46.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,11,62,6,Missed,1,,,0,v,MISS Dunn 6' Jump Shot,Missed Shot,Jump Shot,1,2,140
+0022300374,232,PT07M07.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,159
+0022300374,256,PT05M46.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-233,34,24,Missed,1,,,0,v,MISS Dunn 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,175
+0022300374,270,PT04M56.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,21,42,5,Missed,1,,,0,v,MISS Dunn 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,185
+0022300374,274,PT04M54.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Collins FOR Dunn,Substitution,,0,0,189
+0022300374,361,PT11M06.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,MISS Dunn Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,250
+0022300374,363,PT11M06.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,60,65,125,v,Dunn Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,252
+0022300374,395,PT07M59.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (2 STL),,,1,0,278
+0022300374,411,PT06M58.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Agbaji FOR Dunn,Substitution,,0,0,287
+0022300374,535,PT10M15.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,21,40,5,Missed,1,,,0,v,MISS Dunn 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,381
+0022300374,546,PT09M50.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,23,85,9,Made,1,90,96,186,v,Dunn 9' Floating Jump Shot (9 PTS),Made Shot,Floating Jump shot,1,2,389
+0022300374,560,PT08M26.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,15,74,8,Made,1,93,98,191,v,Dunn 8' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,1,2,401
+0022300374,570,PT07M40.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,93,99,192,v,Dunn Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,409
+0022300374,575,PT07M40.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,93,100,193,v,Dunn Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,412
+0022300374,602,PT05M27.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Lost Ball Turnover (P1.T11),Turnover,Lost Ball,1,0,433
+0022300374,605,PT05M16.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,436
+0022300374,609,PT05M00.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn BLOCK (1 BLK),,,1,2,440
+0022300374,619,PT04M24.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Sexton FOR Dunn,Substitution,,0,0,447
+0022300374,646,PT02M49.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P2.T4) (Z.Zarba),Foul,Shooting,1,0,467
+0022300374,651,PT02M25.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,471
+0022300395,55,PT10M37.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn BLOCK (1 BLK),,,1,2,9
+0022300395,57,PT10M35.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+0022300395,33,PT09M01.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,23
+0022300395,62,PT05M58.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Clarkson FOR Dunn,Substitution,,0,0,41
+0022300395,180,PT09M35.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-7,81,8,Made,1,43,37,80,v,Dunn 8' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,1,2,120
+0022300395,208,PT07M03.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,140
+0022300395,237,PT05M28.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,32,38,5,Missed,1,,,0,v,MISS Dunn 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,159
+0022300395,242,PT05M24.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Fontecchio FOR Dunn,Substitution,,0,0,163
+0022300395,350,PT11M05.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,10,253,25,Missed,1,,,0,v,MISS Dunn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,238
+0022300395,354,PT10M47.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,242
+0022300395,378,PT08M48.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,190,167,25,Missed,1,,,0,v,MISS Dunn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,264
+0022300395,402,PT06M59.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-222,-8,0,Missed,1,,,0,v,MISS Dunn 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,279
+0022300395,408,PT06M52.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Fontecchio FOR Dunn,Substitution,,0,0,283
+0022300395,477,PT02M04.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,7,250,25,Missed,1,,,0,v,MISS Dunn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,330
+0022300395,479,PT01M56.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (1 STL),,,1,0,333
+0022300395,485,PT01M34.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,337
+0022300395,490,PT00M47.20S,3,1610612762,UTA,1627739,Dunn,K. Dunn,13,104,10,Missed,1,,,0,v,MISS Dunn 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,341
+0022300395,516,PT10M52.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,-141,209,25,Made,1,98,90,188,v,Dunn 25' 3PT Jump Shot (5 PTS) (Clarkson 4 AST),Made Shot,Jump Shot,1,3,358
+0022300395,520,PT10M34.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,361
+0022300395,532,PT09M31.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,370
+0022300395,541,PT08M40.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,191,193,27,Made,1,101,98,199,v,Dunn 27' 3PT Jump Shot (8 PTS) (Clarkson 5 AST),Made Shot,Jump Shot,1,3,378
+0022300395,569,PT06M56.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,397
+0022300395,575,PT06M20.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,403
+0022300395,603,PT04M09.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,423
+0022300395,619,PT02M42.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P1.T4) (T.Ford),Foul,Personal,1,0,434
+0022300395,623,PT02M12.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,50,67,8,Missed,1,,,0,v,MISS Dunn 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,437
+0022300395,625,PT02M00.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,16,9,2,Missed,1,,,0,v,MISS Dunn 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,439
+0022300412,16,PT10M29.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,18,-5,2,Missed,1,,,0,v,MISS Dunn 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,9
+0022300412,49,PT07M37.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,38
+0022300412,65,PT06M11.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: George FOR Dunn,Substitution,,0,0,51
+0022300412,255,PT06M40.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,191
+0022300412,296,PT03M14.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,216
+0022300412,318,PT01M36.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-219,116,25,Missed,1,,,0,v,MISS Dunn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,230
+0022300412,326,PT00M53.10S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,237
+0022300412,331,PT00M50.20S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: George FOR Dunn,Substitution,,0,0,241
+0022300412,363,PT10M38.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,259
+0022300412,368,PT10M13.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,264
+0022300412,378,PT09M33.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,271
+0022300412,381,PT09M33.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,64,74,138,v,Dunn Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,273
+0022300412,382,PT09M33.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,64,75,139,v,Dunn Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,274
+0022300412,384,PT09M15.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,276
+0022300412,419,PT07M00.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Clarkson FOR Dunn,Substitution,,0,0,303
+0022300412,639,PT05M04.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Clarkson FOR Dunn,Substitution,,0,0,457
+0022300412,681,PT02M08.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Sensabaugh FOR Dunn,Substitution,,0,0,489
+0022300424,19,PT10M31.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-26,62,7,Made,1,3,4,7,v,Dunn 7' Floating Jump Shot (2 PTS) (Sexton 1 AST),Made Shot,Floating Jump shot,1,2,14
+0022300424,67,PT06M24.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P1.T3) (T.Brothers),Foul,Personal,1,0,49
+0022300424,72,PT06M24.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Clarkson FOR Dunn,Substitution,,0,0,51
+0022300424,267,PT04M01.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-195,180,27,Missed,1,,,0,v,MISS Dunn 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,191
+0022300424,275,PT03M15.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-167,199,26,Missed,1,,,0,v,MISS Dunn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,200
+0022300424,283,PT02M53.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Markkanen FOR Dunn,Substitution,,0,0,206
+0022300424,328,PT11M14.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P2.T1) (R.Hussey),Foul,Shooting,1,0,236
+0022300424,357,PT09M14.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Horton-Tucker FOR Dunn,Substitution,,0,0,259
+0022300424,590,PT03M44.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,230,13,0,Made,1,99,96,195,v,Dunn 3PT Jump Shot (5 PTS) (Markkanen 4 AST),Made Shot,Jump Shot,1,3,421
+0022300424,592,PT03M25.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn BLOCK (1 BLK),,,1,2,423
+0022300424,603,PT02M06.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,-15,167,17,Made,1,102,100,202,v,Dunn 17' Pullup Jump Shot (7 PTS) (Markkanen 5 AST),Made Shot,Pullup Jump shot,1,2,434
+0022300439,10,PT11M04.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,118,236,26,Missed,1,,,0,h,MISS Dunn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,6
+0022300439,13,PT10M46.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn BLOCK (1 BLK),,,1,2,10
+0022300439,41,PT08M27.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-1,41,4,Made,1,7,8,15,h,Dunn 4' Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,1,2,31
+0022300439,43,PT07M57.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-22,22,3,Missed,1,,,0,h,MISS Dunn 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,33
+0022300439,51,PT07M40.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (1 STL),,,1,0,40
+0022300439,55,PT07M18.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P1.T3) (S.Foster),Foul,Shooting,1,0,43
+0022300439,67,PT06M50.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (2 STL),,,1,0,53
+0022300439,105,PT04M15.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Olynyk FOR Dunn,Substitution,,0,0,81
+0022300439,332,PT03M31.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,21,44,5,Missed,1,,,0,h,MISS Dunn 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,218
+0022300439,319,PT01M05.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,244
+0022300439,346,PT11M30.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn L.B.FOUL (P2.T1) (S.Foster),Foul,Loose Ball,1,0,263
+0022300439,365,PT10M07.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,278
+0022300439,367,PT10M02.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P3.T3) (B.Nansel),Foul,Shooting,1,0,280
+0022300439,408,PT07M19.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,83,30,9,Missed,1,,,0,h,MISS Dunn 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,311
+0022300439,422,PT06M45.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: George FOR Dunn,Substitution,,0,0,321
+0022300457,13,PT11M03.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+0022300457,62,PT06M10.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,42
+0022300457,66,PT06M10.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Clarkson FOR Dunn,Substitution,,0,0,45
+0022300457,230,PT07M47.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,20,31,4,Made,1,47,33,80,h,Dunn 4' Running Dunk (2 PTS) (Clarkson 6 AST),Made Shot,Running Dunk Shot,1,2,158
+0022300457,244,PT06M32.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-31,46,6,Made,1,51,40,91,h,Dunn 6' Floating Jump Shot (4 PTS),Made Shot,Floating Jump shot,1,2,168
+0022300457,269,PT05M02.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,184
+0022300457,282,PT04M37.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn P.FOUL (P1.T2) (D.Collins),Foul,Personal,1,0,193
+0022300457,287,PT04M13.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-44,41,6,Missed,1,,,0,h,MISS Dunn 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,196
+0022300457,298,PT03M23.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,107,231,25,Made,1,60,48,108,h,Dunn 25' 3PT Jump Shot (7 PTS) (Sexton 4 AST),Made Shot,Jump Shot,1,3,207
+0022300457,379,PT09M08.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn P.FOUL (P2.T2) (T.Ford),Foul,Personal,1,0,261
+0022300457,419,PT05M51.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,290
+0022300457,420,PT05M48.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Out of Bounds - Bad Pass Turnover Turnover (P2.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,291
+0022300457,421,PT05M48.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Kessler FOR Dunn,Substitution,,0,0,292
+0022300474,21,PT10M26.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-21,6,2,Missed,1,,,0,h,MISS Dunn 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,12
+0022300474,73,PT06M56.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,49
+0022300474,74,PT06M50.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,4,52,5,Missed,1,,,0,h,MISS Dunn 5' Running Layup,Missed Shot,Running Layup Shot,1,2,50
+0022300474,82,PT06M26.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Clarkson FOR Dunn,Substitution,,0,0,57
+0022300474,296,PT03M12.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (1 STL),,,1,0,217
+0022300474,298,PT03M09.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-1,19,2,Made,1,56,58,114,h,Dunn 2' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,1,2,218
+0022300474,313,PT01M08.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-12,85,9,Made,1,60,66,126,h,Dunn 9' Floating Jump Shot (4 PTS),Made Shot,Floating Jump shot,1,2,230
+0022300474,336,PT00M00.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (2 STL),,,1,0,244
+0022300474,338,PT00M00.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,221,542,59,Missed,1,,,0,h,MISS Dunn 59' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,245
+0022300474,367,PT09M27.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (3 STL),,,1,0,264
+0022300474,377,PT08M47.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn BLOCK (1 BLK),,,1,2,272
+0022300474,380,PT08M47.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn T.FOUL (P0.T2) (E.Malloy),Foul,Technical,1,0,274
+0022300474,382,PT08M45.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Jump Ball Dunn vs. Ivey: Tip to Markkanen,Jump Ball,,1,0,277
+0022300474,400,PT07M12.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-17,55,6,Missed,1,,,0,h,MISS Dunn 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,290
+0022300474,411,PT06M40.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: George FOR Dunn,Substitution,,0,0,299
+0022300479,9,PT11M42.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,48,5,5,Missed,1,,,0,v,MISS Dunn 5' Running Layup,Missed Shot,Running Layup Shot,1,2,5
+0022300479,35,PT10M00.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,36,8,4,Missed,1,,,0,v,MISS Dunn 4' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,26
+0022300479,45,PT09M19.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,32
+0022300479,70,PT07M03.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,53
+0022300479,78,PT06M44.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: George FOR Dunn,Substitution,,0,0,59
+0022300479,253,PT06M36.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,196
+0022300479,257,PT06M26.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-49,38,6,Missed,1,,,0,v,MISS Dunn 6' Running Layup,Missed Shot,Running Layup Shot,1,2,200
+0022300479,259,PT06M20.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P1.T3) (A.Nagy),Foul,Shooting,1,0,202
+0022300479,270,PT05M47.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-59,58,8,Missed,1,,,0,v,MISS Dunn 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,210
+0022300479,323,PT00M51.70S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-45,42,6,Made,1,69,35,104,v,Dunn 6' Driving Layup (2 PTS) (Sexton 2 AST),Made Shot,Driving Layup Shot,1,2,251
+0022300479,335,PT00M00.10S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (1 STL),,,1,0,260
+0022300479,356,PT10M27.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P2.T1) (M.Ervin),Foul,Shooting,1,0,274
+0022300479,379,PT09M06.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn BLOCK (1 BLK),,,1,2,298
+0022300479,381,PT09M04.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,299
+0022300479,396,PT08M00.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P3.T2) (B.Adair),Foul,Shooting,1,0,310
+0022300479,414,PT06M39.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (2 STL),,,1,0,324
+0022300479,422,PT06M20.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Clarkson FOR Dunn,Substitution,,0,0,330
+0022300479,602,PT06M44.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,460
+0022300479,607,PT06M35.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,232,37,0,Missed,1,,,0,v,MISS Dunn 3PT Jump Shot,Missed Shot,Jump Shot,1,3,465
+0022300479,636,PT04M42.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P4.T2) (M.Ervin),Foul,Personal,1,0,486
+0022300479,645,PT03M58.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,494
+0022300479,693,PT01M31.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,49,78,9,Missed,1,,,0,v,MISS Dunn 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,529
+0022300479,699,PT00M57.30S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (3 STL),,,1,0,536
+0022300495,59,PT07M19.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,43
+0022300495,64,PT06M53.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P1.T2) (E.Dalen),Foul,Personal,1,0,47
+0022300495,82,PT05M47.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: George FOR Dunn,Substitution,,0,0,60
+0022300495,198,PT10M31.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,146
+0022300495,199,PT10M26.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-179,192,26,Missed,1,,,0,v,MISS Dunn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,147
+0022300495,253,PT07M55.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,187
+0022300495,295,PT05M25.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn BLOCK (1 BLK),,,1,2,216
+0022300495,309,PT04M32.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,226
+0022300495,318,PT03M19.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (1 STL),,,1,0,234
+0022300495,335,PT02M51.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Clarkson FOR Dunn,Substitution,,0,0,243
+0022300495,384,PT11M43.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P2.T1) (G.Petraitis),Foul,Shooting,1,0,275
+0022300495,399,PT10M23.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,286
+0022300495,426,PT07M45.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn BLOCK (2 BLK),,,1,2,307
+0022300495,450,PT06M00.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P3.T2) (G.Petraitis),Foul,Personal,1,0,326
+0022300495,463,PT05M12.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,334
+0022300495,476,PT04M29.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Clarkson FOR Dunn,Substitution,,0,0,345
+0022300510,26,PT09M43.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,16
+0022300510,33,PT09M26.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,21
+0022300510,36,PT09M18.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-96,246,26,Made,1,7,12,19,v,Dunn 26' 3PT Pullup Jump Shot (3 PTS) (Markkanen 1 AST),Made Shot,Pullup Jump shot,1,3,24
+0022300510,51,PT07M15.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Jazz T.Foul (Def. 3 Sec Dunn ) (C.Kirkland),Foul,Defense 3 Second,1,0,37
+0022300510,61,PT06M34.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn BLOCK (1 BLK),,,1,2,47
+0022300510,94,PT05M11.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: George FOR Dunn,Substitution,,0,0,71
+0022300510,288,PT02M44.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P1.T3) (R.Acosta),Foul,Personal,1,0,216
+0022300510,299,PT01M34.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn BLOCK (2 BLK),,,1,2,224
+0022300510,306,PT01M18.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,228
+0022300510,397,PT06M42.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,296
+0022300510,412,PT05M49.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Jazz T.Foul (Def. 3 Sec Dunn ) (C.Kirkland),Foul,Defense 3 Second,1,0,306
+0022300510,415,PT05M49.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Clarkson FOR Dunn,Substitution,,0,0,309
+0022300510,573,PT06M15.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,418
+0022300510,585,PT05M11.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,-5,17,2,Made,1,108,117,225,v,Dunn 2' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,2,426
+0022300510,591,PT04M25.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (1 STL),,,1,0,432
+0022300524,8,PT11M34.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+0022300524,32,PT09M17.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-1,99,10,Made,1,8,4,12,h,Dunn 10' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,23
+0022300524,36,PT08M38.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn BLOCK (1 BLK),,,1,2,28
+0022300524,66,PT05M56.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,121,233,26,Made,1,23,9,32,h,Dunn 26' 3PT Jump Shot (5 PTS) (Sexton 3 AST),Made Shot,Jump Shot,1,3,49
+0022300524,73,PT05M19.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: George FOR Dunn,Substitution,,0,0,53
+0022300524,248,PT03M01.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P1.T3) (D.Richardson),Foul,Shooting,1,0,181
+0022300524,263,PT02M19.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (1 STL),,,1,0,193
+0022300524,270,PT02M00.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (2 STL),,,1,0,199
+0022300524,286,PT01M01.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (3 STL),,,1,0,213
+0022300524,312,PT00M08.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Collins FOR Dunn,Substitution,,0,0,231
+0022300524,346,PT11M33.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,245
+0022300524,352,PT10M35.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Violation:Kicked Ball (N.Sago),Violation,Kicked Ball,0,0,249
+0022300524,355,PT10M23.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,251
+0022300524,362,PT10M03.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn P.FOUL (P2.T1) (N.Sago),Foul,Personal,1,0,256
+0022300524,365,PT09M57.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,258
+0022300524,381,PT08M50.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn P.FOUL (P3.T3) (Z.Zarba),Foul,Personal,1,0,271
+0022300524,444,PT07M52.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (4 STL),,,1,0,284
+0022300524,408,PT07M00.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: George FOR Dunn,Substitution,,0,0,294
+0022300524,620,PT05M11.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,441
+0022300524,683,PT00M38.70S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Out of Bounds - Bad Pass Turnover Turnover (P2.T17),Turnover,Out of Bounds - Bad Pass Turnover,1,0,486
+0022300524,688,PT00M14.90S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P4.T4) (D.Richardson),Foul,Shooting,1,0,490
+0022300540,20,PT10M10.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,15
+0022300540,31,PT09M33.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-13,16,2,Made,1,7,8,15,h,Dunn 2' Driving Dunk (2 PTS) (Markkanen 1 AST),Made Shot,Driving Dunk Shot,1,2,23
+0022300540,34,PT09M23.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,25
+0022300540,43,PT08M29.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,33
+0022300540,44,PT08M23.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,1,0,34
+0022300540,47,PT08M08.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,238,-15,24,Missed,1,,,0,h,MISS Dunn 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,37
+0022300540,49,PT08M00.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn BLOCK (1 BLK),,,1,2,40
+0022300540,57,PT07M29.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P1.T1) (J.Capers),Foul,Shooting,1,0,46
+0022300540,70,PT06M54.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P2.T2) (J.Capers),Foul,Shooting,1,0,54
+0022300540,86,PT06M02.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: George FOR Dunn,Substitution,,0,0,67
+0022300540,381,PT09M08.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-7,49,5,Made,1,77,56,133,h,Dunn 5' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,278
+0022300540,411,PT06M39.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,301
+0022300540,412,PT06M32.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Out of Bounds - Bad Pass Turnover Turnover (P2.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,302
+0022300540,421,PT06M06.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn BLOCK (2 BLK),,,1,2,310
+0022300540,429,PT06M04.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Kessler FOR Dunn,Substitution,,0,0,315
+0022300540,641,PT02M30.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (1 STL),,,1,0,472
+0022300540,643,PT02M26.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,26,15,3,Made,1,132,103,235,h,Dunn 3' Running Dunk (6 PTS),Made Shot,Running Dunk Shot,1,2,473
+0022300540,658,PT01M25.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P3.PN) (E.Scott),Foul,Shooting,1,0,484
+0022300540,663,PT01M07.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,488
+0022300549,7,PT11M46.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,1,84,8,Made,1,2,0,2,h,Dunn 8' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,3
+0022300549,27,PT09M35.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-53,85,10,Made,1,8,9,17,h,Dunn 10' Driving Floating Jump Shot (4 PTS) (Sexton 1 AST),Made Shot,Driving Floating Jump Shot,1,2,19
+0022300549,37,PT08M34.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Jump Ball Dunn vs. Davis: Tip to Markkanen,Jump Ball,,1,0,26
+0022300549,65,PT06M37.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-176,194,26,Missed,1,,,0,h,MISS Dunn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,47
+0022300549,72,PT05M54.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: George FOR Dunn,Substitution,,0,0,53
+0022300549,390,PT08M13.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn P.FOUL (P1.T3) (P.Fraher),Foul,Personal,1,0,283
+0022300549,430,PT05M48.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,234,-4,0,Made,1,85,79,164,h,Dunn 3PT Jump Shot (7 PTS) (Sexton 5 AST),Made Shot,Jump Shot,1,3,310
+0022300549,469,PT03M38.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,335
+0022300549,471,PT03M34.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (1 STL),,,1,0,338
+0022300549,488,PT01M34.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0,350
+0022300549,497,PT01M33.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Agbaji FOR Dunn,Substitution,,0,0,356
+0022300549,654,PT04M08.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P2.T3) (S.Twardoski),Foul,Shooting,1,0,477
+0022300549,656,PT04M08.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Sexton FOR Dunn,Substitution,,0,0,478
+0022300564,21,PT10M00.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,13
+0022300564,29,PT08M49.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,63,6,Made,1,14,6,20,h,Dunn 6' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,1,2,18
+0022300564,48,PT07M04.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,33
+0022300564,50,PT07M00.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (1 STL),,,1,0,36
+0022300564,78,PT05M23.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Kessler FOR Dunn,Substitution,,0,0,57
+0022300564,277,PT05M35.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,202
+0022300564,298,PT03M48.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn P.FOUL (P1.PN) (A.Nagy),Foul,Personal,1,0,218
+0022300564,308,PT03M07.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,4,84,8,Missed,1,,,0,h,MISS Dunn 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,227
+0022300564,336,PT00M20.80S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn BLOCK (1 BLK),,,1,3,248
+0022300564,359,PT11M20.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P2.T1) (A.Nagy),Foul,Shooting,1,0,264
+0022300564,375,PT10M02.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,1,43,4,Made,1,71,53,124,h,Dunn 4' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,274
+0022300564,377,PT09M52.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (2 STL),,,1,0,276
+0022300564,398,PT08M00.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn P.FOUL (P3.T2) (L.Wood),Foul,Personal,1,0,292
+0022300564,417,PT06M32.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Clarkson FOR Dunn,Substitution,,0,0,304
+0022300576,74,PT06M56.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,53
+0022300576,96,PT04M48.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (1 STL),,,1,0,67
+0022300576,109,PT04M16.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn P.FOUL (P1.T2) (K.Lane),Foul,Personal,1,0,76
+0022300576,116,PT03M26.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,80
+0022300576,119,PT03M16.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,83
+0022300576,152,PT00M55.40S,1,1610612762,UTA,1627739,Dunn,K. Dunn,237,-7,24,Missed,1,,,0,h,MISS Dunn 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,109
+0022300576,156,PT00M29.70S,1,1610612762,UTA,1627739,Dunn,K. Dunn,97,239,26,Made,1,39,34,73,h,Dunn 26' 3PT Jump Shot (3 PTS) (Markkanen 2 AST),Made Shot,Jump Shot,1,3,112
+0022300576,191,PT10M31.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,133
+0022300576,216,PT08M31.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,154
+0022300576,219,PT08M24.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,45,50,95,h,Dunn Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,156
+0022300576,220,PT08M24.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,46,50,96,h,Dunn Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,157
+0022300576,234,PT07M11.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Sexton FOR Dunn,Substitution,,0,0,169
+0022300576,406,PT06M53.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,290
+0022300576,428,PT05M30.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,306
+0022300576,461,PT03M40.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Lost Ball Turnover (P3.T10),Turnover,Lost Ball,1,0,332
+0022300576,463,PT03M37.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (2 STL),,,1,0,335
+0022300576,472,PT03M25.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P2.T4) (K.Lane),Foul,Shooting,1,0,341
+0022300576,487,PT01M47.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-237,25,24,Made,1,99,112,211,h,Dunn 24' 3PT Jump Shot (8 PTS) (Clarkson 6 AST),Made Shot,Jump Shot,1,3,350
+0022300581,8,PT11M45.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+0022300581,27,PT09M51.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P1.T2) (J.Sterling),Foul,Shooting,1,0,19
+0022300581,48,PT08M26.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,36
+0022300581,66,PT07M20.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn P.FOUL (P2.T3) (J.Sterling),Foul,Personal,1,0,50
+0022300581,75,PT06M06.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P3.T4) (J.Sterling),Foul,Shooting,1,0,55
+0022300581,80,PT06M06.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: George FOR Dunn,Substitution,,0,0,59
+0022300581,363,PT11M00.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P4.T2) (J.Sterling),Foul,Shooting,1,0,253
+0022300581,402,PT07M16.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,7,37,4,Missed,1,,,0,h,MISS Dunn 4' Layup,Missed Shot,Layup Shot,1,2,282
+0022300581,419,PT06M31.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,78,8,Missed,1,,,0,h,MISS Dunn 8' Hook Shot,Missed Shot,Hook Shot,1,2,295
+0022300581,443,PT04M51.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: George FOR Dunn,Substitution,,0,0,312
+0022300598,62,PT07M10.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,46
+0022300598,85,PT05M26.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (1 STL),,,1,0,66
+0022300598,87,PT05M22.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,5,17,2,Made,1,16,17,33,v,Dunn 2' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,1,2,67
+0022300598,93,PT04M34.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,72
+0022300598,94,PT04M27.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,170,193,26,Missed,1,,,0,v,MISS Dunn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,73
+0022300598,101,PT04M21.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: George FOR Dunn,Substitution,,0,0,79
+0022300598,367,PT09M27.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,33,21,4,Missed,1,,,0,v,MISS Dunn 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,274
+0022300598,409,PT06M24.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P1.T2) (J.Tiven),Foul,Personal,1,0,307
+0022300598,412,PT06M00.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-33,50,6,Made,1,78,71,149,v,Dunn 6' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,1,2,309
+0022300598,419,PT05M37.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,314
+0022300598,428,PT05M13.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P2.T3) (J.Tiven),Foul,Personal,1,0,322
+0022300598,447,PT04M44.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,,"Double Technical - Dunn, Smith Jr. (J.Tiven)",Foul,Double Technical,1,0,334
+0022300598,453,PT04M15.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,339
+0022300598,454,PT04M08.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,200,188,27,Made,1,78,77,155,v,Dunn 27' 3PT Jump Shot (7 PTS) (Clarkson 2 AST),Made Shot,Jump Shot,1,3,340
+0022300598,472,PT02M44.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,353
+0022300598,492,PT01M37.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,368
+0022300598,493,PT01M36.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-11,26,3,Made,1,86,85,171,v,Dunn 3' Putback Layup (9 PTS),Made Shot,Putback Layup Shot,1,2,369
+0022300598,496,PT01M25.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,371
+0022300598,516,PT00M08.60S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Markkanen FOR Dunn,Substitution,,0,0,388
+0022300598,544,PT10M32.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,404
+0022300598,547,PT10M25.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,92,92,184,v,Dunn Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,406
+0022300598,548,PT10M25.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,MISS Dunn Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,407
+0022300598,578,PT08M57.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Kessler FOR Dunn,Substitution,,0,0,434
+0022300598,719,PT04M48.00S,5,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Fontecchio FOR Dunn,Substitution,,0,0,530
+0022300616,9,PT11M33.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,223,-3,0,Missed,1,,,0,v,MISS Dunn 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,5
+0022300616,40,PT08M34.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P1.T1) (J.Schroeder),Foul,Shooting,1,0,31
+0022300616,54,PT07M30.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P2.T2) (N.Buchert),Foul,Shooting,1,0,43
+0022300616,63,PT06M36.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-18,33,4,Missed,1,,,0,v,MISS Dunn 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,48
+0022300616,74,PT06M22.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Clarkson FOR Dunn,Substitution,,0,0,58
+0022300616,192,PT09M32.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,229,41,0,Missed,1,,,0,v,MISS Dunn 3PT Jump Shot,Missed Shot,Jump Shot,1,3,137
+0022300616,208,PT08M02.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,87,241,26,Made,1,50,39,89,v,Dunn 26' 3PT Jump Shot (3 PTS) (Markkanen 1 AST),Made Shot,Jump Shot,1,3,149
+0022300616,232,PT06M23.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Collins FOR Dunn,Substitution,,0,0,166
+0022300616,367,PT09M51.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,257
+0022300616,375,PT08M58.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P3.T1) (N.Buchert),Foul,Personal,1,0,265
+0022300616,383,PT08M19.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,271
+0022300616,391,PT07M47.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-237,8,24,Made,1,89,79,168,v,Dunn 24' 3PT Jump Shot (6 PTS) (Fontecchio 2 AST),Made Shot,Jump Shot,1,3,277
+0022300616,398,PT07M22.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,282
+0022300616,399,PT07M22.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,Made,1,91,81,172,v,Dunn Putback Dunk (8 PTS),Made Shot,Putback Dunk Shot,1,2,283
+0022300616,410,PT06M26.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,293
+0022300616,420,PT05M54.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,34,8,3,Made,1,95,85,180,v,Dunn 3' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,300
+0022300616,451,PT03M48.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: George FOR Dunn,Substitution,,0,0,324
+0022300628,88,PT05M26.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-32,25,4,Made,1,18,20,38,v,Dunn 4' Driving Layup (2 PTS) (Sexton 3 AST),Made Shot,Driving Layup Shot,0,2,64
+0022300628,89,PT05M07.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (1 STL),,,1,0,66
+0022300628,91,PT05M03.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,12,-1,1,Made,1,18,22,40,v,Dunn 1' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,1,2,67
+0022300628,95,PT04M53.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Clarkson FOR Dunn,Substitution,,0,0,70
+0022300628,297,PT01M57.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,216
+0022300628,310,PT01M02.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P1.PN) (S.Mitchell),Foul,Personal,1,0,226
+0022300628,363,PT08M35.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,50,45,7,Missed,1,,,0,v,MISS Dunn 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,262
+0022300628,372,PT07M39.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-60,281,29,Missed,1,,,0,v,MISS Dunn 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,270
+0022300628,391,PT06M14.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Olynyk FOR Dunn,Substitution,,0,0,286
+0022300647,21,PT10M13.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-2,23,2,Missed,1,,,0,v,MISS Dunn 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,13
+0022300647,27,PT09M36.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P1.T1) (D.Taylor),Foul,Personal,1,0,19
+0022300647,55,PT06M28.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,41
+0022300647,89,PT04M01.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,64
+0022300647,96,PT03M53.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Clarkson FOR Dunn,Substitution,,0,0,69
+0022300647,335,PT11M14.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,233
+0022300647,351,PT09M46.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-13,15,2,Made,1,50,86,136,v,Dunn 2' Driving Layup (2 PTS) (Markkanen 3 AST),Made Shot,Driving Layup Shot,1,2,247
+0022300647,357,PT09M12.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (1 STL),,,1,0,252
+0022300647,359,PT09M08.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,253
+0022300647,391,PT07M05.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,15,260,26,Made,1,58,90,148,v,Dunn 26' 3PT Jump Shot (5 PTS) (Sexton 9 AST),Made Shot,Jump Shot,1,3,277
+0022300647,399,PT06M03.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn BLOCK (1 BLK),,,1,2,283
+0022300647,414,PT05M08.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,294
+0022300647,426,PT04M06.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-7,36,4,Made,1,67,98,165,v,Dunn 4' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,1,2,304
+0022300647,437,PT03M26.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Clarkson FOR Dunn,Substitution,,0,0,313
+0022300660,10,PT11M12.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,5
+0022300660,11,PT11M04.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,12,79,8,Missed,1,,,0,v,MISS Dunn 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,6
+0022300660,13,PT10M54.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (1 STL),,,1,0,9
+0022300660,30,PT09M54.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-235,-19,24,Made,1,3,7,10,v,Dunn 24' 3PT Jump Shot (3 PTS) (Markkanen 1 AST),Made Shot,Jump Shot,1,3,22
+0022300660,48,PT08M26.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (2 STL),,,1,0,39
+0022300660,54,PT08M05.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-20,18,3,Missed,1,,,0,v,MISS Dunn 3' Running Layup,Missed Shot,Running Layup Shot,1,2,44
+0022300660,79,PT06M25.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,62
+0022300660,89,PT05M28.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,69
+0022300660,98,PT05M06.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: George FOR Dunn,Substitution,,0,0,77
+0022300660,379,PT09M43.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,100,232,25,Made,1,78,64,142,v,Dunn 25' 3PT Jump Shot (6 PTS) (Sexton 5 AST),Made Shot,Jump Shot,1,3,287
+0022300660,406,PT07M50.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,309
+0022300660,438,PT05M23.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P1.T4) (B.Forte),Foul,Shooting,1,0,333
+0022300660,446,PT04M42.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,121,220,25,Made,1,89,77,166,v,Dunn 25' 3PT Jump Shot (9 PTS) (Sexton 7 AST),Made Shot,Jump Shot,1,3,339
+0022300660,452,PT04M11.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Out of Bounds - Bad Pass Turnover Turnover (P3.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,344
+0022300660,472,PT03M06.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Lost Ball Turnover (P4.T11),Turnover,Lost Ball,1,0,359
+0022300660,486,PT02M21.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Agbaji FOR Dunn,Substitution,,0,0,371
+0022300671,18,PT10M01.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,11
+0022300671,23,PT09M52.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,16
+0022300671,24,PT09M49.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,17,21,3,Missed,1,,,0,v,MISS Dunn 3' Running Layup,Missed Shot,Running Layup Shot,1,2,17
+0022300671,29,PT09M26.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (1 STL),,,1,0,23
+0022300671,31,PT09M22.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,1,1,0,Made,1,4,10,14,v,Dunn Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,24
+0022300671,55,PT07M21.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Bad Pass Turnover (P2.T2),Turnover,Bad Pass,1,0,44
+0022300671,93,PT04M46.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Kessler FOR Dunn,Substitution,,0,0,70
+0022300671,310,PT11M44.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,32,41,5,Made,1,57,51,108,v,Dunn 5' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,0,2,235
+0022300671,325,PT10M11.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,23,75,8,Made,1,59,57,116,v,Dunn 8' Turnaround Jump Shot (6 PTS),Made Shot,Turnaround Jump Shot,1,2,246
+0022300671,330,PT09M36.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,251
+0022300671,354,PT08M03.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0,264
+0022300671,362,PT07M30.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P1.T2) (B.Barnaky),Foul,Shooting,1,0,270
+0022300671,391,PT05M19.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P2.T3) (B.Schwab),Foul,Personal,0,0,290
+0022300671,403,PT04M34.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,297
+0022300671,404,PT04M34.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,Missed,1,,,0,v,MISS Dunn Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,298
+0022300671,415,PT03M57.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: George FOR Dunn,Substitution,,0,0,308
+0022300686,34,PT09M33.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,25
+0022300686,43,PT08M58.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-134,249,28,Made,1,10,10,20,h,Dunn 28' 3PT Jump Shot (3 PTS) (Fontecchio 1 AST),Made Shot,Jump Shot,1,3,32
+0022300686,53,PT07M37.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,37
+0022300686,60,PT06M45.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-22,12,3,Missed,1,,,0,h,MISS Dunn 3' Layup,Missed Shot,Layup Shot,1,2,42
+0022300686,82,PT05M11.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: George FOR Dunn,Substitution,,0,0,57
+0022300686,356,PT08M15.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,253
+0022300686,360,PT07M47.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn BLOCK (1 BLK),,,1,2,257
+0022300686,363,PT07M43.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn BLOCK (2 BLK),,,1,2,260
+0022300686,422,PT03M50.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,88,53,10,Missed,1,,,0,h,MISS Dunn 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,304
+0022300686,429,PT03M17.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,311
+0022300686,430,PT03M09.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,53,61,8,Missed,1,,,0,h,MISS Dunn 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,312
+0022300686,437,PT02M49.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Olynyk FOR Dunn,Substitution,,0,0,317
+0022300686,654,PT00M04.40S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Collins FOR Dunn,Substitution,,0,0,472
+0022300711,17,PT09M50.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,59,68,9,Missed,1,,,0,h,MISS Dunn 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,9
+0022300711,40,PT07M53.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn P.FOUL (P1.T2) (M.Kogut),Foul,Personal,1,0,25
+0022300711,45,PT07M22.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-161,200,26,Missed,1,,,0,h,MISS Dunn 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,29
+0022300711,66,PT06M04.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-151,200,25,Missed,1,,,0,h,MISS Dunn 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,48
+0022300711,77,PT05M19.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: George FOR Dunn,Substitution,,0,0,55
+0022300711,232,PT07M14.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,166
+0022300711,274,PT03M49.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn P.FOUL (P2.PN) (M.Dagher),Foul,Personal,1,0,199
+0022300711,293,PT02M10.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Step Out of Bounds Turnover (P1.T10),Turnover,Step Out of Bounds Turnover,1,0,215
+0022300711,313,PT00M26.70S,2,1610612762,UTA,1627739,Dunn,K. Dunn,27,9,3,Made,1,53,63,116,h,Dunn 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,228
+0022300711,337,PT10M12.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,247
+0022300711,346,PT09M09.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,255
+0022300711,349,PT08M56.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P3.T2) (M.Kogut),Foul,Shooting,1,0,258
+0022300711,369,PT08M03.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-147,217,26,Missed,1,,,0,h,MISS Dunn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,270
+0022300711,395,PT06M26.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn P.FOUL (P4.T4) (M.Kogut),Foul,Personal,1,0,289
+0022300711,424,PT04M30.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Clarkson FOR Dunn,Substitution,,0,0,306
+0022300724,21,PT10M23.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,12
+0022300724,24,PT09M59.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn BLOCK (1 BLK),,,1,2,16
+0022300724,32,PT09M23.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-21,17,3,Made,1,7,5,12,h,Dunn 3' Reverse Layup (2 PTS),Made Shot,Reverse Layup Shot,1,2,22
+0022300724,43,PT08M02.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,38,26,5,Missed,1,,,0,h,MISS Dunn 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,31
+0022300724,67,PT06M19.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,130,241,27,Missed,1,,,0,h,MISS Dunn 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,51
+0022300724,84,PT05M13.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Kessler FOR Dunn,Substitution,,0,0,64
+0022300724,336,PT11M14.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-225,19,0,Made,1,67,70,137,h,Dunn 3PT Jump Shot (5 PTS) (Sexton 2 AST),Made Shot,Jump Shot,1,3,244
+0022300724,344,PT10M08.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-9,141,14,Missed,1,,,0,h,MISS Dunn 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,249
+0022300724,348,PT09M35.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,157,199,25,Missed,1,,,0,h,MISS Dunn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,253
+0022300724,367,PT07M47.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (1 STL),,,1,0,268
+0022300724,400,PT04M50.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,297
+0022300724,425,PT03M29.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (2 STL),,,1,0,313
+0022300724,429,PT02M58.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn BLOCK (2 BLK),,,1,2,317
+0022300724,454,PT01M18.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (3 STL),,,1,0,333
+0022300724,471,PT00M10.90S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-228,17,0,Made,1,96,92,188,h,Dunn 3PT Jump Shot (8 PTS) (Clarkson 2 AST),Made Shot,Jump Shot,1,3,347
+0022300724,561,PT07M07.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,399
+0022300724,591,PT05M41.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Traveling Turnover (P1.T14),Turnover,Traveling,1,0,423
+0022300724,596,PT05M16.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,-145,192,24,Missed,1,,,0,h,MISS Dunn 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,427
+0022300724,629,PT02M01.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn BLOCK (3 BLK),,,1,2,455
+0022300724,636,PT01M56.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (4 STL),,,1,0,459
+0022300724,649,PT00M58.10S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P1.PN) (E.Malloy),Foul,Shooting,1,0,466
+0022300739,10,PT11M16.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,5
+0022300739,15,PT10M44.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,8
+0022300739,30,PT09M16.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-39,89,10,Missed,1,,,0,v,MISS Dunn 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,19
+0022300739,50,PT07M34.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (1 STL),,,1,0,38
+0022300739,76,PT06M02.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-159,218,27,Made,1,23,15,38,v,Dunn 27' 3PT Jump Shot (3 PTS) (Clarkson 1 AST),Made Shot,Jump Shot,1,3,56
+0022300739,100,PT04M30.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P1.T2) (S.Twardoski),Foul,Personal,1,0,69
+0022300739,114,PT03M42.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P2.T3) (M.Myers),Foul,Personal,1,0,78
+0022300739,116,PT03M42.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Hendricks FOR Dunn,Substitution,,0,0,79
+0022300739,256,PT05M28.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,177
+0022300739,264,PT05M00.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (2 STL),,,1,0,186
+0022300739,268,PT05M00.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,MISS Dunn Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,188
+0022300739,276,PT05M00.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,60,46,106,v,Dunn Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,193
+0022300739,309,PT01M57.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-20,52,6,Missed,1,,,0,v,MISS Dunn 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,220
+0022300739,328,PT00M32.80S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,232
+0022300739,336,PT00M00.70S,2,1610612762,UTA,1627739,Dunn,K. Dunn,229,88,25,Missed,1,,,0,v,MISS Dunn 25' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,0,3,238
+0022300739,346,PT11M28.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-26,63,7,Missed,1,,,0,v,MISS Dunn 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,243
+0022300739,365,PT10M28.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,256
+0022300739,372,PT09M27.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-202,141,25,Made,1,81,75,156,v,Dunn 25' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,3,262
+0022300739,417,PT05M00.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (3 STL),,,1,0,293
+0022300739,427,PT04M05.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-6,50,5,Made,1,98,85,183,v,Dunn 5' Turnaround Jump Shot (9 PTS),Made Shot,Turnaround Jump Shot,1,2,301
+0022300739,441,PT03M23.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Hendricks FOR Dunn,Substitution,,0,0,312
+0022300769,136,PT02M21.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,94
+0022300769,138,PT01M57.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (1 STL),,,1,0,97
+0022300769,179,PT11M04.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,129
+0022300769,181,PT10M51.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,131
+0022300769,182,PT10M37.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,94,227,25,Missed,1,,,0,h,MISS Dunn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,132
+0022300769,184,PT10M28.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-26,48,5,Missed,1,,,0,h,MISS Dunn 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,134
+0022300769,217,PT07M57.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn P.FOUL (P1.T3) (D.Guthrie),Foul,Personal,1,0,159
+0022300769,237,PT06M23.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: George FOR Dunn,Substitution,,0,0,172
+0022300769,406,PT05M16.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,132,226,26,Missed,1,,,0,h,MISS Dunn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,300
+0022300769,423,PT04M16.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (2 STL),,,1,0,315
+0022300769,427,PT03M53.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (3 STL),,,1,0,318
+0022300769,484,PT00M33.20S,3,1610612762,UTA,1627739,Dunn,K. Dunn,31,74,8,Made,1,80,91,171,h,Dunn 8' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,359
+0022300769,502,PT11M29.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P2.T1) (D.Guthrie),Foul,Shooting,1,0,371
+0022300769,509,PT10M51.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,-59,84,10,Missed,1,,,0,h,MISS Dunn 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,376
+0022300769,529,PT09M41.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,230,105,25,Missed,1,,,0,h,MISS Dunn 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,392
+0022300769,539,PT09M06.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: George FOR Dunn,Substitution,,0,0,399
+0022300788,128,PT03M04.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-16,86,9,Made,1,20,28,48,h,Dunn 9' Floating Jump Shot (2 PTS) (George 3 AST),Made Shot,Floating Jump shot,1,2,95
+0022300788,138,PT02M22.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-1,29,3,Made,1,24,30,54,h,Dunn 3' Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,1,2,104
+0022300788,147,PT02M22.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,25,30,55,h,Dunn Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,109
+0022300788,150,PT01M47.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,114,232,26,Made,1,28,32,60,h,Dunn 26' 3PT Jump Shot (8 PTS) (Clarkson 1 AST),Made Shot,Jump Shot,1,3,111
+0022300788,159,PT00M38.20S,1,1610612762,UTA,1627739,Dunn,K. Dunn,225,18,0,Missed,1,,,0,h,MISS Dunn 3PT Jump Shot,Missed Shot,Jump Shot,1,3,119
+0022300788,161,PT00M32.10S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (1 STL),,,1,0,122
+0022300788,167,PT00M16.10S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,126
+0022300788,183,PT11M18.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,11,21,2,Made,1,30,37,67,h,Dunn 2' Driving Dunk (10 PTS),Made Shot,Driving Dunk Shot,1,2,136
+0022300788,200,PT09M24.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P1.T2) (N.Sago),Foul,Shooting,1,0,147
+0022300788,209,PT09M10.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn P.FOUL (P2.T3) (C.Washington),Foul,Personal,1,0,154
+0022300788,237,PT06M48.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: George FOR Dunn,Substitution,,0,0,172
+0022300788,430,PT05M00.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P3.PN) (C.Washington),Foul,Shooting,1,0,313
+0022300788,457,PT02M09.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,43,88,10,Made,1,92,96,188,h,Dunn 10' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,1,2,331
+0022300801,72,PT06M23.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,31,10,3,Made,1,16,10,26,h,Dunn 3' Reverse Layup (2 PTS) (Sexton 3 AST),Made Shot,Reverse Layup Shot,1,2,53
+0022300801,99,PT04M39.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,74
+0022300801,104,PT04M06.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-224,16,0,Missed,1,,,0,h,MISS Dunn 3PT Jump Shot,Missed Shot,Jump Shot,1,3,78
+0022300801,147,PT01M29.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,JAZZ T.Foul (Def. 3 Sec Dunn ) (M.Lindsay),Foul,Defense 3 Second,1,0,110
+0022300801,165,PT00M01.10S,1,1610612762,UTA,1627739,Dunn,K. Dunn,29,25,4,Made,1,26,34,60,h,Dunn 4' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,123
+0022300801,172,PT11M44.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,110,11,Made,1,28,34,62,h,Dunn 11' Pullup Jump Shot (6 PTS) (Clarkson 2 AST),Made Shot,Pullup Jump shot,1,2,126
+0022300801,178,PT11M01.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P1.T1) (C.Washington),Foul,Shooting,1,0,130
+0022300801,237,PT06M49.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn P.FOUL (P2.T3) (M.Lindsay),Foul,Personal,1,0,174
+0022300801,239,PT06M49.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Sexton FOR Dunn,Substitution,,0,0,175
+0022300801,439,PT04M26.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P3.T3) (R.Hussey),Foul,Shooting,1,0,320
+0022300801,496,PT01M22.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-26,12,3,Made,1,86,79,165,h,Dunn 3' Running Layup (8 PTS) (Clarkson 4 AST),Made Shot,Running Layup Shot,1,2,360
+0022300801,531,PT10M39.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,383
+0022300801,568,PT08M01.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,-36,258,26,Missed,1,,,0,h,MISS Dunn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,411
+0022300801,588,PT06M37.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,86,242,26,Missed,1,,,0,h,MISS Dunn 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,428
+0022300801,599,PT05M43.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,438
+0022300801,601,PT05M32.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: George FOR Dunn,Substitution,,0,0,440
+0022300825,98,PT05M21.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-32,4,3,Made,1,14,8,22,h,Dunn 3' Running Layup (2 PTS) (George 2 AST),Made Shot,Running Layup Shot,1,2,77
+0022300825,106,PT04M14.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,234,22,24,Made,1,17,11,28,h,Dunn 24' 3PT Jump Shot (5 PTS) (George 3 AST),Made Shot,Jump Shot,1,3,83
+0022300825,151,PT01M33.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (1 STL),,,1,0,116
+0022300825,153,PT01M29.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,25,3,Made,1,28,15,43,h,Dunn 3' Running Dunk (7 PTS),Made Shot,Running Dunk Shot,1,2,117
+0022300825,161,PT00M45.50S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (2 STL),,,1,0,124
+0022300825,179,PT11M17.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (3 STL),,,1,0,136
+0022300825,190,PT10M31.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,143
+0022300825,191,PT10M21.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,144
+0022300825,219,PT08M09.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Hendricks FOR Dunn,Substitution,,0,0,165
+0022300825,463,PT05M10.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,81,61,142,h,Dunn Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,337
+0022300825,466,PT05M10.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,MISS Dunn Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,339
+0022300825,477,PT04M17.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,348
+0022300825,522,PT00M59.30S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,382
+0022300825,524,PT00M56.50S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (4 STL),,,1,0,385
+0022300825,559,PT10M42.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P1.T1) (M.Ervin),Foul,Shooting,1,0,406
+0022300825,575,PT08M49.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Bad Pass Turnover (P3.T13),Turnover,Bad Pass,1,0,418
+0022300825,581,PT08M44.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Hendricks FOR Dunn,Substitution,,0,0,423
+0022300835,104,PT03M41.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-12,74,7,Missed,1,,,0,v,MISS Dunn 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,81
+0022300835,108,PT03M12.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-4,16,2,Missed,1,,,0,v,MISS Dunn 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,85
+0022300835,151,PT00M24.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,118
+0022300835,153,PT00M05.40S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-234,10,0,Missed,1,,,0,v,MISS Dunn 3PT Jump Shot,Missed Shot,Jump Shot,1,3,119
+0022300835,179,PT10M01.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,137
+0022300835,194,PT09M41.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Sexton FOR Dunn,Substitution,,0,0,147
+0022300835,466,PT03M30.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,10,26,3,Made,1,77,67,144,v,Dunn 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,356
+0022300835,476,PT02M40.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P1.T3) (P.Fraher),Foul,Shooting,1,0,363
+0022300835,488,PT01M55.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,53,134,14,Missed,1,,,0,v,MISS Dunn 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,370
+0022300835,491,PT01M38.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,373
+0022300835,492,PT01M34.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Bad Pass Turnover (P2.T15),Turnover,Bad Pass,1,0,374
+0022300850,168,PT05M04.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (1 STL),,,1,0,61
+0022300850,110,PT03M25.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,79
+0022300850,111,PT03M16.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-32,13,3,Made,1,21,21,42,v,Dunn 3' Driving Layup (2 PTS) (George 4 AST),Made Shot,Driving Layup Shot,1,2,80
+0022300850,131,PT02M08.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P1.PN) (K.Scott),Foul,Shooting,1,0,94
+0022300850,143,PT01M49.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,136,218,26,Missed,1,,,0,v,MISS Dunn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,102
+0022300850,181,PT10M15.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,132
+0022300850,185,PT09M52.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-118,235,26,Missed,1,,,0,v,MISS Dunn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,135
+0022300850,196,PT08M56.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-18,88,9,Missed,1,,,0,v,MISS Dunn 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,145
+0022300850,233,PT06M28.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Sexton FOR Dunn,Substitution,,0,0,171
+0022300850,431,PT02M28.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P2.PN) (J.Conley),Foul,Personal,1,0,316
+0022300850,488,PT10M42.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,-202,155,25,Missed,1,,,0,v,MISS Dunn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,355
+0022300850,499,PT09M40.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P3.T2) (M.Kogut),Foul,Shooting,1,0,362
+0022300850,516,PT07M46.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,-64,262,27,Made,1,93,92,185,v,Dunn 27' 3PT Jump Shot (5 PTS) (Clarkson 5 AST),Made Shot,Jump Shot,1,3,375
+0022300850,530,PT06M42.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,21,12,2,Made,1,95,94,189,v,Dunn 2' Running Alley Oop Layup Shot (7 PTS) (Clarkson 6 AST),Made Shot,Running Alley Oop Layup Shot,1,2,387
+0022300850,533,PT06M42.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: George FOR Dunn,Substitution,,0,0,389
+0022300867,86,PT04M31.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (1 STL),,,1,0,62
+0022300867,120,PT02M36.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P1.T1) (C.Blair),Foul,Personal,1,0,86
+0022300867,139,PT01M50.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P2.PN) (M.Ervin),Foul,Personal,1,0,98
+0022300867,237,PT01M32.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,104
+0022300867,147,PT01M08.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P3.PN) (C.Blair),Foul,Shooting,1,0,106
+0022300867,150,PT01M08.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: George FOR Dunn,Substitution,,0,0,108
+0022300867,423,PT04M16.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P4.PN) (M.Ervin),Foul,Shooting,1,0,301
+0022300867,461,PT02M03.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-237,6,24,Missed,1,,,0,v,MISS Dunn 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,324
+0022300867,485,PT00M37.10S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Sensabaugh FOR Dunn,Substitution,,0,0,339
+0022300882,98,PT04M36.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,69
+0022300882,106,PT03M56.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,25,31,4,Missed,1,,,0,h,MISS Dunn 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,74
+0022300882,120,PT03M28.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,224,22,0,Missed,1,,,0,h,MISS Dunn 3PT Jump Shot,Missed Shot,Jump Shot,1,3,83
+0022300882,135,PT02M58.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P1.PN) (K.Cutler),Foul,Shooting,1,0,94
+0022300882,140,PT02M37.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-25,22,3,Made,1,26,33,59,h,Dunn 3' Driving Layup (2 PTS) (Clarkson 1 AST),Made Shot,Driving Layup Shot,1,2,97
+0022300882,146,PT01M59.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (1 STL),,,1,0,102
+0022300882,157,PT00M57.20S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (2 STL),,,1,0,112
+0022300882,347,PT11M48.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,76,59,10,Made,1,76,75,151,h,Dunn 10' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,248
+0022300882,349,PT11M25.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,250
+0022300882,356,PT10M50.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,255
+0022300882,371,PT09M58.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,0,269
+0022300882,445,PT03M55.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,326
+0022300882,464,PT02M44.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,342
+0022300882,468,PT02M38.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Samanic FOR Dunn,Substitution,,0,0,345
+0022300882,544,PT08M01.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Out of Bounds - Bad Pass Turnover Turnover (P3.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,404
+0022300882,545,PT07M44.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P2.T2) (A.Moyer-Gleich),Foul,Shooting,1,0,405
+0022300882,613,PT02M22.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,237,38,24,Missed,1,,,0,h,MISS Dunn 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,456
+0022300882,621,PT01M38.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,463
+0022300882,639,PT00M39.30S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn BLOCK (1 BLK),,,1,2,479
+0022300898,36,PT09M13.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,32,1,3,Missed,1,,,0,h,MISS Dunn 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,25
+0022300898,60,PT07M09.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,43
+0022300898,78,PT05M16.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Clarkson FOR Dunn,Substitution,,0,0,57
+0022300898,144,PT00M16.30S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,87,9,Made,1,29,30,59,h,Dunn 9' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,101
+0022300898,170,PT10M02.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,88,75,12,Made,1,33,41,74,h,Dunn 12' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,122
+0022300898,195,PT07M35.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,144
+0022300898,202,PT06M51.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (1 STL),,,1,0,149
+0022300898,217,PT06M33.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Collins FOR Dunn,Substitution,,0,0,159
+0022300898,343,PT08M34.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-16,32,4,Made,1,62,68,130,h,Dunn 4' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,254
+0022300898,357,PT06M35.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Horton-Tucker FOR Dunn,Substitution,,0,0,265
+0022300898,469,PT10M20.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,-234,38,24,Made,1,90,95,185,h,Dunn 24' 3PT Running Jump Shot (9 PTS) (Clarkson 4 AST),Made Shot,Running Jump Shot,1,3,348
+0022300898,484,PT09M18.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,6,67,7,Made,1,92,97,189,h,Dunn 7' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,1,2,359
+0022300898,504,PT06M59.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,372
+0022300898,521,PT06M17.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Sexton FOR Dunn,Substitution,,0,0,385
+0022300898,569,PT01M40.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P1.T3) (E.Scott),Foul,Shooting,1,0,419
+0022300922,78,PT05M07.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P1.T1) (M.Dagher),Foul,Shooting,1,0,57
+0022300922,139,PT01M51.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,98
+0022300922,196,PT09M39.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P2.T1) (M.Lindsay),Foul,Personal,1,0,141
+0022300922,217,PT06M53.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P3.T2) (N.Buchert),Foul,Shooting,1,0,157
+0022300922,292,PT06M53.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: George FOR Dunn,Substitution,,0,0,161
+0022300922,510,PT10M11.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P4.T2) (N.Buchert),Foul,Personal,1,0,359
+0022300922,565,PT06M03.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: George FOR Dunn,Substitution,,0,0,401
+0022300943,97,PT04M51.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,66
+0022300943,113,PT03M33.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,91,238,25,Missed,1,,,0,h,MISS Dunn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,77
+0022300943,139,PT01M01.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-2,85,9,Missed,1,,,0,h,MISS Dunn 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,97
+0022300943,166,PT11M09.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,6,76,8,Missed,1,,,0,h,MISS Dunn 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,113
+0022300943,197,PT08M20.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Sensabaugh FOR Dunn,Substitution,,0,0,137
+0022300943,294,PT00M00.70S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (1 STL),,,1,0,211
+0022300943,393,PT05M26.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,233,59,24,Made,1,77,88,165,h,Dunn 24' 3PT Jump Shot (3 PTS) (Sensabaugh 3 AST),Made Shot,Jump Shot,1,3,279
+0022300943,397,PT04M56.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-23,253,25,Made,1,80,88,168,h,Dunn 25' 3PT Jump Shot (6 PTS) (Samanic 1 AST),Made Shot,Jump Shot,1,3,282
+0022300943,420,PT03M17.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,299
+0022300943,436,PT01M31.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P1.T4) (J.DeRosa),Foul,Shooting,1,0,313
+0022300943,557,PT03M53.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn BLOCK (1 BLK),,,1,2,398
+0022300943,571,PT02M27.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P2.PN) (J.DeRosa),Foul,Shooting,1,0,408
+0022300943,585,PT01M08.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,420
+0022300943,611,PT00M35.10S,4,1610612762,UTA,1627739,Dunn,K. Dunn,39,75,8,Missed,1,,,0,h,MISS Dunn 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,438
+0022300974,19,PT10M12.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,229,35,0,Missed,1,,,0,h,MISS Dunn 3PT Jump Shot,Missed Shot,Jump Shot,1,3,14
+0022300974,25,PT09M43.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,20
+0022300974,26,PT09M43.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,Missed,1,,,0,h,MISS Dunn Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,21
+0022300974,45,PT08M00.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,36,114,12,Made,1,6,4,10,h,Dunn 12' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,2,39
+0022300974,49,PT07M26.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn P.FOUL (P1.T1) (E.Malloy),Foul,Personal,1,0,43
+0022300974,89,PT04M45.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Sexton FOR Dunn,Substitution,,0,0,77
+0022300974,253,PT04M54.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,12,77,8,Missed,1,,,0,h,MISS Dunn 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,190
+0022300974,273,PT03M30.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,10,63,6,Missed,1,,,0,h,MISS Dunn 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,205
+0022300974,286,PT02M34.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,215
+0022300974,299,PT01M47.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (1 STL),,,1,0,227
+0022300974,325,PT00M31.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (2 STL),,,1,0,247
+0022300974,327,PT00M28.40S,2,1610612762,UTA,1627739,Dunn,K. Dunn,31,34,5,Made,1,46,46,92,h,Dunn 5' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,1,2,248
+0022300974,372,PT09M53.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,273
+0022300974,395,PT07M34.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-60,106,12,Missed,1,,,0,h,MISS Dunn 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,290
+0022300974,409,PT06M05.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Preston FOR Dunn,Substitution,,0,0,302
+0022300987,39,PT07M59.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,1,55,6,Made,1,9,8,17,h,Dunn 6' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,31
+0022300987,48,PT06M55.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Sexton FOR Dunn,Substitution,,0,0,38
+0022300987,199,PT07M24.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P1.T1) (D.Guthrie),Foul,Shooting,1,0,142
+0022300987,204,PT07M09.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,87,234,25,Missed,1,,,0,h,MISS Dunn 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,146
+0022300987,210,PT06M36.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,152
+0022300987,247,PT03M37.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Markkanen FOR Dunn,Substitution,,0,0,176
+0022300987,303,PT11M06.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn P.FOUL (P2.T1) (D.Collins),Foul,Personal,1,0,212
+0022300987,312,PT10M09.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-132,222,26,Missed,1,,,0,h,MISS Dunn 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,217
+0022300987,340,PT08M04.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,245
+0022300987,341,PT08M02.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,65,5,7,Missed,1,,,0,h,MISS Dunn 7' Putback Layup,Missed Shot,Putback Layup Shot,1,2,246
+0022300987,360,PT06M33.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,102,225,25,Made,1,66,65,131,h,Dunn 25' 3PT Pullup Jump Shot (5 PTS) (George 7 AST),Made Shot,Pullup Jump shot,1,3,261
+0022300987,373,PT05M37.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Horton-Tucker FOR Dunn,Substitution,,0,0,272
+0022300987,413,PT03M26.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-42,110,12,Missed,1,,,0,h,MISS Dunn 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,297
+0022300987,434,PT01M21.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Violation:Kicked Ball (D.Guthrie),Violation,Kicked Ball,0,0,313
+0022300987,441,PT00M48.60S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Violation:Kicked Ball (A.Smith),Violation,Kicked Ball,0,0,318
+0022300987,565,PT02M55.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,408
+0022300987,574,PT01M40.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,-225,132,26,Missed,1,,,0,h,MISS Dunn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,416
+0022300987,576,PT01M34.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,-233,84,25,Missed,1,,,0,h,MISS Dunn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,418
+0022300987,580,PT01M08.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn P.FOUL (P3.T3) (A.Smith),Foul,Personal,1,0,422
+0022300987,597,PT00M31.10S,4,1610612762,UTA,1627739,Dunn,K. Dunn,-235,31,24,Made,1,102,109,211,h,Dunn 24' 3PT Jump Shot (8 PTS) (George 8 AST),Made Shot,Jump Shot,1,3,434
+0022301000,7,PT11M55.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P1.T1) (N.Sago),Foul,Shooting,1,0,3
+0022301000,42,PT08M52.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,34,256,26,Missed,1,,,0,v,MISS Dunn 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,31
+0022301000,46,PT08M26.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-18,32,4,Made,1,11,6,17,v,Dunn 4' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,35
+0022301000,106,PT04M14.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Juzang FOR Dunn,Substitution,,0,0,87
+0022301000,249,PT05M11.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P2.T1) (N.Sago),Foul,Shooting,1,0,185
+0022301000,276,PT03M30.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-203,151,25,Made,1,48,47,95,v,Dunn 25' 3PT Jump Shot (5 PTS) (George 1 AST),Made Shot,Jump Shot,1,3,205
+0022301000,306,PT01M34.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-4,58,6,Missed,1,,,0,v,MISS Dunn 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,227
+0022301000,369,PT08M21.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,56,23,6,Missed,1,,,0,v,MISS Dunn 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,270
+0022301000,390,PT07M08.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,286
+0022301000,417,PT05M34.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (1 STL),,,1,0,308
+0022301000,437,PT03M09.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P3.PN) (N.Sago),Foul,Shooting,1,0,325
+0022301000,441,PT03M09.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Horton-Tucker FOR Dunn,Substitution,,0,0,328
+0022301008,29,PT09M56.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,17
+0022301008,33,PT09M42.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (1 STL),,,1,0,21
+0022301008,35,PT09M24.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-5,1,1,Made,1,1,8,9,v,Dunn 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,22
+0022301008,85,PT04M52.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P1.T3) (J.Sterling),Foul,Personal,1,0,57
+0022301008,89,PT04M52.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Sensabaugh FOR Dunn,Substitution,,0,0,60
+0022301008,222,PT07M59.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,152
+0022301008,223,PT07M57.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,153
+0022301008,243,PT07M12.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P2.T4) (J.Williams),Foul,Shooting,1,0,167
+0022301008,258,PT05M57.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,4,258,26,Missed,1,,,0,v,MISS Dunn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,176
+0022301008,264,PT05M07.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P3.PN) (K.Cutler),Foul,Personal,1,0,181
+0022301008,279,PT04M16.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,191
+0022301008,285,PT04M11.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Markkanen FOR Dunn,Substitution,,0,0,197
+0022301008,357,PT10M32.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Double Dribble Turnover (P2.T12),Turnover,Double Dribble,1,0,249
+0022301008,371,PT09M24.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-2,27,3,Made,1,59,46,105,v,Dunn 3' Driving Layup (4 PTS) (George 3 AST),Made Shot,Driving Layup Shot,1,2,260
+0022301008,380,PT08M43.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,267
+0022301008,381,PT08M41.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Lost Ball Turnover (P3.T13),Turnover,Lost Ball,1,0,268
+0022301008,389,PT08M00.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P4.T3) (J.Williams),Foul,Personal,1,0,274
+0022301008,391,PT08M00.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Sexton FOR Dunn,Substitution,,0,0,275
+0022301008,631,PT04M21.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn BLOCK (1 BLK),,,1,2,434
+0022301008,644,PT03M36.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P5.PN) (K.Cutler),Foul,Personal,1,0,444
+0022301008,661,PT02M28.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Bad Pass Turnover (P4.T17),Turnover,Bad Pass,1,0,455
+0022301008,671,PT01M59.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Sexton FOR Dunn,Substitution,,0,0,462
+0022301024,78,PT05M23.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,55
+0022301024,132,PT02M02.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-141,223,26,Missed,1,,,0,v,MISS Dunn 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,93
+0022301024,140,PT01M24.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,-2,42,4,Made,1,40,21,61,v,Dunn 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,100
+0022301024,153,PT00M15.60S,1,1610612762,UTA,1627739,Dunn,K. Dunn,42,27,5,Missed,1,,,0,v,MISS Dunn 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,109
+0022301024,167,PT11M55.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,,"Double Technical - Dunn, Smith Jr. (M.Lindsay)",Foul,Double Technical,1,0,117
+0022301024,169,PT11M55.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Ejection:Other,Ejection,Other,0,0,118
+0022301024,172,PT11M55.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Sexton FOR Dunn,Substitution,,0,0,121
+0022301072,101,PT04M14.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,163,189,25,Missed,1,,,0,h,MISS Dunn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,83
+0022301072,113,PT03M45.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,92
+0022301072,119,PT03M02.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,96
+0022301072,120,PT02M41.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,59,62,9,Made,1,19,13,32,h,Dunn 9' Fadeaway Bank Shot (2 PTS),Made Shot,Fadeaway Bank shot,1,2,97
+0022301072,122,PT02M21.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,99
+0022301072,125,PT01M53.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn BLOCK (1 BLK),,,1,2,103
+0022301072,175,PT11M40.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,134
+0022301072,187,PT10M39.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,144
+0022301072,188,PT10M29.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,157,192,25,Made,1,28,16,44,h,Dunn 25' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,3,145
+0022301072,198,PT09M08.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,1,0,153
+0022301072,212,PT07M54.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,166
+0022301072,213,PT07M46.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,23,46,5,Made,1,30,22,52,h,Dunn 5' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,2,167
+0022301072,218,PT07M10.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn BLOCK (2 BLK),,,1,2,173
+0022301072,223,PT07M06.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,176
+0022301072,229,PT06M52.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Sensabaugh FOR Dunn,Substitution,,0,0,181
+0022301072,398,PT05M49.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P1.T3) (B.Schwab),Foul,Shooting,1,0,307
+0022301072,417,PT05M02.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P2.T4) (J.Capers),Foul,Shooting,1,0,322
+0022301072,427,PT04M41.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P3.PN) (E.Dalen),Foul,Shooting,1,0,329
+0022301072,434,PT04M24.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-26,25,4,Made,1,58,64,122,h,Dunn 4' Driving Layup (9 PTS) (Kessler 1 AST),Made Shot,Driving Layup Shot,1,2,334
+0022301072,451,PT02M48.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,33,46,6,Made,1,60,67,127,h,Dunn 6' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,1,2,345
+0022301072,454,PT02M29.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,347
+0022301072,457,PT02M08.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (1 STL),,,1,0,350
+0022301072,479,PT01M08.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn BLOCK (3 BLK),,,1,2,364
+0022301072,500,PT11M37.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Violation:Kicked Ball (E.Dalen),Violation,Kicked Ball,0,0,379
+0022301072,501,PT11M29.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn P.FOUL (P4.T1) (E.Dalen),Foul,Personal,1,0,380
+0022301072,504,PT10M57.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Lost Ball Turnover (P2.T16),Turnover,Lost Ball,1,0,382
+0022301072,514,PT09M36.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: George FOR Dunn,Substitution,,0,0,389
+0022301072,618,PT01M49.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn P.FOUL (P5.PN) (J.Capers),Foul,Personal,1,0,467
+0022301072,635,PT00M40.50S,4,1610612762,UTA,1627739,Dunn,K. Dunn,13,62,6,Missed,1,,,0,h,MISS Dunn 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,480
+0022301072,644,PT00M03.10S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn Personal Take Foul (P6.PN) (J.Capers),Foul,Personal Take,1,0,487
+0022301072,646,PT00M03.10S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Sensabaugh FOR Dunn,Substitution,,0,0,488
+0022301086,73,PT05M20.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,232,3,0,Missed,1,,,0,v,MISS Dunn 3PT Jump Shot,Missed Shot,Jump Shot,1,3,50
+0022301086,88,PT04M18.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,61
+0022301086,132,PT00M43.30S,1,1610612762,UTA,1627739,Dunn,K. Dunn,75,34,8,Made,1,27,22,49,v,Dunn 8' Jump Bank Shot (2 PTS),Made Shot,Jump Bank Shot,1,2,91
+0022301086,139,PT00M16.70S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,MISS Dunn Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,98
+0022301086,145,PT00M16.70S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,27,23,50,v,Dunn Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,100
+0022301086,322,PT04M55.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-1,29,3,Missed,1,,,0,v,MISS Dunn 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,168
+0022301086,261,PT03M46.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,237,10,24,Missed,1,,,0,v,MISS Dunn 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,181
+0022301086,270,PT02M58.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,189
+0022301086,271,PT02M50.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-28,69,7,Missed,1,,,0,v,MISS Dunn 7' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,190
+0022301086,272,PT02M49.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,191
+0022301086,281,PT02M13.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: George FOR Dunn,Substitution,,0,0,198
+0022301086,426,PT04M02.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,34,110,12,Missed,1,,,0,v,MISS Dunn 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,302
+0022301086,427,PT04M00.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,303
+0022301086,440,PT02M45.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-4,26,3,Made,1,89,73,162,v,Dunn 3' Running Dunk (5 PTS),Made Shot,Running Dunk Shot,1,2,314
+0022301086,449,PT02M09.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,319
+0022301086,452,PT02M01.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,322
+0022301086,453,PT01M55.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-141,231,27,Missed,1,,,0,v,MISS Dunn 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,323
+0022301086,467,PT00M34.20S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P1.T2) (M.Boland),Foul,Shooting,1,0,337
+0022301086,611,PT04M36.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,70,71,10,Missed,1,,,0,v,MISS Dunn 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,432
+0022301086,637,PT02M41.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Hendricks FOR Dunn,Substitution,,0,0,451
+0022301100,130,PT01M30.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,83
+0022301100,171,PT09M52.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,114
+0022301100,172,PT09M42.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-47,86,10,Made,1,29,42,71,h,Dunn 10' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,115
+0022301100,193,PT08M21.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P1.T1) (T.Ford),Foul,Shooting,1,0,130
+0022301100,205,PT07M43.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,139
+0022301100,206,PT07M41.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,31,3,Missed,1,,,0,h,MISS Dunn 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,140
+0022301100,269,PT04M16.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: George FOR Dunn,Substitution,,0,0,186
+0022301100,416,PT04M30.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn S.FOUL (P2.T3) (S.Twardoski),Foul,Shooting,1,0,295
+0022301100,428,PT03M46.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (1 STL),,,1,0,304
+0022301100,460,PT01M55.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-224,-22,0,Missed,1,,,0,h,MISS Dunn 3PT Jump Shot,Missed Shot,Jump Shot,1,3,328
+0022301100,463,PT01M44.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,331
+0022301100,552,PT07M25.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,Dunn STEAL (2 STL),,,1,0,393
+0022301100,562,PT06M34.00S,4,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,h,SUB: Yurtseven FOR Dunn,Substitution,,0,0,400
+0022301126,81,PT05M15.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,141,245,28,Missed,1,,,0,v,MISS Dunn 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,59
+0022301126,109,PT03M19.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,4,57,6,Missed,1,,,0,v,MISS Dunn 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,80
+0022301126,141,PT00M51.40S,1,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P1.T4) (M.Lindsay),Foul,Personal,1,0,105
+0022301126,163,PT11M41.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,MISS Dunn Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,121
+0022301126,165,PT11M41.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,41,17,58,v,Dunn Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,123
+0022301126,174,PT10M33.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,130
+0022301126,209,PT08M04.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Yurtseven FOR Dunn,Substitution,,0,0,157
+0022301126,336,PT10M37.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,20,58,6,Made,1,79,46,125,v,Dunn 6' Floating Jump Shot (3 PTS) (Juzang 2 AST),Made Shot,Floating Jump shot,1,2,252
+0022301126,342,PT09M52.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P2.T1) (M.Lindsay),Foul,Shooting,1,0,256
+0022301126,406,PT05M17.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,91,63,154,v,Dunn Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,302
+0022301126,409,PT05M17.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,91,64,155,v,Dunn Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,304
+0022301126,416,PT04M27.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P3.T2) (M.Lindsay),Foul,Personal,1,0,309
+0022301126,432,PT03M16.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,322
+0022301126,433,PT03M16.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,Made,1,95,70,165,v,Dunn Putback Layup (7 PTS),Made Shot,Putback Layup Shot,1,2,323
+0022301126,436,PT03M16.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,95,71,166,v,Dunn Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1,0,325
+0022301126,452,PT02M19.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn STEAL (1 STL),,,1,0,338
+0022301126,454,PT02M16.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,1,11,1,Made,1,97,73,170,v,Dunn 1' Running Dunk (10 PTS),Made Shot,Running Dunk Shot,1,2,339
+0022301126,467,PT01M33.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Horton-Tucker FOR Dunn,Substitution,,0,0,349
+0022301213,151,PT01M05.00S,1,1610612762,UTA,1627739,Dunn,K. Dunn,234,5,0,Made,1,38,29,67,v,Dunn 3PT Jump Shot (3 PTS) (Horton-Tucker 1 AST),Made Shot,Jump Shot,1,3,107
+0022301213,168,PT11M55.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn P.FOUL (P1.T1) (A.Nagy),Foul,Personal,1,0,119
+0022301213,171,PT11M39.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,121
+0022301213,178,PT10M41.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,234,75,25,Missed,1,,,0,v,MISS Dunn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,128
+0022301213,188,PT09M58.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn S.FOUL (P2.T2) (A.Nagy),Foul,Shooting,1,0,136
+0022301213,191,PT09M45.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,132,205,24,Missed,1,,,0,v,MISS Dunn 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,138
+0022301213,224,PT07M30.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,-38,106,11,Missed,1,,,0,v,MISS Dunn 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,159
+0022301213,239,PT06M12.00S,2,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,SUB: Fontecchio FOR Dunn,Substitution,,0,0,172
+0022301213,403,PT05M24.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,6,96,10,Made,1,92,61,153,v,Dunn 10' Floating Jump Shot (5 PTS),Made Shot,Floating Jump shot,1,2,296
+0022301213,414,PT04M54.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,305
+0022301213,432,PT04M17.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,319
+0022301213,447,PT03M15.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,Dunn REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,330
+0022301213,448,PT03M13.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-12,82,8,Made,1,96,69,165,v,Dunn 8' Jump Shot (7 PTS),Made Shot,Jump Shot,1,2,331
+0022301213,460,PT01M33.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,228,40,0,Missed,1,,,0,v,MISS Dunn 3PT Jump Shot,Missed Shot,Jump Shot,1,3,339
+0022301213,466,PT01M05.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,,,0,v,MISS Dunn Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,343
+0022301213,468,PT01M05.00S,3,1610612762,UTA,1627739,Dunn,K. Dunn,0,0,0,,0,105,73,178,v,Dunn Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,345
+0022301213,480,PT00M13.60S,3,1610612762,UTA,1627739,Dunn,K. Dunn,-207,9,21,Missed,1,,,0,v,MISS Dunn 21' Jump Shot,Missed Shot,Jump Shot,1,2,355

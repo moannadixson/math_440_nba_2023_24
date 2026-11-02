@@ -1,0 +1,46 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300342,619,PT01M16.00S,4,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,h,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,444
+0022300342,623,PT00M49.70S,4,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,7,11,1,Missed,1,,,0,h,MISS Toscano-Anderson 1' Layup,Missed Shot,Layup Shot,1,2,448
+0022300342,624,PT00M47.20S,4,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,h,Toscano-Anderson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,449
+0022300358,694,PT03M46.00S,4,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,-7,10,1,Made,1,136,116,252,h,Toscano-Anderson 1' Cutting Layup Shot (2 PTS) (Huerter 2 AST),Made Shot,Cutting Layup Shot,1,2,465
+0022300358,696,PT03M38.00S,4,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,h,Toscano-Anderson P.FOUL (P1.PN) (S.Corbin),Foul,Personal,1,0,466
+0022300358,718,PT02M31.00S,4,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,h,Toscano-Anderson S.FOUL (P2.PN) (C.Blair),Foul,Shooting,1,0,480
+0022300358,732,PT01M12.00S,4,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,h,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,492
+0022300358,733,PT01M12.00S,4,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,h,Toscano-Anderson Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,493
+0022300358,736,PT01M09.00S,4,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,h,Toscano-Anderson S.FOUL (P3.PN) (C.Blair),Foul,Shooting,1,0,495
+0022300373,606,PT02M25.00S,4,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,-225,-13,0,Missed,1,,,0,h,MISS Toscano-Anderson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,452
+0022300387,701,PT02M04.00S,4,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,h,Toscano-Anderson S.FOUL (P1.T4) (T.Maddox),Foul,Shooting,1,0,487
+0022300413,642,PT01M06.00S,4,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson STEAL (1 STL),,,1,0,474
+0022300449,624,PT02M04.00S,4,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,456
+0022300449,640,PT00M19.80S,4,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,470
+0022300476,780,PT00M08.70S,5,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,h,SUB: Barnes FOR Toscano-Anderson,Substitution,,0,0,531
+0022300476,805,PT00M01.10S,5,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,h,SUB: Sabonis FOR Toscano-Anderson,Substitution,,0,0,543
+0022300512,173,PT11M32.00S,2,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson P.FOUL (P1.T2) (B.Barnaky),Foul,Personal,1,0,122
+0022300512,176,PT11M18.00S,2,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,124
+0022300512,196,PT10M15.00S,2,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson S.FOUL (P2.T3) (N.Green),Foul,Shooting,1,0,139
+0022300512,209,PT09M29.00S,2,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson P.FOUL (P3.T4) (B.Barnaky),Foul,Personal,1,0,147
+0022300512,228,PT08M21.00S,2,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,161
+0022300512,232,PT07M44.00S,2,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,-232,-12,0,Missed,1,,,0,v,MISS Toscano-Anderson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,164
+0022300512,240,PT07M40.00S,2,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,SUB: Monk FOR Toscano-Anderson,Substitution,,0,0,171
+0022300512,440,PT04M50.00S,3,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,314
+0022300512,473,PT02M42.00S,3,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,15,20,3,Missed,1,,,0,v,MISS Toscano-Anderson 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,338
+0022300512,475,PT02M36.00S,3,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,340
+0022300512,499,PT00M59.40S,3,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson S.FOUL (P4.PN) (S.Foster),Foul,Shooting,1,0,357
+0022300512,509,PT00M25.60S,3,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,366
+0022300512,510,PT00M23.80S,3,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson Bad Pass Turnover (P1.T15),Turnover,Bad Pass,1,0,367
+0022300512,680,PT00M34.20S,4,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,490
+0022300512,681,PT00M21.50S,4,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,40,10,4,Missed,1,,,0,v,MISS Toscano-Anderson 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,491
+0022300518,162,PT10M31.00S,2,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,16,-6,2,Missed,1,,,0,v,MISS Toscano-Anderson 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,117
+0022300518,173,PT09M30.00S,2,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson S.FOUL (P1.T1) (E.Malloy),Foul,Shooting,1,0,125
+0022300518,205,PT07M36.00S,2,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,SUB: Barnes FOR Toscano-Anderson,Substitution,,0,0,150
+0022300518,463,PT10M40.00S,4,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,329
+0022300518,469,PT10M10.00S,4,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,335
+0022300518,470,PT10M09.00S,4,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,11,31,3,Missed,1,,,0,v,MISS Toscano-Anderson 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,336
+0022300518,518,PT07M53.00S,4,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson S.FOUL (P2.T2) (T.Washington),Foul,Shooting,1,0,374
+0022300518,526,PT07M16.00S,4,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,7,13,1,Made,1,82,108,190,v,Toscano-Anderson 1' Running Alley Oop Dunk Shot (2 PTS) (Ellis 1 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,381
+0022300518,557,PT04M38.00S,4,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,404
+0022300518,597,PT00M58.60S,4,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,62,248,26,Missed,1,,,0,v,MISS Toscano-Anderson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,441
+0022300518,602,PT00M33.60S,4,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson BLOCK (1 BLK),,,1,2,447
+0022300532,156,PT01M31.00S,1,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,234,-17,0,Made,1,23,19,42,v,Toscano-Anderson 3PT Jump Shot (3 PTS) (Monk 2 AST),Made Shot,Jump Shot,1,3,116
+0022300532,158,PT01M23.00S,1,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,,,0,v,Toscano-Anderson P.FOUL (P1.PN) (T.Ford),Foul,Personal,1,0,117
+0022300532,168,PT00M33.60S,1,1610612758,SAC,1629308,Toscano-Anderson,J. Toscano-Anderson,56,13,6,Missed,1,,,0,v,MISS Toscano-Anderson 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,124

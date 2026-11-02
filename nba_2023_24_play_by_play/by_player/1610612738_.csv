@@ -1,0 +1,1035 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300010,117,PT03M44.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,85
+0022300010,198,PT10M27.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,143
+0022300010,229,PT06M57.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,170
+0022300010,241,PT06M12.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,178
+0022300010,374,PT06M34.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,273
+0022300010,431,PT02M47.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,316
+0022300010,492,PT11M41.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,359
+0022300010,509,PT09M39.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,371
+0022300010,561,PT05M51.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,408
+0022300010,565,PT05M51.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,411
+0022300010,619,PT01M12.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,454
+0022300010,626,PT00M46.30S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,459
+0022300010,634,PT00M06.70S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,1,0,466
+0022300031,54,PT07M13.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,37
+0022300031,122,PT02M17.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,88
+0022300031,157,PT02M03.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Turnover: Shot Clock (T#2),Turnover,Shot Clock Turnover,0,0,92
+0022300031,235,PT06M19.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,168
+0022300031,239,PT06M19.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,170
+0022300031,284,PT03M17.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,198
+0022300031,292,PT02M36.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,203
+0022300031,415,PT03M32.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,298
+0022300031,551,PT04M18.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,392
+0022300031,596,PT00M08.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,428
+0022300043,43,PT11M15.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,8
+0022300043,41,PT07M50.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,31
+0022300043,69,PT05M46.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,1,0,51
+0022300043,100,PT03M43.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,1,0,72
+0022300043,120,PT02M08.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,90
+0022300043,170,PT11M47.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,121
+0022300043,200,PT09M12.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,144
+0022300043,201,PT09M11.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,0,0,145
+0022300043,317,PT01M16.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,1,0,233
+0022300043,352,PT10M55.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,256
+0022300043,361,PT09M54.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,263
+0022300043,400,PT06M33.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,293
+0022300043,467,PT01M30.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,341
+0022300043,480,PT00M37.10S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,350
+0022300043,488,PT00M00.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,356
+0022300043,504,PT11M38.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,363
+0022300043,515,PT10M42.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,372
+0022300043,527,PT09M35.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,383
+0022300043,567,PT06M50.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,414
+0022300043,606,PT04M24.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,443
+0022300043,630,PT03M05.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,461
+0022300043,651,PT02M00.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,476
+0022300043,669,PT00M32.10S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,489
+0022300053,60,PT06M22.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,45
+0022300053,179,PT09M42.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,128
+0022300053,206,PT08M14.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,148
+0022300053,221,PT06M55.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,157
+0022300053,254,PT05M33.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,175
+0022300053,248,PT05M33.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,176
+0022300053,359,PT08M25.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,252
+0022300053,461,PT00M00.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,332
+0022300053,502,PT09M33.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,356
+0022300053,557,PT07M02.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,396
+0022300053,589,PT04M21.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,417
+0022300053,609,PT02M27.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,432
+0022300065,51,PT08M39.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,40
+0022300065,132,PT02M30.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,100
+0022300065,217,PT07M44.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,161
+0022300065,239,PT06M40.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,174
+0022300065,277,PT03M54.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,202
+0022300065,354,PT09M28.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,261
+0022300065,413,PT05M48.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,305
+0022300065,431,PT04M32.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,318
+0022300065,446,PT04M05.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,327
+0022300065,550,PT08M56.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,403
+0022300065,626,PT04M10.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,458
+0022300065,670,PT02M03.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,484
+0022300065,697,PT00M12.70S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,506
+0022300065,698,PT00M12.70S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,507
+0022300080,64,PT06M47.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,48
+0022300080,87,PT05M28.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,67
+0022300080,130,PT02M55.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,102
+0022300080,157,PT00M53.80S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,122
+0022300080,162,PT00M30.70S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,126
+0022300080,229,PT07M36.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,173
+0022300080,238,PT06M45.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,180
+0022300080,336,PT00M01.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,256
+0022300080,387,PT06M57.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,294
+0022300080,481,PT11M42.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,365
+0022300080,574,PT04M46.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Delay,Foul,Delay Technical,1,0,436
+0022300080,596,PT03M38.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,454
+0022300080,598,PT03M38.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,455
+0022300080,617,PT02M18.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,470
+0022300103,45,PT07M29.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,34
+0022300103,237,PT07M27.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,170
+0022300103,225,PT07M27.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,171
+0022300103,272,PT03M47.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,207
+0022300103,295,PT02M08.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,222
+0022300103,365,PT08M48.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,274
+0022300103,366,PT08M48.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Turnover: Shot Clock (T#9),Turnover,Shot Clock Turnover,1,0,275
+0022300103,422,PT03M15.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,318
+0022300103,443,PT02M28.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,330
+0022300103,478,PT00M00.20S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,356
+0022300103,515,PT09M40.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,381
+0022300103,575,PT05M31.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,433
+0022300103,577,PT05M31.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,434
+0022300103,619,PT02M19.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,465
+0022300118,20,PT10M34.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,12
+0022300118,92,PT04M49.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,66
+0022300118,162,PT11M17.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,119
+0022300118,163,PT11M17.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,0,0,120
+0022300118,174,PT10M32.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,130
+0022300118,191,PT09M04.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,140
+0022300118,269,PT04M12.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,202
+0022300118,331,PT00M00.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,247
+0022300118,399,PT06M44.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,299
+0022300118,491,PT00M02.20S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,371
+0022300118,564,PT05M59.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,420
+0022300118,626,PT01M21.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,464
+0022300118,647,PT00M04.10S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,0,0,479
+0022300136,10,PT11M30.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,5
+0022300136,56,PT07M16.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,44
+0022300136,126,PT02M29.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,97
+0022300136,146,PT01M07.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,114
+0022300136,153,PT00M35.60S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,121
+0022300136,179,PT00M00.10S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,134
+0022300136,277,PT05M09.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,204
+0022300136,284,PT04M45.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,210
+0022300136,289,PT04M32.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,214
+0022300136,298,PT04M15.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,218
+0022300136,404,PT07M56.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,300
+0022300136,483,PT01M10.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,360
+0022300136,620,PT03M38.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,457
+0022300136,642,PT01M55.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,475
+0022300154,63,PT07M30.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,47
+0022300154,118,PT03M51.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,88
+0022300154,164,PT00M58.20S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,121
+0022300154,187,PT11M43.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,136
+0022300154,194,PT11M32.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,141
+0022300154,202,PT10M42.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,146
+0022300154,203,PT10M42.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Turnover: Shot Clock (T#7),Turnover,Shot Clock Turnover,1,0,147
+0022300154,264,PT06M03.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,196
+0022300154,313,PT03M34.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,233
+0022300154,356,PT00M00.10S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,266
+0022300154,386,PT09M48.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,283
+0022300154,451,PT03M51.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,335
+0022300154,495,PT01M46.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,367
+0022300154,500,PT01M42.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,370
+0022300154,522,PT00M25.90S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,389
+0022300154,536,PT00M00.10S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,398
+0022300154,558,PT10M55.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,405
+0022300154,562,PT10M49.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,409
+0022300154,568,PT10M07.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,1,0,413
+0022300154,605,PT06M15.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,442
+0022300154,683,PT00M37.30S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,499
+0022300154,685,PT00M37.30S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,500
+0022300154,749,PT01M04.00S,5,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,545
+0022300154,760,PT00M15.50S,5,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,553
+0022300159,88,PT04M11.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,73
+0022300159,97,PT03M09.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,79
+0022300159,123,PT01M44.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,97
+0022300159,131,PT00M55.20S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,103
+0022300159,186,PT08M37.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,142
+0022300159,237,PT05M32.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,1,0,182
+0022300159,277,PT03M11.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,210
+0022300159,374,PT08M40.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,284
+0022300159,403,PT06M12.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,308
+0022300159,433,PT03M43.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,334
+0022300159,480,PT00M00.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,372
+0022300159,578,PT03M44.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,439
+0022300159,585,PT03M18.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,1,0,442
+0022300159,599,PT02M04.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,455
+0022300159,614,PT01M14.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,464
+0022300159,625,PT00M38.80S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,473
+0022300159,636,PT00M08.50S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,482
+0022300174,34,PT09M18.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,26
+0022300174,44,PT08M32.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,32
+0022300174,144,PT01M04.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,101
+0022300174,149,PT00M45.90S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,105
+0022300174,246,PT04M34.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,177
+0022300174,324,PT10M00.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,234
+0022300174,376,PT05M08.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,274
+0022300174,400,PT03M31.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,289
+0022300174,464,PT11M11.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,335
+0022300174,489,PT09M24.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,354
+0022300174,522,PT07M20.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,377
+0022300174,568,PT03M39.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Coach Challenge (Full 3 Short 0),Timeout,Coach Challenge,0,0,408
+0022300174,604,PT00M13.20S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,0,0,436
+0022300188,55,PT06M21.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,37
+0022300188,82,PT04M21.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,58
+0022300188,161,PT09M46.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,117
+0022300188,194,PT06M09.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,143
+0022300188,319,PT08M00.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,235
+0022300188,327,PT07M39.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,242
+0022300188,428,PT00M00.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,314
+0022300188,450,PT10M08.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,327
+0022300188,508,PT05M24.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,370
+0022300188,517,PT04M47.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,377
+0022300194,102,PT02M56.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,79
+0022300194,249,PT03M55.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,187
+0022300194,262,PT03M14.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,195
+0022300194,326,PT09M46.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,242
+0022300194,341,PT08M43.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,253
+0022300194,399,PT02M10.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,299
+0022300194,421,PT00M30.60S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,316
+0022300194,423,PT00M29.80S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Turnover: Shot Clock (T#9),Turnover,Shot Clock Turnover,0,0,317
+0022300194,531,PT05M38.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,391
+0022300194,555,PT03M19.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,410
+0022300194,593,PT01M11.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,428
+0022300194,580,PT01M08.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Coach Challenge (Reg.3 Short 0),Timeout,Coach Challenge,0,0,429
+0022300213,28,PT09M23.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,22
+0022300213,33,PT09M02.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,26
+0022300213,46,PT08M08.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,34
+0022300213,111,PT03M38.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,84
+0022300213,115,PT03M22.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,87
+0022300213,163,PT00M00.10S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,125
+0022300213,176,PT11M08.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,133
+0022300213,264,PT04M31.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,196
+0022300213,327,PT00M41.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,242
+0022300213,398,PT07M10.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,291
+0022300213,426,PT05M49.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,309
+0022300213,489,PT00M44.60S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,355
+0022300213,498,PT00M00.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,363
+0022300217,91,PT05M22.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,73
+0022300217,117,PT03M57.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,88
+0022300217,125,PT02M50.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,100
+0022300217,222,PT06M30.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,171
+0022300217,232,PT05M40.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,178
+0022300217,233,PT05M40.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Turnover: Shot Clock (T#7),Turnover,Shot Clock Turnover,1,0,179
+0022300217,251,PT04M20.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,192
+0022300217,266,PT03M42.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,203
+0022300217,278,PT02M55.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,211
+0022300217,372,PT07M34.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,284
+0022300217,426,PT03M42.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,329
+0022300217,467,PT00M01.20S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,364
+0022300217,495,PT10M02.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,383
+0022300217,594,PT01M09.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,455
+0022300217,609,PT00M10.70S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,465
+0022300217,622,PT00M07.20S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,472
+0022300217,630,PT00M00.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,476
+0022300217,648,PT03M51.00S,5,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,488
+0022300217,672,PT01M40.00S,5,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,509
+0022300217,673,PT01M40.00S,5,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,1,0,510
+0022300217,689,PT00M06.60S,5,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,522
+0022300217,706,PT00M00.80S,5,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,534
+0022300228,13,PT11M15.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,7
+0022300228,102,PT03M46.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,75
+0022300228,113,PT02M54.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,86
+0022300228,259,PT03M10.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,190
+0022300228,302,PT00M00.30S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,220
+0022300228,502,PT08M06.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,363
+0022300228,527,PT06M56.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,377
+0022300228,574,PT03M31.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,417
+0022300246,42,PT08M43.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,30
+0022300246,68,PT07M09.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,51
+0022300246,164,PT00M00.70S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,123
+0022300246,192,PT10M00.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,145
+0022300246,371,PT09M19.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,283
+0022300246,446,PT03M44.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,341
+0022300246,486,PT00M29.10S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: 5 Second Violation (T#8),Turnover,5 Second Violation,1,0,371
+0022300246,496,PT00M07.20S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,376
+0022300246,498,PT00M00.60S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,379
+0022300246,531,PT09M56.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,399
+0022300246,592,PT04M48.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,447
+0022300246,619,PT02M58.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,466
+0022300246,642,PT00M47.10S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,487
+0022300246,644,PT00M47.10S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Coach Challenge (Full 4 Short 0),Timeout,Coach Challenge,0,0,488
+0022300275,49,PT07M31.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,37
+0022300275,69,PT06M29.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,55
+0022300275,194,PT11M50.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,143
+0022300275,245,PT07M18.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,184
+0022300275,282,PT04M26.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,210
+0022300275,431,PT05M03.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,324
+0022300275,551,PT09M30.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,418
+0022300275,608,PT05M08.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,464
+0022300275,623,PT04M06.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,475
+0022300305,11,PT11M21.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,6
+0022300305,41,PT09M22.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,29
+0022300305,222,PT08M07.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,163
+0022300305,240,PT05M23.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,182
+0022300305,286,PT02M33.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,215
+0022300305,324,PT00M01.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,245
+0022300305,369,PT08M26.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,277
+0022300305,407,PT05M10.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,307
+0022300305,434,PT03M05.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,328
+0022300305,435,PT03M05.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,1,0,329
+0022300305,474,PT00M00.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,355
+0022300305,551,PT06M27.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,407
+0022300305,612,PT01M19.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,449
+0022300305,622,PT00M07.40S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#15),Turnover,Shot Clock Turnover,1,0,458
+0022300319,50,PT07M11.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,37
+0022300319,110,PT03M09.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Coach Challenge (Full 0 Short 0),Timeout,Coach Challenge,0,0,84
+0022300319,118,PT02M36.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,88
+0022300319,221,PT07M18.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,161
+0022300319,393,PT05M10.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,287
+0022300319,511,PT06M28.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,378
+0022300319,564,PT03M01.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,416
+0022300329,42,PT07M58.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,35
+0022300329,43,PT07M58.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#2),Turnover,Shot Clock Turnover,1,0,36
+0022300329,63,PT06M35.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,50
+0022300329,84,PT06M09.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,64
+0022300329,112,PT04M06.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,83
+0022300329,167,PT00M00.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,122
+0022300329,253,PT06M47.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,178
+0022300329,255,PT06M47.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,179
+0022300329,354,PT10M40.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,253
+0022300329,408,PT07M07.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,290
+0022300329,420,PT05M54.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,301
+0022300329,429,PT05M54.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,1,0,306
+0022300329,494,PT01M40.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,360
+0022300329,511,PT00M35.80S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,369
+0022300329,603,PT06M13.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,426
+0022300329,634,PT03M26.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,449
+0022300344,43,PT08M17.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,36
+0022300344,61,PT06M14.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,50
+0022300344,154,PT00M00.50S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,114
+0022300344,198,PT09M26.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,144
+0022300344,201,PT09M26.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,146
+0022300344,318,PT00M00.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,237
+0022300344,373,PT07M48.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,278
+0022300344,428,PT03M40.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,323
+0022300344,572,PT05M08.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,427
+0022300344,589,PT03M12.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,444
+0022300362,23,PT10M09.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,14
+0022300362,117,PT03M24.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,86
+0022300362,130,PT02M19.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,95
+0022300362,230,PT06M29.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,171
+0022300362,270,PT04M14.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,205
+0022300362,335,PT11M17.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,252
+0022300362,375,PT07M52.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,283
+0022300362,435,PT03M29.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,327
+0022300362,464,PT00M00.10S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,351
+0022300362,520,PT08M46.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,385
+0022300362,557,PT06M25.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,413
+0022300362,577,PT04M09.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,429
+0022300362,620,PT00M29.60S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,462
+0022300362,674,PT00M38.90S,5,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,508
+0022300362,681,PT00M10.60S,5,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,513
+0022300362,693,PT00M00.10S,5,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,521
+0022300373,43,PT08M42.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,30
+0022300373,228,PT07M21.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,173
+0022300373,248,PT05M19.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,190
+0022300373,410,PT04M39.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,310
+0022300373,412,PT04M39.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Coach Challenge (Reg.2 Short 0),Timeout,Coach Challenge,0,0,311
+0022300373,447,PT02M30.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,337
+0022300373,537,PT07M16.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,401
+0022300373,568,PT04M42.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,424
+0022300389,74,PT05M54.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,56
+0022300389,100,PT03M58.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,77
+0022300389,129,PT02M24.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,97
+0022300389,280,PT02M49.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,203
+0022300389,294,PT01M38.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,216
+0022300389,322,PT00M00.10S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,239
+0022300389,384,PT06M40.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,285
+0022300389,386,PT06M40.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,286
+0022300389,403,PT05M01.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,301
+0022300389,481,PT00M00.10S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,356
+0022300389,503,PT10M55.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,368
+0022300389,523,PT09M28.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,382
+0022300389,642,PT00M12.30S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,0,467
+0022300403,126,PT02M45.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,97
+0022300403,263,PT05M09.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,190
+0022300403,299,PT02M26.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,216
+0022300403,412,PT06M32.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,296
+0022300403,440,PT04M28.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,319
+0022300403,517,PT00M00.10S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,372
+0022300403,535,PT11M20.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,381
+0022300403,623,PT02M40.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,448
+0022300403,627,PT02M40.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,451
+0022300403,639,PT01M28.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,460
+0022300421,68,PT05M42.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,56
+0022300421,120,PT02M31.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,97
+0022300421,257,PT05M19.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,196
+0022300421,341,PT10M13.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,252
+0022300421,405,PT05M21.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,296
+0022300421,433,PT03M10.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,315
+0022300421,532,PT06M55.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,389
+0022300421,539,PT06M29.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,395
+0022300421,577,PT03M07.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,426
+0022300421,618,PT00M04.60S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,460
+0022300421,695,PT00M15.70S,5,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,518
+0022300432,21,PT10M31.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,15
+0022300432,137,PT01M28.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,101
+0022300432,213,PT07M30.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,154
+0022300432,309,PT00M00.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,225
+0022300432,405,PT03M32.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,297
+0022300432,419,PT03M06.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,307
+0022300432,504,PT09M51.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,369
+0022300432,522,PT08M16.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,381
+0022300432,535,PT06M48.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,392
+0022300432,558,PT04M47.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,411
+0022300432,569,PT04M22.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Coach Challenge (Full 3 Short 0),Timeout,Coach Challenge,0,0,417
+0022300432,617,PT00M15.50S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,452
+0022300432,626,PT00M15.50S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,459
+0022300432,638,PT00M13.50S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,1,0,466
+0022300448,116,PT02M24.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,92
+0022300448,193,PT07M03.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,140
+0022300448,285,PT00M00.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,210
+0022300448,343,PT07M26.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,252
+0022300448,459,PT11M12.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,342
+0022300448,547,PT05M17.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,1,0,409
+0022300448,590,PT02M44.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,438
+0022300448,617,PT00M26.30S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,1,0,461
+0022300462,78,PT05M51.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,57
+0022300462,119,PT03M09.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,85
+0022300462,302,PT02M46.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,212
+0022300462,323,PT01M09.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,227
+0022300462,378,PT08M53.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,268
+0022300462,394,PT07M28.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,278
+0022300462,418,PT05M49.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,292
+0022300462,432,PT05M05.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,303
+0022300462,521,PT10M46.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,368
+0022300462,535,PT09M35.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,381
+0022300462,652,PT01M32.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,467
+0022300462,656,PT01M32.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,470
+0022300462,675,PT00M26.10S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,484
+0022300462,703,PT00M02.80S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,502
+0022300462,705,PT00M00.80S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,504
+0022300479,21,PT11M29.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,1,0,15
+0022300479,83,PT06M44.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,60
+0022300479,171,PT01M58.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,103
+0022300479,295,PT03M44.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,230
+0022300479,351,PT10M44.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,270
+0022300479,353,PT10M44.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: 5 Second Violation (T#8),Turnover,5 Second Violation,1,0,271
+0022300479,359,PT10M27.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,276
+0022300479,388,PT08M32.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,305
+0022300479,460,PT03M33.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,356
+0022300479,474,PT02M50.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,366
+0022300479,673,PT02M46.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,514
+0022300479,687,PT01M46.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,525
+0022300479,712,PT00M02.70S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,1,0,546
+0022300493,53,PT07M06.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,45
+0022300493,56,PT07M06.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,47
+0022300493,165,PT00M00.90S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,122
+0022300493,260,PT04M09.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,195
+0022300493,281,PT03M08.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,211
+0022300493,336,PT10M34.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,1,0,251
+0022300493,348,PT09M07.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,260
+0022300493,359,PT08M23.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,270
+0022300493,365,PT08M19.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,273
+0022300493,386,PT06M58.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,289
+0022300493,411,PT05M16.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,1,0,309
+0022300493,430,PT03M52.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,326
+0022300493,439,PT03M14.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,332
+0022300493,454,PT02M35.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,342
+0022300493,467,PT00M47.70S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,353
+0022300493,548,PT08M21.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,405
+0022300493,628,PT02M57.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,470
+0022300493,651,PT01M06.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,489
+0022300493,678,PT00M07.50S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Turnover: Shot Clock (T#18),Turnover,Shot Clock Turnover,1,0,503
+0022300507,133,PT02M10.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,94
+0022300507,218,PT07M35.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,151
+0022300507,247,PT06M49.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,160
+0022300507,242,PT06M45.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,171
+0022300507,260,PT05M56.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,182
+0022300507,371,PT08M51.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,270
+0022300507,442,PT03M43.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,324
+0022300507,495,PT00M02.40S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,361
+0022300507,517,PT11M41.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,372
+0022300507,542,PT09M59.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,392
+0022300507,569,PT07M23.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,414
+0022300507,636,PT02M23.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,463
+0022300507,641,PT01M50.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,468
+0022300507,648,PT00M35.50S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,473
+0022300507,687,PT00M00.10S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,492
+0022300517,72,PT05M58.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,55
+0022300517,126,PT00M31.20S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,93
+0022300517,226,PT05M36.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,164
+0022300517,347,PT06M57.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,254
+0022300517,351,PT06M33.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,259
+0022300517,398,PT03M01.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,290
+0022300517,438,PT00M00.10S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,324
+0022300517,531,PT04M09.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,387
+0022300517,554,PT02M12.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,406
+0022300517,556,PT02M12.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Coach Challenge (Full 4 Short 0),Timeout,Coach Challenge,0,0,407
+0022300517,568,PT00M41.20S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,418
+0022300517,570,PT00M41.20S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,419
+0022300517,583,PT00M08.50S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,428
+0022300517,591,PT00M00.10S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,434
+0022300517,655,PT00M30.90S,5,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,482
+0022300517,656,PT00M30.90S,5,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 8 Short 0),Timeout,Regular,0,0,483
+0022300528,58,PT07M28.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,43
+0022300528,71,PT06M12.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,55
+0022300528,147,PT00M01.70S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,113
+0022300528,187,PT08M56.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,142
+0022300528,248,PT04M16.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,185
+0022300528,282,PT01M48.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,213
+0022300528,304,PT00M28.20S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,230
+0022300528,313,PT00M00.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,235
+0022300528,337,PT10M49.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,245
+0022300528,415,PT04M31.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,304
+0022300528,438,PT02M59.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,319
+0022300528,527,PT00M29.20S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,345
+0022300528,498,PT09M54.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,363
+0022300528,539,PT08M34.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,382
+0022300528,523,PT08M34.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,383
+0022300528,552,PT06M42.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,402
+0022300528,585,PT05M01.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,425
+0022300528,631,PT00M40.90S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,1,0,461
+0022300542,65,PT06M50.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,49
+0022300542,77,PT06M12.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,58
+0022300542,119,PT02M50.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,1,0,90
+0022300542,252,PT05M45.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,182
+0022300542,275,PT04M25.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Coach Challenge (Full 2 Short 0),Timeout,Coach Challenge,0,0,196
+0022300542,298,PT02M40.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,1,0,211
+0022300542,320,PT00M59.70S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,232
+0022300542,404,PT06M43.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,301
+0022300542,406,PT06M43.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,302
+0022300542,475,PT02M02.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,352
+0022300542,540,PT10M17.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,1,0,402
+0022300542,580,PT07M59.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,433
+0022300542,660,PT02M01.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,494
+0022300542,685,PT00M10.50S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,0,0,516
+0022300563,123,PT02M00.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,91
+0022300563,272,PT02M16.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,200
+0022300563,363,PT08M18.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,269
+0022300563,546,PT06M48.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,408
+0022300563,600,PT03M04.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,450
+0022300563,627,PT00M21.30S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,1,0,472
+0022300571,31,PT09M26.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,20
+0022300571,47,PT07M46.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,30
+0022300571,108,PT03M38.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,78
+0022300571,252,PT03M01.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,180
+0022300571,318,PT08M50.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,231
+0022300571,380,PT04M11.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,276
+0022300571,411,PT02M23.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,299
+0022300571,420,PT02M23.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,305
+0022300571,446,PT00M00.90S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,325
+0022300571,449,PT00M00.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,327
+0022300571,524,PT07M24.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,384
+0022300571,536,PT06M30.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,391
+0022300571,549,PT05M41.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,400
+0022300571,552,PT05M41.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: 5 Second Violation (T#12),Turnover,5 Second Violation,1,0,402
+0022300571,622,PT01M40.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,1,0,457
+0022300571,634,PT00M16.90S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,1,0,468
+0022300586,36,PT07M55.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,25
+0022300586,51,PT06M48.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,1,0,36
+0022300586,52,PT06M48.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,37
+0022300586,149,PT11M06.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,103
+0022300586,285,PT00M00.50S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,205
+0022300586,301,PT11M24.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,211
+0022300586,304,PT11M08.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,214
+0022300586,344,PT06M57.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,244
+0022300586,465,PT08M13.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,332
+0022300586,503,PT04M04.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,359
+0022300586,519,PT02M27.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,371
+0022300586,557,PT00M13.40S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,402
+0022300586,560,PT00M04.90S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,403
+0022300611,27,PT10M02.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,21
+0022300611,87,PT06M11.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,68
+0022300611,112,PT03M50.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,85
+0022300611,244,PT05M17.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,180
+0022300611,253,PT05M03.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,186
+0022300611,272,PT03M56.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,198
+0022300611,281,PT03M13.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,205
+0022300611,308,PT01M15.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,1,0,223
+0022300611,325,PT00M03.40S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,235
+0022300611,383,PT08M32.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,277
+0022300611,443,PT02M42.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,322
+0022300611,462,PT02M13.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,1,0,333
+0022300611,474,PT01M33.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,343
+0022300611,489,PT00M00.40S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,357
+0022300611,493,PT00M00.10S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,359
+0022300611,570,PT06M07.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,418
+0022300611,576,PT05M53.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,422
+0022300611,594,PT04M59.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,439
+0022300630,59,PT06M35.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,47
+0022300630,235,PT03M59.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,167
+0022300630,246,PT02M41.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,175
+0022300630,332,PT09M19.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,233
+0022300630,366,PT05M23.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,261
+0022300630,384,PT03M32.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,275
+0022300630,485,PT06M37.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,347
+0022300646,118,PT03M34.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,94
+0022300646,205,PT08M20.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,159
+0022300646,238,PT06M13.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,186
+0022300646,257,PT05M26.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,199
+0022300646,345,PT10M04.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,263
+0022300646,364,PT08M22.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,278
+0022300646,384,PT06M34.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,294
+0022300646,466,PT01M12.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,361
+0022300646,473,PT01M02.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,365
+0022300646,527,PT10M27.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,400
+0022300646,538,PT10M06.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,406
+0022300646,614,PT03M07.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,465
+0022300646,650,PT00M32.40S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,493
+0022300659,21,PT10M46.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,1,0,13
+0022300659,55,PT07M22.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,40
+0022300659,113,PT03M19.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,82
+0022300659,186,PT09M16.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,135
+0022300659,244,PT05M22.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,178
+0022300659,295,PT00M01.60S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,218
+0022300659,307,PT11M33.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,225
+0022300659,309,PT11M33.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,226
+0022300659,388,PT05M23.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,286
+0022300659,503,PT08M08.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,370
+0022300659,512,PT07M52.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,374
+0022300659,544,PT04M06.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,398
+0022300659,596,PT00M17.50S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,436
+0022300670,55,PT07M40.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,39
+0022300670,117,PT03M24.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,83
+0022300670,131,PT02M35.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,92
+0022300670,241,PT06M48.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,173
+0022300670,247,PT06M23.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#3),Turnover,Shot Clock Turnover,1,0,177
+0022300670,391,PT08M07.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,284
+0022300670,543,PT09M22.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,389
+0022300670,580,PT06M14.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,416
+0022300670,622,PT02M50.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,448
+0022300670,633,PT01M40.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: 8 Second Violation (T#11),Turnover,8 Second Violation,0,0,457
+0022300670,661,PT00M11.40S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Coach Challenge (Full 3 Short 0),Timeout,Coach Challenge,0,0,480
+0022300670,669,PT00M03.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,485
+0022300670,671,PT00M03.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,486
+0022300684,72,PT06M44.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,58
+0022300684,290,PT03M47.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,217
+0022300684,299,PT03M28.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,223
+0022300684,301,PT03M17.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,224
+0022300684,335,PT00M00.30S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,251
+0022300684,372,PT09M29.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,278
+0022300684,465,PT02M51.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,344
+0022300684,489,PT00M00.60S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,364
+0022300684,526,PT09M53.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,380
+0022300684,532,PT09M08.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,385
+0022300684,558,PT07M06.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,404
+0022300706,10,PT11M50.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,1,0,5
+0022300706,129,PT02M51.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,103
+0022300706,207,PT08M48.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,166
+0022300706,364,PT07M27.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,281
+0022300706,373,PT06M28.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,288
+0022300706,466,PT00M01.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,355
+0022300706,469,PT00M00.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,357
+0022300706,500,PT10M12.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,376
+0022300706,627,PT00M00.50S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,1,0,476
+0022300729,49,PT07M03.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,35
+0022300729,134,PT01M36.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,94
+0022300729,240,PT06M03.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,171
+0022300729,275,PT02M58.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,199
+0022300729,285,PT02M44.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,204
+0022300729,371,PT07M43.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,276
+0022300729,387,PT06M50.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,289
+0022300729,553,PT05M24.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,417
+0022300729,595,PT02M22.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,449
+0022300743,56,PT07M42.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,40
+0022300743,256,PT05M56.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,192
+0022300743,277,PT04M25.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,212
+0022300743,360,PT10M09.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,278
+0022300743,388,PT08M00.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,303
+0022300743,391,PT08M00.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,305
+0022300743,432,PT05M04.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,332
+0022300743,637,PT00M19.30S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,1,0,475
+0022300743,644,PT00M08.40S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,1,0,481
+0022300759,48,PT07M28.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,35
+0022300759,159,PT09M19.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,114
+0022300759,186,PT07M32.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Turnover: Shot Clock (T#2),Turnover,Shot Clock Turnover,1,0,129
+0022300759,225,PT04M51.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,155
+0022300759,252,PT03M14.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,182
+0022300759,320,PT10M03.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,229
+0022300759,333,PT09M26.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,237
+0022300759,353,PT07M21.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,253
+0022300759,438,PT00M33.80S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,311
+0022300759,469,PT10M21.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,330
+0022300759,479,PT09M44.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,339
+0022300759,529,PT06M09.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,375
+0022300759,569,PT01M20.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,409
+0022300759,570,PT01M20.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,0,0,410
+0022300759,574,PT01M00.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,413
+0022300759,583,PT00M15.70S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,421
+0022300759,596,PT00M04.40S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,430
+0022300771,96,PT02M29.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,68
+0022300771,129,PT00M00.50S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,91
+0022300771,139,PT11M39.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,95
+0022300771,183,PT08M17.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,130
+0022300771,201,PT07M54.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,141
+0022300771,205,PT07M54.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,144
+0022300771,273,PT03M48.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,195
+0022300771,305,PT02M50.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,216
+0022300771,370,PT10M32.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,264
+0022300771,460,PT03M48.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,325
+0022300771,464,PT03M48.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Coach Challenge (Reg.2 Short 0),Timeout,Coach Challenge,0,0,326
+0022300771,471,PT02M48.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,331
+0022300771,532,PT00M00.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,376
+0022300771,554,PT10M22.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,389
+0022300771,568,PT08M54.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,400
+0022300771,652,PT00M15.80S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,1,0,460
+0022300780,86,PT04M18.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,62
+0022300780,93,PT04M00.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,65
+0022300780,140,PT00M08.40S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,1,0,100
+0022300780,245,PT02M51.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,175
+0022300780,321,PT09M04.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,223
+0022300780,351,PT06M15.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,245
+0022300780,434,PT00M25.10S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,309
+0022300780,584,PT06M58.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,353
+0022300780,511,PT06M58.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,354
+0022300780,513,PT06M58.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,356
+0022300780,577,PT00M30.80S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#9),Turnover,Shot Clock Turnover,1,0,405
+0022300780,580,PT00M00.30S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,1,0,408
+0022300797,144,PT01M55.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,109
+0022300797,257,PT06M17.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,181
+0022300797,376,PT07M12.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,271
+0022300797,392,PT05M37.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,287
+0022300797,420,PT04M43.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,308
+0022300797,464,PT01M50.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,1,0,335
+0022300797,484,PT00M00.10S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,352
+0022300797,515,PT09M29.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,372
+0022300797,553,PT06M34.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,401
+0022300797,575,PT04M37.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,416
+0022300797,576,PT04M37.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,1,0,417
+0022300816,96,PT02M17.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,69
+0022300816,288,PT10M04.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,212
+0022300816,346,PT04M22.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Violation: Delay of game Violation,Violation,Delay Of Game,0,0,251
+0022300816,383,PT00M35.60S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,278
+0022300816,395,PT00M00.10S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,286
+0022300816,507,PT03M24.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,371
+0022300816,516,PT02M57.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,377
+0022300836,99,PT03M28.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,80
+0022300836,154,PT00M00.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,117
+0022300836,247,PT05M46.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,181
+0022300836,291,PT01M29.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,214
+0022300836,429,PT03M11.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,320
+0022300836,508,PT08M49.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,378
+0022300836,602,PT02M46.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,444
+0022300859,66,PT06M56.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,51
+0022300859,74,PT06M15.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,57
+0022300859,163,PT00M00.10S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,126
+0022300859,230,PT06M59.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,174
+0022300859,359,PT07M20.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,266
+0022300859,393,PT04M49.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,291
+0022300859,407,PT03M19.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,303
+0022300859,545,PT03M55.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,400
+0022300872,63,PT07M06.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,41
+0022300872,77,PT06M08.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,52
+0022300872,243,PT05M26.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,171
+0022300872,307,PT00M00.20S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,220
+0022300872,350,PT08M22.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,246
+0022300872,364,PT07M16.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,258
+0022300872,455,PT01M02.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,323
+0022300872,612,PT00M08.60S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,0,0,448
+0022300886,50,PT07M36.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,42
+0022300886,52,PT07M36.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,43
+0022300886,62,PT06M26.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,52
+0022300886,175,PT10M36.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,131
+0022300886,227,PT07M01.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,170
+0022300886,313,PT00M00.10S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,239
+0022300886,426,PT02M55.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,322
+0022300886,483,PT10M47.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,356
+0022300886,496,PT10M01.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,367
+0022300886,528,PT06M56.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,393
+0022300886,566,PT04M18.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,418
+0022300886,621,PT00M00.70S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,451
+0022300906,68,PT06M31.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,47
+0022300906,78,PT05M39.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,54
+0022300906,131,PT01M38.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,92
+0022300906,230,PT06M54.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,162
+0022300906,302,PT03M36.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,218
+0022300906,411,PT06M44.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,296
+0022300906,459,PT02M38.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,333
+0022300906,526,PT10M16.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,369
+0022300906,533,PT09M57.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,373
+0022300906,547,PT09M02.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,383
+0022300906,607,PT05M53.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,421
+0022300906,606,PT05M07.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,429
+0022300906,612,PT05M06.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,432
+0022300906,667,PT00M19.80S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,474
+0022300906,681,PT00M09.70S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,483
+0022300906,683,PT00M05.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,485
+0022300920,87,PT05M54.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,67
+0022300920,130,PT02M35.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,98
+0022300920,327,PT09M24.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,246
+0022300920,345,PT08M01.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,258
+0022300920,370,PT05M58.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,276
+0022300920,408,PT03M54.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,303
+0022300920,459,PT00M00.20S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,344
+0022300920,479,PT10M30.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,352
+0022300920,507,PT08M19.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,374
+0022300920,528,PT06M48.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,389
+0022300920,553,PT03M31.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,408
+0022300920,557,PT03M20.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,411
+0022300920,572,PT01M43.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Coach Challenge (Reg.5 Short 0),Timeout,Coach Challenge,0,0,424
+0022300938,32,PT08M46.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,25
+0022300938,58,PT06M58.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,47
+0022300938,107,PT02M52.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,81
+0022300938,141,PT00M39.60S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,101
+0022300938,146,PT00M10.30S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,105
+0022300938,168,PT11M19.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,118
+0022300938,249,PT04M43.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,177
+0022300938,292,PT00M00.20S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,213
+0022300938,363,PT05M46.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,269
+0022300938,377,PT04M29.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,279
+0022300938,390,PT03M31.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,291
+0022300938,433,PT00M38.80S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,322
+0022300938,493,PT08M03.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,358
+0022300938,518,PT06M09.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,377
+0022300938,519,PT06M09.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,378
+0022300943,58,PT07M18.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,37
+0022300943,100,PT04M47.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,68
+0022300943,196,PT08M20.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,136
+0022300943,221,PT05M32.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,157
+0022300943,238,PT04M42.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,168
+0022300943,350,PT07M51.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,246
+0022300943,399,PT04M54.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,283
+0022300943,416,PT03M19.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,296
+0022300943,425,PT02M17.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,304
+0022300943,507,PT08M22.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,359
+0022300943,613,PT00M08.50S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Turnover: Shot Clock (T#9),Turnover,Shot Clock Turnover,0,0,440
+0022300955,64,PT05M46.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,46
+0022300955,142,PT00M00.10S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,104
+0022300955,209,PT07M42.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,145
+0022300955,241,PT04M57.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,170
+0022300955,253,PT04M37.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,1,0,177
+0022300955,262,PT03M50.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,186
+0022300955,283,PT02M59.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,199
+0022300955,371,PT06M48.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#7),Turnover,Shot Clock Turnover,1,0,271
+0022300955,440,PT01M00.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,327
+0022300955,592,PT01M49.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,424
+0022300955,610,PT00M07.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,0,440
+0022300980,125,PT02M31.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,91
+0022300980,140,PT01M28.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,103
+0022300980,263,PT05M42.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,182
+0022300980,291,PT03M50.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,202
+0022300980,301,PT03M13.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,208
+0022300980,392,PT07M56.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,271
+0022300980,454,PT04M00.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,320
+0022300980,485,PT03M09.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,340
+0022300980,578,PT03M09.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Coach Challenge (Reg.2 Short 0),Timeout,Coach Challenge,0,0,341
+0022300980,491,PT02M54.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,344
+0022300980,638,PT03M30.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,1,0,442
+0022300980,666,PT00M20.90S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Turnover: Shot Clock (T#15),Turnover,Shot Clock Turnover,1,0,468
+0022300984,116,PT01M09.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,89
+0022300984,141,PT00M00.10S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,108
+0022300984,218,PT06M24.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,165
+0022300984,318,PT10M14.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,239
+0022300984,400,PT03M03.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,300
+0022300984,410,PT02M06.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,307
+0022300984,439,PT00M00.10S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,328
+0022300984,464,PT10M31.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,344
+0022300984,465,PT10M31.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#7),Turnover,Shot Clock Turnover,1,0,345
+0022300984,506,PT06M38.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,379
+0022300984,509,PT06M38.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,380
+0022300984,586,PT00M18.20S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,1,0,436
+0022300998,93,PT03M57.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,70
+0022300998,112,PT02M48.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,84
+0022300998,128,PT01M33.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,95
+0022300998,221,PT05M31.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,160
+0022300998,230,PT05M01.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,167
+0022300998,340,PT08M53.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,240
+0022300998,351,PT08M01.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,249
+0022300998,390,PT04M55.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,279
+0022300998,486,PT09M25.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,345
+0022300998,492,PT09M00.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,350
+0022300998,549,PT04M19.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,392
+0022300998,569,PT03M06.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,407
+0022300998,631,PT00M07.50S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,453
+0022301011,95,PT04M13.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,72
+0022301011,117,PT02M43.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,86
+0022301011,122,PT02M42.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,1,0,89
+0022301011,183,PT09M16.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,129
+0022301011,246,PT05M49.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,176
+0022301011,258,PT04M55.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,185
+0022301011,276,PT03M43.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,1,0,198
+0022301011,332,PT00M29.50S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Violation: Delay of game Violation,Violation,Delay Of Game,0,0,239
+0022301011,334,PT00M02.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,242
+0022301011,356,PT09M57.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,255
+0022301011,418,PT04M57.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,301
+0022301011,437,PT04M31.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,1,0,313
+0022301011,456,PT02M54.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,328
+0022301011,542,PT07M38.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,391
+0022301023,14,PT11M07.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,9
+0022301023,32,PT09M38.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,24
+0022301023,65,PT07M16.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,50
+0022301023,90,PT04M13.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,69
+0022301023,290,PT00M00.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,197
+0022301023,349,PT07M03.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,243
+0022301023,430,PT01M07.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Violation: Delay of game Violation,Violation,Delay Of Game,0,0,303
+0022301023,473,PT10M18.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,328
+0022301023,525,PT04M59.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,367
+0022301023,545,PT02M15.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,383
+0022301023,564,PT00M54.20S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Coach Challenge (Reg.3 Short 0),Timeout,Coach Challenge,0,0,397
+0022301023,566,PT00M46.50S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,399
+0022301034,58,PT07M33.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,44
+0022301034,108,PT03M18.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,80
+0022301034,112,PT03M01.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,83
+0022301034,137,PT01M19.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,96
+0022301034,173,PT10M27.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,122
+0022301034,219,PT07M15.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,1,0,152
+0022301034,221,PT07M15.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,1,0,154
+0022301034,269,PT03M55.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,191
+0022301034,275,PT03M49.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,195
+0022301034,318,PT00M00.10S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,231
+0022301034,365,PT07M52.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,265
+0022301034,414,PT04M07.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,304
+0022301034,480,PT11M36.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,344
+0022301034,481,PT11M36.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Turnover: Shot Clock (T#7),Turnover,Shot Clock Turnover,1,0,345
+0022301034,503,PT08M26.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Turnover: 8 Second Violation (T#8),Turnover,8 Second Violation,1,0,361
+0022301034,511,PT08M15.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,366
+0022301034,519,PT07M47.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,372
+0022301034,585,PT03M03.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,424
+0022301034,620,PT00M09.20S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,451
+0022301060,75,PT05M39.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,58
+0022301060,91,PT04M25.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,69
+0022301060,93,PT04M25.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,70
+0022301060,209,PT07M38.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,154
+0022301060,235,PT06M44.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Violation: Delay of game Violation,Violation,Delay Of Game,0,0,171
+0022301060,314,PT00M00.10S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,236
+0022301060,335,PT10M27.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,251
+0022301060,436,PT02M41.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,328
+0022301060,440,PT02M41.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,331
+0022301060,524,PT06M42.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,391
+0022301060,595,PT00M26.70S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,447
+0022301060,601,PT00M00.10S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,451
+0022301060,638,PT01M44.00S,5,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,477
+0022301060,657,PT00M13.90S,5,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,490
+0022301060,664,PT00M00.10S,5,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,495
+0022301074,67,PT05M53.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,54
+0022301074,118,PT02M05.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Violation: Delay of game Violation,Violation,Delay Of Game,0,0,86
+0022301074,183,PT09M05.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,129
+0022301074,212,PT07M41.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,145
+0022301074,260,PT03M59.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,183
+0022301074,270,PT03M30.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,190
+0022301074,313,PT03M30.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Coach Challenge (Reg.2 Short 0),Timeout,Coach Challenge,0,0,191
+0022301074,302,PT00M36.60S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Delay,Foul,Delay Technical,1,0,214
+0022301074,311,PT00M03.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,221
+0022301074,372,PT07M01.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,266
+0022301074,458,PT00M00.10S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,334
+0022301074,486,PT09M54.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,350
+0022301074,528,PT07M05.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,381
+0022301074,592,PT01M45.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,426
+0022301074,610,PT00M30.20S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Turnover: 8 Second Violation (T#13),Turnover,8 Second Violation,1,0,437
+0022301087,109,PT02M49.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,80
+0022301087,239,PT04M52.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,175
+0022301087,243,PT04M52.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,177
+0022301087,379,PT04M24.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,276
+0022301087,395,PT02M53.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,287
+0022301087,424,PT01M05.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,308
+0022301087,487,PT08M05.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,353
+0022301087,538,PT03M52.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,387
+0022301087,543,PT03M25.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,391
+0022301087,550,PT02M47.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,397
+0022301087,595,PT00M02.70S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,0,0,428
+0022301105,53,PT06M24.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,41
+0022301105,92,PT04M13.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,69
+0022301105,154,PT00M00.10S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,118
+0022301105,281,PT02M35.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,209
+0022301105,294,PT02M05.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,218
+0022301105,296,PT02M05.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Coach Challenge (Full 2 Short 0),Timeout,Coach Challenge,0,0,219
+0022301105,336,PT00M00.10S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,248
+0022301105,372,PT09M37.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,273
+0022301105,535,PT11M04.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,384
+0022301105,615,PT03M35.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,444
+0022301105,643,PT02M11.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,463
+0022301105,660,PT00M06.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,1,0,476
+0022301118,41,PT08M29.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,35
+0022301118,65,PT06M31.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,55
+0022301118,143,PT00M34.50S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Coach Challenge (Full 1 Short 0),Timeout,Coach Challenge,0,0,107
+0022301118,263,PT03M29.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,192
+0022301118,291,PT00M28.50S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,210
+0022301118,340,PT08M50.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,244
+0022301118,344,PT08M50.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,246
+0022301118,413,PT03M07.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,298
+0022301118,442,PT01M04.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,321
+0022301118,532,PT06M28.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,385
+0022301118,563,PT04M09.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,411
+0022301118,564,PT04M09.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,0,0,412
+0022301118,583,PT02M58.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,425
+0022301118,592,PT02M13.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,432
+0022301134,83,PT05M02.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,70
+0022301134,135,PT01M03.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,107
+0022301134,272,PT02M59.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,203
+0022301134,303,PT01M29.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,223
+0022301134,328,PT00M00.10S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,239
+0022301134,341,PT11M37.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,249
+0022301134,443,PT02M32.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,324
+0022301134,471,PT00M00.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,345
+0022301134,615,PT00M10.30S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,0,0,447
+0022301148,109,PT04M09.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,62
+0022301148,105,PT02M09.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,77
+0022301148,159,PT10M32.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,112
+0022301148,187,PT08M02.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,133
+0022301148,288,PT00M35.70S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,205
+0022301148,334,PT07M59.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,240
+0022301148,338,PT07M41.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,243
+0022301148,524,PT02M20.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,380
+0022301167,70,PT06M19.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,48
+0022301167,175,PT10M28.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,123
+0022301167,251,PT05M21.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,180
+0022301167,325,PT01M03.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,231
+0022301167,389,PT06M43.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,288
+0022301167,397,PT05M59.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,294
+0022301167,586,PT01M09.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,436
+0022301173,53,PT06M46.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,39
+0022301173,177,PT09M35.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,1,0,129
+0022301173,187,PT09M03.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,1,0,136
+0022301173,285,PT00M58.60S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,208
+0022301173,319,PT10M54.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,226
+0022301173,367,PT06M03.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,260
+0022301173,378,PT05M30.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,267
+0022301173,390,PT04M34.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,277
+0022301173,483,PT10M36.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,344
+0022301173,519,PT07M17.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,373
+0022301173,553,PT05M30.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,394
+0022301173,555,PT05M30.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,395
+0022301186,70,PT07M20.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,54
+0022301186,148,PT01M20.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,108
+0022301186,150,PT01M20.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,109
+0022301186,228,PT09M06.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,161
+0022301186,304,PT03M11.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,214
+0022301186,364,PT11M01.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,258
+0022301186,469,PT01M24.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,1,0,336
+0022301186,549,PT08M24.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,391
+0022301186,579,PT06M55.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,414
+0022301186,631,PT02M43.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,454
+0022301186,664,PT02M19.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,0,0,459
+0022301186,636,PT02M19.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#16),Turnover,Shot Clock Turnover,1,0,460
+0022301186,657,PT00M15.60S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#17),Turnover,Shot Clock Turnover,1,0,474
+0022301202,31,PT09M36.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Normal Rebound,0,0,21
+0022301202,55,PT07M12.00S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,44
+0022301202,154,PT00M17.80S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,120
+0022301202,155,PT00M17.80S,1,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,1,0,121
+0022301202,179,PT09M53.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,139
+0022301202,251,PT05M27.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,191
+0022301202,276,PT03M50.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,209
+0022301202,293,PT02M04.00S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,224
+0022301202,322,PT00M00.40S,2,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,244
+0022301202,367,PT07M51.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,277
+0022301202,376,PT07M19.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,0,0,282
+0022301202,461,PT01M34.00S,3,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,345
+0022301202,506,PT10M31.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,375
+0022301202,509,PT10M15.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Rebound,Rebound,Unknown,1,0,377
+0022301202,532,PT08M28.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,393
+0022301202,583,PT03M21.00S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,428
+0022301202,616,PT00M44.40S,4,0,,1610612738,,,0,0,0,,0,,,0,v,Celtics Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,449
+0022301227,8,PT11M43.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,4
+0022301227,29,PT09M12.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,18
+0022301227,99,PT04M37.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,75
+0022301227,113,PT03M18.00S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,87
+0022301227,147,PT00M16.50S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,113
+0022301227,148,PT00M16.50S,1,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Turnover: Shot Clock (T#4),Turnover,Shot Clock Turnover,1,0,114
+0022301227,206,PT06M41.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,156
+0022301227,284,PT02M44.00S,2,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,211
+0022301227,353,PT09M05.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Rebound,Rebound,Unknown,1,0,263
+0022301227,444,PT02M12.00S,3,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,328
+0022301227,547,PT07M14.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,398
+0022301227,585,PT03M13.00S,4,0,,1610612738,,,0,0,0,,0,,,0,h,CELTICS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,432

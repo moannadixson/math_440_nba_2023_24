@@ -1,0 +1,677 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300018,136,PT00M59.30S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,99
+0022300018,137,PT00M56.70S,1,1610612737,ATL,1629726,Mathews,G. Mathews,165,218,27,Made,1,27,34,61,v,Mathews 27' 3PT Running Jump Shot (3 PTS) (Bey 1 AST),Made Shot,Running Jump Shot,1,3,100
+0022300055,651,PT03M24.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,477
+0022300055,659,PT03M09.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,-223,20,0,Missed,1,,,0,v,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,1,3,483
+0022300135,152,PT00M54.60S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews P.FOUL (P1.T3) (K.Cutler),Foul,Personal,1,0,118
+0022300155,186,PT10M44.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,132
+0022300155,213,PT08M35.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-185,225,29,Missed,1,,,0,v,MISS Mathews 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,155
+0022300155,221,PT08M01.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-240,16,24,Missed,1,,,0,v,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,163
+0022300155,226,PT07M53.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Murray FOR Mathews,Substitution,,0,0,168
+0022300241,460,PT03M01.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,44,277,28,Made,1,72,97,169,v,Mathews 28' 3PT Jump Shot (3 PTS) (Young 9 AST),Made Shot,Jump Shot,1,3,336
+0022300241,465,PT02M35.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,340
+0022300241,551,PT08M44.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,-188,174,26,Made,1,82,118,200,v,Mathews 26' 3PT Jump Shot (6 PTS) (Forrest 1 AST),Made Shot,Jump Shot,1,3,401
+0022300241,569,PT07M23.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,416
+0022300241,585,PT05M47.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,142,221,26,Missed,1,,,0,v,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,427
+0022300241,606,PT04M08.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P1.T3) (P.Fraher),Foul,Shooting,1,0,445
+0022300241,613,PT03M35.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,451
+0022300272,94,PT05M41.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,136,242,28,Made,1,24,16,40,v,Mathews 28' 3PT Jump Shot (3 PTS) (Bogdanovic 1 AST),Made Shot,Jump Shot,1,3,71
+0022300272,97,PT05M24.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,73
+0022300272,100,PT05M00.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews STEAL (1 STL),,,1,0,77
+0022300272,129,PT03M06.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-234,20,0,Missed,1,,,0,v,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,1,3,96
+0022300272,135,PT03M02.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Young FOR Mathews,Substitution,,0,0,101
+0022300272,468,PT02M43.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,-179,205,27,Missed,1,,,0,v,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,342
+0022300272,518,PT11M42.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P1.T1) (G.Petraitis),Foul,Shooting,1,0,377
+0022300272,551,PT09M18.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,162,228,28,Missed,1,,,0,v,MISS Mathews 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,402
+0022300272,560,PT08M43.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Murray FOR Mathews,Substitution,,0,0,408
+0022300286,126,PT02M13.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Young FOR Mathews,Substitution,,0,0,88
+0022300286,433,PT01M28.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P1.PN) (S.Twardoski),Foul,Shooting,1,0,332
+0022300286,445,PT01M03.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,339
+0022300286,446,PT01M03.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews Out of Bounds Lost Ball Turnover (P1.T8),Turnover,Out of Bounds Lost Ball Turnover,1,0,340
+0022300296,59,PT07M07.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,188,159,25,Missed,1,,,0,h,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,44
+0022300296,83,PT05M12.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Okongwu FOR Mathews,Substitution,,0,0,61
+0022300296,194,PT08M06.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews STEAL (1 STL),,,1,0,137
+0022300296,196,PT08M02.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,105,244,27,Made,1,47,39,86,h,Mathews 27' 3PT Pullup Jump Shot (3 PTS) (Okongwu 2 AST),Made Shot,Pullup Jump shot,1,3,138
+0022300296,222,PT06M32.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,196,162,25,Missed,1,,,0,h,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,153
+0022300296,232,PT05M53.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,161
+0022300296,323,PT11M44.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,229,42,0,Missed,1,,,0,h,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,1,3,224
+0022300296,335,PT10M05.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,HAWKS T.Foul (Def. 3 Sec Mathews ) (B.Taylor),Foul,Defense 3 Second,1,0,234
+0022300296,359,PT08M11.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P1.T3) (B.Taylor),Foul,Shooting,1,0,253
+0022300296,387,PT06M36.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,156,203,26,Missed,1,,,0,h,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,276
+0022300296,405,PT05M03.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Matthews FOR Mathews,Substitution,,0,0,291
+0022300313,124,PT03M02.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,183,226,29,Made,1,29,28,57,v,Mathews 29' 3PT Jump Shot (3 PTS) (Young 7 AST),Made Shot,Jump Shot,1,3,85
+0022300313,139,PT01M54.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews STEAL (1 STL),,,1,0,96
+0022300313,179,PT10M14.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-222,22,0,Made,1,36,47,83,v,Mathews 3PT Jump Shot (6 PTS) (Young 8 AST),Made Shot,Jump Shot,1,3,127
+0022300313,214,PT07M49.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P1.T1) (D.Richardson),Foul,Shooting,1,0,149
+0022300313,227,PT07M16.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,160
+0022300313,251,PT05M40.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Young FOR Mathews,Substitution,,0,0,177
+0022300313,487,PT00M28.50S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,349
+0022300313,507,PT11M08.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews P.FOUL (P2.T1) (D.Richardson),Foul,Personal,1,0,363
+0022300313,509,PT11M08.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Matthews FOR Mathews,Substitution,,0,0,364
+0022300330,142,PT00M49.20S,1,1610612737,ATL,1629726,Mathews,G. Mathews,229,30,0,Made,1,22,23,45,v,Mathews 3PT Step Back Jump Shot (3 PTS) (Bey 3 AST),Made Shot,Step Back Jump shot,1,3,101
+0022300330,205,PT08M13.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Capela FOR Mathews,Substitution,,0,0,148
+0022300330,435,PT03M50.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,6,268,27,Made,1,69,83,152,v,Mathews 27' 3PT Jump Shot (6 PTS) (Forrest 3 AST),Made Shot,Jump Shot,1,3,315
+0022300330,466,PT01M17.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,338
+0022300330,471,PT00M52.40S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P1.PN) (M.Kogut),Foul,Shooting,1,0,344
+0022300330,489,PT11M49.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews STEAL (1 STL),,,1,0,356
+0022300330,503,PT10M43.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews L.B.FOUL (P2.T2) (B.Adair),Foul,Loose Ball,1,0,367
+0022300330,519,PT09M14.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Capela FOR Mathews,Substitution,,0,0,378
+0022300336,101,PT03M33.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,223,131,26,Made,1,32,17,49,v,Mathews 26' 3PT Jump Shot (3 PTS) (Young 1 AST),Made Shot,Jump Shot,1,3,69
+0022300336,140,PT01M24.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews AWAY.FROM.PLAY.FOUL (P1.T4) (R.Mott),Foul,Away From Play,1,0,98
+0022300336,179,PT11M14.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews L.B.FOUL (P2.T1) (E.Dalen),Foul,Loose Ball,1,0,125
+0022300336,218,PT07M48.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-153,232,28,Made,1,54,35,89,v,Mathews 28' 3PT Jump Shot (6 PTS) (Mills 2 AST),Made Shot,Jump Shot,1,3,151
+0022300336,241,PT06M29.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Hunter FOR Mathews,Substitution,,0,0,169
+0022300336,447,PT03M31.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews Traveling Turnover (P1.T9),Turnover,Traveling,1,0,323
+0022300336,469,PT01M39.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews P.FOUL (P3.T4) (T.Ricks),Foul,Personal,1,0,339
+0022300336,478,PT00M07.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P4.PN) (T.Ricks),Foul,Shooting,1,0,346
+0022300336,493,PT00M01.50S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Okongwu FOR Mathews,Substitution,,0,0,356
+0022300352,79,PT05M17.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews BLOCK (1 BLK),,,1,3,60
+0022300352,83,PT04M53.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-185,171,25,Missed,1,,,0,h,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,63
+0022300352,87,PT04M49.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P1.T3) (M.Kallio),Foul,Shooting,1,0,66
+0022300352,94,PT04M44.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,70
+0022300352,95,PT04M27.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,11,252,25,Missed,1,,,0,h,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,71
+0022300352,107,PT03M49.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews L.B.FOUL (P2.T4) (M.Davis),Foul,Loose Ball,1,0,77
+0022300352,133,PT02M15.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-164,192,25,Made,1,28,18,46,h,Mathews 25' 3PT Jump Shot (3 PTS) (Young 2 AST),Made Shot,Jump Shot,1,3,94
+0022300352,137,PT02M15.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,MISS Mathews Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,96
+0022300352,139,PT02M07.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,71,247,26,Made,1,31,18,49,h,Mathews 26' 3PT Jump Shot (6 PTS) (Young 3 AST),Made Shot,Jump Shot,1,3,98
+0022300352,170,PT00M29.70S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews BLOCK (2 BLK),,,1,2,120
+0022300352,181,PT00M14.60S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Hunter FOR Mathews,Substitution,,0,0,126
+0022300352,267,PT06M51.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,185
+0022300352,284,PT04M40.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Young FOR Mathews,Substitution,,0,0,199
+0022300352,447,PT04M37.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews P.FOUL (P3.T4) (M.Davis),Foul,Personal,1,0,319
+0022300352,454,PT04M12.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,323
+0022300352,506,PT00M29.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,361
+0022300352,532,PT10M39.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,93,238,26,Missed,1,,,0,h,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,381
+0022300352,548,PT09M35.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P4.T2) (M.Kallio),Foul,Shooting,1,0,392
+0022300352,554,PT08M39.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews Traveling Turnover (P2.T14),Turnover,Traveling,1,0,396
+0022300352,556,PT08M32.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P5.T3) (M.Davis),Foul,Shooting,1,0,398
+0022300352,559,PT08M32.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Hunter FOR Mathews,Substitution,,0,0,400
+0022300371,117,PT03M31.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,87
+0022300371,118,PT03M12.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-207,151,26,Missed,1,,,0,v,MISS Mathews 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,88
+0022300371,173,PT11M06.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews P.FOUL (P1.T1) (N.Buchert),Foul,Personal,1,0,125
+0022300371,198,PT09M05.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-225,-11,0,Made,1,33,49,82,v,Mathews 3PT Jump Shot (3 PTS) (Okongwu 1 AST),Made Shot,Jump Shot,1,3,144
+0022300371,221,PT07M36.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,159
+0022300371,226,PT07M35.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Capela FOR Mathews,Substitution,,0,0,163
+0022300371,477,PT01M57.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,-228,38,0,Missed,1,,,0,v,MISS Mathews 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,345
+0022300371,515,PT11M39.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,-194,165,25,Made,1,100,101,201,v,Mathews 25' 3PT Jump Shot (6 PTS) (Young 7 AST),Made Shot,Jump Shot,1,3,371
+0022300371,547,PT08M57.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Murray FOR Mathews,Substitution,,0,0,391
+0022300384,10,PT11M14.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,224,1,0,Missed,1,,,0,v,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,1,3,6
+0022300384,25,PT09M24.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,222,-13,0,Missed,1,,,0,v,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,1,3,18
+0022300384,30,PT08M42.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Hawks T.Foul (Def. 3 Sec Mathews ) (B.Barnaky),Foul,Defense 3 Second,1,0,22
+0022300384,34,PT08M33.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P1.T1) (B.Barnaky),Foul,Shooting,1,0,25
+0022300384,62,PT06M28.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Okongwu FOR Mathews,Substitution,,0,0,50
+0022300384,201,PT08M15.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Mills FOR Mathews,Substitution,,0,0,150
+0022300384,358,PT08M12.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews P.FOUL (P2.T3) (S.Foster),Foul,Personal,1,0,264
+0022300384,369,PT07M34.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P3.T4) (B.Barnaky),Foul,Shooting,1,0,272
+0022300384,383,PT06M35.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,284
+0022300384,527,PT10M45.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,386
+0022300384,535,PT09M56.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews P.FOUL (P4.T2) (S.Foster),Foul,Personal,1,0,392
+0022300384,541,PT09M35.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,-211,150,26,Missed,1,,,0,v,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,395
+0022300384,564,PT08M15.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,413
+0022300393,22,PT10M15.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews P.FOUL (P1.T1) (J.Conley),Foul,Personal,1,0,15
+0022300393,32,PT09M02.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,22
+0022300393,54,PT06M43.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews STEAL (1 STL),,,1,0,39
+0022300393,58,PT06M24.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews P.FOUL (P2.T2) (C.Blair),Foul,Personal,1,0,42
+0022300393,77,PT04M44.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,235,25,24,Missed,1,,,0,h,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,55
+0022300393,89,PT04M23.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Lundy FOR Mathews,Substitution,,0,0,66
+0022300393,197,PT08M33.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,42,48,6,Missed,1,,,0,h,MISS Mathews 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,143
+0022300393,221,PT07M20.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,163
+0022300393,362,PT11M29.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews AWAY.FROM.PLAY.FOUL (P3.T1) (C.Blair),Foul,Away From Play,1,0,272
+0022300393,377,PT09M54.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,163,205,26,Missed,1,,,0,h,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,283
+0022300393,411,PT06M48.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,308
+0022300408,104,PT04M08.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,81
+0022300408,110,PT03M26.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,50,259,26,Made,1,18,12,30,v,Mathews 26' 3PT Jump Shot (3 PTS) (Matthews 1 AST),Made Shot,Jump Shot,1,3,86
+0022300408,120,PT02M30.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P1.T4) (E.Malloy),Foul,Shooting,1,0,94
+0022300408,177,PT09M15.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P2.T1) (G.Petraitis),Foul,Shooting,1,0,136
+0022300408,182,PT09M15.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Murray FOR Mathews,Substitution,,0,0,139
+0022300408,478,PT01M13.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews P.FOUL (P3.PN) (E.Malloy),Foul,Personal,1,0,358
+0022300408,486,PT00M36.30S,3,1610612737,ATL,1629726,Mathews,G. Mathews,229,-42,0,Made,1,83,85,168,v,Mathews 3PT Jump Shot (6 PTS) (Young 11 AST),Made Shot,Jump Shot,1,3,364
+0022300408,520,PT09M11.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Murray FOR Mathews,Substitution,,0,0,386
+0022300431,86,PT05M36.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-2,253,25,Made,1,24,8,32,h,Mathews 25' 3PT Jump Shot (3 PTS) (Capela 1 AST),Made Shot,Jump Shot,1,3,61
+0022300431,99,PT04M52.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews STEAL (1 STL),,,1,0,71
+0022300431,135,PT02M25.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P1.T1) (P.O'Connell),Foul,Shooting,1,0,101
+0022300431,155,PT00M57.10S,1,1610612737,ATL,1629726,Mathews,G. Mathews,100,236,26,Missed,1,,,0,h,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,116
+0022300431,160,PT00M55.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Mills FOR Mathews,Substitution,,0,0,120
+0022300431,437,PT05M00.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,323
+0022300431,449,PT04M20.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Young FOR Mathews,Substitution,,0,0,333
+0022300445,151,PT01M32.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews P.FOUL (P1.T2) (K.Cutler),Foul,Personal,1,0,115
+0022300445,169,PT00M20.90S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews BLOCK (1 BLK),,,1,3,129
+0022300445,228,PT07M41.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,171
+0022300445,245,PT06M59.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Murray FOR Mathews,Substitution,,0,0,184
+0022300445,555,PT07M26.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,419
+0022300445,573,PT06M32.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bey FOR Mathews,Substitution,,0,0,427
+0022300467,185,PT00M04.50S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Forrest FOR Mathews,Substitution,,0,0,138
+0022300467,207,PT10M53.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-233,-4,0,Made,1,42,28,70,h,Mathews 3PT Jump Shot (3 PTS) (Bogdanovic 2 AST),Made Shot,Jump Shot,1,3,148
+0022300467,210,PT10M17.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,150
+0022300467,234,PT08M13.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,238,46,24,Missed,1,,,0,h,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,169
+0022300467,246,PT07M34.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bey FOR Mathews,Substitution,,0,0,179
+0022300467,441,PT06M45.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,-10,-4,1,Made,1,93,80,173,h,Mathews 1' Running Layup (5 PTS) (Young 7 AST),Made Shot,Running Layup Shot,1,2,319
+0022300467,451,PT06M45.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,MISS Mathews Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,324
+0022300467,454,PT06M31.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P1.T3) (Z.Zarba),Foul,Shooting,1,0,327
+0022300467,463,PT06M06.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Forrest FOR Mathews,Substitution,,0,0,334
+0022300467,608,PT06M48.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bey FOR Mathews,Substitution,,0,0,435
+0022300480,158,PT01M10.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-227,68,24,Made,1,33,21,54,v,Mathews 24' 3PT Jump Shot (3 PTS) (Bogdanovic 2 AST),Made Shot,Jump Shot,1,3,115
+0022300480,189,PT11M02.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,137
+0022300480,190,PT10M59.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,49,278,28,Missed,1,,,0,v,MISS Mathews 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,138
+0022300480,220,PT08M46.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews P.FOUL (P1.T2) (T.Ford),Foul,Personal,1,0,160
+0022300480,240,PT07M26.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Forrest FOR Mathews,Substitution,,0,0,174
+0022300480,481,PT02M06.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,229,15,0,Made,1,109,77,186,v,Mathews 3PT Jump Shot (6 PTS) (Johnson 2 AST),Made Shot,Jump Shot,1,3,346
+0022300480,499,PT00M51.70S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,358
+0022300480,638,PT03M38.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,450
+0022300480,641,PT03M15.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,453
+0022300499,153,PT00M35.40S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Murray FOR Mathews,Substitution,,0,0,109
+0022300543,139,PT01M27.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,105
+0022300543,140,PT01M20.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-145,236,28,Made,1,22,27,49,h,Mathews 28' 3PT Jump Shot (3 PTS) (Young 2 AST),Made Shot,Jump Shot,1,3,106
+0022300543,184,PT10M10.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews Backcourt Turnover (P1.T3),Turnover,Backcourt Turnover,1,0,142
+0022300543,210,PT08M35.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Forrest FOR Mathews,Substitution,,0,0,164
+0022300543,486,PT02M02.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,222,65,0,Made,1,69,89,158,h,Mathews 3PT Jump Shot (6 PTS) (Johnson 3 AST),Made Shot,Jump Shot,1,3,373
+0022300543,502,PT00M12.40S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P1.PN) (S.Mehta),Foul,Shooting,1,0,385
+0022300543,506,PT00M01.90S,3,1610612737,ATL,1629726,Mathews,G. Mathews,-28,274,28,Missed,1,,,0,h,MISS Mathews 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,388
+0022300543,515,PT11M36.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,396
+0022300543,527,PT10M20.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,MISS Mathews Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,406
+0022300543,529,PT10M20.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,MISS Mathews Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,408
+0022300543,533,PT09M51.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,-130,228,26,Missed,1,,,0,h,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,412
+0022300543,538,PT09M44.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Murray FOR Mathews,Substitution,,0,0,416
+0022300543,662,PT03M10.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,-142,158,21,Made,1,96,121,217,h,Mathews 21' Step Back Jump Shot (8 PTS) (Forrest 1 AST),Made Shot,Step Back Jump shot,1,2,506
+0022300543,698,PT01M26.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,191,158,25,Missed,1,,,0,h,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,536
+0022300559,128,PT03M27.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-70,241,25,Made,1,21,10,31,h,Mathews 25' 3PT Jump Shot (3 PTS) (Johnson 4 AST),Made Shot,Jump Shot,1,3,96
+0022300559,228,PT08M01.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bey FOR Mathews,Substitution,,0,0,173
+0022300559,535,PT11M24.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,-230,0,0,Missed,1,,,0,h,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,1,3,403
+0022300559,543,PT10M31.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,-234,78,25,Missed,1,,,0,h,MISS Mathews 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,409
+0022300559,549,PT09M55.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,116,223,25,Made,1,90,70,160,h,Mathews 25' 3PT Jump Shot (6 PTS) (Young 10 AST),Made Shot,Jump Shot,1,3,414
+0022300559,561,PT09M15.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bey FOR Mathews,Substitution,,0,0,423
+0022300570,99,PT03M42.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,77
+0022300570,104,PT03M17.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,82
+0022300570,105,PT03M15.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,83
+0022300570,130,PT02M13.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,103
+0022300570,204,PT08M01.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews Backcourt Turnover (P2.T10),Turnover,Backcourt Turnover,1,0,156
+0022300570,205,PT07M50.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P1.T1) (K.Lane),Foul,Shooting,1,0,157
+0022300570,208,PT07M50.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Capela FOR Mathews,Substitution,,0,0,159
+0022300570,436,PT01M27.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews STEAL (1 STL),,,1,0,330
+0022300570,438,PT01M20.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,-227,19,0,Made,1,77,73,150,h,Mathews 3PT Jump Shot (3 PTS) (Johnson 3 AST),Made Shot,Jump Shot,1,3,331
+0022300570,468,PT10M41.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,86,251,27,Missed,1,,,0,h,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,355
+0022300570,469,PT10M37.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,356
+0022300570,470,PT10M37.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,7,251,25,Made,1,81,81,162,h,Mathews 25' 3PT Jump Shot (6 PTS),Made Shot,Jump Shot,1,3,357
+0022300570,481,PT09M32.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Murray FOR Mathews,Substitution,,0,0,365
+0022300587,144,PT01M13.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P1.T3) (M.Ervin),Foul,Shooting,1,0,115
+0022300587,149,PT00M54.80S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-239,112,26,Made,1,24,29,53,v,Mathews 26' 3PT Jump Shot (3 PTS) (Forrest 1 AST),Made Shot,Jump Shot,1,3,119
+0022300587,236,PT06M11.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,177
+0022300587,283,PT04M49.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Capela FOR Mathews,Substitution,,0,0,191
+0022300587,389,PT06M05.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,278
+0022300587,422,PT03M39.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,245,43,25,Missed,1,,,0,v,MISS Mathews 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,304
+0022300587,440,PT03M09.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews Out of Bounds Lost Ball Turnover (P1.T10),Turnover,Out of Bounds Lost Ball Turnover,1,0,317
+0022300587,445,PT02M45.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,-6,22,2,Missed,1,,,0,v,MISS Mathews 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,320
+0022300587,469,PT00M12.70S,3,1610612737,ATL,1629726,Mathews,G. Mathews,-208,138,25,Made,1,83,81,164,v,Mathews 25' 3PT Jump Shot (6 PTS) (Murray 8 AST),Made Shot,Jump Shot,1,3,340
+0022300587,523,PT07M55.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,376
+0022300587,527,PT07M24.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews P.FOUL (P2.T2) (M.Ervin),Foul,Personal,1,0,380
+0022300587,535,PT07M01.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,-200,135,24,Made,1,91,92,183,v,Mathews 24' 3PT Jump Shot (9 PTS) (Mills 2 AST),Made Shot,Jump Shot,1,3,385
+0022300587,565,PT04M38.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Capela FOR Mathews,Substitution,,0,0,408
+0022300595,186,PT09M52.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,131,226,26,Missed,1,,,0,h,MISS Mathews 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,142
+0022300595,195,PT08M36.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-170,195,26,Missed,1,,,0,h,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,151
+0022300595,217,PT07M15.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,167
+0022300595,238,PT05M29.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Young FOR Mathews,Substitution,,0,0,183
+0022300595,539,PT08M34.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,-130,230,26,Made,1,80,102,182,h,Mathews 26' 3PT Jump Shot (3 PTS) (Okongwu 2 AST),Made Shot,Jump Shot,1,3,393
+0022300595,543,PT08M34.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,81,102,183,h,Mathews Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,1,0,395
+0022300595,568,PT05M55.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bey FOR Mathews,Substitution,,0,0,415
+0022300595,633,PT00M47.60S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,460
+0022300613,66,PT06M41.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P1.T1) (D.Scott),Foul,Shooting,1,0,53
+0022300613,156,PT00M21.40S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Murray FOR Mathews,Substitution,,0,0,124
+0022300613,246,PT05M30.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,194,183,27,Missed,1,,,0,v,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,189
+0022300613,264,PT04M02.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Johnson FOR Mathews,Substitution,,0,0,206
+0022300613,419,PT04M29.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P2.T2) (D.Scott),Foul,Shooting,1,0,323
+0022300613,463,PT02M00.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,354
+0022300613,485,PT00M10.40S,3,1610612737,ATL,1629726,Mathews,G. Mathews,-222,113,25,Made,1,87,69,156,v,Mathews 25' 3PT Jump Shot (3 PTS) (Mills 2 AST),Made Shot,Jump Shot,1,3,371
+0022300613,501,PT11M29.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,379
+0022300613,509,PT10M32.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P3.T1) (J.Orr),Foul,Shooting,1,0,385
+0022300613,536,PT09M14.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,-208,135,25,Missed,1,,,0,v,MISS Mathews 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,406
+0022300613,554,PT08M13.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,420
+0022300613,556,PT08M11.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P4.T3) (S.Foster),Foul,Shooting,1,0,422
+0022300613,564,PT07M25.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,235,29,24,Made,1,99,86,185,v,Mathews 24' 3PT Jump Shot (6 PTS) (Okongwu 1 AST),Made Shot,Jump Shot,1,3,427
+0022300613,588,PT06M11.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,228,1,0,Made,1,101,89,190,v,Mathews 3PT Jump Shot (9 PTS) (Okongwu 2 AST),Made Shot,Jump Shot,1,3,445
+0022300613,612,PT04M00.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Johnson FOR Mathews,Substitution,,0,0,462
+0022300613,663,PT00M35.70S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews L.B.FOUL (P5.PN) (S.Foster),Foul,Loose Ball,1,0,502
+0022300613,665,PT00M35.70S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews T.FOUL (P5.PN) (S.Foster),Foul,Technical,1,0,503
+0022300626,88,PT05M24.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P1.T3) (K.Cutler),Foul,Shooting,1,0,68
+0022300626,93,PT05M12.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-224,-10,0,Missed,1,,,0,v,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,1,3,71
+0022300626,96,PT04M56.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-221,-21,0,Missed,1,,,0,v,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,1,3,73
+0022300626,141,PT02M02.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,59,250,26,Missed,1,,,0,v,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,107
+0022300626,144,PT01M38.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,224,127,26,Missed,1,,,0,v,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,110
+0022300626,251,PT05M44.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Johnson FOR Mathews,Substitution,,0,0,183
+0022300626,418,PT06M12.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews P.FOUL (P2.T2) (M.Davis),Foul,Personal,1,0,308
+0022300626,440,PT05M01.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,MISS Mathews Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,324
+0022300626,442,PT05M01.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,82,82,164,v,Mathews Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,326
+0022300626,452,PT04M10.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,-224,16,0,Missed,1,,,0,v,MISS Mathews 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,335
+0022300626,486,PT01M23.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,-183,74,20,Made,1,97,89,186,v,Mathews 20' Jump Shot (3 PTS) (Forrest 3 AST),Made Shot,Jump Shot,1,2,357
+0022300626,488,PT01M15.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P3.PN) (M.Dagher),Foul,Shooting,1,0,358
+0022300626,495,PT00M45.10S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,363
+0022300626,582,PT06M04.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,165,215,27,Missed,1,,,0,v,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,426
+0022300626,596,PT05M33.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Johnson FOR Mathews,Substitution,,0,0,437
+0022300634,136,PT01M39.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-70,254,26,Made,1,27,27,54,h,Mathews 26' 3PT Jump Shot (3 PTS) (Johnson 1 AST),Made Shot,Jump Shot,1,3,98
+0022300634,151,PT00M17.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,109
+0022300634,216,PT05M00.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,229,49,0,Made,1,53,51,104,h,Mathews 3PT Jump Shot (6 PTS) (Okongwu 2 AST),Made Shot,Jump Shot,1,3,156
+0022300634,224,PT04M43.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Young FOR Mathews,Substitution,,0,0,162
+0022300634,460,PT01M14.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,322
+0022300634,463,PT01M14.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,97,103,200,h,Mathews Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,324
+0022300634,464,PT01M14.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,98,103,201,h,Mathews Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,325
+0022300634,503,PT11M19.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P1.T1) (P.Ransom),Foul,Shooting,1,0,352
+0022300634,512,PT10M23.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bey FOR Mathews,Substitution,,0,0,360
+0022300634,565,PT06M45.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews T.FOUL (P1.T3) (T.Ford),Foul,Technical,1,0,397
+0022300653,158,PT11M47.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews P.FOUL (P1.T1) (P.Fraher),Foul,Personal,1,0,114
+0022300653,187,PT08M49.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,45,246,25,Missed,1,,,0,h,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,137
+0022300653,228,PT07M03.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,21,130,13,Missed,1,,,0,h,MISS Mathews 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,165
+0022300653,231,PT06M52.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P2.PN) (M.Kogut),Foul,Shooting,1,0,168
+0022300653,233,PT06M52.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Johnson FOR Mathews,Substitution,,0,0,169
+0022300669,192,PT08M43.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-108,253,28,Missed,1,,,0,h,MISS Mathews 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,142
+0022300669,194,PT08M37.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews P.FOUL (P1.T1) (M.Davis),Foul,Personal,1,0,144
+0022300669,204,PT08M08.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews P.FOUL (P2.T2) (M.Davis),Foul,Personal,1,0,149
+0022300669,207,PT07M59.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,151
+0022300669,233,PT05M54.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P3.T3) (C.Washington),Foul,Shooting,1,0,171
+0022300669,319,PT05M54.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Capela FOR Mathews,Substitution,,0,0,175
+0022300669,666,PT01M43.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P4.PN) (C.Washington),Foul,Shooting,1,0,480
+0022300699,13,PT10M50.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+0022300699,23,PT10M04.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,16
+0022300699,24,PT10M01.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-7,126,13,Made,1,4,5,9,h,Mathews 13' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,17
+0022300699,27,PT09M38.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-55,258,26,Missed,1,,,0,h,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,19
+0022300699,54,PT07M14.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P1.T2) (K.Scott),Foul,Shooting,1,0,42
+0022300699,63,PT06M43.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,49
+0022300699,206,PT09M34.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,153
+0022300699,237,PT07M46.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Capela FOR Mathews,Substitution,,0,0,177
+0022300699,273,PT05M32.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,46,47,93,h,Mathews Free Throw 1 of 3 (3 PTS),Free Throw,Free Throw 1 of 3,1,0,201
+0022300699,274,PT05M32.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,47,47,94,h,Mathews Free Throw 2 of 3 (4 PTS),Free Throw,Free Throw 2 of 3,1,0,202
+0022300699,275,PT05M32.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,48,47,95,h,Mathews Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,1,0,203
+0022300699,278,PT05M00.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-207,146,25,Made,1,51,50,101,h,Mathews 25' 3PT Step Back Jump Shot (8 PTS) (Murray 3 AST),Made Shot,Step Back Jump shot,1,3,205
+0022300699,297,PT03M58.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,220
+0022300699,379,PT10M29.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews BLOCK (1 BLK),,,1,2,282
+0022300699,405,PT08M41.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Okongwu FOR Mathews,Substitution,,0,0,303
+0022300699,554,PT09M55.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,-237,50,24,Missed,1,,,0,h,MISS Mathews 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,414
+0022300699,568,PT08M55.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,-208,157,26,Missed,1,,,0,h,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,426
+0022300699,575,PT08M47.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Capela FOR Mathews,Substitution,,0,0,431
+0022300729,189,PT08M55.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P1.T1) (A.Moyer-Gleich),Foul,Shooting,1,0,135
+0022300729,217,PT07M38.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bey FOR Mathews,Substitution,,0,0,157
+0022300729,444,PT01M57.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,167,176,24,Made,1,92,88,180,v,Mathews 24' 3PT Pullup Jump Shot (3 PTS) (Hunter 1 AST),Made Shot,Pullup Jump shot,1,3,334
+0022300729,467,PT00M02.60S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews STEAL (1 STL),,,1,0,350
+0022300729,498,PT10M19.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews P.FOUL (P2.T1) (D.Collins),Foul,Personal,1,0,372
+0022300729,517,PT08M45.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bey FOR Mathews,Substitution,,0,0,386
+0022300742,103,PT03M42.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,199,173,26,Made,1,19,25,44,v,Mathews 26' 3PT Jump Shot (3 PTS) (Forrest 1 AST),Made Shot,Jump Shot,1,3,78
+0022300742,109,PT02M59.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews P.FOUL (P1.T2) (D.Taylor),Foul,Personal,1,0,82
+0022300742,147,PT01M33.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,108
+0022300742,197,PT10M33.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P2.T1) (C.Flores),Foul,Shooting,1,0,140
+0022300742,216,PT08M31.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-17,13,2,Made,1,34,49,83,v,Mathews 2' Driving Floating Jump Shot (5 PTS) (Young 6 AST),Made Shot,Driving Floating Jump Shot,1,2,155
+0022300742,223,PT08M23.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,160
+0022300742,490,PT01M45.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,-243,0,24,Missed,1,,,0,v,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,348
+0022300742,549,PT10M09.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,91,106,197,v,Mathews Free Throw 1 of 3 (6 PTS),Free Throw,Free Throw 1 of 3,0,0,391
+0022300742,550,PT10M09.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,91,107,198,v,Mathews Free Throw 2 of 3 (7 PTS),Free Throw,Free Throw 2 of 3,0,0,392
+0022300742,551,PT10M09.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,91,108,199,v,Mathews Free Throw 3 of 3 (8 PTS),Free Throw,Free Throw 3 of 3,1,0,393
+0022300742,566,PT09M10.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P3.T4) (D.Taylor),Foul,Shooting,1,0,405
+0022300742,573,PT09M10.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bey FOR Mathews,Substitution,,0,0,410
+0022300754,130,PT02M42.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,92
+0022300754,192,PT10M23.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,140
+0022300754,193,PT10M13.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,109,237,26,Made,1,26,31,57,h,Mathews 26' 3PT Jump Shot (3 PTS) (Young 4 AST),Made Shot,Jump Shot,1,3,141
+0022300754,238,PT07M42.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Okongwu FOR Mathews,Substitution,,0,0,175
+0022300754,538,PT10M34.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews P.FOUL (P1.T2) (J.Sterling),Foul,Personal,1,0,392
+0022300754,548,PT10M05.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Johnson FOR Mathews,Substitution,,0,0,399
+0022300763,201,PT08M29.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,147
+0022300763,208,PT07M52.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bey FOR Mathews,Substitution,,0,0,151
+0022300777,169,PT11M38.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,58,282,29,Missed,1,,,0,v,MISS Mathews 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,123
+0022300777,198,PT08M17.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews P.FOUL (P1.T1) (T.Ford),Foul,Personal,1,0,146
+0022300777,203,PT08M17.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bey FOR Mathews,Substitution,,0,0,150
+0022300777,454,PT00M48.50S,3,1610612737,ATL,1629726,Mathews,G. Mathews,-75,295,30,Missed,1,,,0,v,MISS Mathews 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,336
+0022300777,497,PT10M23.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,170,207,27,Missed,1,,,0,v,MISS Mathews 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,365
+0022300777,532,PT08M16.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bey FOR Mathews,Substitution,,0,0,394
+0022300777,653,PT00M40.80S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews STEAL (1 STL),,,1,0,480
+0022300804,207,PT10M24.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-232,14,0,Made,1,30,38,68,h,Mathews 3PT Running Jump Shot (3 PTS) (Young 3 AST),Made Shot,Running Jump Shot,1,3,151
+0022300804,242,PT08M08.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-40,240,24,Missed,1,,,0,h,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,177
+0022300804,249,PT07M48.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Hunter FOR Mathews,Substitution,,0,0,182
+0022300804,572,PT08M14.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Murray FOR Mathews,Substitution,,0,0,418
+0022300821,63,PT06M06.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,210,117,24,Missed,1,,,0,h,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,48
+0022300821,79,PT04M44.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,60
+0022300821,88,PT04M12.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P1.T3) (D.Collins),Foul,Shooting,1,0,69
+0022300821,104,PT03M32.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-145,210,26,Missed,1,,,0,h,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,80
+0022300821,119,PT02M48.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bufkin FOR Mathews,Substitution,,0,0,93
+0022300821,192,PT10M37.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-161,200,26,Missed,1,,,0,h,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,143
+0022300821,267,PT06M12.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Johnson FOR Mathews,Substitution,,0,0,203
+0022300821,419,PT05M28.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Hunter FOR Mathews,Substitution,,0,0,313
+0022300821,510,PT10M50.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,233,15,0,Made,1,86,70,156,h,Mathews 3PT Jump Shot (3 PTS) (Johnson 5 AST),Made Shot,Jump Shot,1,3,378
+0022300821,527,PT09M23.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P2.T2) (C.Blair),Foul,Shooting,1,0,388
+0022300821,531,PT09M21.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,391
+0022300821,564,PT07M10.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,418
+0022300835,114,PT03M09.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,91
+0022300835,204,PT09M01.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,154
+0022300835,208,PT08M27.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,228,84,24,Missed,1,,,0,h,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,158
+0022300835,232,PT06M56.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,176
+0022300835,308,PT06M12.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,184
+0022300835,314,PT05M59.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,189
+0022300835,437,PT05M13.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,197,142,24,Made,1,75,63,138,h,Mathews 24' 3PT Jump Shot (3 PTS) (Murray 7 AST),Made Shot,Jump Shot,1,3,339
+0022300835,464,PT03M39.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,21,101,10,Missed,1,,,0,h,MISS Mathews 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,354
+0022300835,470,PT03M29.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,360
+0022300835,550,PT08M57.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews P.FOUL (P1.T1) (P.Fraher),Foul,Personal,1,0,413
+0022300835,567,PT08M21.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,-147,212,26,Made,1,102,78,180,h,Mathews 26' 3PT Jump Shot (6 PTS) (Murray 8 AST),Made Shot,Jump Shot,1,3,423
+0022300835,580,PT07M25.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P2.T2) (P.Fraher),Foul,Shooting,1,0,432
+0022300835,596,PT06M07.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P3.T4) (R.Acosta),Foul,Shooting,1,0,445
+0022300835,614,PT05M15.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Hunter FOR Mathews,Substitution,,0,0,458
+0022300835,675,PT01M39.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,501
+0022300835,682,PT01M04.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews STEAL (1 STL),,,1,0,508
+0022300835,690,PT00M37.40S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,515
+0022300851,76,PT06M19.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,57
+0022300851,77,PT06M07.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,45,255,26,Missed,1,,,0,v,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,58
+0022300851,78,PT06M06.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,59
+0022300851,116,PT06M06.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-4,131,13,Missed,1,,,0,v,MISS Mathews 13' Jump Shot,Missed Shot,Jump Shot,1,2,60
+0022300851,112,PT04M26.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,85
+0022300851,143,PT02M42.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bufkin FOR Mathews,Substitution,,0,0,106
+0022300851,572,PT05M14.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,210,153,26,Missed,1,,,0,v,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,415
+0022300851,620,PT01M17.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,-104,265,28,Missed,1,,,0,v,MISS Mathews 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,450
+0022300866,83,PT06M17.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P1.T1) (K.Lane),Foul,Shooting,1,0,63
+0022300866,157,PT01M06.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,118
+0022300866,211,PT09M08.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,169,206,27,Missed,1,,,0,v,MISS Mathews 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,153
+0022300866,239,PT07M40.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Murray FOR Mathews,Substitution,,0,0,174
+0022300866,435,PT04M03.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P2.T3) (N.Green),Foul,Shooting,1,0,313
+0022300866,477,PT01M32.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,346
+0022300889,93,PT04M36.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,68
+0022300889,127,PT02M22.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Johnson FOR Mathews,Substitution,,0,0,97
+0022300889,230,PT07M14.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,168
+0022300889,253,PT06M06.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,29,48,77,v,Mathews Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,1,0,182
+0022300889,254,PT06M06.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,29,49,78,v,Mathews Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,1,0,183
+0022300889,255,PT06M06.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,29,50,79,v,Mathews Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,1,0,184
+0022300889,285,PT03M42.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,205
+0022300889,408,PT05M31.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,225,4,0,Missed,1,,,0,v,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,1,3,301
+0022300889,442,PT03M40.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,323
+0022300889,542,PT08M17.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,396
+0022300889,543,PT08M13.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews Non-Unsportsmanlike Tech Foul - Flopping (P0.T1) (N.Sago),Foul,Flopping,1,0,397
+0022300889,562,PT06M46.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews P.FOUL (P1.T2) (D.Guthrie),Foul,Personal,1,0,413
+0022300889,572,PT06M07.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,419
+0022300895,63,PT06M06.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews P.FOUL (P1.T3) (M.Davis),Foul,Personal,1,0,44
+0022300895,114,PT02M29.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Forrest FOR Mathews,Substitution,,0,0,83
+0022300895,261,PT03M10.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,192
+0022300895,265,PT03M10.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,195
+0022300895,414,PT04M15.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,16,267,27,Made,1,82,75,157,h,Mathews 27' 3PT Jump Shot (3 PTS) (Murray 8 AST),Made Shot,Jump Shot,1,3,302
+0022300895,427,PT03M35.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews AWAY.FROM.PLAY.FOUL (P2.T4) (J.Butler),Foul,Away From Play,1,0,311
+0022300895,433,PT03M30.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,315
+0022300895,582,PT04M49.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Capela FOR Mathews,Substitution,,0,0,425
+0022300913,98,PT03M54.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,75
+0022300913,105,PT03M04.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,221,38,0,Missed,1,,,0,v,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,1,3,82
+0022300913,135,PT00M38.50S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,104
+0022300913,139,PT00M08.70S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews Personal Take Foul (P1.T3) (M.Smith),Foul,Personal Take,1,0,107
+0022300913,209,PT07M43.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,160
+0022300913,214,PT07M03.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,221,15,0,Made,1,37,29,66,v,Mathews 3PT Jump Shot (3 PTS) (Krejci 1 AST),Made Shot,Jump Shot,1,3,163
+0022300913,228,PT06M13.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,172
+0022300913,428,PT02M53.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,-51,34,6,Missed,1,,,0,v,MISS Mathews 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,318
+0022300913,440,PT01M56.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,327
+0022300913,454,PT01M01.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,-225,13,0,Made,1,68,77,145,v,Mathews 3PT Jump Shot (6 PTS) (Murray 5 AST),Made Shot,Jump Shot,1,3,338
+0022300913,456,PT00M43.20S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P2.PN) (D.Taylor),Foul,Shooting,1,0,339
+0022300913,503,PT10M04.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Krejci FOR Mathews,Substitution,,0,0,370
+0022300913,585,PT04M48.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P3.T4) (D.Taylor),Foul,Shooting,1,0,432
+0022300913,594,PT04M14.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,440
+0022300925,93,PT05M08.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-86,71,11,Made,1,15,15,30,h,Mathews 11' Driving Floating Jump Shot (2 PTS) (Matthews 1 AST),Made Shot,Driving Floating Jump Shot,1,2,73
+0022300925,106,PT03M44.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-97,224,24,Missed,1,,,0,h,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,83
+0022300925,115,PT03M10.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,92
+0022300925,215,PT06M05.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,168
+0022300925,403,PT02M25.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P1.T4) (T.Washington),Foul,Shooting,1,0,299
+0022300925,418,PT01M33.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bey FOR Mathews,Substitution,,0,0,312
+0022300925,525,PT05M50.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,-232,8,0,Missed,1,,,0,h,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,1,3,387
+0022300925,541,PT04M42.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P2.T4) (T.Washington),Foul,Shooting,1,0,400
+0022300925,554,PT03M47.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P3.PN) (T.Washington),Foul,Shooting,1,0,410
+0022300925,577,PT01M10.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P4.PN) (Z.Zarba),Foul,Shooting,1,0,427
+0022300953,161,PT11M41.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-143,218,26,Missed,1,,,0,v,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,125
+0022300953,173,PT11M03.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,135
+0022300953,210,PT08M14.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,19,34,53,v,Mathews Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,159
+0022300953,213,PT08M14.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,19,35,54,v,Mathews Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,161
+0022300953,234,PT06M28.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Hunter FOR Mathews,Substitution,,0,0,177
+0022300953,407,PT05M09.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P1.T4) (S.Mehta),Foul,Shooting,1,0,308
+0022300953,420,PT03M49.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,224,83,24,Made,1,71,65,136,v,Mathews 24' 3PT Step Back Jump Shot (5 PTS) (Hunter 1 AST),Made Shot,Step Back Jump shot,1,3,318
+0022300953,427,PT02M40.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews STEAL (1 STL),,,1,0,324
+0022300953,437,PT01M51.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,197,159,25,Made,1,75,72,147,v,Mathews 25' 3PT Jump Shot (8 PTS) (Murray 2 AST),Made Shot,Jump Shot,1,3,331
+0022300953,479,PT11M20.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews P.FOUL (P2.T1) (S.Mehta),Foul,Personal,1,0,357
+0022300953,485,PT10M54.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P3.T2) (J.DeRosa),Foul,Shooting,1,0,362
+0022300953,491,PT10M22.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P4.T3) (C.Blair),Foul,Shooting,1,0,366
+0022300953,527,PT07M34.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,392
+0022300953,534,PT07M13.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Krejci FOR Mathews,Substitution,,0,0,398
+0022300966,87,PT05M36.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-170,178,25,Missed,1,,,0,v,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,66
+0022300966,121,PT03M18.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-157,184,24,Made,1,26,24,50,v,Mathews 24' 3PT Jump Shot (3 PTS) (Fernando 1 AST),Made Shot,Jump Shot,1,3,88
+0022300966,127,PT02M28.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,93
+0022300966,136,PT01M51.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews BLOCK (1 BLK),,,1,2,99
+0022300966,192,PT09M52.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,138
+0022300966,206,PT08M52.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Murray FOR Mathews,Substitution,,0,0,149
+0022300966,237,PT06M56.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,165,183,25,Made,1,44,44,88,v,Mathews 25' 3PT Jump Shot (6 PTS) (Matthews 1 AST),Made Shot,Jump Shot,1,3,171
+0022300966,263,PT06M20.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Hunter FOR Mathews,Substitution,,0,0,189
+0022300966,418,PT07M07.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews STEAL (1 STL),,,1,0,306
+0022300966,420,PT07M03.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,86,54,10,Missed,1,,,0,v,MISS Mathews 10' Running Layup,Missed Shot,Running Layup Shot,1,2,307
+0022300966,444,PT05M22.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,325
+0022300966,445,PT05M09.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,87,254,27,Made,1,81,79,160,v,Mathews 27' 3PT Jump Shot (9 PTS) (Krejci 2 AST),Made Shot,Jump Shot,1,3,326
+0022300966,476,PT03M13.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P1.PN) (J.Butler),Foul,Shooting,1,0,346
+0022300966,539,PT10M01.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P2.T2) (R.Acosta),Foul,Shooting,1,0,390
+0022300966,541,PT10M01.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Matthews FOR Mathews,Substitution,,0,0,391
+0022300966,612,PT04M51.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Johnson FOR Mathews,Substitution,,0,0,443
+0022300982,88,PT04M57.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-186,206,28,Made,1,15,19,34,v,Mathews 28' 3PT Pullup Jump Shot (3 PTS) (Murray 3 AST),Made Shot,Pullup Jump shot,1,3,66
+0022300982,114,PT03M13.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-2,265,27,Missed,1,,,0,v,MISS Mathews 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,85
+0022300982,119,PT02M15.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews BLOCK (1 BLK),,,1,3,90
+0022300982,127,PT02M15.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Johnson FOR Mathews,Substitution,,0,0,96
+0022300982,235,PT06M36.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews STEAL (1 STL),,,1,0,170
+0022300982,251,PT05M00.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,26,34,4,Missed,1,,,0,v,MISS Mathews 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,181
+0022300982,262,PT04M35.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Johnson FOR Mathews,Substitution,,0,0,191
+0022300982,404,PT04M28.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,-244,4,24,Made,1,55,81,136,v,Mathews 24' 3PT Pullup Jump Shot (6 PTS) (Johnson 5 AST),Made Shot,Pullup Jump shot,1,3,298
+0022300982,619,PT01M10.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,-20,66,7,Missed,1,,,0,v,MISS Mathews 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,453
+0022300990,118,PT04M25.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-234,58,24,Missed,1,,,0,v,MISS Mathews 24' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,3,84
+0022300990,128,PT03M12.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews P.FOUL (P1.PN) (J.Orr),Foul,Personal,1,0,92
+0022300990,138,PT02M41.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-109,238,26,Missed,1,,,0,v,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,101
+0022300990,257,PT05M25.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,181
+0022300990,418,PT05M51.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P2.T3) (E.Malloy),Foul,Shooting,1,0,300
+0022300990,453,PT03M29.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Forrest FOR Mathews,Substitution,,0,0,322
+0022300990,581,PT05M08.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,-233,43,24,Missed,1,,,0,v,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,411
+0022301010,69,PT06M01.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,49
+0022301010,111,PT02M54.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P1.T3) (T.Brothers),Foul,Shooting,1,0,76
+0022301010,140,PT00M32.30S,1,1610612737,ATL,1629726,Mathews,G. Mathews,211,155,26,Missed,1,,,0,v,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,98
+0022301010,238,PT06M08.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,55,47,7,Missed,1,,,0,v,MISS Mathews 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,168
+0022301010,282,PT03M51.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Krejci FOR Mathews,Substitution,,0,0,200
+0022301010,410,PT07M00.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews L.B.FOUL (P2.PN) (S.Mitchell),Foul,Loose Ball,1,0,293
+0022301010,456,PT03M31.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews STEAL (1 STL),,,1,0,329
+0022301010,458,PT03M28.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,-10,18,2,Made,1,86,83,169,v,Mathews 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,330
+0022301010,509,PT03M07.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,," Foul : Double Personal - Mathews (3 PF), Eubanks (2 PF) (E.Dalen)",Foul,Double Personal,1,0,332
+0022301010,466,PT03M07.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Hunter FOR Mathews,Substitution,,0,0,335
+0022301010,536,PT10M39.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,102,96,198,v,Mathews Free Throw 1 of 3 (3 PTS),Free Throw,Free Throw 1 of 3,1,0,368
+0022301010,537,PT10M39.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,102,97,199,v,Mathews Free Throw 2 of 3 (4 PTS),Free Throw,Free Throw 2 of 3,1,0,369
+0022301010,538,PT10M39.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,102,98,200,v,Mathews Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,1,0,370
+0022301010,576,PT07M48.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,MISS Mathews Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,0,397
+0022301010,578,PT07M48.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,112,99,211,v,Mathews Free Throw 2 of 3 (6 PTS),Free Throw,Free Throw 2 of 3,1,0,399
+0022301010,579,PT07M48.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,112,100,212,v,Mathews Free Throw 3 of 3 (7 PTS),Free Throw,Free Throw 3 of 3,1,0,400
+0022301010,581,PT07M34.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,402
+0022301010,582,PT07M30.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,6,11,1,Made,1,112,102,214,v,Mathews 1' Running Layup (9 PTS),Made Shot,Running Layup Shot,1,2,403
+0022301010,612,PT06M30.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,146,227,27,Missed,1,,,0,v,MISS Mathews 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,423
+0022301010,617,PT06M30.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,427
+0022301021,46,PT06M10.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,167,200,26,Made,1,15,16,31,h,Mathews 26' 3PT Jump Shot (3 PTS) (Murray 2 AST),Made Shot,Jump Shot,1,3,32
+0022301021,58,PT05M16.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,140,218,26,Missed,1,,,0,h,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,40
+0022301021,95,PT03M18.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,20,22,42,h,Mathews Free Throw 1 of 3 (4 PTS),Free Throw,Free Throw 1 of 3,1,0,66
+0022301021,96,PT03M18.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,21,22,43,h,Mathews Free Throw 2 of 3 (5 PTS),Free Throw,Free Throw 2 of 3,1,0,67
+0022301021,97,PT03M18.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,22,22,44,h,Mathews Free Throw 3 of 3 (6 PTS),Free Throw,Free Throw 3 of 3,1,0,68
+0022301021,173,PT08M35.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,118
+0022301021,184,PT08M00.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,225,74,24,Missed,1,,,0,h,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,127
+0022301021,218,PT06M35.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,45,39,84,h,Mathews Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,151
+0022301021,219,PT06M35.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,MISS Mathews Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,152
+0022301021,233,PT04M50.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-1,120,12,Made,1,52,41,93,h,Mathews 12' Driving Floating Jump Shot (9 PTS) (Capela 1 AST),Made Shot,Driving Floating Jump Shot,1,2,164
+0022301021,235,PT04M42.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P1.T2) (D.Guthrie),Foul,Shooting,1,0,165
+0022301021,239,PT04M42.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,167
+0022301021,379,PT05M26.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews BLOCK (1 BLK),,,1,2,276
+0022301021,416,PT02M18.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P2.PN) (J.Conley),Foul,Shooting,1,0,301
+0022301021,429,PT02M15.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,309
+0022301021,435,PT01M54.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,-234,100,25,Made,1,95,70,165,h,Mathews 25' 3PT Jump Shot (12 PTS) (Forrest 4 AST),Made Shot,Jump Shot,1,3,312
+0022301021,512,PT07M29.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews P.FOUL (P3.T2) (D.Guthrie),Foul,Personal,1,0,365
+0022301021,523,PT07M02.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,59,248,25,Made,1,113,82,195,h,Mathews 25' 3PT Jump Shot (15 PTS) (Murray 12 AST),Made Shot,Jump Shot,1,3,372
+0022301021,526,PT06M45.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,374
+0022301021,527,PT06M32.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,234,-24,24,Made,1,116,82,198,h,Mathews 24' 3PT Pullup Jump Shot (18 PTS) (Krejci 3 AST),Made Shot,Pullup Jump shot,1,3,375
+0022301021,599,PT01M08.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,-9,20,2,Made,1,130,91,221,h,Mathews 2' Driving Layup (20 PTS) (Krejci 4 AST),Made Shot,Driving Layup Shot,1,2,425
+0022301034,71,PT06M18.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P1.T4) (J.Tiven),Foul,Shooting,1,0,54
+0022301034,105,PT03M25.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,78
+0022301034,116,PT02M26.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,230,-4,0,Made,1,22,35,57,h,Mathews 3PT Jump Shot (3 PTS) (Fernando 2 AST),Made Shot,Jump Shot,1,3,85
+0022301034,200,PT07M55.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P2.T1) (M.Kogut),Foul,Shooting,1,0,139
+0022301034,204,PT07M55.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Hunter FOR Mathews,Substitution,,0,0,142
+0022301034,501,PT08M39.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,80,239,25,Made,1,102,101,203,h,Mathews 25' 3PT Jump Shot (6 PTS) (Fernando 3 AST),Made Shot,Jump Shot,1,3,360
+0022301034,516,PT07M47.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P3.T2) (J.Tiven),Foul,Shooting,1,0,370
+0022301034,522,PT07M47.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Hunter FOR Mathews,Substitution,,0,0,374
+0022301051,74,PT05M08.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-183,190,26,Missed,1,,,0,h,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,56
+0022301051,76,PT05M01.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P1.T3) (R.Hussey),Foul,Shooting,1,0,58
+0022301051,90,PT03M55.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,68
+0022301051,101,PT03M06.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,19,21,40,h,Mathews Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,1,0,76
+0022301051,102,PT03M06.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,20,21,41,h,Mathews Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,1,0,77
+0022301051,109,PT03M06.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,21,21,42,h,Mathews Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,1,0,81
+0022301051,116,PT02M34.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,87
+0022301051,611,PT02M34.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews Out of Bounds Lost Ball Turnover (P1.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0,88
+0022301051,135,PT01M41.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-43,107,12,Missed,1,,,0,h,MISS Mathews 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,98
+0022301051,180,PT10M44.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,50,259,26,Made,1,32,29,61,h,Mathews 26' 3PT Pullup Jump Shot (6 PTS) (Forrest 1 AST),Made Shot,Pullup Jump shot,1,3,130
+0022301051,232,PT07M43.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P2.T3) (C.Blair),Foul,Shooting,1,0,161
+0022301051,242,PT07M01.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P3.T4) (S.Twardoski),Foul,Shooting,1,0,169
+0022301051,246,PT07M01.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Krejci FOR Mathews,Substitution,,0,0,172
+0022301051,426,PT04M37.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,-51,258,26,Made,1,88,76,164,h,Mathews 26' 3PT Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,1,3,301
+0022301051,451,PT02M56.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,-196,158,25,Made,1,94,79,173,h,Mathews 25' 3PT Jump Shot (12 PTS) (Murray 7 AST),Made Shot,Jump Shot,1,3,318
+0022301051,459,PT02M56.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,95,79,174,h,Mathews Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,1,0,322
+0022301051,466,PT01M59.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,98,84,182,h,Mathews Free Throw Technical (14 PTS),Free Throw,Free Throw Technical,1,0,327
+0022301051,475,PT00M57.40S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P4.T1) (S.Twardoski),Foul,Shooting,1,0,333
+0022301051,485,PT00M24.50S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews P.FOUL (P5.PN) (C.Blair),Foul,Personal,1,0,342
+0022301051,502,PT11M48.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,101,86,187,h,Mathews Free Throw Technical (15 PTS),Free Throw,Free Throw Technical,1,0,352
+0022301051,503,PT11M40.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,-143,210,25,Made,1,104,86,190,h,Mathews 25' 3PT Jump Shot (18 PTS) (Bogdanovic 3 AST),Made Shot,Jump Shot,1,3,353
+0022301051,507,PT11M07.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,-228,72,24,Missed,1,,,0,h,MISS Mathews 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,356
+0022301051,518,PT10M41.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,200,61,21,Missed,1,,,0,h,MISS Mathews 21' Jump Shot,Missed Shot,Jump Shot,1,2,364
+0022301051,520,PT10M37.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,153,200,25,Missed,1,,,0,h,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,366
+0022301051,533,PT09M17.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,234,31,24,Made,1,107,88,195,h,Mathews 24' 3PT Jump Shot (21 PTS) (Forrest 4 AST),Made Shot,Jump Shot,1,3,376
+0022301051,541,PT08M45.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,102,234,26,Missed,1,,,0,h,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,380
+0022301051,552,PT08M02.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews P.FOUL (P6.T1) (R.Hussey),Foul,Personal,1,0,389
+0022301051,554,PT08M02.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,390
+0022301060,74,PT05M41.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,167,191,25,Missed,1,,,0,h,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,57
+0022301060,79,PT05M10.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-178,186,26,Missed,1,,,0,h,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,60
+0022301060,99,PT03M50.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,38,115,12,Made,1,15,21,36,h,Mathews 12' Driving Floating Jump Shot (2 PTS) (Murray 3 AST),Made Shot,Driving Floating Jump Shot,1,2,75
+0022301060,182,PT08M58.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,44,117,13,Made,1,36,38,74,h,Mathews 13' Pullup Jump Shot (4 PTS) (Fernando 1 AST),Made Shot,Pullup Jump shot,1,2,135
+0022301060,230,PT07M01.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,223,15,0,Made,1,39,40,79,h,Mathews 3PT Jump Shot (7 PTS) (Capela 1 AST),Made Shot,Jump Shot,1,3,167
+0022301060,236,PT06M23.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,172
+0022301060,256,PT04M55.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,187
+0022301060,416,PT04M13.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,312
+0022301060,455,PT01M54.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,343
+0022301076,76,PT05M37.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,54
+0022301076,134,PT00M02.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-18,244,24,Missed,1,,,0,h,MISS Mathews 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,97
+0022301076,242,PT05M21.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,172
+0022301076,398,PT05M19.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,-167,189,25,Made,1,63,77,140,h,Mathews 25' 3PT Jump Shot (3 PTS) (Murray 8 AST),Made Shot,Jump Shot,1,3,291
+0022301076,433,PT02M58.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P1.T4) (S.Wall),Foul,Shooting,1,0,318
+0022301076,487,PT11M33.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,129,225,26,Missed,1,,,0,h,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,352
+0022301076,507,PT09M36.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Hunter FOR Mathews,Substitution,,0,0,370
+0022301091,68,PT06M14.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,61,244,25,Missed,1,,,0,v,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,52
+0022301091,73,PT05M41.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-235,20,24,Made,1,18,14,32,v,Mathews 24' 3PT Jump Shot (3 PTS) (Capela 1 AST),Made Shot,Jump Shot,1,3,57
+0022301091,89,PT04M36.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-225,29,0,Made,1,22,20,42,v,Mathews 3PT Step Back Jump Shot (6 PTS) (Murray 2 AST),Made Shot,Step Back Jump shot,1,3,66
+0022301091,97,PT03M31.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,238,74,25,Missed,1,,,0,v,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,72
+0022301091,148,PT00M15.40S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-214,136,25,Missed,1,,,0,v,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,106
+0022301091,169,PT10M07.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-235,-6,24,Missed,1,,,0,v,MISS Mathews 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,126
+0022301091,183,PT09M27.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Krejci FOR Mathews,Substitution,,0,0,139
+0022301091,415,PT04M11.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,309
+0022301091,468,PT00M16.10S,3,1610612737,ATL,1629726,Mathews,G. Mathews,223,-4,0,Made,1,74,90,164,v,Mathews 3PT Jump Shot (9 PTS) (Bogdanovic 5 AST),Made Shot,Jump Shot,1,3,352
+0022301091,485,PT11M37.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P1.T1) (B.Adair),Foul,Shooting,1,0,359
+0022301091,488,PT11M37.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Matthews FOR Mathews,Substitution,,0,0,361
+0022301091,648,PT01M10.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P2.PN) (A.Moyer-Gleich),Foul,Shooting,1,0,477
+0022301104,134,PT02M54.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,103
+0022301104,190,PT10M43.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P1.T1) (T.Washington),Foul,Shooting,1,0,145
+0022301104,245,PT06M24.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,187
+0022301104,252,PT05M45.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Capela FOR Mathews,Substitution,,0,0,192
+0022301104,401,PT05M31.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,158,205,26,Made,1,82,62,144,h,Mathews 26' 3PT Jump Shot (3 PTS) (Hunter 4 AST),Made Shot,Jump Shot,1,3,307
+0022301104,437,PT02M36.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Johnson FOR Mathews,Substitution,,0,0,331
+0022301104,522,PT09M23.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,-233,-20,0,Made,1,99,85,184,h,Mathews 3PT Running Jump Shot (6 PTS) (Johnson 10 AST),Made Shot,Running Jump Shot,1,3,391
+0022301104,544,PT07M42.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P2.T1) (K.Scott),Foul,Shooting,1,0,407
+0022301104,549,PT07M06.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,412
+0022301104,553,PT06M52.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,-213,141,26,Made,1,104,92,196,h,Mathews 26' 3PT Jump Shot (9 PTS) (Murray 7 AST),Made Shot,Jump Shot,1,3,413
+0022301104,559,PT06M21.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,416
+0022301104,570,PT05M44.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Capela FOR Mathews,Substitution,,0,0,425
+0022301124,94,PT05M34.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-136,27,14,Made,1,10,14,24,v,Mathews 14' Pullup Jump Shot (2 PTS) (Fernando 1 AST),Made Shot,Pullup Jump shot,1,2,72
+0022301124,96,PT05M25.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews P.FOUL (P1.T2) (D.Mosher),Foul,Personal,1,0,73
+0022301124,106,PT04M06.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P2.T3) (C.Kirkland),Foul,Shooting,1,0,80
+0022301124,124,PT03M10.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,94
+0022301124,129,PT02M34.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-31,16,3,Missed,1,,,0,v,MISS Mathews 3' Running Layup,Missed Shot,Running Layup Shot,1,2,99
+0022301124,135,PT02M25.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews T.FOUL (P2.T3) (D.Mosher),Foul,Technical,1,0,105
+0022301124,141,PT02M25.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,110
+0022301124,233,PT08M45.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,230,17,0,Made,1,33,38,71,v,Mathews 3PT Jump Shot (5 PTS) (Murray 1 AST),Made Shot,Jump Shot,1,3,173
+0022301124,239,PT08M45.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,33,39,72,v,Mathews Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,176
+0022301124,251,PT08M05.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,33,250,25,Made,1,36,42,78,v,Mathews 25' 3PT Running Jump Shot (9 PTS) (Johnson 3 AST),Made Shot,Running Jump Shot,1,3,185
+0022301124,306,PT05M08.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,227
+0022301124,307,PT05M06.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,1,8,1,Made,1,45,47,92,v,Mathews 1' Reverse Layup (11 PTS),Made Shot,Reverse Layup Shot,1,2,228
+0022301124,326,PT03M28.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-76,231,24,Made,1,50,52,102,v,Mathews 24' 3PT Jump Shot (14 PTS) (Capela 1 AST),Made Shot,Jump Shot,1,3,244
+0022301124,335,PT02M38.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Johnson FOR Mathews,Substitution,,0,0,250
+0022301124,485,PT01M31.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews Traveling Turnover (P1.T15),Turnover,Traveling,1,0,364
+0022301130,87,PT04M44.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-116,215,24,Missed,1,,,0,v,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,66
+0022301130,89,PT04M38.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews STEAL (1 STL),,,1,0,69
+0022301130,91,PT04M28.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-164,173,24,Missed,1,,,0,v,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,70
+0022301130,116,PT03M05.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Johnson FOR Mathews,Substitution,,0,0,91
+0022301130,223,PT08M27.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,44,30,74,v,Mathews Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,0,0,163
+0022301130,224,PT08M27.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,44,31,75,v,Mathews Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,1,0,164
+0022301130,225,PT08M27.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,44,32,76,v,Mathews Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,1,0,165
+0022301130,253,PT06M43.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-214,127,25,Made,1,52,39,91,v,Mathews 25' 3PT Jump Shot (6 PTS) (Murray 5 AST),Made Shot,Jump Shot,1,3,183
+0022301130,268,PT06M06.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-210,121,24,Missed,1,,,0,v,MISS Mathews 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,191
+0022301130,272,PT05M35.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,245,51,25,Made,1,56,42,98,v,Mathews 25' 3PT Pullup Jump Shot (9 PTS) (Murray 6 AST),Made Shot,Pullup Jump shot,1,3,194
+0022301130,281,PT05M35.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,198
+0022301130,420,PT06M13.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,119,92,15,Made,1,90,76,166,v,Mathews 15' Fadeaway Jumper (11 PTS) (Capela 3 AST),Made Shot,Fadeaway Jump Shot,1,2,296
+0022301130,458,PT03M12.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews STEAL (2 STL),,,1,0,323
+0022301130,464,PT03M12.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,327
+0022301130,601,PT04M34.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,427
+0022301147,80,PT04M41.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews P.FOUL (P1.T3) (S.Wright),Foul,Personal,1,0,55
+0022301147,107,PT02M26.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Johnson FOR Mathews,Substitution,,0,0,77
+0022301147,159,PT11M01.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,223,-29,0,Missed,1,,,0,h,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,1,3,111
+0022301147,167,PT09M46.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-235,0,24,Missed,1,,,0,h,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,117
+0022301147,168,PT09M44.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,118
+0022301147,201,PT07M19.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-180,194,26,Made,1,34,39,73,h,Mathews 26' 3PT Jump Shot (3 PTS) (Murray 5 AST),Made Shot,Jump Shot,1,3,143
+0022301147,223,PT05M40.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,223,63,0,Made,1,39,43,82,h,Mathews 3PT Fadeaway Jumper (6 PTS) (Murray 7 AST),Made Shot,Fadeaway Jump Shot,1,3,156
+0022301147,229,PT05M40.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,MISS Mathews Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,159
+0022301147,232,PT05M39.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Mathews,Substitution,,0,0,161
+0022301147,368,PT05M48.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,-140,203,25,Missed,1,,,0,h,MISS Mathews 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,265
+0022301147,375,PT05M27.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,-225,-1,0,Missed,1,,,0,h,MISS Mathews 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,271
+0022301147,386,PT05M12.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,-118,218,25,Missed,1,,,0,h,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,277
+0022301147,388,PT05M06.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P2.T3) (K.Lane),Foul,Shooting,1,0,279
+0022301147,423,PT02M07.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,306
+0022301147,424,PT02M06.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,0,307
+0022301147,453,PT00M31.10S,3,1610612737,ATL,1629726,Mathews,G. Mathews,229,8,0,Made,1,80,80,160,h,Mathews 3PT Jump Shot (9 PTS) (Murray 12 AST),Made Shot,Jump Shot,1,3,327
+0022301147,479,PT10M59.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews STEAL (1 STL),,,1,0,343
+0022301147,481,PT10M58.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,-48,243,25,Missed,1,,,0,h,MISS Mathews 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,344
+0022301147,482,PT10M56.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,345
+0022301147,483,PT10M56.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,Made,1,82,82,164,h,Mathews Tip Layup Shot (11 PTS),Made Shot,Tip Layup Shot,1,2,346
+0022301147,523,PT07M18.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Krejci FOR Mathews,Substitution,,0,0,377
+0022301159,26,PT09M50.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,13,250,25,Made,1,8,9,17,h,Mathews 25' 3PT Jump Shot (3 PTS) (Young 1 AST),Made Shot,Jump Shot,1,3,16
+0022301159,64,PT06M42.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Windler FOR Mathews,Substitution,,0,0,45
+0022301159,124,PT02M45.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,47,159,17,Made,1,28,27,55,h,Mathews 17' Pullup Jump Shot (5 PTS) (Young 4 AST),Made Shot,Pullup Jump shot,1,2,84
+0022301159,136,PT02M00.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,110,227,25,Missed,1,,,0,h,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,94
+0022301159,145,PT01M09.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,11,9,1,Made,1,33,29,62,h,Mathews 1' Cutting Layup Shot (7 PTS) (Young 6 AST),Made Shot,Cutting Layup Shot,1,2,100
+0022301159,166,PT11M23.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-100,226,25,Missed,1,,,0,h,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,115
+0022301159,178,PT10M04.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-62,245,25,Missed,1,,,0,h,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,126
+0022301159,221,PT06M26.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,160
+0022301159,222,PT06M19.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-61,239,25,Missed,1,,,0,h,MISS Mathews 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,161
+0022301159,226,PT06M06.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Krejci FOR Mathews,Substitution,,0,0,165
+0022301159,270,PT03M02.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,193
+0022301159,271,PT02M49.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-175,182,25,Missed,1,,,0,h,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,194
+0022301159,290,PT01M00.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,234,77,25,Made,1,58,52,110,h,Mathews 25' 3PT Jump Shot (10 PTS) (Bogdanovic 4 AST),Made Shot,Jump Shot,1,3,208
+0022301159,322,PT10M19.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,227
+0022301159,349,PT07M27.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bufkin FOR Mathews,Substitution,,0,0,246
+0022301159,416,PT03M19.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,-191,168,25,Missed,1,,,0,h,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,293
+0022301159,472,PT11M46.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,221,49,0,Missed,1,,,0,h,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,1,3,331
+0022301159,495,PT09M00.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,5,11,1,Missed,1,,,0,h,MISS Mathews 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,348
+0022301159,505,PT08M29.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Gueye FOR Mathews,Substitution,,0,0,356
+0022301178,128,PT03M04.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-235,56,24,Missed,1,,,0,v,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,91
+0022301178,140,PT02M16.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P1.PN) (A.Smith),Foul,Shooting,1,0,99
+0022301178,150,PT01M18.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-32,17,4,Missed,1,,,0,v,MISS Mathews 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,106
+0022301178,276,PT05M24.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Young FOR Mathews,Substitution,,0,0,191
+0022301178,416,PT07M02.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P2.T3) (S.Foster),Foul,Shooting,1,0,289
+0022301178,437,PT05M52.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,236,43,24,Missed,1,,,0,v,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,305
+0022301178,456,PT04M37.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,66,262,27,Missed,1,,,0,v,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,320
+0022301178,466,PT03M53.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,327
+0022301178,488,PT02M11.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Gueye FOR Mathews,Substitution,,0,0,345
+0022301178,629,PT03M41.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews S.FOUL (P3.T1) (J.Goldenberg),Foul,Shooting,1,0,442
+0022301178,648,PT02M47.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews STEAL (1 STL),,,1,0,457
+0022301188,147,PT01M16.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,186,215,28,Made,1,42,31,73,v,Mathews 28' 3PT Jump Shot (3 PTS) (Young 5 AST),Made Shot,Jump Shot,1,3,105
+0022301188,221,PT07M35.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Gueye FOR Mathews,Substitution,,0,0,161
+0022301188,443,PT04M14.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews BLOCK (1 BLK),,,1,2,322
+0022301188,456,PT03M01.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,232,29,0,Missed,1,,,0,v,MISS Mathews 3PT Jump Shot,Missed Shot,Jump Shot,1,3,331
+0022301188,532,PT10M14.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,-199,167,26,Missed,1,,,0,v,MISS Mathews 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,383
+0022301188,562,PT08M38.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,129,228,26,Missed,1,,,0,v,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,403
+0022301188,580,PT07M26.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,233,118,26,Made,1,142,106,248,v,Mathews 26' 3PT Jump Shot (6 PTS) (Krejci 4 AST),Made Shot,Jump Shot,1,3,416
+0022301188,582,PT07M10.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews STEAL (1 STL),,,1,0,418
+0022301188,601,PT06M03.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Forrest FOR Mathews,Substitution,,0,0,431
+0022301209,113,PT04M13.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews STEAL (1 STL),,,1,0,84
+0022301209,120,PT03M43.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P1.T3) (D.Taylor),Foul,Shooting,1,0,90
+0022301209,134,PT03M01.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,99
+0022301209,139,PT02M58.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Young FOR Mathews,Substitution,,0,0,106
+0022301209,447,PT04M34.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P2.PN) (M.Ervin),Foul,Shooting,0,0,332
+0022301209,451,PT04M32.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,335
+0022301209,457,PT03M55.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,Mathews S.FOUL (P3.PN) (D.Taylor),Foul,Shooting,1,0,340
+0022301209,486,PT02M12.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,h,SUB: Bey FOR Mathews,Substitution,,0,0,361
+0022301218,85,PT05M03.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,66
+0022301218,91,PT04M22.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,241,-3,24,Missed,1,,,0,v,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,69
+0022301218,123,PT03M00.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,,,0,v,SUB: Bey FOR Mathews,Substitution,,0,0,94

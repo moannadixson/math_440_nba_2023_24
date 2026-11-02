@@ -1,0 +1,381 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300360,11,PT11M22.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,2,1,3,v,Morant Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,5
+0022300360,12,PT11M22.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,MISS Morant Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,6
+0022300360,23,PT10M38.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,16
+0022300360,24,PT10M35.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-21,5,2,Made,1,4,3,7,v,Morant 2' Putback Layup (3 PTS),Made Shot,Putback Layup Shot,1,2,17
+0022300360,52,PT08M16.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-229,12,0,Missed,1,,,0,v,MISS Morant 3PT Jump Shot,Missed Shot,Jump Shot,1,3,39
+0022300360,60,PT07M42.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant S.FOUL (P1.T1) (Z.Zarba),Foul,Shooting,1,0,46
+0022300360,82,PT06M15.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant BLOCK (1 BLK),,,1,2,63
+0022300360,85,PT06M15.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,SUB: Konchar FOR Morant,Substitution,,0,0,67
+0022300360,178,PT10M52.00S,2,1610612763,MEM,1629630,Morant,J. Morant,-18,-3,2,Made,1,25,29,54,v,Morant 2' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,137
+0022300360,186,PT10M18.00S,2,1610612763,MEM,1629630,Morant,J. Morant,-28,249,25,Missed,1,,,0,v,MISS Morant 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,144
+0022300360,196,PT09M42.00S,2,1610612763,MEM,1629630,Morant,J. Morant,-33,49,6,Missed,1,,,0,v,MISS Morant 6' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,2,153
+0022300360,208,PT09M05.00S,2,1610612763,MEM,1629630,Morant,J. Morant,-21,10,2,Missed,1,,,0,v,MISS Morant 2' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,1,2,162
+0022300360,214,PT08M37.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,167
+0022300360,234,PT06M48.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,182
+0022300360,235,PT06M48.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,SUB: Bane FOR Morant,Substitution,,0,0,183
+0022300360,294,PT02M18.00S,2,1610612763,MEM,1629630,Morant,J. Morant,-40,60,7,Made,1,53,33,86,v,Morant 7' Driving Floating Bank Jump Shot (7 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,223
+0022300360,297,PT01M46.00S,2,1610612763,MEM,1629630,Morant,J. Morant,127,217,25,Missed,1,,,0,v,MISS Morant 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,225
+0022300360,339,PT11M46.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-18,15,2,Missed,1,,,0,v,MISS Morant 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,250
+0022300360,349,PT10M58.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,257
+0022300360,371,PT09M32.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-102,-6,10,Missed,1,,,0,v,MISS Morant 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,272
+0022300360,372,PT09M28.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,273
+0022300360,377,PT09M13.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,278
+0022300360,382,PT08M49.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-16,13,2,Made,1,64,53,117,v,Morant 2' Running Layup (9 PTS) (Roddy 2 AST),Made Shot,Running Layup Shot,1,2,282
+0022300360,386,PT08M26.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-20,9,2,Made,1,64,55,119,v,Morant 2' Floating Jump Shot (11 PTS),Made Shot,Floating Jump shot,1,2,285
+0022300360,389,PT08M26.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,64,56,120,v,Morant Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,1,0,287
+0022300360,398,PT07M28.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-18,5,2,Made,1,69,61,130,v,Morant 2' Layup (14 PTS),Made Shot,Layup Shot,1,2,292
+0022300360,401,PT07M28.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,69,62,131,v,Morant Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,1,0,294
+0022300360,426,PT05M21.00S,3,1610612763,MEM,1629630,Morant,J. Morant,6,69,7,Missed,1,,,0,v,MISS Morant 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,312
+0022300360,428,PT05M16.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant P.FOUL (P2.T2) (Z.Zarba),Foul,Personal,1,0,314
+0022300360,430,PT05M16.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,SUB: Konchar FOR Morant,Substitution,,0,0,315
+0022300360,459,PT03M16.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,81,71,152,v,Morant Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,334
+0022300360,460,PT03M16.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,81,72,153,v,Morant Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,335
+0022300360,462,PT02M47.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-27,-1,3,Missed,1,,,0,v,MISS Morant 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,337
+0022300360,474,PT01M53.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,83,75,158,v,Morant Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,347
+0022300360,477,PT01M53.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,MISS Morant Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,349
+0022300360,488,PT01M00.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant Out of Bounds - Bad Pass Turnover Turnover (P3.T15),Turnover,Out of Bounds - Bad Pass Turnover,1,0,358
+0022300360,492,PT00M29.70S,3,1610612763,MEM,1629630,Morant,J. Morant,-23,-1,2,Made,1,85,77,162,v,Morant 2' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,1,2,361
+0022300360,563,PT08M04.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant STEAL (1 STL),,,1,0,405
+0022300360,571,PT07M15.00S,4,1610612763,MEM,1629630,Morant,J. Morant,-12,83,8,Made,1,98,94,192,v,Morant 8' Floating Jump Shot (22 PTS),Made Shot,Floating Jump shot,1,2,409
+0022300360,578,PT06M41.00S,4,1610612763,MEM,1629630,Morant,J. Morant,1,82,8,Missed,1,,,0,v,MISS Morant 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,414
+0022300360,579,PT06M40.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,415
+0022300360,582,PT06M40.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,100,95,195,v,Morant Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0,417
+0022300360,585,PT06M40.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,100,96,196,v,Morant Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0,419
+0022300360,591,PT06M04.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant Bad Pass Turnover (P4.T17),Turnover,Bad Pass,1,0,424
+0022300360,599,PT05M45.00S,4,1610612763,MEM,1629630,Morant,J. Morant,2,45,5,Made,1,102,98,200,v,Morant 5' Driving Finger Roll Layup (26 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,430
+0022300360,622,PT03M29.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,108,106,214,v,Morant Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,1,0,446
+0022300360,625,PT03M29.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,108,107,215,v,Morant Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,1,0,448
+0022300360,632,PT02M51.00S,4,1610612763,MEM,1629630,Morant,J. Morant,-207,151,26,Missed,1,,,0,v,MISS Morant 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,454
+0022300360,636,PT02M18.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant Lost Ball Turnover (P5.T18),Turnover,Lost Ball,1,0,458
+0022300360,638,PT02M02.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant STEAL (2 STL),,,1,0,461
+0022300360,647,PT01M22.00S,4,1610612763,MEM,1629630,Morant,J. Morant,22,59,6,Made,1,109,111,220,v,Morant 6' Jump Shot (30 PTS),Made Shot,Jump Shot,1,2,467
+0022300360,651,PT00M56.20S,4,1610612763,MEM,1629630,Morant,J. Morant,9,3,1,Made,1,111,113,224,v,Morant 1' Driving Layup (32 PTS),Made Shot,Driving Layup Shot,1,2,471
+0022300360,655,PT00M35.60S,4,1610612763,MEM,1629630,Morant,J. Morant,66,271,28,Missed,1,,,0,v,MISS Morant 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,473
+0022300360,658,PT00M09.60S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,476
+0022300360,668,PT00M00.00S,4,1610612763,MEM,1629630,Morant,J. Morant,-5,51,5,Made,1,113,115,228,v,Morant 5' Driving Layup (34 PTS),Made Shot,Driving Layup Shot,1,2,482
+0022300377,7,PT11M42.00S,1,1610612763,MEM,1629630,Morant,J. Morant,2,0,0,Made,1,2,0,2,h,Morant Driving Finger Roll Layup (2 PTS) (Biyombo 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,3
+0022300377,34,PT08M58.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-9,11,1,Made,1,8,6,14,h,Morant 1' Driving Layup (4 PTS) (Bane 1 AST),Made Shot,Driving Layup Shot,1,2,25
+0022300377,37,PT08M32.00S,1,1610612763,MEM,1629630,Morant,J. Morant,16,5,2,Made,1,10,6,16,h,Morant 2' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,28
+0022300377,75,PT05M29.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,SUB: Aldama FOR Morant,Substitution,,0,0,55
+0022300377,138,PT00M33.60S,1,1610612763,MEM,1629630,Morant,J. Morant,-59,258,26,Made,1,35,22,57,h,Morant 26' 3PT Running Pull-Up Jump Shot (9 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,100
+0022300377,140,PT00M14.20S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,102
+0022300377,141,PT00M01.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,103
+0022300377,165,PT10M46.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,119
+0022300377,166,PT10M41.00S,2,1610612763,MEM,1629630,Morant,J. Morant,-36,262,26,Missed,1,,,0,h,MISS Morant 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,120
+0022300377,205,PT06M55.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,SUB: Konchar FOR Morant,Substitution,,0,0,147
+0022300377,276,PT01M46.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,197
+0022300377,308,PT11M43.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,216
+0022300377,317,PT11M11.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-12,-6,1,Made,1,60,57,117,h,Morant 1' Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,223
+0022300377,330,PT10M12.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-12,40,4,Missed,1,,,0,h,MISS Morant 4' Running Layup,Missed Shot,Running Layup Shot,1,2,234
+0022300377,335,PT10M00.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,237
+0022300377,349,PT08M41.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-152,192,24,Missed,1,,,0,h,MISS Morant 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,247
+0022300377,365,PT07M35.00S,3,1610612763,MEM,1629630,Morant,J. Morant,58,58,8,Made,1,71,67,138,h,Morant 8' Turnaround Jump Shot (13 PTS),Made Shot,Turnaround Jump Shot,1,2,261
+0022300377,368,PT07M05.00S,3,1610612763,MEM,1629630,Morant,J. Morant,93,156,18,Missed,1,,,0,h,MISS Morant 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,264
+0022300377,396,PT05M15.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-23,35,4,Missed,1,,,0,h,MISS Morant 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,285
+0022300377,400,PT05M15.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,SUB: Konchar FOR Morant,Substitution,,0,0,288
+0022300377,451,PT01M56.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-13,17,2,Missed,1,,,0,h,MISS Morant 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,325
+0022300377,465,PT00M25.60S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant Lost Ball Turnover (P2.T13),Turnover,Lost Ball,1,0,337
+0022300377,494,PT11M47.00S,4,1610612763,MEM,1629630,Morant,J. Morant,-25,13,3,Made,1,88,77,165,h,Morant 3' Driving Layup (15 PTS) (Williams 2 AST),Made Shot,Driving Layup Shot,1,2,356
+0022300377,498,PT11M47.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,89,77,166,h,Morant Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,1,0,358
+0022300377,513,PT10M07.00S,4,1610612763,MEM,1629630,Morant,J. Morant,-69,84,11,Missed,1,,,0,h,MISS Morant 11' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,370
+0022300377,533,PT08M28.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,MISS Morant Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,0,383
+0022300377,535,PT08M28.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,98,86,184,h,Morant Free Throw 2 of 3 (17 PTS),Free Throw,Free Throw 2 of 3,1,0,385
+0022300377,542,PT08M28.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,99,86,185,h,Morant Free Throw 3 of 3 (18 PTS),Free Throw,Free Throw 3 of 3,1,0,389
+0022300377,550,PT08M04.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,SUB: Konchar FOR Morant,Substitution,,0,0,395
+0022300377,620,PT04M30.00S,4,1610612763,MEM,1629630,Morant,J. Morant,-70,51,9,Missed,1,,,0,h,MISS Morant 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,449
+0022300377,673,PT03M20.00S,4,1610612763,MEM,1629630,Morant,J. Morant,-21,31,4,Missed,1,,,0,h,MISS Morant 4' Driving Layup,Missed Shot,Driving Layup Shot,0,2,461
+0022300377,649,PT01M41.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,112,98,210,h,Morant Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,475
+0022300377,657,PT01M41.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,113,98,211,h,Morant Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,480
+0022300393,9,PT11M29.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant STEAL (1 STL),,,1,0,6
+0022300393,24,PT09M59.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-2,17,2,Made,1,6,6,12,v,Morant 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,16
+0022300393,30,PT09M14.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,20
+0022300393,31,PT09M05.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-124,0,12,Missed,1,,,0,v,MISS Morant 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,21
+0022300393,38,PT07M59.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-2,12,1,Missed,1,,,0,v,MISS Morant 1' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,27
+0022300393,42,PT07M30.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-70,75,10,Made,1,13,12,25,v,Morant 10' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,30
+0022300393,54,PT06M43.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,38
+0022300393,69,PT05M20.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,SUB: Konchar FOR Morant,Substitution,,0,0,50
+0022300393,129,PT01M45.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant Lost Ball Turnover (P2.T4),Turnover,Lost Ball,1,0,94
+0022300393,145,PT00M35.70S,1,1610612763,MEM,1629630,Morant,J. Morant,-89,239,26,Made,1,30,25,55,v,Morant 26' 3PT Jump Shot (7 PTS) (Konchar 2 AST),Made Shot,Jump Shot,1,3,108
+0022300393,169,PT11M11.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,122
+0022300393,200,PT08M19.00S,2,1610612763,MEM,1629630,Morant,J. Morant,-44,39,6,Made,1,41,36,77,v,Morant 6' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,1,2,146
+0022300393,204,PT08M01.00S,2,1610612763,MEM,1629630,Morant,J. Morant,-5,10,1,Made,1,41,38,79,v,Morant 1' Running Reverse Layup (11 PTS),Made Shot,Running Reverse Layup Shot,1,2,150
+0022300393,211,PT08M01.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,41,39,80,v,Morant Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,1,0,154
+0022300393,218,PT07M20.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant P.FOUL (P1.T1) (J.Goble),Foul,Personal,1,0,161
+0022300393,226,PT07M15.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,166
+0022300393,227,PT07M11.00S,2,1610612763,MEM,1629630,Morant,J. Morant,-17,97,10,Made,1,41,41,82,v,Morant 10' Running Pull-Up Jump Shot (14 PTS),Made Shot,Running Pull-Up Jump Shot,1,2,167
+0022300393,245,PT06M37.00S,2,1610612763,MEM,1629630,Morant,J. Morant,-4,133,13,Missed,1,,,0,v,MISS Morant 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,180
+0022300393,248,PT06M05.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant Bad Pass Turnover (P3.T6),Turnover,Bad Pass,1,0,183
+0022300393,252,PT06M05.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,SUB: Konchar FOR Morant,Substitution,,0,0,186
+0022300393,327,PT01M33.00S,2,1610612763,MEM,1629630,Morant,J. Morant,221,-9,0,Missed,1,,,0,v,MISS Morant 3PT Jump Shot,Missed Shot,Jump Shot,1,3,247
+0022300393,339,PT00M43.60S,2,1610612763,MEM,1629630,Morant,J. Morant,-9,13,2,Made,1,58,50,108,v,Morant 2' Running Reverse Layup (16 PTS) (Bane 4 AST),Made Shot,Running Reverse Layup Shot,1,2,258
+0022300393,367,PT11M24.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-39,19,4,Made,1,62,53,115,v,Morant 4' Driving Floating Bank Jump Shot (18 PTS) (Bane 5 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,275
+0022300393,379,PT09M43.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-9,0,1,Made,1,62,60,122,v,Morant 1' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,1,2,285
+0022300393,402,PT07M16.00S,3,1610612763,MEM,1629630,Morant,J. Morant,123,-7,12,Missed,1,,,0,v,MISS Morant 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,300
+0022300393,406,PT07M08.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-2,8,1,Made,1,69,70,139,v,Morant 1' Dunk (22 PTS),Made Shot,Dunk Shot,1,2,304
+0022300393,421,PT06M02.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-7,4,1,Missed,1,,,0,v,MISS Morant 1' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,314
+0022300393,426,PT05M35.00S,3,1610612763,MEM,1629630,Morant,J. Morant,2,5,1,Missed,1,,,0,v,MISS Morant 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,318
+0022300393,430,PT05M30.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,SUB: Konchar FOR Morant,Substitution,,0,0,322
+0022300393,475,PT01M26.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-2,20,2,Made,1,86,88,174,v,Morant 2' Driving Floating Jump Shot (24 PTS) (Williams 3 AST),Made Shot,Driving Floating Jump Shot,1,2,353
+0022300393,480,PT01M05.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-5,-7,1,Made,1,88,90,178,v,Morant 1' Alley Oop Dunk (26 PTS) (Aldama 3 AST),Made Shot,Alley Oop Dunk Shot,1,2,356
+0022300393,488,PT00M33.10S,3,1610612763,MEM,1629630,Morant,J. Morant,-96,0,10,Missed,1,,,0,v,MISS Morant 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,360
+0022300393,537,PT09M33.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,392
+0022300393,542,PT09M13.00S,4,1610612763,MEM,1629630,Morant,J. Morant,-188,164,25,Missed,1,,,0,v,MISS Morant 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,395
+0022300393,554,PT08M11.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,404
+0022300393,555,PT08M02.00S,4,1610612763,MEM,1629630,Morant,J. Morant,16,14,2,Missed,1,,,0,v,MISS Morant 2' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,405
+0022300393,559,PT07M34.00S,4,1610612763,MEM,1629630,Morant,J. Morant,2,3,0,Made,1,104,106,210,v,Morant Driving Reverse Layup (28 PTS),Made Shot,Driving Reverse Layup Shot,1,2,409
+0022300393,564,PT07M24.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,SUB: Bane FOR Morant,Substitution,,0,0,413
+0022300393,617,PT03M59.00S,4,1610612763,MEM,1629630,Morant,J. Morant,-21,68,7,Made,1,106,115,221,v,Morant 7' Driving Floating Jump Shot (30 PTS),Made Shot,Driving Floating Jump Shot,1,2,454
+0022300393,624,PT02M28.00S,4,1610612763,MEM,1629630,Morant,J. Morant,-4,101,10,Missed,1,,,0,v,MISS Morant 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,458
+0022300393,626,PT02M24.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant BLOCK (1 BLK),,,1,2,461
+0022300393,652,PT01M13.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,481
+0022300393,684,PT00M13.50S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,SUB: Tillman FOR Morant,Substitution,,0,0,508
+0022300410,14,PT10M57.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-16,-3,2,Made,1,2,2,4,v,Morant 2' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,1,2,9
+0022300410,15,PT10M48.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant Violation:Kicked Ball (B.Schwab),Violation,Kicked Ball,0,0,10
+0022300410,21,PT10M16.00S,1,1610612763,MEM,1629630,Morant,J. Morant,7,7,1,Missed,1,,,0,v,MISS Morant 1' Running Layup,Missed Shot,Running Layup Shot,1,2,16
+0022300410,28,PT09M40.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,21
+0022300410,34,PT09M13.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,27
+0022300410,43,PT08M20.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,33
+0022300410,119,PT07M26.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-92,104,14,Missed,1,,,0,v,MISS Morant 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,47
+0022300410,65,PT06M56.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-27,185,19,Made,1,7,12,19,v,Morant 19' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,1,2,52
+0022300410,74,PT05M56.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,61
+0022300410,78,PT05M51.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant S.FOUL (P1.T3) (B.Schwab),Foul,Shooting,1,0,64
+0022300410,83,PT05M51.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,SUB: Williams Jr. FOR Morant,Substitution,,0,0,68
+0022300410,158,PT00M29.50S,1,1610612763,MEM,1629630,Morant,J. Morant,21,258,26,Missed,1,,,0,v,MISS Morant 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,124
+0022300410,191,PT11M32.00S,2,1610612763,MEM,1629630,Morant,J. Morant,172,189,26,Missed,1,,,0,v,MISS Morant 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,141
+0022300410,194,PT10M58.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant Out of Bounds - Bad Pass Turnover Turnover (P3.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,144
+0022300410,197,PT10M16.00S,2,1610612763,MEM,1629630,Morant,J. Morant,-1,293,29,Missed,1,,,0,v,MISS Morant 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,147
+0022300410,200,PT09M50.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant Lost Ball Turnover (P4.T7),Turnover,Lost Ball,1,0,150
+0022300410,234,PT07M16.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant BLOCK (1 BLK),,,1,2,178
+0022300410,242,PT06M38.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,183
+0022300410,243,PT06M34.00S,2,1610612763,MEM,1629630,Morant,J. Morant,-27,74,8,Made,1,33,31,64,v,Morant 8' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,1,2,184
+0022300410,252,PT06M34.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,MISS Morant Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,189
+0022300410,259,PT06M11.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,SUB: Biyombo FOR Morant,Substitution,,0,0,195
+0022300410,313,PT01M39.00S,2,1610612763,MEM,1629630,Morant,J. Morant,28,91,10,Made,1,42,42,84,v,Morant 10' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,1,2,237
+0022300410,316,PT01M39.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,42,43,85,v,Morant Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,239
+0022300410,325,PT00M58.60S,2,1610612763,MEM,1629630,Morant,J. Morant,77,242,25,Missed,1,,,0,v,MISS Morant 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,246
+0022300410,334,PT00M00.50S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant Violation:Defensive Goaltending (B.Schwab),Violation,Defensive Goaltending,1,0,254
+0022300410,347,PT11M32.00S,3,1610612763,MEM,1629630,Morant,J. Morant,22,6,2,Made,1,50,45,95,v,Morant 2' Driving Layup (11 PTS) (Bane 2 AST),Made Shot,Driving Layup Shot,1,2,259
+0022300410,357,PT10M41.00S,3,1610612763,MEM,1629630,Morant,J. Morant,173,179,25,Missed,1,,,0,v,MISS Morant 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,266
+0022300410,374,PT08M46.00S,3,1610612763,MEM,1629630,Morant,J. Morant,5,69,7,Made,1,54,52,106,v,Morant 7' Driving Floating Jump Shot (13 PTS),Made Shot,Driving Floating Jump Shot,1,2,280
+0022300410,377,PT08M20.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant Bad Pass Turnover (P5.T11),Turnover,Bad Pass,1,0,282
+0022300410,380,PT07M57.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-29,9,3,Missed,1,,,0,v,MISS Morant 3' Layup,Missed Shot,Layup Shot,1,2,285
+0022300410,389,PT07M20.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant STEAL (1 STL),,,1,0,294
+0022300410,397,PT06M50.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-234,0,0,Made,1,61,57,118,v,Morant 3PT Jump Shot (16 PTS) (Bane 3 AST),Made Shot,Jump Shot,1,3,299
+0022300410,406,PT06M26.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,61,58,119,v,Morant Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,305
+0022300410,407,PT06M26.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,61,59,120,v,Morant Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,306
+0022300410,410,PT06M03.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-17,0,2,Missed,1,,,0,v,MISS Morant 2' Running Layup,Missed Shot,Running Layup Shot,1,2,309
+0022300410,426,PT05M41.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,SUB: Williams FOR Morant,Substitution,,0,0,321
+0022300410,474,PT02M18.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant Lost Ball Turnover (P6.T14),Turnover,Lost Ball,1,0,355
+0022300410,478,PT01M42.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-26,8,3,Made,1,77,65,142,v,Morant 3' Driving Layup (20 PTS) (Williams Jr. 2 AST),Made Shot,Driving Layup Shot,1,2,359
+0022300410,481,PT01M04.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-47,199,20,Missed,1,,,0,v,MISS Morant 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,362
+0022300410,533,PT10M11.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant P.FOUL (P2.T2) (B.Schwab),Foul,Personal,1,0,397
+0022300410,536,PT09M42.00S,4,1610612763,MEM,1629630,Morant,J. Morant,-4,-6,1,Made,1,83,75,158,v,Morant 1' Driving Dunk (22 PTS) (Smart 1 AST),Made Shot,Driving Dunk Shot,1,2,399
+0022300410,569,PT08M06.00S,4,1610612763,MEM,1629630,Morant,J. Morant,2,35,4,Made,1,87,80,167,v,Morant 4' Driving Hook Shot (24 PTS),Made Shot,Driving Hook Shot,1,2,426
+0022300410,579,PT07M28.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,SUB: Jackson Jr. FOR Morant,Substitution,,0,0,435
+0022300410,627,PT04M55.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant BLOCK (2 BLK),,,1,2,466
+0022300410,636,PT04M43.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,95,89,184,v,Morant Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,1,0,471
+0022300410,637,PT04M43.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,95,90,185,v,Morant Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,1,0,472
+0022300410,642,PT04M03.00S,4,1610612763,MEM,1629630,Morant,J. Morant,-33,13,4,Missed,1,,,0,v,MISS Morant 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,476
+0022300410,648,PT03M48.00S,4,1610612763,MEM,1629630,Morant,J. Morant,-18,252,25,Missed,1,,,0,v,MISS Morant 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,482
+0022300410,694,PT00M48.70S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant Violation:Defensive Goaltending (M.Ervin),Violation,Defensive Goaltending,1,0,519
+0022300410,765,PT03M41.00S,5,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,104,104,208,v,Morant Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,1,0,559
+0022300410,766,PT03M41.00S,5,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,MISS Morant Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,560
+0022300410,788,PT02M22.00S,5,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,576
+0022300410,789,PT02M08.00S,5,1610612763,MEM,1629630,Morant,J. Morant,0,89,9,Made,1,107,109,216,v,Morant 9' Driving Floating Jump Shot (29 PTS),Made Shot,Driving Floating Jump Shot,1,2,577
+0022300410,821,PT00M13.70S,5,1610612763,MEM,1629630,Morant,J. Morant,-2,3,0,Made,1,109,115,224,v,Morant Alley Oop Dunk (31 PTS) (Smart 3 AST),Made Shot,Alley Oop Dunk Shot,1,2,598
+0022300438,10,PT11M28.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,5
+0022300438,17,PT10M20.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,10
+0022300438,26,PT09M01.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-6,82,8,Missed,1,,,0,v,MISS Morant 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,17
+0022300438,35,PT08M29.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,24
+0022300438,65,PT06M24.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,48
+0022300438,85,PT06M21.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,49
+0022300438,78,PT05M16.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,59
+0022300438,82,PT04M27.00S,1,1610612763,MEM,1629630,Morant,J. Morant,5,34,3,Made,1,18,17,35,v,Morant 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,63
+0022300438,89,PT04M13.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,SUB: Roddy FOR Morant,Substitution,,0,0,68
+0022300438,135,PT01M45.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,97
+0022300438,140,PT01M08.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-26,37,5,Missed,1,,,0,v,MISS Morant 5' Layup,Missed Shot,Layup Shot,1,2,102
+0022300438,170,PT11M10.00S,2,1610612763,MEM,1629630,Morant,J. Morant,29,284,29,Missed,1,,,0,v,MISS Morant 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,122
+0022300438,183,PT09M49.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,MISS Morant Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,132
+0022300438,185,PT09M49.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,40,29,69,v,Morant Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,134
+0022300438,196,PT08M53.00S,2,1610612763,MEM,1629630,Morant,J. Morant,1,61,6,Made,1,44,31,75,v,Morant 6' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,1,2,142
+0022300438,207,PT07M54.00S,2,1610612763,MEM,1629630,Morant,J. Morant,-33,79,9,Made,1,45,36,81,v,Morant 9' Turnaround Jump Shot (7 PTS) (Aldama 1 AST),Made Shot,Turnaround Jump Shot,1,2,150
+0022300438,211,PT07M32.00S,2,1610612763,MEM,1629630,Morant,J. Morant,108,252,27,Missed,1,,,0,v,MISS Morant 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,152
+0022300438,221,PT07M19.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,SUB: Jackson Jr. FOR Morant,Substitution,,0,0,161
+0022300438,356,PT10M37.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,61,55,116,v,Morant Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,246
+0022300438,357,PT10M37.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,61,56,117,v,Morant Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,247
+0022300438,366,PT10M04.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-178,207,27,Missed,1,,,0,v,MISS Morant 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,255
+0022300438,374,PT09M54.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant S.FOUL (P1.T1) (J.Sterling),Foul,Shooting,1,0,260
+0022300438,390,PT08M47.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-16,76,8,Made,1,69,58,127,v,Morant 8' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,1,2,271
+0022300438,396,PT08M02.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-33,43,5,Missed,1,,,0,v,MISS Morant 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,275
+0022300438,408,PT06M51.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0,285
+0022300438,423,PT05M13.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-38,63,7,Made,1,79,65,144,v,Morant 7' Driving Floating Bank Jump Shot (13 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,297
+0022300438,426,PT04M33.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-37,33,5,Made,1,81,67,148,v,Morant 5' Driving Floating Jump Shot (15 PTS),Made Shot,Driving Floating Jump Shot,1,2,299
+0022300438,431,PT04M19.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,SUB: Roddy FOR Morant,Substitution,,0,0,303
+0022300438,463,PT02M20.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-163,217,27,Missed,1,,,0,v,MISS Morant 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,325
+0022300438,469,PT02M00.00S,3,1610612763,MEM,1629630,Morant,J. Morant,6,6,1,Made,1,87,74,161,v,Morant 1' Running Dunk (17 PTS) (Bane 4 AST),Made Shot,Running Dunk Shot,1,2,331
+0022300438,481,PT01M11.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant P.FOUL (P2.T4) (J.Sterling),Foul,Personal,1,0,338
+0022300438,493,PT00M29.20S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,346
+0022300438,494,PT00M10.70S,3,1610612763,MEM,1629630,Morant,J. Morant,88,246,26,Missed,1,,,0,v,MISS Morant 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,347
+0022300438,527,PT11M17.00S,4,1610612763,MEM,1629630,Morant,J. Morant,-48,11,5,Missed,1,,,0,v,MISS Morant 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,360
+0022300438,539,PT09M55.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant P.FOUL (P3.T2) (B.Kennedy),Foul,Personal,1,0,377
+0022300438,542,PT09M39.00S,4,1610612763,MEM,1629630,Morant,J. Morant,51,260,26,Missed,1,,,0,v,MISS Morant 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,379
+0022300438,590,PT06M46.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,100,91,191,v,Morant Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,414
+0022300438,591,PT06M46.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,100,92,192,v,Morant Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,415
+0022300438,597,PT06M25.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,SUB: Smart FOR Morant,Substitution,,0,0,419
+0022300438,639,PT02M19.00S,4,1610612763,MEM,1629630,Morant,J. Morant,-53,52,7,Missed,1,,,0,v,MISS Morant 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,454
+0022300438,661,PT00M51.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant P.FOUL (P4.PN) (S.Twardoski),Foul,Personal,1,0,470
+0022300438,668,PT00M49.20S,4,1610612763,MEM,1629630,Morant,J. Morant,-202,164,26,Missed,1,,,0,v,MISS Morant 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,475
+0022300449,11,PT11M17.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-224,103,25,Made,1,3,2,5,h,Morant 25' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,6
+0022300449,20,PT09M46.00S,1,1610612763,MEM,1629630,Morant,J. Morant,113,43,12,Made,1,5,7,12,h,Morant 12' Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,2,14
+0022300449,33,PT08M30.00S,1,1610612763,MEM,1629630,Morant,J. Morant,50,106,12,Missed,1,,,0,h,MISS Morant 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,24
+0022300449,45,PT06M53.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,34
+0022300449,46,PT06M44.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-91,1,9,Missed,1,,,0,h,MISS Morant 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,35
+0022300449,59,PT06M05.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,SUB: Rose FOR Morant,Substitution,,0,0,47
+0022300449,147,PT11M27.00S,2,1610612763,MEM,1629630,Morant,J. Morant,116,225,25,Missed,1,,,0,h,MISS Morant 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,101
+0022300449,149,PT11M16.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant S.FOUL (P1.T1) (M.Kallio),Foul,Shooting,1,0,103
+0022300449,182,PT08M51.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,35,43,78,h,Morant Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,128
+0022300449,185,PT08M51.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,36,43,79,h,Morant Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,130
+0022300449,201,PT08M03.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,MISS Morant Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,141
+0022300449,205,PT08M03.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,37,43,80,h,Morant Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,144
+0022300449,219,PT06M57.00S,2,1610612763,MEM,1629630,Morant,J. Morant,114,131,17,Missed,1,,,0,h,MISS Morant 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,155
+0022300449,230,PT06M16.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,SUB: Bane FOR Morant,Substitution,,0,0,164
+0022300449,293,PT02M38.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,47,59,106,h,Morant Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,211
+0022300449,296,PT02M38.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,48,59,107,h,Morant Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,213
+0022300449,310,PT01M26.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant P.FOUL (P2.PN) (G.Petraitis),Foul,Personal,1,0,221
+0022300449,323,PT00M38.90S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,55,68,123,h,Morant Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,231
+0022300449,326,PT00M38.90S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,56,68,124,h,Morant Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,233
+0022300449,328,PT00M27.90S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,235
+0022300449,334,PT00M00.30S,2,1610612763,MEM,1629630,Morant,J. Morant,-108,390,40,Missed,1,,,0,h,MISS Morant 40' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,240
+0022300449,353,PT10M19.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-6,97,10,Missed,1,,,0,h,MISS Morant 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,254
+0022300449,461,PT02M45.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,SUB: Rose FOR Morant,Substitution,,0,0,338
+0022300449,502,PT11M47.00S,4,1610612763,MEM,1629630,Morant,J. Morant,-15,5,2,Made,1,81,101,182,h,Morant 2' Driving Finger Roll Layup (14 PTS) (Kennard 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,364
+0022300449,507,PT10M49.00S,4,1610612763,MEM,1629630,Morant,J. Morant,-22,21,3,Missed,1,,,0,h,MISS Morant 3' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,368
+0022300449,545,PT07M56.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,397
+0022300449,546,PT07M40.00S,4,1610612763,MEM,1629630,Morant,J. Morant,-28,12,3,Missed,1,,,0,h,MISS Morant 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,398
+0022300449,555,PT06M33.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant S.FOUL (P3.T2) (G.Petraitis),Foul,Shooting,1,0,406
+0022300449,575,PT05M15.00S,4,1610612763,MEM,1629630,Morant,J. Morant,108,241,26,Made,1,90,113,203,h,Morant 26' 3PT Jump Shot (17 PTS) (Bane 6 AST),Made Shot,Jump Shot,1,3,422
+0022300449,579,PT04M49.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,SUB: Williams FOR Morant,Substitution,,0,0,425
+0022300460,14,PT11M00.00S,1,1610612763,MEM,1629630,Morant,J. Morant,37,29,5,Missed,1,,,0,h,MISS Morant 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,7
+0022300460,25,PT10M03.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-70,259,27,Made,1,5,3,8,h,Morant 27' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,17
+0022300460,58,PT07M23.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,41
+0022300460,61,PT07M21.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,8,9,17,h,Morant Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,43
+0022300460,62,PT07M21.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,9,9,18,h,Morant Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,44
+0022300460,79,PT06M02.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,55
+0022300460,80,PT05M53.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-120,254,28,Missed,1,,,0,h,MISS Morant 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,56
+0022300460,97,PT04M31.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,MISS Morant Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,68
+0022300460,105,PT04M31.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,14,11,25,h,Morant Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,73
+0022300460,111,PT04M02.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-54,48,7,Missed,1,,,0,h,MISS Morant 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,80
+0022300460,118,PT03M33.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,SUB: Rose FOR Morant,Substitution,,0,0,86
+0022300460,239,PT06M45.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant STEAL (1 STL),,,1,0,177
+0022300460,258,PT05M48.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant P.FOUL (P1.T4) (C.Washington),Foul,Personal,1,0,190
+0022300460,306,PT01M57.00S,2,1610612763,MEM,1629630,Morant,J. Morant,-124,231,26,Made,1,42,37,79,h,Morant 26' 3PT Pullup Jump Shot (9 PTS) (Kennard 2 AST),Made Shot,Pullup Jump shot,1,3,224
+0022300460,310,PT01M32.00S,2,1610612763,MEM,1629630,Morant,J. Morant,-66,243,25,Missed,1,,,0,h,MISS Morant 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,227
+0022300460,316,PT01M07.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,232
+0022300460,324,PT00M45.00S,2,1610612763,MEM,1629630,Morant,J. Morant,-64,121,14,Made,1,47,37,84,h,Morant 14' Turnaround Fadeaway (11 PTS),Made Shot,Turnaround Fadeaway shot,1,2,238
+0022300460,327,PT00M12.40S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,241
+0022300460,365,PT09M39.00S,3,1610612763,MEM,1629630,Morant,J. Morant,225,115,25,Missed,1,,,0,h,MISS Morant 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,264
+0022300460,384,PT07M14.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-48,251,26,Missed,1,,,0,h,MISS Morant 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,277
+0022300460,387,PT06M58.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,280
+0022300460,393,PT06M32.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,SUB: Williams Jr. FOR Morant,Substitution,,0,0,285
+0022300460,474,PT01M02.00S,3,1610612763,MEM,1629630,Morant,J. Morant,109,220,25,Missed,1,,,0,h,MISS Morant 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,346
+0022300460,478,PT00M49.10S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant P.FOUL (P2.T4) (M.Ervin),Foul,Personal,1,0,349
+0022300460,486,PT00M35.60S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,MISS Morant Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,354
+0022300460,490,PT00M35.60S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,MISS Morant Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,357
+0022300460,501,PT00M03.90S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,79,68,147,h,Morant Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,366
+0022300460,502,PT00M03.90S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,80,68,148,h,Morant Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,367
+0022300460,519,PT10M57.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,377
+0022300460,528,PT10M37.00S,4,1610612763,MEM,1629630,Morant,J. Morant,229,67,24,Missed,1,,,0,h,MISS Morant 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,384
+0022300460,532,PT10M12.00S,4,1610612763,MEM,1629630,Morant,J. Morant,31,31,4,Made,1,84,68,152,h,Morant 4' Running Layup (15 PTS),Made Shot,Running Layup Shot,1,2,388
+0022300460,543,PT09M11.00S,4,1610612763,MEM,1629630,Morant,J. Morant,-1,4,0,Made,1,88,70,158,h,Morant Driving Dunk (17 PTS),Made Shot,Driving Dunk Shot,1,2,396
+0022300460,552,PT08M38.00S,4,1610612763,MEM,1629630,Morant,J. Morant,168,208,27,Made,1,91,73,164,h,Morant 27' 3PT Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,1,3,402
+0022300460,571,PT07M16.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant Lost Ball Turnover (P3.T10),Turnover,Lost Ball,1,0,414
+0022300460,573,PT07M03.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant S.FOUL (P3.PN) (P.Ransom),Foul,Shooting,1,0,416
+0022300460,583,PT06M34.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,423
+0022300460,618,PT04M01.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,99,84,183,h,Morant Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,450
+0022300460,619,PT04M01.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,100,84,184,h,Morant Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,451
+0022300460,666,PT00M53.10S,4,1610612763,MEM,1629630,Morant,J. Morant,-48,34,6,Made,1,104,94,198,h,Morant 6' Driving Floating Jump Shot (24 PTS),Made Shot,Driving Floating Jump Shot,1,2,485
+0022300460,672,PT00M20.20S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,105,94,199,h,Morant Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,1,0,490
+0022300460,681,PT00M20.20S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,106,94,200,h,Morant Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,1,0,495
+0022300460,684,PT00M08.60S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant Out of Bounds - Bad Pass Turnover Turnover (P4.T15),Turnover,Out of Bounds - Bad Pass Turnover,1,0,497
+0022300470,10,PT11M31.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+0022300470,38,PT08M49.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-185,26,19,Made,1,6,6,12,h,Morant 19' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,2,29
+0022300470,46,PT07M32.00S,1,1610612763,MEM,1629630,Morant,J. Morant,102,244,26,Made,1,11,11,22,h,Morant 26' 3PT Jump Shot (5 PTS) (Smart 1 AST),Made Shot,Jump Shot,1,3,34
+0022300470,50,PT07M04.00S,1,1610612763,MEM,1629630,Morant,J. Morant,21,269,27,Made,1,14,11,25,h,Morant 27' 3PT Running Jump Shot (8 PTS) (Bane 1 AST),Made Shot,Running Jump Shot,1,3,37
+0022300470,55,PT06M23.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-12,64,7,Missed,1,,,0,h,MISS Morant 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,41
+0022300470,84,PT05M16.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,62
+0022300470,85,PT05M16.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,SUB: Konchar FOR Morant,Substitution,,0,0,63
+0022300470,194,PT10M28.00S,2,1610612763,MEM,1629630,Morant,J. Morant,-115,275,30,Missed,1,,,0,h,MISS Morant 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,141
+0022300470,198,PT10M03.00S,2,1610612763,MEM,1629630,Morant,J. Morant,2,15,2,Made,1,33,32,65,h,Morant 2' Driving Finger Roll Layup (10 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,144
+0022300470,204,PT08M45.00S,2,1610612763,MEM,1629630,Morant,J. Morant,-38,96,10,Made,1,35,37,72,h,Morant 10' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,2,149
+0022300470,206,PT08M29.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,151
+0022300470,219,PT07M07.00S,2,1610612763,MEM,1629630,Morant,J. Morant,-91,54,11,Missed,1,,,0,h,MISS Morant 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,161
+0022300470,235,PT06M21.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant STEAL (1 STL),,,1,0,173
+0022300470,237,PT06M18.00S,2,1610612763,MEM,1629630,Morant,J. Morant,-7,38,4,Missed,1,,,0,h,MISS Morant 4' Running Layup,Missed Shot,Running Layup Shot,1,2,174
+0022300470,250,PT05M43.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,SUB: Aldama FOR Morant,Substitution,,0,0,185
+0022300470,317,PT00M59.90S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,233
+0022300470,329,PT00M02.80S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant P.FOUL (P1.T4) (S.Wall),Foul,Personal,1,0,244
+0022300470,358,PT11M03.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-12,4,1,Made,1,50,67,117,h,Morant 1' Driving Finger Roll Layup (14 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,256
+0022300470,369,PT09M59.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,264
+0022300470,370,PT09M50.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,0,265
+0022300470,400,PT07M43.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-10,1,1,Made,1,57,74,131,h,Morant 1' Driving Finger Roll Layup (16 PTS) (Aldama 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,288
+0022300470,422,PT05M35.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,304
+0022300470,423,PT05M23.00S,3,1610612763,MEM,1629630,Morant,J. Morant,1,9,1,Missed,1,,,0,h,MISS Morant 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,305
+0022300470,424,PT05M20.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,306
+0022300470,425,PT05M20.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,Made,1,64,78,142,h,Morant Tip Layup Shot (18 PTS),Made Shot,Tip Layup Shot,1,2,307
+0022300470,434,PT05M02.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,SUB: Kennard FOR Morant,Substitution,,0,0,313
+0022300470,484,PT02M21.00S,3,1610612763,MEM,1629630,Morant,J. Morant,120,218,25,Missed,1,,,0,h,MISS Morant 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,349
+0022300470,494,PT01M43.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,71,86,157,h,Morant Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,356
+0022300470,495,PT01M43.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,72,86,158,h,Morant Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,357
+0022300470,501,PT01M15.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,73,88,161,h,Morant Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,361
+0022300470,502,PT01M15.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,74,88,162,h,Morant Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,362
+0022300470,560,PT08M16.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,MISS Morant Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,401
+0022300470,564,PT08M16.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,87,102,189,h,Morant Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,0,404
+0022300470,566,PT08M03.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,406
+0022300470,567,PT07M59.00S,4,1610612763,MEM,1629630,Morant,J. Morant,-15,-2,2,Missed,1,,,0,h,MISS Morant 2' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,2,407
+0022300470,575,PT07M29.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,SUB: Aldama FOR Morant,Substitution,,0,0,414
+0022300470,618,PT03M45.00S,4,1610612763,MEM,1629630,Morant,J. Morant,233,-13,0,Missed,1,,,0,h,MISS Morant 3PT Jump Shot,Missed Shot,Jump Shot,1,3,448
+0022300470,640,PT01M15.00S,4,1610612763,MEM,1629630,Morant,J. Morant,-27,16,3,Made,1,105,110,215,h,Morant 3' Driving Finger Roll Layup (25 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,465
+0022300470,664,PT00M06.70S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,h,Morant REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,484
+0022300470,665,PT00M03.60S,4,1610612763,MEM,1629630,Morant,J. Morant,-87,237,25,Made,1,111,115,226,h,Morant 25' 3PT Pullup Jump Shot (28 PTS),Made Shot,Pullup Jump shot,1,3,485
+0022300491,13,PT11M07.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+0022300491,19,PT10M37.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-18,10,2,Made,1,2,2,4,v,Morant 2' Running Layup (2 PTS) (Bane 1 AST),Made Shot,Running Layup Shot,1,2,12
+0022300491,25,PT09M52.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant P.FOUL (P1.T1) (M.Boland),Foul,Personal,1,0,16
+0022300491,35,PT09M15.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,2,5,7,v,Morant Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,24
+0022300491,36,PT09M15.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,MISS Morant Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,25
+0022300491,77,PT05M16.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-23,13,3,Made,1,19,18,37,v,Morant 3' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,54
+0022300491,86,PT05M16.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,19,19,38,v,Morant Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,59
+0022300491,88,PT04M53.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,61
+0022300491,93,PT04M33.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,SUB: Kennard FOR Morant,Substitution,,0,0,65
+0022300491,123,PT01M36.00S,1,1610612763,MEM,1629630,Morant,J. Morant,22,230,23,Made,1,32,26,58,v,Morant 23' Pullup Jump Shot (8 PTS) (Williams 1 AST),Made Shot,Pullup Jump shot,1,2,86
+0022300491,136,PT01M00.00S,1,1610612763,MEM,1629630,Morant,J. Morant,15,62,6,Missed,1,,,0,v,MISS Morant 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,96
+0022300491,148,PT00M00.50S,1,1610612763,MEM,1629630,Morant,J. Morant,116,234,26,Made,1,38,29,67,v,Morant 26' 3PT Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,3,106
+0022300491,174,PT10M24.00S,2,1610612763,MEM,1629630,Morant,J. Morant,85,235,25,Missed,1,,,0,v,MISS Morant 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,126
+0022300491,176,PT10M10.00S,2,1610612763,MEM,1629630,Morant,J. Morant,9,324,32,Missed,1,,,0,v,MISS Morant 32' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,128
+0022300491,188,PT09M08.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,138
+0022300491,222,PT06M56.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant Offensive Charge Foul (P2) (D.Guthrie),Foul,Offensive Charge,1,0,162
+0022300491,224,PT06M56.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,1,0,163
+0022300491,228,PT06M56.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,SUB: Jackson Jr. FOR Morant,Substitution,,0,0,166
+0022300491,292,PT02M26.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant S.FOUL (P3.T4) (D.Guthrie),Foul,Shooting,1,0,218
+0022300491,294,PT02M26.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,SUB: Kennard FOR Morant,Substitution,,0,0,219
+0022300491,327,PT11M10.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-21,13,2,Made,1,59,62,121,v,Morant 2' Running Layup (13 PTS) (Bane 9 AST),Made Shot,Running Layup Shot,1,2,243
+0022300491,343,PT09M24.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,255
+0022300491,358,PT08M20.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,267
+0022300491,368,PT07M23.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,274
+0022300491,374,PT07M15.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,70,74,144,v,Morant Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,279
+0022300491,375,PT07M15.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,70,75,145,v,Morant Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,280
+0022300491,392,PT05M58.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-4,97,10,Missed,1,,,0,v,MISS Morant 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,294
+0022300491,401,PT04M52.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-2,22,2,Missed,1,,,0,v,MISS Morant 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,301
+0022300491,415,PT04M44.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,SUB: Kennard FOR Morant,Substitution,,0,0,314
+0022300491,473,PT01M20.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-13,257,26,Made,1,92,91,183,v,Morant 26' 3PT Jump Shot (18 PTS) (Biyombo 1 AST),Made Shot,Jump Shot,1,3,352
+0022300491,478,PT00M47.90S,3,1610612763,MEM,1629630,Morant,J. Morant,103,239,26,Made,1,92,94,186,v,Morant 26' 3PT Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,1,3,355
+0022300491,480,PT00M03.10S,3,1610612763,MEM,1629630,Morant,J. Morant,-112,91,14,Missed,1,,,0,v,MISS Morant 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,357
+0022300491,524,PT08M44.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant STEAL (1 STL),,,1,0,388
+0022300491,537,PT08M05.00S,4,1610612763,MEM,1629630,Morant,J. Morant,91,239,26,Missed,1,,,0,v,MISS Morant 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,395
+0022300491,554,PT06M55.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,SUB: Williams FOR Morant,Substitution,,0,0,408
+0022300491,593,PT04M16.00S,4,1610612763,MEM,1629630,Morant,J. Morant,-64,76,10,Missed,1,,,0,v,MISS Morant 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,436
+0022300491,594,PT04M13.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,437
+0022300491,605,PT02M22.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant BLOCK (1 BLK),,,1,2,445
+0022300491,613,PT01M54.00S,4,1610612763,MEM,1629630,Morant,J. Morant,-103,260,28,Missed,1,,,0,v,MISS Morant 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,452
+0022300491,618,PT01M27.00S,4,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,,,0,v,Morant REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,457
+0022300491,619,PT01M06.00S,4,1610612763,MEM,1629630,Morant,J. Morant,-23,28,4,Missed,1,,,0,v,MISS Morant 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,458

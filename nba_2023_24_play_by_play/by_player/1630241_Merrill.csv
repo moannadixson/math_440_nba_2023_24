@@ -1,0 +1,746 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300040,134,PT01M58.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,33,265,27,Missed,1,,,0,v,MISS Merrill 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,99
+0022300040,163,PT00M03.70S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Thompson FOR Merrill,Substitution,,0,0,122
+0022300040,263,PT04M45.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Garland FOR Merrill,Substitution,,0,0,189
+0022300091,418,PT05M40.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-1,257,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,310
+0022300091,427,PT04M57.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,318
+0022300091,446,PT04M06.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,120,10,12,Missed,1,,,0,h,MISS Merrill 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,331
+0022300091,451,PT03M28.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill STEAL (1 STL),,,1,0,336
+0022300091,500,PT00M01.40S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,370
+0022300112,482,PT01M40.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-228,11,0,Made,1,66,79,145,h,Merrill 3PT Jump Shot (3 PTS) (Bates 1 AST),Made Shot,Jump Shot,1,3,358
+0022300112,528,PT10M11.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill STEAL (1 STL),,,1,0,395
+0022300112,530,PT10M06.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-25,246,25,Made,1,75,88,163,h,Merrill 25' 3PT Running Pull-Up Jump Shot (6 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,396
+0022300112,594,PT04M25.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill Lost Ball Turnover (P1.T14),Turnover,Lost Ball,1,0,441
+0022300112,620,PT02M44.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-71,247,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,458
+0022300112,625,PT02M15.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,462
+0022300112,643,PT00M45.60S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-21,251,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,475
+0022300191,631,PT01M15.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,71,271,28,Missed,1,,,0,v,MISS Merrill 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,444
+0022300210,161,PT11M47.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-125,227,26,Made,1,32,27,59,h,Merrill 26' 3PT Jump Shot (3 PTS) (Porter 1 AST),Made Shot,Jump Shot,1,3,118
+0022300210,175,PT09M58.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,42,269,27,Missed,1,,,0,h,MISS Merrill 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,129
+0022300210,196,PT09M10.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,144
+0022300210,206,PT07M59.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-223,159,27,Made,1,46,33,79,h,Merrill 27' 3PT Jump Shot (6 PTS) (Niang 1 AST),Made Shot,Jump Shot,1,3,153
+0022300210,208,PT07M51.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill P.FOUL (P1.T1) (T.Brothers),Foul,Personal,1,0,154
+0022300210,233,PT06M44.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,225,-6,0,Missed,1,,,0,h,MISS Merrill 3PT Jump Shot,Missed Shot,Jump Shot,1,3,167
+0022300210,234,PT06M40.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,168
+0022300210,252,PT05M11.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-142,228,27,Missed,1,,,0,h,MISS Merrill 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,183
+0022300210,266,PT04M11.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,212,137,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,195
+0022300210,275,PT03M36.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Allen FOR Merrill,Substitution,,0,0,201
+0022300210,475,PT00M59.70S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill P.FOUL (P2.PN) (L.Holtkamp),Foul,Personal,1,0,352
+0022300210,496,PT11M26.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-72,26,8,Missed,1,,,0,h,MISS Merrill 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,364
+0022300210,509,PT10M40.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,20,248,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,374
+0022300210,553,PT06M55.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Allen FOR Merrill,Substitution,,0,0,409
+0022300210,636,PT01M26.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-78,241,25,Made,1,121,100,221,h,Merrill 25' 3PT Jump Shot (9 PTS) (Porter 4 AST),Made Shot,Jump Shot,1,3,463
+0022300210,640,PT00M51.30S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-123,226,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,465
+0022300229,124,PT03M00.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill OFF.Foul (P1) (J.DeRosa),Foul,Offensive,1,0,86
+0022300229,126,PT03M00.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,87
+0022300229,164,PT00M00.80S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill S.FOUL (P2.PN) (J.DeRosa),Foul,Shooting,1,0,115
+0022300229,474,PT00M18.80S,3,1610612739,CLE,1630241,Merrill,S. Merrill,203,148,25,Made,1,79,101,180,h,Merrill 25' 3PT Jump Shot (3 PTS) (Porter 5 AST),Made Shot,Jump Shot,1,3,347
+0022300229,504,PT10M44.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-119,240,27,Missed,1,,,0,h,MISS Merrill 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,365
+0022300229,524,PT09M39.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill S.FOUL (P3.T2) (G.Petraitis),Foul,Shooting,1,0,379
+0022300229,529,PT09M24.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,229,27,0,Missed,1,,,0,h,MISS Merrill 3PT Jump Shot,Missed Shot,Jump Shot,1,3,383
+0022300229,552,PT07M45.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,397
+0022300229,571,PT05M36.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,44,103,11,Missed,1,,,0,h,MISS Merrill 11' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,411
+0022300229,580,PT04M58.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,233,26,0,Made,1,89,118,207,h,Merrill 3PT Jump Shot (6 PTS) (I. Mobley 3 AST),Made Shot,Jump Shot,1,3,417
+0022300229,629,PT00M56.10S,4,1610612739,CLE,1630241,Merrill,S. Merrill,232,55,24,Made,1,96,126,222,h,Merrill 24' 3PT Jump Shot (9 PTS) (Jones 1 AST),Made Shot,Jump Shot,1,3,450
+0022300283,433,PT04M23.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-156,197,25,Missed,1,,,0,v,MISS Merrill 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,315
+0022300283,436,PT04M08.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill P.FOUL (P1.PN) (S.Mehta),Foul,Personal,1,0,317
+0022300283,448,PT03M56.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Allen FOR Merrill,Substitution,,0,0,325
+0022300294,92,PT05M17.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,70
+0022300294,100,PT04M39.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill Step Out of Bounds Turnover (P1.T3),Turnover,Step Out of Bounds Turnover,1,0,77
+0022300294,125,PT03M22.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-115,237,26,Made,1,16,19,35,v,Merrill 26' 3PT Jump Shot (3 PTS) (Garland 1 AST),Made Shot,Jump Shot,1,3,93
+0022300294,151,PT01M16.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,153,216,26,Made,1,22,24,46,v,Merrill 26' 3PT Jump Shot (6 PTS) (Garland 2 AST),Made Shot,Jump Shot,1,3,114
+0022300294,162,PT00M02.20S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Wade FOR Merrill,Substitution,,0,0,123
+0022300294,179,PT11M34.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,131
+0022300294,180,PT11M30.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,38,27,5,Missed,1,,,0,v,MISS Merrill 5' Running Layup,Missed Shot,Running Layup Shot,1,2,132
+0022300294,185,PT11M21.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill S.FOUL (P1.T1) (B.Adair),Foul,Shooting,1,0,137
+0022300294,216,PT08M51.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,165,204,26,Missed,1,,,0,v,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,159
+0022300294,231,PT08M04.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Mitchell FOR Merrill,Substitution,,0,0,171
+0022300294,479,PT03M40.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,353
+0022300294,491,PT02M32.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,14,40,4,Missed,1,,,0,v,MISS Merrill 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,362
+0022300294,548,PT11M23.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-146,230,27,Missed,1,,,0,v,MISS Merrill 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,401
+0022300294,552,PT11M05.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill P.FOUL (P2.T1) (B.Adair),Foul,Personal,1,0,405
+0022300294,584,PT08M26.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Strus FOR Merrill,Substitution,,0,0,428
+0022300336,133,PT01M50.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-129,225,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,92
+0022300336,135,PT01M43.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill P.FOUL (P1.T3) (R.Mott),Foul,Personal,1,0,94
+0022300336,145,PT00M55.80S,1,1610612739,CLE,1630241,Merrill,S. Merrill,134,226,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,101
+0022300336,149,PT00M39.50S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,105
+0022300336,155,PT00M09.60S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Okoro FOR Merrill,Substitution,,0,0,110
+0022300336,175,PT11M26.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,243,18,24,Made,1,44,28,72,h,Merrill 24' 3PT Jump Shot (3 PTS) (Porter Jr. 1 AST),Made Shot,Jump Shot,1,3,122
+0022300336,193,PT09M46.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-207,147,25,Made,1,49,30,79,h,Merrill 25' 3PT Jump Shot (6 PTS) (LeVert 1 AST),Made Shot,Jump Shot,1,3,135
+0022300336,210,PT08M16.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,131,221,26,Made,1,54,32,86,h,Merrill 26' 3PT Jump Shot (9 PTS) (Niang 1 AST),Made Shot,Jump Shot,1,3,146
+0022300336,231,PT07M00.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-225,127,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,160
+0022300336,240,PT06M29.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Strus FOR Merrill,Substitution,,0,0,168
+0022300349,111,PT02M52.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-168,185,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,73
+0022300349,131,PT02M04.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill S.FOUL (P1.T4) (D.Scott),Foul,Shooting,1,0,89
+0022300349,147,PT00M45.40S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-239,6,24,Missed,1,,,0,h,MISS Merrill 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,101
+0022300349,149,PT00M38.50S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-123,219,25,Made,1,31,34,65,h,Merrill 25' 3PT Jump Shot (3 PTS) (LeVert 1 AST),Made Shot,Jump Shot,1,3,103
+0022300349,164,PT11M27.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-121,221,25,Made,1,36,34,70,h,Merrill 25' 3PT Jump Shot (6 PTS) (Porter Jr. 3 AST),Made Shot,Jump Shot,1,3,114
+0022300349,172,PT10M51.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-124,215,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,119
+0022300349,197,PT08M58.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill STEAL (1 STL),,,1,0,140
+0022300349,221,PT08M01.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,45,39,84,h,Merrill Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,156
+0022300349,222,PT08M01.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,46,39,85,h,Merrill Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,157
+0022300349,227,PT07M29.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill BLOCK (1 BLK),,,1,2,163
+0022300349,243,PT06M40.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Okoro FOR Merrill,Substitution,,0,0,175
+0022300349,328,PT01M37.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,151,218,27,Made,1,53,59,112,h,Merrill 27' 3PT Pullup Jump Shot (11 PTS) (Mitchell 2 AST),Made Shot,Pullup Jump shot,1,3,234
+0022300349,523,PT02M09.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,229,29,0,Made,1,94,89,183,h,Merrill 3PT Jump Shot (14 PTS) (LeVert 3 AST),Made Shot,Jump Shot,1,3,377
+0022300349,526,PT01M49.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,379
+0022300349,558,PT00M28.20S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Thompson FOR Merrill,Substitution,,0,0,401
+0022300349,580,PT11M42.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,86,249,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,411
+0022300349,589,PT10M46.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,418
+0022300349,836,PT10M10.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,427
+0022300349,626,PT08M56.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Okoro FOR Merrill,Substitution,,0,0,442
+0022300349,751,PT02M44.00S,5,1610612739,CLE,1630241,Merrill,S. Merrill,-47,258,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,532
+0022300349,753,PT02M35.00S,5,1610612739,CLE,1630241,Merrill,S. Merrill,-11,10,1,Made,1,128,124,252,h,Merrill 1' Driving Layup (16 PTS) (Okoro 6 AST),Made Shot,Driving Layup Shot,1,2,534
+0022300349,764,PT01M37.00S,5,1610612739,CLE,1630241,Merrill,S. Merrill,165,188,25,Made,1,131,124,255,h,Merrill 25' 3PT Running Jump Shot (19 PTS) (Mitchell 6 AST),Made Shot,Running Jump Shot,1,3,543
+0022300349,768,PT01M21.00S,5,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,546
+0022300349,790,PT00M19.40S,5,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Okoro FOR Merrill,Substitution,,0,0,564
+0022300364,102,PT03M39.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-87,235,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,68
+0022300364,111,PT02M54.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-135,216,25,Made,1,26,18,44,h,Merrill 25' 3PT Running Jump Shot (3 PTS) (LeVert 2 AST),Made Shot,Running Jump Shot,1,3,75
+0022300364,139,PT01M05.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill S.FOUL (P1.T3) (S.Foster),Foul,Shooting,1,0,95
+0022300364,143,PT00M53.60S,1,1610612739,CLE,1630241,Merrill,S. Merrill,5,9,1,Missed,1,,,0,h,MISS Merrill 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,98
+0022300364,153,PT00M00.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,228,17,0,Made,1,36,27,63,h,Merrill 3PT Jump Shot (6 PTS) (LeVert 3 AST),Made Shot,Jump Shot,1,3,106
+0022300364,162,PT11M27.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-218,136,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,111
+0022300364,175,PT10M14.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill S.FOUL (P2.T1) (S.Foster),Foul,Shooting,1,0,123
+0022300364,182,PT09M52.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-244,58,25,Made,1,39,32,71,h,Merrill 25' 3PT Jump Shot (9 PTS) (Porter Jr. 2 AST),Made Shot,Jump Shot,1,3,129
+0022300364,186,PT09M24.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,104,236,26,Made,1,42,35,77,h,Merrill 26' 3PT Jump Shot (12 PTS) (Thompson 1 AST),Made Shot,Jump Shot,1,3,131
+0022300364,192,PT08M54.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,100,232,25,Made,1,45,38,83,h,Merrill 25' 3PT Pullup Jump Shot (15 PTS) (Porter Jr. 3 AST),Made Shot,Pullup Jump shot,1,3,133
+0022300364,223,PT06M48.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,96,245,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,154
+0022300364,237,PT05M38.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Allen FOR Merrill,Substitution,,0,0,167
+0022300364,307,PT01M18.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-51,267,27,Missed,1,,,0,h,MISS Merrill 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,215
+0022300364,328,PT00M10.20S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,230
+0022300364,329,PT00M00.50S,2,1610612739,CLE,1630241,Merrill,S. Merrill,69,35,8,Made,1,62,56,118,h,Merrill 8' Driving Floating Bank Jump Shot (17 PTS) (Strus 3 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,231
+0022300364,439,PT03M04.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,59,265,27,Missed,1,,,0,h,MISS Merrill 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,304
+0022300364,492,PT11M42.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,232,110,26,Made,1,95,93,188,h,Merrill 26' 3PT Jump Shot (20 PTS) (Thompson 4 AST),Made Shot,Jump Shot,1,3,344
+0022300364,502,PT10M57.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,51,257,26,Made,1,98,93,191,h,Merrill 26' 3PT Jump Shot (23 PTS) (Okoro 4 AST),Made Shot,Jump Shot,1,3,350
+0022300364,524,PT09M43.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,110,299,32,Missed,1,,,0,h,MISS Merrill 32' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,363
+0022300364,529,PT09M25.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,368
+0022300364,554,PT07M18.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-175,204,27,Made,1,109,95,204,h,Merrill 27' 3PT Jump Shot (26 PTS) (Okoro 5 AST),Made Shot,Jump Shot,1,3,388
+0022300364,560,PT06M52.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,392
+0022300364,571,PT06M34.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill OFF.Foul (P3) (S.Twardoski),Foul,Offensive,1,0,399
+0022300364,577,PT06M34.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,1,0,400
+0022300364,595,PT04M45.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,417
+0022300364,617,PT03M14.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill P.FOUL (P4.PN) (S.Twardoski),Foul,Personal,1,0,432
+0022300364,624,PT02M47.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill STEAL (1 STL),,,1,0,439
+0022300364,646,PT01M33.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Okoro FOR Merrill,Substitution,,0,0,455
+0022300364,665,PT00M47.50S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,MISS Merrill Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,468
+0022300364,667,PT00M47.50S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,123,114,237,h,Merrill Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,1,0,470
+0022300364,673,PT00M35.40S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Okoro FOR Merrill,Substitution,,0,0,475
+0022300375,71,PT06M18.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-162,199,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,48
+0022300375,79,PT05M01.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,CAVALIERS T.Foul (Def. 3 Sec Merrill ) (T.Brothers),Foul,Defense 3 Second,1,0,54
+0022300375,118,PT02M09.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,136,234,27,Missed,1,,,0,h,MISS Merrill 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,81
+0022300375,166,PT11M35.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,1,0,111
+0022300375,192,PT09M44.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-13,11,2,Missed,1,,,0,h,MISS Merrill 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,120
+0022300375,208,PT07M57.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,201,161,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,131
+0022300375,230,PT06M40.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Wade FOR Merrill,Substitution,,0,0,145
+0022300433,187,PT10M44.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-76,245,26,Made,1,42,31,73,h,Merrill 26' 3PT Jump Shot (3 PTS) (Thompson 1 AST),Made Shot,Jump Shot,1,3,124
+0022300433,191,PT10M12.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,206,156,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,127
+0022300433,275,PT04M53.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Wade FOR Merrill,Substitution,,0,0,190
+0022300433,441,PT04M34.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-119,231,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,312
+0022300433,496,PT00M24.40S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-180,183,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,355
+0022300433,500,PT00M01.50S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill P.FOUL (P1.T4) (B.Schwab),Foul,Personal,1,0,357
+0022300433,502,PT00M01.50S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Okoro FOR Merrill,Substitution,,0,0,358
+0022300433,544,PT09M41.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Okoro FOR Merrill,Substitution,,0,0,384
+0022300452,131,PT02M16.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,38,17,4,Made,1,28,28,56,v,Merrill 4' Driving Bank Hook Shot (2 PTS) (Allen 3 AST),Made Shot,Driving Bank Hook Shot,1,2,98
+0022300452,134,PT01M46.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-227,3,0,Missed,1,,,0,v,MISS Merrill 3PT Jump Shot,Missed Shot,Jump Shot,1,3,100
+0022300452,136,PT01M34.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill P.FOUL (P1.T4) (S.Twardoski),Foul,Personal,1,0,102
+0022300452,180,PT11M32.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-103,236,26,Made,1,43,35,78,v,Merrill 26' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,3,128
+0022300452,185,PT11M01.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,150,247,29,Made,1,43,38,81,v,Merrill 29' 3PT Jump Shot (8 PTS) (LeVert 1 AST),Made Shot,Jump Shot,1,3,133
+0022300452,190,PT10M28.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,131,-8,13,Missed,1,,,0,v,MISS Merrill 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,136
+0022300452,193,PT10M15.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,139
+0022300452,196,PT09M53.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-40,256,26,Missed,1,,,0,v,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,142
+0022300452,221,PT08M20.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,162
+0022300452,246,PT07M03.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Allen FOR Merrill,Substitution,,0,0,181
+0022300452,491,PT01M31.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,361
+0022300452,492,PT01M26.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-22,311,31,Made,1,95,89,184,v,Merrill 31' 3PT Running Jump Shot (11 PTS) (LeVert 3 AST),Made Shot,Running Jump Shot,1,3,362
+0022300452,496,PT01M12.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill S.FOUL (P2.PN) (S.Twardoski),Foul,Shooting,1,0,364
+0022300452,499,PT00M57.90S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-118,237,26,Missed,1,,,0,v,MISS Merrill 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,366
+0022300452,508,PT00M24.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Wade FOR Merrill,Substitution,,0,0,371
+0022300452,535,PT11M49.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-37,267,27,Missed,1,,,0,v,MISS Merrill 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,383
+0022300452,576,PT08M17.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-28,62,7,Made,1,106,105,211,v,Merrill 7' Driving Finger Roll Layup (13 PTS) (Strus 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,411
+0022300452,584,PT07M24.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-216,139,26,Made,1,108,108,216,v,Merrill 26' 3PT Step Back Jump Shot (16 PTS) (Strus 3 AST),Made Shot,Step Back Jump shot,1,3,417
+0022300452,587,PT07M08.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,419
+0022300452,596,PT06M26.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Allen FOR Merrill,Substitution,,0,0,427
+0022300452,699,PT00M07.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Thompson FOR Merrill,Substitution,,0,0,504
+0022300452,739,PT00M02.60S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Thompson FOR Merrill,Substitution,,0,0,510
+0022300465,96,PT03M06.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-9,10,1,Made,1,28,28,56,h,Merrill 1' Cutting Layup Shot (2 PTS) (Mitchell 4 AST),Made Shot,Cutting Layup Shot,1,2,65
+0022300465,125,PT01M21.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,10,1,Missed,1,,,0,h,MISS Merrill 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,85
+0022300465,127,PT01M16.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,234,4,0,Missed,1,,,0,h,MISS Merrill 3PT Jump Shot,Missed Shot,Jump Shot,1,3,87
+0022300465,162,PT11M10.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,115
+0022300465,170,PT10M05.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,234,11,0,Made,1,41,33,74,h,Merrill 3PT Jump Shot (5 PTS) (LeVert 1 AST),Made Shot,Jump Shot,1,3,120
+0022300465,174,PT09M17.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-233,-13,0,Made,1,44,36,80,h,Merrill 3PT Jump Shot (8 PTS) (LeVert 2 AST),Made Shot,Jump Shot,1,3,122
+0022300465,178,PT08M56.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,224,130,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,125
+0022300465,210,PT06M08.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill S.FOUL (P1.T1) (K.Scott),Foul,Shooting,1,0,148
+0022300465,220,PT06M04.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,154
+0022300465,230,PT05M26.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Allen FOR Merrill,Substitution,,0,0,163
+0022300465,446,PT01M58.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,143,209,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,329
+0022300465,460,PT00M54.40S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,342
+0022300465,464,PT00M31.30S,3,1610612739,CLE,1630241,Merrill,S. Merrill,12,249,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,345
+0022300465,503,PT10M29.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,372
+0022300465,528,PT08M05.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,10,263,26,Made,1,117,84,201,h,Merrill 26' 3PT Jump Shot (11 PTS) (Porter Jr. 3 AST),Made Shot,Jump Shot,1,3,391
+0022300465,539,PT07M29.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill S.FOUL (P2.T3) (J.Van Duyne),Foul,Shooting,1,0,397
+0022300465,543,PT07M13.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,72,236,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,399
+0022300465,617,PT01M57.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,225,97,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,459
+0022300465,628,PT01M12.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,467
+0022300482,95,PT03M33.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,66
+0022300482,108,PT02M42.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-232,-12,0,Missed,1,,,0,h,MISS Merrill 3PT Jump Shot,Missed Shot,Jump Shot,1,3,75
+0022300482,155,PT02M41.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,27,0,3,Missed,1,,,0,h,MISS Merrill 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,0,2,77
+0022300482,126,PT01M47.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,2,20,2,Missed,1,,,0,h,MISS Merrill 2' Layup,Missed Shot,Layup Shot,1,2,91
+0022300482,161,PT11M09.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,74,248,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,113
+0022300482,168,PT10M31.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-235,109,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,117
+0022300482,177,PT09M47.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill STEAL (1 STL),,,1,0,125
+0022300482,227,PT06M19.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Okoro FOR Merrill,Substitution,,0,0,161
+0022300482,437,PT02M57.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,227,48,0,Missed,1,,,0,h,MISS Merrill 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,314
+0022300482,439,PT02M36.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill P.FOUL (P1.T4) (J.Capers),Foul,Personal,1,0,316
+0022300482,448,PT02M09.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,228,101,25,Made,1,80,54,134,h,Merrill 25' 3PT Jump Shot (3 PTS) (LeVert 8 AST),Made Shot,Jump Shot,1,3,321
+0022300482,511,PT09M51.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,366
+0022300482,522,PT08M54.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill L.B.FOUL (P2.T2) (J.Capers),Foul,Loose Ball,1,0,376
+0022300482,531,PT08M10.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,179,188,26,Made,1,96,70,166,h,Merrill 26' 3PT Jump Shot (6 PTS) (Niang 1 AST),Made Shot,Jump Shot,1,3,382
+0022300482,538,PT07M21.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,83,243,26,Made,1,99,74,173,h,Merrill 26' 3PT Jump Shot (9 PTS) (Strus 3 AST),Made Shot,Jump Shot,1,3,387
+0022300482,547,PT06M38.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-234,8,0,Missed,1,,,0,h,MISS Merrill 3PT Jump Shot,Missed Shot,Jump Shot,1,3,392
+0022300482,562,PT05M49.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,2,10,1,Made,1,101,76,177,h,Merrill 1' Cutting Layup Shot (11 PTS) (Thompson 2 AST),Made Shot,Cutting Layup Shot,1,2,404
+0022300482,593,PT03M52.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-195,170,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,426
+0022300497,95,PT04M21.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-51,5,5,Missed,1,,,0,h,MISS Merrill 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,0,2,71
+0022300497,108,PT02M51.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,109,235,26,Made,1,17,26,43,h,Merrill 26' 3PT Jump Shot (3 PTS) (Thompson 1 AST),Made Shot,Jump Shot,1,3,81
+0022300497,130,PT00M45.10S,1,1610612739,CLE,1630241,Merrill,S. Merrill,134,221,26,Made,1,22,30,52,h,Merrill 26' 3PT Jump Shot (6 PTS) (Niang 1 AST),Made Shot,Jump Shot,1,3,98
+0022300497,149,PT11M11.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,67,239,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,111
+0022300497,159,PT10M11.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-88,232,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,118
+0022300497,189,PT08M39.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-237,14,24,Made,1,33,38,71,h,Merrill 24' 3PT Jump Shot (9 PTS) (LeVert 1 AST),Made Shot,Jump Shot,1,3,143
+0022300497,198,PT08M10.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,34,38,72,h,Merrill Free Throw 1 of 3 (10 PTS),Free Throw,Free Throw 1 of 3,1,0,149
+0022300497,199,PT08M10.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,35,38,73,h,Merrill Free Throw 2 of 3 (11 PTS),Free Throw,Free Throw 2 of 3,1,0,150
+0022300497,200,PT08M10.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,36,38,74,h,Merrill Free Throw 3 of 3 (12 PTS),Free Throw,Free Throw 3 of 3,1,0,151
+0022300497,209,PT07M20.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,123,221,25,Made,1,41,40,81,h,Merrill 25' 3PT Running Jump Shot (15 PTS) (Porter Jr. 1 AST),Made Shot,Running Jump Shot,1,3,158
+0022300497,224,PT06M31.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-119,218,25,Made,1,44,43,87,h,Merrill 25' 3PT Running Jump Shot (18 PTS) (Mitchell 2 AST),Made Shot,Running Jump Shot,1,3,167
+0022300497,227,PT06M15.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,170
+0022300497,233,PT05M19.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-58,246,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,175
+0022300497,262,PT04M09.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Strus FOR Merrill,Substitution,,0,0,194
+0022300497,432,PT02M54.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,311
+0022300497,450,PT01M33.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-124,231,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,325
+0022300497,494,PT11M09.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,356
+0022300497,505,PT10M02.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,7,14,2,Missed,1,,,0,h,MISS Merrill 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,365
+0022300497,553,PT06M50.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Okoro FOR Merrill,Substitution,,0,0,396
+0022300497,645,PT00M52.60S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Okoro FOR Merrill,Substitution,,0,0,462
+0022300527,101,PT03M07.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,108,235,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,78
+0022300527,107,PT02M32.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,83
+0022300527,156,PT11M35.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,199,180,27,Made,1,29,16,45,h,Merrill 27' 3PT Pullup Jump Shot (3 PTS) (Niang 1 AST),Made Shot,Pullup Jump shot,1,3,116
+0022300527,163,PT10M36.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,230,8,0,Missed,1,,,0,h,MISS Merrill 3PT Jump Shot,Missed Shot,Jump Shot,1,3,121
+0022300527,199,PT08M18.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,146
+0022300527,204,PT08M11.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: LeVert FOR Merrill,Substitution,,0,0,150
+0022300527,234,PT05M43.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,171
+0022300527,241,PT05M19.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill P.FOUL (P1.T3) (M.Davis),Foul,Personal,1,0,176
+0022300527,276,PT02M55.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-157,195,25,Made,1,54,32,86,h,Merrill 25' 3PT Pullup Jump Shot (6 PTS) (Mitchell 3 AST),Made Shot,Pullup Jump shot,1,3,199
+0022300527,298,PT01M20.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-164,180,24,Missed,1,,,0,h,MISS Merrill 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,217
+0022300527,310,PT00M52.70S,2,1610612739,CLE,1630241,Merrill,S. Merrill,183,11,18,Missed,1,,,0,h,MISS Merrill 18' Jump Shot,Missed Shot,Jump Shot,1,2,227
+0022300527,319,PT00M36.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill STEAL (1 STL),,,1,0,237
+0022300527,345,PT11M21.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,253
+0022300527,349,PT10M45.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,256
+0022300527,357,PT10M01.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,181,163,24,Missed,1,,,0,h,MISS Merrill 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,263
+0022300527,370,PT08M54.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,13,258,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,274
+0022300527,387,PT07M57.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,288
+0022300527,416,PT06M00.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-189,180,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,312
+0022300527,421,PT05M54.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: LeVert FOR Merrill,Substitution,,0,0,316
+0022300527,514,PT00M00.60S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,386
+0022300527,515,PT00M00.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,25,316,32,Missed,1,,,0,h,MISS Merrill 32' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,387
+0022300527,553,PT09M59.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,146,215,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,404
+0022300527,625,PT05M56.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,446
+0022300527,641,PT04M55.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,130,228,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,457
+0022300527,652,PT03M35.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,466
+0022300527,659,PT03M26.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Wade FOR Merrill,Substitution,,0,0,472
+0022300527,701,PT01M11.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Wade FOR Merrill,Substitution,,0,0,504
+0022300527,720,PT00M43.80S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Okoro FOR Merrill,Substitution,,0,0,516
+0022300527,731,PT00M34.20S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Wade FOR Merrill,Substitution,,0,0,524
+0022300561,125,PT01M54.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,89
+0022300561,134,PT01M21.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-239,-7,24,Made,1,35,18,53,h,Merrill 24' 3PT Jump Shot (3 PTS) (Thompson 1 AST),Made Shot,Jump Shot,1,3,96
+0022300561,183,PT09M46.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill STEAL (1 STL),,,1,0,127
+0022300561,190,PT09M32.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-191,167,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,131
+0022300561,192,PT09M27.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill S.FOUL (P1.T2) (C.Aubry),Foul,Shooting,1,0,133
+0022300561,198,PT09M04.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,185,200,27,Made,1,47,29,76,h,Merrill 27' 3PT Jump Shot (6 PTS) (LeVert 4 AST),Made Shot,Jump Shot,1,3,137
+0022300561,213,PT07M53.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,48,31,79,h,Merrill Free Throw Technical (7 PTS),Free Throw,Free Throw Technical,0,0,149
+0022300561,238,PT06M17.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-176,179,25,Made,1,53,35,88,h,Merrill 25' 3PT Jump Shot (10 PTS) (Mitchell 4 AST),Made Shot,Jump Shot,1,3,168
+0022300561,248,PT05M25.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Strus FOR Merrill,Substitution,,0,0,176
+0022300561,416,PT03M29.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-211,157,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,306
+0022300561,421,PT03M12.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,311
+0022300561,427,PT02M54.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill P.FOUL (P2.PN) (E.Malloy),Foul,Personal,1,0,315
+0022300561,440,PT02M03.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,235,46,24,Made,1,80,66,146,h,Merrill 24' 3PT Jump Shot (13 PTS) (LeVert 6 AST),Made Shot,Jump Shot,1,3,325
+0022300561,445,PT01M23.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill P.FOUL (P3.PN) (C.Washington),Foul,Personal,1,0,329
+0022300561,480,PT11M38.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,356
+0022300561,499,PT10M01.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill S.FOUL (P4.T1) (E.Malloy),Foul,Shooting,1,0,371
+0022300561,541,PT08M09.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill STEAL (2 STL),,,1,0,400
+0022300561,543,PT08M07.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,1,13,1,Made,1,90,81,171,h,Merrill 1' Running Layup (15 PTS),Made Shot,Running Layup Shot,1,2,401
+0022300561,564,PT07M01.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: LeVert FOR Merrill,Substitution,,0,0,417
+0022300572,123,PT02M49.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill P.FOUL (P1.T1) (B.Kennedy),Foul,Personal,1,0,94
+0022300572,136,PT01M45.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,141,227,27,Missed,1,,,0,h,MISS Merrill 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,106
+0022300572,138,PT01M40.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,108
+0022300572,185,PT09M48.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,142
+0022300572,186,PT09M47.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,Made,1,39,23,62,h,Merrill Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,143
+0022300572,192,PT08M59.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-120,235,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,148
+0022300572,219,PT06M55.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-194,176,26,Made,1,52,28,80,h,Merrill 26' 3PT Jump Shot (5 PTS) (LeVert 3 AST),Made Shot,Jump Shot,1,3,168
+0022300572,223,PT06M15.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Mitchell FOR Merrill,Substitution,,0,0,171
+0022300572,471,PT00M04.90S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-229,17,0,Made,1,108,67,175,h,Merrill 3PT Jump Shot (8 PTS) (LeVert 4 AST),Made Shot,Jump Shot,1,3,354
+0022300572,481,PT11M44.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,4,7,1,Made,1,110,67,177,h,Merrill 1' Cutting Layup Shot (10 PTS) (Thompson 1 AST),Made Shot,Cutting Layup Shot,1,2,359
+0022300572,512,PT09M03.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-168,239,29,Missed,1,,,0,h,MISS Merrill 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,382
+0022300572,527,PT08M08.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,393
+0022300572,552,PT05M54.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,411
+0022300572,557,PT05M07.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,416
+0022300572,582,PT01M34.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,235,48,24,Missed,1,,,0,h,MISS Merrill 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,436
+0022300595,56,PT07M49.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-50,247,25,Missed,1,,,0,v,MISS Merrill 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,44
+0022300595,64,PT07M07.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-71,245,26,Made,1,4,15,19,v,Merrill 26' 3PT Pullup Jump Shot (3 PTS) (Mitchell 1 AST),Made Shot,Pullup Jump shot,1,3,50
+0022300595,323,PT06M09.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,62
+0022300595,82,PT05M16.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,80,240,25,Missed,1,,,0,v,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,66
+0022300595,103,PT04M02.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,79
+0022300595,112,PT03M14.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill P.FOUL (P1.T2) (B.Barnaky),Foul,Personal,1,0,87
+0022300595,136,PT02M01.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill OFF.Foul (P2) (B.Barnaky),Foul,Offensive,1,0,103
+0022300595,138,PT02M01.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0,104
+0022300595,144,PT01M07.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-18,255,26,Missed,1,,,0,v,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,108
+0022300595,148,PT00M49.80S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,20,23,43,v,Merrill Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,1,0,112
+0022300595,212,PT07M55.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,227,29,0,Made,1,28,41,69,v,Merrill 3PT Jump Shot (7 PTS) (Strus 3 AST),Made Shot,Jump Shot,1,3,162
+0022300595,223,PT06M17.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,186,163,25,Made,1,32,47,79,v,Merrill 25' 3PT Step Back Jump Shot (10 PTS) (Strus 5 AST),Made Shot,Step Back Jump shot,1,3,171
+0022300595,260,PT04M07.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-200,152,25,Missed,1,,,0,v,MISS Merrill 25' 3PT Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,3,198
+0022300595,267,PT03M58.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Okoro FOR Merrill,Substitution,,0,0,202
+0022300595,428,PT04M21.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,37,252,25,Missed,1,,,0,v,MISS Merrill 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,320
+0022300595,433,PT04M02.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,325
+0022300595,434,PT03M56.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-4,8,1,Missed,1,,,0,v,MISS Merrill 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,326
+0022300595,440,PT02M47.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-229,21,0,Made,1,65,83,148,v,Merrill 3PT Jump Shot (13 PTS) (Niang 1 AST),Made Shot,Jump Shot,1,3,331
+0022300595,461,PT01M37.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,227,-5,0,Missed,1,,,0,v,MISS Merrill 3PT Jump Shot,Missed Shot,Jump Shot,1,3,341
+0022300595,470,PT01M09.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-159,204,26,Made,1,69,89,158,v,Merrill 26' 3PT Jump Shot (16 PTS) (Mitchell 8 AST),Made Shot,Jump Shot,1,3,349
+0022300595,473,PT00M54.50S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,351
+0022300595,474,PT00M46.80S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-12,15,2,Made,1,69,91,160,v,Merrill 2' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,1,2,352
+0022300595,490,PT00M02.60S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-112,225,25,Missed,1,,,0,v,MISS Merrill 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,364
+0022300595,586,PT04M29.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-189,162,25,Missed,1,,,0,v,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,428
+0022300595,590,PT03M52.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,21,260,26,Missed,1,,,0,v,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,432
+0022300624,170,PT10M02.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,124,265,29,Missed,1,,,0,v,MISS Merrill 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,124
+0022300624,180,PT09M28.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,140,236,27,Made,1,37,33,70,v,Merrill 27' 3PT Running Jump Shot (3 PTS) (LeVert 4 AST),Made Shot,Running Jump Shot,1,3,133
+0022300624,184,PT08M55.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,12,263,26,Made,1,40,36,76,v,Merrill 26' 3PT Jump Shot (6 PTS) (Jones 1 AST),Made Shot,Jump Shot,1,3,135
+0022300624,188,PT08M35.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-130,256,29,Made,1,42,39,81,v,Merrill 29' 3PT Jump Shot (9 PTS) (Niang 1 AST),Made Shot,Jump Shot,1,3,137
+0022300624,192,PT08M09.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,219,146,26,Missed,1,,,0,v,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,139
+0022300624,213,PT07M09.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill Traveling Turnover (P1.T4),Turnover,Traveling,1,0,154
+0022300624,224,PT06M24.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Strus FOR Merrill,Substitution,,0,0,164
+0022300624,296,PT00M00.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-227,62,24,Missed,1,,,0,v,MISS Merrill 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,221
+0022300624,420,PT01M55.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,140,243,28,Made,1,87,75,162,v,Merrill 28' 3PT Running Jump Shot (12 PTS) (Niang 2 AST),Made Shot,Running Jump Shot,1,3,313
+0022300624,423,PT01M31.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,315
+0022300624,428,PT01M00.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-148,243,28,Missed,1,,,0,v,MISS Merrill 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,319
+0022300624,434,PT00M28.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill P.FOUL (P1.PN) (A.Smith),Foul,Personal,1,0,324
+0022300624,441,PT00M07.60S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-134,234,27,Missed,1,,,0,v,MISS Merrill 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,329
+0022300624,508,PT08M13.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Allen FOR Merrill,Substitution,,0,0,378
+0022300624,597,PT02M39.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Strus FOR Merrill,Substitution,,0,0,444
+0022300624,629,PT00M45.40S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,464
+0022300639,140,PT02M11.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-173,195,26,Missed,1,,,0,v,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,111
+0022300639,169,PT00M50.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill S.FOUL (P1.PN) (D.Collins),Foul,Shooting,1,0,134
+0022300639,191,PT00M00.40S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-212,278,35,Missed,1,,,0,v,MISS Merrill 35' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,151
+0022300639,253,PT08M15.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-40,251,25,Made,1,39,36,75,v,Merrill 25' 3PT Pullup Jump Shot (3 PTS) (Niang 1 AST),Made Shot,Pullup Jump shot,1,3,192
+0022300639,255,PT08M09.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill P.FOUL (P2.T3) (P.Fraher),Foul,Personal,1,0,193
+0022300639,285,PT05M52.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,33,23,4,Made,1,42,42,84,v,Merrill 4' Driving Finger Roll Layup (5 PTS) (Niang 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,218
+0022300639,302,PT05M05.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Allen FOR Merrill,Substitution,,0,0,230
+0022300639,554,PT11M20.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,75,30,8,Made,1,77,85,162,v,Merrill 8' Driving Floating Bank Jump Shot (7 PTS) (Allen 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,411
+0022300639,562,PT10M51.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-138,234,27,Missed,1,,,0,v,MISS Merrill 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,416
+0022300639,598,PT08M30.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill S.FOUL (P3.T2) (M.Smith),Foul,Shooting,1,0,443
+0022300639,641,PT05M17.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Strus FOR Merrill,Substitution,,0,0,476
+0022300658,174,PT10M52.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,21,79,8,Missed,1,,,0,h,MISS Merrill 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,123
+0022300658,191,PT09M35.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill S.FOUL (P1.T2) (S.Foster),Foul,Shooting,1,0,138
+0022300658,234,PT06M41.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Strus FOR Merrill,Substitution,,0,0,167
+0022300675,182,PT11M12.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill STEAL (1 STL),,,1,0,135
+0022300675,205,PT09M05.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-227,11,0,Made,1,37,32,69,h,Merrill 3PT Jump Shot (3 PTS) (LeVert 3 AST),Made Shot,Jump Shot,1,3,148
+0022300675,231,PT06M10.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,233,-11,0,Made,1,46,45,91,h,Merrill 3PT Jump Shot (6 PTS) (Mobley 2 AST),Made Shot,Jump Shot,1,3,165
+0022300675,256,PT05M01.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,98,240,26,Made,1,51,45,96,h,Merrill 26' 3PT Running Jump Shot (9 PTS) (Niang 2 AST),Made Shot,Running Jump Shot,1,3,181
+0022300675,259,PT04M33.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,253,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,183
+0022300675,264,PT04M12.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,188
+0022300675,288,PT02M15.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,206
+0022300675,294,PT01M18.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,7,19,2,Made,1,62,55,117,h,Merrill 2' Cutting Layup Shot (11 PTS) (Mitchell 4 AST),Made Shot,Cutting Layup Shot,1,2,212
+0022300675,300,PT00M08.90S,2,1610612739,CLE,1630241,Merrill,S. Merrill,131,229,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,216
+0022300675,450,PT01M52.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill S.FOUL (P1.PN) (D.Guthrie),Foul,Shooting,1,0,320
+0022300675,498,PT09M46.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Mitchell FOR Merrill,Substitution,,0,0,356
+0022300687,201,PT08M48.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,163,206,26,Made,1,34,30,64,v,Merrill 26' 3PT Jump Shot (3 PTS) (Garland 2 AST),Made Shot,Jump Shot,1,3,147
+0022300687,207,PT07M54.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-11,7,1,Missed,1,,,0,v,MISS Merrill 1' Driving Layup,Missed Shot,Driving Layup Shot,0,2,152
+0022300687,212,PT07M47.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill S.FOUL (P1.T2) (B.Forte),Foul,Shooting,1,0,156
+0022300687,237,PT06M39.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,175
+0022300687,284,PT03M24.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: LeVert FOR Merrill,Substitution,,0,0,211
+0022300687,521,PT11M26.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,4,260,26,Missed,1,,,0,v,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,374
+0022300687,558,PT07M44.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,405
+0022300687,571,PT06M51.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,112,247,27,Made,1,86,91,177,v,Merrill 27' 3PT Jump Shot (6 PTS) (Garland 7 AST),Made Shot,Jump Shot,1,3,410
+0022300687,575,PT06M04.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,143,204,25,Made,1,89,94,183,v,Merrill 25' 3PT Pullup Jump Shot (9 PTS) (LeVert 3 AST),Made Shot,Pullup Jump shot,1,3,412
+0022300687,595,PT04M53.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,82,245,26,Missed,1,,,0,v,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,427
+0022300687,615,PT03M02.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Okoro FOR Merrill,Substitution,,0,0,444
+0022300687,667,PT00M14.70S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Okoro FOR Merrill,Substitution,,0,0,482
+0022300703,149,PT00M43.30S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-89,243,26,Made,1,19,30,49,v,Merrill 26' 3PT Pullup Jump Shot (3 PTS) (Okoro 1 AST),Made Shot,Pullup Jump shot,1,3,109
+0022300703,224,PT08M07.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill STEAL (1 STL),,,1,0,160
+0022300703,226,PT08M05.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,161
+0022300703,230,PT07M41.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,172,188,25,Missed,1,,,0,v,MISS Merrill 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,165
+0022300703,250,PT06M51.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Strus FOR Merrill,Substitution,,0,0,178
+0022300703,548,PT09M56.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,83,242,26,Missed,1,,,0,v,MISS Merrill 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,397
+0022300703,562,PT08M39.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill S.FOUL (P1.T4) (J.Tiven),Foul,Shooting,1,0,409
+0022300703,584,PT07M42.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,422
+0022300703,589,PT07M33.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill S.FOUL (P2.PN) (D.Taylor),Foul,Shooting,1,0,426
+0022300703,653,PT03M58.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Okoro FOR Merrill,Substitution,,0,0,464
+0022300714,213,PT07M24.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-233,-6,0,Missed,1,,,0,h,MISS Merrill 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,146
+0022300714,243,PT06M07.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-195,190,27,Made,1,53,46,99,h,Merrill 27' 3PT Jump Shot (3 PTS) (Mitchell 3 AST),Made Shot,Jump Shot,1,3,167
+0022300714,291,PT02M21.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill STEAL (1 STL),,,1,0,202
+0022300714,293,PT02M15.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-205,193,28,Made,1,68,54,122,h,Merrill 28' 3PT Running Pull-Up Jump Shot (6 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,203
+0022300714,322,PT00M06.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: LeVert FOR Merrill,Substitution,,0,0,226
+0022300714,646,PT02M27.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,127,225,26,Made,1,134,105,239,h,Merrill 26' 3PT Pullup Jump Shot (9 PTS) (Jones 1 AST),Made Shot,Pullup Jump shot,1,3,448
+0022300728,205,PT09M25.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,148
+0022300728,214,PT08M51.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,42,11,4,Missed,1,,,0,v,MISS Merrill 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,156
+0022300728,218,PT08M45.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,132,222,26,Missed,1,,,0,v,MISS Merrill 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,159
+0022300728,226,PT08M08.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Allen FOR Merrill,Substitution,,0,0,166
+0022300728,282,PT04M15.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Wade FOR Merrill,Substitution,,0,0,204
+0022300728,533,PT10M29.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,154,204,26,Made,1,84,88,172,v,Merrill 26' 3PT Jump Shot (3 PTS) (Garland 4 AST),Made Shot,Jump Shot,1,3,383
+0022300728,573,PT07M37.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-234,41,24,Missed,1,,,0,v,MISS Merrill 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,410
+0022300728,621,PT03M19.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Garland FOR Merrill,Substitution,,0,0,447
+0022300728,674,PT00M36.70S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Okoro FOR Merrill,Substitution,,0,0,480
+0022300728,699,PT00M30.10S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Allen FOR Merrill,Substitution,,0,0,493
+0022300756,225,PT07M03.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,69,245,25,Made,1,28,51,79,v,Merrill 25' 3PT Pullup Jump Shot (3 PTS) (Allen 1 AST),Made Shot,Pullup Jump shot,1,3,161
+0022300756,305,PT01M23.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-233,0,0,Missed,1,,,0,v,MISS Merrill 3PT Jump Shot,Missed Shot,Jump Shot,1,3,222
+0022300756,631,PT01M44.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,103,249,27,Made,1,95,119,214,v,Merrill 27' 3PT Jump Shot (6 PTS) (Okoro 4 AST),Made Shot,Jump Shot,1,3,458
+0022300762,163,PT11M30.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,202,147,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,110
+0022300762,226,PT06M28.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,159
+0022300762,267,PT02M43.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Mobley FOR Merrill,Substitution,,0,0,189
+0022300792,122,PT02M48.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-227,109,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,89
+0022300792,141,PT01M03.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-56,257,26,Made,1,23,26,49,h,Merrill 26' 3PT Jump Shot (3 PTS) (Mobley 2 AST),Made Shot,Jump Shot,1,3,104
+0022300792,145,PT01M03.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,24,26,50,h,Merrill Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,1,0,106
+0022300792,171,PT10M47.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,126
+0022300792,180,PT10M05.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,132
+0022300792,216,PT07M23.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Strus FOR Merrill,Substitution,,0,0,158
+0022300792,546,PT04M19.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Strus FOR Merrill,Substitution,,0,0,396
+0022300805,169,PT10M38.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-186,185,26,Made,1,28,30,58,v,Merrill 26' 3PT Jump Shot (3 PTS) (Garland 2 AST),Made Shot,Jump Shot,1,3,123
+0022300805,178,PT10M14.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-157,222,27,Missed,1,,,0,v,MISS Merrill 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,129
+0022300805,180,PT10M06.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill STEAL (1 STL),,,1,0,132
+0022300805,205,PT08M30.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,150
+0022300805,233,PT06M13.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Wade FOR Merrill,Substitution,,0,0,172
+0022300805,446,PT03M33.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,329
+0022300805,466,PT02M11.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,108,221,25,Missed,1,,,0,v,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,343
+0022300805,480,PT01M06.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,225,43,0,Missed,1,,,0,v,MISS Merrill 3PT Jump Shot,Missed Shot,Jump Shot,1,3,354
+0022300805,488,PT00M20.30S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,361
+0022300805,516,PT09M33.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Okoro FOR Merrill,Substitution,,0,0,379
+0022300805,644,PT00M28.70S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Okoro FOR Merrill,Substitution,,0,0,472
+0022300820,249,PT07M17.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-206,178,27,Missed,1,,,0,v,MISS Merrill 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,171
+0022300820,287,PT04M29.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-218,140,26,Missed,1,,,0,v,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,199
+0022300820,293,PT03M35.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,204
+0022300820,304,PT02M27.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,39,89,10,Made,1,47,48,95,v,Merrill 10' Driving Floating Jump Shot (2 PTS) (Wade 1 AST),Made Shot,Driving Floating Jump Shot,1,2,213
+0022300820,307,PT02M00.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,215
+0022300820,314,PT01M31.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Mobley FOR Merrill,Substitution,,0,0,220
+0022300857,88,PT05M37.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,28,249,25,Made,1,14,17,31,v,Merrill 25' 3PT Jump Shot (3 PTS) (Allen 1 AST),Made Shot,Jump Shot,1,3,67
+0022300857,99,PT04M34.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,113,221,25,Missed,1,,,0,v,MISS Merrill 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,75
+0022300857,141,PT02M25.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,104
+0022300857,178,PT11M04.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-227,90,24,Made,1,24,35,59,v,Merrill 24' 3PT Jump Shot (6 PTS) (Mobley 4 AST),Made Shot,Jump Shot,1,3,136
+0022300857,185,PT10M13.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,143
+0022300857,186,PT10M11.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,109,250,27,Missed,1,,,0,v,MISS Merrill 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,144
+0022300857,211,PT08M37.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Allen FOR Merrill,Substitution,,0,0,164
+0022300857,430,PT04M01.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,324
+0022300857,431,PT03M59.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,50,257,26,Missed,1,,,0,v,MISS Merrill 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,325
+0022300857,492,PT00M26.80S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Strus FOR Merrill,Substitution,,0,0,371
+0022300857,514,PT11M11.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,97,235,25,Made,1,70,96,166,v,Merrill 25' 3PT Jump Shot (9 PTS) (Strus 4 AST),Made Shot,Jump Shot,1,3,385
+0022300857,530,PT09M42.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,232,46,24,Missed,1,,,0,v,MISS Merrill 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,398
+0022300857,573,PT07M02.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill Out of Bounds - Bad Pass Turnover Turnover (P1.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,0,432
+0022300857,586,PT06M21.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,233,18,0,Missed,1,,,0,v,MISS Merrill 3PT Jump Shot,Missed Shot,Jump Shot,1,3,442
+0022300857,594,PT05M38.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-239,21,24,Made,1,87,103,190,v,Merrill 24' 3PT Jump Shot (12 PTS) (Allen 2 AST),Made Shot,Jump Shot,1,3,449
+0022300857,608,PT04M53.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Mobley FOR Merrill,Substitution,,0,0,460
+0022300857,668,PT01M13.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Wade FOR Merrill,Substitution,,0,0,503
+0022300876,103,PT03M27.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,78
+0022300876,113,PT02M10.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-109,230,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,87
+0022300876,115,PT02M06.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill P.FOUL (P1.T3) (D.Collins),Foul,Personal,1,0,89
+0022300876,162,PT11M26.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-125,223,26,Made,1,22,30,52,h,Merrill 26' 3PT Jump Shot (3 PTS) (Strus 2 AST),Made Shot,Jump Shot,1,3,118
+0022300876,165,PT10M56.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,120
+0022300876,183,PT09M17.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,143,205,25,Made,1,27,32,59,h,Merrill 25' 3PT Jump Shot (6 PTS) (Mobley 3 AST),Made Shot,Jump Shot,1,3,137
+0022300876,215,PT07M01.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-235,6,24,Made,1,32,41,73,h,Merrill 24' 3PT Jump Shot (9 PTS) (Niang 1 AST),Made Shot,Jump Shot,1,3,158
+0022300876,223,PT06M13.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,28,254,26,Made,1,35,43,78,h,Merrill 26' 3PT Jump Shot (12 PTS) (Allen 3 AST),Made Shot,Jump Shot,1,3,163
+0022300876,262,PT02M47.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-44,309,31,Missed,1,,,0,h,MISS Merrill 31' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,188
+0022300876,272,PT01M58.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Strus FOR Merrill,Substitution,,0,0,196
+0022300876,388,PT03M48.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-224,68,0,Missed,1,,,0,h,MISS Merrill 3PT Jump Shot,Missed Shot,Jump Shot,1,3,284
+0022300876,390,PT03M44.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,286
+0022300876,391,PT03M40.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-161,195,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,287
+0022300876,417,PT01M41.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill P.FOUL (P2.T3) (D.Collins),Foul,Personal,1,0,303
+0022300876,430,PT01M06.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill S.FOUL (P3.PN) (B.Barnaky),Foul,Shooting,1,0,311
+0022300876,434,PT00M55.90S,3,1610612739,CLE,1630241,Merrill,S. Merrill,82,251,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,314
+0022300876,444,PT00M00.30S,3,1610612739,CLE,1630241,Merrill,S. Merrill,238,104,26,Made,1,78,87,165,h,Merrill 26' 3PT Jump Shot (15 PTS) (Porter Jr. 2 AST),Made Shot,Jump Shot,1,3,322
+0022300876,497,PT06M55.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,192,153,25,Made,1,88,92,180,h,Merrill 25' 3PT Pullup Jump Shot (18 PTS) (Okoro 4 AST),Made Shot,Pullup Jump shot,1,3,363
+0022300876,508,PT06M21.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,112,226,25,Made,1,91,96,187,h,Merrill 25' 3PT Jump Shot (21 PTS),Made Shot,Jump Shot,1,3,369
+0022300876,522,PT04M54.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Mobley FOR Merrill,Substitution,,0,0,380
+0022300876,569,PT00M56.80S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-164,177,24,Missed,1,,,0,h,MISS Merrill 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,417
+0022300876,573,PT00M46.40S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Wade FOR Merrill,Substitution,,0,0,420
+0022300886,28,PT09M36.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,21
+0022300886,63,PT06M26.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: LeVert FOR Merrill,Substitution,,0,0,53
+0022300886,174,PT10M36.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-75,251,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,130
+0022300886,183,PT09M39.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-232,-6,0,Missed,1,,,0,h,MISS Merrill 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,137
+0022300886,188,PT09M24.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,44,257,26,Made,1,31,36,67,h,Merrill 26' 3PT Jump Shot (3 PTS) (Porter Jr. 2 AST),Made Shot,Jump Shot,1,3,141
+0022300886,240,PT05M55.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,181
+0022300886,257,PT04M32.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,194
+0022300886,261,PT04M13.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,198
+0022300886,266,PT03M44.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-99,137,17,Missed,1,,,0,h,MISS Merrill 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,203
+0022300886,272,PT03M26.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: LeVert FOR Merrill,Substitution,,0,0,208
+0022300886,334,PT10M19.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill STEAL (1 STL),,,1,0,255
+0022300886,336,PT10M14.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-201,145,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,256
+0022300886,340,PT09M42.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-62,240,25,Made,1,53,60,113,h,Merrill 25' 3PT Pullup Jump Shot (6 PTS) (Garland 7 AST),Made Shot,Pullup Jump shot,1,3,259
+0022300886,383,PT05M19.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill P.FOUL (P1.T2) (A.Smith),Foul,Personal,1,0,292
+0022300886,420,PT03M09.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Okoro FOR Merrill,Substitution,,0,0,317
+0022300886,500,PT09M47.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,224,111,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,370
+0022300886,547,PT05M14.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Allen FOR Merrill,Substitution,,0,0,406
+0022300895,133,PT01M13.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill P.FOUL (P1.T4) (M.Kallio),Foul,Personal,1,0,94
+0022300895,137,PT01M00.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-167,189,25,Missed,1,,,0,v,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,96
+0022300895,150,PT11M28.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-85,240,25,Missed,1,,,0,v,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,108
+0022300895,155,PT11M00.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,114,229,26,Missed,1,,,0,v,MISS Merrill 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,113
+0022300895,171,PT09M04.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,230,77,24,Missed,1,,,0,v,MISS Merrill 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,127
+0022300895,228,PT05M56.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: LeVert FOR Merrill,Substitution,,0,0,168
+0022300895,307,PT00M29.90S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-230,56,24,Missed,1,,,0,v,MISS Merrill 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,226
+0022300895,411,PT04M36.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,299
+0022300895,422,PT03M37.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,224,1,0,Missed,1,,,0,v,MISS Merrill 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,308
+0022300895,429,PT03M35.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,82,76,158,v,Merrill Free Throw 1 of 1 (1 PTS),Free Throw,Free Throw 1 of 1,1,0,312
+0022300895,438,PT03M12.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,319
+0022300895,439,PT03M08.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-10,262,26,Missed,1,,,0,v,MISS Merrill 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,320
+0022300895,493,PT11M15.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-174,186,25,Missed,1,,,0,v,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,354
+0022300895,512,PT09M30.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,371
+0022300895,513,PT09M23.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,21,257,26,Missed,1,,,0,v,MISS Merrill 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,372
+0022300895,517,PT09M07.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Okoro FOR Merrill,Substitution,,0,0,376
+0022300911,124,PT01M36.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-241,-4,24,Missed,1,,,0,h,MISS Merrill 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,92
+0022300911,127,PT01M18.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-136,215,25,Made,1,25,19,44,h,Merrill 25' 3PT Jump Shot (3 PTS) (Garland 3 AST),Made Shot,Jump Shot,1,3,95
+0022300911,152,PT00M00.20S,1,1610612739,CLE,1630241,Merrill,S. Merrill,9,551,55,Missed,1,,,0,h,MISS Merrill 55' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,113
+0022300911,177,PT10M15.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-76,240,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,131
+0022300911,185,PT09M36.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill S.FOUL (P1.T3) (N.Sago),Foul,Shooting,1,0,137
+0022300911,209,PT07M31.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Niang FOR Merrill,Substitution,,0,0,154
+0022300911,458,PT01M50.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill P.FOUL (P2.PN) (S.Foster),Foul,Personal,1,0,334
+0022300911,502,PT11M22.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,49,110,12,Missed,1,,,0,h,MISS Merrill 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,365
+0022300911,504,PT11M15.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-228,-1,0,Missed,1,,,0,h,MISS Merrill 3PT Jump Shot,Missed Shot,Jump Shot,1,3,367
+0022300911,506,PT11M12.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill S.FOUL (P3.T1) (N.Sago),Foul,Shooting,1,0,369
+0022300911,532,PT09M02.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-229,100,25,Made,1,86,86,172,h,Merrill 25' 3PT Jump Shot (6 PTS) (LeVert 7 AST),Made Shot,Jump Shot,1,3,388
+0022300911,545,PT08M29.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,396
+0022300911,554,PT07M00.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-156,199,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,403
+0022300911,563,PT06M35.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-175,212,27,Missed,1,,,0,h,MISS Merrill 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,411
+0022300911,571,PT05M27.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: LeVert FOR Merrill,Substitution,,0,0,417
+0022300930,95,PT05M24.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill BLOCK (1 BLK),,,1,2,68
+0022300930,102,PT05M07.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-232,54,24,Missed,1,,,0,h,MISS Merrill 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,73
+0022300930,128,PT03M44.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-201,160,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,92
+0022300930,145,PT02M39.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-185,183,26,Made,1,24,25,49,h,Merrill 26' 3PT Jump Shot (3 PTS) (Mobley 1 AST),Made Shot,Jump Shot,1,3,105
+0022300930,151,PT02M01.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill P.FOUL (P1.PN) (M.Boland),Foul,Personal,1,0,110
+0022300930,174,PT00M19.90S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,27,29,56,h,Merrill Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,129
+0022300930,183,PT00M19.90S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,28,29,57,h,Merrill Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,134
+0022300930,206,PT10M13.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill STEAL (1 STL),,,1,0,149
+0022300930,208,PT10M08.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,218,118,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,150
+0022300930,210,PT09M56.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill P.FOUL (P2.T1) (J.Orr),Foul,Personal,1,0,152
+0022300930,229,PT08M37.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill S.FOUL (P3.T3) (J.Orr),Foul,Shooting,1,0,165
+0022300930,231,PT08M37.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Okoro FOR Merrill,Substitution,,0,0,166
+0022300930,450,PT02M15.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-87,236,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,313
+0022300930,452,PT02M06.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill P.FOUL (P4.T3) (J.Orr),Foul,Personal,1,0,315
+0022300930,495,PT09M50.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,114,248,27,Missed,1,,,0,h,MISS Merrill 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,344
+0022300930,554,PT05M12.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,205,150,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,389
+0022300930,578,PT03M16.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Nance FOR Merrill,Substitution,,0,0,408
+0022300934,124,PT00M46.80S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-189,186,27,Missed,1,,,0,h,MISS Merrill 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,89
+0022300934,150,PT11M10.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-234,132,27,Missed,1,,,0,h,MISS Merrill 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,102
+0022300934,174,PT08M10.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,234,1,0,Missed,1,,,0,h,MISS Merrill 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,121
+0022300934,208,PT06M19.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Niang FOR Merrill,Substitution,,0,0,143
+0022300934,413,PT05M19.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-22,247,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,290
+0022300934,508,PT09M43.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-228,108,25,Made,1,100,102,202,h,Merrill 25' 3PT Jump Shot (3 PTS) (Okoro 3 AST),Made Shot,Jump Shot,1,3,354
+0022300934,521,PT08M24.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,364
+0022300934,531,PT07M50.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Niang FOR Merrill,Substitution,,0,0,372
+0022300951,106,PT04M34.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-189,167,25,Missed,1,,,0,v,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,79
+0022300951,140,PT02M27.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,33,269,27,Missed,1,,,0,v,MISS Merrill 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,104
+0022300951,180,PT10M57.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,136
+0022300951,201,PT09M10.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-233,10,0,Made,1,26,35,61,v,Merrill 3PT Jump Shot (3 PTS) (LeVert 3 AST),Made Shot,Jump Shot,1,3,150
+0022300951,290,PT08M33.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,162
+0022300951,223,PT07M46.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-230,88,25,Made,1,26,44,70,v,Merrill 25' 3PT Pullup Jump Shot (6 PTS) (LeVert 5 AST),Made Shot,Pullup Jump shot,1,3,168
+0022300951,236,PT07M14.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-229,-1,0,Missed,1,,,0,v,MISS Merrill 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,175
+0022300951,261,PT04M54.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,192
+0022300951,266,PT04M26.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,120,222,25,Missed,1,,,0,v,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,196
+0022300951,271,PT04M20.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Allen FOR Merrill,Substitution,,0,0,200
+0022300951,429,PT03M08.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-172,197,26,Missed,1,,,0,v,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,312
+0022300951,452,PT01M06.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,225,2,0,Made,1,66,82,148,v,Merrill 3PT Jump Shot (9 PTS) (Garland 10 AST),Made Shot,Jump Shot,1,3,328
+0022300951,456,PT00M37.80S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-207,154,26,Made,1,66,85,151,v,Merrill 26' 3PT Running Jump Shot (12 PTS) (Garland 11 AST),Made Shot,Running Jump Shot,1,3,331
+0022300951,512,PT08M45.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-118,232,26,Made,1,74,100,174,v,Merrill 26' 3PT Running Jump Shot (15 PTS) (LeVert 8 AST),Made Shot,Running Jump Shot,1,3,366
+0022300951,539,PT06M36.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Garland FOR Merrill,Substitution,,0,0,388
+0022300967,171,PT00M01.50S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,34,28,62,v,Merrill Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,126
+0022300967,178,PT00M01.50S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,34,29,63,v,Merrill Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,130
+0022300967,193,PT11M21.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-183,153,24,Missed,1,,,0,v,MISS Merrill 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,137
+0022300967,216,PT08M59.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-33,261,26,Made,1,45,37,82,v,Merrill 26' 3PT Jump Shot (5 PTS) (LeVert 2 AST),Made Shot,Jump Shot,1,3,155
+0022300967,225,PT08M12.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,162
+0022300967,271,PT04M47.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Garland FOR Merrill,Substitution,,0,0,195
+0022300967,285,PT03M53.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,204
+0022300967,293,PT02M54.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill Traveling Turnover (P1.T7),Turnover,Traveling,1,0,211
+0022300967,296,PT02M54.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Niang FOR Merrill,Substitution,,0,0,214
+0022300967,458,PT01M42.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,338
+0022300967,492,PT11M26.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,192,160,25,Made,1,98,76,174,v,Merrill 25' 3PT Running Jump Shot (8 PTS) (Niang 2 AST),Made Shot,Running Jump Shot,1,3,362
+0022300967,510,PT09M49.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,376
+0022300967,535,PT08M31.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,393
+0022300967,549,PT07M44.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-230,36,0,Missed,1,,,0,v,MISS Merrill 3PT Jump Shot,Missed Shot,Jump Shot,1,3,400
+0022300967,569,PT06M22.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,418
+0022300967,582,PT04M58.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill BLOCK (1 BLK),,,1,2,431
+0022300967,585,PT04M50.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,434
+0022300967,633,PT01M16.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-172,201,26,Made,1,115,100,215,v,Merrill 26' 3PT Jump Shot (11 PTS) (Porter Jr. 1 AST),Made Shot,Jump Shot,1,3,469
+0022300967,644,PT00M33.60S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,475
+0022300983,96,PT04M37.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,34,32,5,Missed,1,,,0,v,MISS Merrill 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,67
+0022300983,116,PT03M13.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill S.FOUL (P1.T4) (C.Washington),Foul,Shooting,1,0,80
+0022300983,129,PT02M43.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,25,17,42,v,Merrill Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,88
+0022300983,130,PT02M43.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,25,18,43,v,Merrill Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,89
+0022300983,141,PT01M53.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill BLOCK (1 BLK),,,1,2,98
+0022300983,168,PT00M08.90S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-130,215,25,Made,1,34,25,59,v,Merrill 25' 3PT Jump Shot (5 PTS) (LeVert 5 AST),Made Shot,Jump Shot,1,3,116
+0022300983,176,PT11M35.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,18,80,8,Made,1,34,27,61,v,Merrill 8' Fadeaway Jumper (7 PTS) (Porter Jr. 1 AST),Made Shot,Fadeaway Jump Shot,1,2,123
+0022300983,204,PT09M31.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-224,101,25,Missed,1,,,0,v,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,145
+0022300983,239,PT07M04.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill STEAL (1 STL),,,1,0,173
+0022300983,267,PT06M15.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,188
+0022300983,268,PT06M14.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,10,251,25,Missed,1,,,0,v,MISS Merrill 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,189
+0022300983,290,PT05M08.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Niang FOR Merrill,Substitution,,0,0,206
+0022300983,486,PT03M06.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill S.FOUL (P2.T3) (C.Washington),Foul,Shooting,1,0,343
+0022300983,540,PT11M01.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-230,25,0,Missed,1,,,0,v,MISS Merrill 3PT Jump Shot,Missed Shot,Jump Shot,1,3,382
+0022300983,543,PT10M39.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-53,270,28,Made,1,85,93,178,v,Merrill 28' 3PT Jump Shot (10 PTS) (Niang 1 AST),Made Shot,Jump Shot,1,3,385
+0022300983,564,PT09M11.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,90,99,189,v,Merrill Free Throw Technical (11 PTS),Free Throw,Free Throw Technical,1,0,399
+0022300983,571,PT08M22.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,405
+0022300983,579,PT07M43.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,34,248,25,Missed,1,,,0,v,MISS Merrill 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,411
+0022300983,609,PT05M55.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: LeVert FOR Merrill,Substitution,,0,0,432
+0022300996,99,PT03M53.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,70
+0022300996,120,PT02M17.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,225,99,25,Made,1,22,29,51,h,Merrill 25' 3PT Jump Shot (3 PTS) (Morris Sr. 1 AST),Made Shot,Jump Shot,1,3,84
+0022300996,134,PT00M23.50S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-170,189,25,Made,1,30,31,61,h,Merrill 25' 3PT Jump Shot (6 PTS) (Morris Sr. 2 AST),Made Shot,Jump Shot,1,3,94
+0022300996,136,PT00M09.20S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill P.FOUL (P1.T4) (J.Butler),Foul,Personal,1,0,95
+0022300996,138,PT00M09.20S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Thompson FOR Merrill,Substitution,,0,0,96
+0022300996,192,PT08M54.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-235,109,26,Made,1,37,40,77,h,Merrill 26' 3PT Jump Shot (9 PTS) (LeVert 3 AST),Made Shot,Jump Shot,1,3,130
+0022300996,194,PT08M46.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill P.FOUL (P2.T2) (J.Goldenberg),Foul,Personal,1,0,131
+0022300996,198,PT08M15.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-197,163,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,133
+0022300996,235,PT06M07.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-228,74,24,Missed,1,,,0,h,MISS Merrill 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,161
+0022300996,249,PT04M37.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: LeVert FOR Merrill,Substitution,,0,0,173
+0022300996,416,PT03M17.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill Out of Bounds - Bad Pass Turnover Turnover (P1.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,297
+0022300996,444,PT01M07.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,168,216,27,Missed,1,,,0,h,MISS Merrill 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,316
+0022300996,466,PT11M43.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-239,80,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,331
+0022300996,470,PT11M02.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,78,247,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,334
+0022300996,482,PT09M51.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-93,231,25,Made,1,78,85,163,h,Merrill 25' 3PT Jump Shot (12 PTS) (LeVert 9 AST),Made Shot,Jump Shot,1,3,344
+0022300996,499,PT08M04.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Okoro FOR Merrill,Substitution,,0,0,356
+0022300996,598,PT00M03.70S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Okoro FOR Merrill,Substitution,,0,0,425
+0022301014,183,PT11M43.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-123,218,25,Missed,1,,,0,v,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,137
+0022301014,194,PT10M49.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,27,21,48,v,Merrill Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,1,0,146
+0022301014,195,PT10M43.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-127,212,25,Made,1,27,24,51,v,Merrill 25' 3PT Pullup Jump Shot (4 PTS) (Allen 2 AST),Made Shot,Pullup Jump shot,1,3,147
+0022301014,213,PT08M54.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-224,43,0,Missed,1,,,0,v,MISS Merrill 3PT Jump Shot,Missed Shot,Jump Shot,1,3,158
+0022301014,238,PT06M32.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,129,221,26,Missed,1,,,0,v,MISS Merrill 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,178
+0022301014,244,PT05M46.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,184
+0022301014,245,PT05M34.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-154,191,25,Made,1,41,36,77,v,Merrill 25' 3PT Jump Shot (7 PTS) (Allen 3 AST),Made Shot,Jump Shot,1,3,185
+0022301014,263,PT04M06.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Garland FOR Merrill,Substitution,,0,0,199
+0022301014,297,PT01M59.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,168,189,25,Made,1,46,47,93,v,Merrill 25' 3PT Running Jump Shot (10 PTS) (Garland 1 AST),Made Shot,Running Jump Shot,1,3,222
+0022301014,314,PT00M34.30S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-115,228,26,Missed,1,,,0,v,MISS Merrill 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,235
+0022301014,420,PT03M47.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,311
+0022301014,448,PT01M24.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,334
+0022301014,491,PT09M12.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Thompson FOR Merrill,Substitution,,0,0,362
+0022301029,58,PT07M01.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,17,256,26,Missed,1,,,0,v,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,43
+0022301029,88,PT04M48.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill S.FOUL (P1.PN) (C.Blair),Foul,Shooting,1,0,65
+0022301029,145,PT00M19.40S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-238,4,24,Missed,1,,,0,v,MISS Merrill 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,103
+0022301029,249,PT04M24.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-125,247,28,Missed,1,,,0,v,MISS Merrill 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,180
+0022301029,256,PT03M40.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Niang FOR Merrill,Substitution,,0,0,185
+0022301029,365,PT08M17.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,99,235,26,Missed,1,,,0,v,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,256
+0022301029,394,PT05M25.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,281
+0022301029,417,PT03M13.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-159,220,27,Missed,1,,,0,v,MISS Merrill 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,299
+0022301029,421,PT02M54.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill L.B.FOUL (P2.T1) (C.Blair),Foul,Loose Ball,1,0,303
+0022301029,529,PT07M02.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,106,70,176,v,Merrill Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,1,0,376
+0022301029,579,PT02M36.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,416
+0022301029,591,PT00M58.70S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,427
+0022301029,599,PT00M26.50S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-162,199,26,Missed,1,,,0,v,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,432
+0022301033,96,PT03M37.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,71
+0022301033,101,PT03M01.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-76,237,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,75
+0022301033,121,PT01M49.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-99,221,24,Made,1,18,15,33,h,Merrill 24' 3PT Step Back Jump Shot (3 PTS) (Mobley 1 AST),Made Shot,Step Back Jump shot,1,3,89
+0022301033,140,PT00M28.40S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: LeVert FOR Merrill,Substitution,,0,0,103
+0022301033,176,PT10M20.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-237,59,24,Missed,1,,,0,h,MISS Merrill 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,124
+0022301033,247,PT05M39.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Okoro FOR Merrill,Substitution,,0,0,173
+0022301033,433,PT02M30.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,300
+0022301033,434,PT02M24.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-153,274,31,Missed,1,,,0,h,MISS Merrill 31' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,301
+0022301033,438,PT01M58.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,234,48,24,Missed,1,,,0,h,MISS Merrill 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,304
+0022301033,446,PT01M38.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,312
+0022301033,482,PT10M38.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-229,113,26,Made,1,83,68,151,h,Merrill 26' 3PT Jump Shot (6 PTS) (Mobley 6 AST),Made Shot,Jump Shot,1,3,336
+0022301033,486,PT10M10.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,179,167,24,Made,1,86,68,154,h,Merrill 24' 3PT Running Jump Shot (9 PTS) (LeVert 5 AST),Made Shot,Running Jump Shot,1,3,339
+0022301033,520,PT07M30.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,130,232,27,Made,1,91,77,168,h,Merrill 27' 3PT Jump Shot (12 PTS) (Garland 10 AST),Made Shot,Jump Shot,1,3,363
+0022301033,537,PT05M47.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,377
+0022301033,542,PT05M45.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Mobley FOR Merrill,Substitution,,0,0,380
+0022301048,99,PT03M38.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-228,47,0,Made,1,23,30,53,v,Merrill 3PT Jump Shot (3 PTS) (LeVert 2 AST),Made Shot,Jump Shot,1,3,73
+0022301048,101,PT03M29.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill P.FOUL (P1.T3) (N.Buchert),Foul,Personal,1,0,74
+0022301048,127,PT01M18.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-229,56,24,Made,1,27,40,67,v,Merrill 24' 3PT Jump Shot (6 PTS) (LeVert 3 AST),Made Shot,Jump Shot,1,3,92
+0022301048,136,PT00M35.70S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-214,132,25,Made,1,29,43,72,v,Merrill 25' 3PT Jump Shot (9 PTS) (LeVert 4 AST),Made Shot,Jump Shot,1,3,99
+0022301048,185,PT09M32.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill S.FOUL (P2.T1) (D.Scott),Foul,Shooting,1,0,127
+0022301048,191,PT09M18.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,82,243,26,Made,1,44,49,93,v,Merrill 26' 3PT Pullup Jump Shot (12 PTS) (Thompson 1 AST),Made Shot,Pullup Jump shot,1,3,131
+0022301048,195,PT08M57.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,MISS Merrill Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,0,134
+0022301048,197,PT08M57.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,44,50,94,v,Merrill Free Throw 2 of 3 (13 PTS),Free Throw,Free Throw 2 of 3,0,0,136
+0022301048,200,PT08M57.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,44,51,95,v,Merrill Free Throw 3 of 3 (14 PTS),Free Throw,Free Throw 3 of 3,1,0,138
+0022301048,207,PT07M58.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-194,188,27,Missed,1,,,0,v,MISS Merrill 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,142
+0022301048,225,PT07M01.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: LeVert FOR Merrill,Substitution,,0,0,156
+0022301048,422,PT03M31.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-2,270,27,Missed,1,,,0,v,MISS Merrill 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,291
+0022301048,455,PT00M49.30S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-130,226,26,Missed,1,,,0,v,MISS Merrill 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,313
+0022301048,462,PT00M36.20S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,319
+0022301048,466,PT00M15.40S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,323
+0022301048,485,PT11M11.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-112,244,27,Missed,1,,,0,v,MISS Merrill 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,333
+0022301048,505,PT09M25.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill L.B.FOUL (P3.T4) (N.Buchert),Foul,Loose Ball,1,0,348
+0022301048,517,PT07M53.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,228,36,0,Made,1,104,102,206,v,Merrill 3PT Jump Shot (17 PTS) (Mobley 6 AST),Made Shot,Jump Shot,1,3,357
+0022301048,532,PT06M55.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill STEAL (1 STL),,,1,0,367
+0022301048,543,PT06M25.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,374
+0022301048,551,PT05M48.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-48,265,27,Missed,1,,,0,v,MISS Merrill 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,380
+0022301048,564,PT04M37.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-172,194,26,Missed,1,,,0,v,MISS Merrill 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,389
+0022301048,589,PT02M16.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Strus FOR Merrill,Substitution,,0,0,407
+0022301048,619,PT00M39.40S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Mobley FOR Merrill,Substitution,,0,0,429
+0022301067,108,PT04M08.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill S.FOUL (P1.T3) (D.Taylor),Foul,Shooting,1,0,81
+0022301067,116,PT03M16.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill Traveling Turnover (P1.T4),Turnover,Traveling,1,0,86
+0022301067,135,PT02M40.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-142,232,27,Missed,1,,,0,h,MISS Merrill 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,96
+0022301067,152,PT00M52.80S,1,1610612739,CLE,1630241,Merrill,S. Merrill,130,226,26,Made,1,24,25,49,h,Merrill 26' 3PT Jump Shot (3 PTS) (Garland 2 AST),Made Shot,Jump Shot,1,3,112
+0022301067,159,PT00M08.80S,1,1610612739,CLE,1630241,Merrill,S. Merrill,206,167,27,Made,1,27,25,52,h,Merrill 27' 3PT Jump Shot (6 PTS) (Garland 3 AST),Made Shot,Jump Shot,1,3,119
+0022301067,171,PT00M08.80S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,28,25,53,h,Merrill Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,124
+0022301067,198,PT10M25.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-184,183,26,Made,1,33,29,62,h,Merrill 26' 3PT Pullup Jump Shot (10 PTS) (Garland 5 AST),Made Shot,Pullup Jump shot,1,3,138
+0022301067,202,PT09M30.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill P.FOUL (P2.T1) (R.Hussey),Foul,Personal,1,0,141
+0022301067,217,PT08M47.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,152
+0022301067,228,PT08M35.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Mitchell FOR Merrill,Substitution,,0,0,159
+0022301067,482,PT02M33.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,233,3,0,Made,1,83,82,165,h,Merrill 3PT Jump Shot (13 PTS) (Garland 8 AST),Made Shot,Jump Shot,1,3,327
+0022301067,497,PT01M03.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-96,237,26,Missed,1,,,0,h,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,336
+0022301067,510,PT00M06.10S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill Personal Take Foul (P3.T2) (D.Taylor),Foul,Personal Take,1,0,347
+0022301067,512,PT00M06.10S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Allen FOR Merrill,Substitution,,0,0,348
+0022301067,588,PT06M35.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,Merrill REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,392
+0022301067,604,PT05M41.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-224,84,24,Missed,1,,,0,h,MISS Merrill 24' 3PT Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,3,404
+0022301067,612,PT05M11.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,116,226,25,Missed,1,,,0,h,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,409
+0022301067,617,PT05M02.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,h,SUB: Strus FOR Merrill,Substitution,,0,0,413
+0022301077,146,PT01M34.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,189,172,26,Missed,1,,,0,v,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,90
+0022301077,131,PT01M21.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,4,255,26,Missed,1,,,0,v,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,95
+0022301077,150,PT00M03.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill S.FOUL (P1.PN) (D.Richardson),Foul,Shooting,1,0,110
+0022301077,174,PT10M47.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-202,137,24,Missed,1,,,0,v,MISS Merrill 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,126
+0022301077,189,PT09M31.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Morris Sr. FOR Merrill,Substitution,,0,0,139
+0022301077,456,PT01M14.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-228,44,0,Made,1,99,75,174,v,Merrill 3PT Jump Shot (3 PTS) (Mitchell 5 AST),Made Shot,Jump Shot,1,3,326
+0022301077,506,PT09M56.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill S.FOUL (P2.T1) (S.Foster),Foul,Shooting,1,0,361
+0022301077,517,PT09M02.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,132,81,15,Missed,1,,,0,v,MISS Merrill 15' Jump Shot,Missed Shot,Jump Shot,1,2,368
+0022301077,519,PT08M46.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill Violation:Kicked Ball (S.Foster),Violation,Kicked Ball,0,0,370
+0022301077,571,PT05M01.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Niang FOR Merrill,Substitution,,0,0,409
+0022301100,55,PT06M51.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,32
+0022301100,83,PT04M20.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-112,235,26,Made,1,19,31,50,v,Merrill 26' 3PT Pullup Jump Shot (3 PTS) (Garland 3 AST),Made Shot,Pullup Jump shot,1,3,50
+0022301100,155,PT11M28.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,53,55,8,Missed,1,,,0,v,MISS Merrill 8' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,101
+0022301100,165,PT10M33.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,108
+0022301100,166,PT10M22.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,246,25,Missed,1,,,0,v,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,109
+0022301100,179,PT09M08.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: LeVert FOR Merrill,Substitution,,0,0,119
+0022301100,229,PT06M36.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,191,166,25,Missed,1,,,0,v,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,156
+0022301100,280,PT03M28.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Garland FOR Merrill,Substitution,,0,0,194
+0022301100,312,PT01M23.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-173,204,27,Missed,1,,,0,v,MISS Merrill 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,218
+0022301100,321,PT00M34.30S,2,1610612739,CLE,1630241,Merrill,S. Merrill,235,-1,24,Made,1,47,67,114,v,Merrill 24' 3PT Jump Shot (6 PTS) (LeVert 4 AST),Made Shot,Jump Shot,1,3,225
+0022301100,390,PT05M58.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-200,168,26,Made,1,64,78,142,v,Merrill 26' 3PT Jump Shot (9 PTS) (Garland 6 AST),Made Shot,Jump Shot,1,3,280
+0022301100,393,PT05M29.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-217,143,26,Made,1,66,81,147,v,Merrill 26' 3PT Jump Shot (12 PTS) (Strus 5 AST),Made Shot,Jump Shot,1,3,282
+0022301100,422,PT04M07.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill L.B.FOUL (P1.T2) (C.Washington),Foul,Loose Ball,1,0,300
+0022301100,438,PT03M22.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-232,75,24,Made,1,74,88,162,v,Merrill 24' 3PT Jump Shot (15 PTS) (Allen 4 AST),Made Shot,Jump Shot,1,3,310
+0022301100,462,PT01M46.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-222,139,26,Missed,1,,,0,v,MISS Merrill 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,330
+0022301100,469,PT00M50.70S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,335
+0022301100,506,PT10M22.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,361
+0022301100,536,PT08M41.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: LeVert FOR Merrill,Substitution,,0,0,382
+0022301100,552,PT07M25.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,392
+0022301100,559,PT06M36.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,163,209,27,Made,1,95,117,212,v,Merrill 27' 3PT Jump Shot (18 PTS) (Strus 6 AST),Made Shot,Jump Shot,1,3,398
+0022301100,568,PT06M08.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,94,236,25,Missed,1,,,0,v,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,404
+0022301100,615,PT02M56.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-232,88,25,Missed,1,,,0,v,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,440
+0022301110,96,PT04M09.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,22,17,39,v,Merrill Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,69
+0022301110,97,PT04M09.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,22,18,40,v,Merrill Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,70
+0022301110,115,PT02M54.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill P.FOUL (P1.T2) (M.Lindsay),Foul,Personal,1,0,84
+0022301110,141,PT00M58.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Garland FOR Merrill,Substitution,,0,0,105
+0022301110,616,PT00M51.40S,4,1610612739,CLE,1630241,Merrill,S. Merrill,38,126,13,Missed,1,,,0,v,MISS Merrill 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,441
+0022301110,618,PT00M36.90S,4,1610612739,CLE,1630241,Merrill,S. Merrill,233,69,24,Missed,1,,,0,v,MISS Merrill 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,443
+0022301127,137,PT01M42.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,80,273,28,Missed,1,,,0,v,MISS Merrill 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,99
+0022301127,179,PT11M33.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-168,207,27,Missed,1,,,0,v,MISS Merrill 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,126
+0022301127,208,PT08M33.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,112,237,26,Missed,1,,,0,v,MISS Merrill 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,148
+0022301127,216,PT08M31.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Allen FOR Merrill,Substitution,,0,0,155
+0022301127,469,PT00M36.60S,3,1610612739,CLE,1630241,Merrill,S. Merrill,146,229,27,Missed,1,,,0,v,MISS Merrill 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,345
+0022301127,472,PT00M18.20S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,348
+0022301127,633,PT00M31.60S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,462
+0022301132,95,PT04M24.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill S.FOUL (P1.T2) (Z.Zarba),Foul,Shooting,1,0,63
+0022301132,107,PT03M25.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill STEAL (1 STL),,,1,0,73
+0022301132,159,PT00M16.50S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Garland FOR Merrill,Substitution,,0,0,111
+0022301132,196,PT10M58.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,131,254,29,Missed,1,,,0,v,MISS Merrill 29' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,128
+0022301132,208,PT10M31.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Okoro FOR Merrill,Substitution,,0,0,137
+0022301220,82,PT06M35.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill S.FOUL (P1.T4) (K.Lane),Foul,Shooting,1,0,60
+0022301220,93,PT05M39.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill P.FOUL (P2.PN) (T.Washington),Foul,Personal,1,0,69
+0022301220,101,PT05M37.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,74
+0022301220,112,PT04M22.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,84
+0022301220,113,PT04M21.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-223,-6,0,Missed,1,,,0,v,MISS Merrill 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,85
+0022301220,150,PT02M03.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,199,152,25,Missed,1,,,0,v,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,114
+0022301220,166,PT00M54.30S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-199,163,26,Made,1,23,17,40,v,Merrill 26' 3PT Pullup Jump Shot (3 PTS) (Niang 1 AST),Made Shot,Pullup Jump shot,1,3,127
+0022301220,178,PT00M04.10S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Allen FOR Merrill,Substitution,,0,0,136
+0022301220,203,PT11M26.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,Merrill REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,147
+0022301220,212,PT10M58.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Mitchell FOR Merrill,Substitution,,0,0,153
+0022301220,327,PT01M49.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-161,221,27,Made,1,50,48,98,v,Merrill 27' 3PT Jump Shot (6 PTS) (Mitchell 3 AST),Made Shot,Jump Shot,1,3,236
+0022301220,331,PT01M29.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-234,64,24,Made,1,50,51,101,v,Merrill 24' 3PT Jump Shot (9 PTS) (Mitchell 4 AST),Made Shot,Jump Shot,1,3,239
+0022301220,346,PT00M36.70S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,,,0,v,SUB: Okoro FOR Merrill,Substitution,,0,0,251

@@ -1,0 +1,91 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300309,601,PT04M01.00S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon Out of Bounds - Bad Pass Turnover Turnover (P1.T15),Turnover,Out of Bounds - Bad Pass Turnover,1,0,438
+0022300309,603,PT03M48.00S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon S.FOUL (P1.T4) (J.Orr),Foul,Shooting,1,0,440
+0022300309,612,PT03M02.00S,4,1610612746,LAC,1629875,Moon,X. Moon,5,36,4,Made,1,116,91,207,h,Moon 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,445
+0022300309,621,PT01M19.00S,4,1610612746,LAC,1629875,Moon,X. Moon,234,131,27,Missed,1,,,0,h,MISS Moon 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,452
+0022300343,627,PT04M24.00S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,449
+0022300343,679,PT00M19.40S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,492
+0022300944,615,PT01M35.00S,4,1610612746,LAC,1629875,Moon,X. Moon,-142,38,15,Made,1,98,118,216,h,Moon 15' Pullup Jump Shot (2 PTS) (Plumlee 2 AST),Made Shot,Pullup Jump shot,1,2,445
+0022300944,620,PT01M10.00S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon Lost Ball Turnover (P1.T18),Turnover,Lost Ball,1,0,448
+0022300982,593,PT02M16.00S,4,1610612746,LAC,1629875,Moon,X. Moon,87,159,18,Made,1,88,103,191,h,Moon 18' Jump Shot (2 PTS) (Plumlee 1 AST),Made Shot,Jump Shot,1,2,435
+0022300982,595,PT01M59.00S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,1,0,436
+0022300982,609,PT01M58.00S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,MISS Moon Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,444
+0022300982,611,PT01M58.00S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,89,105,194,h,Moon Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,446
+0022300982,612,PT01M41.00S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon S.FOUL (P2.PN) (J.Tiven),Foul,Shooting,1,0,447
+0022300982,623,PT00M58.70S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,456
+0022300982,624,PT00M58.70S,4,1610612746,LAC,1629875,Moon,X. Moon,2,94,9,Made,1,91,108,199,h,Moon 9' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,2,457
+0022301003,516,PT04M57.00S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,v,Moon Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,378
+0022301003,530,PT03M57.00S,4,1610612746,LAC,1629875,Moon,X. Moon,-138,201,24,Missed,1,,,0,v,MISS Moon 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,390
+0022301003,533,PT03M13.00S,4,1610612746,LAC,1629875,Moon,X. Moon,115,146,19,Made,1,94,114,208,v,Moon 19' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,393
+0022301003,535,PT02M44.00S,4,1610612746,LAC,1629875,Moon,X. Moon,-22,32,4,Missed,1,,,0,v,MISS Moon 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,395
+0022301003,556,PT01M53.00S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,v,Moon STEAL (1 STL),,,1,0,411
+0022301017,602,PT03M27.00S,4,1610612746,LAC,1629875,Moon,X. Moon,-67,126,14,Missed,1,,,0,v,MISS Moon 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,430
+0022301017,610,PT02M54.00S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,v,Moon REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,436
+0022301017,614,PT02M29.00S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,v,Moon REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,440
+0022301017,615,PT02M28.00S,4,1610612746,LAC,1629875,Moon,X. Moon,-21,13,2,Missed,1,,,0,v,MISS Moon 2' Running Layup,Missed Shot,Running Layup Shot,1,2,441
+0022301017,627,PT00M57.20S,4,1610612746,LAC,1629875,Moon,X. Moon,45,318,32,Missed,1,,,0,v,MISS Moon 32' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,453
+0022301017,637,PT00M10.40S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,v,Moon S.FOUL (P1.T4) (P.Ransom),Foul,Shooting,1,0,461
+0022301028,559,PT02M31.00S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon BLOCK (1 BLK),,,1,2,408
+0022301028,569,PT01M48.00S,4,1610612746,LAC,1629875,Moon,X. Moon,205,149,25,Missed,1,,,0,h,MISS Moon 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,414
+0022301028,588,PT00M10.30S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon Out of Bounds - Bad Pass Turnover Turnover (P1.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,428
+0022301043,625,PT00M17.00S,4,1610612746,LAC,1629875,Moon,X. Moon,-135,211,25,Missed,1,,,0,h,MISS Moon 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,441
+0022301043,627,PT00M09.90S,4,1610612746,LAC,1629875,Moon,X. Moon,-78,51,9,Missed,1,,,0,h,MISS Moon 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,443
+0022301126,628,PT01M49.00S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,471
+0022301126,629,PT01M49.00S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,Missed,1,,,0,h,MISS Moon Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,472
+0022301165,179,PT09M10.00S,2,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,140
+0022301165,180,PT09M04.00S,2,1610612746,LAC,1629875,Moon,X. Moon,-74,126,15,Made,1,33,39,72,h,Moon 15' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,141
+0022301165,208,PT07M03.00S,2,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,SUB: Hyland FOR Moon,Substitution,,0,0,158
+0022301165,250,PT04M02.00S,2,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,189
+0022301165,263,PT03M06.00S,2,1610612746,LAC,1629875,Moon,X. Moon,37,32,5,Made,1,42,51,93,h,Moon 5' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,200
+0022301165,292,PT00M45.20S,2,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,222
+0022301165,484,PT08M18.00S,4,1610612746,LAC,1629875,Moon,X. Moon,48,112,12,Made,1,104,98,202,h,Moon 12' Floating Jump Shot (6 PTS) (Plumlee 4 AST),Made Shot,Floating Jump shot,1,2,363
+0022301165,507,PT07M00.00S,4,1610612746,LAC,1629875,Moon,X. Moon,230,90,25,Missed,1,,,0,h,MISS Moon 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,377
+0022301165,511,PT06M38.00S,4,1610612746,LAC,1629875,Moon,X. Moon,39,117,12,Missed,1,,,0,h,MISS Moon 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,381
+0022301165,520,PT06M02.00S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,SUB: Coffey FOR Moon,Substitution,,0,0,388
+0022301184,427,PT03M47.00S,3,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon BLOCK (1 BLK),,,1,2,323
+0022301184,443,PT02M55.00S,3,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,335
+0022301184,450,PT02M43.00S,3,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,340
+0022301184,471,PT00M37.70S,3,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,357
+0022301184,475,PT00M00.50S,3,1610612746,LAC,1629875,Moon,X. Moon,75,155,17,Made,1,85,86,171,h,Moon 17' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,360
+0022301184,493,PT10M18.00S,4,1610612746,LAC,1629875,Moon,X. Moon,22,15,3,Missed,1,,,0,h,MISS Moon 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,375
+0022301184,509,PT09M03.00S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon P.FOUL (P1.T1) (S.Mitchell),Foul,Personal,1,0,386
+0022301184,540,PT06M54.00S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,413
+0022301184,541,PT06M47.00S,4,1610612746,LAC,1629875,Moon,X. Moon,120,256,28,Missed,1,,,0,h,MISS Moon 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,414
+0022301184,550,PT06M06.00S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon S.FOUL (P2.T2) (J.Van Duyne),Foul,Shooting,1,0,422
+0022301184,625,PT00M04.10S,4,1610612746,LAC,1629875,Moon,X. Moon,-167,199,26,Missed,1,,,0,h,MISS Moon 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,477
+0022301199,11,PT11M22.00S,1,1610612746,LAC,1629875,Moon,X. Moon,-49,104,11,Missed,1,,,0,h,MISS Moon 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,7
+0022301199,31,PT09M22.00S,1,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,23
+0022301199,36,PT08M52.00S,1,1610612746,LAC,1629875,Moon,X. Moon,1,41,4,Missed,1,,,0,h,MISS Moon 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,27
+0022301199,50,PT07M01.00S,1,1610612746,LAC,1629875,Moon,X. Moon,23,22,3,Missed,1,,,0,h,MISS Moon 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,39
+0022301199,64,PT06M14.00S,1,1610612746,LAC,1629875,Moon,X. Moon,7,126,13,Missed,1,,,0,h,MISS Moon 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,49
+0022301199,78,PT05M16.00S,1,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,59
+0022301199,100,PT03M33.00S,1,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon STEAL (1 STL),,,1,0,75
+0022301199,107,PT03M14.00S,1,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,SUB: Mann FOR Moon,Substitution,,0,0,80
+0022301199,146,PT00M20.30S,1,1610612746,LAC,1629875,Moon,X. Moon,-188,170,25,Missed,1,,,0,h,MISS Moon 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,111
+0022301199,180,PT10M45.00S,2,1610612746,LAC,1629875,Moon,X. Moon,140,233,27,Made,1,27,28,55,h,Moon 27' 3PT Pullup Jump Shot (3 PTS) (Brown 1 AST),Made Shot,Pullup Jump shot,1,3,136
+0022301199,185,PT09M59.00S,2,1610612746,LAC,1629875,Moon,X. Moon,-137,226,26,Missed,1,,,0,h,MISS Moon 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,140
+0022301199,200,PT08M34.00S,2,1610612746,LAC,1629875,Moon,X. Moon,-109,153,19,Missed,1,,,0,h,MISS Moon 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,154
+0022301199,234,PT06M58.00S,2,1610612746,LAC,1629875,Moon,X. Moon,-121,230,26,Made,1,33,38,71,h,Moon 26' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,3,180
+0022301199,264,PT04M55.00S,2,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon P.FOUL (P1.T3) (T.Ford),Foul,Personal,1,0,202
+0022301199,284,PT03M39.00S,2,1610612746,LAC,1629875,Moon,X. Moon,-1,53,5,Missed,1,,,0,h,MISS Moon 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,216
+0022301199,293,PT02M54.00S,2,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,225
+0022301199,315,PT01M53.00S,2,1610612746,LAC,1629875,Moon,X. Moon,37,70,8,Made,1,47,48,95,h,Moon 8' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,241
+0022301199,319,PT01M22.00S,2,1610612746,LAC,1629875,Moon,X. Moon,-12,112,11,Made,1,49,48,97,h,Moon 11' Running Pull-Up Jump Shot (10 PTS) (Mann 2 AST),Made Shot,Running Pull-Up Jump Shot,1,2,244
+0022301199,355,PT10M04.00S,3,1610612746,LAC,1629875,Moon,X. Moon,-238,16,24,Missed,1,,,0,h,MISS Moon 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,272
+0022301199,384,PT08M05.00S,3,1610612746,LAC,1629875,Moon,X. Moon,-96,148,18,Missed,1,,,0,h,MISS Moon 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,293
+0022301199,410,PT05M44.00S,3,1610612746,LAC,1629875,Moon,X. Moon,-219,120,25,Missed,1,,,0,h,MISS Moon 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,316
+0022301199,416,PT05M09.00S,3,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon S.FOUL (P2.T4) (T.Ford),Foul,Shooting,1,0,321
+0022301199,464,PT02M33.00S,3,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,356
+0022301199,496,PT00M21.60S,3,1610612746,LAC,1629875,Moon,X. Moon,-118,229,26,Missed,1,,,0,h,MISS Moon 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,379
+0022301199,530,PT10M24.00S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,400
+0022301199,531,PT10M20.00S,4,1610612746,LAC,1629875,Moon,X. Moon,-10,56,6,Missed,1,,,0,h,MISS Moon 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,401
+0022301199,566,PT06M53.00S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon STEAL (2 STL),,,1,0,429
+0022301199,569,PT06M41.00S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,431
+0022301199,578,PT06M10.00S,4,1610612746,LAC,1629875,Moon,X. Moon,62,117,13,Made,1,92,98,190,h,Moon 13' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,2,438
+0022301199,589,PT05M18.00S,4,1610612746,LAC,1629875,Moon,X. Moon,2,143,14,Made,1,97,103,200,h,Moon 14' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,2,445
+0022301199,592,PT04M52.00S,4,1610612746,LAC,1629875,Moon,X. Moon,1,174,17,Missed,1,,,0,h,MISS Moon 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,447
+0022301199,607,PT03M56.00S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Jump Ball Moon vs. Marjanovic: Tip to Brown,Jump Ball,,0,0,460
+0022301199,619,PT03M36.00S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Moon BLOCK (1 BLK),,,1,2,464
+0022301199,623,PT03M35.00S,4,1610612746,LAC,1629875,Moon,X. Moon,0,0,0,,0,,,0,h,Jump Ball Moon vs. Marjanovic: Tip to Plumlee,Jump Ball,,0,0,469
+0022301199,637,PT03M31.00S,4,1610612746,LAC,1629875,Moon,X. Moon,168,186,25,Missed,1,,,0,h,MISS Moon 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,470
+0022301199,675,PT00M50.40S,4,1610612746,LAC,1629875,Moon,X. Moon,230,85,25,Missed,1,,,0,h,MISS Moon 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,512

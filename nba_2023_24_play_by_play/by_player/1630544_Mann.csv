@@ -1,0 +1,818 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300021,620,PT07M24.00S,4,1610612760,OKC,1630544,Mann,T. Mann,-11,11,2,Made,1,104,70,174,h,Mann 2' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,1,2,442
+0022300021,632,PT06M37.00S,4,1610612760,OKC,1630544,Mann,T. Mann,-153,218,27,Missed,1,,,0,h,MISS Mann 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,3,450
+0022300021,638,PT05M57.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann STEAL (1 STL),,,1,0,456
+0022300021,643,PT05M26.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,459
+0022300021,672,PT04M14.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,477
+0022300021,680,PT03M18.00S,4,1610612760,OKC,1630544,Mann,T. Mann,232,-32,0,Made,1,117,80,197,h,Mann 3PT Jump Shot (5 PTS) (Pokusevski 1 AST),Made Shot,Jump Shot,1,3,481
+0022300021,691,PT01M52.00S,4,1610612760,OKC,1630544,Mann,T. Mann,-217,132,25,Missed,1,,,0,h,MISS Mann 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,489
+0022300021,699,PT00M46.40S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Bad Pass Turnover (P1.T15),Turnover,Bad Pass,1,0,496
+0022300095,549,PT07M11.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,393
+0022300095,550,PT07M07.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,394
+0022300095,554,PT06M52.00S,4,1610612760,OKC,1630544,Mann,T. Mann,1,167,17,Made,1,82,111,193,h,Mann 17' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,2,397
+0022300095,560,PT05M49.00S,4,1610612760,OKC,1630544,Mann,T. Mann,-62,60,9,Missed,1,,,0,h,MISS Mann 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,402
+0022300095,563,PT05M37.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,405
+0022300095,576,PT04M54.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,415
+0022300095,577,PT04M46.00S,4,1610612760,OKC,1630544,Mann,T. Mann,50,10,5,Made,1,84,113,197,h,Mann 5' Jump Bank Shot (4 PTS),Made Shot,Jump Bank Shot,1,2,416
+0022300095,584,PT03M41.00S,4,1610612760,OKC,1630544,Mann,T. Mann,234,83,25,Made,1,87,119,206,h,Mann 25' 3PT Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,1,3,421
+0022300095,588,PT03M19.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,88,121,209,h,Mann Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1,0,424
+0022300095,600,PT02M44.00S,4,1610612760,OKC,1630544,Mann,T. Mann,-17,7,2,Made,1,93,123,216,h,Mann 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,432
+0022300095,602,PT02M27.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,434
+0022300095,614,PT01M24.00S,4,1610612760,OKC,1630544,Mann,T. Mann,-11,10,1,Made,1,95,125,220,h,Mann 1' Driving Finger Roll Layup (12 PTS) (Dieng 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,442
+0022300095,624,PT00M25.30S,4,1610612760,OKC,1630544,Mann,T. Mann,-223,147,27,Missed,1,,,0,h,MISS Mann 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,448
+0022300215,145,PT00M11.80S,1,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Wiggins FOR Mann,Substitution,,0,0,105
+0022300215,167,PT11M46.00S,2,1610612760,OKC,1630544,Mann,T. Mann,-223,32,0,Missed,1,,,0,v,MISS Mann 3PT Jump Shot,Missed Shot,Jump Shot,1,3,112
+0022300215,182,PT09M52.00S,2,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,124
+0022300215,205,PT08M44.00S,2,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann L.B.FOUL (P1.T1) (E.Scott),Foul,Loose Ball,1,0,141
+0022300215,212,PT08M02.00S,2,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,147
+0022300215,254,PT05M24.00S,2,1610612760,OKC,1630544,Mann,T. Mann,27,96,10,Missed,1,,,0,v,MISS Mann 10' Driving Layup,Missed Shot,Driving Layup Shot,1,2,181
+0022300215,261,PT04M31.00S,2,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,187
+0022300215,268,PT04M23.00S,2,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Dort FOR Mann,Substitution,,0,0,193
+0022300215,439,PT03M00.00S,3,1610612760,OKC,1630544,Mann,T. Mann,-214,209,30,Missed,1,,,0,v,MISS Mann 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,313
+0022300215,461,PT00M55.40S,3,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Lost Ball Turnover (P2.T14),Turnover,Lost Ball,1,0,334
+0022300215,508,PT09M26.00S,4,1610612760,OKC,1630544,Mann,T. Mann,18,38,4,Made,1,72,106,178,v,Mann 4' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,367
+0022300215,510,PT09M10.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,369
+0022300215,539,PT07M13.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Bertans FOR Mann,Substitution,,0,0,391
+0022300215,569,PT04M18.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,414
+0022300215,570,PT04M17.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,Missed,1,,,0,v,MISS Mann Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,415
+0022300215,573,PT04M05.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,418
+0022300215,583,PT03M19.00S,4,1610612760,OKC,1630544,Mann,T. Mann,162,188,25,Made,1,82,126,208,v,Mann 25' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,3,427
+0022300215,592,PT02M20.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Bad Pass Turnover (P3.T17),Turnover,Bad Pass,1,0,432
+0022300215,599,PT01M21.00S,4,1610612760,OKC,1630544,Mann,T. Mann,-32,136,14,Made,1,88,131,219,v,Mann 14' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,1,2,439
+0022300271,698,PT00M31.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,493
+0022300302,537,PT11M23.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann S.FOUL (P1.T1) (D.Scott),Foul,Shooting,1,0,383
+0022300302,543,PT11M01.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,388
+0022300302,584,PT08M06.00S,4,1610612760,OKC,1630544,Mann,T. Mann,25,-8,3,Made,1,121,90,211,h,Mann 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,420
+0022300302,598,PT06M47.00S,4,1610612760,OKC,1630544,Mann,T. Mann,16,-1,2,Missed,1,,,0,h,MISS Mann 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,431
+0022300302,607,PT06M25.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,164,16,Missed,1,,,0,h,MISS Mann 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,437
+0022300302,610,PT06M03.00S,4,1610612760,OKC,1630544,Mann,T. Mann,74,246,26,Missed,1,,,0,h,MISS Mann 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,440
+0022300302,612,PT05M57.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann P.FOUL (P2.T4) (D.Scott),Foul,Personal,1,0,442
+0022300302,616,PT05M32.00S,4,1610612760,OKC,1630544,Mann,T. Mann,18,-10,2,Made,1,126,101,227,h,Mann 2' Driving Layup (4 PTS) (Dieng 2 AST),Made Shot,Driving Layup Shot,1,2,444
+0022300302,624,PT04M15.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,451
+0022300302,641,PT03M27.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,464
+0022300302,668,PT01M02.00S,4,1610612760,OKC,1630544,Mann,T. Mann,-6,-7,1,Missed,1,,,0,h,MISS Mann 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,483
+0022300355,655,PT04M08.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Traveling Turnover (P1.T12),Turnover,Traveling,1,0,471
+0022300419,179,PT09M49.00S,2,1610612760,OKC,1630544,Mann,T. Mann,121,-7,12,Missed,1,,,0,h,MISS Mann 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,126
+0022300419,218,PT06M48.00S,2,1610612760,OKC,1630544,Mann,T. Mann,181,247,31,Missed,1,,,0,h,MISS Mann 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,152
+0022300419,227,PT05M46.00S,2,1610612760,OKC,1630544,Mann,T. Mann,-229,114,26,Missed,1,,,0,h,MISS Mann 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,160
+0022300419,230,PT05M45.00S,2,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Giddey FOR Mann,Substitution,,0,0,162
+0022300529,472,PT05M13.00S,3,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,348
+0022300529,486,PT03M46.00S,3,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,360
+0022300529,494,PT03M01.00S,3,1610612760,OKC,1630544,Mann,T. Mann,-156,284,32,Made,1,108,54,162,h,Mann 32' 3PT Jump Shot (3 PTS) (Wallace 2 AST),Made Shot,Jump Shot,1,3,368
+0022300529,506,PT01M42.00S,3,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,378
+0022300529,519,PT00M54.80S,3,1610612760,OKC,1630544,Mann,T. Mann,-218,141,26,Made,1,116,54,170,h,Mann 26' 3PT Step Back Jump Shot (6 PTS) (Jay. Williams 1 AST),Made Shot,Step Back Jump shot,1,3,388
+0022300529,557,PT10M19.00S,4,1610612760,OKC,1630544,Mann,T. Mann,192,176,26,Missed,1,,,0,h,MISS Mann 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,415
+0022300529,572,PT08M54.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Out of Bounds Lost Ball Turnover (P1.T10),Turnover,Out of Bounds Lost Ball Turnover,1,0,429
+0022300529,574,PT08M38.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,431
+0022300529,594,PT07M06.00S,4,1610612760,OKC,1630544,Mann,T. Mann,230,52,24,Made,1,129,67,196,h,Mann 24' 3PT Jump Shot (9 PTS) (Dieng 2 AST),Made Shot,Jump Shot,1,3,445
+0022300529,607,PT05M57.00S,4,1610612760,OKC,1630544,Mann,T. Mann,-199,79,21,Made,1,131,73,204,h,Mann 21' Step Back Jump Shot (11 PTS) (Johnson 2 AST),Made Shot,Step Back Jump shot,1,2,453
+0022300529,620,PT04M15.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,463
+0022300529,640,PT02M12.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,478
+0022300529,644,PT01M32.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,482
+0022300751,14,PT10M57.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-186,166,25,Made,1,3,3,6,h,Mann 25' 3PT Jump Shot (3 PTS) (Miller 1 AST),Made Shot,Jump Shot,1,3,9
+0022300751,17,PT10M22.00S,1,1610612766,CHA,1630544,Mann,T. Mann,7,14,2,Made,1,5,5,10,h,Mann 2' Floating Jump Shot (5 PTS) (Richards 1 AST),Made Shot,Floating Jump shot,1,2,11
+0022300751,24,PT09M51.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-15,-1,2,Missed,1,,,0,h,MISS Mann 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,16
+0022300751,69,PT04M55.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-146,211,26,Missed,1,,,0,h,MISS Mann 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,50
+0022300751,76,PT04M34.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Curry FOR Mann,Substitution,,0,0,56
+0022300751,131,PT00M42.90S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,96
+0022300751,154,PT11M14.00S,2,1610612766,CHA,1630544,Mann,T. Mann,207,131,24,Missed,1,,,0,h,MISS Mann 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,3,109
+0022300751,156,PT10M58.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann STEAL (1 STL),,,1,0,112
+0022300751,162,PT10M25.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann STEAL (2 STL),,,1,0,116
+0022300751,203,PT07M15.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Bridges FOR Mann,Substitution,,0,0,144
+0022300751,331,PT10M20.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-5,43,4,Made,1,62,51,113,h,Mann 4' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,221
+0022300751,349,PT08M16.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,235
+0022300751,354,PT07M46.00S,3,1610612766,CHA,1630544,Mann,T. Mann,148,207,25,Missed,1,,,0,h,MISS Mann 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,239
+0022300751,366,PT06M16.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Bad Pass Turnover (P1.T14),Turnover,Bad Pass,1,0,249
+0022300751,370,PT06M06.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Micic FOR Mann,Substitution,,0,0,252
+0022300751,425,PT02M11.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,291
+0022300751,433,PT01M15.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann S.FOUL (P1.PN) (J.Goble),Foul,Shooting,1,0,297
+0022300751,442,PT00M25.40S,3,1610612766,CHA,1630544,Mann,T. Mann,7,25,3,Made,1,85,74,159,h,Mann 3' Running Layup (9 PTS) (Curry 1 AST),Made Shot,Running Layup Shot,1,2,304
+0022300751,469,PT10M34.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,320
+0022300751,470,PT10M24.00S,4,1610612766,CHA,1630544,Mann,T. Mann,16,36,4,Missed,1,,,0,h,MISS Mann 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,321
+0022300751,495,PT08M35.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Bad Pass Turnover (P2.T15),Turnover,Bad Pass,1,0,338
+0022300751,501,PT08M08.00S,4,1610612766,CHA,1630544,Mann,T. Mann,161,209,26,Missed,1,,,0,h,MISS Mann 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,343
+0022300751,505,PT07M37.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,25,3,Missed,1,,,0,h,MISS Mann 3' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,347
+0022300751,511,PT07M33.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Bridges FOR Mann,Substitution,,0,0,353
+0022300761,8,PT11M37.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,4
+0022300761,27,PT09M44.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,18
+0022300761,41,PT08M34.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,30
+0022300761,51,PT07M22.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Out of Bounds - Bad Pass Turnover Turnover (P2.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,38
+0022300761,70,PT05M57.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Micic FOR Mann,Substitution,,0,0,52
+0022300761,105,PT03M28.00S,1,1610612766,CHA,1630544,Mann,T. Mann,152,241,28,Missed,1,,,0,h,MISS Mann 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,78
+0022300761,112,PT03M04.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,83
+0022300761,129,PT02M57.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Lost Ball Turnover (P3.T6),Turnover,Lost Ball,1,0,84
+0022300761,121,PT02M14.00S,1,1610612766,CHA,1630544,Mann,T. Mann,207,181,27,Made,1,20,21,41,h,Mann 27' 3PT Jump Shot (3 PTS) (Curry 1 AST),Made Shot,Jump Shot,1,3,91
+0022300761,135,PT01M15.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-89,246,26,Missed,1,,,0,h,MISS Mann 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,99
+0022300761,143,PT00M29.70S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,105
+0022300761,147,PT00M00.00S,1,1610612766,CHA,1630544,Mann,T. Mann,25,32,4,Missed,1,,,0,h,MISS Mann 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,108
+0022300761,164,PT10M25.00S,2,1610612766,CHA,1630544,Mann,T. Mann,-16,181,18,Missed,1,,,0,h,MISS Mann 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,120
+0022300761,179,PT09M35.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,130
+0022300761,183,PT09M28.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Bertans FOR Mann,Substitution,,0,0,133
+0022300761,318,PT11M30.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Bad Pass Turnover (P4.T13),Turnover,Bad Pass,1,0,230
+0022300761,326,PT10M39.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,238
+0022300761,328,PT10M17.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,1,0,240
+0022300761,372,PT05M48.00S,3,1610612766,CHA,1630544,Mann,T. Mann,1,-5,1,Made,1,65,66,131,h,Mann 1' Running Dunk (5 PTS) (Bridges 5 AST),Made Shot,Running Dunk Shot,1,2,272
+0022300761,382,PT05M19.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Curry FOR Mann,Substitution,,0,0,279
+0022300761,401,PT03M46.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,293
+0022300761,402,PT03M39.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-22,73,8,Made,1,71,74,145,h,Mann 8' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,2,294
+0022300761,417,PT03M18.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,301
+0022300761,418,PT03M11.00S,3,1610612766,CHA,1630544,Mann,T. Mann,25,26,4,Missed,1,,,0,h,MISS Mann 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,302
+0022300761,475,PT09M34.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,341
+0022300761,476,PT09M28.00S,4,1610612766,CHA,1630544,Mann,T. Mann,42,100,11,Made,1,88,84,172,h,Mann 11' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,2,342
+0022300761,499,PT07M47.00S,4,1610612766,CHA,1630544,Mann,T. Mann,15,-4,2,Made,1,90,88,178,h,Mann 2' Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,358
+0022300761,502,PT07M11.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-147,46,15,Missed,1,,,0,h,MISS Mann 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,361
+0022300761,514,PT06M30.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Bertans FOR Mann,Substitution,,0,0,371
+0022300777,12,PT11M04.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+0022300777,29,PT09M43.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,22
+0022300777,30,PT09M34.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-4,70,7,Missed,1,,,0,h,MISS Mann 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,23
+0022300777,50,PT08M27.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-230,54,24,Made,1,10,8,18,h,Mann 24' 3PT Jump Shot (3 PTS) (Miller 1 AST),Made Shot,Jump Shot,1,3,38
+0022300777,65,PT06M55.00S,1,1610612766,CHA,1630544,Mann,T. Mann,161,259,30,Made,1,16,10,26,h,Mann 30' 3PT Jump Shot (6 PTS) (Bridges 1 AST),Made Shot,Jump Shot,1,3,48
+0022300777,78,PT06M11.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann STEAL (1 STL),,,1,0,57
+0022300777,80,PT06M06.00S,1,1610612766,CHA,1630544,Mann,T. Mann,6,17,2,Made,1,20,12,32,h,Mann 2' Running Dunk (8 PTS),Made Shot,Running Dunk Shot,1,2,58
+0022300777,82,PT05M51.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,60
+0022300777,101,PT04M02.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,77
+0022300777,107,PT03M30.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Williams FOR Mann,Substitution,,0,0,82
+0022300777,157,PT00M26.20S,1,1610612766,CHA,1630544,Mann,T. Mann,-119,33,12,Missed,1,,,0,h,MISS Mann 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,116
+0022300777,172,PT11M14.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,126
+0022300777,175,PT11M00.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann P.FOUL (P1.T1) (D.Scott),Foul,Personal,1,0,129
+0022300777,182,PT10M15.00S,2,1610612766,CHA,1630544,Mann,T. Mann,175,207,27,Made,1,34,33,67,h,Mann 27' 3PT Jump Shot (11 PTS) (Curry 1 AST),Made Shot,Jump Shot,1,3,134
+0022300777,194,PT08M45.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Bertans FOR Mann,Substitution,,0,0,144
+0022300777,300,PT00M40.80S,2,1610612766,CHA,1630544,Mann,T. Mann,-140,50,15,Missed,1,,,0,h,MISS Mann 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,220
+0022300777,333,PT10M17.00S,3,1610612766,CHA,1630544,Mann,T. Mann,10,9,1,Made,1,65,57,122,h,Mann 1' Driving Finger Roll Layup (13 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,245
+0022300777,334,PT10M12.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann STEAL (2 STL),,,1,0,247
+0022300777,336,PT09M56.00S,3,1610612766,CHA,1630544,Mann,T. Mann,13,62,6,Missed,1,,,0,h,MISS Mann 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,248
+0022300777,339,PT09M43.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,251
+0022300777,349,PT08M23.00S,3,1610612766,CHA,1630544,Mann,T. Mann,91,261,28,Made,1,70,57,127,h,Mann 28' 3PT Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1,3,259
+0022300777,375,PT06M44.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,75,64,139,h,Mann Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,276
+0022300777,378,PT06M44.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,76,64,140,h,Mann Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,278
+0022300777,386,PT06M09.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Micic FOR Mann,Substitution,,0,0,286
+0022300777,485,PT11M06.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,356
+0022300777,486,PT11M00.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,357
+0022300777,498,PT10M20.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,366
+0022300777,501,PT10M01.00S,4,1610612766,CHA,1630544,Mann,T. Mann,16,17,2,Made,1,99,83,182,h,Mann 2' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,1,2,368
+0022300777,504,PT10M01.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,100,83,183,h,Mann Free Throw 1 of 1 (21 PTS),Free Throw,Free Throw 1 of 1,1,0,370
+0022300777,518,PT08M36.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-40,25,5,Missed,1,,,0,h,MISS Mann 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,381
+0022300777,523,PT08M24.00S,4,1610612766,CHA,1630544,Mann,T. Mann,224,3,0,Missed,1,,,0,h,MISS Mann 3PT Jump Shot,Missed Shot,Jump Shot,1,3,386
+0022300777,529,PT08M16.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Bertans FOR Mann,Substitution,,0,0,391
+0022300801,27,PT09M44.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann P.FOUL (P1.T1) (C.Washington),Foul,Personal,1,0,20
+0022300801,29,PT09M37.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann S.FOUL (P2.T2) (M.Lindsay),Foul,Shooting,1,0,21
+0022300801,40,PT08M52.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-62,134,15,Missed,1,,,0,v,MISS Mann 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,28
+0022300801,71,PT06M41.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-176,184,25,Made,1,14,10,24,v,Mann 25' 3PT Running Jump Shot (3 PTS),Made Shot,Running Jump Shot,1,3,52
+0022300801,77,PT06M00.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,57
+0022300801,80,PT05M54.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,MISS Mann Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,59
+0022300801,86,PT05M54.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,16,11,27,v,Mann Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,63
+0022300801,88,PT05M41.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,65
+0022300801,96,PT04M58.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Curry FOR Mann,Substitution,,0,0,72
+0022300801,141,PT01M54.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-151,217,26,Made,1,20,25,45,v,Mann 26' 3PT Step Back Jump Shot (7 PTS) (Williams 1 AST),Made Shot,Step Back Jump shot,1,3,106
+0022300801,152,PT01M06.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,114
+0022300801,206,PT08M47.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Bertans FOR Mann,Substitution,,0,0,151
+0022300801,347,PT11M08.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann STEAL (1 STL),,,1,0,248
+0022300801,349,PT11M03.00S,3,1610612766,CHA,1630544,Mann,T. Mann,6,10,1,Made,1,55,60,115,v,Mann 1' Running Reverse Layup (9 PTS),Made Shot,Running Reverse Layup Shot,1,2,249
+0022300801,359,PT09M58.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Out of Bounds Lost Ball Turnover (P1.T8),Turnover,Out of Bounds Lost Ball Turnover,1,0,257
+0022300801,360,PT09M45.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann S.FOUL (P3.T2) (C.Washington),Foul,Shooting,1,0,258
+0022300801,375,PT08M41.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-32,1,3,Missed,1,,,0,v,MISS Mann 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,270
+0022300801,383,PT08M22.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann T.FOUL (P3.T2) (C.Washington),Foul,Technical,1,0,279
+0022300801,413,PT06M24.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,69,73,142,v,Mann Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,298
+0022300801,414,PT06M24.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,69,74,143,v,Mann Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,299
+0022300801,428,PT05M19.00S,3,1610612766,CHA,1630544,Mann,T. Mann,18,110,11,Missed,1,,,0,v,MISS Mann 11' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,309
+0022300801,430,PT05M14.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann STEAL (2 STL),,,1,0,312
+0022300801,444,PT04M26.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Williams FOR Mann,Substitution,,0,0,324
+0022300801,544,PT09M48.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-36,69,8,Made,1,94,90,184,v,Mann 8' Driving Floating Jump Shot (13 PTS),Made Shot,Driving Floating Jump Shot,1,2,392
+0022300801,558,PT08M28.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann L.B.FOUL (P4.T2) (C.Washington),Foul,Loose Ball,1,0,406
+0022300801,560,PT08M28.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Bertans FOR Mann,Substitution,,0,0,407
+0022300801,582,PT07M33.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,423
+0022300801,597,PT05M51.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,436
+0022300801,598,PT05M47.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-92,252,27,Missed,1,,,0,v,MISS Mann 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,437
+0022300801,619,PT04M46.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,451
+0022300801,628,PT04M13.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Miller FOR Mann,Substitution,,0,0,457
+0022300811,25,PT09M48.00S,1,1610612766,CHA,1630544,Mann,T. Mann,60,130,14,Missed,1,,,0,v,MISS Mann 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,17
+0022300811,50,PT07M34.00S,1,1610612766,CHA,1630544,Mann,T. Mann,34,17,4,Made,1,6,7,13,v,Mann 4' Driving Layup (2 PTS) (Bridges 1 AST),Made Shot,Driving Layup Shot,1,2,40
+0022300811,53,PT07M11.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,42
+0022300811,84,PT05M09.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,68
+0022300811,92,PT04M59.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Micic FOR Mann,Substitution,,0,0,75
+0022300811,181,PT11M35.00S,2,1610612766,CHA,1630544,Mann,T. Mann,228,21,0,Made,1,22,18,40,v,Mann 3PT Jump Shot (5 PTS) (Curry 1 AST),Made Shot,Jump Shot,1,3,126
+0022300811,189,PT10M32.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Offensive Charge Foul (P1) (B.Nansel),Foul,Offensive Charge,1,0,132
+0022300811,191,PT10M32.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,1,0,133
+0022300811,207,PT08M46.00S,2,1610612766,CHA,1630544,Mann,T. Mann,15,91,9,Missed,1,,,0,v,MISS Mann 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,148
+0022300811,229,PT08M01.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,168
+0022300811,236,PT06M48.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann P.FOUL (P2.T1) (B.Nansel),Foul,Personal,1,0,174
+0022300811,272,PT04M44.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann S.FOUL (P3.T3) (J.Tiven),Foul,Shooting,1,0,200
+0022300811,275,PT04M44.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Curry FOR Mann,Substitution,,0,0,202
+0022300811,355,PT10M20.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-230,63,24,Missed,1,,,0,v,MISS Mann 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,259
+0022300811,377,PT07M34.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-96,16,10,Missed,1,,,0,v,MISS Mann 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,276
+0022300811,392,PT06M58.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Out of Bounds - Bad Pass Turnover Turnover (P3.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,288
+0022300811,405,PT05M57.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Micic FOR Mann,Substitution,,0,0,299
+0022300811,503,PT11M27.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,362
+0022300811,527,PT09M01.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,379
+0022300811,555,PT06M54.00S,4,1610612766,CHA,1630544,Mann,T. Mann,197,215,29,Missed,1,,,0,v,MISS Mann 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,401
+0022300811,565,PT06M34.00S,4,1610612766,CHA,1630544,Mann,T. Mann,176,222,28,Made,1,82,67,149,v,Mann 28' 3PT Jump Shot (8 PTS) (Martin 3 AST),Made Shot,Jump Shot,1,3,407
+0022300811,569,PT06M10.00S,4,1610612766,CHA,1630544,Mann,T. Mann,233,125,26,Missed,1,,,0,v,MISS Mann 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,410
+0022300811,587,PT05M04.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Miller FOR Mann,Substitution,,0,0,426
+0022300811,642,PT01M05.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,95,83,178,v,Mann Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,468
+0022300811,643,PT01M05.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,95,84,179,v,Mann Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,469
+0022300811,644,PT01M01.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann P.FOUL (P4.T3) (C.Flores),Foul,Personal,1,0,470
+0022300811,651,PT00M35.40S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann STEAL (1 STL),,,1,0,477
+0022300826,8,PT11M21.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann STEAL (1 STL),,,1,0,5
+0022300826,10,PT11M19.00S,1,1610612766,CHA,1630544,Mann,T. Mann,9,5,1,Made,1,0,2,2,v,Mann 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,6
+0022300826,13,PT11M19.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,0,3,3,v,Mann Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,8
+0022300826,48,PT07M02.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-146,225,27,Missed,1,,,0,v,MISS Mann 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,36
+0022300826,66,PT06M00.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann S.FOUL (P1.T2) (J.Capers),Foul,Shooting,1,0,51
+0022300826,70,PT06M00.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: McGowens FOR Mann,Substitution,,0,0,54
+0022300826,179,PT08M55.00S,2,1610612766,CHA,1630544,Mann,T. Mann,-233,44,24,Made,1,24,35,59,v,Mann 24' 3PT Jump Shot (6 PTS) (Micic 4 AST),Made Shot,Jump Shot,1,3,138
+0022300826,195,PT08M16.00S,2,1610612766,CHA,1630544,Mann,T. Mann,-28,17,3,Missed,1,,,0,v,MISS Mann 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,147
+0022300826,218,PT06M53.00S,2,1610612766,CHA,1630544,Mann,T. Mann,-1,63,6,Missed,1,,,0,v,MISS Mann 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,163
+0022300826,253,PT04M27.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,192
+0022300826,267,PT03M17.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Micic FOR Mann,Substitution,,0,0,205
+0022300826,324,PT09M54.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann STEAL (2 STL),,,1,0,248
+0022300826,344,PT07M38.00S,3,1610612766,CHA,1630544,Mann,T. Mann,158,205,26,Missed,1,,,0,v,MISS Mann 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,264
+0022300826,346,PT07M27.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann STEAL (3 STL),,,1,0,267
+0022300826,360,PT06M45.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann L.B.FOUL (P2.T1) (S.Wall),Foul,Loose Ball,1,0,276
+0022300826,375,PT05M57.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,286
+0022300826,376,PT05M41.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,25,3,Missed,1,,,0,v,MISS Mann 3' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,287
+0022300826,388,PT04M34.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann P.FOUL (P3.T2) (S.Wall),Foul,Personal,1,0,296
+0022300826,393,PT04M34.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: McGowens FOR Mann,Substitution,,0,0,300
+0022300826,502,PT09M36.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: McGowens FOR Mann,Substitution,,0,0,373
+0022300840,14,PT10M31.00S,1,1610612766,CHA,1630544,Mann,T. Mann,1,19,2,Made,1,2,2,4,v,Mann 2' Driving Reverse Layup (2 PTS) (Martin 1 AST),Made Shot,Driving Reverse Layup Shot,1,2,10
+0022300840,21,PT09M35.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann STEAL (1 STL),,,1,0,16
+0022300840,25,PT09M31.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,4,5,9,v,Mann Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,18
+0022300840,26,PT09M31.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,4,6,10,v,Mann Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,19
+0022300840,38,PT08M23.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,31
+0022300840,43,PT07M39.00S,1,1610612766,CHA,1630544,Mann,T. Mann,4,30,3,Missed,1,,,0,v,MISS Mann 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,35
+0022300840,47,PT06M57.00S,1,1610612766,CHA,1630544,Mann,T. Mann,18,159,16,Missed,1,,,0,v,MISS Mann 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,38
+0022300840,52,PT06M47.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann S.FOUL (P1.T1) (N.Green),Foul,Shooting,1,0,43
+0022300840,70,PT05M27.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Micic FOR Mann,Substitution,,0,0,56
+0022300840,130,PT00M42.30S,1,1610612766,CHA,1630544,Mann,T. Mann,-120,246,27,Missed,1,,,0,v,MISS Mann 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,97
+0022300840,160,PT10M26.00S,2,1610612766,CHA,1630544,Mann,T. Mann,213,148,26,Made,1,38,24,62,v,Mann 26' 3PT Jump Shot (7 PTS) (Curry 2 AST),Made Shot,Jump Shot,1,3,119
+0022300840,173,PT09M17.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,130
+0022300840,177,PT08M54.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,134
+0022300840,182,PT08M06.00S,2,1610612766,CHA,1630544,Mann,T. Mann,184,197,27,Missed,1,,,0,v,MISS Mann 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,139
+0022300840,187,PT07M18.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,1,0,144
+0022300840,192,PT07M18.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Martin FOR Mann,Substitution,,0,0,149
+0022300840,305,PT10M03.00S,3,1610612766,CHA,1630544,Mann,T. Mann,25,85,9,Made,1,63,32,95,v,Mann 9' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,1,2,233
+0022300840,307,PT09M46.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,235
+0022300840,331,PT07M42.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,MISS Mann Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,252
+0022300840,333,PT07M42.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,MISS Mann Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,254
+0022300840,353,PT06M14.00S,3,1610612766,CHA,1630544,Mann,T. Mann,27,18,3,Missed,1,,,0,v,MISS Mann 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,269
+0022300840,363,PT05M34.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Curry FOR Mann,Substitution,,0,0,277
+0022300840,460,PT10M03.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-23,26,3,Made,1,103,56,159,v,Mann 3' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,1,2,342
+0022300840,465,PT09M48.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Martin FOR Mann,Substitution,,0,0,346
+0022300840,498,PT07M14.00S,4,1610612766,CHA,1630544,Mann,T. Mann,9,4,1,Made,1,111,65,176,v,Mann 1' Driving Finger Roll Layup (13 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,369
+0022300840,537,PT03M59.00S,4,1610612766,CHA,1630544,Mann,T. Mann,124,300,32,Made,1,116,75,191,v,Mann 32' 3PT Jump Shot (16 PTS) (McGowens 1 AST),Made Shot,Jump Shot,1,3,398
+0022300840,539,PT03M41.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann STEAL (2 STL),,,1,0,400
+0022300840,548,PT03M03.00S,4,1610612766,CHA,1630544,Mann,T. Mann,32,285,29,Missed,1,,,0,v,MISS Mann 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,405
+0022300840,557,PT02M46.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,MISS Mann Free Throw Technical,Free Throw,Free Throw Technical,1,0,413
+0022300840,563,PT02M13.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Bad Pass Turnover (P2.T13),Turnover,Bad Pass,1,0,418
+0022300849,12,PT11M05.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-188,211,28,Missed,1,,,0,h,MISS Mann 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,7
+0022300849,24,PT09M58.00S,1,1610612766,CHA,1630544,Mann,T. Mann,23,64,7,Missed,1,,,0,h,MISS Mann 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,17
+0022300849,33,PT09M04.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-28,263,26,Missed,1,,,0,h,MISS Mann 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,24
+0022300849,40,PT08M31.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,31
+0022300849,42,PT08M16.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,33
+0022300849,46,PT07M58.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,37
+0022300849,47,PT07M49.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-15,63,6,Made,1,4,10,14,h,Mann 6' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,38
+0022300849,48,PT07M34.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann STEAL (1 STL),,,1,0,40
+0022300849,52,PT07M20.00S,1,1610612766,CHA,1630544,Mann,T. Mann,31,23,4,Missed,1,,,0,h,MISS Mann 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,42
+0022300849,62,PT06M46.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann STEAL (2 STL),,,1,0,50
+0022300849,78,PT05M41.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Curry FOR Mann,Substitution,,0,0,61
+0022300849,179,PT10M21.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,130
+0022300849,182,PT09M42.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,133
+0022300849,185,PT09M29.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann S.FOUL (P1.T1) (J.Schroeder),Foul,Shooting,1,0,136
+0022300849,628,PT08M55.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Martin FOR Mann,Substitution,,0,0,148
+0022300849,344,PT10M50.00S,3,1610612766,CHA,1630544,Mann,T. Mann,178,206,27,Made,1,54,74,128,h,Mann 27' 3PT Step Back Jump Shot (5 PTS) (Martin 4 AST),Made Shot,Step Back Jump shot,1,3,237
+0022300849,352,PT09M56.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,244
+0022300849,359,PT09M12.00S,3,1610612766,CHA,1630544,Mann,T. Mann,7,262,26,Missed,1,,,0,h,MISS Mann 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,249
+0022300849,367,PT08M19.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,257
+0022300849,380,PT07M17.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-32,85,9,Made,1,61,76,137,h,Mann 9' Floating Jump Shot (7 PTS),Made Shot,Floating Jump shot,1,2,268
+0022300849,407,PT05M09.00S,3,1610612766,CHA,1630544,Mann,T. Mann,31,27,4,Made,1,67,82,149,h,Mann 4' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,285
+0022300849,411,PT04M32.00S,3,1610612766,CHA,1630544,Mann,T. Mann,230,63,24,Missed,1,,,0,h,MISS Mann 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,288
+0022300849,418,PT04M10.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Micic FOR Mann,Substitution,,0,0,294
+0022300849,506,PT08M55.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,362
+0022300849,512,PT08M36.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Bertans FOR Mann,Substitution,,0,0,367
+0022300858,30,PT09M04.00S,1,1610612766,CHA,1630544,Mann,T. Mann,81,13,8,Missed,1,,,0,v,MISS Mann 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,21
+0022300858,38,PT08M37.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-175,199,27,Missed,1,,,0,v,MISS Mann 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,27
+0022300858,43,PT08M07.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,31
+0022300858,44,PT07M57.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-237,52,24,Missed,1,,,0,v,MISS Mann 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,32
+0022300858,92,PT04M12.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,16,12,28,v,Mann Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,66
+0022300858,93,PT04M12.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,16,13,29,v,Mann Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,67
+0022300858,115,PT02M34.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: McGowens FOR Mann,Substitution,,0,0,83
+0022300858,204,PT07M56.00S,2,1610612766,CHA,1630544,Mann,T. Mann,-234,5,0,Made,1,38,45,83,v,Mann 3PT Running Jump Shot (5 PTS) (Bertans 2 AST),Made Shot,Running Jump Shot,1,3,141
+0022300858,230,PT06M13.00S,2,1610612766,CHA,1630544,Mann,T. Mann,-2,99,10,Missed,1,,,0,v,MISS Mann 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,158
+0022300858,235,PT06M00.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Curry FOR Mann,Substitution,,0,0,162
+0022300858,329,PT10M18.00S,3,1610612766,CHA,1630544,Mann,T. Mann,25,16,3,Made,1,65,67,132,v,Mann 3' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,231
+0022300858,339,PT09M19.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,238
+0022300858,347,PT08M37.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-99,251,27,Missed,1,,,0,v,MISS Mann 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,244
+0022300858,402,PT03M05.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Hornets T.Foul (Def. 3 Sec Mann ) (Z.Zarba),Foul,Defense 3 Second,1,0,285
+0022300858,405,PT03M05.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: McGowens FOR Mann,Substitution,,0,0,288
+0022300858,468,PT10M35.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-72,146,16,Missed,1,,,0,v,MISS Mann 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,328
+0022300858,509,PT07M38.00S,4,1610612766,CHA,1630544,Mann,T. Mann,5,57,6,Made,1,102,95,197,v,Mann 6' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,1,2,357
+0022300858,532,PT05M43.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Curry FOR Mann,Substitution,,0,0,375
+0022300858,551,PT04M46.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,387
+0022300858,566,PT03M48.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann P.FOUL (P1.T3) (Z.Zarba),Foul,Personal,1,0,397
+0022300858,611,PT00M27.30S,4,1610612766,CHA,1630544,Mann,T. Mann,-21,38,4,Missed,1,,,0,v,MISS Mann 4' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,427
+0022300858,614,PT00M23.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Personal Take Foul (P2.PN) (S.Twardoski),Foul,Personal Take,1,0,430
+0022300875,12,PT10M52.00S,1,1610612766,CHA,1630544,Mann,T. Mann,13,2,1,Missed,1,,,0,v,MISS Mann 1' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,6
+0022300875,16,PT10M26.00S,1,1610612766,CHA,1630544,Mann,T. Mann,2,6,1,Made,1,7,4,11,v,Mann 1' Cutting Finger Roll Layup Shot (2 PTS) (Williams 1 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,9
+0022300875,78,PT05M00.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-40,84,9,Made,1,19,17,36,v,Mann 9' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,59
+0022300875,86,PT03M41.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann S.FOUL (P1.T1) (N.Sago),Foul,Shooting,1,0,66
+0022300875,94,PT03M18.00S,1,1610612766,CHA,1630544,Mann,T. Mann,100,147,18,Missed,1,,,0,v,MISS Mann 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,71
+0022300875,114,PT02M04.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-22,12,3,Missed,1,,,0,v,MISS Mann 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,86
+0022300875,117,PT01M48.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann STEAL (1 STL),,,1,0,90
+0022300875,121,PT01M43.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Micic FOR Mann,Substitution,,0,0,92
+0022300875,210,PT07M52.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann STEAL (2 STL),,,1,0,159
+0022300875,232,PT06M57.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,172
+0022300875,256,PT04M36.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,191
+0022300875,261,PT03M48.00S,2,1610612766,CHA,1630544,Mann,T. Mann,-4,120,12,Made,1,45,45,90,v,Mann 12' Fadeaway Jumper (6 PTS),Made Shot,Fadeaway Jump Shot,1,2,194
+0022300875,296,PT01M22.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,219
+0022300875,305,PT00M28.70S,2,1610612766,CHA,1630544,Mann,T. Mann,20,13,2,Missed,1,,,0,v,MISS Mann 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,227
+0022300875,328,PT10M18.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-110,50,12,Missed,1,,,0,v,MISS Mann 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,246
+0022300875,354,PT09M15.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,272
+0022300875,368,PT07M19.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,284
+0022300875,372,PT07M06.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann S.FOUL (P2.T3) (M.Lindsay),Foul,Shooting,1,0,287
+0022300875,450,PT01M56.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Williams FOR Mann,Substitution,,0,0,340
+0022300875,588,PT03M48.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Miller FOR Mann,Substitution,,0,0,437
+0022300885,25,PT09M26.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann STEAL (1 STL),,,1,0,18
+0022300885,30,PT08M51.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,22
+0022300885,62,PT06M05.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,45
+0022300885,72,PT05M26.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,51
+0022300885,79,PT04M38.00S,1,1610612766,CHA,1630544,Mann,T. Mann,152,222,27,Made,1,16,9,25,h,Mann 27' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,56
+0022300885,87,PT04M06.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,60
+0022300885,92,PT03M31.00S,1,1610612766,CHA,1630544,Mann,T. Mann,7,71,7,Made,1,18,14,32,h,Mann 7' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,1,2,65
+0022300885,117,PT01M53.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann S.FOUL (P1.T3) (B.Nansel),Foul,Shooting,1,0,84
+0022300885,120,PT01M53.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Micic FOR Mann,Substitution,,0,0,86
+0022300885,200,PT06M30.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann S.FOUL (P2.T2) (D.Taylor),Foul,Shooting,1,0,141
+0022300885,223,PT05M00.00S,2,1610612766,CHA,1630544,Mann,T. Mann,237,0,24,Made,1,34,36,70,h,Mann 24' 3PT Jump Shot (8 PTS) (Bridges 1 AST),Made Shot,Jump Shot,1,3,157
+0022300885,233,PT04M02.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann STEAL (2 STL),,,1,0,164
+0022300885,258,PT02M06.00S,2,1610612766,CHA,1630544,Mann,T. Mann,168,212,27,Missed,1,,,0,h,MISS Mann 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,182
+0022300885,263,PT02M01.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: McGowens FOR Mann,Substitution,,0,0,186
+0022300885,310,PT10M33.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-4,43,4,Made,1,45,47,92,h,Mann 4' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,1,2,218
+0022300885,319,PT10M04.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-2,30,3,Made,1,50,50,100,h,Mann 3' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,1,2,225
+0022300885,330,PT08M34.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,234
+0022300885,345,PT06M44.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,245
+0022300885,404,PT03M05.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,291
+0022300885,408,PT02M59.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,59,64,123,h,Mann Free Throw Technical (13 PTS),Free Throw,Free Throw Technical,1,0,294
+0022300885,417,PT01M28.00S,3,1610612766,CHA,1630544,Mann,T. Mann,123,220,25,Missed,1,,,0,h,MISS Mann 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,300
+0022300885,444,PT00M23.30S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Micic FOR Mann,Substitution,,0,0,314
+0022300885,525,PT04M35.00S,4,1610612766,CHA,1630544,Mann,T. Mann,21,10,2,Made,1,81,95,176,h,Mann 2' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,1,2,374
+0022300885,528,PT04M09.00S,4,1610612766,CHA,1630544,Mann,T. Mann,21,4,2,Made,1,83,95,178,h,Mann 2' Driving Floating Jump Shot (17 PTS),Made Shot,Driving Floating Jump Shot,1,2,377
+0022300885,533,PT04M09.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,84,95,179,h,Mann Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,1,0,380
+0022300885,550,PT01M50.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,393
+0022300950,24,PT09M38.00S,1,1610612766,CHA,1630544,Mann,T. Mann,224,116,25,Missed,1,,,0,v,MISS Mann 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,17
+0022300950,77,PT05M01.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Williams FOR Mann,Substitution,,0,0,59
+0022300950,110,PT01M47.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-9,36,4,Made,1,17,26,43,v,Mann 4' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,84
+0022300950,150,PT11M22.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,112
+0022300950,153,PT11M04.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann STEAL (1 STL),,,1,0,116
+0022300950,164,PT10M35.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann STEAL (2 STL),,,1,0,126
+0022300950,166,PT10M28.00S,2,1610612766,CHA,1630544,Mann,T. Mann,-18,31,4,Missed,1,,,0,v,MISS Mann 4' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,127
+0022300950,171,PT10M19.00S,2,1610612766,CHA,1630544,Mann,T. Mann,58,121,13,Made,1,19,33,52,v,Mann 13' Turnaround Fadeaway (4 PTS),Made Shot,Turnaround Fadeaway shot,1,2,131
+0022300950,177,PT09M26.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,136
+0022300950,178,PT09M19.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,137
+0022300950,192,PT08M15.00S,2,1610612766,CHA,1630544,Mann,T. Mann,-145,141,20,Made,1,29,35,64,v,Mann 20' Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,1,2,148
+0022300950,204,PT07M20.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Pokusevski FOR Mann,Substitution,,0,0,160
+0022300950,279,PT01M43.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,212
+0022300950,291,PT00M38.90S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,223
+0022300950,292,PT00M38.90S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,Made,1,43,56,99,v,Mann Tip Dunk Shot (8 PTS),Made Shot,Tip Dunk Shot,1,2,224
+0022300950,295,PT00M02.70S,2,1610612766,CHA,1630544,Mann,T. Mann,-121,229,26,Missed,1,,,0,v,MISS Mann 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,226
+0022300950,353,PT07M28.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Micic FOR Mann,Substitution,,0,0,262
+0022300950,441,PT00M00.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Lost Ball Turnover (P2.T16),Turnover,Lost Ball,1,0,328
+0022300950,460,PT11M15.00S,4,1610612766,CHA,1630544,Mann,T. Mann,17,20,3,Missed,1,,,0,v,MISS Mann 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,339
+0022300950,471,PT10M13.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-12,25,3,Made,1,74,82,156,v,Mann 3' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,347
+0022300950,474,PT10M13.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,MISS Mann Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,349
+0022300950,527,PT07M41.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Lost Ball Turnover (P3.T19),Turnover,Lost Ball,1,0,390
+0022300950,532,PT07M20.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Transition Take Foul (P1.T1) (M.Boland),Foul,Transition Take,1,0,395
+0022300950,534,PT07M20.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Micic FOR Mann,Substitution,,0,0,396
+0022300950,604,PT01M27.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,446
+0022300961,23,PT10M36.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann S.FOUL (P1.T2) (N.Sago),Foul,Shooting,1,0,17
+0022300961,45,PT08M26.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-132,126,18,Missed,1,,,0,h,MISS Mann 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,34
+0022300961,59,PT07M13.00S,1,1610612766,CHA,1630544,Mann,T. Mann,229,43,0,Made,1,6,10,16,h,Mann 3PT Jump Shot (3 PTS) (Bridges 1 AST),Made Shot,Jump Shot,1,3,46
+0022300961,74,PT06M05.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Pokusevski FOR Mann,Substitution,,0,0,57
+0022300961,172,PT10M55.00S,2,1610612766,CHA,1630544,Mann,T. Mann,174,225,28,Missed,1,,,0,h,MISS Mann 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,122
+0022300961,193,PT08M49.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann STEAL (1 STL),,,1,0,142
+0022300961,215,PT07M05.00S,2,1610612766,CHA,1630544,Mann,T. Mann,54,268,27,Missed,1,,,0,h,MISS Mann 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,159
+0022300961,216,PT07M03.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,160
+0022300961,221,PT06M51.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Micic FOR Mann,Substitution,,0,0,163
+0022300961,290,PT01M57.00S,2,1610612766,CHA,1630544,Mann,T. Mann,-228,34,0,Missed,1,,,0,h,MISS Mann 3PT Jump Shot,Missed Shot,Jump Shot,1,3,215
+0022300961,302,PT00M43.40S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,225
+0022300961,366,PT07M26.00S,3,1610612766,CHA,1630544,Mann,T. Mann,227,11,0,Missed,1,,,0,h,MISS Mann 3PT Jump Shot,Missed Shot,Jump Shot,1,3,270
+0022300961,369,PT07M14.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,273
+0022300961,373,PT06M48.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann S.FOUL (P2.T2) (G.Petraitis),Foul,Shooting,1,0,277
+0022300961,384,PT06M02.00S,3,1610612766,CHA,1630544,Mann,T. Mann,17,-8,2,Made,1,58,72,130,h,Mann 2' Driving Reverse Layup (5 PTS),Made Shot,Driving Reverse Layup Shot,1,2,284
+0022300961,417,PT05M31.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Pokusevski FOR Mann,Substitution,,0,0,289
+0022300961,444,PT02M07.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,MISS Mann Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,322
+0022300961,446,PT02M07.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,MISS Mann Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,324
+0022300961,464,PT00M29.20S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,66,90,156,h,Mann Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,339
+0022300961,465,PT00M29.20S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,67,90,157,h,Mann Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,340
+0022300961,483,PT10M45.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-40,11,4,Made,1,69,92,161,h,Mann 4' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,350
+0022300961,499,PT09M31.00S,4,1610612766,CHA,1630544,Mann,T. Mann,15,6,2,Made,1,73,92,165,h,Mann 2' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,2,364
+0022300961,504,PT09M31.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,74,92,166,h,Mann Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,1,0,367
+0022300961,517,PT08M11.00S,4,1610612766,CHA,1630544,Mann,T. Mann,28,85,9,Missed,1,,,0,h,MISS Mann 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,378
+0022300961,549,PT06M43.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Micic FOR Mann,Substitution,,0,0,402
+0022300961,589,PT04M32.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,428
+0022300961,622,PT01M29.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Pokusevski FOR Mann,Substitution,,0,0,457
+0022300969,34,PT08M42.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,23
+0022300969,61,PT06M01.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann STEAL (1 STL),,,1,0,49
+0022300969,73,PT05M34.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Pokusevski FOR Mann,Substitution,,0,0,55
+0022300969,134,PT01M25.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-6,8,1,Made,1,25,22,47,v,Mann 1' Driving Layup (2 PTS) (Bertans 1 AST),Made Shot,Driving Layup Shot,1,2,100
+0022300969,136,PT01M03.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann STEAL (2 STL),,,1,0,102
+0022300969,143,PT00M29.10S,1,1610612766,CHA,1630544,Mann,T. Mann,-94,6,9,Missed,1,,,0,v,MISS Mann 9' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,105
+0022300969,147,PT00M00.20S,1,1610612766,CHA,1630544,Mann,T. Mann,-239,29,24,Missed,1,,,0,v,MISS Mann 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,109
+0022300969,160,PT11M31.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,114
+0022300969,191,PT08M49.00S,2,1610612766,CHA,1630544,Mann,T. Mann,-9,82,8,Missed,1,,,0,v,MISS Mann 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,136
+0022300969,198,PT08M31.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann STEAL (3 STL),,,1,0,141
+0022300969,202,PT08M26.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,MISS Mann Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,143
+0022300969,206,PT08M26.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,37,33,70,v,Mann Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,146
+0022300969,211,PT07M35.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann STEAL (4 STL),,,1,0,151
+0022300969,213,PT07M33.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Offensive Charge Foul (P1) (S.Corbin),Foul,Offensive Charge,1,0,152
+0022300969,215,PT07M33.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,153
+0022300969,220,PT07M06.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,158
+0022300969,224,PT06M58.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Micic FOR Mann,Substitution,,0,0,161
+0022300969,319,PT00M44.80S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,53,44,97,v,Mann Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,225
+0022300969,320,PT00M44.80S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,MISS Mann Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,226
+0022300969,327,PT00M14.00S,2,1610612766,CHA,1630544,Mann,T. Mann,129,224,26,Made,1,53,47,100,v,Mann 26' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,3,232
+0022300969,346,PT10M58.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,245
+0022300969,351,PT10M23.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-39,115,12,Missed,1,,,0,v,MISS Mann 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,250
+0022300969,358,PT09M56.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-227,106,25,Made,1,56,52,108,v,Mann 25' 3PT Jump Shot (10 PTS) (Micic 3 AST),Made Shot,Jump Shot,1,3,256
+0022300969,362,PT09M30.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann S.FOUL (P2.T3) (S.Corbin),Foul,Shooting,1,0,258
+0022300969,386,PT07M11.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-131,117,18,Missed,1,,,0,v,MISS Mann 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,276
+0022300969,389,PT07M00.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,279
+0022300969,407,PT05M55.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,292
+0022300969,413,PT05M42.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Pokusevski FOR Mann,Substitution,,0,0,295
+0022300969,497,PT10M52.00S,4,1610612766,CHA,1630544,Mann,T. Mann,38,17,4,Missed,1,,,0,v,MISS Mann 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,352
+0022300969,514,PT09M45.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-165,211,27,Made,1,81,78,159,v,Mann 27' 3PT Step Back Jump Shot (13 PTS),Made Shot,Step Back Jump shot,1,3,364
+0022300969,517,PT09M16.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-43,123,13,Made,1,81,80,161,v,Mann 13' Driving Floating Jump Shot (15 PTS),Made Shot,Driving Floating Jump Shot,1,2,367
+0022300969,531,PT08M08.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Bad Pass Turnover (P2.T14),Turnover,Bad Pass,1,0,376
+0022300969,535,PT07M50.00S,4,1610612766,CHA,1630544,Mann,T. Mann,23,8,2,Made,1,83,84,167,v,Mann 2' Driving Reverse Layup (17 PTS),Made Shot,Driving Reverse Layup Shot,1,2,379
+0022300969,539,PT07M03.00S,4,1610612766,CHA,1630544,Mann,T. Mann,103,268,29,Missed,1,,,0,v,MISS Mann 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,383
+0022300969,559,PT05M58.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,88,87,175,v,Mann Free Throw Technical (18 PTS),Free Throw,Free Throw Technical,1,0,395
+0022300969,575,PT05M08.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-44,85,10,Missed,1,,,0,v,MISS Mann 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,405
+0022300969,580,PT04M38.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,410
+0022300969,629,PT01M17.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-2,23,2,Made,1,103,95,198,v,Mann 2' Driving Finger Roll Layup (20 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,448
+0022300969,635,PT01M03.00S,4,1610612766,CHA,1630544,Mann,T. Mann,47,272,28,Missed,1,,,0,v,MISS Mann 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,452
+0022300969,636,PT01M01.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,453
+0022300969,639,PT01M01.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,105,96,201,v,Mann Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,455
+0022300969,640,PT01M01.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,MISS Mann Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,456
+0022300969,650,PT00M39.40S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Personal Take Foul (P3.PN) (S.Wall),Foul,Personal Take,1,0,465
+0022300991,26,PT08M09.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-32,32,5,Missed,1,,,0,v,MISS Mann 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,19
+0022300991,51,PT06M26.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Pokusevski FOR Mann,Substitution,,0,0,38
+0022300991,119,PT01M27.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,83
+0022300991,123,PT01M01.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,86
+0022300991,130,PT00M10.80S,1,1610612766,CHA,1630544,Mann,T. Mann,-9,132,13,Made,1,25,17,42,v,Mann 13' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,93
+0022300991,163,PT09M38.00S,2,1610612766,CHA,1630544,Mann,T. Mann,-2,116,12,Made,1,35,19,54,v,Mann 12' Driving Floating Jump Shot (4 PTS) (Richards 1 AST),Made Shot,Driving Floating Jump Shot,1,2,117
+0022300991,175,PT08M27.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,126
+0022300991,202,PT07M15.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Pokusevski FOR Mann,Substitution,,0,0,145
+0022300991,297,PT00M14.30S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,211
+0022300991,339,PT07M51.00S,3,1610612766,CHA,1630544,Mann,T. Mann,7,59,6,Made,1,77,43,120,v,Mann 6' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,1,2,238
+0022300991,394,PT02M52.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Micic FOR Mann,Substitution,,0,0,277
+0022300991,452,PT10M21.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-233,41,24,Missed,1,,,0,v,MISS Mann 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,322
+0022300991,459,PT09M40.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-16,260,26,Made,1,93,69,162,v,Mann 26' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,3,327
+0022300991,460,PT09M18.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann STEAL (1 STL),,,1,0,329
+0022300991,477,PT08M17.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,339
+0022300991,478,PT08M09.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-11,25,3,Made,1,96,73,169,v,Mann 3' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,2,340
+0022300991,486,PT07M00.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-154,162,22,Missed,1,,,0,v,MISS Mann 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,347
+0022300991,500,PT06M13.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Mann,Substitution,,0,0,360
+0022301021,16,PT09M55.00S,1,1610612766,CHA,1630544,Mann,T. Mann,92,47,10,Made,1,7,4,11,v,Mann 10' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,8
+0022301021,18,PT09M38.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+0022301021,33,PT07M37.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann STEAL (1 STL),,,1,0,23
+0022301021,45,PT06M26.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-11,23,3,Made,1,12,16,28,v,Mann 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,31
+0022301021,50,PT05M58.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Pokusevski FOR Mann,Substitution,,0,0,34
+0022301021,166,PT09M05.00S,2,1610612766,CHA,1630544,Mann,T. Mann,2,25,3,Made,1,38,35,73,v,Mann 3' Driving Reverse Layup (6 PTS) (Williams 1 AST),Made Shot,Driving Reverse Layup Shot,1,2,112
+0022301021,175,PT08M30.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,120
+0022301021,202,PT07M03.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Pokusevski FOR Mann,Substitution,,0,0,142
+0022301021,312,PT10M51.00S,3,1610612766,CHA,1630544,Mann,T. Mann,23,105,11,Missed,1,,,0,v,MISS Mann 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,227
+0022301021,328,PT09M36.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-64,262,27,Made,1,66,56,122,v,Mann 27' 3PT Jump Shot (9 PTS) (Micic 3 AST),Made Shot,Jump Shot,1,3,241
+0022301021,346,PT07M44.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,253
+0022301021,358,PT06M41.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-238,73,25,Missed,1,,,0,v,MISS Mann 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,261
+0022301021,363,PT06M35.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Pokusevski FOR Mann,Substitution,,0,0,265
+0022301021,447,PT01M00.00S,3,1610612766,CHA,1630544,Mann,T. Mann,113,215,24,Missed,1,,,0,v,MISS Mann 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,320
+0022301021,456,PT00M32.50S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,328
+0022301021,457,PT00M28.30S,3,1610612766,CHA,1630544,Mann,T. Mann,13,1,1,Missed,1,,,0,v,MISS Mann 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,329
+0022301021,482,PT10M10.00S,4,1610612766,CHA,1630544,Mann,T. Mann,125,218,25,Missed,1,,,0,v,MISS Mann 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,345
+0022301021,505,PT08M07.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-29,255,26,Missed,1,,,0,v,MISS Mann 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,361
+0022301021,520,PT07M23.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-12,4,1,Missed,1,,,0,v,MISS Mann 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,369
+0022301021,530,PT06M31.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Micic FOR Mann,Substitution,,0,0,377
+0022301033,11,PT11M25.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,1,0,7
+0022301033,38,PT07M58.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,28
+0022301033,43,PT07M34.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,33
+0022301033,70,PT05M40.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Pokusevski FOR Mann,Substitution,,0,0,53
+0022301033,128,PT01M06.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,94
+0022301033,130,PT00M51.70S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,96
+0022301033,165,PT11M40.00S,2,1610612766,CHA,1630544,Mann,T. Mann,-181,188,26,Missed,1,,,0,v,MISS Mann 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,113
+0022301033,169,PT11M06.00S,2,1610612766,CHA,1630544,Mann,T. Mann,10,10,1,Missed,1,,,0,v,MISS Mann 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,117
+0022301033,177,PT10M16.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,125
+0022301033,190,PT08M36.00S,2,1610612766,CHA,1630544,Mann,T. Mann,-44,90,10,Missed,1,,,0,v,MISS Mann 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,135
+0022301033,227,PT06M34.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Micic FOR Mann,Substitution,,0,0,160
+0022301033,327,PT11M18.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,224
+0022301033,328,PT11M11.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0,225
+0022301033,354,PT08M34.00S,3,1610612766,CHA,1630544,Mann,T. Mann,85,-1,9,Missed,1,,,0,v,MISS Mann 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,246
+0022301033,355,PT08M32.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,247
+0022301033,358,PT08M29.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-39,-2,4,Made,1,59,47,106,v,Mann 4' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,248
+0022301033,368,PT07M38.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,14,1,Made,1,61,52,113,v,Mann 1' Running Layup (4 PTS) (Miller 3 AST),Made Shot,Running Layup Shot,1,2,255
+0022301033,386,PT05M51.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Pokusevski FOR Mann,Substitution,,0,0,267
+0022301033,442,PT01M48.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-12,22,3,Missed,1,,,0,v,MISS Mann 3' Running Layup,Missed Shot,Running Layup Shot,1,2,308
+0022301033,449,PT01M09.00S,3,1610612766,CHA,1630544,Mann,T. Mann,186,320,37,Made,1,73,66,139,v,Mann 37' 3PT Jump Shot (7 PTS) (Pokusevski 3 AST),Made Shot,Jump Shot,1,3,314
+0022301033,451,PT00M48.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann P.FOUL (P1.T2) (J.Williams),Foul,Personal,1,0,315
+0022301033,476,PT11M19.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann P.FOUL (P2.T1) (T.Washington),Foul,Personal,1,0,331
+0022301033,479,PT11M01.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,333
+0022301033,518,PT07M51.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-140,271,31,Made,1,88,77,165,v,Mann 31' 3PT Jump Shot (10 PTS) (Micic 2 AST),Made Shot,Jump Shot,1,3,362
+0022301033,522,PT07M18.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-28,62,7,Made,1,91,79,170,v,Mann 7' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,1,2,364
+0022301033,545,PT05M29.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-64,30,7,Missed,1,,,0,v,MISS Mann 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,382
+0022301033,588,PT03M06.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Thor FOR Mann,Substitution,,0,0,418
+0022301048,27,PT09M44.00S,1,1610612766,CHA,1630544,Mann,T. Mann,11,11,2,Made,1,4,8,12,h,Mann 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,19
+0022301048,59,PT07M07.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-5,22,2,Made,1,14,14,28,h,Mann 2' Running Layup (4 PTS) (Micic 3 AST),Made Shot,Running Layup Shot,1,2,46
+0022301048,82,PT04M46.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Pokusevski FOR Mann,Substitution,,0,0,62
+0022301048,125,PT01M37.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,26,37,63,h,Mann Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,90
+0022301048,126,PT01M37.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,27,37,64,h,Mann Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,91
+0022301048,129,PT01M00.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-159,270,31,Missed,1,,,0,h,MISS Mann 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,93
+0022301048,131,PT00M51.90S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann P.FOUL (P1.T3) (N.Buchert),Foul,Personal,1,0,95
+0022301048,133,PT00M46.50S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann STEAL (1 STL),,,1,0,97
+0022301048,135,PT00M44.10S,1,1610612766,CHA,1630544,Mann,T. Mann,10,13,2,Made,1,29,40,69,h,Mann 2' Running Layup (8 PTS),Made Shot,Running Layup Shot,1,2,98
+0022301048,162,PT10M59.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann S.FOUL (P2.T1) (D.Scott),Foul,Shooting,1,0,111
+0022301048,172,PT10M37.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,116
+0022301048,192,PT09M07.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,132
+0022301048,201,PT08M46.00S,2,1610612766,CHA,1630544,Mann,T. Mann,13,17,2,Made,1,46,51,97,h,Mann 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,139
+0022301048,205,PT08M11.00S,2,1610612766,CHA,1630544,Mann,T. Mann,17,16,2,Made,1,48,53,101,h,Mann 2' Cutting Layup Shot (12 PTS) (Williams 2 AST),Made Shot,Cutting Layup Shot,1,2,141
+0022301048,215,PT07M28.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,148
+0022301048,223,PT07M01.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Pokusevski FOR Mann,Substitution,,0,0,154
+0022301048,349,PT09M21.00S,3,1610612766,CHA,1630544,Mann,T. Mann,216,113,24,Made,1,79,78,157,h,Mann 24' 3PT Jump Shot (15 PTS) (Bridges 3 AST),Made Shot,Jump Shot,1,3,237
+0022301048,353,PT08M52.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-152,62,16,Missed,1,,,0,h,MISS Mann 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,239
+0022301048,383,PT06M26.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Pokusevski FOR Mann,Substitution,,0,0,263
+0022301048,452,PT01M11.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,99,96,195,h,Mann Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,311
+0022301048,453,PT01M11.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,100,96,196,h,Mann Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,312
+0022301048,465,PT00M20.20S,3,1610612766,CHA,1630544,Mann,T. Mann,-228,-1,0,Missed,1,,,0,h,MISS Mann 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,322
+0022301048,500,PT09M43.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-105,245,27,Missed,1,,,0,h,MISS Mann 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,344
+0022301048,536,PT06M47.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Pokusevski FOR Mann,Substitution,,0,0,370
+0022301048,600,PT01M05.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann S.FOUL (P3.T2) (N.Buchert),Foul,Shooting,1,0,415
+0022301062,21,PT09M47.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-78,268,28,Missed,1,,,0,h,MISS Mann 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,14
+0022301062,35,PT08M24.00S,1,1610612766,CHA,1630544,Mann,T. Mann,219,142,26,Missed,1,,,0,h,MISS Mann 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,25
+0022301062,51,PT06M18.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-47,24,5,Missed,1,,,0,h,MISS Mann 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,39
+0022301062,57,PT06M00.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Pokusevski FOR Mann,Substitution,,0,0,44
+0022301062,141,PT11M27.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,101
+0022301062,148,PT10M44.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,106
+0022301062,193,PT06M46.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Micic FOR Mann,Substitution,,0,0,140
+0022301062,270,PT02M00.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann BLOCK (1 BLK),,,1,2,197
+0022301062,304,PT11M13.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,219
+0022301062,320,PT09M58.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Lost Ball Turnover (P3.T8),Turnover,Lost Ball,1,0,232
+0022301062,350,PT07M51.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-225,57,0,Made,1,54,62,116,h,Mann 3PT Pullup Jump Shot (3 PTS) (Micic 4 AST),Made Shot,Pullup Jump shot,1,3,256
+0022301062,357,PT07M09.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-162,241,29,Missed,1,,,0,h,MISS Mann 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,261
+0022301062,358,PT07M06.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,262
+0022301062,378,PT06M19.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Pokusevski FOR Mann,Substitution,,0,0,277
+0022301062,449,PT01M17.00S,3,1610612766,CHA,1630544,Mann,T. Mann,227,128,26,Missed,1,,,0,h,MISS Mann 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,329
+0022301062,456,PT00M30.90S,3,1610612766,CHA,1630544,Mann,T. Mann,178,194,26,Missed,1,,,0,h,MISS Mann 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,335
+0022301062,478,PT10M54.00S,4,1610612766,CHA,1630544,Mann,T. Mann,43,17,5,Made,1,75,93,168,h,Mann 5' Driving Floating Bank Jump Shot (5 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,350
+0022301062,488,PT09M06.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-25,21,3,Made,1,80,99,179,h,Mann 3' Driving Floating Bank Jump Shot (7 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,357
+0022301062,493,PT08M51.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Micic FOR Mann,Substitution,,0,0,361
+0022301062,517,PT07M55.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Miller FOR Mann,Substitution,,0,0,376
+0022301062,532,PT06M29.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Bad Pass Turnover (P4.T10),Turnover,Bad Pass,1,0,385
+0022301062,553,PT04M53.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,402
+0022301062,586,PT02M17.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Bailey FOR Mann,Substitution,,0,0,428
+0022301079,28,PT09M54.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,18
+0022301079,36,PT08M25.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Out of Bounds - Bad Pass Turnover Turnover (P2.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,25
+0022301079,41,PT07M44.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann P.FOUL (P1.T1) (M.Smith),Foul,Personal,1,0,28
+0022301079,52,PT07M01.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-230,6,0,Missed,1,,,0,h,MISS Mann 3PT Jump Shot,Missed Shot,Jump Shot,1,3,38
+0022301079,60,PT05M50.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Williams FOR Mann,Substitution,,0,0,45
+0022301079,112,PT01M07.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-143,216,26,Made,1,22,27,49,h,Mann 26' 3PT Step Back Jump Shot (3 PTS) (Bridges 1 AST),Made Shot,Step Back Jump shot,1,3,83
+0022301079,119,PT00M26.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Violation:Kicked Ball (D.Taylor),Violation,Kicked Ball,0,0,88
+0022301079,139,PT10M57.00S,2,1610612766,CHA,1630544,Mann,T. Mann,-6,4,1,Missed,1,,,0,h,MISS Mann 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,98
+0022301079,150,PT10M12.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann S.FOUL (P2.T1) (M.Smith),Foul,Shooting,1,0,108
+0022301079,164,PT08M36.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: McGowens FOR Mann,Substitution,,0,0,117
+0022301079,260,PT01M44.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,186
+0022301079,263,PT01M44.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,49,62,111,h,Mann Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,188
+0022301079,268,PT01M44.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,50,62,112,h,Mann Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,191
+0022301079,269,PT01M27.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Violation:Kicked Ball (C.Kirkland),Violation,Kicked Ball,0,0,192
+0022301079,270,PT01M27.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Bertans FOR Mann,Substitution,,0,0,193
+0022301079,347,PT09M17.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann STEAL (1 STL),,,1,0,229
+0022301079,324,PT09M12.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,18,2,Made,1,64,72,136,h,Mann 2' Running Dunk (7 PTS),Made Shot,Running Dunk Shot,1,2,230
+0022301079,327,PT08M31.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Bad Pass Turnover (P3.T3),Turnover,Bad Pass,1,0,232
+0022301079,345,PT06M41.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Violation:Kicked Ball (C.Kirkland),Violation,Kicked Ball,0,0,246
+0022301079,355,PT06M24.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Williams FOR Mann,Substitution,,0,0,252
+0022301079,426,PT00M51.30S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,305
+0022301079,427,PT00M29.90S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Step Out of Bounds Turnover (P4.T5),Turnover,Step Out of Bounds Turnover,1,0,306
+0022301079,431,PT00M01.90S,3,1610612766,CHA,1630544,Mann,T. Mann,-6,115,12,Missed,1,,,0,h,MISS Mann 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,309
+0022301079,447,PT11M10.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Bad Pass Turnover (P5.T7),Turnover,Bad Pass,1,0,317
+0022301079,451,PT10M52.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-2,33,3,Made,1,84,95,179,h,Mann 3' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,321
+0022301079,457,PT10M18.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Step Out of Bounds Turnover (P6.T8),Turnover,Step Out of Bounds Turnover,1,0,325
+0022301079,463,PT09M46.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-93,94,13,Missed,1,,,0,h,MISS Mann 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,329
+0022301079,484,PT08M11.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Micic FOR Mann,Substitution,,0,0,343
+0022301087,35,PT08M29.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-13,11,2,Missed,1,,,0,h,MISS Mann 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,27
+0022301087,38,PT08M22.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,30
+0022301087,47,PT07M53.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,37
+0022301087,56,PT07M15.00S,1,1610612766,CHA,1630544,Mann,T. Mann,23,16,3,Missed,1,,,0,h,MISS Mann 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,42
+0022301087,65,PT05M55.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-12,7,1,Made,1,23,15,38,h,Mann 1' Driving Finger Roll Layup (2 PTS) (Bridges 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,49
+0022301087,69,PT05M14.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-185,246,31,Missed,1,,,0,h,MISS Mann 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,51
+0022301087,74,PT05M00.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Pokusevski FOR Mann,Substitution,,0,0,55
+0022301087,127,PT01M02.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,95
+0022301087,188,PT08M36.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann OFF.Foul (P1) (P.Fraher),Foul,Offensive,1,0,138
+0022301087,190,PT08M36.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0,139
+0022301087,193,PT08M07.00S,2,1610612766,CHA,1630544,Mann,T. Mann,-32,105,11,Made,1,36,36,72,h,Mann 11' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,141
+0022301087,198,PT08M03.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Micic FOR Mann,Substitution,,0,0,145
+0022301087,270,PT02M22.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,198
+0022301087,334,PT08M51.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Traveling Turnover (P2.T6),Turnover,Traveling,1,0,242
+0022301087,353,PT06M51.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-18,257,26,Missed,1,,,0,h,MISS Mann 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,256
+0022301087,358,PT06M05.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann S.FOUL (P2.T2) (B.Kennedy),Foul,Shooting,1,0,261
+0022301087,361,PT06M05.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Pokusevski FOR Mann,Substitution,,0,0,263
+0022301087,431,PT00M26.70S,3,1610612766,CHA,1630544,Mann,T. Mann,159,200,26,Missed,1,,,0,h,MISS Mann 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,315
+0022301102,9,PT11M34.00S,1,1610612766,CHA,1630544,Mann,T. Mann,10,18,2,Missed,1,,,0,h,MISS Mann 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,5
+0022301102,45,PT07M49.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,33
+0022301102,46,PT07M44.00S,1,1610612766,CHA,1630544,Mann,T. Mann,20,29,4,Made,1,11,7,18,h,Mann 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,34
+0022301102,53,PT06M43.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-208,163,26,Missed,1,,,0,h,MISS Mann 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,40
+0022301102,75,PT05M02.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Mann,Substitution,,0,0,56
+0022301102,175,PT10M37.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,MISS Mann Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,126
+0022301102,177,PT10M37.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,27,34,61,h,Mann Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,128
+0022301102,202,PT08M28.00S,2,1610612766,CHA,1630544,Mann,T. Mann,10,80,8,Made,1,29,38,67,h,Mann 8' Driving Floating Jump Shot (5 PTS) (Williams 6 AST),Made Shot,Driving Floating Jump Shot,1,2,147
+0022301102,215,PT07M19.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Mann,Substitution,,0,0,157
+0022301102,284,PT02M31.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann STEAL (1 STL),,,1,0,208
+0022301102,297,PT01M09.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann STEAL (2 STL),,,1,0,219
+0022301102,310,PT00M27.90S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,230
+0022301102,314,PT00M00.00S,2,1610612766,CHA,1630544,Mann,T. Mann,127,331,35,Missed,1,,,0,h,MISS Mann 35' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,234
+0022301102,337,PT10M05.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,249
+0022301102,349,PT08M48.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-17,116,12,Made,1,48,51,99,h,Mann 12' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,2,259
+0022301102,360,PT07M45.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-75,87,11,Made,1,50,53,103,h,Mann 11' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,2,268
+0022301102,367,PT07M10.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-167,194,26,Missed,1,,,0,h,MISS Mann 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,274
+0022301102,380,PT06M20.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,54,56,110,h,Mann Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,283
+0022301102,381,PT06M20.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,55,56,111,h,Mann Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,284
+0022301102,388,PT05M19.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-180,182,26,Missed,1,,,0,h,MISS Mann 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,289
+0022301102,405,PT03M51.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Pokusevski FOR Mann,Substitution,,0,0,303
+0022301102,462,PT00M01.40S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,0,345
+0022301102,502,PT09M19.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann S.FOUL (P1.T1) (E.Scott),Foul,Shooting,1,0,374
+0022301102,516,PT08M07.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann STEAL (3 STL),,,1,0,385
+0022301102,520,PT08M05.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Mann,Substitution,,0,0,387
+0022301102,584,PT02M23.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,433
+0022301102,585,PT02M07.00S,4,1610612766,CHA,1630544,Mann,T. Mann,172,199,26,Missed,1,,,0,h,MISS Mann 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,434
+0022301102,589,PT01M35.00S,4,1610612766,CHA,1630544,Mann,T. Mann,134,219,26,Missed,1,,,0,h,MISS Mann 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,437
+0022301115,18,PT10M29.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann P.FOUL (P1.T1) (M.Ervin),Foul,Personal,1,0,11
+0022301115,24,PT09M34.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann STEAL (1 STL),,,1,0,17
+0022301115,58,PT06M05.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Pokusevski FOR Mann,Substitution,,0,0,40
+0022301115,141,PT00M00.20S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann STEAL (2 STL),,,1,0,103
+0022301115,198,PT09M16.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,138
+0022301115,209,PT08M02.00S,2,1610612766,CHA,1630544,Mann,T. Mann,5,26,3,Made,1,49,32,81,h,Mann 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,145
+0022301115,217,PT07M12.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Micic FOR Mann,Substitution,,0,0,151
+0022301115,289,PT00M59.40S,2,1610612766,CHA,1630544,Mann,T. Mann,175,189,26,Made,1,63,50,113,h,Mann 26' 3PT Jump Shot (5 PTS) (Williams 4 AST),Made Shot,Jump Shot,1,3,202
+0022301115,354,PT07M57.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,253
+0022301115,382,PT05M32.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Pokusevski FOR Mann,Substitution,,0,0,275
+0022301115,436,PT01M39.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-118,225,25,Missed,1,,,0,h,MISS Mann 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,315
+0022301115,446,PT00M20.40S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann STEAL (3 STL),,,1,0,323
+0022301115,448,PT00M13.30S,3,1610612766,CHA,1630544,Mann,T. Mann,-27,47,5,Missed,1,,,0,h,MISS Mann 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,324
+0022301115,470,PT11M26.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Lost Ball Turnover (P1.T14),Turnover,Lost Ball,1,0,335
+0022301115,493,PT09M02.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-6,22,2,Missed,1,,,0,h,MISS Mann 2' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,356
+0022301115,514,PT07M08.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Pokusevski FOR Mann,Substitution,,0,0,372
+0022301115,583,PT02M18.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,421
+0022301115,596,PT01M36.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,121,109,230,h,Mann Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,430
+0022301115,597,PT01M36.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,122,109,231,h,Mann Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,431
+0022301115,599,PT01M24.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,433
+0022301115,604,PT00M55.80S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann S.FOUL (P2.PN) (M.Ervin),Foul,Shooting,1,0,437
+0022301135,28,PT09M32.00S,1,1610612766,CHA,1630544,Mann,T. Mann,7,13,1,Made,1,4,10,14,h,Mann 1' Driving Layup (2 PTS) (Miller 1 AST),Made Shot,Driving Layup Shot,1,2,18
+0022301135,39,PT08M38.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-25,27,4,Made,1,8,13,21,h,Mann 4' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,25
+0022301135,48,PT07M53.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,33
+0022301135,69,PT06M01.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann BLOCK (1 BLK),,,1,2,48
+0022301135,76,PT06M01.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Pokusevski FOR Mann,Substitution,,0,0,53
+0022301135,134,PT00M57.80S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,100
+0022301135,135,PT00M48.80S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,101
+0022301135,143,PT00M24.20S,1,1610612766,CHA,1630544,Mann,T. Mann,138,222,26,Made,1,29,29,58,h,Mann 26' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,3,107
+0022301135,183,PT09M47.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann P.FOUL (P1.T1) (M.Davis),Foul,Personal,1,0,132
+0022301135,197,PT08M35.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,141
+0022301135,227,PT07M07.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Micic FOR Mann,Substitution,,0,0,162
+0022301135,286,PT02M37.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann STEAL (1 STL),,,1,0,203
+0022301135,311,PT01M15.00S,2,1610612766,CHA,1630544,Mann,T. Mann,31,85,9,Made,1,55,65,120,h,Mann 9' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,2,220
+0022301135,313,PT00M55.20S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,222
+0022301135,316,PT00M27.30S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann STEAL (2 STL),,,1,0,226
+0022301135,318,PT00M08.20S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Out of Bounds - Bad Pass Turnover Turnover (P3.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,227
+0022301135,341,PT11M10.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-235,13,24,Made,1,58,67,125,h,Mann 24' 3PT Jump Shot (12 PTS) (Micic 5 AST),Made Shot,Jump Shot,1,3,241
+0022301135,348,PT10M09.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Bad Pass Turnover (P4.T10),Turnover,Bad Pass,1,0,245
+0022301135,373,PT07M52.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann STEAL (3 STL),,,1,0,267
+0022301135,389,PT06M25.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,280
+0022301135,392,PT06M07.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann S.FOUL (P2.T2) (R.Hussey),Foul,Shooting,1,0,283
+0022301135,396,PT06M07.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Pokusevski FOR Mann,Substitution,,0,0,286
+0022301135,530,PT09M16.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann BLOCK (2 BLK),,,1,2,375
+0022301135,538,PT08M13.00S,4,1610612766,CHA,1630544,Mann,T. Mann,27,252,25,Made,1,95,97,192,h,Mann 25' 3PT Pullup Jump Shot (15 PTS) (Richards 1 AST),Made Shot,Pullup Jump shot,1,3,380
+0022301135,542,PT07M43.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-16,3,2,Made,1,97,100,197,h,Mann 2' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,2,382
+0022301135,552,PT07M43.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,98,100,198,h,Mann Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,1,0,388
+0022301135,563,PT06M55.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Micic FOR Mann,Substitution,,0,0,396
+0022301135,636,PT01M07.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann STEAL (4 STL),,,1,0,451
+0022301135,638,PT01M01.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann Lost Ball Turnover (P5.T18),Turnover,Lost Ball,1,0,452
+0022301135,649,PT00M30.60S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,459
+0022301135,664,PT00M17.10S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Bertans FOR Mann,Substitution,,0,0,470
+0022301144,9,PT11M42.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,5
+0022301144,52,PT07M08.00S,1,1610612766,CHA,1630544,Mann,T. Mann,119,94,15,Missed,1,,,0,h,MISS Mann 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,39
+0022301144,83,PT04M56.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-32,262,26,Missed,1,,,0,h,MISS Mann 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,63
+0022301144,95,PT04M10.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Richards FOR Mann,Substitution,,0,0,75
+0022301144,126,PT02M36.00S,1,1610612766,CHA,1630544,Mann,T. Mann,100,110,15,Missed,1,,,0,h,MISS Mann 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,95
+0022301144,139,PT01M03.00S,1,1610612766,CHA,1630544,Mann,T. Mann,18,20,3,Made,1,16,36,52,h,Mann 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,107
+0022301144,141,PT00M42.50S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,109
+0022301144,185,PT09M05.00S,2,1610612766,CHA,1630544,Mann,T. Mann,2,49,5,Missed,1,,,0,h,MISS Mann 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,131
+0022301144,221,PT06M16.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Micic FOR Mann,Substitution,,0,0,156
+0022301144,300,PT01M17.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann STEAL (1 STL),,,1,0,213
+0022301144,302,PT01M16.00S,2,1610612766,CHA,1630544,Mann,T. Mann,18,20,3,Made,1,46,64,110,h,Mann 3' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,214
+0022301144,305,PT01M16.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,MISS Mann Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,216
+0022301144,378,PT07M24.00S,3,1610612766,CHA,1630544,Mann,T. Mann,229,-6,0,Missed,1,,,0,h,MISS Mann 3PT Jump Shot,Missed Shot,Jump Shot,1,3,274
+0022301144,410,PT05M21.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Pokusevski FOR Mann,Substitution,,0,0,297
+0022301144,459,PT01M38.00S,3,1610612766,CHA,1630544,Mann,T. Mann,21,40,5,Missed,1,,,0,h,MISS Mann 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,335
+0022301144,460,PT01M34.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,336
+0022301144,461,PT01M34.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,Made,1,78,97,175,h,Mann Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,337
+0022301144,469,PT00M28.70S,3,1610612766,CHA,1630544,Mann,T. Mann,22,15,3,Made,1,80,97,177,h,Mann 3' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,344
+0022301144,472,PT00M28.70S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,81,97,178,h,Mann Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,346
+0022301144,474,PT00M02.60S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,348
+0022301144,500,PT11M06.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,Mann REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,357
+0022301144,508,PT10M26.00S,4,1610612766,CHA,1630544,Mann,T. Mann,93,85,13,Made,1,87,99,186,h,Mann 13' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,2,362
+0022301144,536,PT08M14.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-11,13,2,Missed,1,,,0,h,MISS Mann 2' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,386
+0022301144,551,PT07M20.00S,4,1610612766,CHA,1630544,Mann,T. Mann,118,142,18,Missed,1,,,0,h,MISS Mann 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,395
+0022301144,559,PT07M04.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Micic FOR Mann,Substitution,,0,0,402
+0022301144,608,PT03M52.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,h,SUB: Black FOR Mann,Substitution,,0,0,440
+0022301159,11,PT11M09.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann STEAL (1 STL),,,1,0,6
+0022301159,15,PT11M09.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,3,3,6,v,Mann Free Throw 1 of 1 (1 PTS),Free Throw,Free Throw 1 of 1,1,0,8
+0022301159,32,PT09M12.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-15,17,2,Made,1,8,14,22,v,Mann 2' Driving Layup (3 PTS),Made Shot,Driving Layup Shot,1,2,20
+0022301159,65,PT06M42.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Pokusevski FOR Mann,Substitution,,0,0,46
+0022301159,114,PT03M04.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,26,26,52,v,Mann Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,78
+0022301159,121,PT03M04.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,26,27,53,v,Mann Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,82
+0022301159,137,PT01M56.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,95
+0022301159,157,PT00M01.20S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann STEAL (2 STL),,,1,0,110
+0022301159,164,PT11M42.00S,2,1610612766,CHA,1630544,Mann,T. Mann,94,13,9,Missed,1,,,0,v,MISS Mann 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,113
+0022301159,170,PT11M10.00S,2,1610612766,CHA,1630544,Mann,T. Mann,-162,202,26,Missed,1,,,0,v,MISS Mann 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,119
+0022301159,179,PT10M02.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,127
+0022301159,184,PT09M35.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann STEAL (3 STL),,,1,0,131
+0022301159,186,PT09M31.00S,2,1610612766,CHA,1630544,Mann,T. Mann,-13,12,2,Missed,1,,,0,v,MISS Mann 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,132
+0022301159,192,PT08M42.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann STEAL (4 STL),,,1,0,138
+0022301159,195,PT08M33.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,140
+0022301159,196,PT08M33.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,Missed,1,,,0,v,MISS Mann Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,141
+0022301159,216,PT06M51.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,155
+0022301159,228,PT06M06.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Williams FOR Mann,Substitution,,0,0,167
+0022301159,321,PT10M23.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-142,208,25,Missed,1,,,0,v,MISS Mann 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,226
+0022301159,345,PT07M27.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-4,1,0,Made,1,79,65,144,v,Mann Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,243
+0022301159,352,PT07M27.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,79,66,145,v,Mann Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1,0,247
+0022301159,355,PT06M56.00S,3,1610612766,CHA,1630544,Mann,T. Mann,15,22,3,Missed,1,,,0,v,MISS Mann 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,249
+0022301159,361,PT06M50.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Richards FOR Mann,Substitution,,0,0,254
+0022301159,491,PT09M23.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann STEAL (5 STL),,,1,0,346
+0022301159,497,PT08M51.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-13,248,25,Made,1,97,88,185,v,Mann 25' 3PT Jump Shot (11 PTS) (Miller 2 AST),Made Shot,Jump Shot,1,3,350
+0022301159,532,PT07M08.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,100,95,195,v,Mann Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,373
+0022301159,533,PT07M08.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,MISS Mann Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,374
+0022301159,554,PT04M58.00S,4,1610612766,CHA,1630544,Mann,T. Mann,33,120,12,Made,1,106,101,207,v,Mann 12' Driving Floating Jump Shot (14 PTS),Made Shot,Driving Floating Jump Shot,1,2,389
+0022301159,555,PT04M46.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann STEAL (6 STL),,,1,0,391
+0022301159,557,PT04M42.00S,4,1610612766,CHA,1630544,Mann,T. Mann,9,4,1,Made,1,106,103,209,v,Mann 1' Running Reverse Layup (16 PTS),Made Shot,Running Reverse Layup Shot,1,2,392
+0022301159,565,PT04M11.00S,4,1610612766,CHA,1630544,Mann,T. Mann,48,250,25,Missed,1,,,0,v,MISS Mann 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,398
+0022301159,589,PT02M32.00S,4,1610612766,CHA,1630544,Mann,T. Mann,7,14,2,Missed,1,,,0,v,MISS Mann 2' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,417
+0022301159,629,PT00M01.20S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann STEAL (7 STL),,,0,0,446
+0022301173,18,PT10M23.00S,1,1610612766,CHA,1630544,Mann,T. Mann,137,215,25,Made,1,2,6,8,v,Mann 25' 3PT Pullup Jump Shot (3 PTS) (Bolden 2 AST),Made Shot,Pullup Jump shot,1,3,11
+0022301173,31,PT08M46.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-137,221,26,Missed,1,,,0,v,MISS Mann 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,21
+0022301173,59,PT06M06.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,44
+0022301173,75,PT04M55.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Thor FOR Mann,Substitution,,0,0,57
+0022301173,130,PT01M09.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-136,152,20,Made,1,28,21,49,v,Mann 20' Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,2,95
+0022301173,160,PT10M55.00S,2,1610612766,CHA,1630544,Mann,T. Mann,28,11,3,Missed,1,,,0,v,MISS Mann 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,115
+0022301173,172,PT09M42.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,125
+0022301173,219,PT06M52.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Micic FOR Mann,Substitution,,0,0,161
+0022301173,323,PT10M31.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Lost Ball Turnover (P2.T13),Turnover,Lost Ball,1,0,229
+0022301173,347,PT08M27.00S,3,1610612766,CHA,1630544,Mann,T. Mann,141,229,27,Made,1,81,55,136,v,Mann 27' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,3,246
+0022301173,349,PT07M53.00S,3,1610612766,CHA,1630544,Mann,T. Mann,65,124,14,Missed,1,,,0,v,MISS Mann 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,248
+0022301173,365,PT06M03.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann P.FOUL (P1.T4) (M.Myers),Foul,Personal,1,0,259
+0022301173,402,PT03M39.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-58,264,27,Made,1,90,69,159,v,Mann 27' 3PT Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,3,287
+0022301173,410,PT03M06.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Pokusevski FOR Mann,Substitution,,0,0,294
+0022301173,524,PT06M57.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,376
+0022301173,525,PT06M55.00S,4,1610612766,CHA,1630544,Mann,T. Mann,13,10,2,Made,1,111,80,191,v,Mann 2' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,2,377
+0022301173,531,PT06M55.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,111,81,192,v,Mann Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,1,0,379
+0022301173,539,PT05M55.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,115,85,200,v,Mann Free Throw 1 of 3 (15 PTS),Free Throw,Free Throw 1 of 3,1,0,384
+0022301173,540,PT05M55.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,115,86,201,v,Mann Free Throw 2 of 3 (16 PTS),Free Throw,Free Throw 2 of 3,0,0,385
+0022301173,545,PT05M55.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,115,87,202,v,Mann Free Throw 3 of 3 (17 PTS),Free Throw,Free Throw 3 of 3,1,0,387
+0022301173,564,PT04M36.00S,4,1610612766,CHA,1630544,Mann,T. Mann,55,95,11,Missed,1,,,0,v,MISS Mann 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,402
+0022301173,595,PT02M37.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,427
+0022301173,596,PT02M31.00S,4,1610612766,CHA,1630544,Mann,T. Mann,-49,38,6,Made,1,120,96,216,v,Mann 6' Driving Layup (19 PTS),Made Shot,Driving Layup Shot,1,2,428
+0022301173,599,PT02M31.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,MISS Mann Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,430
+0022301173,603,PT02M03.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Bad Pass Turnover (P3.T18),Turnover,Bad Pass,1,0,433
+0022301173,614,PT01M15.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Out of Bounds Lost Ball Turnover (P4.T19),Turnover,Out of Bounds Lost Ball Turnover,1,0,443
+0022301187,21,PT10M01.00S,1,1610612766,CHA,1630544,Mann,T. Mann,235,70,25,Missed,1,,,0,v,MISS Mann 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,14
+0022301187,37,PT08M27.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann STEAL (1 STL),,,1,0,27
+0022301187,53,PT07M07.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,38
+0022301187,54,PT06M58.00S,1,1610612766,CHA,1630544,Mann,T. Mann,-94,91,13,Missed,1,,,0,v,MISS Mann 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,39
+0022301187,60,PT06M44.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,45
+0022301187,76,PT05M35.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Mann,Substitution,,0,0,59
+0022301187,135,PT01M10.00S,1,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,100
+0022301187,136,PT00M58.30S,1,1610612766,CHA,1630544,Mann,T. Mann,229,128,26,Missed,1,,,0,v,MISS Mann 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,101
+0022301187,164,PT10M59.00S,2,1610612766,CHA,1630544,Mann,T. Mann,-38,60,7,Missed,1,,,0,v,MISS Mann 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,119
+0022301187,169,PT10M42.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann S.FOUL (P1.T1) (J.Goldenberg),Foul,Shooting,1,0,122
+0022301187,184,PT09M33.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann S.FOUL (P2.T2) (S.Corbin),Foul,Shooting,1,0,134
+0022301187,193,PT09M12.00S,2,1610612766,CHA,1630544,Mann,T. Mann,205,154,26,Made,1,39,30,69,v,Mann 26' 3PT Step Back Jump Shot (3 PTS) (Thor 2 AST),Made Shot,Step Back Jump shot,1,3,139
+0022301187,201,PT08M52.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,145
+0022301187,219,PT07M09.00S,2,1610612766,CHA,1630544,Mann,T. Mann,-237,60,24,Made,1,44,41,85,v,Mann 24' 3PT Running Jump Shot (6 PTS) (Black 3 AST),Made Shot,Running Jump Shot,1,3,158
+0022301187,227,PT06M46.00S,2,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Mann,Substitution,,0,0,164
+0022301187,305,PT11M10.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,220
+0022301187,316,PT10M00.00S,3,1610612766,CHA,1630544,Mann,T. Mann,43,137,14,Made,1,65,65,130,v,Mann 14' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,2,228
+0022301187,337,PT07M38.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-213,142,26,Made,1,74,70,144,v,Mann 26' 3PT Step Back Jump Shot (11 PTS) (Bolden 2 AST),Made Shot,Step Back Jump shot,1,3,246
+0022301187,359,PT06M13.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,258
+0022301187,401,PT03M51.00S,3,1610612766,CHA,1630544,Mann,T. Mann,-71,53,9,Missed,1,,,0,v,MISS Mann 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,284
+0022301187,449,PT03M15.00S,3,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Mann,Substitution,,0,0,291
+0022301187,505,PT07M30.00S,4,1610612766,CHA,1630544,Mann,T. Mann,148,241,28,Missed,1,,,0,v,MISS Mann 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,350
+0022301187,513,PT06M47.00S,4,1610612766,CHA,1630544,Mann,T. Mann,100,34,11,Missed,1,,,0,v,MISS Mann 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,356
+0022301187,520,PT06M39.00S,4,1610612766,CHA,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Mann,Substitution,,0,0,361
+0022301212,147,PT00M36.90S,1,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Giddey FOR Mann,Substitution,,0,0,108
+0022301212,163,PT00M12.60S,1,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Jal. Williams FOR Mann,Substitution,,0,0,120
+0022301212,194,PT11M04.00S,2,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann STEAL (1 STL),,,1,0,131
+0022301212,196,PT10M58.00S,2,1610612760,OKC,1630544,Mann,T. Mann,-16,-1,2,Made,1,32,26,58,v,Mann 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,132
+0022301212,213,PT08M58.00S,2,1610612760,OKC,1630544,Mann,T. Mann,37,57,7,Missed,1,,,0,v,MISS Mann 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,148
+0022301212,223,PT08M18.00S,2,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,156
+0022301212,243,PT06M51.00S,2,1610612760,OKC,1630544,Mann,T. Mann,183,213,28,Missed,1,,,0,v,MISS Mann 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,170
+0022301212,252,PT06M27.00S,2,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Giddey FOR Mann,Substitution,,0,0,179
+0022301212,449,PT05M25.00S,3,1610612760,OKC,1630544,Mann,T. Mann,223,2,0,Made,1,69,62,131,v,Mann 3PT Jump Shot (5 PTS) (Gilgeous-Alexander 2 AST),Made Shot,Jump Shot,1,3,323
+0022301212,469,PT04M10.00S,3,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,339
+0022301212,473,PT03M41.00S,3,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,343
+0022301212,474,PT03M30.00S,3,1610612760,OKC,1630544,Mann,T. Mann,205,133,24,Made,1,69,68,137,v,Mann 24' 3PT Jump Shot (8 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Jump Shot,1,3,344
+0022301212,547,PT10M54.00S,4,1610612760,OKC,1630544,Mann,T. Mann,-206,178,27,Missed,1,,,0,v,MISS Mann 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,392
+0022301212,556,PT10M38.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,SUB: Holmgren FOR Mann,Substitution,,0,0,400
+0022301212,632,PT06M07.00S,4,1610612760,OKC,1630544,Mann,T. Mann,210,10,21,Made,1,103,88,191,v,Mann 21' Jump Shot (10 PTS) (Jal. Williams 3 AST),Made Shot,Jump Shot,1,2,452
+0022301212,672,PT02M43.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann STEAL (2 STL),,,1,0,483
+0022301212,674,PT02M36.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,,,0,v,Mann Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,484
+0022301212,699,PT01M22.00S,4,1610612760,OKC,1630544,Mann,T. Mann,22,12,3,Missed,1,,,0,v,MISS Mann 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,502

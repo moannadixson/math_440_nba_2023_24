@@ -1,0 +1,864 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300010,110,PT04M09.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,80
+0022300010,111,PT04M05.00S,1,1610612751,BKN,1630570,Watford,T. Watford,-27,23,4,Made,1,27,21,48,v,Watford 4' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,81
+0022300010,115,PT03M44.00S,1,1610612751,BKN,1630570,Watford,T. Watford,-164,163,23,Made,1,27,23,50,v,Watford 23' Pullup Jump Shot (4 PTS) (Walker IV 1 AST),Made Shot,Pullup Jump shot,1,2,84
+0022300010,121,PT03M32.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,88
+0022300010,122,PT03M22.00S,1,1610612751,BKN,1630570,Watford,T. Watford,-28,82,9,Made,1,27,25,52,v,Watford 9' Driving Floating Jump Shot (6 PTS) (Smith Jr. 1 AST),Made Shot,Driving Floating Jump Shot,1,2,89
+0022300010,180,PT11M26.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford P.FOUL (P1.T1) (S.Corbin),Foul,Personal,0,0,130
+0022300010,184,PT10M52.00S,2,1610612751,BKN,1630570,Watford,T. Watford,-20,22,3,Missed,1,,,0,v,MISS Watford 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,133
+0022300010,189,PT10M39.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: O'Neale FOR Watford,Substitution,,0,0,137
+0022300010,363,PT07M30.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,264
+0022300010,372,PT06M34.00S,3,1610612751,BKN,1630570,Watford,T. Watford,11,24,3,Made,1,77,63,140,v,Watford 3' Running Dunk (8 PTS) (O'Neale 3 AST),Made Shot,Running Dunk Shot,1,2,272
+0022300010,382,PT06M06.00S,3,1610612751,BKN,1630570,Watford,T. Watford,32,23,4,Missed,1,,,0,v,MISS Watford 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,278
+0022300010,390,PT05M28.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford BLOCK (1 BLK),,,1,2,286
+0022300010,394,PT05M21.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,289
+0022300010,395,PT05M11.00S,3,1610612751,BKN,1630570,Watford,T. Watford,112,51,12,Missed,1,,,0,v,MISS Watford 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,290
+0022300010,424,PT03M15.00S,3,1610612751,BKN,1630570,Watford,T. Watford,17,95,10,Made,1,86,73,159,v,Watford 10' Driving Floating Jump Shot (10 PTS) (O'Neale 4 AST),Made Shot,Driving Floating Jump Shot,1,2,312
+0022300010,442,PT01M45.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P2.T4) (J.Goldenberg),Foul,Shooting,1,0,324
+0022300010,472,PT00M28.80S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,347
+0022300010,475,PT00M26.50S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,93,83,176,v,Watford Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,349
+0022300010,478,PT00M26.50S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,93,84,177,v,Watford Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,351
+0022300010,517,PT09M12.00S,4,1610612751,BKN,1630570,Watford,T. Watford,120,219,25,Missed,1,,,0,v,MISS Watford 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,376
+0022300010,544,PT07M19.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P3.PN) (J.Goldenberg),Foul,Shooting,1,0,395
+0022300010,557,PT06M18.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,405
+0022300010,559,PT05M51.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P4.PN) (S.Corbin),Foul,Shooting,1,0,407
+0022300010,611,PT01M50.00S,4,1610612751,BKN,1630570,Watford,T. Watford,51,48,7,Missed,1,,,0,v,MISS Watford 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,448
+0022300010,614,PT01M21.00S,4,1610612751,BKN,1630570,Watford,T. Watford,11,40,4,Made,1,119,103,222,v,Watford 4' Cutting Layup Shot (14 PTS) (Smith Jr. 6 AST),Made Shot,Cutting Layup Shot,1,2,451
+0022300010,629,PT00M36.80S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,462
+0022300054,173,PT11M10.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,129
+0022300054,226,PT06M45.00S,2,1610612751,BKN,1630570,Watford,T. Watford,6,62,6,Missed,1,,,0,h,MISS Watford 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,166
+0022300054,248,PT05M17.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Traveling Turnover (P1.T5),Turnover,Traveling,1,0,184
+0022300054,251,PT05M03.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Finney-Smith FOR Watford,Substitution,,0,0,186
+0022300054,512,PT11M32.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Bad Pass Turnover (P2.T13),Turnover,Bad Pass,1,0,385
+0022300054,519,PT10M59.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford P.FOUL (P1.T1) (M.Boland),Foul,Personal,1,0,390
+0022300054,539,PT09M30.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Lost Ball Turnover (P3.T14),Turnover,Lost Ball,1,0,405
+0022300054,548,PT08M26.00S,4,1610612751,BKN,1630570,Watford,T. Watford,22,28,4,Made,1,84,82,166,h,Watford 4' Cutting Layup Shot (2 PTS) (O'Neale 4 AST),Made Shot,Cutting Layup Shot,1,2,412
+0022300054,554,PT07M45.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Bridges FOR Watford,Substitution,,0,0,415
+0022300119,110,PT04M06.00S,1,1610612751,BKN,1630570,Watford,T. Watford,13,1,1,Made,1,22,17,39,v,Watford 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,84
+0022300119,157,PT00M41.50S,1,1610612751,BKN,1630570,Watford,T. Watford,-142,199,24,Missed,1,,,0,v,MISS Watford 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,116
+0022300119,201,PT00M05.50S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Bridges FOR Watford,Substitution,,0,0,123
+0022300119,477,PT02M43.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,77,68,145,v,Watford Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,349
+0022300119,478,PT02M43.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,77,69,146,v,Watford Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,350
+0022300119,491,PT01M45.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,359
+0022300119,538,PT10M01.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,389
+0022300119,539,PT09M57.00S,4,1610612751,BKN,1630570,Watford,T. Watford,10,4,1,Made,1,86,83,169,v,Watford 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,390
+0022300119,543,PT09M40.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford P.FOUL (P1.T1) (N.Buchert),Foul,Personal,1,0,393
+0022300119,545,PT09M28.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford STEAL (1 STL),,,1,0,395
+0022300119,550,PT09M04.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,398
+0022300119,560,PT08M38.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-237,-15,24,Made,1,86,89,175,v,Watford 24' 3PT Jump Shot (9 PTS) (O'Neale 5 AST),Made Shot,Jump Shot,1,3,408
+0022300119,565,PT07M52.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford OFF.Foul (P2) (T.Ricks),Foul,Offensive,1,0,411
+0022300119,567,PT07M52.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Offensive Foul Turnover (P1.T15),Turnover,Offensive Foul Turnover,1,0,412
+0022300119,581,PT06M22.00S,4,1610612751,BKN,1630570,Watford,T. Watford,18,69,7,Missed,1,,,0,v,MISS Watford 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,425
+0022300119,582,PT06M20.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,426
+0022300119,583,PT06M20.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,Made,1,90,94,184,v,Watford Tip Layup Shot (11 PTS),Made Shot,Tip Layup Shot,1,2,427
+0022300119,588,PT05M52.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Bridges FOR Watford,Substitution,,0,0,431
+0022300136,122,PT02M49.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,94
+0022300136,124,PT02M29.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P1.T4) (N.Sago),Foul,Shooting,1,0,96
+0022300136,129,PT02M26.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,101
+0022300136,167,PT00M17.90S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Thomas FOR Watford,Substitution,,0,0,127
+0022300160,258,PT05M19.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,197
+0022300160,273,PT03M49.00S,2,1610612751,BKN,1630570,Watford,T. Watford,-110,220,25,Made,1,40,38,78,h,Watford 25' 3PT Jump Shot (3 PTS) (Finney-Smith 2 AST),Made Shot,Jump Shot,1,3,208
+0022300160,278,PT03M06.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,211
+0022300160,291,PT02M26.00S,2,1610612751,BKN,1630570,Watford,T. Watford,32,43,5,Made,1,42,43,85,h,Watford 5' Driving Floating Bank Jump Shot (5 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,222
+0022300160,303,PT01M32.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,230
+0022300160,317,PT00M05.50S,2,1610612751,BKN,1630570,Watford,T. Watford,-7,16,2,Missed,1,,,0,h,MISS Watford 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,242
+0022300160,433,PT02M42.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,328
+0022300160,453,PT01M39.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,68,69,137,h,Watford Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,341
+0022300160,454,PT01M39.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,69,69,138,h,Watford Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,342
+0022300160,463,PT00M47.10S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford STEAL (1 STL),,,1,0,352
+0022300160,465,PT00M41.10S,3,1610612751,BKN,1630570,Watford,T. Watford,0,18,2,Made,1,73,71,144,h,Watford 2' Running Finger Roll Layup (9 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,353
+0022300160,467,PT00M24.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,355
+0022300160,480,PT11M56.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford STEAL (2 STL),,,1,0,362
+0022300160,492,PT11M54.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,363
+0022300160,475,PT11M50.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford STEAL (3 STL),,,1,0,366
+0022300160,491,PT10M54.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-32,85,9,Missed,1,,,0,h,MISS Watford 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,377
+0022300160,535,PT07M42.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-229,12,0,Missed,1,,,0,h,MISS Watford 3PT Jump Shot,Missed Shot,Jump Shot,1,3,407
+0022300160,552,PT06M15.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Offensive Charge Foul (P1) (C.Aubry),Foul,Offensive Charge,1,0,420
+0022300160,554,PT06M15.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Offensive Foul Turnover (P3.T12),Turnover,Offensive Foul Turnover,1,0,421
+0022300160,563,PT05M42.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Lost Ball Turnover (P4.T13),Turnover,Lost Ball,1,0,428
+0022300160,573,PT05M08.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,437
+0022300160,578,PT04M43.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P2.T4) (B.Forte),Foul,Shooting,1,0,441
+0022300160,591,PT03M47.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Walker IV FOR Watford,Substitution,,0,0,450
+0022300178,158,PT01M30.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,122
+0022300178,175,PT11M44.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,134
+0022300178,183,PT10M32.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Traveling Turnover (P1.T5),Turnover,Traveling,1,0,141
+0022300178,186,PT10M15.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,143
+0022300178,188,PT09M51.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P1.T1) (J.Williams),Foul,Shooting,1,0,145
+0022300178,192,PT09M51.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Johnson FOR Watford,Substitution,,0,0,148
+0022300178,416,PT05M02.00S,3,1610612751,BKN,1630570,Watford,T. Watford,-27,36,5,Made,1,66,56,122,h,Watford 5' Driving Floating Jump Shot (2 PTS) (Smith Jr. 5 AST),Made Shot,Driving Floating Jump Shot,1,2,318
+0022300178,440,PT03M29.00S,3,1610612751,BKN,1630570,Watford,T. Watford,48,18,5,Missed,1,,,0,h,MISS Watford 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,335
+0022300178,443,PT03M24.00S,3,1610612751,BKN,1630570,Watford,T. Watford,159,65,17,Missed,1,,,0,h,MISS Watford 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,338
+0022300178,446,PT03M14.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P2.PN) (J.Williams),Foul,Shooting,1,0,340
+0022300178,465,PT02M00.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Johnson FOR Watford,Substitution,,0,0,352
+0022300200,88,PT04M40.00S,1,1610612751,BKN,1630570,Watford,T. Watford,29,0,3,Made,1,11,17,28,v,Watford 3' Cutting Dunk Shot (2 PTS) (O'Neale 1 AST),Made Shot,Cutting Dunk Shot,1,2,69
+0022300200,90,PT04M25.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Nets T.Foul (Def. 3 Sec Watford ) (S.Mehta),Foul,Defense 3 Second,1,0,70
+0022300200,130,PT01M53.00S,1,1610612751,BKN,1630570,Watford,T. Watford,-37,22,4,Missed,1,,,0,v,MISS Watford 4' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,93
+0022300200,132,PT01M48.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford P.FOUL (P1.T4) (J.DeRosa),Foul,Personal,1,0,95
+0022300200,155,PT00M22.20S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Johnson FOR Watford,Substitution,,0,0,113
+0022300200,613,PT04M08.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,435
+0022300200,623,PT02M54.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,442
+0022300200,624,PT02M40.00S,4,1610612751,BKN,1630570,Watford,T. Watford,5,31,3,Made,1,117,108,225,v,Watford 3' Floating Jump Shot (4 PTS) (Bridges 5 AST),Made Shot,Floating Jump shot,1,2,443
+0022300208,122,PT02M38.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford BLOCK (1 BLK),,,1,2,88
+0022300208,134,PT01M31.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,98
+0022300208,135,PT01M24.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,Made,1,22,23,45,h,Watford Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,99
+0022300208,137,PT00M56.10S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,101
+0022300208,172,PT10M36.00S,2,1610612751,BKN,1630570,Watford,T. Watford,228,-13,0,Missed,1,,,0,h,MISS Watford 3PT Jump Shot,Missed Shot,Jump Shot,1,3,124
+0022300208,199,PT08M45.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Finney-Smith FOR Watford,Substitution,,0,0,142
+0022300208,412,PT03M31.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,295
+0022300208,426,PT02M39.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P1.T4) (D.Scott),Foul,Shooting,1,0,304
+0022300208,444,PT01M39.00S,3,1610612751,BKN,1630570,Watford,T. Watford,36,6,4,Missed,1,,,0,h,MISS Watford 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,318
+0022300208,446,PT01M36.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,320
+0022300208,447,PT01M34.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,321
+0022300208,451,PT01M10.00S,3,1610612751,BKN,1630570,Watford,T. Watford,89,80,12,Made,1,67,92,159,h,Watford 12' Floating Jump Shot (4 PTS) (Claxton 1 AST),Made Shot,Floating Jump shot,1,2,324
+0022300208,458,PT00M10.30S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford STEAL (1 STL),,,1,0,330
+0022300208,493,PT10M12.00S,4,1610612751,BKN,1630570,Watford,T. Watford,9,82,8,Missed,1,,,0,h,MISS Watford 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,352
+0022300208,495,PT10M03.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P2.T1) (K.Scott),Foul,Shooting,1,0,354
+0022300208,513,PT08M28.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-188,-7,19,Missed,1,,,0,h,MISS Watford 19' Jump Shot,Missed Shot,Jump Shot,1,2,367
+0022300208,523,PT08M07.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Dinwiddie FOR Watford,Substitution,,0,0,375
+0022300208,594,PT03M05.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,91,111,202,h,Watford Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,426
+0022300208,597,PT03M05.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,92,111,203,h,Watford Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,428
+0022300208,606,PT01M55.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-5,6,1,Made,1,97,111,208,h,Watford 1' Driving Layup (8 PTS) (Sharpe 2 AST),Made Shot,Driving Layup Shot,1,2,435
+0022300208,613,PT01M26.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Bad Pass Turnover (P2.T15),Turnover,Bad Pass,1,0,440
+0022300208,617,PT01M22.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P3.PN) (J.Orr),Foul,Shooting,1,0,443
+0022300208,620,PT01M01.00S,4,1610612751,BKN,1630570,Watford,T. Watford,40,46,6,Missed,1,,,0,h,MISS Watford 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,445
+0022300208,625,PT00M42.50S,4,1610612751,BKN,1630570,Watford,T. Watford,-103,224,25,Missed,1,,,0,h,MISS Watford 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,449
+0022300227,154,PT00M53.10S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,117
+0022300227,163,PT00M04.00S,1,1610612751,BKN,1630570,Watford,T. Watford,4,15,2,Missed,1,,,0,v,MISS Watford 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,124
+0022300227,291,PT04M55.00S,2,1610612751,BKN,1630570,Watford,T. Watford,-233,26,0,Missed,1,,,0,v,MISS Watford 3PT Jump Shot,Missed Shot,Jump Shot,1,3,212
+0022300227,295,PT04M35.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford OFF.Foul (P1) (J.Sterling),Foul,Offensive,1,0,215
+0022300227,297,PT04M35.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,1,0,216
+0022300227,300,PT04M15.00S,2,1610612751,BKN,1630570,Watford,T. Watford,1,12,1,Missed,1,,,0,v,MISS Watford 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,218
+0022300227,320,PT02M40.00S,2,1610612751,BKN,1630570,Watford,T. Watford,-2,13,1,Made,1,71,60,131,v,Watford 1' Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,1,2,235
+0022300227,322,PT02M21.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,237
+0022300227,323,PT02M16.00S,2,1610612751,BKN,1630570,Watford,T. Watford,4,102,10,Missed,1,,,0,v,MISS Watford 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,238
+0022300227,328,PT01M57.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,243
+0022300227,339,PT01M00.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P2.T4) (J.Sterling),Foul,Shooting,1,0,253
+0022300227,347,PT00M37.60S,2,1610612751,BKN,1630570,Watford,T. Watford,-18,80,8,Missed,1,,,0,v,MISS Watford 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,259
+0022300227,349,PT00M33.30S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,261
+0022300227,497,PT02M43.00S,3,1610612751,BKN,1630570,Watford,T. Watford,6,8,1,Made,1,92,93,185,v,Watford 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,378
+0022300227,514,PT00M44.70S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Traveling Turnover (P2.T13),Turnover,Traveling,1,0,393
+0022300227,517,PT00M10.50S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Bad Pass Turnover (P3.T14),Turnover,Bad Pass,1,0,395
+0022300227,540,PT10M38.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,410
+0022300227,556,PT09M16.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,422
+0022300227,560,PT08M59.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,426
+0022300227,561,PT08M47.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-229,29,0,Made,1,106,107,213,v,Watford 3PT Jump Shot (7 PTS) (Dinwiddie 10 AST),Made Shot,Jump Shot,1,3,427
+0022300227,582,PT07M49.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford P.FOUL (P3.PN) (P.Ransom),Foul,Personal,1,0,439
+0022300227,585,PT07M49.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Bridges FOR Watford,Substitution,,0,0,441
+0022300240,99,PT04M37.00S,1,1610612751,BKN,1630570,Watford,T. Watford,176,191,26,Made,1,23,12,35,h,Watford 26' 3PT Jump Shot (3 PTS) (Bridges 1 AST),Made Shot,Jump Shot,1,3,74
+0022300240,124,PT02M35.00S,1,1610612751,BKN,1630570,Watford,T. Watford,-28,96,10,Missed,1,,,0,h,MISS Watford 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,90
+0022300240,143,PT01M09.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P1.PN) (K.Cutler),Foul,Shooting,1,0,104
+0022300240,154,PT00M44.10S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Johnson FOR Watford,Substitution,,0,0,112
+0022300240,267,PT04M29.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,190
+0022300240,286,PT03M59.00S,2,1610612751,BKN,1630570,Watford,T. Watford,10,15,2,Made,1,56,45,101,h,Watford 2' Running Layup (5 PTS) (O'Neale 2 AST),Made Shot,Running Layup Shot,1,2,203
+0022300240,288,PT03M36.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford P.FOUL (P2.T4) (A.Nagy),Foul,Personal,1,0,204
+0022300240,307,PT01M27.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford STEAL (1 STL),,,1,0,219
+0022300240,319,PT00M12.60S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford OFF.Foul (P3) (K.Cutler),Foul,Offensive,1,0,229
+0022300240,321,PT00M12.60S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,230
+0022300240,322,PT00M12.60S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Dinwiddie FOR Watford,Substitution,,0,0,231
+0022300240,584,PT03M11.00S,4,1610612751,BKN,1630570,Watford,T. Watford,50,82,10,Made,1,110,90,200,h,Watford 10' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,1,2,427
+0022300240,586,PT02M44.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,429
+0022300240,615,PT01M17.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-55,72,9,Missed,1,,,0,h,MISS Watford 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,451
+0022300240,621,PT01M01.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P4.PN) (A.Nagy),Foul,Shooting,1,0,457
+0022300250,77,PT04M04.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,55
+0022300250,83,PT03M46.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,60
+0022300250,84,PT03M41.00S,1,1610612751,BKN,1630570,Watford,T. Watford,15,38,4,Made,1,11,30,41,h,Watford 4' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,61
+0022300250,94,PT02M52.00S,1,1610612751,BKN,1630570,Watford,T. Watford,70,59,9,Missed,1,,,0,h,MISS Watford 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,68
+0022300250,113,PT02M06.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford STEAL (1 STL),,,1,0,82
+0022300250,117,PT01M51.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P1.T3) (C.Kirkland),Foul,Shooting,1,0,85
+0022300250,130,PT01M05.00S,1,1610612751,BKN,1630570,Watford,T. Watford,22,251,25,Made,1,16,34,50,h,Watford 25' 3PT Jump Shot (5 PTS) (O'Neale 1 AST),Made Shot,Jump Shot,1,3,95
+0022300250,491,PT09M21.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-9,71,7,Missed,1,,,0,h,MISS Watford 7' Hook Shot,Missed Shot,Hook Shot,1,2,361
+0022300250,492,PT09M19.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,362
+0022300250,493,PT09M19.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,Made,1,99,89,188,h,Watford Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,1,2,363
+0022300250,495,PT08M58.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,365
+0022300250,525,PT05M54.00S,4,1610612751,BKN,1630570,Watford,T. Watford,17,17,2,Made,1,109,93,202,h,Watford 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,386
+0022300250,529,PT05M54.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,MISS Watford Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,389
+0022300250,533,PT05M15.00S,4,1610612751,BKN,1630570,Watford,T. Watford,1,65,7,Made,1,111,95,206,h,Watford 7' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,2,392
+0022300250,544,PT03M59.00S,4,1610612751,BKN,1630570,Watford,T. Watford,233,84,25,Missed,1,,,0,h,MISS Watford 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,400
+0022300250,569,PT01M29.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P2.T2) (S.Wall),Foul,Shooting,1,0,418
+0022300266,112,PT02M01.00S,1,1610612751,BKN,1630570,Watford,T. Watford,154,218,27,Missed,1,,,0,h,MISS Watford 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,84
+0022300266,132,PT00M40.10S,1,1610612751,BKN,1630570,Watford,T. Watford,11,-4,1,Made,1,35,27,62,h,Watford 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,99
+0022300266,133,PT00M35.30S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P1.PN) (J.Sterling),Foul,Shooting,1,0,100
+0022300266,157,PT11M43.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford P.FOUL (P2.T1) (J.Sterling),Foul,Personal,1,0,116
+0022300266,160,PT11M32.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,118
+0022300266,161,PT11M26.00S,2,1610612751,BKN,1630570,Watford,T. Watford,7,46,5,Made,1,41,31,72,h,Watford 5' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,119
+0022300266,177,PT10M02.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Dinwiddie FOR Watford,Substitution,,0,0,132
+0022300266,456,PT01M16.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,337
+0022300266,470,PT00M52.20S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,346
+0022300266,477,PT00M00.80S,3,1610612751,BKN,1630570,Watford,T. Watford,-9,22,2,Made,1,106,102,208,h,Watford 2' Running Layup (6 PTS),Made Shot,Running Layup Shot,1,2,351
+0022300266,518,PT08M17.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-11,64,6,Missed,1,,,0,h,MISS Watford 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,385
+0022300266,521,PT07M57.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,388
+0022300266,528,PT07M15.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Dinwiddie FOR Watford,Substitution,,0,0,395
+0022300282,200,PT10M55.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,141
+0022300282,209,PT10M10.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford BLOCK (1 BLK),,,1,2,149
+0022300282,215,PT09M52.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford OFF.Foul (P1) (T.Mirkovich),Foul,Offensive,1,0,152
+0022300282,217,PT09M52.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0,153
+0022300282,235,PT09M01.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,165
+0022300282,237,PT09M00.00S,2,1610612751,BKN,1630570,Watford,T. Watford,26,12,3,Missed,1,,,0,h,MISS Watford 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,166
+0022300282,238,PT08M58.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,167
+0022300282,239,PT08M58.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,Made,1,47,28,75,h,Watford Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,168
+0022300282,253,PT08M03.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Dinwiddie FOR Watford,Substitution,,0,0,180
+0022300282,713,PT01M36.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-49,98,11,Made,1,123,101,224,h,Watford 11' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,500
+0022300282,716,PT01M15.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,502
+0022300282,721,PT00M25.50S,4,1610612751,BKN,1630570,Watford,T. Watford,6,-13,1,Made,1,128,101,229,h,Watford 1' Driving Layup (6 PTS) (O'Neale 7 AST),Made Shot,Driving Layup Shot,1,2,506
+0022300282,725,PT00M25.50S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,129,101,230,h,Watford Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,508
+0022300303,126,PT02M37.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,89
+0022300303,132,PT02M21.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford P.FOUL (P1.T3) (D.Guthrie),Foul,Personal,1,0,93
+0022300303,137,PT02M04.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford L.B.FOUL (P2.T4) (D.Guthrie),Foul,Loose Ball,1,0,97
+0022300303,143,PT01M49.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,21,15,36,v,Watford Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,101
+0022300303,144,PT01M49.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,21,16,37,v,Watford Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,102
+0022300303,146,PT01M11.00S,1,1610612751,BKN,1630570,Watford,T. Watford,1,69,7,Made,1,23,18,41,v,Watford 7' Floating Jump Shot (4 PTS) (Bridges 3 AST),Made Shot,Floating Jump shot,1,2,104
+0022300303,148,PT01M00.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford STEAL (1 STL),,,1,0,107
+0022300303,161,PT00M21.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Johnson FOR Watford,Substitution,,0,0,118
+0022300303,519,PT11M45.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-5,21,2,Made,1,98,87,185,v,Watford 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,350
+0022300303,542,PT09M47.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,370
+0022300303,543,PT09M43.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-51,62,8,Missed,1,,,0,v,MISS Watford 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,371
+0022300303,545,PT09M39.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,373
+0022300303,559,PT08M48.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,383
+0022300303,563,PT08M17.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford P.FOUL (P3.T2) (J.Van Duyne),Foul,Personal,1,0,387
+0022300303,575,PT07M47.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Bridges FOR Watford,Substitution,,0,0,395
+0022300303,670,PT02M25.00S,4,1610612751,BKN,1630570,Watford,T. Watford,21,32,4,Made,1,126,108,234,v,Watford 4' Driving Floating Bank Jump Shot (8 PTS) (Brooks 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,454
+0022300303,675,PT01M40.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,458
+0022300303,689,PT00M55.70S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,468
+0022300317,188,PT10M55.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,139
+0022300317,209,PT09M39.00S,2,1610612751,BKN,1630570,Watford,T. Watford,44,50,7,Made,1,24,39,63,v,Watford 7' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,152
+0022300317,279,PT04M46.00S,2,1610612751,BKN,1630570,Watford,T. Watford,-44,68,8,Made,1,41,50,91,v,Watford 8' Driving Floating Jump Shot (4 PTS) (Johnson 4 AST),Made Shot,Driving Floating Jump Shot,1,2,205
+0022300317,283,PT04M46.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,41,51,92,v,Watford Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,207
+0022300317,287,PT04M18.00S,2,1610612751,BKN,1630570,Watford,T. Watford,13,18,2,Made,1,41,53,94,v,Watford 2' Running Layup (7 PTS) (Dinwiddie 5 AST),Made Shot,Running Layup Shot,1,2,210
+0022300317,299,PT03M02.00S,2,1610612751,BKN,1630570,Watford,T. Watford,48,260,26,Missed,1,,,0,v,MISS Watford 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,218
+0022300317,315,PT01M59.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Thomas FOR Watford,Substitution,,0,0,230
+0022300317,522,PT11M43.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Violation:Kicked Ball (T.Brothers),Violation,Kicked Ball,0,0,376
+0022300317,525,PT11M12.00S,4,1610612751,BKN,1630570,Watford,T. Watford,229,17,0,Missed,1,,,0,v,MISS Watford 3PT Jump Shot,Missed Shot,Jump Shot,1,3,379
+0022300317,604,PT10M10.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford STEAL (1 STL),,,1,0,393
+0022300317,559,PT07M40.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,1,0,405
+0022300317,573,PT07M03.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Dinwiddie FOR Watford,Substitution,,0,0,415
+0022300322,52,PT06M37.00S,1,1610612751,BKN,1630570,Watford,T. Watford,-9,104,10,Made,1,15,14,29,v,Watford 10' Driving Floating Jump Shot (2 PTS) (Sharpe 2 AST),Made Shot,Driving Floating Jump Shot,1,2,35
+0022300322,67,PT06M10.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford BLOCK (1 BLK),,,1,3,45
+0022300322,69,PT06M07.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,46
+0022300322,70,PT06M02.00S,1,1610612751,BKN,1630570,Watford,T. Watford,25,0,3,Missed,1,,,0,v,MISS Watford 3' Running Layup,Missed Shot,Running Layup Shot,1,2,47
+0022300322,96,PT04M07.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford P.FOUL (P1.T3) (B.Barnaky),Foul,Personal,1,0,66
+0022300322,102,PT03M32.00S,1,1610612751,BKN,1630570,Watford,T. Watford,54,49,7,Missed,1,,,0,v,MISS Watford 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,69
+0022300322,106,PT03M25.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Dinwiddie FOR Watford,Substitution,,0,0,73
+0022300322,247,PT06M11.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,173
+0022300322,259,PT05M29.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,181
+0022300322,269,PT04M31.00S,2,1610612751,BKN,1630570,Watford,T. Watford,-11,34,4,Missed,1,,,0,v,MISS Watford 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,190
+0022300322,283,PT03M51.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Dinwiddie FOR Watford,Substitution,,0,0,201
+0022300322,315,PT01M35.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,225
+0022300322,551,PT11M02.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-74,35,8,Made,1,93,69,162,v,Watford 8' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,391
+0022300322,566,PT09M11.00S,4,1610612751,BKN,1630570,Watford,T. Watford,17,16,2,Missed,1,,,0,v,MISS Watford 2' Jump Shot,Missed Shot,Jump Shot,1,2,402
+0022300322,581,PT08M24.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford BLOCK (2 BLK),,,1,2,412
+0022300322,611,PT06M08.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-2,82,8,Made,1,103,84,187,v,Watford 8' Driving Floating Jump Shot (6 PTS) (Wilson 2 AST),Made Shot,Driving Floating Jump Shot,1,2,437
+0022300322,639,PT04M16.00S,4,1610612751,BKN,1630570,Watford,T. Watford,13,5,1,Missed,1,,,0,v,MISS Watford 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,459
+0022300322,651,PT03M27.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford P.FOUL (P2.T3) (Z.Zarba),Foul,Personal,1,0,469
+0022300322,672,PT02M07.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-6,-11,1,Made,1,113,98,211,v,Watford 1' Driving Reverse Layup (8 PTS) (Brooks 2 AST),Made Shot,Driving Reverse Layup Shot,1,2,483
+0022300322,676,PT01M45.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Bad Pass Turnover (P2.T16),Turnover,Bad Pass,1,0,485
+0022300322,694,PT00M59.50S,4,1610612751,BKN,1630570,Watford,T. Watford,53,245,25,Missed,1,,,0,v,MISS Watford 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,499
+0022300322,705,PT00M18.40S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,507
+0022300339,127,PT01M56.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P1.T4) (T.Ford),Foul,Shooting,1,0,95
+0022300339,132,PT01M36.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,99
+0022300339,139,PT00M57.70S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Dinwiddie FOR Watford,Substitution,,0,0,104
+0022300339,548,PT08M56.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,397
+0022300339,550,PT08M41.00S,4,1610612751,BKN,1630570,Watford,T. Watford,33,67,7,Missed,1,,,0,v,MISS Watford 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,398
+0022300339,598,PT07M06.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,411
+0022300339,606,PT06M31.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Dinwiddie FOR Watford,Substitution,,0,0,418
+0022300357,271,PT05M13.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,199
+0022300357,278,PT04M06.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,204
+0022300357,288,PT03M36.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Dinwiddie FOR Watford,Substitution,,0,0,213
+0022300357,635,PT02M30.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,466
+0022300357,643,PT02M02.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford BLOCK (1 BLK),,,1,2,473
+0022300357,651,PT01M46.00S,4,1610612751,BKN,1630570,Watford,T. Watford,64,71,10,Made,1,120,103,223,v,Watford 10' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,1,2,477
+0022300357,656,PT00M40.90S,4,1610612751,BKN,1630570,Watford,T. Watford,43,26,5,Missed,1,,,0,v,MISS Watford 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,482
+0022300357,665,PT00M09.90S,4,1610612751,BKN,1630570,Watford,T. Watford,148,218,26,Made,1,125,108,233,v,Watford 26' 3PT Jump Shot (5 PTS) (O'Neale 1 AST),Made Shot,Jump Shot,1,3,489
+0022300368,190,PT10M08.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,141
+0022300368,196,PT09M06.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,146
+0022300368,229,PT07M36.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,164
+0022300368,223,PT07M08.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford BLOCK (1 BLK),,,1,2,170
+0022300368,225,PT07M05.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,171
+0022300368,233,PT06M48.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Bridges FOR Watford,Substitution,,0,0,176
+0022300368,619,PT04M49.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,MISS Watford Free Throw Technical,Free Throw,Free Throw Technical,0,0,462
+0022300368,630,PT03M30.00S,4,1610612751,BKN,1630570,Watford,T. Watford,223,117,25,Missed,1,,,0,h,MISS Watford 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,471
+0022300368,634,PT03M12.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford P.FOUL (P1.PN) (T.Brothers),Foul,Personal,1,0,474
+0022300368,667,PT01M54.00S,4,1610612751,BKN,1630570,Watford,T. Watford,11,84,8,Made,1,98,119,217,h,Watford 8' Driving Floating Jump Shot (2 PTS) (Wilson 1 AST),Made Shot,Driving Floating Jump Shot,1,2,499
+0022300368,684,PT00M59.60S,4,1610612751,BKN,1630570,Watford,T. Watford,18,73,8,Made,1,100,121,221,h,Watford 8' Driving Floating Jump Shot (4 PTS) (Wilson 2 AST),Made Shot,Driving Floating Jump Shot,1,2,511
+0022300417,117,PT02M47.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,21,22,43,h,Watford Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,83
+0022300417,120,PT02M47.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,22,22,44,h,Watford Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,85
+0022300417,144,PT01M08.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,103
+0022300417,154,PT00M40.30S,1,1610612751,BKN,1630570,Watford,T. Watford,47,98,11,Made,1,29,29,58,h,Watford 11' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,1,2,110
+0022300417,209,PT09M05.00S,2,1610612751,BKN,1630570,Watford,T. Watford,65,85,11,Missed,1,,,0,h,MISS Watford 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,144
+0022300417,225,PT07M44.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford STEAL (1 STL),,,1,0,159
+0022300417,237,PT06M46.00S,2,1610612751,BKN,1630570,Watford,T. Watford,-147,197,25,Missed,1,,,0,h,MISS Watford 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,166
+0022300417,260,PT04M25.00S,2,1610612751,BKN,1630570,Watford,T. Watford,-29,-2,3,Made,1,43,51,94,h,Watford 3' Floating Jump Shot (6 PTS) (Smith Jr. 3 AST),Made Shot,Floating Jump shot,1,2,186
+0022300417,265,PT03M33.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford STEAL (2 STL),,,1,0,190
+0022300417,275,PT02M32.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,199
+0022300417,280,PT02M19.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Wilson FOR Watford,Substitution,,0,0,204
+0022300417,340,PT11M02.00S,3,1610612751,BKN,1630570,Watford,T. Watford,-6,27,3,Missed,1,,,0,h,MISS Watford 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,246
+0022300417,355,PT09M54.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford P.FOUL (P1.T1) (D.Guthrie),Foul,Personal,1,0,259
+0022300417,365,PT08M55.00S,3,1610612751,BKN,1630570,Watford,T. Watford,-12,73,7,Made,1,69,74,143,h,Watford 7' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,1,2,266
+0022300417,367,PT08M31.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,268
+0022300417,383,PT07M15.00S,3,1610612751,BKN,1630570,Watford,T. Watford,85,6,9,Made,1,74,74,148,h,Watford 9' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,1,2,280
+0022300417,392,PT06M51.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,286
+0022300417,393,PT06M40.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,287
+0022300417,398,PT06M30.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Johnson FOR Watford,Substitution,,0,0,292
+0022300417,456,PT02M49.00S,3,1610612751,BKN,1630570,Watford,T. Watford,1,4,0,Made,1,86,88,174,h,Watford Driving Layup (12 PTS) (Smith Jr. 7 AST),Made Shot,Driving Layup Shot,1,2,335
+0022300417,457,PT02M38.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,NETS T.Foul (Def. 3 Sec Watford ) (J.Orr),Foul,Defense 3 Second,1,0,336
+0022300417,462,PT02M16.00S,3,1610612751,BKN,1630570,Watford,T. Watford,-2,5,1,Made,1,88,91,179,h,Watford 1' Driving Finger Roll Layup (14 PTS) (Whitehead 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,340
+0022300417,494,PT11M36.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,93,102,195,h,Watford Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,356
+0022300417,495,PT11M36.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,MISS Watford Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,357
+0022300417,520,PT09M54.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,379
+0022300417,523,PT09M50.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,95,107,202,h,Watford Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,381
+0022300417,524,PT09M50.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,96,107,203,h,Watford Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,382
+0022300417,555,PT07M23.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Wilson FOR Watford,Substitution,,0,0,402
+0022300447,726,PT00M26.80S,4,1610612751,BKN,1630570,Watford,T. Watford,28,34,4,Made,1,124,108,232,v,Watford 4' Driving Floating Jump Shot (2 PTS) (Thomas 1 AST),Made Shot,Driving Floating Jump Shot,1,2,508
+0022300461,568,PT04M15.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-15,26,3,Made,1,101,75,176,v,Watford 3' Running Layup (2 PTS) (Wilson 2 AST),Made Shot,Running Layup Shot,1,2,426
+0022300461,594,PT02M46.00S,4,1610612751,BKN,1630570,Watford,T. Watford,17,61,6,Missed,1,,,0,v,MISS Watford 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,443
+0022300461,595,PT02M42.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,444
+0022300461,596,PT02M42.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,Missed,1,,,0,v,MISS Watford Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,445
+0022300461,623,PT01M13.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-26,2,3,Made,1,111,81,192,v,Watford 3' Driving Layup (4 PTS) (O'Neale 5 AST),Made Shot,Driving Layup Shot,1,2,466
+0022300461,626,PT01M13.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,MISS Watford Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,468
+0022300461,629,PT01M07.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P1.PN) (R.Acosta),Foul,Shooting,1,0,470
+0022300469,190,PT08M39.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,136
+0022300469,191,PT08M28.00S,2,1610612751,BKN,1630570,Watford,T. Watford,54,47,7,Missed,1,,,0,v,MISS Watford 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,137
+0022300469,206,PT07M44.00S,2,1610612751,BKN,1630570,Watford,T. Watford,-23,7,2,Made,1,34,35,69,v,Watford 2' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,1,2,149
+0022300469,208,PT07M26.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,151
+0022300469,213,PT06M37.00S,2,1610612751,BKN,1630570,Watford,T. Watford,227,63,24,Made,1,37,38,75,v,Watford 24' 3PT Jump Shot (5 PTS) (O'Neale 1 AST),Made Shot,Jump Shot,1,3,155
+0022300469,224,PT06M22.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Bridges FOR Watford,Substitution,,0,0,164
+0022300469,424,PT03M31.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P1.PN) (A.Smith),Foul,Shooting,1,0,307
+0022300469,447,PT02M52.00S,3,1610612751,BKN,1630570,Watford,T. Watford,49,43,7,Missed,1,,,0,v,MISS Watford 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,322
+0022300469,456,PT02M09.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford STEAL (1 STL),,,1,0,333
+0022300469,500,PT11M06.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,359
+0022300469,501,PT11M03.00S,4,1610612751,BKN,1630570,Watford,T. Watford,27,25,4,Missed,1,,,0,v,MISS Watford 4' Running Layup,Missed Shot,Running Layup Shot,1,2,360
+0022300469,510,PT10M13.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,368
+0022300469,686,PT06M41.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford STEAL (2 STL),,,0,0,414
+0022300469,569,PT06M31.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,416
+0022300469,578,PT06M26.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Dinwiddie FOR Watford,Substitution,,0,0,424
+0022300469,629,PT02M31.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,462
+0022300469,632,PT02M31.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,109,93,202,v,Watford Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,464
+0022300469,637,PT02M31.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,109,94,203,v,Watford Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,467
+0022300469,669,PT01M08.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,112,97,209,v,Watford Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,489
+0022300469,670,PT01M08.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,MISS Watford Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,490
+0022300469,671,PT01M04.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,491
+0022300469,672,PT01M02.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-232,10,0,Made,1,112,100,212,v,Watford 3PT Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,3,492
+0022300498,731,PT00M18.90S,5,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Out of Bounds - Bad Pass Turnover Turnover (P1.T16),Turnover,Out of Bounds - Bad Pass Turnover,1,0,519
+0022300527,379,PT08M31.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford L.B.FOUL (P1.T3) (E.Dalen),Foul,Loose Ball,1,0,281
+0022300527,384,PT08M18.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,285
+0022300527,385,PT08M18.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,Made,1,62,41,103,v,Watford Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,286
+0022300527,388,PT07M55.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P2.T4) (M.Davis),Foul,Shooting,1,0,289
+0022300527,393,PT07M35.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,293
+0022300527,428,PT05M45.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford P.FOUL (P3.PN) (M.Davis),Foul,Personal,1,0,320
+0022300527,435,PT04M56.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,325
+0022300527,437,PT04M21.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford STEAL (1 STL),,,1,0,328
+0022300527,519,PT01M01.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,379
+0022300527,557,PT00M55.10S,3,1610612751,BKN,1630570,Watford,T. Watford,1,47,5,Made,1,76,58,134,v,Watford 5' Running Finger Roll Layup (4 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,380
+0022300527,530,PT11M49.00S,4,1610612751,BKN,1630570,Watford,T. Watford,7,4,1,Made,1,78,62,140,v,Watford 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,391
+0022300527,531,PT11M35.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P4.T1) (E.Dalen),Foul,Shooting,1,0,392
+0022300527,535,PT11M16.00S,4,1610612751,BKN,1630570,Watford,T. Watford,25,262,26,Missed,1,,,0,v,MISS Watford 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,395
+0022300527,573,PT09M03.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford P.FOUL (P5.T2) (J.Butler),Foul,Personal,1,0,423
+0022300527,760,PT09M03.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Bridges FOR Watford,Substitution,,0,0,424
+0022300527,680,PT02M05.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-31,88,9,Made,1,102,91,193,v,Watford 9' Turnaround Fadeaway (8 PTS),Made Shot,Turnaround Fadeaway shot,1,2,488
+0022300527,681,PT01M55.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P6.PN) (J.Butler),Foul,Shooting,1,0,489
+0022300527,685,PT01M55.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Watford,Substitution,,0,0,492
+0022300562,398,PT03M40.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,304
+0022300562,409,PT02M28.00S,3,1610612751,BKN,1630570,Watford,T. Watford,-10,-5,1,Missed,1,,,0,h,MISS Watford 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,311
+0022300562,432,PT00M32.20S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P1.PN) (M.Kallio),Foul,Shooting,1,0,327
+0022300562,439,PT00M11.50S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Claxton FOR Watford,Substitution,,0,0,332
+0022300578,126,PT02M00.00S,1,1610612751,BKN,1630570,Watford,T. Watford,45,243,25,Made,1,19,20,39,v,Watford 25' 3PT Jump Shot (3 PTS) (Smith Jr. 1 AST),Made Shot,Jump Shot,1,3,98
+0022300578,131,PT01M28.00S,1,1610612751,BKN,1630570,Watford,T. Watford,82,242,26,Made,1,19,23,42,v,Watford 26' 3PT Jump Shot (6 PTS) (Thomas 2 AST),Made Shot,Jump Shot,1,3,101
+0022300578,135,PT01M01.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Traveling Turnover (P1.T1),Turnover,Traveling,1,0,103
+0022300578,166,PT09M37.00S,2,1610612751,BKN,1630570,Watford,T. Watford,229,31,0,Missed,1,,,0,v,MISS Watford 3PT Jump Shot,Missed Shot,Jump Shot,1,3,125
+0022300578,168,PT09M27.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford P.FOUL (P1.T1) (R.Acosta),Foul,Personal,1,0,127
+0022300578,172,PT09M27.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Claxton FOR Watford,Substitution,,0,0,130
+0022300591,407,PT03M56.00S,3,1610612751,BKN,1630570,Watford,T. Watford,47,102,11,Missed,1,,,0,v,MISS Watford 11' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,293
+0022300591,417,PT02M43.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,300
+0022300591,426,PT02M06.00S,3,1610612751,BKN,1630570,Watford,T. Watford,232,39,24,Missed,1,,,0,v,MISS Watford 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,306
+0022300591,435,PT01M41.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Watford,Substitution,,0,0,314
+0022300600,120,PT02M08.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,94
+0022300600,129,PT01M07.00S,1,1610612751,BKN,1630570,Watford,T. Watford,32,37,5,Made,1,22,27,49,v,Watford 5' Alley Oop Layup (2 PTS) (Thomas 1 AST),Made Shot,Alley Oop Layup shot,1,2,102
+0022300600,132,PT00M39.00S,1,1610612751,BKN,1630570,Watford,T. Watford,233,11,0,Missed,1,,,0,v,MISS Watford 3PT Jump Shot,Missed Shot,Jump Shot,1,3,104
+0022300600,163,PT10M08.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford P.FOUL (P1.T1) (S.Foster),Foul,Personal,1,0,127
+0022300600,188,PT08M09.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Claxton FOR Watford,Substitution,,0,0,144
+0022300600,519,PT09M20.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-15,63,6,Missed,1,,,0,v,MISS Watford 6' Layup,Missed Shot,Layup Shot,1,2,383
+0022300600,544,PT07M56.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,402
+0022300600,552,PT06M29.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford STEAL (1 STL),,,1,0,409
+0022300600,564,PT06M07.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Dinwiddie FOR Watford,Substitution,,0,0,417
+0022300660,658,PT02M41.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P1.PN) (J.DeRosa),Foul,Shooting,1,0,493
+0022300660,667,PT02M14.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,500
+0022300660,668,PT02M03.00S,4,1610612751,BKN,1630570,Watford,T. Watford,10,8,1,Made,1,142,108,250,h,Watford 1' Cutting Layup Shot (2 PTS) (Clowney 1 AST),Made Shot,Cutting Layup Shot,1,2,501
+0022300660,675,PT01M18.00S,4,1610612751,BKN,1630570,Watford,T. Watford,18,269,27,Missed,1,,,0,h,MISS Watford 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,506
+0022300660,691,PT00M41.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P2.PN) (B.Forte),Foul,Shooting,1,0,518
+0022300677,87,PT05M10.00S,1,1610612751,BKN,1630570,Watford,T. Watford,17,7,2,Made,1,19,16,35,h,Watford 2' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,62
+0022300677,128,PT02M33.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford P.FOUL (P1.PN) (K.Lane),Foul,Personal,1,0,91
+0022300677,134,PT02M33.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Dinwiddie FOR Watford,Substitution,,0,0,96
+0022300698,607,PT07M29.00S,4,1610612751,BKN,1630570,Watford,T. Watford,1,31,3,Missed,1,,,0,v,MISS Watford 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,431
+0022300698,608,PT07M27.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,432
+0022300698,609,PT07M27.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,Made,1,92,117,209,v,Watford Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,433
+0022300698,620,PT06M56.00S,4,1610612751,BKN,1630570,Watford,T. Watford,146,223,27,Made,1,93,120,213,v,Watford 27' 3PT Jump Shot (5 PTS) (Giles III 1 AST),Made Shot,Jump Shot,1,3,442
+0022300698,664,PT03M20.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,476
+0022300698,667,PT03M02.00S,4,1610612751,BKN,1630570,Watford,T. Watford,4,-1,0,Made,1,107,133,240,v,Watford Dunk (7 PTS) (Giles III 2 AST),Made Shot,Dunk Shot,1,2,479
+0022300698,690,PT01M01.00S,4,1610612751,BKN,1630570,Watford,T. Watford,9,34,4,Made,1,121,136,257,v,Watford 4' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,494
+0022300698,692,PT00M49.90S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,496
+0022300720,133,PT01M26.00S,1,1610612751,BKN,1630570,Watford,T. Watford,-38,96,10,Missed,1,,,0,h,MISS Watford 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,98
+0022300750,224,PT07M51.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,151
+0022300750,225,PT07M51.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,Made,1,44,37,81,h,Watford Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,152
+0022300750,332,PT06M20.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Schroder FOR Watford,Substitution,,0,0,172
+0022300750,650,PT02M37.00S,4,1610612751,BKN,1630570,Watford,T. Watford,23,4,2,Made,1,116,92,208,h,Watford 2' Driving Layup (4 PTS) (Schroder 11 AST),Made Shot,Driving Layup Shot,1,2,446
+0022300750,667,PT01M03.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P1.PN) (B.Kennedy),Foul,Shooting,1,0,456
+0022300750,673,PT00M53.50S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,122,99,221,h,Watford Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,460
+0022300750,674,PT00M53.50S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,123,99,222,h,Watford Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,461
+0022300780,256,PT02M10.00S,2,1610612751,BKN,1630570,Watford,T. Watford,-159,227,28,Made,1,58,29,87,v,Watford 28' 3PT Jump Shot (3 PTS) (Smith Jr. 4 AST),Made Shot,Jump Shot,1,3,182
+0022300780,279,PT00M05.40S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Personal Take Foul (P1.T1) (J.Schroeder),Foul,Personal Take,1,0,199
+0022300780,362,PT06M02.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford P.FOUL (P2.T1) (D.Taylor),Foul,Personal,1,0,252
+0022300780,370,PT05M08.00S,3,1610612751,BKN,1630570,Watford,T. Watford,108,120,16,Missed,1,,,0,v,MISS Watford 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,258
+0022300780,385,PT04M04.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,87,47,134,v,Watford Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,269
+0022300780,386,PT04M04.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,87,48,135,v,Watford Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,270
+0022300780,400,PT02M49.00S,3,1610612751,BKN,1630570,Watford,T. Watford,20,26,3,Made,1,90,50,140,v,Watford 3' Cutting Layup Shot (7 PTS) (Bridges 3 AST),Made Shot,Cutting Layup Shot,1,2,282
+0022300780,425,PT00M56.60S,3,1610612751,BKN,1630570,Watford,T. Watford,58,46,7,Made,1,97,55,152,v,Watford 7' Cutting Layup Shot (9 PTS) (C. Johnson 2 AST),Made Shot,Cutting Layup Shot,1,2,301
+0022300780,436,PT00M15.80S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P3.T3) (J.Schroeder),Foul,Shooting,1,0,310
+0022300780,476,PT09M57.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,329
+0022300780,491,PT08M20.00S,4,1610612751,BKN,1630570,Watford,T. Watford,31,34,5,Missed,1,,,0,v,MISS Watford 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,339
+0022300780,523,PT06M15.00S,4,1610612751,BKN,1630570,Watford,T. Watford,66,110,13,Made,1,121,70,191,v,Watford 13' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,1,2,362
+0022300780,526,PT06M15.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,121,71,192,v,Watford Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,1,0,364
+0022300780,528,PT06M03.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P4.T2) (J.Goble),Foul,Shooting,1,0,366
+0022300780,538,PT05M00.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,374
+0022300780,542,PT04M29.00S,4,1610612751,BKN,1630570,Watford,T. Watford,112,232,26,Made,1,127,76,203,v,Watford 26' 3PT Jump Shot (15 PTS) (K. Johnson 2 AST),Made Shot,Jump Shot,1,3,378
+0022300795,631,PT03M35.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P1.T4) (S.Twardoski),Foul,Shooting,1,0,459
+0022300795,649,PT02M41.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,116,84,200,v,Watford Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,472
+0022300795,650,PT02M41.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,116,85,201,v,Watford Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,473
+0022300795,665,PT01M22.00S,4,1610612751,BKN,1630570,Watford,T. Watford,59,13,6,Made,1,119,92,211,v,Watford 6' Turnaround Hook Shot (4 PTS),Made Shot,Turnaround Hook Shot,1,2,484
+0022300830,591,PT05M17.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-234,17,0,Missed,1,,,0,v,MISS Watford 3PT Jump Shot,Missed Shot,Jump Shot,1,3,418
+0022300830,603,PT04M28.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,427
+0022300830,604,PT04M17.00S,4,1610612751,BKN,1630570,Watford,T. Watford,82,244,26,Made,1,77,107,184,v,Watford 26' 3PT Jump Shot (3 PTS) (Smith Jr. 3 AST),Made Shot,Jump Shot,1,3,428
+0022300830,619,PT03M02.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P1.PN) (C.Blair),Foul,Shooting,1,0,440
+0022300830,632,PT02M31.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P2.PN) (C.Blair),Foul,Shooting,1,0,451
+0022300833,121,PT02M02.00S,1,1610612751,BKN,1630570,Watford,T. Watford,-9,5,1,Made,1,27,19,46,v,Watford 1' Driving Finger Roll Layup (2 PTS) (Smith Jr. 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,84
+0022300833,125,PT02M02.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,27,20,47,v,Watford Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,86
+0022300833,134,PT00M49.40S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,," Foul : Double Personal - Watford (1 PF), Ingles (1 PF) (M.Ervin)",Foul,Double Personal,0,0,94
+0022300833,157,PT11M39.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,105
+0022300833,160,PT11M22.00S,2,1610612751,BKN,1630570,Watford,T. Watford,163,219,27,Missed,1,,,0,v,MISS Watford 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,108
+0022300833,177,PT09M51.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,122
+0022300833,181,PT09M44.00S,2,1610612751,BKN,1630570,Watford,T. Watford,-6,20,2,Made,1,37,30,67,v,Watford 2' Layup (5 PTS),Made Shot,Layup Shot,1,2,123
+0022300833,186,PT09M44.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,37,31,68,v,Watford Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,126
+0022300833,191,PT09M07.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,131
+0022300833,222,PT09M06.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Lost Ball Turnover (P2.T6),Turnover,Lost Ball,1,0,132
+0022300833,199,PT08M43.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: C. Johnson FOR Watford,Substitution,,0,0,138
+0022300833,414,PT04M50.00S,3,1610612751,BKN,1630570,Watford,T. Watford,-23,78,8,Made,1,78,53,131,v,Watford 8' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,1,2,286
+0022300833,426,PT03M40.00S,3,1610612751,BKN,1630570,Watford,T. Watford,32,55,6,Missed,1,,,0,v,MISS Watford 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,295
+0022300833,427,PT03M38.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,296
+0022300833,428,PT03M36.00S,3,1610612751,BKN,1630570,Watford,T. Watford,5,65,7,Missed,1,,,0,v,MISS Watford 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,297
+0022300833,442,PT03M09.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Out of Bounds - Bad Pass Turnover Turnover (P3.T15),Turnover,Out of Bounds - Bad Pass Turnover,1,0,307
+0022300833,452,PT02M12.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Lost Ball Turnover (P4.T16),Turnover,Lost Ball,1,0,316
+0022300833,460,PT02M04.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: C. Johnson FOR Watford,Substitution,,0,0,322
+0022300833,523,PT10M03.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,91,61,152,v,Watford Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,363
+0022300833,526,PT10M03.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,91,62,153,v,Watford Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,364
+0022300833,541,PT08M59.00S,4,1610612751,BKN,1630570,Watford,T. Watford,142,226,27,Missed,1,,,0,v,MISS Watford 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,377
+0022300833,580,PT06M31.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,405
+0022300833,583,PT06M31.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,100,70,170,v,Watford Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,407
+0022300833,586,PT06M31.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,100,71,171,v,Watford Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,409
+0022300833,594,PT05M32.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,414
+0022300833,599,PT05M00.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,418
+0022300833,600,PT04M51.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford OFF.Foul (P2) (D.Taylor),Foul,Offensive,1,0,419
+0022300833,602,PT04M51.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Offensive Foul Turnover (P5.T21),Turnover,Offensive Foul Turnover,1,0,420
+0022300833,607,PT04M34.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford L.B.FOUL (P3.PN) (M.Ervin),Foul,Loose Ball,1,0,424
+0022300833,644,PT01M01.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-190,33,19,Made,1,108,79,187,v,Watford 19' Jump Shot (14 PTS) (Bates-Diop 2 AST),Made Shot,Jump Shot,1,2,454
+0022300833,665,PT00M45.90S,4,1610612751,BKN,1630570,Watford,T. Watford,5,25,3,Missed,1,,,0,v,MISS Watford 3' Layup,Missed Shot,Layup Shot,0,2,457
+0022300833,666,PT00M44.90S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,458
+0022300833,667,PT00M44.90S,4,1610612751,BKN,1630570,Watford,T. Watford,2,10,1,Missed,1,,,0,v,MISS Watford 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,0,2,459
+0022300851,551,PT06M10.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P1.PN) (E.Dalen),Foul,Shooting,1,0,400
+0022300851,596,PT03M17.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford BLOCK (1 BLK),,,1,2,433
+0022300851,604,PT02M40.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P2.PN) (E.Dalen),Foul,Shooting,1,0,439
+0022300851,612,PT01M51.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-6,30,3,Made,1,122,95,217,h,Watford 3' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,444
+0022300851,621,PT01M14.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,451
+0022300866,679,PT00M54.40S,4,1610612751,BKN,1630570,Watford,T. Watford,20,3,2,Made,1,114,100,214,h,Watford 2' Reverse Layup (2 PTS),Made Shot,Reverse Layup Shot,1,2,494
+0022300887,100,PT03M17.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford BLOCK (1 BLK),,,1,2,72
+0022300887,107,PT02M59.00S,1,1610612751,BKN,1630570,Watford,T. Watford,17,13,2,Missed,1,,,0,h,MISS Watford 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,76
+0022300887,128,PT02M04.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,91
+0022300887,155,PT00M01.90S,1,1610612751,BKN,1630570,Watford,T. Watford,-125,218,25,Missed,1,,,0,h,MISS Watford 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,110
+0022300887,157,PT00M01.90S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,112
+0022300887,158,PT00M00.00S,1,1610612751,BKN,1630570,Watford,T. Watford,-121,225,26,Missed,1,,,0,h,MISS Watford 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,113
+0022300887,170,PT11M22.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford BLOCK (2 BLK),,,1,2,122
+0022300887,172,PT11M19.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,123
+0022300887,173,PT11M02.00S,2,1610612751,BKN,1630570,Watford,T. Watford,17,74,8,Missed,1,,,0,h,MISS Watford 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,124
+0022300887,178,PT10M45.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Johnson FOR Watford,Substitution,,0,0,128
+0022300887,277,PT03M55.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,201
+0022300887,288,PT02M54.00S,2,1610612751,BKN,1630570,Watford,T. Watford,-11,118,12,Missed,1,,,0,h,MISS Watford 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,209
+0022300887,297,PT01M49.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,216
+0022300887,307,PT01M28.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P1.T2) (J.Sterling),Foul,Shooting,1,0,223
+0022300887,320,PT00M45.60S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Walker IV FOR Watford,Substitution,,0,0,233
+0022300887,472,PT01M41.00S,3,1610612751,BKN,1630570,Watford,T. Watford,38,66,8,Made,1,75,77,152,h,Watford 8' Driving Floating Jump Shot (2 PTS) (Schroder 5 AST),Made Shot,Driving Floating Jump Shot,1,2,338
+0022300902,82,PT04M39.00S,1,1610612751,BKN,1630570,Watford,T. Watford,-33,4,3,Missed,1,,,0,v,MISS Watford 3' Running Layup,Missed Shot,Running Layup Shot,1,2,59
+0022300902,115,PT02M14.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Traveling Turnover (P1.T5),Turnover,Traveling,1,0,84
+0022300902,120,PT01M44.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Traveling Turnover (P2.T6),Turnover,Traveling,1,0,88
+0022300902,146,PT00M12.10S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Walker IV FOR Watford,Substitution,,0,0,105
+0022300902,268,PT02M47.00S,2,1610612751,BKN,1630570,Watford,T. Watford,28,8,3,Made,1,49,48,97,v,Watford 3' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,192
+0022300902,291,PT00M04.50S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,210
+0022300902,292,PT00M02.10S,2,1610612751,BKN,1630570,Watford,T. Watford,-28,6,3,Made,1,54,57,111,v,Watford 3' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,211
+0022300902,408,PT03M01.00S,3,1610612751,BKN,1630570,Watford,T. Watford,16,42,4,Missed,1,,,0,v,MISS Watford 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,298
+0022300902,427,PT01M51.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Claxton FOR Watford,Substitution,,0,0,312
+0022300902,537,PT07M15.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,381
+0022300902,551,PT06M32.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,98,97,195,v,Watford Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,393
+0022300902,552,PT06M32.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,98,98,196,v,Watford Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,394
+0022300902,563,PT05M50.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Claxton FOR Watford,Substitution,,0,0,401
+0022300918,125,PT01M33.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P1.T2) (A.Smith),Foul,Shooting,1,0,91
+0022300918,130,PT01M15.00S,1,1610612751,BKN,1630570,Watford,T. Watford,50,56,8,Missed,1,,,0,v,MISS Watford 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,95
+0022300918,217,PT06M54.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P2.T1) (A.Smith),Foul,Shooting,1,0,153
+0022300918,225,PT06M37.00S,2,1610612751,BKN,1630570,Watford,T. Watford,-4,-6,1,Made,1,45,45,90,v,Watford 1' Cutting Layup Shot (2 PTS) (Bridges 2 AST),Made Shot,Cutting Layup Shot,0,2,158
+0022300918,247,PT04M49.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,257,26,Missed,1,,,0,v,MISS Watford 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,176
+0022300918,252,PT04M08.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P3.T2) (P.Fraher),Foul,Shooting,1,0,180
+0022300918,255,PT04M08.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Claxton FOR Watford,Substitution,,0,0,182
+0022300918,442,PT01M24.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,321
+0022300918,445,PT01M24.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,MISS Watford Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,323
+0022300918,447,PT01M24.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,88,78,166,v,Watford Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,325
+0022300918,452,PT00M25.10S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,329
+0022300918,457,PT00M02.80S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Schroder FOR Watford,Substitution,,0,0,333
+0022300918,488,PT09M59.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,353
+0022300918,502,PT08M58.00S,4,1610612751,BKN,1630570,Watford,T. Watford,6,88,9,Missed,1,,,0,v,MISS Watford 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,364
+0022300918,503,PT08M55.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,365
+0022300918,504,PT08M55.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,Missed,1,,,0,v,MISS Watford Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,366
+0022300918,515,PT08M32.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Lost Ball Turnover (P1.T14),Turnover,Lost Ball,1,0,373
+0022300918,523,PT07M25.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-229,11,0,Made,1,96,90,186,v,Watford 3PT Jump Shot (6 PTS) (Wilson 1 AST),Made Shot,Jump Shot,1,3,381
+0022300918,526,PT07M07.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,383
+0022300918,532,PT07M00.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Thomas FOR Watford,Substitution,,0,0,388
+0022300930,608,PT00M37.20S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,430
+0022300947,636,PT01M47.00S,4,1610612751,BKN,1630570,Watford,T. Watford,25,19,3,Made,1,112,102,214,v,Watford 3' Driving Layup (2 PTS) (Wilson 2 AST),Made Shot,Driving Layup Shot,1,2,459
+0022300947,651,PT01M08.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-97,6,10,Made,1,114,104,218,v,Watford 10' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,1,2,467
+0022300947,653,PT00M45.80S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford BLOCK (1 BLK),,,1,3,469
+0022300947,654,PT00M43.40S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,470
+0022300947,659,PT00M35.40S,4,1610612751,BKN,1630570,Watford,T. Watford,-2,29,3,Made,1,114,106,220,v,Watford 3' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,474
+0022300968,93,PT04M46.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford BLOCK (1 BLK),,,1,2,69
+0022300968,135,PT02M16.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,18,21,39,v,Watford Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,98
+0022300968,138,PT02M16.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,18,22,40,v,Watford Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,100
+0022300968,151,PT00M49.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,20,28,48,v,Watford Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,111
+0022300968,152,PT00M49.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,MISS Watford Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,112
+0022300968,501,PT01M54.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford STEAL (1 STL),,,1,0,376
+0022300968,503,PT01M51.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Bad Pass Turnover (P1.T15),Turnover,Bad Pass,1,0,377
+0022300968,528,PT00M36.60S,3,1610612751,BKN,1630570,Watford,T. Watford,10,0,1,Made,1,86,75,161,v,Watford 1' Driving Finger Roll Layup (5 PTS) (Smith Jr. 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,397
+0022300968,531,PT00M36.60S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,86,76,162,v,Watford Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,399
+0022300968,537,PT00M05.70S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Claxton FOR Watford,Substitution,,0,0,404
+0022300968,553,PT11M50.00S,4,1610612751,BKN,1630570,Watford,T. Watford,2,12,1,Made,1,86,80,166,v,Watford 1' Cutting Layup Shot (8 PTS) (Smith Jr. 2 AST),Made Shot,Cutting Layup Shot,1,2,411
+0022300968,561,PT11M00.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford L.B.FOUL (P1.T1) (E.Scott),Foul,Loose Ball,1,0,417
+0022300968,578,PT09M12.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Johnson FOR Watford,Substitution,,0,0,430
+0022300968,649,PT03M34.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-31,38,5,Missed,1,,,0,v,MISS Watford 5' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,481
+0022300968,670,PT02M37.00S,4,1610612751,BKN,1630570,Watford,T. Watford,11,1,1,Missed,1,,,0,v,MISS Watford 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,497
+0022300968,689,PT00M47.00S,4,1610612751,BKN,1630570,Watford,T. Watford,7,1,1,Missed,1,,,0,v,MISS Watford 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,512
+0022300968,692,PT00M41.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford STEAL (2 STL),,,1,0,516
+0022300968,696,PT00M37.30S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,121,97,218,v,Watford Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,518
+0022300968,697,PT00M37.30S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,121,98,219,v,Watford Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,519
+0022300968,699,PT00M07.20S,4,1610612751,BKN,1630570,Watford,T. Watford,-6,10,1,Made,1,121,100,221,v,Watford 1' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,521
+0022300993,603,PT01M43.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,440
+0022300993,608,PT00M55.70S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P1.T3) (M.Dagher),Foul,Shooting,1,0,444
+0022300993,620,PT00M41.20S,4,1610612751,BKN,1630570,Watford,T. Watford,-103,29,11,Missed,1,,,0,h,MISS Watford 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,451
+0022301007,182,PT07M01.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,132
+0022301007,183,PT07M01.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,Missed,1,,,0,v,MISS Watford Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,133
+0022301007,203,PT05M49.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Bridges FOR Watford,Substitution,,0,0,149
+0022301007,447,PT11M36.00S,4,1610612751,BKN,1630570,Watford,T. Watford,45,29,5,Made,1,81,71,152,v,Watford 5' Driving Layup (2 PTS) (Claxton 1 AST),Made Shot,Driving Layup Shot,1,2,325
+0022301007,452,PT11M36.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,81,72,153,v,Watford Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,328
+0022301007,457,PT11M06.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-2,6,1,Missed,1,,,0,v,MISS Watford 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,331
+0022301007,465,PT10M32.00S,4,1610612751,BKN,1630570,Watford,T. Watford,4,88,9,Missed,1,,,0,v,MISS Watford 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,338
+0022301007,466,PT10M30.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,339
+0022301007,467,PT10M29.00S,4,1610612751,BKN,1630570,Watford,T. Watford,7,125,13,Missed,1,,,0,v,MISS Watford 13' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,340
+0022301007,468,PT10M27.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,341
+0022301007,482,PT09M42.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Johnson FOR Watford,Substitution,,0,0,352
+0022301019,581,PT01M54.00S,4,1610612751,BKN,1630570,Watford,T. Watford,158,196,25,Made,1,104,89,193,v,Watford 25' 3PT Jump Shot (3 PTS) (Smith Jr. 1 AST),Made Shot,Jump Shot,1,3,431
+0022301019,585,PT01M37.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,433
+0022301019,588,PT01M13.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P1.T3) (K.Lane),Foul,Shooting,1,0,435
+0022301019,592,PT01M11.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,438
+0022301036,78,PT04M55.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford L.B.FOUL (P1.T1) (K.Scott),Foul,Loose Ball,1,0,59
+0022301036,121,PT02M53.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Bridges FOR Watford,Substitution,,0,0,88
+0022301036,237,PT05M18.00S,2,1610612751,BKN,1630570,Watford,T. Watford,37,53,6,Made,1,33,34,67,v,Watford 6' Driving Floating Jump Shot (2 PTS) (Wilson 2 AST),Made Shot,Driving Floating Jump Shot,1,2,173
+0022301036,241,PT04M55.00S,2,1610612751,BKN,1630570,Watford,T. Watford,194,152,25,Missed,1,,,0,v,MISS Watford 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,176
+0022301036,249,PT04M45.00S,2,1610612751,BKN,1630570,Watford,T. Watford,62,52,8,Missed,1,,,0,v,MISS Watford 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,181
+0022301036,255,PT04M22.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,33,35,68,v,Watford Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,186
+0022301036,256,PT04M22.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,MISS Watford Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,187
+0022301036,259,PT04M16.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,190
+0022301036,260,PT04M16.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,Made,1,33,37,70,v,Watford Putback Layup (5 PTS),Made Shot,Putback Layup Shot,1,2,191
+0022301036,262,PT04M01.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,193
+0022301036,270,PT03M24.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,198
+0022301036,271,PT03M10.00S,2,1610612751,BKN,1630570,Watford,T. Watford,230,89,25,Made,1,33,42,75,v,Watford 25' 3PT Jump Shot (8 PTS) (Claxton 1 AST),Made Shot,Jump Shot,1,3,199
+0022301036,275,PT02M55.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P2.T1) (B.Adair),Foul,Shooting,1,0,201
+0022301036,282,PT02M21.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Out of Bounds - Bad Pass Turnover Turnover (P1.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,206
+0022301036,296,PT00M46.50S,2,1610612751,BKN,1630570,Watford,T. Watford,34,64,7,Made,1,40,48,88,v,Watford 7' Turnaround Jump Shot (10 PTS),Made Shot,Turnaround Jump Shot,1,2,216
+0022301036,299,PT00M46.50S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,40,49,89,v,Watford Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,218
+0022301036,375,PT05M38.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford OFF.Foul (P3) (M.Smith),Foul,Offensive,1,0,273
+0022301036,377,PT05M38.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Offensive Foul Turnover (P2.T14),Turnover,Offensive Foul Turnover,1,0,274
+0022301036,380,PT05M26.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,277
+0022301036,385,PT05M07.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,282
+0022301036,432,PT01M34.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Lost Ball Turnover (P3.T16),Turnover,Lost Ball,1,0,315
+0022301036,435,PT01M28.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Bridges FOR Watford,Substitution,,0,0,318
+0022301036,461,PT11M22.00S,4,1610612751,BKN,1630570,Watford,T. Watford,1,18,2,Made,1,71,70,141,v,Watford 2' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,2,335
+0022301036,472,PT10M37.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-235,-14,24,Missed,1,,,0,v,MISS Watford 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,340
+0022301036,474,PT10M29.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Bad Pass Turnover (P4.T17),Turnover,Bad Pass,1,0,342
+0022301036,481,PT10M19.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,MISS Watford Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,348
+0022301036,483,PT10M19.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,73,71,144,v,Watford Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,350
+0022301036,492,PT09M39.00S,4,1610612751,BKN,1630570,Watford,T. Watford,225,2,0,Made,1,73,74,147,v,Watford 3PT Jump Shot (17 PTS) (Bridges 3 AST),Made Shot,Jump Shot,1,3,357
+0022301036,494,PT09M23.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P4.T1) (M.Smith),Foul,Shooting,1,0,358
+0022301036,509,PT08M40.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,368
+0022301036,512,PT08M11.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P5.T2) (K.Scott),Foul,Shooting,1,0,371
+0022301036,517,PT08M11.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Clowney FOR Watford,Substitution,,0,0,375
+0022301036,597,PT01M54.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,429
+0022301036,598,PT01M35.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-10,118,12,Made,1,81,92,173,v,Watford 12' Floating Jump Shot (19 PTS) (Finney-Smith 3 AST),Made Shot,Floating Jump shot,1,2,430
+0022301050,86,PT03M20.00S,1,1610612751,BKN,1630570,Watford,T. Watford,26,51,6,Made,1,25,21,46,v,Watford 6' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,1,2,64
+0022301050,103,PT01M45.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford STEAL (1 STL),,,1,0,77
+0022301050,105,PT01M43.00S,1,1610612751,BKN,1630570,Watford,T. Watford,20,1,2,Missed,1,,,0,v,MISS Watford 2' Running Layup,Missed Shot,Running Layup Shot,1,2,78
+0022301050,175,PT09M58.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Schroder FOR Watford,Substitution,,0,0,126
+0022301050,386,PT05M23.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P1.T1) (S.Corbin),Foul,Shooting,1,0,279
+0022301050,394,PT04M38.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford BLOCK (1 BLK),,,1,2,286
+0022301050,436,PT02M32.00S,3,1610612751,BKN,1630570,Watford,T. Watford,-1,17,2,Made,1,85,85,170,v,Watford 2' Driving Layup (4 PTS) (Gilyard 1 AST),Made Shot,Driving Layup Shot,1,2,318
+0022301050,442,PT01M52.00S,3,1610612751,BKN,1630570,Watford,T. Watford,104,243,26,Made,1,85,88,173,v,Watford 26' 3PT Jump Shot (7 PTS) (Bridges 3 AST),Made Shot,Jump Shot,1,3,323
+0022301050,447,PT01M09.00S,3,1610612751,BKN,1630570,Watford,T. Watford,48,33,6,Made,1,88,90,178,v,Watford 6' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,326
+0022301050,505,PT09M48.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,361
+0022301050,512,PT09M18.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,366
+0022301050,517,PT08M47.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P2.T1) (S.Corbin),Foul,Shooting,1,0,370
+0022301050,530,PT07M46.00S,4,1610612751,BKN,1630570,Watford,T. Watford,104,249,27,Made,1,99,102,201,v,Watford 27' 3PT Jump Shot (12 PTS) (Schroder 8 AST),Made Shot,Jump Shot,1,3,380
+0022301050,535,PT07M04.00S,4,1610612751,BKN,1630570,Watford,T. Watford,232,73,24,Missed,1,,,0,v,MISS Watford 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,383
+0022301050,547,PT06M24.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Finney-Smith FOR Watford,Substitution,,0,0,393
+0022301050,599,PT00M10.30S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,434
+0022301066,84,PT04M56.00S,1,1610612751,BKN,1630570,Watford,T. Watford,118,215,25,Missed,1,,,0,h,MISS Watford 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,61
+0022301066,87,PT04M38.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,64
+0022301066,100,PT04M06.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,72
+0022301066,101,PT04M06.00S,1,1610612751,BKN,1630570,Watford,T. Watford,11,13,2,Made,1,16,9,25,h,Watford 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,73
+0022301066,106,PT04M06.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,17,9,26,h,Watford Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,76
+0022301066,160,PT01M05.00S,1,1610612751,BKN,1630570,Watford,T. Watford,-229,-12,0,Made,1,27,18,45,h,Watford 3PT Jump Shot (6 PTS) (Walker IV 1 AST),Made Shot,Jump Shot,1,3,116
+0022301066,183,PT11M14.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford STEAL (1 STL),,,1,0,135
+0022301066,215,PT09M11.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,160
+0022301066,230,PT07M41.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P1.T2) (M.Boland),Foul,Shooting,1,0,174
+0022301066,242,PT07M22.00S,2,1610612751,BKN,1630570,Watford,T. Watford,233,41,24,Missed,1,,,0,h,MISS Watford 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,181
+0022301066,245,PT06M58.00S,2,1610612751,BKN,1630570,Watford,T. Watford,7,38,4,Made,1,33,35,68,h,Watford 4' Layup (8 PTS),Made Shot,Layup Shot,1,2,184
+0022301066,255,PT06M07.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Thomas FOR Watford,Substitution,,0,0,192
+0022301066,431,PT03M32.00S,3,1610612751,BKN,1630570,Watford,T. Watford,-45,90,10,Missed,1,,,0,h,MISS Watford 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,325
+0022301066,439,PT03M11.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,332
+0022301066,442,PT02M46.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford STEAL (2 STL),,,1,0,335
+0022301066,448,PT02M27.00S,3,1610612751,BKN,1630570,Watford,T. Watford,-31,47,6,Missed,1,,,0,h,MISS Watford 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,340
+0022301066,474,PT00M49.40S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford T.FOUL (P1.T4) (T.Washington),Foul,Technical,0,0,360
+0022301066,476,PT00M49.40S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,83,80,163,h,Watford Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,362
+0022301066,477,PT00M49.40S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,84,80,164,h,Watford Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,363
+0022301066,494,PT11M28.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford P.FOUL (P2.T1) (M.Boland),Foul,Personal,1,0,371
+0022301066,511,PT09M19.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,384
+0022301066,527,PT08M22.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,97,91,188,h,Watford Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,395
+0022301066,530,PT08M22.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,MISS Watford Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,397
+0022301066,541,PT07M02.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Schroder FOR Watford,Substitution,,0,0,406
+0022301078,73,PT06M27.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford P.FOUL (P1.T3) (K.Scott),Foul,Personal,1,0,51
+0022301078,80,PT06M18.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,55
+0022301078,81,PT06M10.00S,1,1610612751,BKN,1630570,Watford,T. Watford,-11,67,7,Missed,1,,,0,h,MISS Watford 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,56
+0022301078,109,PT03M52.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,77
+0022301078,119,PT03M07.00S,1,1610612751,BKN,1630570,Watford,T. Watford,16,71,7,Missed,1,,,0,h,MISS Watford 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,84
+0022301078,146,PT01M15.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,104
+0022301078,177,PT11M12.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,126
+0022301078,178,PT11M02.00S,2,1610612751,BKN,1630570,Watford,T. Watford,17,13,2,Made,1,16,34,50,h,Watford 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,127
+0022301078,180,PT10M40.00S,2,1610612751,BKN,1630570,Watford,T. Watford,9,21,2,Made,1,18,37,55,h,Watford 2' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,129
+0022301078,191,PT09M35.00S,2,1610612751,BKN,1630570,Watford,T. Watford,115,243,27,Made,1,23,40,63,h,Watford 27' 3PT Pullup Jump Shot (7 PTS) (Thomas 3 AST),Made Shot,Pullup Jump shot,1,3,137
+0022301078,203,PT08M33.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Finney-Smith FOR Watford,Substitution,,0,0,146
+0022301078,391,PT05M54.00S,3,1610612751,BKN,1630570,Watford,T. Watford,23,-2,2,Made,1,65,82,147,h,Watford 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,283
+0022301078,401,PT05M18.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Traveling Turnover (P1.T9),Turnover,Traveling,1,0,290
+0022301078,431,PT03M36.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,309
+0022301078,432,PT03M24.00S,3,1610612751,BKN,1630570,Watford,T. Watford,28,20,3,Made,1,70,86,156,h,Watford 3' Turnaround Jump Shot (11 PTS),Made Shot,Turnaround Jump Shot,1,2,310
+0022301078,433,PT03M03.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford BLOCK (1 BLK),,,1,2,312
+0022301078,444,PT02M24.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,0,321
+0022301078,454,PT01M54.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford STEAL (1 STL),,,1,0,330
+0022301078,456,PT01M46.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,0,331
+0022301078,460,PT01M38.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford L.B.FOUL (P2.PN) (N.Sago),Foul,Loose Ball,1,0,335
+0022301078,485,PT00M02.30S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,352
+0022301078,486,PT00M00.00S,3,1610612751,BKN,1630570,Watford,T. Watford,15,0,2,Made,1,79,90,169,h,Watford 2' Tip Layup Shot (13 PTS),Made Shot,Tip Layup Shot,1,2,353
+0022301078,511,PT10M10.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P3.T1) (N.Sago),Foul,Shooting,1,0,365
+0022301078,524,PT09M42.00S,4,1610612751,BKN,1630570,Watford,T. Watford,16,4,2,Made,1,87,97,184,h,Watford 2' Driving Finger Roll Layup (15 PTS) (Bridges 4 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,374
+0022301078,557,PT06M52.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,400
+0022301078,560,PT05M59.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-233,57,24,Missed,1,,,0,h,MISS Watford 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,403
+0022301078,567,PT05M14.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,410
+0022301078,573,PT05M10.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Johnson FOR Watford,Substitution,,0,0,414
+0022301089,100,PT04M37.00S,1,1610612751,BKN,1630570,Watford,T. Watford,17,34,4,Made,1,30,15,45,v,Watford 4' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,69
+0022301089,118,PT03M28.00S,1,1610612751,BKN,1630570,Watford,T. Watford,-28,15,3,Made,1,30,17,47,v,Watford 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,81
+0022301089,158,PT00M31.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,22,2,Made,1,41,25,66,v,Watford 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,110
+0022301089,180,PT11M43.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford P.FOUL (P1.T1) (S.Wall),Foul,Personal,1,0,125
+0022301089,211,PT09M38.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Bridges FOR Watford,Substitution,,0,0,148
+0022301089,264,PT06M51.00S,2,1610612751,BKN,1630570,Watford,T. Watford,94,36,10,Made,1,60,37,97,v,Watford 10' Driving Floating Bank Jump Shot (8 PTS) (Bridges 2 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,185
+0022301089,286,PT04M54.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford OFF.Foul (P2) (E.Malloy),Foul,Offensive,1,0,201
+0022301089,288,PT04M54.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,202
+0022301089,293,PT04M45.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,205
+0022301089,309,PT03M48.00S,2,1610612751,BKN,1630570,Watford,T. Watford,140,227,27,Missed,1,,,0,v,MISS Watford 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,217
+0022301089,328,PT02M53.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford STEAL (1 STL),,,1,0,237
+0022301089,351,PT01M05.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,MISS Watford Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,253
+0022301089,355,PT01M05.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,MISS Watford Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,256
+0022301089,357,PT00M51.70S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P3.PN) (S.Wall),Foul,Shooting,1,0,258
+0022301089,373,PT00M49.10S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,73,47,120,v,Watford Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,269
+0022301089,374,PT00M49.10S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,MISS Watford Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,270
+0022301089,477,PT05M34.00S,3,1610612751,BKN,1630570,Watford,T. Watford,-45,41,6,Made,1,88,66,154,v,Watford 6' Fadeaway Jumper (11 PTS) (Bridges 5 AST),Made Shot,Fadeaway Jump Shot,1,2,342
+0022301089,491,PT04M29.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Out of Bounds Lost Ball Turnover (P2.T8),Turnover,Out of Bounds Lost Ball Turnover,1,0,350
+0022301089,499,PT04M11.00S,3,1610612751,BKN,1630570,Watford,T. Watford,-27,-4,3,Missed,1,,,0,v,MISS Watford 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,355
+0022301089,523,PT02M38.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford OFF.Foul (P4) (E.Malloy),Foul,Offensive,1,0,370
+0022301089,525,PT02M38.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Offensive Foul Turnover (P3.T10),Turnover,Offensive Foul Turnover,1,0,371
+0022301089,528,PT02M25.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford BLOCK (1 BLK),,,1,2,374
+0022301089,580,PT11M48.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Lost Ball Turnover (P4.T13),Turnover,Lost Ball,1,0,408
+0022301089,642,PT06M36.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-103,58,12,Missed,1,,,0,v,MISS Watford 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,455
+0022301089,708,PT06M33.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,458
+0022301089,644,PT06M31.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-6,21,2,Made,1,125,92,217,v,Watford 2' Putback Layup (13 PTS),Made Shot,Putback Layup Shot,1,2,459
+0022301089,653,PT05M23.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-40,100,11,Made,1,125,96,221,v,Watford 11' Driving Floating Jump Shot (15 PTS) (Walker IV 2 AST),Made Shot,Driving Floating Jump Shot,1,2,467
+0022301089,656,PT05M23.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,125,97,222,v,Watford Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,1,0,469
+0022301089,667,PT04M27.00S,4,1610612751,BKN,1630570,Watford,T. Watford,124,232,26,Made,1,127,100,227,v,Watford 26' 3PT Jump Shot (19 PTS) (Wilson 1 AST),Made Shot,Jump Shot,1,3,477
+0022301089,682,PT03M48.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,127,103,230,v,Watford Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,487
+0022301089,683,PT03M48.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,127,104,231,v,Watford Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,488
+0022301106,117,PT02M51.00S,1,1610612751,BKN,1630570,Watford,T. Watford,38,18,4,Missed,1,,,0,h,MISS Watford 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,83
+0022301106,121,PT02M50.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Jump Ball Watford vs. Haliburton: Tip to Clowney,Jump Ball,,1,0,86
+0022301106,132,PT02M13.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,14,23,37,h,Watford Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,94
+0022301106,133,PT02M13.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,15,23,38,h,Watford Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,95
+0022301106,148,PT01M53.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,101
+0022301106,158,PT01M11.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,110
+0022301106,159,PT01M01.00S,1,1610612751,BKN,1630570,Watford,T. Watford,21,8,2,Made,1,18,29,47,h,Watford 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,111
+0022301106,172,PT00M23.40S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Bridges FOR Watford,Substitution,,0,0,120
+0022301106,235,PT07M54.00S,2,1610612751,BKN,1630570,Watford,T. Watford,25,13,3,Missed,1,,,0,h,MISS Watford 3' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,162
+0022301106,260,PT06M56.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Finney-Smith FOR Watford,Substitution,,0,0,176
+0022301106,514,PT01M21.00S,3,1610612751,BKN,1630570,Watford,T. Watford,-40,43,6,Missed,1,,,0,h,MISS Watford 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,364
+0022301128,88,PT04M04.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford OFF.Foul (P1) (T.Brothers),Foul,Offensive,1,0,68
+0022301128,90,PT04M04.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,69
+0022301128,114,PT02M39.00S,1,1610612751,BKN,1630570,Watford,T. Watford,64,43,8,Made,1,18,30,48,h,Watford 8' Driving Floating Bank Jump Shot (2 PTS) (Thomas 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,83
+0022301128,124,PT01M44.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,91
+0022301128,125,PT01M38.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,92
+0022301128,127,PT01M35.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P2.T1) (T.Brothers),Foul,Shooting,1,0,94
+0022301128,138,PT01M29.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,19,33,52,h,Watford Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,101
+0022301128,139,PT01M29.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,20,33,53,h,Watford Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,102
+0022301128,142,PT00M49.60S,1,1610612751,BKN,1630570,Watford,T. Watford,-43,164,17,Missed,1,,,0,h,MISS Watford 17' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,105
+0022301128,151,PT11M37.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0,113
+0022301128,160,PT11M12.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Schroder FOR Watford,Substitution,,0,0,119
+0022301128,375,PT03M52.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,MISS Watford Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,279
+0022301128,381,PT03M52.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,69,78,147,h,Watford Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,283
+0022301128,404,PT01M53.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Lost Ball Turnover (P4.T16),Turnover,Lost Ball,1,0,303
+0022301128,405,PT01M53.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford L.B.FOUL (P3.T3) (T.Brothers),Foul,Loose Ball,1,0,304
+0022301128,423,PT00M44.50S,3,1610612751,BKN,1630570,Watford,T. Watford,37,18,4,Made,1,73,83,156,h,Watford 4' Driving Floating Bank Jump Shot (7 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,315
+0022301128,425,PT00M33.60S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,317
+0022301128,478,PT08M38.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Finney-Smith FOR Watford,Substitution,,0,0,351
+0022301141,104,PT04M47.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford BLOCK (1 BLK),,,1,2,78
+0022301141,106,PT04M44.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,79
+0022301141,114,PT03M54.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P1.T4) (S.Wright),Foul,Shooting,1,0,86
+0022301141,141,PT02M13.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,108
+0022301141,147,PT01M50.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,115
+0022301141,148,PT01M50.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,Made,1,17,19,36,h,Watford Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,2,116
+0022301141,165,PT00M52.70S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,127
+0022301141,178,PT00M09.20S,1,1610612751,BKN,1630570,Watford,T. Watford,9,54,5,Made,1,19,27,46,h,Watford 5' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,138
+0022301141,199,PT10M34.00S,2,1610612751,BKN,1630570,Watford,T. Watford,7,31,3,Made,1,26,33,59,h,Watford 3' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,152
+0022301141,211,PT09M35.00S,2,1610612751,BKN,1630570,Watford,T. Watford,48,13,5,Missed,1,,,0,h,MISS Watford 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,162
+0022301141,217,PT09M00.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Schroder FOR Watford,Substitution,,0,0,167
+0022301141,236,PT07M07.00S,2,1610612751,BKN,1630570,Watford,T. Watford,53,272,28,Made,1,31,44,75,h,Watford 28' 3PT Jump Shot (9 PTS) (Wilson 2 AST),Made Shot,Jump Shot,1,3,178
+0022301141,240,PT06M43.00S,2,1610612751,BKN,1630570,Watford,T. Watford,158,218,27,Made,1,34,44,78,h,Watford 27' 3PT Running Jump Shot (12 PTS) (Schroder 3 AST),Made Shot,Running Jump Shot,1,3,181
+0022301141,257,PT05M50.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P2.T1) (S.Wright),Foul,Shooting,1,0,193
+0022301141,292,PT02M24.00S,2,1610612751,BKN,1630570,Watford,T. Watford,21,11,2,Missed,1,,,0,h,MISS Watford 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,219
+0022301141,297,PT01M49.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,225
+0022301141,309,PT00M49.90S,2,1610612751,BKN,1630570,Watford,T. Watford,-212,26,21,Missed,1,,,0,h,MISS Watford 21' Jump Shot,Missed Shot,Jump Shot,1,2,235
+0022301141,438,PT02M54.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Out of Bounds - Bad Pass Turnover Turnover (P2.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,325
+0022301141,449,PT01M52.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,333
+0022301141,450,PT01M33.00S,3,1610612751,BKN,1630570,Watford,T. Watford,-229,101,25,Missed,1,,,0,h,MISS Watford 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,334
+0022301141,454,PT01M29.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,338
+0022301141,455,PT01M26.00S,3,1610612751,BKN,1630570,Watford,T. Watford,-7,13,1,Missed,1,,,0,h,MISS Watford 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,339
+0022301141,480,PT00M03.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford P.FOUL (P3.T3) (S.Mitchell),Foul,Personal,1,0,357
+0022301141,490,PT11M32.00S,4,1610612751,BKN,1630570,Watford,T. Watford,234,30,24,Missed,1,,,0,h,MISS Watford 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,363
+0022301141,500,PT10M52.00S,4,1610612751,BKN,1630570,Watford,T. Watford,93,30,10,Missed,1,,,0,h,MISS Watford 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,370
+0022301141,515,PT09M19.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,384
+0022301141,527,PT08M55.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,0,393
+0022301141,538,PT08M04.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-7,31,3,Missed,1,,,0,h,MISS Watford 3' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,401
+0022301141,559,PT06M19.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-23,56,6,Missed,1,,,0,h,MISS Watford 6' Jump Shot,Missed Shot,Jump Shot,1,2,417
+0022301141,564,PT05M57.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-223,-23,0,Missed,1,,,0,h,MISS Watford 3PT Jump Shot,Missed Shot,Jump Shot,1,3,421
+0022301141,568,PT05M52.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-33,5,3,Missed,1,,,0,h,MISS Watford 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,424
+0022301141,571,PT05M25.00S,4,1610612751,BKN,1630570,Watford,T. Watford,26,14,3,Made,1,72,96,168,h,Watford 3' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,2,427
+0022301141,585,PT03M50.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-15,88,9,Made,1,74,96,170,h,Watford 9' Driving Floating Jump Shot (16 PTS),Made Shot,Driving Floating Jump Shot,1,2,439
+0022301141,586,PT03M36.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Personal Take Foul (P4.T2) (S.Wright),Foul,Personal Take,1,0,440
+0022301141,628,PT01M04.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford Bad Pass Turnover (P4.T17),Turnover,Bad Pass,1,0,469
+0022301160,148,PT00M31.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P1.T2) (B.Schwab),Foul,Shooting,1,0,116
+0022301160,154,PT00M29.10S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,120
+0022301160,168,PT11M17.00S,2,1610612751,BKN,1630570,Watford,T. Watford,10,10,1,Made,1,29,27,56,h,Watford 1' Running Finger Roll Layup (2 PTS) (C. Johnson 1 AST),Made Shot,Running Finger Roll Layup Shot,1,2,131
+0022301160,174,PT10M37.00S,2,1610612751,BKN,1630570,Watford,T. Watford,205,194,28,Missed,1,,,0,h,MISS Watford 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,135
+0022301160,194,PT08M56.00S,2,1610612751,BKN,1630570,Watford,T. Watford,-22,1,2,Made,1,33,34,67,h,Watford 2' Driving Layup (4 PTS) (Sharpe 1 AST),Made Shot,Driving Layup Shot,1,2,149
+0022301160,198,PT08M56.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,34,34,68,h,Watford Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,151
+0022301160,206,PT07M53.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,158
+0022301160,209,PT07M49.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,MISS Watford Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,160
+0022301160,217,PT07M49.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,MISS Watford Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,165
+0022301160,221,PT07M24.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,169
+0022301160,224,PT07M21.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Thomas FOR Watford,Substitution,,0,0,171
+0022301160,475,PT00M46.20S,3,1610612751,BKN,1630570,Watford,T. Watford,-188,183,26,Missed,1,,,0,h,MISS Watford 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,358
+0022301160,479,PT00M33.30S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,362
+0022301160,513,PT11M37.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,380
+0022301160,537,PT09M41.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,399
+0022301160,538,PT09M31.00S,4,1610612751,BKN,1630570,Watford,T. Watford,29,16,3,Missed,1,,,0,h,MISS Watford 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,400
+0022301160,556,PT08M36.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,MISS Watford Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,414
+0022301160,558,PT08M36.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,84,88,172,h,Watford Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,416
+0022301160,563,PT08M12.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,421
+0022301160,594,PT06M17.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,SUB: Thomas FOR Watford,Substitution,,0,0,443
+0022301175,11,PT11M21.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+0022301175,20,PT10M35.00S,1,1610612751,BKN,1630570,Watford,T. Watford,-143,205,25,Made,1,0,5,5,v,Watford 25' 3PT Jump Shot (3 PTS) (Claxton 1 AST),Made Shot,Jump Shot,1,3,15
+0022301175,23,PT09M50.00S,1,1610612751,BKN,1630570,Watford,T. Watford,43,53,7,Made,1,0,7,7,v,Watford 7' Driving Floating Jump Shot (5 PTS) (Claxton 2 AST),Made Shot,Driving Floating Jump Shot,1,2,17
+0022301175,41,PT07M47.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Offensive Charge Foul (P1) (J.Capers),Foul,Offensive Charge,1,0,30
+0022301175,43,PT07M47.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,0,31
+0022301175,57,PT06M35.00S,1,1610612751,BKN,1630570,Watford,T. Watford,7,101,10,Missed,1,,,0,v,MISS Watford 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,42
+0022301175,70,PT05M16.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,MISS Watford Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,53
+0022301175,74,PT05M16.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,5,12,17,v,Watford Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,56
+0022301175,77,PT04M52.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,58
+0022301175,82,PT04M01.00S,1,1610612751,BKN,1630570,Watford,T. Watford,9,15,2,Made,1,5,16,21,v,Watford 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,62
+0022301175,84,PT03M38.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,64
+0022301175,107,PT02M22.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Gilyard FOR Watford,Substitution,,0,0,78
+0022301175,195,PT06M53.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,139
+0022301175,200,PT06M42.00S,2,1610612751,BKN,1630570,Watford,T. Watford,4,8,1,Made,1,31,47,78,v,Watford 1' Running Dunk (10 PTS) (Walker IV 1 AST),Made Shot,Running Dunk Shot,1,2,144
+0022301175,214,PT06M04.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,154
+0022301175,237,PT04M02.00S,2,1610612751,BKN,1630570,Watford,T. Watford,31,43,5,Made,1,36,51,87,v,Watford 5' Driving Hook Shot (12 PTS),Made Shot,Driving Hook Shot,1,2,171
+0022301175,257,PT02M49.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,43,54,97,v,Watford Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,185
+0022301175,258,PT02M49.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,43,55,98,v,Watford Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,186
+0022301175,263,PT02M33.00S,2,1610612751,BKN,1630570,Watford,T. Watford,18,21,3,Missed,1,,,0,v,MISS Watford 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,190
+0022301175,279,PT01M20.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,201
+0022301175,303,PT11M10.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,220
+0022301175,307,PT10M30.00S,3,1610612751,BKN,1630570,Watford,T. Watford,-233,-10,0,Missed,1,,,0,v,MISS Watford 3PT Jump Shot,Missed Shot,Jump Shot,1,3,224
+0022301175,308,PT10M27.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,225
+0022301175,312,PT10M10.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P2.T1) (B.Adair),Foul,Shooting,1,0,229
+0022301175,315,PT10M00.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Bad Pass Turnover (P3.T7),Turnover,Bad Pass,1,0,231
+0022301175,328,PT09M17.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,242
+0022301175,352,PT06M11.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,MISS Watford Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,259
+0022301175,356,PT06M11.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,74,70,144,v,Watford Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,262
+0022301175,366,PT04M30.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,269
+0022301175,370,PT04M08.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,273
+0022301175,398,PT01M46.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Lost Ball Turnover (P4.T10),Turnover,Lost Ball,1,0,292
+0022301175,403,PT01M15.00S,3,1610612751,BKN,1630570,Watford,T. Watford,22,27,3,Missed,1,,,0,v,MISS Watford 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,295
+0022301175,474,PT08M07.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford L.B.FOUL (P3.T2) (J.Capers),Foul,Loose Ball,1,0,350
+0022301175,509,PT04M22.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,376
+0022301175,510,PT04M17.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Lost Ball Turnover (P5.T13),Turnover,Lost Ball,1,0,377
+0022301175,513,PT04M11.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:2 Def:10),Rebound,Unknown,1,0,380
+0022301175,528,PT02M50.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,-4,0,Made,1,99,98,197,v,Watford Cutting Layup Shot (17 PTS) (Thomas 6 AST),Made Shot,Cutting Layup Shot,1,2,393
+0022301175,534,PT02M39.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:2 Def:11),Rebound,Unknown,1,0,397
+0022301192,16,PT10M54.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,12
+0022301192,18,PT10M40.00S,1,1610612751,BKN,1630570,Watford,T. Watford,20,81,8,Missed,1,,,0,v,MISS Watford 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,13
+0022301192,23,PT10M14.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,17
+0022301192,49,PT07M42.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,37
+0022301192,50,PT07M37.00S,1,1610612751,BKN,1630570,Watford,T. Watford,4,10,1,Made,1,13,10,23,v,Watford 1' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,38
+0022301192,51,PT07M21.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P1.T1) (A.Nagy),Foul,Shooting,1,0,39
+0022301192,56,PT07M07.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Out of Bounds Lost Ball Turnover (P2.T2),Turnover,Out of Bounds Lost Ball Turnover,1,0,43
+0022301192,58,PT06M54.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,45
+0022301192,65,PT06M34.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,MISS Watford Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,50
+0022301192,73,PT06M34.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,16,11,27,v,Watford Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,55
+0022301192,79,PT05M28.00S,1,1610612751,BKN,1630570,Watford,T. Watford,-131,251,28,Missed,1,,,0,v,MISS Watford 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,61
+0022301192,88,PT04M49.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,67
+0022301192,110,PT03M41.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,SUB: Gilyard FOR Watford,Substitution,,0,0,84
+0022301192,189,PT09M20.00S,2,1610612751,BKN,1630570,Watford,T. Watford,37,42,6,Made,1,32,27,59,v,Watford 6' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,1,2,141
+0022301192,209,PT08M54.00S,2,1610612751,BKN,1630570,Watford,T. Watford,6,46,5,Missed,1,,,0,v,MISS Watford 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,144
+0022301192,197,PT08M12.00S,2,1610612751,BKN,1630570,Watford,T. Watford,-38,85,9,Missed,1,,,0,v,MISS Watford 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,150
+0022301192,214,PT06M27.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,162
+0022301192,261,PT03M24.00S,2,1610612751,BKN,1630570,Watford,T. Watford,-2,11,1,Made,1,45,38,83,v,Watford 1' Running Dunk (7 PTS) (Walker IV 4 AST),Made Shot,Running Dunk Shot,1,2,196
+0022301192,267,PT02M45.00S,2,1610612751,BKN,1630570,Watford,T. Watford,-48,38,6,Missed,1,,,0,v,MISS Watford 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,200
+0022301192,280,PT01M30.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford BLOCK (1 BLK),,,1,2,212
+0022301192,291,PT00M32.90S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P2.PN) (J.Tiven),Foul,Shooting,1,0,220
+0022301192,308,PT11M43.00S,3,1610612751,BKN,1630570,Watford,T. Watford,47,63,8,Made,1,55,46,101,v,Watford 8' Floating Jump Shot (9 PTS) (Claxton 1 AST),Made Shot,Floating Jump shot,1,2,230
+0022301192,341,PT08M22.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,258
+0022301192,342,PT08M11.00S,3,1610612751,BKN,1630570,Watford,T. Watford,-49,84,10,Missed,1,,,0,v,MISS Watford 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,259
+0022301192,372,PT06M00.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,284
+0022301192,377,PT05M18.00S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford STEAL (1 STL),,,1,0,289
+0022301192,379,PT05M12.00S,3,1610612751,BKN,1630570,Watford,T. Watford,6,14,2,Missed,1,,,0,v,MISS Watford 2' Running Layup,Missed Shot,Running Layup Shot,1,2,290
+0022301192,439,PT00M37.00S,3,1610612751,BKN,1630570,Watford,T. Watford,23,17,3,Missed,1,,,0,v,MISS Watford 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,336
+0022301192,523,PT06M39.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,95,69,164,v,Watford Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,396
+0022301192,524,PT06M39.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,95,70,165,v,Watford Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,397
+0022301192,547,PT05M05.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford Lost Ball Turnover (P3.T12),Turnover,Lost Ball,1,0,415
+0022301192,556,PT04M25.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,423
+0022301192,568,PT03M23.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,v,Watford S.FOUL (P3.T2) (G.Petraitis),Foul,Shooting,1,0,432
+0022301192,573,PT03M10.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-72,243,25,Made,1,100,81,181,v,Watford 25' 3PT Jump Shot (14 PTS) (Gilyard 2 AST),Made Shot,Jump Shot,1,3,436
+0022301219,287,PT02M30.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,213
+0022301219,304,PT01M54.00S,2,1610612751,BKN,1630570,Watford,T. Watford,39,66,8,Made,1,48,39,87,h,Watford 8' Floating Jump Shot (2 PTS) (Thomas 2 AST),Made Shot,Floating Jump shot,1,2,227
+0022301219,321,PT00M19.00S,2,1610612751,BKN,1630570,Watford,T. Watford,40,71,8,Missed,1,,,0,h,MISS Watford 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,239
+0022301219,516,PT09M55.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-36,25,4,Missed,1,,,0,h,MISS Watford 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,374
+0022301219,591,PT04M57.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,111,87,198,h,Watford Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,436
+0022301219,602,PT04M57.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,112,87,199,h,Watford Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,440
+0022301219,605,PT04M33.00S,4,1610612751,BKN,1630570,Watford,T. Watford,-5,46,5,Made,1,114,89,203,h,Watford 5' Turnaround Hook Shot (6 PTS),Made Shot,Turnaround Hook Shot,1,2,442
+0022301219,606,PT04M22.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford P.FOUL (P1.T1) (Z.Zarba),Foul,Personal,1,0,443
+0022301219,630,PT03M45.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford S.FOUL (P2.T3) (J.Goble),Foul,Shooting,1,0,457
+0022301219,637,PT03M15.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,,,0,h,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,463
+0022301219,654,PT02M31.00S,4,1610612751,BKN,1630570,Watford,T. Watford,22,272,27,Missed,1,,,0,h,MISS Watford 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,478
+0022301219,671,PT01M07.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,123,94,217,h,Watford Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,496
+0022301219,672,PT01M07.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,124,94,218,h,Watford Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,497

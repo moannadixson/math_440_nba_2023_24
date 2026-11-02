@@ -1,0 +1,701 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300011,128,PT02M16.00S,1,1610612745,HOU,1629111,Landale,J. Landale,145,120,19,Missed,1,,,0,h,MISS Landale 19' Jump Shot,Missed Shot,Jump Shot,1,2,90
+0022300011,146,PT00M54.60S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,105
+0022300011,154,PT00M18.90S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,111
+0022300011,155,PT00M18.10S,1,1610612745,HOU,1629111,Landale,J. Landale,-4,19,2,Missed,1,,,0,h,MISS Landale 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,112
+0022300011,190,PT10M32.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,137
+0022300011,201,PT09M47.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Tate FOR Landale,Substitution,,0,0,147
+0022300037,487,PT01M50.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,357
+0022300037,496,PT01M33.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,363
+0022300037,521,PT00M12.20S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: VanVleet FOR Landale,Substitution,,0,0,383
+0022300037,542,PT11M41.00S,4,1610612745,HOU,1629111,Landale,J. Landale,6,41,4,Made,1,79,79,158,v,Landale 4' Hook Bank Shot (2 PTS) (VanVleet 9 AST),Made Shot,Hook Bank Shot,1,2,395
+0022300037,545,PT11M23.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,397
+0022300037,571,PT08M53.00S,4,1610612745,HOU,1629111,Landale,J. Landale,-9,59,6,Missed,1,,,0,v,MISS Landale 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,418
+0022300037,575,PT08M21.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,0,422
+0022300037,581,PT08M05.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Ja. Green FOR Landale,Substitution,,0,0,427
+0022300066,86,PT04M32.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale 3 Second Violation Turnover (P1.T5),Turnover,3 Second Violation,1,0,62
+0022300066,89,PT04M16.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale S.FOUL (P1.T3) (T.Ford),Foul,Shooting,1,0,64
+0022300066,101,PT03M00.00S,1,1610612745,HOU,1629111,Landale,J. Landale,20,263,26,Missed,1,,,0,v,MISS Landale 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,73
+0022300066,135,PT02M05.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Sengun FOR Landale,Substitution,,0,0,93
+0022300066,235,PT06M04.00S,2,1610612745,HOU,1629111,Landale,J. Landale,237,66,25,Made,1,42,34,76,v,Landale 25' 3PT Jump Shot (3 PTS) (VanVleet 4 AST),Made Shot,Jump Shot,1,3,167
+0022300066,287,PT02M59.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Sengun FOR Landale,Substitution,,0,0,204
+0022300066,438,PT02M01.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Je. Green FOR Landale,Substitution,,0,0,319
+0022300122,103,PT02M19.00S,1,1610612745,HOU,1629111,Landale,J. Landale,97,226,25,Missed,1,,,0,h,MISS Landale 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,74
+0022300122,139,PT00M07.70S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Brooks FOR Landale,Substitution,,0,0,101
+0022300122,171,PT10M53.00S,2,1610612745,HOU,1629111,Landale,J. Landale,197,163,26,Missed,1,,,0,h,MISS Landale 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,121
+0022300122,177,PT10M06.00S,2,1610612745,HOU,1629111,Landale,J. Landale,59,99,12,Made,1,43,31,74,h,Landale 12' Pullup Jump Shot (2 PTS) (VanVleet 4 AST),Made Shot,Pullup Jump shot,1,2,126
+0022300122,185,PT09M35.00S,2,1610612745,HOU,1629111,Landale,J. Landale,-119,221,25,Missed,1,,,0,h,MISS Landale 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,131
+0022300122,190,PT08M49.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale STEAL (1 STL),,,1,0,137
+0022300122,196,PT08M45.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Brooks FOR Landale,Substitution,,0,0,141
+0022300122,300,PT02M15.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale OFF.Foul (P1) (M.Kogut),Foul,Offensive,1,0,216
+0022300122,302,PT02M15.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,1,0,217
+0022300122,306,PT01M43.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,220
+0022300122,328,PT00M04.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,240
+0022300122,445,PT03M32.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,324
+0022300122,446,PT03M32.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,Missed,1,,,0,h,MISS Landale Tip Dunk Shot,Missed Shot,Tip Dunk Shot,1,2,325
+0022300122,476,PT01M27.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,350
+0022300122,477,PT01M27.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,Missed,1,,,0,h,MISS Landale Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,351
+0022300122,522,PT10M49.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,91,79,170,h,Landale Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,382
+0022300122,525,PT10M49.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,92,79,171,h,Landale Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,384
+0022300122,528,PT10M31.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale BLOCK (1 BLK),,,1,2,387
+0022300122,561,PT06M47.00S,4,1610612745,HOU,1629111,Landale,J. Landale,15,15,2,Missed,1,,,0,h,MISS Landale 2' Layup,Missed Shot,Layup Shot,1,2,412
+0022300122,565,PT06M31.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,416
+0022300122,570,PT06M24.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Sengun FOR Landale,Substitution,,0,0,420
+0022300137,139,PT01M23.00S,1,1610612745,HOU,1629111,Landale,J. Landale,1,257,26,Missed,1,,,0,h,MISS Landale 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,99
+0022300137,154,PT00M01.30S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,112
+0022300137,188,PT09M19.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Sengun FOR Landale,Substitution,,0,0,137
+0022300137,410,PT02M15.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale STEAL (1 STL),,,1,0,306
+0022300137,426,PT01M38.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,318
+0022300137,428,PT01M32.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,320
+0022300137,448,PT00M20.50S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Brooks FOR Landale,Substitution,,0,0,336
+0022300137,490,PT09M03.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale S.FOUL (P1.T1) (J.Reneau),Foul,Shooting,1,0,366
+0022300137,504,PT08M50.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Brooks FOR Landale,Substitution,,0,0,374
+0022300153,195,PT09M04.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale OFF.Foul (P1) (J.Van Duyne),Foul,Offensive,1,0,140
+0022300153,197,PT09M04.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1,0,141
+0022300153,211,PT07M48.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Je. Green FOR Landale,Substitution,,0,0,154
+0022300153,442,PT01M56.00S,3,1610612745,HOU,1629111,Landale,J. Landale,-100,243,26,Made,1,92,56,148,h,Landale 26' 3PT Jump Shot (3 PTS) (Ja. Green 2 AST),Made Shot,Jump Shot,1,3,318
+0022300153,501,PT09M41.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale S.FOUL (P2.T2) (J.Van Duyne),Foul,Shooting,1,0,357
+0022300153,516,PT08M54.00S,4,1610612745,HOU,1629111,Landale,J. Landale,141,245,28,Missed,1,,,0,h,MISS Landale 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,367
+0022300153,527,PT08M00.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale STEAL (1 STL),,,1,0,378
+0022300153,530,PT07M52.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,380
+0022300153,531,PT07M49.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,381
+0022300153,547,PT06M34.00S,4,1610612745,HOU,1629111,Landale,J. Landale,32,41,5,Made,1,110,74,184,h,Landale 5' Turnaround Hook Shot (5 PTS) (Holiday 1 AST),Made Shot,Turnaround Hook Shot,1,2,393
+0022300153,550,PT06M30.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Hinton FOR Landale,Substitution,,0,0,396
+0022300163,520,PT10M47.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale BLOCK (1 BLK),,,1,2,370
+0022300163,544,PT08M09.00S,4,1610612745,HOU,1629111,Landale,J. Landale,146,216,26,Missed,1,,,0,h,MISS Landale 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,390
+0022300163,557,PT07M38.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,401
+0022300163,607,PT03M04.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,437
+0022300163,616,PT02M21.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,445
+0022300163,620,PT02M10.00S,4,1610612745,HOU,1629111,Landale,J. Landale,-2,17,2,Missed,1,,,0,h,MISS Landale 2' Layup,Missed Shot,Layup Shot,1,2,449
+0022300163,622,PT02M07.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,451
+0022300163,623,PT02M07.00S,4,1610612745,HOU,1629111,Landale,J. Landale,4,22,2,Made,1,124,91,215,h,Landale 2' Layup (2 PTS),Made Shot,Layup Shot,1,2,452
+0022300182,111,PT02M44.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,83
+0022300182,119,PT02M13.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale S.FOUL (P1.T4) (J.Butler),Foul,Shooting,1,0,90
+0022300182,147,PT00M46.20S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Je. Green FOR Landale,Substitution,,0,0,109
+0022300216,380,PT09M44.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,265
+0022300216,399,PT08M22.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale Lost Ball Turnover (P1.T13),Turnover,Lost Ball,1,0,282
+0022300216,413,PT07M17.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale S.FOUL (P1.T3) (M.Smith),Foul,Shooting,1,0,292
+0022300216,428,PT06M38.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Je. Green FOR Landale,Substitution,,0,0,304
+0022300224,105,PT04M00.00S,1,1610612745,HOU,1629111,Landale,J. Landale,-13,75,8,Missed,1,,,0,v,MISS Landale 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,77
+0022300224,147,PT00M16.30S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,109
+0022300231,656,PT02M38.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,467
+0022300231,672,PT01M41.00S,4,1610612745,HOU,1629111,Landale,J. Landale,2,17,2,Made,1,107,85,192,h,Landale 2' Dunk (2 PTS) (Holiday 1 AST),Made Shot,Dunk Shot,1,2,480
+0022300263,86,PT03M40.00S,1,1610612745,HOU,1629111,Landale,J. Landale,-6,20,2,Missed,1,,,0,v,MISS Landale 2' Layup,Missed Shot,Layup Shot,1,2,57
+0022300263,110,PT03M01.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale Traveling Turnover (P1.T5),Turnover,Traveling,1,0,74
+0022300263,115,PT02M58.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Holiday FOR Landale,Substitution,,0,0,78
+0022300263,424,PT02M37.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,293
+0022300263,425,PT02M21.00S,3,1610612745,HOU,1629111,Landale,J. Landale,16,53,6,Made,1,101,86,187,v,Landale 6' Floating Jump Shot (2 PTS) (Ja. Green 7 AST),Made Shot,Floating Jump shot,1,2,294
+0022300263,459,PT00M23.50S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Holiday FOR Landale,Substitution,,0,0,317
+0022300263,504,PT10M42.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Landale,Substitution,,0,0,343
+0022300263,592,PT05M30.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale S.FOUL (P1.T4) (D.Collins),Foul,Shooting,1,0,410
+0022300263,601,PT05M00.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale S.FOUL (P2.PN) (J.Butler),Foul,Shooting,1,0,416
+0022300263,605,PT04M50.00S,4,1610612745,HOU,1629111,Landale,J. Landale,-23,250,25,Missed,1,,,0,v,MISS Landale 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,419
+0022300263,617,PT03M33.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale Violation:Kicked Ball (D.Collins),Violation,Kicked Ball,0,0,428
+0022300263,640,PT02M02.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,133,115,248,v,Landale Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,444
+0022300263,641,PT02M02.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,133,116,249,v,Landale Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,445
+0022300263,645,PT01M25.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale STEAL (1 STL),,,1,0,450
+0022300263,647,PT01M22.00S,4,1610612745,HOU,1629111,Landale,J. Landale,6,0,1,Made,1,133,120,253,v,Landale 1' Running Dunk (6 PTS) (Williams 1 AST),Made Shot,Running Dunk Shot,1,2,451
+0022300291,678,PT01M53.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale BLOCK (1 BLK),,,1,2,491
+0022300314,180,PT10M37.00S,2,1610612745,HOU,1629111,Landale,J. Landale,33,17,4,Missed,1,,,0,h,MISS Landale 4' Layup,Missed Shot,Layup Shot,1,2,126
+0022300314,182,PT10M33.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,128
+0022300314,183,PT10M33.00S,2,1610612745,HOU,1629111,Landale,J. Landale,7,3,1,Made,1,35,25,60,h,Landale 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,129
+0022300314,189,PT10M13.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,134
+0022300314,223,PT07M48.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Sengun FOR Landale,Substitution,,0,0,158
+0022300314,469,PT04M05.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale P.FOUL (P1.PN) (D.Guthrie),Foul,Personal,1,0,338
+0022300314,500,PT01M59.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale S.FOUL (P2.PN) (D.Guthrie),Foul,Shooting,1,0,361
+0022300314,514,PT01M11.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,373
+0022300314,521,PT01M09.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Je. Green FOR Landale,Substitution,,0,0,379
+0022300332,177,PT10M40.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Brooks FOR Landale,Substitution,,0,0,135
+0022300332,526,PT10M26.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,395
+0022300332,533,PT10M05.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale P.FOUL (P1.T1) (J.Ralls),Foul,Personal,1,0,400
+0022300332,554,PT08M52.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Landale,Substitution,,0,0,418
+0022300349,162,PT11M35.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale L.B.FOUL (P1.T1) (P.Fraher),Foul,Loose Ball,1,0,113
+0022300349,173,PT10M48.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,120
+0022300349,176,PT10M29.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale STEAL (1 STL),,,1,0,124
+0022300349,186,PT09M54.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Sengun FOR Landale,Substitution,,0,0,132
+0022300385,471,PT02M29.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,MISS Landale Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,361
+0022300385,473,PT02M29.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,88,50,138,h,Landale Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,363
+0022300385,483,PT01M57.00S,3,1610612745,HOU,1629111,Landale,J. Landale,-20,271,27,Missed,1,,,0,h,MISS Landale 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,370
+0022300385,485,PT01M47.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale S.FOUL (P1.T2) (K.Lane),Foul,Shooting,1,0,372
+0022300385,539,PT10M20.00S,4,1610612745,HOU,1629111,Landale,J. Landale,-223,19,0,Missed,1,,,0,h,MISS Landale 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,416
+0022300385,560,PT09M17.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,433
+0022300385,585,PT07M28.00S,4,1610612745,HOU,1629111,Landale,J. Landale,17,106,11,Missed,1,,,0,h,MISS Landale 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,452
+0022300385,596,PT06M37.00S,4,1610612745,HOU,1629111,Landale,J. Landale,-15,282,28,Missed,1,,,0,h,MISS Landale 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,460
+0022300385,617,PT05M12.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,479
+0022300385,625,PT04M35.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale BLOCK (1 BLK),,,1,2,485
+0022300385,644,PT02M03.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,498
+0022300385,655,PT01M36.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,507
+0022300385,660,PT01M11.00S,4,1610612745,HOU,1629111,Landale,J. Landale,-6,5,1,Made,1,120,91,211,h,Landale 1' Layup (3 PTS) (Thompson 4 AST),Made Shot,Layup Shot,1,2,510
+0022300418,548,PT10M24.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,MISS Landale Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,395
+0022300418,551,PT10M24.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,91,109,200,h,Landale Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,397
+0022300418,553,PT10M08.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,399
+0022300418,554,PT09M58.00S,4,1610612745,HOU,1629111,Landale,J. Landale,10,31,3,Made,1,93,109,202,h,Landale 3' Cutting Dunk Shot (3 PTS) (Holiday 1 AST),Made Shot,Cutting Dunk Shot,1,2,400
+0022300418,579,PT07M15.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale L.B.FOUL (P1.T3) (M.Smith),Foul,Loose Ball,1,0,421
+0022300418,599,PT05M37.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,435
+0022300418,600,PT05M36.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,Missed,1,,,0,h,MISS Landale Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,436
+0022300418,601,PT05M36.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,437
+0022300418,602,PT05M35.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,Missed,1,,,0,h,MISS Landale Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,438
+0022300418,603,PT05M35.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,439
+0022300418,604,PT05M35.00S,4,1610612745,HOU,1629111,Landale,J. Landale,-6,27,3,Made,1,103,116,219,h,Landale 3' Putback Layup (5 PTS),Made Shot,Putback Layup Shot,1,2,440
+0022300418,631,PT01M41.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,462
+0022300418,647,PT01M21.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale S.FOUL (P2.T4) (B.Schwab),Foul,Shooting,1,0,471
+0022300434,72,PT05M40.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,17,15,32,h,Landale Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,53
+0022300434,73,PT05M40.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,18,15,33,h,Landale Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,54
+0022300434,76,PT05M23.00S,1,1610612745,HOU,1629111,Landale,J. Landale,-23,27,4,Missed,1,,,0,h,MISS Landale 4' Running Layup,Missed Shot,Running Layup Shot,1,2,57
+0022300434,86,PT05M01.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale BLOCK (1 BLK),,,1,2,64
+0022300434,118,PT03M13.00S,1,1610612745,HOU,1629111,Landale,J. Landale,-34,27,4,Made,1,24,17,41,h,Landale 4' Dunk (4 PTS) (Thompson 1 AST),Made Shot,Dunk Shot,1,2,91
+0022300434,122,PT02M57.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale S.FOUL (P1.T3) (R.Acosta),Foul,Shooting,1,0,93
+0022300434,124,PT02M57.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Ja. Green FOR Landale,Substitution,,0,0,94
+0022300434,199,PT10M55.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale S.FOUL (P2.T1) (C.Kirkland),Foul,Shooting,1,0,145
+0022300434,209,PT10M16.00S,2,1610612745,HOU,1629111,Landale,J. Landale,11,31,3,Made,1,36,31,67,h,Landale 3' Turnaround Hook Shot (6 PTS) (Eason 1 AST),Made Shot,Turnaround Hook Shot,1,2,152
+0022300434,217,PT09M33.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,159
+0022300434,218,PT09M33.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,Missed,1,,,0,h,MISS Landale Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,160
+0022300434,228,PT08M50.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale S.FOUL (P3.T3) (C.Kirkland),Foul,Shooting,1,0,168
+0022300434,231,PT08M50.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Sengun FOR Landale,Substitution,,0,0,170
+0022300434,659,PT00M03.40S,4,1610612745,HOU,1629111,Landale,J. Landale,38,10,4,Missed,1,,,0,h,MISS Landale 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,480
+0022300434,661,PT00M01.80S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale Personal Take Foul (P4.PN) (B.Maru),Foul,Personal Take,1,0,483
+0022300485,615,PT01M36.00S,4,1610612745,HOU,1629111,Landale,J. Landale,-234,66,24,Missed,1,,,0,h,MISS Landale 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,447
+0022300485,632,PT00M51.30S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale BLOCK (1 BLK),,,1,2,463
+0022300542,526,PT11M08.00S,4,1610612745,HOU,1629111,Landale,J. Landale,36,119,12,Missed,1,,,0,v,MISS Landale 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,389
+0022300542,531,PT10M42.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,393
+0022300542,557,PT09M18.00S,4,1610612745,HOU,1629111,Landale,J. Landale,-153,221,27,Missed,1,,,0,v,MISS Landale 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,416
+0022300542,570,PT08M55.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,425
+0022300542,571,PT08M55.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,Made,1,124,93,217,v,Landale Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,426
+0022300542,587,PT07M08.00S,4,1610612745,HOU,1629111,Landale,J. Landale,-98,242,26,Missed,1,,,0,v,MISS Landale 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,438
+0022300542,631,PT04M15.00S,4,1610612745,HOU,1629111,Landale,J. Landale,-26,34,4,Missed,1,,,0,v,MISS Landale 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,471
+0022300542,633,PT04M13.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,473
+0022300542,646,PT03M16.00S,4,1610612745,HOU,1629111,Landale,J. Landale,-150,221,27,Missed,1,,,0,v,MISS Landale 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,482
+0022300555,595,PT07M41.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale STEAL (1 STL),,,1,0,432
+0022300555,608,PT06M28.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,442
+0022300555,609,PT06M28.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,Made,1,112,92,204,v,Landale Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,1,2,443
+0022300555,639,PT05M00.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale BLOCK (1 BLK),,,1,2,463
+0022300555,646,PT04M25.00S,4,1610612745,HOU,1629111,Landale,J. Landale,-9,28,3,Made,1,117,102,219,v,Landale 3' Layup (4 PTS) (Williams 1 AST),Made Shot,Layup Shot,1,2,468
+0022300555,661,PT02M44.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale BLOCK (2 BLK),,,1,2,482
+0022300555,701,PT00M27.80S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale BLOCK (3 BLK),,,1,2,514
+0022300623,162,PT11M27.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,32,30,62,h,Landale Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,112
+0022300623,163,PT11M27.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,MISS Landale Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,113
+0022300623,167,PT11M10.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale P.FOUL (P1.T2) (N.Buchert),Foul,Personal,1,0,116
+0022300623,220,PT07M23.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,154
+0022300623,221,PT07M23.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,Made,1,47,35,82,h,Landale Tip Dunk Shot (3 PTS),Made Shot,Tip Dunk Shot,1,2,155
+0022300623,222,PT07M12.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale S.FOUL (P2.PN) (P.Fraher),Foul,Shooting,1,0,156
+0022300623,241,PT06M02.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Sengun FOR Landale,Substitution,,0,0,169
+0022300623,443,PT01M25.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,314
+0022300623,472,PT10M56.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,332
+0022300623,473,PT10M56.00S,4,1610612745,HOU,1629111,Landale,J. Landale,21,13,2,Made,1,100,100,200,h,Landale 2' Putback Layup (5 PTS),Made Shot,Putback Layup Shot,1,2,333
+0022300623,476,PT10M56.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,101,100,201,h,Landale Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,335
+0022300623,514,PT07M34.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Je. Green FOR Landale,Substitution,,0,0,362
+0022300635,165,PT00M12.60S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,127
+0022300635,202,PT09M39.00S,2,1610612745,HOU,1629111,Landale,J. Landale,6,23,2,Missed,1,,,0,v,MISS Landale 2' Dunk,Missed Shot,Dunk Shot,1,2,150
+0022300635,205,PT09M28.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale S.FOUL (P1.T3) (J.Capers),Foul,Shooting,1,0,153
+0022300635,219,PT08M20.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,165
+0022300635,231,PT07M45.00S,2,1610612745,HOU,1629111,Landale,J. Landale,5,22,2,Made,1,36,40,76,v,Landale 2' Turnaround Hook Shot (2 PTS) (Thompson 3 AST),Made Shot,Turnaround Hook Shot,1,2,172
+0022300635,234,PT07M28.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,174
+0022300635,256,PT05M58.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Rockets T.Foul (Def. 3 Sec Landale ) (L.Wood),Foul,Defense 3 Second,1,0,187
+0022300635,258,PT05M52.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale BLOCK (1 BLK),,,1,2,190
+0022300635,259,PT05M48.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,191
+0022300635,270,PT05M24.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Je. Green FOR Landale,Substitution,,0,0,201
+0022300635,493,PT02M43.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,364
+0022300635,527,PT02M43.00S,3,1610612745,HOU,1629111,Landale,J. Landale,16,-2,2,Missed,1,,,0,v,MISS Landale 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,365
+0022300635,528,PT02M43.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,366
+0022300635,494,PT02M40.00S,3,1610612745,HOU,1629111,Landale,J. Landale,-9,16,2,Made,1,72,93,165,v,Landale 2' Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,367
+0022300635,495,PT02M33.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale S.FOUL (P2.PN) (B.Barnaky),Foul,Shooting,1,0,368
+0022300635,503,PT01M54.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale STEAL (1 STL),,,1,0,374
+0022300635,579,PT09M42.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,-6,1,Made,1,80,113,193,v,Landale 1' Dunk (6 PTS) (VanVleet 3 AST),Made Shot,Dunk Shot,1,2,422
+0022300635,599,PT07M39.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Tate FOR Landale,Substitution,,0,0,433
+0022300645,123,PT01M59.00S,1,1610612745,HOU,1629111,Landale,J. Landale,-32,53,6,Missed,1,,,0,v,MISS Landale 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,87
+0022300645,128,PT01M29.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,92
+0022300645,129,PT01M28.00S,1,1610612745,HOU,1629111,Landale,J. Landale,17,18,2,Missed,1,,,0,v,MISS Landale 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,93
+0022300645,143,PT00M08.70S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Thompson FOR Landale,Substitution,,0,0,105
+0022300645,170,PT11M06.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale L.B.FOUL (P1.T1) (B.Taylor),Foul,Loose Ball,1,0,120
+0022300645,176,PT10M48.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,123
+0022300645,185,PT10M06.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale S.FOUL (P2.T3) (B.Taylor),Foul,Shooting,1,0,129
+0022300645,190,PT09M45.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,133
+0022300645,209,PT08M18.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Sengun FOR Landale,Substitution,,0,0,149
+0022300709,652,PT05M55.00S,4,1610612745,HOU,1629111,Landale,J. Landale,12,20,2,Missed,1,,,0,v,MISS Landale 2' Layup,Missed Shot,Layup Shot,1,2,481
+0022300709,656,PT05M38.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale BLOCK (1 BLK),,,1,2,485
+0022300709,699,PT03M25.00S,4,1610612745,HOU,1629111,Landale,J. Landale,44,42,6,Missed,1,,,0,v,MISS Landale 6' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,1,2,514
+0022300709,708,PT02M26.00S,4,1610612745,HOU,1629111,Landale,J. Landale,-5,17,2,Made,1,105,79,184,v,Landale 2' Cutting Layup Shot (2 PTS) (Hinton 1 AST),Made Shot,Cutting Layup Shot,1,2,522
+0022300709,731,PT00M50.70S,4,1610612745,HOU,1629111,Landale,J. Landale,78,41,9,Made,1,109,88,197,v,Landale 9' Jump Bank Shot (4 PTS) (Hinton 2 AST),Made Shot,Jump Bank Shot,1,2,539
+0022300754,86,PT05M08.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,15,18,33,v,Landale Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,58
+0022300754,87,PT05M08.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,15,19,34,v,Landale Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,59
+0022300754,91,PT04M47.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,63
+0022300754,92,PT04M47.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,Missed,1,,,0,v,MISS Landale Putback Layup,Missed Shot,Putback Layup Shot,1,2,64
+0022300754,137,PT01M59.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale Illegal Assist Turnover (P1.T3),Turnover,Illegal Assist Turnover,1,0,99
+0022300754,143,PT01M35.00S,1,1610612745,HOU,1629111,Landale,J. Landale,-1,253,25,Missed,1,,,0,v,MISS Landale 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,103
+0022300754,151,PT01M09.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,110
+0022300754,152,PT01M08.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,111
+0022300754,158,PT00M39.40S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,116
+0022300754,161,PT00M24.10S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,119
+0022300754,226,PT08M36.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,163
+0022300754,228,PT08M24.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,165
+0022300754,233,PT07M55.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,170
+0022300754,304,PT07M54.00S,2,1610612745,HOU,1629111,Landale,J. Landale,5,34,3,Missed,1,,,0,v,MISS Landale 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,171
+0022300754,248,PT06M46.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,183
+0022300754,262,PT05M40.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale S.FOUL (P1.T4) (T.Washington),Foul,Shooting,1,0,195
+0022300754,276,PT05M02.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Je. Green FOR Landale,Substitution,,0,0,203
+0022300754,445,PT04M06.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,330
+0022300754,479,PT01M50.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Landale,Substitution,,0,0,353
+0022300798,565,PT09M46.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale L.B.FOUL (P1.T2) (M.Myers),Foul,Loose Ball,1,0,410
+0022300798,567,PT09M31.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale STEAL (1 STL),,,1,0,412
+0022300798,592,PT07M40.00S,4,1610612745,HOU,1629111,Landale,J. Landale,-72,6,7,Made,1,113,89,202,v,Landale 7' Jump Shot (2 PTS) (Thompson 3 AST),Made Shot,Jump Shot,1,2,427
+0022300798,603,PT06M42.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,433
+0022300798,611,PT06M27.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,439
+0022300798,645,PT04M53.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,458
+0022300841,691,PT00M34.30S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale Violation:Kicked Ball (N.Sago),Violation,Kicked Ball,0,0,511
+0022300841,694,PT00M05.60S,4,1610612745,HOU,1629111,Landale,J. Landale,72,4,7,Missed,1,,,0,v,MISS Landale 7' Hook Shot,Missed Shot,Hook Shot,1,2,514
+0022300854,518,PT00M04.90S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: VanVleet FOR Landale,Substitution,,0,0,386
+0022300854,537,PT11M44.00S,4,1610612745,HOU,1629111,Landale,J. Landale,-2,1,0,Missed,1,,,0,v,MISS Landale Running Layup,Missed Shot,Running Layup Shot,1,2,395
+0022300854,539,PT11M41.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,397
+0022300854,542,PT11M41.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,86,76,162,v,Landale Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,399
+0022300854,543,PT11M41.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,86,77,163,v,Landale Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,400
+0022300854,548,PT11M13.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,404
+0022300854,549,PT11M06.00S,4,1610612745,HOU,1629111,Landale,J. Landale,5,0,1,Made,1,86,79,165,v,Landale 1' Floating Jump Shot (4 PTS) (Holiday 2 AST),Made Shot,Floating Jump shot,1,2,405
+0022300854,577,PT08M11.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale P.FOUL (P1.T3) (B.Kennedy),Foul,Personal,1,0,430
+0022300854,580,PT08M11.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Sengun FOR Landale,Substitution,,0,0,432
+0022300854,652,PT05M12.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale BLOCK (1 BLK),,,1,2,482
+0022300854,654,PT05M08.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale BLOCK (2 BLK),,,1,2,485
+0022300854,669,PT04M19.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,496
+0022300854,676,PT03M51.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:4 Def:0),Rebound,Unknown,1,0,501
+0022300854,677,PT03M51.00S,4,1610612745,HOU,1629111,Landale,J. Landale,-4,1,0,Made,1,102,89,191,v,Landale Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,2,502
+0022300854,680,PT03M51.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,102,90,192,v,Landale Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,504
+0022300854,691,PT03M19.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale Personal Take Foul (P2.PN) (B.Nansel),Foul,Personal Take,1,0,513
+0022300854,700,PT03M13.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale Personal Take Foul (P3.PN) (S.Wall),Foul,Personal Take,1,0,520
+0022300854,714,PT02M33.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,530
+0022300854,717,PT02M22.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,104,98,202,v,Landale Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,532
+0022300854,720,PT02M22.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,MISS Landale Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,534
+0022300854,748,PT00M06.20S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:5 Def:1),Rebound,Unknown,1,0,557
+0022300854,749,PT00M06.20S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,Missed,1,,,0,v,MISS Landale Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,558
+0022300870,106,PT03M21.00S,1,1610612745,HOU,1629111,Landale,J. Landale,-1,17,2,Missed,1,,,0,v,MISS Landale 2' Hook Shot,Missed Shot,Hook Shot,1,2,81
+0022300870,121,PT02M25.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,92
+0022300870,158,PT00M06.50S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Brooks FOR Landale,Substitution,,0,0,121
+0022300870,234,PT07M25.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Sengun FOR Landale,Substitution,,0,0,171
+0022300870,501,PT01M42.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,355
+0022300870,525,PT00M27.80S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Sengun FOR Landale,Substitution,,0,0,373
+0022300891,94,PT03M31.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale STEAL (1 STL),,,1,0,71
+0022300891,111,PT02M41.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,83
+0022300891,119,PT01M58.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,1,0,90
+0022300891,131,PT01M43.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,98
+0022300891,158,PT01M43.00S,1,1610612745,HOU,1629111,Landale,J. Landale,-5,4,1,Missed,1,,,0,h,MISS Landale 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,99
+0022300891,138,PT00M38.40S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,106
+0022300891,151,PT00M01.30S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Holiday FOR Landale,Substitution,,0,0,116
+0022300891,164,PT11M40.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale P.FOUL (P2.T1) (E.Dalen),Foul,Personal,1,0,123
+0022300891,175,PT10M46.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,130
+0022300891,176,PT10M41.00S,2,1610612745,HOU,1629111,Landale,J. Landale,-64,210,22,Missed,1,,,0,h,MISS Landale 22' Running Jump Shot,Missed Shot,Running Jump Shot,1,2,131
+0022300891,184,PT10M03.00S,2,1610612745,HOU,1629111,Landale,J. Landale,-208,158,26,Missed,1,,,0,h,MISS Landale 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,138
+0022300891,195,PT09M19.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Brooks FOR Landale,Substitution,,0,0,147
+0022300891,518,PT11M01.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,382
+0022300891,522,PT10M34.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,385
+0022300891,529,PT09M51.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,391
+0022300891,530,PT09M51.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,Made,1,88,79,167,h,Landale Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,1,2,392
+0022300891,534,PT09M30.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,396
+0022300891,540,PT09M07.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale P.FOUL (P3.T2) (J.Tiven),Foul,Personal,1,0,400
+0022300891,565,PT07M26.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Sengun FOR Landale,Substitution,,0,0,419
+0022300897,129,PT00M34.10S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale P.FOUL (P1.T4) (T.Washington),Foul,Personal,1,0,98
+0022300897,154,PT11M21.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,114
+0022300897,155,PT11M19.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,Made,1,29,19,48,h,Landale Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,115
+0022300897,158,PT10M41.00S,2,1610612745,HOU,1629111,Landale,J. Landale,-34,-2,3,Missed,1,,,0,h,MISS Landale 3' Layup,Missed Shot,Layup Shot,1,2,117
+0022300897,169,PT10M08.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: VanVleet FOR Landale,Substitution,,0,0,127
+0022300897,399,PT03M09.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,80,70,150,h,Landale Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,293
+0022300897,400,PT03M09.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,81,70,151,h,Landale Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,294
+0022300897,404,PT02M56.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Thompson FOR Landale,Substitution,,0,0,297
+0022300916,130,PT00M43.00S,1,1610612745,HOU,1629111,Landale,J. Landale,-55,109,12,Missed,1,,,0,v,MISS Landale 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,91
+0022300916,141,PT00M04.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Brooks FOR Landale,Substitution,,0,0,100
+0022300916,178,PT09M05.00S,2,1610612745,HOU,1629111,Landale,J. Landale,29,37,5,Made,1,40,37,77,v,Landale 5' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,1,2,129
+0022300916,200,PT07M36.00S,2,1610612745,HOU,1629111,Landale,J. Landale,-11,123,12,Missed,1,,,0,v,MISS Landale 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,144
+0022300916,209,PT07M17.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Ja. Green FOR Landale,Substitution,,0,0,152
+0022300916,499,PT11M19.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale S.FOUL (P1.T1) (G.Petraitis),Foul,Shooting,1,0,364
+0022300916,520,PT09M28.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,381
+0022300916,530,PT09M04.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,388
+0022300916,534,PT08M50.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,392
+0022300916,535,PT08M47.00S,4,1610612745,HOU,1629111,Landale,J. Landale,-179,183,26,Made,1,88,99,187,v,Landale 26' 3PT Jump Shot (5 PTS) (Smith Jr. 4 AST),Made Shot,Jump Shot,1,3,393
+0022300916,598,PT05M37.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Sengun FOR Landale,Substitution,,0,0,442
+0022300916,665,PT01M11.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale BLOCK (1 BLK),,,1,2,493
+0022300929,140,PT00M34.10S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,109
+0022300929,141,PT00M34.10S,1,1610612745,HOU,1629111,Landale,J. Landale,13,5,1,Made,1,28,21,49,v,Landale 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,110
+0022300929,167,PT10M08.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,MISS Landale Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,125
+0022300929,169,PT10M08.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,37,29,66,v,Landale Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,127
+0022300929,204,PT06M38.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,151
+0022300929,205,PT06M31.00S,2,1610612745,HOU,1629111,Landale,J. Landale,21,251,25,Made,1,46,39,85,v,Landale 25' 3PT Jump Shot (6 PTS) (VanVleet 2 AST),Made Shot,Jump Shot,1,3,152
+0022300929,214,PT05M37.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Ja. Green FOR Landale,Substitution,,0,0,159
+0022300929,424,PT01M57.00S,3,1610612745,HOU,1629111,Landale,J. Landale,2,21,2,Made,1,73,83,156,v,Landale 2' Cutting Layup Shot (8 PTS) (VanVleet 6 AST),Made Shot,Cutting Layup Shot,1,2,315
+0022300929,428,PT01M57.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,73,84,157,v,Landale Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,317
+0022300929,448,PT00M42.10S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,337
+0022300929,453,PT00M34.20S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Brooks FOR Landale,Substitution,,0,0,340
+0022300929,481,PT11M13.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,356
+0022300929,482,PT11M11.00S,4,1610612745,HOU,1629111,Landale,J. Landale,-31,26,4,Missed,1,,,0,v,MISS Landale 4' Putback Layup,Missed Shot,Putback Layup Shot,1,2,357
+0022300929,493,PT10M57.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale S.FOUL (P1.T1) (A.Moyer-Gleich),Foul,Shooting,1,0,365
+0022300929,523,PT08M41.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale BLOCK (1 BLK),,,1,2,387
+0022300929,524,PT08M38.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,388
+0022300929,545,PT06M52.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale S.FOUL (P2.T3) (A.Moyer-Gleich),Foul,Shooting,1,0,402
+0022300929,549,PT06M52.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Landale,Substitution,,0,0,405
+0022300942,80,PT04M04.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale S.FOUL (P1.T2) (Z.Zarba),Foul,Shooting,1,0,61
+0022300942,99,PT02M45.00S,1,1610612745,HOU,1629111,Landale,J. Landale,1,120,12,Made,1,24,22,46,v,Landale 12' Floating Jump Shot (2 PTS) (Ja. Green 1 AST),Made Shot,Floating Jump shot,1,2,72
+0022300942,126,PT00M18.40S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: VanVleet FOR Landale,Substitution,,0,0,93
+0022300942,165,PT10M32.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale STEAL (1 STL),,,1,0,118
+0022300942,171,PT09M51.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,123
+0022300942,173,PT09M47.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,125
+0022300942,182,PT09M19.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Je. Green FOR Landale,Substitution,,0,0,133
+0022300942,268,PT03M35.00S,2,1610612745,HOU,1629111,Landale,J. Landale,-169,209,27,Made,1,38,37,75,v,Landale 27' 3PT Jump Shot (5 PTS) (Ja. Green 2 AST),Made Shot,Jump Shot,1,3,194
+0022300942,272,PT03M04.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale OFF.Foul (P2) (Z.Zarba),Foul,Offensive,1,0,196
+0022300942,274,PT03M04.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,197
+0022300942,291,PT01M31.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,210
+0022300942,305,PT00M26.10S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale P.FOUL (P3.PN) (J.Conley),Foul,Personal,1,0,220
+0022300942,382,PT05M58.00S,3,1610612745,HOU,1629111,Landale,J. Landale,159,210,26,Missed,1,,,0,v,MISS Landale 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,271
+0022300942,386,PT05M30.00S,3,1610612745,HOU,1629111,Landale,J. Landale,1,94,9,Made,1,61,61,122,v,Landale 9' Floating Jump Shot (7 PTS) (VanVleet 2 AST),Made Shot,Floating Jump shot,1,2,274
+0022300942,408,PT04M15.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale P.FOUL (P4.T4) (Z.Zarba),Foul,Personal,1,0,288
+0022300942,410,PT04M15.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Tate FOR Landale,Substitution,,0,0,289
+0022300942,517,PT08M22.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale STEAL (2 STL),,,1,0,370
+0022300942,535,PT07M01.00S,4,1610612745,HOU,1629111,Landale,J. Landale,6,6,1,Made,1,85,91,176,v,Landale 1' Cutting Dunk Shot (9 PTS) (VanVleet 7 AST),Made Shot,Cutting Dunk Shot,1,2,381
+0022300942,539,PT06M19.00S,4,1610612745,HOU,1629111,Landale,J. Landale,10,8,1,Made,1,85,93,178,v,Landale 1' Cutting Dunk Shot (11 PTS) (Ja. Green 5 AST),Made Shot,Cutting Dunk Shot,1,2,384
+0022300942,550,PT05M50.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,391
+0022300942,553,PT05M26.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale BLOCK (1 BLK),,,1,2,395
+0022300942,575,PT03M51.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Brooks FOR Landale,Substitution,,0,0,412
+0022300942,607,PT01M39.00S,4,1610612745,HOU,1629111,Landale,J. Landale,-20,5,2,Missed,1,,,0,v,MISS Landale 2' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,432
+0022300942,616,PT00M30.00S,4,1610612745,HOU,1629111,Landale,J. Landale,16,113,11,Missed,1,,,0,v,MISS Landale 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,439
+0022300942,631,PT00M07.80S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Thompson FOR Landale,Substitution,,0,0,450
+0022300942,649,PT00M07.30S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Bullock Jr. FOR Landale,Substitution,,0,0,461
+0022300942,664,PT00M04.10S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Tate FOR Landale,Substitution,,0,0,470
+0022300957,90,PT05M07.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale S.FOUL (P1.PN) (D.Richardson),Foul,Shooting,1,0,64
+0022300957,94,PT04M51.00S,1,1610612745,HOU,1629111,Landale,J. Landale,42,39,6,Missed,1,,,0,h,MISS Landale 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,67
+0022300957,125,PT02M48.00S,1,1610612745,HOU,1629111,Landale,J. Landale,157,-10,16,Made,1,29,24,53,h,Landale 16' Jump Shot (2 PTS) (Je. Green 1 AST),Made Shot,Jump Shot,1,2,90
+0022300957,131,PT02M28.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,30,24,54,h,Landale Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,94
+0022300957,136,PT02M28.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,31,24,55,h,Landale Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,97
+0022300957,217,PT08M22.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,41,35,76,h,Landale Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,150
+0022300957,220,PT08M22.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,42,35,77,h,Landale Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,152
+0022300957,287,PT04M12.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,202
+0022300957,290,PT04M04.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,205
+0022300957,291,PT03M53.00S,2,1610612745,HOU,1629111,Landale,J. Landale,-29,47,6,Made,1,61,43,104,h,Landale 6' Cutting Dunk Shot (8 PTS) (Ja. Green 2 AST),Made Shot,Cutting Dunk Shot,1,2,206
+0022300957,296,PT02M58.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,210
+0022300957,303,PT02M05.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,215
+0022300957,304,PT02M05.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,Made,1,67,47,114,h,Landale Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,1,2,216
+0022300957,315,PT00M52.10S,2,1610612745,HOU,1629111,Landale,J. Landale,-9,34,4,Made,1,74,52,126,h,Landale 4' Cutting Dunk Shot (12 PTS) (Thompson 1 AST),Made Shot,Cutting Dunk Shot,1,2,224
+0022300957,327,PT00M08.40S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Holiday FOR Landale,Substitution,,0,0,231
+0022300957,446,PT03M38.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale OFF.Foul (P2) (S.Twardoski),Foul,Offensive,1,0,310
+0022300957,448,PT03M38.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale Offensive Foul Turnover (P2.T13),Turnover,Offensive Foul Turnover,1,0,311
+0022300957,452,PT02M50.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,315
+0022300957,539,PT08M02.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,MISS Landale Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,375
+0022300957,541,PT08M02.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,116,101,217,h,Landale Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,377
+0022300957,580,PT04M57.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,408
+0022300957,595,PT03M44.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Landale,Substitution,,0,0,421
+0022300967,123,PT02M15.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale BLOCK (1 BLK),,,1,2,93
+0022300967,157,PT00M27.60S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Brooks FOR Landale,Substitution,,0,0,117
+0022300967,250,PT06M49.00S,2,1610612745,HOU,1629111,Landale,J. Landale,185,184,26,Missed,1,,,0,h,MISS Landale 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,180
+0022300967,254,PT06M09.00S,2,1610612745,HOU,1629111,Landale,J. Landale,15,21,3,Made,1,55,43,98,h,Landale 3' Layup (2 PTS) (VanVleet 8 AST),Made Shot,Layup Shot,1,2,184
+0022300967,276,PT04M40.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale S.FOUL (P1.T3) (P.Ransom),Foul,Shooting,1,0,197
+0022300967,280,PT04M22.00S,2,1610612745,HOU,1629111,Landale,J. Landale,127,211,25,Missed,1,,,0,h,MISS Landale 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,200
+0022300967,295,PT02M54.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Landale,Substitution,,0,0,213
+0022300967,461,PT01M22.00S,3,1610612745,HOU,1629111,Landale,J. Landale,17,8,2,Made,1,96,70,166,h,Landale 2' Running Layup (4 PTS) (Je. Green 1 AST),Made Shot,Running Layup Shot,1,2,341
+0022300967,472,PT00M33.70S,3,1610612745,HOU,1629111,Landale,J. Landale,7,111,11,Made,1,98,73,171,h,Landale 11' Floating Jump Shot (6 PTS) (VanVleet 15 AST),Made Shot,Floating Jump shot,1,2,349
+0022300967,476,PT00M20.10S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,352
+0022300967,478,PT00M00.20S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,354
+0022300967,550,PT07M43.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,401
+0022300967,554,PT07M34.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale S.FOUL (P2.T3) (B.Forte),Foul,Shooting,1,0,405
+0022300967,592,PT05M50.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Brooks FOR Landale,Substitution,,0,0,423
+0022300992,70,PT05M54.00S,1,1610612745,HOU,1629111,Landale,J. Landale,-2,20,2,Made,1,18,25,43,v,Landale 2' Turnaround Hook Shot (2 PTS) (VanVleet 3 AST),Made Shot,Turnaround Hook Shot,1,2,50
+0022300992,126,PT05M27.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale BLOCK (1 BLK),,,1,2,58
+0022300992,93,PT04M47.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale BLOCK (2 BLK),,,1,2,73
+0022300992,96,PT04M45.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale P.FOUL (P1.T1) (T.Washington),Foul,Personal,1,0,75
+0022300992,104,PT03M57.00S,1,1610612745,HOU,1629111,Landale,J. Landale,-36,7,4,Missed,1,,,0,v,MISS Landale 4' Layup,Missed Shot,Layup Shot,1,2,81
+0022300992,152,PT01M04.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale S.FOUL (P2.T2) (K.Scott),Foul,Shooting,1,0,113
+0022300992,155,PT01M04.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Thompson FOR Landale,Substitution,,0,0,115
+0022300992,224,PT07M15.00S,2,1610612745,HOU,1629111,Landale,J. Landale,-31,148,15,Made,1,47,51,98,v,Landale 15' Jump Shot (4 PTS) (VanVleet 4 AST),Made Shot,Jump Shot,1,2,163
+0022300992,256,PT05M26.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale BLOCK (3 BLK),,,1,2,187
+0022300992,260,PT05M12.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,190
+0022300992,270,PT04M03.00S,2,1610612745,HOU,1629111,Landale,J. Landale,-33,28,4,Missed,1,,,0,v,MISS Landale 4' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,2,198
+0022300992,280,PT03M34.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Landale,Substitution,,0,0,207
+0022300992,424,PT06M00.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,74,73,147,v,Landale Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,318
+0022300992,425,PT06M00.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,74,74,148,v,Landale Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,319
+0022300992,468,PT03M05.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale BLOCK (4 BLK),,,1,2,351
+0022300992,470,PT02M53.00S,3,1610612745,HOU,1629111,Landale,J. Landale,-20,25,3,Made,1,78,90,168,v,Landale 3' Driving Layup (8 PTS) (Ja. Green 2 AST),Made Shot,Driving Layup Shot,1,2,353
+0022300992,476,PT02M15.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale BLOCK (5 BLK),,,1,2,358
+0022300992,488,PT01M03.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale BLOCK (6 BLK),,,1,2,368
+0022300992,492,PT00M47.80S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,371
+0022300992,494,PT00M33.40S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale BLOCK (7 BLK),,,1,2,374
+0022300992,601,PT04M59.00S,4,1610612745,HOU,1629111,Landale,J. Landale,49,30,6,Missed,1,,,0,v,MISS Landale 6' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,2,446
+0022300992,608,PT04M09.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,452
+0022300992,643,PT02M50.00S,4,1610612745,HOU,1629111,Landale,J. Landale,129,31,13,Made,1,103,124,227,v,Landale 13' Floating Jump Shot (10 PTS) (Bullock Jr. 1 AST),Made Shot,Floating Jump shot,1,2,474
+0022300992,649,PT02M29.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Tate FOR Landale,Substitution,,0,0,478
+0022301006,66,PT06M43.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,16,13,29,h,Landale Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,49
+0022301006,69,PT06M43.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,17,13,30,h,Landale Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,51
+0022301006,91,PT05M13.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,69
+0022301006,93,PT05M02.00S,1,1610612745,HOU,1629111,Landale,J. Landale,-22,92,9,Made,1,20,19,39,h,Landale 9' Hook Shot (4 PTS) (Ja. Green 1 AST),Made Shot,Hook Shot,1,2,70
+0022301006,100,PT04M24.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,76
+0022301006,103,PT04M24.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,21,19,40,h,Landale Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,78
+0022301006,108,PT04M24.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,22,19,41,h,Landale Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,81
+0022301006,111,PT03M43.00S,1,1610612745,HOU,1629111,Landale,J. Landale,18,8,2,Missed,1,,,0,h,MISS Landale 2' Layup,Missed Shot,Layup Shot,1,2,84
+0022301006,205,PT09M37.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,149
+0022301006,210,PT08M58.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,154
+0022301006,211,PT08M56.00S,2,1610612745,HOU,1629111,Landale,J. Landale,20,8,2,Made,1,50,31,81,h,Landale 2' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,1,2,155
+0022301006,212,PT08M46.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale BLOCK (1 BLK),,,1,2,157
+0022301006,226,PT08M22.00S,2,1610612745,HOU,1629111,Landale,J. Landale,4,8,1,Missed,1,,,0,h,MISS Landale 1' Dunk,Missed Shot,Dunk Shot,1,2,164
+0022301006,236,PT07M23.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,172
+0022301006,249,PT07M02.00S,2,1610612745,HOU,1629111,Landale,J. Landale,-98,105,14,Made,1,52,37,89,h,Landale 14' Jump Bank Shot (10 PTS) (Ja. Green 2 AST),Made Shot,Jump Bank Shot,1,2,180
+0022301006,256,PT06M01.00S,2,1610612745,HOU,1629111,Landale,J. Landale,93,26,10,Made,1,54,43,97,h,Landale 10' Floating Jump Shot (12 PTS) (Brooks 1 AST),Made Shot,Floating Jump shot,1,2,185
+0022301006,286,PT03M42.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,208
+0022301006,290,PT03M35.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Je. Green FOR Landale,Substitution,,0,0,212
+0022301006,441,PT04M36.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,322
+0022301006,444,PT04M11.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale BLOCK (2 BLK),,,1,2,325
+0022301006,446,PT04M09.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,326
+0022301006,452,PT03M45.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,331
+0022301006,470,PT01M55.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:5 Def:3),Rebound,Unknown,1,0,344
+0022301006,477,PT01M28.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale P.FOUL (P1.PN) (B.Schwab),Foul,Personal,1,0,350
+0022301006,507,PT11M50.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale OFF.Foul (P2) (B.Barnaky),Foul,Offensive,1,0,368
+0022301006,509,PT11M50.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale Offensive Foul Turnover (P3.T11),Turnover,Offensive Foul Turnover,1,0,369
+0022301006,512,PT11M14.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:6 Def:3),Rebound,Unknown,1,0,372
+0022301006,513,PT11M14.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,Missed,1,,,0,h,MISS Landale Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,373
+0022301006,519,PT10M30.00S,4,1610612745,HOU,1629111,Landale,J. Landale,-40,99,11,Made,1,107,99,206,h,Landale 11' Floating Jump Shot (14 PTS) (VanVleet 10 AST),Made Shot,Floating Jump shot,1,2,378
+0022301006,527,PT09M40.00S,4,1610612745,HOU,1629111,Landale,J. Landale,48,154,16,Missed,1,,,0,h,MISS Landale 16' Jump Shot,Missed Shot,Jump Shot,1,2,383
+0022301006,539,PT08M52.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:6 Def:4),Rebound,Unknown,1,0,392
+0022301006,554,PT07M56.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:6 Def:5),Rebound,Unknown,1,0,403
+0022301006,560,PT07M29.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Je. Green FOR Landale,Substitution,,0,0,409
+0022301006,661,PT01M09.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:7 Def:5),Rebound,Unknown,1,0,483
+0022301006,662,PT01M09.00S,4,1610612745,HOU,1629111,Landale,J. Landale,-6,12,1,Made,1,124,115,239,h,Landale 1' Putback Layup (16 PTS),Made Shot,Putback Layup Shot,1,2,484
+0022301006,667,PT01M09.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,125,115,240,h,Landale Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,1,0,487
+0022301024,99,PT04M23.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,69
+0022301024,100,PT04M19.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,27,3,Made,1,30,19,49,h,Landale 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,70
+0022301024,107,PT03M44.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,75
+0022301024,108,PT03M44.00S,1,1610612745,HOU,1629111,Landale,J. Landale,21,16,3,Made,1,32,19,51,h,Landale 3' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,76
+0022301024,111,PT03M19.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale OFF.Foul (P1) (R.Hussey),Foul,Offensive,1,0,79
+0022301024,113,PT03M19.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,80
+0022301024,241,PT06M39.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale P.FOUL (P2.T3) (R.Hussey),Foul,Personal,1,0,170
+0022301024,245,PT06M28.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale L.B.FOUL (P3.T4) (M.Lindsay),Foul,Loose Ball,1,0,174
+0022301024,257,PT05M30.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Ja. Green FOR Landale,Substitution,,0,0,182
+0022301024,433,PT04M40.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,ROCKETS T.Foul (Def. 3 Sec Landale ) (J.Butler),Foul,Defense 3 Second,1,0,316
+0022301024,508,PT11M11.00S,4,1610612745,HOU,1629111,Landale,J. Landale,61,128,14,Made,1,124,93,217,h,Landale 14' Jump Shot (6 PTS) (Ja. Green 4 AST),Made Shot,Jump Shot,1,2,372
+0022301024,530,PT09M02.00S,4,1610612745,HOU,1629111,Landale,J. Landale,183,186,26,Missed,1,,,0,h,MISS Landale 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,386
+0022301024,554,PT07M03.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale OFF.Foul (P4) (J.Butler),Foul,Offensive,1,0,406
+0022301024,556,PT07M03.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,1,0,407
+0022301024,563,PT06M53.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Thompson FOR Landale,Substitution,,0,0,410
+0022301038,4,PT12M00.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Jump Ball Landale vs. Reath: Tip to Brooks,Jump Ball,,1,0,2
+0022301038,48,PT08M20.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,34
+0022301038,49,PT08M18.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,Made,1,6,13,19,h,Landale Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,35
+0022301038,66,PT07M08.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,48
+0022301038,75,PT06M06.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,56
+0022301038,87,PT05M31.00S,1,1610612745,HOU,1629111,Landale,J. Landale,20,74,8,Made,1,11,15,26,h,Landale 8' Hook Shot (4 PTS) (Holiday 1 AST),Made Shot,Hook Shot,1,2,65
+0022301038,90,PT05M03.00S,1,1610612745,HOU,1629111,Landale,J. Landale,13,15,2,Made,1,13,17,30,h,Landale 2' Driving Layup (6 PTS) (Ja. Green 1 AST),Made Shot,Driving Layup Shot,1,2,67
+0022301038,96,PT05M03.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,14,17,31,h,Landale Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,70
+0022301038,106,PT04M13.00S,1,1610612745,HOU,1629111,Landale,J. Landale,102,241,26,Made,1,17,19,36,h,Landale 26' 3PT Jump Shot (10 PTS) (Holiday 2 AST),Made Shot,Jump Shot,1,3,78
+0022301038,113,PT03M38.00S,1,1610612745,HOU,1629111,Landale,J. Landale,100,237,26,Made,1,20,19,39,h,Landale 26' 3PT Jump Shot (13 PTS) (Holiday 3 AST),Made Shot,Jump Shot,1,3,82
+0022301038,127,PT02M45.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,90
+0022301038,134,PT02M06.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,21,21,42,h,Landale Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,96
+0022301038,137,PT02M06.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,22,21,43,h,Landale Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,98
+0022301038,140,PT01M47.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale BLOCK (1 BLK),,,1,2,101
+0022301038,142,PT01M43.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,102
+0022301038,167,PT00M06.50S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Thompson FOR Landale,Substitution,,0,0,123
+0022301038,311,PT01M50.00S,2,1610612745,HOU,1629111,Landale,J. Landale,-9,6,1,Made,1,44,47,91,h,Landale 1' Layup (17 PTS) (Thompson 1 AST),Made Shot,Layup Shot,1,2,233
+0022301038,376,PT08M17.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,278
+0022301038,419,PT05M08.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,314
+0022301038,445,PT03M06.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Je. Green FOR Landale,Substitution,,0,0,333
+0022301038,585,PT03M55.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale S.FOUL (P1.T4) (S.Foster),Foul,Shooting,1,0,435
+0022301038,599,PT02M45.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,444
+0022301038,646,PT00M24.60S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,480
+0022301057,92,PT05M23.00S,1,1610612745,HOU,1629111,Landale,J. Landale,-16,-1,2,Made,1,6,17,23,v,Landale 2' Cutting Finger Roll Layup Shot (2 PTS) (VanVleet 2 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,73
+0022301057,100,PT04M39.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,79
+0022301057,108,PT03M35.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,173,17,Missed,1,,,0,v,MISS Landale 17' Jump Shot,Missed Shot,Jump Shot,1,2,85
+0022301057,120,PT03M10.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,93
+0022301057,121,PT03M09.00S,1,1610612745,HOU,1629111,Landale,J. Landale,-6,-4,1,Missed,1,,,0,v,MISS Landale 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,94
+0022301057,139,PT01M48.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,107
+0022301057,151,PT00M16.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale OFF.Foul (P1) (S.Wright),Foul,Offensive,1,0,118
+0022301057,153,PT00M16.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,119
+0022301057,155,PT00M16.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Tate FOR Landale,Substitution,,0,0,121
+0022301057,215,PT08M14.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,160
+0022301057,266,PT04M46.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale STEAL (1 STL),,,1,0,197
+0022301057,271,PT04M40.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Landale,Substitution,,0,0,200
+0022301057,520,PT10M58.00S,4,1610612745,HOU,1629111,Landale,J. Landale,-28,106,11,Made,1,88,82,170,v,Landale 11' Floating Jump Shot (4 PTS) (Ja. Green 2 AST),Made Shot,Floating Jump shot,1,2,384
+0022301057,524,PT10M20.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,387
+0022301057,526,PT10M12.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,389
+0022301057,527,PT10M11.00S,4,1610612745,HOU,1629111,Landale,J. Landale,-2,22,2,Missed,1,,,0,v,MISS Landale 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,390
+0022301057,545,PT09M15.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,92,86,178,v,Landale Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,404
+0022301057,550,PT09M15.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,MISS Landale Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,407
+0022301057,554,PT08M48.00S,4,1610612745,HOU,1629111,Landale,J. Landale,6,18,2,Made,1,92,88,180,v,Landale 2' Layup (7 PTS) (Brooks 4 AST),Made Shot,Layup Shot,1,2,411
+0022301057,562,PT08M48.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,MISS Landale Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,415
+0022301057,603,PT06M19.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Thompson FOR Landale,Substitution,,0,0,445
+0022301072,103,PT04M13.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale L.B.FOUL (P1.T4) (B.Schwab),Foul,Loose Ball,1,0,85
+0022301072,124,PT02M06.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,101
+0022301072,125,PT01M53.00S,1,1610612745,HOU,1629111,Landale,J. Landale,-43,36,6,Missed,1,,,0,v,MISS Landale 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,102
+0022301072,149,PT01M07.00S,1,1610612745,HOU,1629111,Landale,J. Landale,-81,239,25,Missed,1,,,0,v,MISS Landale 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,117
+0022301072,245,PT06M07.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,191
+0022301072,246,PT06M03.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale OFF.Foul (P2) (E.Dalen),Foul,Offensive,1,0,192
+0022301072,248,PT06M03.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1,0,193
+0022301072,256,PT05M31.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale BLOCK (1 BLK),,,1,2,201
+0022301072,278,PT04M05.00S,2,1610612745,HOU,1629111,Landale,J. Landale,29,18,3,Made,1,39,28,67,v,Landale 3' Cutting Layup Shot (2 PTS) (VanVleet 4 AST),Made Shot,Cutting Layup Shot,1,2,217
+0022301072,303,PT01M59.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,237
+0022301072,310,PT00M59.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,244
+0022301072,318,PT00M29.10S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Tate FOR Landale,Substitution,,0,0,250
+0022301072,523,PT08M47.00S,4,1610612745,HOU,1629111,Landale,J. Landale,49,67,8,Missed,1,,,0,v,MISS Landale 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,395
+0022301072,561,PT06M00.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale S.FOUL (P3.T1) (E.Dalen),Foul,Shooting,1,0,424
+0022301072,588,PT03M59.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,446
+0022301072,603,PT03M23.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale S.FOUL (P4.T2) (B.Schwab),Foul,Shooting,1,0,456
+0022301072,621,PT01M49.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Landale,Substitution,,0,0,469
+0022301083,84,PT06M11.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale STEAL (1 STL),,,1,0,63
+0022301083,86,PT05M57.00S,1,1610612745,HOU,1629111,Landale,J. Landale,-47,106,12,Missed,1,,,0,h,MISS Landale 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,64
+0022301083,103,PT04M23.00S,1,1610612745,HOU,1629111,Landale,J. Landale,-17,29,3,Made,1,17,21,38,h,Landale 3' Driving Bank Hook Shot (2 PTS) (VanVleet 2 AST),Made Shot,Driving Bank Hook Shot,1,2,76
+0022301083,110,PT03M44.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,81
+0022301083,111,PT03M35.00S,1,1610612745,HOU,1629111,Landale,J. Landale,-22,13,3,Missed,1,,,0,h,MISS Landale 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,82
+0022301083,131,PT02M14.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,97
+0022301083,144,PT01M00.00S,1,1610612745,HOU,1629111,Landale,J. Landale,54,120,13,Made,1,22,33,55,h,Landale 13' Floating Jump Shot (4 PTS) (Ja. Green 1 AST),Made Shot,Floating Jump shot,1,2,106
+0022301083,256,PT05M04.00S,2,1610612745,HOU,1629111,Landale,J. Landale,124,22,13,Missed,1,,,0,h,MISS Landale 13' Jump Shot,Missed Shot,Jump Shot,1,2,184
+0022301083,275,PT03M33.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Landale,Substitution,,0,0,198
+0022301083,416,PT05M09.00S,3,1610612745,HOU,1629111,Landale,J. Landale,11,6,1,Made,1,55,82,137,h,Landale 1' Dunk (6 PTS) (Ja. Green 3 AST),Made Shot,Dunk Shot,1,2,304
+0022301083,419,PT04M34.00S,3,1610612745,HOU,1629111,Landale,J. Landale,-4,176,18,Made,1,57,84,141,h,Landale 18' Jump Shot (8 PTS) (Ja. Green 4 AST),Made Shot,Jump Shot,1,2,306
+0022301083,445,PT02M41.00S,3,1610612745,HOU,1629111,Landale,J. Landale,-43,21,5,Missed,1,,,0,h,MISS Landale 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,323
+0022301083,491,PT10M43.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,352
+0022301083,492,PT10M40.00S,4,1610612745,HOU,1629111,Landale,J. Landale,36,6,4,Missed,1,,,0,h,MISS Landale 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,353
+0022301083,507,PT09M16.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,364
+0022301083,508,PT09M15.00S,4,1610612745,HOU,1629111,Landale,J. Landale,7,0,1,Made,1,81,105,186,h,Landale 1' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,1,2,365
+0022301083,511,PT09M15.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,82,105,187,h,Landale Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,367
+0022301083,514,PT08M38.00S,4,1610612745,HOU,1629111,Landale,J. Landale,-61,21,6,Missed,1,,,0,h,MISS Landale 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,369
+0022301083,525,PT08M05.00S,4,1610612745,HOU,1629111,Landale,J. Landale,27,24,4,Missed,1,,,0,h,MISS Landale 4' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,377
+0022301083,529,PT08M04.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Tate FOR Landale,Substitution,,0,0,380
+0022301098,103,PT05M01.00S,1,1610612745,HOU,1629111,Landale,J. Landale,12,26,3,Missed,1,,,0,v,MISS Landale 3' Layup,Missed Shot,Layup Shot,1,2,66
+0022301098,88,PT04M55.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,72
+0022301098,95,PT04M04.00S,1,1610612745,HOU,1629111,Landale,J. Landale,-12,5,1,Made,1,12,15,27,v,Landale 1' Reverse Layup (2 PTS) (Ja. Green 2 AST),Made Shot,Reverse Layup Shot,1,2,77
+0022301098,110,PT03M10.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale P.FOUL (P1.T4) (D.Taylor),Foul,Personal,1,0,85
+0022301098,166,PT02M05.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,95
+0022301098,147,PT00M11.70S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Brooks FOR Landale,Substitution,,0,0,113
+0022301098,211,PT08M03.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,151
+0022301098,216,PT07M26.00S,2,1610612745,HOU,1629111,Landale,J. Landale,70,242,25,Missed,1,,,0,v,MISS Landale 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,154
+0022301098,224,PT06M13.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale Offensive Goaltending Turnover (P2.T4),Turnover,Offensive Goaltending,1,0,160
+0022301098,231,PT06M13.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Landale,Substitution,,0,0,167
+0022301098,444,PT02M14.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,75,69,144,v,Landale Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,315
+0022301098,445,PT02M14.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,75,70,145,v,Landale Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,316
+0022301098,521,PT08M02.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Ja. Green FOR Landale,Substitution,,0,0,373
+0022301113,89,PT04M10.00S,1,1610612745,HOU,1629111,Landale,J. Landale,15,9,2,Missed,1,,,0,h,MISS Landale 2' Layup,Missed Shot,Layup Shot,1,2,69
+0022301113,101,PT03M42.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,76
+0022301113,102,PT03M35.00S,1,1610612745,HOU,1629111,Landale,J. Landale,-6,26,3,Made,1,13,25,38,h,Landale 3' Driving Dunk (2 PTS) (VanVleet 1 AST),Made Shot,Driving Dunk Shot,1,2,77
+0022301113,109,PT02M54.00S,1,1610612745,HOU,1629111,Landale,J. Landale,-5,22,2,Made,1,15,25,40,h,Landale 2' Dunk (4 PTS) (VanVleet 2 AST),Made Shot,Dunk Shot,1,2,81
+0022301113,148,PT00M34.90S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,111
+0022301113,149,PT00M34.90S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,Made,1,24,30,54,h,Landale Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,112
+0022301113,152,PT00M10.70S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,115
+0022301113,169,PT11M20.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale L.B.FOUL (P1.T1) (N.Sago),Foul,Loose Ball,1,0,125
+0022301113,197,PT08M21.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,146
+0022301113,216,PT07M35.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: VanVleet FOR Landale,Substitution,,0,0,158
+0022301113,454,PT01M56.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale S.FOUL (P2.PN) (N.Sago),Foul,Shooting,1,0,328
+0022301113,460,PT01M37.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale STEAL (1 STL),,,1,0,334
+0022301113,469,PT00M52.10S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,340
+0022301113,482,PT00M20.80S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Brooks FOR Landale,Substitution,,0,0,350
+0022301113,519,PT10M07.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:5 Def:1),Rebound,Unknown,1,0,371
+0022301113,520,PT10M03.00S,4,1610612745,HOU,1629111,Landale,J. Landale,-17,10,2,Made,1,90,108,198,h,Landale 2' Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,2,372
+0022301113,525,PT09M33.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Tate FOR Landale,Substitution,,0,0,377
+0022301120,99,PT03M44.00S,1,1610612745,HOU,1629111,Landale,J. Landale,25,249,25,Missed,1,,,0,h,MISS Landale 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,71
+0022301120,250,PT05M47.00S,2,1610612745,HOU,1629111,Landale,J. Landale,11,74,7,Made,1,40,48,88,h,Landale 7' Floating Jump Shot (2 PTS) (Ja. Green 2 AST),Made Shot,Floating Jump shot,1,2,176
+0022301120,267,PT04M36.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,45,50,95,h,Landale Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,189
+0022301120,268,PT04M36.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,46,50,96,h,Landale Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,190
+0022301120,280,PT03M05.00S,2,1610612745,HOU,1629111,Landale,J. Landale,22,10,2,Made,1,50,52,102,h,Landale 2' Running Dunk (6 PTS) (Je. Green 2 AST),Made Shot,Running Dunk Shot,1,2,202
+0022301120,303,PT00M52.80S,2,1610612745,HOU,1629111,Landale,J. Landale,21,33,4,Missed,1,,,0,h,MISS Landale 4' Jump Shot,Missed Shot,Jump Shot,1,2,218
+0022301120,317,PT00M34.60S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Holiday FOR Landale,Substitution,,0,0,228
+0022301120,430,PT03M28.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,309
+0022301120,436,PT03M13.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,315
+0022301120,459,PT02M02.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale STEAL (1 STL),,,1,0,333
+0022301120,478,PT00M42.20S,3,1610612745,HOU,1629111,Landale,J. Landale,9,13,2,Made,1,83,93,176,h,Landale 2' Dunk (8 PTS) (Whitmore 1 AST),Made Shot,Dunk Shot,1,2,347
+0022301120,500,PT11M17.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,359
+0022301120,513,PT09M38.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,370
+0022301120,514,PT09M37.00S,4,1610612745,HOU,1629111,Landale,J. Landale,36,6,4,Missed,1,,,0,h,MISS Landale 4' Putback Layup,Missed Shot,Putback Layup Shot,1,2,371
+0022301120,537,PT07M38.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,388
+0022301120,540,PT07M26.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Brooks FOR Landale,Substitution,,0,0,390
+0022301120,579,PT04M51.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,421
+0022301120,584,PT04M03.00S,4,1610612745,HOU,1629111,Landale,J. Landale,40,17,4,Made,1,98,114,212,h,Landale 4' Layup (10 PTS) (Brooks 3 AST),Made Shot,Layup Shot,1,2,425
+0022301120,591,PT03M24.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Holiday FOR Landale,Substitution,,0,0,431
+0022301131,151,PT01M17.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,MISS Landale Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,112
+0022301131,153,PT01M17.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,21,37,58,v,Landale Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,114
+0022301131,164,PT00M36.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Holiday FOR Landale,Substitution,,0,0,122
+0022301131,199,PT11M08.00S,2,1610612745,HOU,1629111,Landale,J. Landale,29,127,13,Made,1,29,44,73,v,Landale 13' Jump Shot (3 PTS) (VanVleet 2 AST),Made Shot,Jump Shot,1,2,139
+0022301131,207,PT10M46.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,31,45,76,v,Landale Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,144
+0022301131,208,PT10M46.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,31,46,77,v,Landale Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,145
+0022301131,235,PT08M29.00S,2,1610612745,HOU,1629111,Landale,J. Landale,-6,11,1,Made,1,33,54,87,v,Landale 1' Cutting Layup Shot (7 PTS) (VanVleet 4 AST),Made Shot,Cutting Layup Shot,1,2,165
+0022301131,242,PT07M59.00S,2,1610612745,HOU,1629111,Landale,J. Landale,6,90,9,Made,1,34,56,90,v,Landale 9' Floating Jump Shot (9 PTS) (VanVleet 5 AST),Made Shot,Floating Jump shot,1,2,171
+0022301131,247,PT07M25.00S,2,1610612745,HOU,1629111,Landale,J. Landale,-20,15,3,Missed,1,,,0,v,MISS Landale 3' Running Layup,Missed Shot,Running Layup Shot,1,2,175
+0022301131,262,PT07M00.00S,2,1610612745,HOU,1629111,Landale,J. Landale,-28,37,5,Made,1,36,58,94,v,Landale 5' Hook Shot (11 PTS) (Brooks 2 AST),Made Shot,Hook Shot,1,2,186
+0022301131,278,PT05M34.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale OFF.Foul (P1) (C.Blair),Foul,Offensive,1,0,195
+0022301131,280,PT05M34.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,196
+0022301131,281,PT05M34.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Ja. Green FOR Landale,Substitution,,0,0,197
+0022301131,508,PT01M02.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,359
+0022301131,509,PT01M01.00S,3,1610612745,HOU,1629111,Landale,J. Landale,11,36,4,Made,1,96,102,198,v,Landale 4' Putback Layup (13 PTS),Made Shot,Putback Layup Shot,1,2,360
+0022301131,522,PT00M34.10S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Hinton FOR Landale,Substitution,,0,0,370
+0022301131,564,PT10M31.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale S.FOUL (P2.T2) (C.Blair),Foul,Shooting,1,0,396
+0022301131,574,PT09M51.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,MISS Landale Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,403
+0022301131,578,PT09M51.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,MISS Landale Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,406
+0022301131,583,PT09M34.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale STEAL (1 STL),,,1,0,410
+0022301131,585,PT09M24.00S,4,1610612745,HOU,1629111,Landale,J. Landale,5,29,3,Missed,1,,,0,v,MISS Landale 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,411
+0022301131,590,PT08M52.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale OFF.Foul (P3) (C.Blair),Foul,Offensive,1,0,415
+0022301131,592,PT08M52.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,1,0,416
+0022301131,600,PT08M22.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Brooks FOR Landale,Substitution,,0,0,423
+0022301150,76,PT04M49.00S,1,1610612745,HOU,1629111,Landale,J. Landale,-5,42,4,Made,1,22,17,39,h,Landale 4' Turnaround Hook Shot (2 PTS) (Ja. Green 2 AST),Made Shot,Turnaround Hook Shot,1,2,56
+0022301150,89,PT03M46.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale STEAL (1 STL),,,1,0,65
+0022301150,125,PT01M39.00S,1,1610612745,HOU,1629111,Landale,J. Landale,2,21,2,Made,1,33,21,54,h,Landale 2' Turnaround Hook Shot (4 PTS),Made Shot,Turnaround Hook Shot,1,2,91
+0022301150,143,PT00M07.80S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Je. Green FOR Landale,Substitution,,0,0,104
+0022301150,250,PT05M17.00S,2,1610612745,HOU,1629111,Landale,J. Landale,43,251,25,Missed,1,,,0,h,MISS Landale 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,178
+0022301150,252,PT05M09.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale BLOCK (1 BLK),,,1,2,181
+0022301150,254,PT05M08.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,182
+0022301150,270,PT04M00.00S,2,1610612745,HOU,1629111,Landale,J. Landale,-50,258,26,Made,1,54,41,95,h,Landale 26' 3PT Jump Shot (7 PTS) (Ja. Green 4 AST),Made Shot,Jump Shot,1,3,195
+0022301150,290,PT02M21.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Landale,Substitution,,0,0,211
+0022301150,426,PT02M55.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,308
+0022301150,459,PT01M19.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale S.FOUL (P1.PN) (M.Kogut),Foul,Shooting,1,0,332
+0022301150,505,PT10M46.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale BLOCK (2 BLK),,,1,2,364
+0022301150,510,PT10M16.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,Landale S.FOUL (P2.T1) (M.Kogut),Foul,Shooting,1,0,368
+0022301150,543,PT07M50.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,MISS Landale Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,392
+0022301150,545,PT07M50.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,101,93,194,h,Landale Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,394
+0022301150,564,PT06M18.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Je. Green FOR Landale,Substitution,,0,0,412
+0022301150,614,PT02M05.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,h,SUB: Brooks FOR Landale,Substitution,,0,0,446
+0022301168,128,PT02M14.00S,1,1610612745,HOU,1629111,Landale,J. Landale,-32,31,4,Made,1,24,26,50,v,Landale 4' Cutting Layup Shot (2 PTS) (Whitmore 1 AST),Made Shot,Cutting Layup Shot,1,2,90
+0022301168,204,PT07M45.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale STEAL (1 STL),,,1,0,147
+0022301168,206,PT07M42.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,148
+0022301168,218,PT06M31.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale S.FOUL (P1.T2) (C.Flores),Foul,Shooting,1,0,157
+0022301168,230,PT05M54.00S,2,1610612745,HOU,1629111,Landale,J. Landale,25,18,3,Made,1,51,51,102,v,Landale 3' Running Dunk (4 PTS) (Thompson 2 AST),Made Shot,Running Dunk Shot,1,2,166
+0022301168,232,PT05M35.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale S.FOUL (P2.T3) (R.Acosta),Foul,Shooting,1,0,167
+0022301168,266,PT03M23.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale S.FOUL (P3.T4) (A.Nagy),Foul,Shooting,1,0,192
+0022301168,270,PT03M23.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Landale,Substitution,,0,0,195
+0022301168,379,PT05M59.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,275
+0022301168,385,PT05M31.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale BLOCK (1 BLK),,,1,2,281
+0022301168,435,PT02M18.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale S.FOUL (P4.T2) (A.Nagy),Foul,Shooting,1,0,317
+0022301168,438,PT02M18.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Landale,Substitution,,0,0,319
+0022301168,525,PT09M16.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,106,102,208,v,Landale Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,378
+0022301168,526,PT09M16.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,106,103,209,v,Landale Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,379
+0022301168,648,PT00M47.40S,4,1610612745,HOU,1629111,Landale,J. Landale,-102,225,25,Made,1,124,121,245,v,Landale 25' 3PT Jump Shot (9 PTS) (VanVleet 7 AST),Made Shot,Jump Shot,1,3,483
+0022301168,656,PT00M13.50S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Holiday FOR Landale,Substitution,,0,0,489
+0022301183,48,PT06M52.00S,1,1610612745,HOU,1629111,Landale,J. Landale,-234,47,24,Missed,1,,,0,v,MISS Landale 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,33
+0022301183,63,PT06M01.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,45
+0022301183,70,PT04M58.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale S.FOUL (P1.T3) (K.Cutler),Foul,Shooting,1,0,51
+0022301183,76,PT04M41.00S,1,1610612745,HOU,1629111,Landale,J. Landale,36,13,4,Made,1,19,13,32,v,Landale 4' Driving Reverse Layup (2 PTS) (Whitmore 1 AST),Made Shot,Driving Reverse Layup Shot,1,2,57
+0022301183,82,PT04M09.00S,1,1610612745,HOU,1629111,Landale,J. Landale,12,22,3,Made,1,19,15,34,v,Landale 3' Cutting Dunk Shot (4 PTS) (Je. Green 1 AST),Made Shot,Cutting Dunk Shot,1,2,62
+0022301183,103,PT02M55.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Landale,Substitution,,0,0,77
+0022301183,197,PT07M25.00S,2,1610612745,HOU,1629111,Landale,J. Landale,-4,36,4,Made,1,29,39,68,v,Landale 4' Running Layup (6 PTS) (Thompson 1 AST),Made Shot,Running Layup Shot,1,2,147
+0022301183,199,PT07M06.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale STEAL (1 STL),,,1,0,149
+0022301183,240,PT02M54.00S,2,1610612745,HOU,1629111,Landale,J. Landale,47,258,26,Missed,1,,,0,v,MISS Landale 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,179
+0022301183,258,PT01M07.00S,2,1610612745,HOU,1629111,Landale,J. Landale,-6,21,2,Made,1,40,54,94,v,Landale 2' Running Dunk (8 PTS) (Smith Jr. 2 AST),Made Shot,Running Dunk Shot,1,2,195
+0022301183,264,PT00M15.90S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale BLOCK (1 BLK),,,1,2,201
+0022301183,280,PT11M43.00S,3,1610612745,HOU,1629111,Landale,J. Landale,141,92,17,Made,1,40,56,96,v,Landale 17' Jump Shot (10 PTS) (Thompson 3 AST),Made Shot,Jump Shot,1,2,211
+0022301183,311,PT08M31.00S,3,1610612745,HOU,1629111,Landale,J. Landale,22,20,3,Made,1,50,66,116,v,Landale 3' Reverse Layup (12 PTS) (Thompson 5 AST),Made Shot,Reverse Layup Shot,1,2,234
+0022301183,327,PT07M13.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale BLOCK (2 BLK),,,1,2,246
+0022301183,329,PT07M10.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,247
+0022301183,344,PT06M23.00S,3,1610612745,HOU,1629111,Landale,J. Landale,13,34,4,Missed,1,,,0,v,MISS Landale 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,260
+0022301183,354,PT06M00.00S,3,1610612745,HOU,1629111,Landale,J. Landale,55,110,12,Made,1,56,69,125,v,Landale 12' Jump Shot (14 PTS) (Thompson 6 AST),Made Shot,Jump Shot,1,2,267
+0022301183,367,PT05M14.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,276
+0022301183,368,PT05M07.00S,3,1610612745,HOU,1629111,Landale,J. Landale,66,252,26,Missed,1,,,0,v,MISS Landale 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,277
+0022301183,373,PT04M58.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Je. Green FOR Landale,Substitution,,0,0,281
+0022301183,515,PT07M52.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale L.B.FOUL (P2.T4) (K.Scott),Foul,Loose Ball,1,0,386
+0022301183,561,PT05M45.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,420
+0022301183,564,PT05M42.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,91,105,196,v,Landale Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,422
+0022301183,565,PT05M42.00S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,91,106,197,v,Landale Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,423
+0022301183,586,PT04M01.00S,4,1610612745,HOU,1629111,Landale,J. Landale,85,55,10,Missed,1,,,0,v,MISS Landale 10' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,2,439
+0022301183,599,PT03M10.00S,4,1610612745,HOU,1629111,Landale,J. Landale,-125,34,13,Made,1,99,111,210,v,Landale 13' Jump Shot (18 PTS) (Smith Jr. 4 AST),Made Shot,Jump Shot,1,2,450
+0022301183,626,PT00M30.90S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,105,115,220,v,Landale Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,470
+0022301183,627,PT00M30.90S,4,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,105,116,221,v,Landale Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,471
+0022301199,30,PT09M24.00S,1,1610612745,HOU,1629111,Landale,J. Landale,-190,-7,19,Missed,1,,,0,v,MISS Landale 19' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,22
+0022301199,34,PT09M06.00S,1,1610612745,HOU,1629111,Landale,J. Landale,-12,14,2,Made,1,4,4,8,v,Landale 2' Cutting Layup Shot (2 PTS) (Ja. Green 2 AST),Made Shot,Cutting Layup Shot,1,2,26
+0022301199,37,PT08M50.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,28
+0022301199,47,PT07M33.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,37
+0022301199,56,PT06M35.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,45
+0022301199,84,PT04M20.00S,1,1610612745,HOU,1629111,Landale,J. Landale,143,214,26,Made,1,12,20,32,v,Landale 26' 3PT Jump Shot (5 PTS) (Thompson 2 AST),Made Shot,Jump Shot,1,3,64
+0022301199,91,PT04M06.00S,1,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Je. Green FOR Landale,Substitution,,0,0,69
+0022301199,266,PT04M50.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale Traveling Turnover (P1.T9),Turnover,Traveling,1,0,203
+0022301199,268,PT04M27.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,205
+0022301199,305,PT02M36.00S,2,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale Lost Ball Turnover (P3.T11),Turnover,Lost Ball,1,0,232
+0022301199,317,PT01M31.00S,2,1610612745,HOU,1629111,Landale,J. Landale,129,103,17,Missed,1,,,0,v,MISS Landale 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,242
+0022301199,341,PT11M31.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale STEAL (1 STL),,,1,0,261
+0022301199,351,PT10M21.00S,3,1610612745,HOU,1629111,Landale,J. Landale,121,236,27,Missed,1,,,0,v,MISS Landale 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,268
+0022301199,390,PT07M27.00S,3,1610612745,HOU,1629111,Landale,J. Landale,-40,107,11,Missed,1,,,0,v,MISS Landale 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,298
+0022301199,406,PT05M59.00S,3,1610612745,HOU,1629111,Landale,J. Landale,-175,214,28,Missed,1,,,0,v,MISS Landale 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,313
+0022301199,407,PT05M56.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,314
+0022301199,441,PT03M48.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,Landale Out of Bounds - Bad Pass Turnover Turnover (P4.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,338
+0022301199,443,PT03M48.00S,3,1610612745,HOU,1629111,Landale,J. Landale,0,0,0,,0,,,0,v,SUB: Samuels Jr. FOR Landale,Substitution,,0,0,340

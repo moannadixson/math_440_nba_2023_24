@@ -1,0 +1,490 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300119,262,PT06M21.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,188
+0022300119,282,PT04M44.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,50,31,6,Missed,1,,,0,v,MISS Wilson 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,202
+0022300119,322,PT02M18.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson BLOCK (1 BLK),,,1,2,232
+0022300119,341,PT01M32.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Brooks FOR Wilson,Substitution,,0,0,250
+0022300303,650,PT03M39.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,441
+0022300303,651,PT03M39.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,Made,1,121,106,227,v,Wilson Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,442
+0022300322,248,PT05M54.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,-42,73,8,Missed,1,,,0,v,MISS Wilson 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,174
+0022300322,249,PT05M50.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,175
+0022300322,268,PT04M39.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,189
+0022300322,274,PT04M23.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Thomas FOR Wilson,Substitution,,0,0,195
+0022300322,579,PT08M47.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,22,13,3,Made,1,101,75,176,v,Wilson 3' Cutting Layup Shot (2 PTS) (Giles III 1 AST),Made Shot,Cutting Layup Shot,1,2,410
+0022300322,583,PT08M21.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,413
+0022300322,587,PT07M57.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,417
+0022300322,601,PT07M12.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,103,79,182,v,Wilson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,428
+0022300322,602,PT07M12.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,103,80,183,v,Wilson Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,429
+0022300322,630,PT04M46.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-211,111,24,Made,1,106,90,196,v,Wilson 24' 3PT Jump Shot (7 PTS) (Watford 5 AST),Made Shot,Jump Shot,1,3,455
+0022300339,116,PT02M38.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson OFF.Foul (P1) (S.Corbin),Foul,Offensive,1,0,87
+0022300339,118,PT02M38.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,88
+0022300339,146,PT00M21.80S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,110
+0022300339,147,PT00M20.60S,1,1610612751,BKN,1630592,Wilson,J. Wilson,22,29,4,Made,1,30,25,55,v,Wilson 4' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,111
+0022300339,199,PT08M04.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Bridges FOR Wilson,Substitution,,0,0,147
+0022300339,329,PT00M28.10S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Thomas FOR Wilson,Substitution,,0,0,243
+0022300339,698,PT00M05.40S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Johnson FOR Wilson,Substitution,,0,0,371
+0022300357,155,PT00M49.20S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,25,25,50,v,Wilson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,118
+0022300357,156,PT00M49.20S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,25,26,51,v,Wilson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,119
+0022300357,172,PT11M23.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson S.FOUL (P1.T1) (K.Lane),Foul,Shooting,1,0,130
+0022300357,196,PT09M21.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,218,118,25,Made,1,34,37,71,v,Wilson 25' 3PT Jump Shot (5 PTS) (Dinwiddie 4 AST),Made Shot,Jump Shot,1,3,148
+0022300357,214,PT08M19.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Bridges FOR Wilson,Substitution,,0,0,159
+0022300357,636,PT02M28.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson Offensive Charge Foul (P2) (K.Lane),Foul,Offensive Charge,1,0,467
+0022300357,638,PT02M28.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson Offensive Foul Turnover (P1.T14),Turnover,Offensive Foul Turnover,1,0,468
+0022300368,632,PT03M25.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,10,8,1,Made,1,92,115,207,h,Wilson 1' Layup (2 PTS) (Sharpe 3 AST),Made Shot,Layup Shot,1,2,473
+0022300368,672,PT01M21.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,127,242,27,Missed,1,,,0,h,MISS Wilson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,501
+0022300368,683,PT01M06.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,510
+0022300368,692,PT00M26.90S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Jump Ball Wilson vs. Hart: Tip to O'Neale,Jump Ball,,1,0,518
+0022300368,695,PT00M26.90S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson STEAL (1 STL),,,1,0,520
+0022300394,254,PT05M30.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson S.FOUL (P1.PN) (B.Nansel),Foul,Shooting,1,0,176
+0022300394,267,PT04M39.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,186
+0022300394,273,PT04M01.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,28,17,3,Missed,1,,,0,h,MISS Wilson 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,190
+0022300394,274,PT03M58.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,191
+0022300394,284,PT02M55.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,54,64,8,Made,1,60,48,108,h,Wilson 8' Driving Hook Shot (2 PTS) (Bridges 5 AST),Made Shot,Driving Hook Shot,1,2,197
+0022300394,299,PT01M50.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Thomas FOR Wilson,Substitution,,0,0,208
+0022300394,675,PT01M15.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson S.FOUL (P2.T3) (M.Myers),Foul,Shooting,1,0,479
+0022300417,121,PT02M30.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson P.FOUL (P1.T4) (T.Maddox),Foul,Personal,1,0,86
+0022300417,133,PT01M43.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,95
+0022300417,138,PT01M25.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,-2,4,0,Made,1,26,27,53,h,Wilson Driving Layup (2 PTS) (Watford 1 AST),Made Shot,Driving Layup Shot,1,2,99
+0022300417,142,PT01M25.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,27,27,54,h,Wilson Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,101
+0022300417,158,PT00M10.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,113
+0022300417,162,PT00M05.10S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,30,32,62,h,Wilson Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,115
+0022300417,167,PT00M05.10S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,31,32,63,h,Wilson Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,118
+0022300417,200,PT09M50.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,137
+0022300417,204,PT09M28.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,-170,179,25,Missed,1,,,0,h,MISS Wilson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,140
+0022300417,229,PT07M41.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,36,39,75,h,Wilson Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,161
+0022300417,230,PT07M41.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,37,39,76,h,Wilson Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,162
+0022300417,245,PT06M05.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Whitehead FOR Wilson,Substitution,,0,0,173
+0022300417,290,PT01M52.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,58,47,7,Made,1,49,58,107,h,Wilson 7' Driving Floating Bank Jump Shot (9 PTS) (Brooks 2 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,209
+0022300417,293,PT01M38.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,16,9,2,Made,1,51,58,109,h,Wilson 2' Running Layup (11 PTS),Made Shot,Running Layup Shot,1,2,212
+0022300417,297,PT01M38.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,52,58,110,h,Wilson Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0,214
+0022300417,316,PT00M13.60S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,58,63,121,h,Wilson Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,230
+0022300417,319,PT00M13.60S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,59,63,122,h,Wilson Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,232
+0022300417,324,PT12M00.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,60,66,126,h,Wilson Free Throw Technical (15 PTS),Free Throw,Free Throw Technical,1,0,235
+0022300417,344,PT10M52.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,12,264,26,Missed,1,,,0,h,MISS Wilson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,249
+0022300417,346,PT10M43.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,116,22,12,Missed,1,,,0,h,MISS Wilson 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,251
+0022300417,353,PT10M10.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,63,71,134,h,Wilson Free Throw Technical (16 PTS),Free Throw,Free Throw Technical,1,0,257
+0022300417,357,PT09M50.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson S.FOUL (P2.T2) (J.Orr),Foul,Shooting,0,0,260
+0022300417,374,PT08M03.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,273
+0022300417,376,PT07M48.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,275
+0022300417,377,PT07M43.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,2,20,2,Missed,1,,,0,h,MISS Wilson 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,276
+0022300417,385,PT06M54.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson S.FOUL (P3.T3) (J.Orr),Foul,Shooting,1,0,282
+0022300417,424,PT05M27.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,-15,17,2,Missed,1,,,0,h,MISS Wilson 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,302
+0022300417,426,PT05M24.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,304
+0022300417,429,PT04M08.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,82,85,167,h,Wilson Free Throw Technical (17 PTS),Free Throw,Free Throw Technical,0,0,314
+0022300417,431,PT04M08.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Clowney FOR Wilson,Substitution,,0,0,316
+0022300417,498,PT11M13.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,360
+0022300417,500,PT10M54.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:5 Def:2),Rebound,Unknown,1,0,362
+0022300417,501,PT10M54.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,4,22,2,Missed,1,,,0,h,MISS Wilson 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,363
+0022300417,528,PT09M17.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:6 Def:2),Rebound,Unknown,1,0,386
+0022300417,529,PT09M16.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-4,16,2,Made,1,98,107,205,h,Wilson 2' Putback Layup (19 PTS),Made Shot,Putback Layup Shot,1,2,387
+0022300417,531,PT08M40.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,38,5,4,Made,1,100,109,209,h,Wilson 4' Driving Floating Jump Shot (21 PTS) (Watford 3 AST),Made Shot,Driving Floating Jump Shot,1,2,389
+0022300417,538,PT08M25.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Clowney FOR Wilson,Substitution,,0,0,393
+0022300417,577,PT06M06.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-195,167,26,Missed,1,,,0,h,MISS Wilson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,418
+0022300417,609,PT04M05.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:7 Def:2),Rebound,Unknown,1,0,442
+0022300417,634,PT02M29.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:7 Def:3),Rebound,Unknown,1,0,462
+0022300417,647,PT01M25.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson P.FOUL (P4.PN) (T.Maddox),Foul,Personal,1,0,472
+0022300417,676,PT00M10.70S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-36,137,14,Missed,1,,,0,h,MISS Wilson 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,490
+0022300461,466,PT11M27.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,346
+0022300461,467,PT11M27.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,Made,1,85,60,145,v,Wilson Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,347
+0022300461,494,PT09M19.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-23,41,5,Missed,1,,,0,v,MISS Wilson 5' Running Layup,Missed Shot,Running Layup Shot,1,2,369
+0022300461,496,PT09M15.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,371
+0022300461,500,PT08M37.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,207,122,24,Missed,1,,,0,v,MISS Wilson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,374
+0022300461,544,PT05M46.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-1,17,2,Made,1,99,71,170,v,Wilson 2' Layup (4 PTS),Made Shot,Layup Shot,1,2,404
+0022300461,545,PT05M32.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson STEAL (1 STL),,,1,0,406
+0022300461,549,PT05M20.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-232,9,0,Missed,1,,,0,v,MISS Wilson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,409
+0022300461,560,PT04M41.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,418
+0022300461,561,PT04M39.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,8,18,2,Missed,1,,,0,v,MISS Wilson 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,419
+0022300461,562,PT04M34.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:4 Def:0),Rebound,Unknown,1,0,420
+0022300461,563,PT04M34.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,Made,1,101,73,174,v,Wilson Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,421
+0022300461,591,PT03M18.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,22,24,3,Made,1,103,77,180,v,Wilson 3' Reverse Layup (8 PTS) (Giles III 1 AST),Made Shot,Reverse Layup Shot,1,2,441
+0022300469,139,PT00M09.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Dinwiddie FOR Wilson,Substitution,,0,0,102
+0022300469,673,PT00M50.50S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson STEAL (1 STL),,,1,0,494
+0022300720,169,PT10M33.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,119
+0022300720,173,PT10M23.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,-203,79,22,Missed,1,,,0,h,MISS Wilson 22' Jump Shot,Missed Shot,Jump Shot,1,2,122
+0022300720,184,PT09M34.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,130
+0022300720,187,PT09M34.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,29,40,69,h,Wilson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,132
+0022300720,188,PT09M34.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,30,40,70,h,Wilson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,133
+0022300720,199,PT08M44.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,36,60,7,Made,1,32,43,75,h,Wilson 7' Turnaround Jump Shot (4 PTS) (Thomas 4 AST),Made Shot,Turnaround Jump Shot,1,2,141
+0022300720,234,PT05M38.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,23,31,4,Missed,1,,,0,h,MISS Wilson 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,165
+0022300720,245,PT04M48.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,196,-5,20,Missed,1,,,0,h,MISS Wilson 20' Jump Shot,Missed Shot,Jump Shot,1,2,172
+0022300720,249,PT04M35.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: O'Neale FOR Wilson,Substitution,,0,0,175
+0022300720,401,PT04M40.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,228,10,0,Made,1,68,80,148,h,Wilson 3PT Jump Shot (7 PTS) (Smith Jr. 3 AST),Made Shot,Jump Shot,1,3,287
+0022300720,437,PT02M13.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,-235,-1,24,Missed,1,,,0,h,MISS Wilson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,314
+0022300720,447,PT01M36.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Bridges FOR Wilson,Substitution,,0,0,323
+0022300720,483,PT10M07.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,346
+0022300720,506,PT08M30.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson STEAL (1 STL),,,1,0,366
+0022300720,512,PT07M56.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,213,129,25,Made,1,94,103,197,h,Wilson 25' 3PT Jump Shot (10 PTS) (Dinwiddie 4 AST),Made Shot,Jump Shot,1,3,370
+0022300720,522,PT07M05.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,376
+0022300720,547,PT05M09.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson S.FOUL (P1.T2) (J.Goldenberg),Foul,Shooting,1,0,393
+0022300720,551,PT05M09.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Thomas FOR Wilson,Substitution,,0,0,396
+0022300750,96,PT04M25.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson P.FOUL (P1.T4) (B.Kennedy),Foul,Personal,1,0,70
+0022300750,103,PT03M57.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,-170,179,25,Made,1,19,13,32,h,Wilson 25' 3PT Jump Shot (3 PTS) (Schroder 3 AST),Made Shot,Jump Shot,1,3,73
+0022300750,107,PT03M32.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,76
+0022300750,119,PT02M36.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson S.FOUL (P2.PN) (M.Dagher),Foul,Shooting,1,0,84
+0022300750,125,PT02M22.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,232,61,24,Missed,1,,,0,h,MISS Wilson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,88
+0022300750,147,PT00M17.80S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Claxton FOR Wilson,Substitution,,0,0,103
+0022300750,173,PT11M45.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson S.FOUL (P3.T1) (N.Sago),Foul,Shooting,1,0,115
+0022300750,186,PT10M42.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,124
+0022300750,217,PT08M45.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,144
+0022300750,219,PT08M25.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,146
+0022300750,273,PT04M47.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,-205,148,25,Made,1,50,41,91,h,Wilson 25' 3PT Running Jump Shot (6 PTS) (Schroder 5 AST),Made Shot,Running Jump Shot,1,3,191
+0022300750,291,PT02M39.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Bridges FOR Wilson,Substitution,,0,0,203
+0022300750,429,PT05M13.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,-12,123,12,Made,1,81,68,149,h,Wilson 12' Floating Jump Shot (8 PTS) (Bridges 3 AST),Made Shot,Floating Jump shot,1,2,289
+0022300750,454,PT03M58.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,307
+0022300750,485,PT01M42.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Bridges FOR Wilson,Substitution,,0,0,334
+0022300750,631,PT03M40.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson L.B.FOUL (P4.PN) (M.Dagher),Foul,Loose Ball,1,0,432
+0022300750,646,PT03M09.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,442
+0022300771,108,PT01M56.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,76
+0022300771,125,PT00M12.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Claxton FOR Wilson,Substitution,,0,0,88
+0022300771,396,PT08M28.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,-1,53,5,Missed,1,,,0,h,MISS Wilson 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,279
+0022300771,400,PT08M18.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,283
+0022300771,406,PT07M40.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,288
+0022300771,455,PT03M58.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,141,218,26,Made,1,73,93,166,h,Wilson 26' 3PT Jump Shot (3 PTS) (Sharpe 1 AST),Made Shot,Jump Shot,1,3,321
+0022300771,468,PT03M18.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,234,31,24,Made,1,76,95,171,h,Wilson 24' 3PT Jump Shot (6 PTS) (Schroder 2 AST),Made Shot,Jump Shot,1,3,329
+0022300771,513,PT01M12.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Bridges FOR Wilson,Substitution,,0,0,361
+0022300771,606,PT05M20.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,428
+0022300771,625,PT03M21.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson P.FOUL (P1.T2) (S.Wright),Foul,Personal,1,0,440
+0022300771,631,PT02M49.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-103,227,25,Made,1,105,111,216,h,Wilson 25' 3PT Jump Shot (9 PTS) (Thomas 4 AST),Made Shot,Jump Shot,1,3,445
+0022300780,225,PT05M03.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,2,105,11,Missed,1,,,0,v,MISS Wilson 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,160
+0022300780,243,PT03M00.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,173
+0022300780,465,PT10M50.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-62,57,8,Made,1,106,60,166,v,Wilson 8' Driving Floating Jump Shot (2 PTS) (Sharpe 2 AST),Made Shot,Driving Floating Jump Shot,1,2,322
+0022300780,469,PT10M09.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,151,221,27,Missed,1,,,0,v,MISS Wilson 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,324
+0022300780,539,PT04M53.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,60,84,10,Made,1,127,73,200,v,Wilson 10' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,375
+0022300780,567,PT01M22.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,43,120,13,Missed,1,,,0,v,MISS Wilson 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,397
+0022300795,642,PT03M06.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,237,5,24,Missed,1,,,0,v,MISS Wilson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,467
+0022300795,652,PT02M32.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson S.FOUL (P1.PN) (S.Twardoski),Foul,Shooting,1,0,475
+0022300795,655,PT02M16.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,119,40,13,Made,1,119,87,206,v,Wilson 13' Jump Bank Shot (2 PTS),Made Shot,Jump Bank Shot,1,2,477
+0022300795,670,PT00M48.60S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson S.FOUL (P2.PN) (K.Cutler),Foul,Shooting,1,0,489
+0022300815,660,PT01M07.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Thomas FOR Wilson,Substitution,,0,0,494
+0022300830,576,PT06M31.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,48,126,13,Missed,1,,,0,v,MISS Wilson 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,406
+0022300830,588,PT05M41.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-119,246,27,Missed,1,,,0,v,MISS Wilson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,415
+0022300830,600,PT04M47.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,108,236,26,Made,1,77,104,181,v,Wilson 26' 3PT Jump Shot (3 PTS) (Smith Jr. 2 AST),Made Shot,Jump Shot,1,3,425
+0022300833,143,PT00M03.10S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,98
+0022300833,144,PT00M01.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,175,435,47,Missed,1,,,0,v,MISS Wilson 47' 3PT Floating Jump Shot,Missed Shot,Floating Jump shot,1,3,99
+0022300833,167,PT10M39.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,-153,209,26,Made,1,37,28,65,v,Wilson 26' 3PT Jump Shot (3 PTS) (Schroder 2 AST),Made Shot,Jump Shot,1,3,115
+0022300833,184,PT09M44.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Walker IV FOR Wilson,Substitution,,0,0,125
+0022300833,386,PT06M58.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,229,62,24,Missed,1,,,0,v,MISS Wilson 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,268
+0022300833,444,PT02M38.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,232,39,24,Missed,1,,,0,v,MISS Wilson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,309
+0022300833,479,PT00M01.60S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson STEAL (1 STL),,,1,0,336
+0022300833,553,PT07M28.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson S.FOUL (P1.T3) (D.Taylor),Foul,Shooting,1,0,385
+0022300833,568,PT06M51.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,395
+0022300833,623,PT03M34.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,43,21,5,Made,1,104,75,179,v,Wilson 5' Driving Layup (5 PTS) (Bates-Diop 1 AST),Made Shot,Driving Layup Shot,1,2,435
+0022300833,664,PT00M52.80S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,456
+0022300851,158,PT00M59.80S,1,1610612751,BKN,1630592,Wilson,J. Wilson,31,22,4,Missed,1,,,0,h,MISS Wilson 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,116
+0022300851,159,PT00M58.90S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,117
+0022300851,160,PT00M58.90S,1,1610612751,BKN,1630592,Wilson,J. Wilson,-13,22,3,Made,1,32,14,46,h,Wilson 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,118
+0022300851,162,PT00M29.20S,1,1610612751,BKN,1630592,Wilson,J. Wilson,-232,43,24,Missed,1,,,0,h,MISS Wilson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,120
+0022300851,165,PT00M06.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,123
+0022300851,183,PT11M17.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson L.B.FOUL (P1.T1) (M.Kallio),Foul,Loose Ball,1,0,134
+0022300851,193,PT10M03.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,66,16,7,Made,1,39,20,59,h,Wilson 7' Floating Jump Shot (4 PTS),Made Shot,Floating Jump shot,1,2,143
+0022300851,205,PT09M20.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,152
+0022300851,226,PT08M25.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Bridges FOR Wilson,Substitution,,0,0,166
+0022300851,396,PT05M01.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,293
+0022300851,419,PT03M09.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson S.FOUL (P2.T1) (Z.Zarba),Foul,Shooting,1,0,307
+0022300851,439,PT01M16.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,-43,26,5,Missed,1,,,0,h,MISS Wilson 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,322
+0022300851,451,PT00M26.90S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,93,73,166,h,Wilson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,330
+0022300851,452,PT00M26.90S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,94,73,167,h,Wilson Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,331
+0022300851,488,PT09M37.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-207,155,26,Missed,1,,,0,h,MISS Wilson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,360
+0022300851,501,PT08M45.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Finney-Smith FOR Wilson,Substitution,,0,0,369
+0022300851,556,PT05M47.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,404
+0022300851,573,PT05M11.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,416
+0022300851,601,PT02M50.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-134,27,14,Missed,1,,,0,h,MISS Wilson 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,436
+0022300866,118,PT03M27.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson S.FOUL (P1.T3) (N.Green),Foul,Shooting,1,0,85
+0022300866,144,PT01M29.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,224,27,0,Made,1,18,28,46,h,Wilson 3PT Jump Shot (3 PTS) (Smith Jr. 2 AST),Made Shot,Jump Shot,1,3,107
+0022300866,150,PT01M07.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,112
+0022300866,178,PT00M01.10S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,132
+0022300866,192,PT10M37.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Finney-Smith FOR Wilson,Substitution,,0,0,140
+0022300866,432,PT04M06.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,311
+0022300866,467,PT02M20.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,337
+0022300866,482,PT01M20.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson S.FOUL (P2.T2) (N.Green),Foul,Shooting,1,0,350
+0022300866,486,PT00M58.60S,3,1610612751,BKN,1630592,Wilson,J. Wilson,-47,260,26,Missed,1,,,0,h,MISS Wilson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,353
+0022300866,504,PT00M12.60S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Finney-Smith FOR Wilson,Substitution,,0,0,366
+0022300866,586,PT07M07.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Johnson FOR Wilson,Substitution,,0,0,426
+0022300866,627,PT03M32.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson S.FOUL (P3.T4) (N.Green),Foul,Shooting,1,0,457
+0022300866,672,PT01M28.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,25,47,5,Missed,1,,,0,h,MISS Wilson 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,488
+0022300879,91,PT04M35.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,64
+0022300879,94,PT04M35.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,20,19,39,h,Wilson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,66
+0022300879,96,PT04M35.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,21,19,40,h,Wilson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,68
+0022300879,98,PT04M11.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,70
+0022300879,133,PT01M46.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,99
+0022300879,168,PT11M08.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Schroder FOR Wilson,Substitution,,0,0,125
+0022300879,404,PT05M29.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson OFF.Foul (P1) (J.Williams),Foul,Offensive,1,0,294
+0022300879,406,PT05M29.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,295
+0022300879,410,PT05M02.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,140,221,26,Made,1,66,71,137,h,Wilson 26' 3PT Jump Shot (5 PTS) (Claxton 1 AST),Made Shot,Jump Shot,1,3,298
+0022300879,429,PT03M40.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson P.FOUL (P2.T3) (M.Ervin),Foul,Personal,1,0,311
+0022300879,437,PT02M49.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,318
+0022300879,468,PT00M52.60S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,340
+0022300887,62,PT06M40.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,-145,228,27,Missed,1,,,0,h,MISS Wilson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,43
+0022300887,93,PT03M58.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson Violation:Kicked Ball (C.Blair),Violation,Kicked Ball,0,0,65
+0022300887,109,PT02M54.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,-29,259,26,Missed,1,,,0,h,MISS Wilson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,78
+0022300887,112,PT02M38.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,81
+0022300887,118,PT02M13.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Walker IV FOR Wilson,Substitution,,0,0,86
+0022300887,191,PT10M02.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,229,-14,0,Missed,1,,,0,h,MISS Wilson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,137
+0022300887,203,PT09M14.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,145
+0022300887,205,PT08M49.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,147
+0022300887,206,PT08M49.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,Missed,1,,,0,h,MISS Wilson Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,148
+0022300887,207,PT08M49.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,149
+0022300887,208,PT08M47.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,Made,1,26,38,64,h,Wilson Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,150
+0022300887,225,PT06M41.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,-2,22,2,Made,1,33,43,76,h,Wilson 2' Driving Finger Roll Layup (4 PTS) (Schroder 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,163
+0022300887,230,PT06M03.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,167
+0022300887,231,PT06M03.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,Missed,1,,,0,h,MISS Wilson Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,168
+0022300887,232,PT06M01.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,169
+0022300887,243,PT05M58.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Finney-Smith FOR Wilson,Substitution,,0,0,175
+0022300887,444,PT04M29.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,-200,148,25,Missed,1,,,0,h,MISS Wilson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,318
+0022300887,448,PT03M51.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,-25,40,5,Missed,1,,,0,h,MISS Wilson 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,321
+0022300887,509,PT11M14.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Wilson,Substitution,,0,0,359
+0022300887,598,PT04M26.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Finney-Smith FOR Wilson,Substitution,,0,0,424
+0022300902,86,PT04M00.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson Traveling Turnover (P1.T4),Turnover,Traveling,1,0,63
+0022300902,93,PT03M34.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,-240,18,24,Missed,1,,,0,v,MISS Wilson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,68
+0022300902,101,PT02M43.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,-239,69,25,Missed,1,,,0,v,MISS Wilson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,75
+0022300902,107,PT02M38.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Schröder FOR Wilson,Substitution,,0,0,81
+0022300902,385,PT04M33.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,281
+0022300902,386,PT04M32.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,-23,-1,2,Made,1,68,73,141,v,Wilson 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,282
+0022300902,422,PT02M04.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,97,16,10,Missed,1,,,0,v,MISS Wilson 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,308
+0022300902,442,PT00M59.90S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson S.FOUL (P1.T4) (E.Malloy),Foul,Shooting,1,0,321
+0022300902,486,PT10M38.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Finney-Smith FOR Wilson,Substitution,,0,0,345
+0022300918,77,PT04M55.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson S.FOUL (P1.T1) (I.Hwang),Foul,Shooting,1,0,56
+0022300918,94,PT03M57.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson STEAL (1 STL),,,1,0,68
+0022300918,99,PT03M47.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,72
+0022300918,100,PT03M44.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,73
+0022300918,109,PT02M39.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,-161,197,25,Missed,1,,,0,v,MISS Wilson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,79
+0022300918,158,PT11M19.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson Traveling Turnover (P2.T5),Turnover,Traveling,1,0,111
+0022300918,169,PT10M07.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Finney-Smith FOR Wilson,Substitution,,0,0,118
+0022300918,262,PT03M25.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,187
+0022300918,270,PT02M41.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,193
+0022300918,271,PT02M40.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,-7,0,1,Missed,1,,,0,v,MISS Wilson 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,194
+0022300918,284,PT01M19.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Thomas FOR Wilson,Substitution,,0,0,205
+0022300918,388,PT05M11.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson S.FOUL (P2.T2) (P.Fraher),Foul,Shooting,1,0,282
+0022300918,391,PT04M58.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,-207,152,26,Missed,1,,,0,v,MISS Wilson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,284
+0022300918,426,PT02M46.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Finney-Smith FOR Wilson,Substitution,,0,0,311
+0022300918,518,PT08M22.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,376
+0022300918,545,PT06M26.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,239,50,24,Missed,1,,,0,v,MISS Wilson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,395
+0022300918,548,PT05M46.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,1,123,12,Missed,1,,,0,v,MISS Wilson 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,398
+0022300918,560,PT05M16.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Finney-Smith FOR Wilson,Substitution,,0,0,408
+0022300930,129,PT03M40.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,93
+0022300930,158,PT01M38.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,115
+0022300930,194,PT11M34.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,143,248,29,Made,1,28,32,60,v,Wilson 29' 3PT Jump Shot (3 PTS) (Thomas 4 AST),Made Shot,Jump Shot,1,3,139
+0022300930,206,PT10M13.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,148
+0022300930,212,PT09M56.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Finney-Smith FOR Wilson,Substitution,,0,0,153
+0022300930,504,PT08M27.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,1,64,6,Missed,1,,,0,v,MISS Wilson 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,351
+0022300930,507,PT08M27.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Schroder FOR Wilson,Substitution,,0,0,355
+0022300930,588,PT02M14.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,102,260,28,Missed,1,,,0,v,MISS Wilson 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,414
+0022300930,593,PT01M45.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,10,59,6,Made,1,101,118,219,v,Wilson 6' Driving Floating Jump Shot (5 PTS) (Walker IV 1 AST),Made Shot,Driving Floating Jump Shot,1,2,418
+0022300930,596,PT01M31.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,420
+0022300930,599,PT01M25.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,101,119,220,v,Wilson Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,422
+0022300930,600,PT01M25.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,101,120,221,v,Wilson Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,423
+0022300930,604,PT00M53.90S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson OFF.Foul (P1) (C.Kirkland),Foul,Offensive,1,0,427
+0022300930,606,PT00M53.90S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson Offensive Foul Turnover (P2.T14),Turnover,Offensive Foul Turnover,1,0,428
+0022300947,84,PT04M15.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson L.B.FOUL (P1.T3) (J.Sterling),Foul,Loose Ball,1,0,61
+0022300947,101,PT02M52.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,-238,107,26,Missed,1,,,0,v,MISS Wilson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,70
+0022300947,114,PT02M36.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,29,14,43,v,Wilson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,79
+0022300947,116,PT02M36.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,MISS Wilson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,80
+0022300947,122,PT01M29.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,85
+0022300947,127,PT00M46.80S,1,1610612751,BKN,1630592,Wilson,J. Wilson,229,53,24,Missed,1,,,0,v,MISS Wilson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,89
+0022300947,171,PT09M12.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,26,18,3,Missed,1,,,0,v,MISS Wilson 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,120
+0022300947,183,PT08M32.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Walker IV FOR Wilson,Substitution,,0,0,128
+0022300947,431,PT05M22.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,314
+0022300947,432,PT05M22.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,Made,1,80,67,147,v,Wilson Tip Layup Shot (3 PTS),Made Shot,Tip Layup Shot,1,2,315
+0022300947,473,PT02M19.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Finney-Smith FOR Wilson,Substitution,,0,0,342
+0022300968,640,PT03M56.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson S.FOUL (P1.T3) (B.Kennedy),Foul,Shooting,1,0,476
+0022300968,674,PT02M11.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,22,6,2,Missed,1,,,0,v,MISS Wilson 2' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,500
+0022300968,681,PT01M38.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-83,69,11,Made,1,121,96,217,v,Wilson 11' Driving Floating Bank Jump Shot (2 PTS) (Watford 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,505
+0022300993,317,PT00M05.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,227
+0022300993,419,PT04M30.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson P.FOUL (P1.T2) (C.Kirkland),Foul,Personal,1,0,300
+0022300993,429,PT03M51.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,307
+0022300993,430,PT03M48.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,-51,10,5,Made,1,64,83,147,h,Wilson 5' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,308
+0022300993,446,PT02M50.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Thomas FOR Wilson,Substitution,,0,0,321
+0022300993,604,PT01M24.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,58,65,9,Missed,1,,,0,h,MISS Wilson 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,441
+0022300993,606,PT01M15.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-5,5,1,Made,1,89,102,191,h,Wilson 1' Cutting Layup Shot (4 PTS) (Bates-Diop 1 AST),Made Shot,Cutting Layup Shot,1,2,443
+0022300993,625,PT00M31.30S,4,1610612751,BKN,1630592,Wilson,J. Wilson,146,6,15,Made,1,91,104,195,h,Wilson 15' Pullup Jump Shot (6 PTS) (Sharpe 3 AST),Made Shot,Pullup Jump shot,1,2,456
+0022301007,175,PT07M54.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,127
+0022301007,189,PT06M35.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson Traveling Turnover (P1.T7),Turnover,Traveling,1,0,138
+0022301007,198,PT05M58.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,18,31,4,Made,1,39,29,68,v,Wilson 4' Running Layup (2 PTS) (Thomas 1 AST),Made Shot,Running Layup Shot,1,2,146
+0022301007,217,PT04M46.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,158
+0022301007,218,PT04M46.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Johnson FOR Wilson,Substitution,,0,0,159
+0022301007,426,PT00M01.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,317
+0022301007,427,PT00M00.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,7,471,47,Missed,1,,,0,v,MISS Wilson 47' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,318
+0022301007,444,PT11M41.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,323
+0022301007,461,PT10M54.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,70,109,13,Missed,1,,,0,v,MISS Wilson 13' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,334
+0022301007,474,PT09M55.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,345
+0022301007,476,PT09M46.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,347
+0022301007,495,PT08M47.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,83,80,163,v,Wilson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,360
+0022301007,496,PT08M47.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,83,81,164,v,Wilson Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,361
+0022301007,536,PT05M47.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Bridges FOR Wilson,Substitution,,0,0,389
+0022301019,264,PT04M42.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,4,21,2,Missed,1,,,0,v,MISS Wilson 2' Running Layup,Missed Shot,Running Layup Shot,1,2,190
+0022301019,267,PT04M14.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,208,47,21,Made,1,47,42,89,v,Wilson 21' Jump Shot (2 PTS) (Schroder 3 AST),Made Shot,Jump Shot,1,2,193
+0022301019,270,PT03M50.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,195
+0022301019,280,PT03M06.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson Out of Bounds Lost Ball Turnover (P1.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0,204
+0022301019,282,PT02M47.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,206
+0022301019,285,PT02M23.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson S.FOUL (P1.T3) (N.Green),Foul,Shooting,1,0,209
+0022301019,287,PT02M23.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Thomas FOR Wilson,Substitution,,0,0,210
+0022301036,17,PT10M28.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,12
+0022301036,55,PT06M57.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,-230,9,0,Made,1,10,14,24,v,Wilson 3PT Jump Shot (3 PTS) (Finney-Smith 1 AST),Made Shot,Jump Shot,1,3,40
+0022301036,60,PT06M28.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Walker IV FOR Wilson,Substitution,,0,0,43
+0022301036,169,PT11M05.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,124
+0022301036,174,PT10M31.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,189,184,26,Missed,1,,,0,v,MISS Wilson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,128
+0022301036,181,PT10M00.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,34,13,4,Made,1,20,26,46,v,Wilson 4' Running Reverse Layup (5 PTS) (Schroder 5 AST),Made Shot,Running Reverse Layup Shot,1,2,134
+0022301036,187,PT10M00.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,20,27,47,v,Wilson Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,137
+0022301036,216,PT06M25.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,137,1,14,Missed,1,,,0,v,MISS Wilson 14' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,160
+0022301036,292,PT01M17.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Bridges FOR Wilson,Substitution,,0,0,213
+0022301036,329,PT09M36.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,-154,241,29,Missed,1,,,0,v,MISS Wilson 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,240
+0022301036,362,PT06M14.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,265
+0022301036,381,PT05M24.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,26,7,3,Missed,1,,,0,v,MISS Wilson 3' Running Layup,Missed Shot,Running Layup Shot,1,2,278
+0022301036,393,PT04M20.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,290
+0022301036,396,PT04M12.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,58,61,119,v,Wilson Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,292
+0022301036,403,PT04M12.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,58,62,120,v,Wilson Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,297
+0022301036,408,PT03M46.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,99,10,Made,1,60,64,124,v,Wilson 10' Driving Floating Jump Shot (10 PTS) (Sharpe 1 AST),Made Shot,Driving Floating Jump Shot,1,2,299
+0022301036,419,PT02M53.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Walker IV FOR Wilson,Substitution,,0,0,306
+0022301036,546,PT05M59.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,232,6,0,Missed,1,,,0,v,MISS Wilson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,393
+0022301036,550,PT05M26.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-27,172,17,Made,1,77,84,161,v,Wilson 17' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,2,397
+0022301036,565,PT04M20.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,410
+0022301036,566,PT04M08.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,23,62,7,Missed,1,,,0,v,MISS Wilson 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,411
+0022301036,574,PT03M58.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Claxton FOR Wilson,Substitution,,0,0,416
+0022301050,200,PT08M35.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson P.FOUL (P1.T3) (S.Corbin),Foul,Personal,1,0,142
+0022301050,204,PT08M06.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,195,205,28,Missed,1,,,0,v,MISS Wilson 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,144
+0022301050,212,PT07M46.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Thomas FOR Wilson,Substitution,,0,0,151
+0022301050,506,PT09M42.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,17,7,2,Made,1,95,99,194,v,Wilson 2' Driving Reverse Layup (2 PTS) (Watford 2 AST),Made Shot,Driving Reverse Layup Shot,1,2,362
+0022301050,520,PT08M47.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Schroder FOR Wilson,Substitution,,0,0,372
+0022301066,524,PT08M30.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,393
+0022301066,533,PT07M43.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-163,209,27,Made,1,100,93,193,h,Wilson 27' 3PT Jump Shot (3 PTS) (Claxton 4 AST),Made Shot,Jump Shot,1,3,400
+0022301066,538,PT07M02.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson S.FOUL (P1.T3) (M.Boland),Foul,Shooting,1,0,404
+0022301066,551,PT06M21.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,412
+0022301066,556,PT06M15.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Finney-Smith FOR Wilson,Substitution,,0,0,415
+0022301066,635,PT00M30.70S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,469
+0022301078,508,PT10M31.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,363
+0022301078,514,PT10M10.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Finney-Smith FOR Wilson,Substitution,,0,0,367
+0022301078,646,PT01M10.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-10,-4,1,Made,1,102,116,218,h,Wilson 1' Driving Layup (2 PTS) (Sharpe 1 AST),Made Shot,Driving Layup Shot,1,2,464
+0022301078,649,PT00M53.10S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,466
+0022301078,657,PT00M49.70S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-10,61,6,Missed,1,,,0,h,MISS Wilson 6' Running Layup,Missed Shot,Running Layup Shot,1,2,467
+0022301089,221,PT09M17.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,-234,20,0,Missed,1,,,0,v,MISS Wilson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,154
+0022301089,223,PT09M05.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson S.FOUL (P1.T4) (E.Malloy),Foul,Shooting,1,0,156
+0022301089,260,PT07M04.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Watford FOR Wilson,Substitution,,0,0,183
+0022301089,379,PT00M18.30S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson Out of Bounds Lost Ball Turnover (P1.T7),Turnover,Out of Bounds Lost Ball Turnover,1,0,273
+0022301089,518,PT02M50.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Claxton FOR Wilson,Substitution,,0,0,368
+0022301089,584,PT11M33.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,230,-3,0,Made,1,110,80,190,v,Wilson 3PT Jump Shot (3 PTS) (Walker IV 1 AST),Made Shot,Jump Shot,1,3,411
+0022301089,600,PT09M49.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,194,181,27,Missed,1,,,0,v,MISS Wilson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,422
+0022301089,607,PT09M27.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,115,82,197,v,Wilson Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,428
+0022301089,612,PT09M27.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,MISS Wilson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,431
+0022301089,646,PT06M10.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,461
+0022301089,691,PT02M13.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,32,25,4,Made,1,133,106,239,v,Wilson 4' Driving Reverse Layup (6 PTS) (Clowney 2 AST),Made Shot,Driving Reverse Layup Shot,1,2,495
+0022301089,695,PT01M30.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-27,29,4,Missed,1,,,0,v,MISS Wilson 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,498
+0022301106,136,PT02M03.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson S.FOUL (P1.T3) (C.Blair),Foul,Shooting,1,0,97
+0022301106,167,PT00M29.20S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,116
+0022301106,185,PT00M02.50S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,127
+0022301106,210,PT10M47.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,141
+0022301106,227,PT08M39.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,-1,18,2,Made,1,30,40,70,h,Wilson 2' Driving Finger Roll Layup (2 PTS) (Johnson 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,156
+0022301106,234,PT07M59.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,161
+0022301106,241,PT07M28.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Bridges FOR Wilson,Substitution,,0,0,166
+0022301106,713,PT00M07.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,114,111,225,h,Wilson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,511
+0022301106,719,PT00M07.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,115,111,226,h,Wilson Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,514
+0022301128,158,PT11M12.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,MISS Wilson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,117
+0022301128,162,PT11M12.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,MISS Wilson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,120
+0022301128,163,PT11M09.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,121
+0022301128,167,PT10M33.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,-230,96,25,Missed,1,,,0,h,MISS Wilson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,125
+0022301128,178,PT09M22.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,21,140,14,Made,1,25,40,65,h,Wilson 14' Turnaround Jump Shot (2 PTS) (Schroder 2 AST),Made Shot,Turnaround Jump Shot,1,2,134
+0022301128,200,PT06M56.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,-228,-7,0,Made,1,31,44,75,h,Wilson 3PT Jump Shot (5 PTS) (Bridges 2 AST),Made Shot,Jump Shot,1,3,151
+0022301128,203,PT06M17.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson Traveling Turnover (P1.T10),Turnover,Traveling,1,0,153
+0022301128,208,PT06M06.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Thomas FOR Wilson,Substitution,,0,0,156
+0022301128,412,PT01M16.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,44,50,7,Missed,1,,,0,h,MISS Wilson 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,307
+0022301128,413,PT01M15.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,308
+0022301128,416,PT01M15.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,70,83,153,h,Wilson Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,310
+0022301128,419,PT01M15.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,71,83,154,h,Wilson Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,312
+0022301128,458,PT09M42.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson STEAL (1 STL),,,1,0,340
+0022301128,488,PT08M38.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Schroder FOR Wilson,Substitution,,0,0,353
+0022301128,560,PT03M20.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson P.FOUL (P1.T2) (N.Buchert),Foul,Personal,1,0,410
+0022301128,580,PT01M54.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,426
+0022301128,591,PT00M40.80S,4,1610612751,BKN,1630592,Wilson,J. Wilson,230,44,0,Made,1,111,103,214,h,Wilson 3PT Jump Shot (10 PTS) (Schroder 6 AST),Made Shot,Jump Shot,1,3,436
+0022301128,594,PT00M31.50S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,438
+0022301141,48,PT07M41.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,-183,197,27,Missed,1,,,0,h,MISS Wilson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,38
+0022301141,58,PT07M25.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson STEAL (1 STL),,,1,0,46
+0022301141,65,PT06M56.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,51
+0022301141,71,PT06M40.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,49,28,6,Made,1,8,7,15,h,Wilson 6' Driving Layup (2 PTS) (Bridges 1 AST),Made Shot,Driving Layup Shot,1,2,55
+0022301141,75,PT06M40.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,9,7,16,h,Wilson Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,57
+0022301141,78,PT06M19.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,228,53,0,Made,1,12,7,19,h,Wilson 3PT Jump Shot (6 PTS) (Schroder 1 AST),Made Shot,Jump Shot,1,3,60
+0022301141,121,PT03M41.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Thomas FOR Wilson,Substitution,,0,0,92
+0022301141,210,PT09M44.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,161
+0022301141,220,PT08M39.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,23,49,5,Missed,1,,,0,h,MISS Wilson 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,168
+0022301141,272,PT04M19.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,66,263,27,Missed,1,,,0,h,MISS Wilson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,204
+0022301141,278,PT03M57.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Walker IV FOR Wilson,Substitution,,0,0,209
+0022301141,347,PT10M37.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,257
+0022301141,374,PT07M28.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,280
+0022301141,375,PT07M25.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,15,20,3,Made,1,50,65,115,h,Wilson 3' Running Layup (8 PTS),Made Shot,Running Layup Shot,1,2,281
+0022301141,383,PT07M25.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,MISS Wilson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,285
+0022301141,397,PT05M44.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,51,48,7,Missed,1,,,0,h,MISS Wilson 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,296
+0022301141,422,PT03M33.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson BLOCK (1 BLK),,,1,2,314
+0022301141,426,PT03M17.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,1,11,1,Made,1,57,76,133,h,Wilson 1' Driving Layup (10 PTS) (Schroder 5 AST),Made Shot,Driving Layup Shot,1,2,317
+0022301141,443,PT02M38.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Sharpe FOR Wilson,Substitution,,0,0,329
+0022301141,582,PT04M23.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson Out of Bounds Lost Ball Turnover (P1.T14),Turnover,Out of Bounds Lost Ball Turnover,1,0,436
+0022301141,584,PT04M01.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,438
+0022301141,608,PT02M11.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson Bad Pass Turnover (P2.T15),Turnover,Bad Pass,1,0,453
+0022301141,612,PT02M08.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson S.FOUL (P1.T3) (S.Mitchell),Foul,Shooting,1,0,456
+0022301141,619,PT01M39.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-178,183,26,Missed,1,,,0,h,MISS Wilson 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,461
+0022301141,624,PT01M19.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson Lost Ball Turnover (P3.T16),Turnover,Lost Ball,1,0,465
+0022301141,627,PT01M12.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,468
+0022301141,638,PT00M28.90S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,MISS Wilson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,477
+0022301141,640,PT00M28.90S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,77,107,184,h,Wilson Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,479
+0022301160,111,PT03M20.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,237,0,24,Missed,1,,,0,h,MISS Wilson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,86
+0022301160,117,PT02M35.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,93
+0022301160,138,PT01M28.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,107
+0022301160,163,PT11M36.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,188,209,28,Missed,1,,,0,h,MISS Wilson 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,127
+0022301160,179,PT10M09.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Bridges FOR Wilson,Substitution,,0,0,139
+0022301160,452,PT02M16.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,341
+0022301160,474,PT01M06.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,357
+0022301160,527,PT10M15.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson S.FOUL (P1.T1) (B.Schwab),Foul,Shooting,1,0,392
+0022301160,566,PT08M01.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,423
+0022301160,567,PT08M01.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,Made,1,86,88,174,h,Wilson Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,424
+0022301160,578,PT06M52.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,432
+0022301160,581,PT06M46.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,Wilson L.B.FOUL (P2.T3) (K.Lane),Foul,Loose Ball,1,0,434
+0022301160,614,PT03M49.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,h,SUB: Claxton FOR Wilson,Substitution,,0,0,459
+0022301175,85,PT03M28.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,232,0,0,Made,1,5,19,24,v,Wilson 3PT Jump Shot (3 PTS) (Bridges 1 AST),Made Shot,Jump Shot,1,3,65
+0022301175,95,PT03M14.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,71
+0022301175,103,PT02M30.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,-238,-16,24,Missed,1,,,0,v,MISS Wilson 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,75
+0022301175,105,PT02M22.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson P.FOUL (P1.T1) (J.Capers),Foul,Personal,1,0,77
+0022301175,152,PT10M08.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson S.FOUL (P2.T1) (J.Capers),Foul,Shooting,1,0,107
+0022301175,223,PT04M27.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,10,69,7,Missed,1,,,0,v,MISS Wilson 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,162
+0022301175,233,PT04M23.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Clowney FOR Wilson,Substitution,,0,0,168
+0022301175,362,PT04M53.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,-138,241,28,Missed,1,,,0,v,MISS Wilson 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,266
+0022301175,384,PT03M09.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,282
+0022301175,385,PT03M09.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,Made,1,80,76,156,v,Wilson Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,1,2,283
+0022301175,397,PT01M57.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,291
+0022301175,405,PT01M09.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,-206,152,26,Missed,1,,,0,v,MISS Wilson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,297
+0022301175,407,PT00M48.50S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson STEAL (1 STL),,,1,0,300
+0022301175,437,PT10M24.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,322
+0022301175,466,PT10M24.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,2,11,1,Missed,1,,,0,v,MISS Wilson 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,323
+0022301175,467,PT10M22.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,324
+0022301175,438,PT10M20.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-12,18,2,Missed,1,,,0,v,MISS Wilson 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,325
+0022301175,477,PT07M56.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,352
+0022301175,480,PT07M49.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,94,84,178,v,Wilson Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,354
+0022301175,481,PT07M49.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,94,85,179,v,Wilson Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,355
+0022301175,497,PT06M07.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,17,15,2,Made,1,96,92,188,v,Wilson 2' Driving Floating Bank Jump Shot (9 PTS) (Watford 2 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,367
+0022301175,507,PT04M43.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,374
+0022301175,514,PT04M06.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,2,0,0,Made,1,98,96,194,v,Wilson Running Layup (11 PTS) (Watford 3 AST),Made Shot,Running Layup Shot,1,2,381
+0022301175,571,PT00M04.30S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Clowney FOR Wilson,Substitution,,0,0,428
+0022301192,78,PT05M43.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,60
+0022301192,98,PT04M15.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,75
+0022301192,99,PT03M57.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,233,7,0,Missed,1,,,0,v,MISS Wilson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,76
+0022301192,113,PT03M14.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,-39,39,6,Missed,1,,,0,v,MISS Wilson 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,86
+0022301192,129,PT01M46.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,96
+0022301192,165,PT10M25.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson BLOCK (1 BLK),,,1,2,124
+0022301192,184,PT09M33.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson S.FOUL (P1.T1) (A.Nagy),Foul,Shooting,1,0,137
+0022301192,210,PT08M52.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,145
+0022301192,192,PT08M52.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,25,44,5,Missed,1,,,0,v,MISS Wilson 5' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,146
+0022301192,193,PT08M50.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,147
+0022301192,234,PT05M39.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,232,131,27,Missed,1,,,0,v,MISS Wilson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,175
+0022301192,248,PT04M34.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,SUB: Clowney FOR Wilson,Substitution,,0,0,187
+0022301192,375,PT05M38.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson L.B.FOUL (P2.T3) (J.Tiven),Foul,Loose Ball,1,0,287
+0022301192,397,PT04M01.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,-20,87,9,Missed,1,,,0,v,MISS Wilson 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,304
+0022301192,430,PT01M42.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,330
+0022301192,479,PT10M07.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-48,72,9,Missed,1,,,0,v,MISS Wilson 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,361
+0022301192,483,PT09M42.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson STEAL (1 STL),,,1,0,366
+0022301192,485,PT09M38.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-22,9,2,Made,1,85,68,153,v,Wilson 2' Running Reverse Layup (2 PTS),Made Shot,Running Reverse Layup Shot,1,2,367
+0022301192,488,PT09M12.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-241,26,24,Missed,1,,,0,v,MISS Wilson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,369
+0022301192,516,PT06M54.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson BLOCK (2 BLK),,,1,2,391
+0022301192,526,PT06M19.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,399
+0022301192,529,PT05M47.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson S.FOUL (P3.T1) (A.Nagy),Foul,Shooting,1,0,402
+0022301192,551,PT04M51.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-237,11,24,Made,1,99,74,173,v,Wilson 24' 3PT Jump Shot (5 PTS) (Gilyard 1 AST),Made Shot,Jump Shot,1,3,419
+0022301192,559,PT04M20.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,10,22,2,Made,1,99,76,175,v,Wilson 2' Reverse Layup (7 PTS) (Watford 3 AST),Made Shot,Reverse Layup Shot,1,2,425
+0022301192,572,PT03M21.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,435
+0022301192,577,PT02M52.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,-15,6,2,Made,1,100,83,183,v,Wilson 2' Running Reverse Layup (9 PTS) (Watford 5 AST),Made Shot,Running Reverse Layup Shot,1,2,439
+0022301192,584,PT02M26.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,,,0,v,Wilson REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,444
+0022301192,589,PT01M51.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,23,256,26,Missed,1,,,0,v,MISS Wilson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,447
+0022301192,604,PT00M55.80S,4,1610612751,BKN,1630592,Wilson,J. Wilson,36,36,5,Missed,1,,,0,v,MISS Wilson 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,461

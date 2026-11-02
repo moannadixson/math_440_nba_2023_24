@@ -1,0 +1,989 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300009,10,PT11M22.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+0022300009,83,PT04M28.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-12,4,1,Made,1,17,11,28,v,Hayward 1' Reverse Layup (2 PTS) (Miller 2 AST),Made Shot,Reverse Layup Shot,1,2,63
+0022300009,89,PT04M28.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,MISS Hayward Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,66
+0022300009,91,PT04M15.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,141,116,18,Missed,1,,,0,v,MISS Hayward 18' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,68
+0022300009,97,PT03M25.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,73
+0022300009,98,PT03M10.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,44,44,6,Made,1,19,15,34,v,Hayward 6' Driving Floating Jump Shot (4 PTS) (Williams 1 AST),Made Shot,Driving Floating Jump Shot,1,2,74
+0022300009,103,PT03M10.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: McGowens FOR Hayward,Substitution,,0,0,78
+0022300009,249,PT06M02.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward BLOCK (1 BLK),,,1,2,184
+0022300009,261,PT05M18.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-91,174,20,Made,1,50,40,90,v,Hayward 20' Jump Shot (6 PTS) (Washington 2 AST),Made Shot,Jump Shot,1,2,191
+0022300009,270,PT04M24.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,91,90,13,Missed,1,,,0,v,MISS Hayward 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,197
+0022300009,281,PT03M38.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-38,22,4,Made,1,52,44,96,v,Hayward 4' Jump Shot (8 PTS) (Maledon 3 AST),Made Shot,Jump Shot,1,2,207
+0022300009,308,PT01M54.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-93,138,17,Made,1,54,50,104,v,Hayward 17' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,2,228
+0022300009,317,PT00M45.50S,2,1610612766,CHA,202330,Hayward,G. Hayward,-118,132,18,Missed,1,,,0,v,MISS Hayward 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,234
+0022300009,358,PT10M08.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,136,224,26,Missed,1,,,0,v,MISS Hayward 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,263
+0022300009,365,PT09M48.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,80,56,10,Made,1,68,63,131,v,Hayward 10' Driving Floating Bank Jump Shot (12 PTS) (Ball 2 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,268
+0022300009,368,PT09M35.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,270
+0022300009,391,PT07M57.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,-239,-23,24,Missed,1,,,0,v,MISS Hayward 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,291
+0022300009,409,PT06M56.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,179,167,24,Missed,1,,,0,v,MISS Hayward 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,305
+0022300009,411,PT06M38.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward STEAL (1 STL),,,1,0,308
+0022300009,417,PT05M54.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,154,11,15,Missed,1,,,0,v,MISS Hayward 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,312
+0022300009,426,PT05M26.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,93,127,16,Made,1,75,72,147,v,Hayward 16' Pullup Jump Shot (14 PTS) (Williams 2 AST),Made Shot,Pullup Jump shot,0,2,319
+0022300009,435,PT05M12.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,75,73,148,v,Hayward Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,326
+0022300009,437,PT05M12.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,75,74,149,v,Hayward Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,327
+0022300009,463,PT03M20.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,40,46,6,Missed,1,,,0,v,MISS Hayward 6' Running Layup,Missed Shot,Running Layup Shot,1,2,344
+0022300009,468,PT02M55.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,-2,10,1,Missed,1,,,0,v,MISS Hayward 1' Layup,Missed Shot,Layup Shot,1,2,347
+0022300009,481,PT02M09.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: McGowens FOR Hayward,Substitution,,0,0,358
+0022300009,556,PT09M24.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward STEAL (2 STL),,,1,0,412
+0022300009,571,PT08M55.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,102,98,200,v,Hayward Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,420
+0022300009,572,PT08M55.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,102,99,201,v,Hayward Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,421
+0022300009,583,PT08M06.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,-44,40,6,Missed,1,,,0,v,MISS Hayward 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,428
+0022300009,611,PT06M38.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward STEAL (3 STL),,,1,0,450
+0022300009,615,PT06M32.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,MISS Hayward Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,452
+0022300009,619,PT06M32.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,109,103,212,v,Hayward Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,455
+0022300009,625,PT06M00.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,463
+0022300009,647,PT04M35.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward STEAL (4 STL),,,1,0,480
+0022300009,655,PT03M48.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,-42,247,25,Made,1,111,113,224,v,Hayward 25' 3PT Jump Shot (22 PTS) (Ball 4 AST),Made Shot,Jump Shot,1,3,486
+0022300009,678,PT02M26.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,-9,99,10,Made,1,111,115,226,v,Hayward 10' Running Pull-Up Jump Shot (24 PTS) (Ball 5 AST),Made Shot,Running Pull-Up Jump Shot,1,2,503
+0022300009,681,PT02M26.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,111,116,227,v,Hayward Free Throw 1 of 1 (25 PTS),Free Throw,Free Throw 1 of 1,0,0,505
+0022300009,683,PT01M40.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,33,31,5,Made,1,113,118,231,v,Hayward 5' Layup (27 PTS) (Ball 6 AST),Made Shot,Layup Shot,1,2,507
+0022300009,687,PT01M27.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,510
+0022300027,22,PT10M12.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,93,120,15,Made,1,10,5,15,h,Hayward 15' Pullup Jump Shot (2 PTS) (Miller 1 AST),Made Shot,Pullup Jump shot,1,2,14
+0022300027,74,PT07M00.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-178,184,26,Missed,1,,,0,h,MISS Hayward 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,54
+0022300027,114,PT04M09.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Richards FOR Hayward,Substitution,,0,0,89
+0022300027,236,PT06M53.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,123,125,18,Missed,1,,,0,h,MISS Hayward 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,176
+0022300027,247,PT05M31.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward P.FOUL (P1.T2) (B.Forte),Foul,Personal,1,0,184
+0022300027,289,PT01M32.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,129,111,17,Missed,1,,,0,h,MISS Hayward 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,213
+0022300027,301,PT00M09.20S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward S.FOUL (P2.T3) (J.Goble),Foul,Shooting,1,0,223
+0022300027,318,PT11M48.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,-16,125,13,Missed,1,,,0,h,MISS Hayward 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,233
+0022300027,323,PT11M19.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,237
+0022300027,324,PT11M04.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,-115,131,17,Missed,1,,,0,h,MISS Hayward 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,238
+0022300027,351,PT09M25.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,112,13,11,Missed,1,,,0,h,MISS Hayward 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,258
+0022300027,365,PT08M27.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,269
+0022300027,396,PT05M26.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,233,27,0,Missed,1,,,0,h,MISS Hayward 3PT Jump Shot,Missed Shot,Jump Shot,1,3,293
+0022300027,422,PT03M33.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,314
+0022300027,428,PT03M14.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Ball FOR Hayward,Substitution,,0,0,319
+0022300027,537,PT07M07.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,396
+0022300027,550,PT06M06.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,100,244,26,Missed,1,,,0,h,MISS Hayward 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,406
+0022300027,587,PT03M36.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: McGowens FOR Hayward,Substitution,,0,0,434
+0022300057,7,PT11M41.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward S.FOUL (P1.T1) (B.Nansel),Foul,Shooting,1,0,3
+0022300057,28,PT09M38.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-72,125,14,Made,1,5,4,9,v,Hayward 14' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,21
+0022300057,49,PT07M24.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,39
+0022300057,82,PT05M08.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,174,167,24,Missed,1,,,0,v,MISS Hayward 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,63
+0022300057,98,PT04M11.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Bridges FOR Hayward,Substitution,,0,0,74
+0022300057,204,PT06M45.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,155
+0022300057,218,PT06M12.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,89,20,9,Missed,1,,,0,v,MISS Hayward 9' Running Jump Shot,Missed Shot,Running Jump Shot,1,2,165
+0022300057,227,PT05M20.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,172
+0022300057,229,PT05M11.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,174
+0022300057,232,PT05M02.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-49,249,25,Missed,1,,,0,v,MISS Hayward 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,177
+0022300057,241,PT04M18.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,187
+0022300057,272,PT02M35.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,33,91,10,Missed,1,,,0,v,MISS Hayward 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,206
+0022300057,280,PT01M31.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,-4,0,Made,1,48,38,86,v,Hayward Running Alley Oop Dunk Shot (4 PTS) (Miller 2 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,214
+0022300057,297,PT00M15.50S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Out of Bounds Lost Ball Turnover (P2.T9),Turnover,Out of Bounds Lost Ball Turnover,1,0,225
+0022300057,304,PT00M01.90S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,229
+0022300057,322,PT10M41.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,12,30,3,Missed,1,,,0,v,MISS Hayward 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,242
+0022300057,341,PT09M06.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,257
+0022300057,419,PT04M04.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Bridges FOR Hayward,Substitution,,0,0,318
+0022300057,564,PT04M51.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Black FOR Hayward,Substitution,,0,0,424
+0022300063,22,PT10M27.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,15
+0022300063,47,PT08M09.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,53,184,19,Made,1,8,8,16,h,Hayward 19' Jump Shot (2 PTS) (Ball 1 AST),Made Shot,Jump Shot,1,2,36
+0022300063,52,PT07M43.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,77,29,8,Made,1,10,8,18,h,Hayward 8' Driving Floating Jump Shot (4 PTS) (Ball 2 AST),Made Shot,Driving Floating Jump Shot,1,2,39
+0022300063,56,PT07M43.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,MISS Hayward Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,41
+0022300063,99,PT04M40.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,133,13,Missed,1,,,0,h,MISS Hayward 13' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,1,2,72
+0022300063,108,PT03M54.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Maledon FOR Hayward,Substitution,,0,0,80
+0022300063,241,PT07M08.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,0,173
+0022300063,247,PT06M40.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,178
+0022300063,309,PT03M06.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,225
+0022300063,328,PT02M01.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,240
+0022300063,337,PT00M54.70S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward BLOCK (1 BLK),,,1,2,251
+0022300063,358,PT00M24.90S,2,1610612766,CHA,202330,Hayward,G. Hayward,-225,16,0,Missed,1,,,0,h,MISS Hayward 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,267
+0022300063,359,PT00M22.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,268
+0022300063,371,PT00M20.40S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Lost Ball Turnover (P3.T12),Turnover,Lost Ball,1,0,269
+0022300063,363,PT00M00.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward STEAL (1 STL),,,1,0,272
+0022300063,380,PT11M19.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,277
+0022300063,381,PT11M16.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,-99,132,17,Missed,1,,,0,h,MISS Hayward 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,278
+0022300063,391,PT10M05.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,287
+0022300063,410,PT07M59.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,-53,121,13,Made,1,61,60,121,h,Hayward 13' Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,1,2,300
+0022300063,416,PT07M28.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,62,63,125,h,Hayward Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,304
+0022300063,417,PT07M28.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,63,63,126,h,Hayward Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,305
+0022300063,423,PT06M37.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,185,37,19,Missed,1,,,0,h,MISS Hayward 19' Jump Shot,Missed Shot,Jump Shot,1,2,311
+0022300063,438,PT05M46.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward OFF.Foul (P1) (E.Malloy),Foul,Offensive,1,0,323
+0022300063,440,PT05M46.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Offensive Foul Turnover (P4.T14),Turnover,Offensive Foul Turnover,1,0,324
+0022300063,451,PT04M54.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,-2,24,2,Made,1,69,65,134,h,Hayward 2' Running Layup (10 PTS) (Miller 2 AST),Made Shot,Running Layup Shot,1,2,333
+0022300063,467,PT04M14.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Out of Bounds Lost Ball Turnover (P5.T16),Turnover,Out of Bounds Lost Ball Turnover,1,0,345
+0022300063,475,PT03M41.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,353
+0022300063,483,PT03M24.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Maledon FOR Hayward,Substitution,,0,0,361
+0022300063,611,PT06M52.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Traveling Turnover (P6.T19),Turnover,Traveling,1,0,446
+0022300063,657,PT02M16.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,478
+0022300077,20,PT10M37.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,14
+0022300077,21,PT10M35.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,21,29,4,Missed,1,,,0,h,MISS Hayward 4' Running Layup,Missed Shot,Running Layup Shot,1,2,15
+0022300077,24,PT10M27.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward STEAL (1 STL),,,1,0,19
+0022300077,29,PT09M57.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-26,146,15,Made,1,4,2,6,h,Hayward 15' Jump Shot (2 PTS) (Ball 1 AST),Made Shot,Jump Shot,1,2,22
+0022300077,33,PT09M30.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-159,197,25,Missed,1,,,0,h,MISS Hayward 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,24
+0022300077,35,PT09M18.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Violation:Kicked Ball (B.Kennedy),Violation,Kicked Ball,0,0,26
+0022300077,42,PT08M39.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,30
+0022300077,51,PT07M49.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,5,7,12,h,Hayward Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,36
+0022300077,54,PT07M49.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,6,7,13,h,Hayward Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,38
+0022300077,55,PT07M38.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward STEAL (2 STL),,,1,0,40
+0022300077,106,PT03M49.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Traveling Turnover (P1.T3),Turnover,Traveling,1,0,79
+0022300077,108,PT03M49.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Maledon FOR Hayward,Substitution,,0,0,81
+0022300077,238,PT07M44.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,179
+0022300077,239,PT07M40.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-47,253,26,Missed,1,,,0,h,MISS Hayward 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,180
+0022300077,252,PT06M55.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,191
+0022300077,253,PT06M51.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-2,9,1,Made,1,29,36,65,h,Hayward 1' Running Layup (6 PTS),Made Shot,Running Layup Shot,1,2,192
+0022300077,255,PT06M30.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,194
+0022300077,264,PT06M24.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,30,36,66,h,Hayward Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,199
+0022300077,265,PT06M24.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,31,36,67,h,Hayward Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,200
+0022300077,267,PT06M05.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,202
+0022300077,270,PT05M39.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward S.FOUL (P1.PN) (B.Kennedy),Foul,Shooting,1,0,204
+0022300077,290,PT04M12.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward OFF.Foul (P2) (R.Mott),Foul,Offensive,1,0,220
+0022300077,292,PT04M12.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,1,0,221
+0022300077,317,PT02M49.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-1,6,1,Missed,1,,,0,h,MISS Hayward 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,235
+0022300077,318,PT02M48.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,236
+0022300077,388,PT10M37.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,MISS Hayward Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,281
+0022300077,390,PT10M37.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,48,58,106,h,Hayward Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,283
+0022300077,393,PT10M23.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,6,7,1,Made,1,50,58,108,h,Hayward 1' Running Reverse Layup (11 PTS) (Washington 1 AST),Made Shot,Running Reverse Layup Shot,1,2,286
+0022300077,398,PT09M48.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,-225,16,0,Made,1,53,58,111,h,Hayward 3PT Jump Shot (14 PTS) (Ball 5 AST),Made Shot,Jump Shot,1,3,289
+0022300077,406,PT09M18.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,-11,23,3,Missed,1,,,0,h,MISS Hayward 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,0,2,295
+0022300077,411,PT08M56.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,-17,21,3,Made,1,55,60,115,h,Hayward 3' Driving Floating Jump Shot (16 PTS) (Ball 6 AST),Made Shot,Driving Floating Jump Shot,1,2,300
+0022300077,460,PT05M58.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,336
+0022300077,461,PT05M44.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,10,194,19,Missed,1,,,0,h,MISS Hayward 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,337
+0022300077,466,PT05M22.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,29,23,4,Missed,1,,,0,h,MISS Hayward 4' Running Layup,Missed Shot,Running Layup Shot,1,2,342
+0022300077,482,PT03M57.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward STEAL (3 STL),,,1,0,357
+0022300077,489,PT03M24.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,138,221,26,Made,1,69,71,140,h,Hayward 26' 3PT Running Jump Shot (19 PTS) (Miller 1 AST),Made Shot,Running Jump Shot,1,3,363
+0022300077,502,PT02M42.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Maledon FOR Hayward,Substitution,,0,0,373
+0022300077,641,PT07M49.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,43,143,15,Missed,1,,,0,h,MISS Hayward 15' Jump Shot,Missed Shot,Jump Shot,1,2,469
+0022300077,687,PT04M11.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,506
+0022300077,763,PT04M09.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Step Out of Bounds Turnover (P3.T16),Turnover,Step Out of Bounds Turnover,0,0,507
+0022300077,708,PT02M48.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,-32,65,7,Missed,1,,,0,h,MISS Hayward 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,521
+0022300101,20,PT10M17.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,173,58,18,Missed,1,,,0,h,MISS Hayward 18' Jump Shot,Missed Shot,Jump Shot,1,2,13
+0022300101,25,PT09M59.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,7,124,12,Missed,1,,,0,h,MISS Hayward 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,17
+0022300101,57,PT06M39.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward BLOCK (1 BLK),,,1,2,42
+0022300101,78,PT04M40.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-10,51,5,Missed,1,,,0,h,MISS Hayward 5' Hook Shot,Missed Shot,Hook Shot,1,2,58
+0022300101,92,PT03M49.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Thor FOR Hayward,Substitution,,0,0,70
+0022300101,257,PT05M55.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-15,22,3,Missed,1,,,0,h,MISS Hayward 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,184
+0022300101,274,PT05M04.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward STEAL (1 STL),,,1,0,200
+0022300101,284,PT04M31.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,6,-1,1,Made,1,43,56,99,h,Hayward 1' Layup (2 PTS) (Rozier 4 AST),Made Shot,Layup Shot,1,2,206
+0022300101,329,PT00M32.20S,2,1610612766,CHA,202330,Hayward,G. Hayward,60,172,18,Missed,1,,,0,h,MISS Hayward 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,239
+0022300101,331,PT00M13.70S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward S.FOUL (P1.PN) (C.Washington),Foul,Shooting,1,0,241
+0022300101,384,PT08M19.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,72,68,10,Made,1,66,73,139,h,Hayward 10' Jump Shot (4 PTS),Made Shot,Jump Shot,1,2,282
+0022300101,392,PT06M55.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward P.FOUL (P2.T3) (C.Washington),Foul,Personal,1,0,287
+0022300101,405,PT05M46.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,-159,222,27,Made,1,75,83,158,h,Hayward 27' 3PT Running Jump Shot (7 PTS) (Rozier 7 AST),Made Shot,Running Jump Shot,1,3,297
+0022300101,436,PT03M42.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Maledon FOR Hayward,Substitution,,0,0,320
+0022300101,586,PT05M55.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,-174,194,26,Made,1,102,116,218,h,Hayward 26' 3PT Jump Shot (10 PTS) (Rozier 8 AST),Made Shot,Jump Shot,1,3,437
+0022300101,590,PT05M18.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward STEAL (2 STL),,,1,0,441
+0022300101,605,PT03M42.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,34,39,5,Made,1,108,120,228,h,Hayward 5' Driving Layup (12 PTS) (Ball 7 AST),Made Shot,Driving Layup Shot,1,2,450
+0022300101,610,PT03M42.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,109,120,229,h,Hayward Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0,452
+0022300101,646,PT01M04.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward P.FOUL (P3.PN) (C.Washington),Foul,Personal,1,0,475
+0022300101,654,PT00M54.10S,4,1610612766,CHA,202330,Hayward,G. Hayward,6,18,2,Made,1,119,132,251,h,Hayward 2' Driving Dunk (15 PTS) (Rozier 9 AST),Made Shot,Driving Dunk Shot,1,2,478
+0022300101,662,PT00M39.90S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward P.FOUL (P4.PN) (C.Washington),Foul,Personal,1,0,484
+0022300122,12,PT10M45.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-10,100,10,Missed,1,,,0,v,MISS Hayward 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,7
+0022300122,16,PT10M31.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,13,7,1,Made,1,2,4,6,v,Hayward 1' Running Layup (2 PTS) (Williams 1 AST),Made Shot,Running Layup Shot,1,2,11
+0022300122,19,PT09M59.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,70,136,15,Made,1,2,6,8,v,Hayward 15' Jump Shot (4 PTS) (Ball 1 AST),Made Shot,Jump Shot,1,2,13
+0022300122,39,PT07M07.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-15,8,2,Made,1,14,16,30,v,Hayward 2' Driving Layup (6 PTS) (Ball 2 AST),Made Shot,Driving Layup Shot,1,2,27
+0022300122,43,PT07M07.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,MISS Hayward Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,29
+0022300122,69,PT05M15.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,47
+0022300122,91,PT03M31.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Maledon FOR Hayward,Substitution,,0,0,65
+0022300122,212,PT07M56.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,150
+0022300122,258,PT04M48.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,80,1,8,Missed,1,,,0,v,MISS Hayward 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,184
+0022300122,279,PT03M38.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,201
+0022300122,280,PT03M38.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,Made,1,55,46,101,v,Hayward Tip Dunk Shot (8 PTS),Made Shot,Tip Dunk Shot,1,2,202
+0022300122,285,PT03M05.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,96,13,10,Made,1,55,48,103,v,Hayward 10' Turnaround Fadeaway (10 PTS) (Rozier 3 AST),Made Shot,Turnaround Fadeaway shot,1,2,206
+0022300122,303,PT02M07.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,115,25,12,Made,1,58,54,112,v,Hayward 12' Turnaround Fadeaway (12 PTS) (Rozier 4 AST),Made Shot,Turnaround Fadeaway shot,1,2,218
+0022300122,325,PT00M28.70S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,237
+0022300122,340,PT11M24.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,248
+0022300122,353,PT10M22.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,MISS Hayward Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,256
+0022300122,355,PT10M22.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,66,63,129,v,Hayward Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,258
+0022300122,363,PT09M14.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,230,105,25,Missed,1,,,0,v,MISS Hayward 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,264
+0022300122,379,PT07M34.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,275
+0022300122,383,PT07M05.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward P.FOUL (P1.T1) (M.Kogut),Foul,Personal,1,0,279
+0022300122,389,PT06M19.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward BLOCK (1 BLK),,,1,2,283
+0022300122,414,PT05M04.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,33,37,5,Missed,1,,,0,v,MISS Hayward 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,301
+0022300122,432,PT04M11.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Maledon FOR Hayward,Substitution,,0,0,316
+0022300122,583,PT05M41.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,106,95,201,v,Hayward Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,427
+0022300122,584,PT05M41.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,106,96,202,v,Hayward Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,428
+0022300122,586,PT05M13.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,-92,78,12,Missed,1,,,0,v,MISS Hayward 12' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,430
+0022300122,589,PT05M04.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,433
+0022300122,598,PT04M52.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,440
+0022300122,616,PT03M16.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward STEAL (1 STL),,,1,0,453
+0022300122,632,PT02M04.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,117,111,228,v,Hayward Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,463
+0022300122,633,PT02M04.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,117,112,229,v,Hayward Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,464
+0022300133,25,PT09M38.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,17
+0022300133,26,PT09M32.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-77,143,16,Missed,1,,,0,v,MISS Hayward 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,18
+0022300133,54,PT07M59.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,39
+0022300133,95,PT04M42.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,65,274,28,Missed,1,,,0,v,MISS Hayward 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,69
+0022300133,110,PT03M28.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,26,117,12,Missed,1,,,0,v,MISS Hayward 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,81
+0022300133,118,PT02M44.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,88
+0022300133,127,PT02M40.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Ball FOR Hayward,Substitution,,0,0,96
+0022300133,244,PT07M27.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward BLOCK (1 BLK),,,1,2,181
+0022300133,255,PT07M02.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,190
+0022300133,256,PT06M54.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-137,38,14,Made,1,31,35,66,v,Hayward 14' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,2,191
+0022300133,267,PT05M51.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,12,15,2,Made,1,33,39,72,v,Hayward 2' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,198
+0022300133,274,PT05M32.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,15,7,2,Missed,1,,,0,v,MISS Hayward 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,203
+0022300133,275,PT05M30.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,204
+0022300133,276,PT05M30.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,10,13,2,Made,1,35,41,76,v,Hayward 2' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,2,205
+0022300133,282,PT04M48.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-33,74,8,Made,1,37,43,80,v,Hayward 8' Turnaround Jump Shot (8 PTS),Made Shot,Turnaround Jump Shot,1,2,210
+0022300133,283,PT04M34.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward BLOCK (2 BLK),,,1,2,212
+0022300133,290,PT04M00.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-50,47,7,Made,1,37,45,82,v,Hayward 7' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,1,2,217
+0022300133,331,PT01M07.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,109,20,11,Missed,1,,,0,v,MISS Hayward 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,248
+0022300133,369,PT10M37.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,-33,14,4,Made,1,49,58,107,v,Hayward 4' Running Reverse Layup (12 PTS) (Ball 6 AST),Made Shot,Running Reverse Layup Shot,1,2,274
+0022300133,388,PT09M15.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,57,61,118,v,Hayward Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,286
+0022300133,389,PT09M15.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,57,62,119,v,Hayward Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,287
+0022300133,390,PT09M07.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward P.FOUL (P1.T3) (C.Kirkland),Foul,Personal,1,0,288
+0022300133,403,PT07M59.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,42,92,10,Made,1,66,64,130,v,Hayward 10' Floating Jump Shot (16 PTS),Made Shot,Floating Jump shot,1,2,297
+0022300133,406,PT07M33.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,13,17,2,Made,1,66,66,132,v,Hayward 2' Cutting Finger Roll Layup Shot (18 PTS) (Ball 7 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,300
+0022300133,422,PT06M04.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,-9,5,1,Made,1,71,70,141,v,Hayward 1' Driving Finger Roll Layup (20 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,309
+0022300133,445,PT04M21.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Maledon FOR Hayward,Substitution,,0,0,325
+0022300133,574,PT06M15.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,180,183,26,Made,1,110,115,225,v,Hayward 26' 3PT Pullup Jump Shot (23 PTS),Made Shot,Pullup Jump shot,1,3,418
+0022300133,575,PT06M10.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Personal Take Foul (P2.T2) (C.Kirkland),Foul,Personal Take,1,0,419
+0022300133,602,PT04M16.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward P.FOUL (P3.T4) (R.Acosta),Foul,Personal,1,0,437
+0022300133,609,PT03M50.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,-47,31,6,Missed,1,,,0,v,MISS Hayward 6' Turnaround Fadeaway Bank Jump Shot,Missed Shot,Turnaround Fadeaway Bank Jump Shot,1,2,441
+0022300133,616,PT03M35.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,447
+0022300133,635,PT01M36.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,45,50,7,Missed,1,,,0,v,MISS Hayward 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,462
+0022300133,638,PT01M15.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,465
+0022300143,51,PT08M02.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-121,155,20,Made,1,13,10,23,v,Hayward 20' Jump Shot (2 PTS) (Ball 2 AST),Made Shot,Jump Shot,1,2,36
+0022300143,59,PT07M15.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-2,11,1,Made,1,15,14,29,v,Hayward 1' Running Alley Oop Dunk Shot (4 PTS) (Ball 3 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,41
+0022300143,79,PT06M09.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-136,210,25,Made,1,15,17,32,v,Hayward 25' 3PT Running Jump Shot (7 PTS) (Miller 1 AST),Made Shot,Running Jump Shot,1,3,57
+0022300143,93,PT05M40.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,70,63,9,Missed,1,,,0,v,MISS Hayward 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,66
+0022300143,112,PT03M59.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,80
+0022300143,124,PT03M17.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: McGowens FOR Hayward,Substitution,,0,0,90
+0022300143,221,PT07M47.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-4,228,23,Missed,1,,,0,v,MISS Hayward 23' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,159
+0022300143,233,PT07M16.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,169
+0022300143,235,PT06M50.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,170,5,17,Made,1,34,42,76,v,Hayward 17' Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,1,2,171
+0022300143,256,PT05M44.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,168,113,20,Made,1,37,44,81,v,Hayward 20' Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,1,2,187
+0022300143,263,PT05M20.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward S.FOUL (P1.PN) (J.Orr),Foul,Shooting,1,0,192
+0022300143,287,PT04M17.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,7,130,13,Made,1,40,50,90,v,Hayward 13' Pullup Jump Shot (13 PTS) (Ball 8 AST),Made Shot,Pullup Jump shot,1,2,204
+0022300143,297,PT03M48.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-53,127,14,Missed,1,,,0,v,MISS Hayward 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,211
+0022300143,304,PT03M19.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-1,8,1,Made,1,44,54,98,v,Hayward 1' Cutting Layup Shot (15 PTS) (Ball 9 AST),Made Shot,Cutting Layup Shot,1,2,215
+0022300143,334,PT01M57.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-38,84,9,Missed,1,,,0,v,MISS Hayward 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,235
+0022300143,353,PT00M26.10S,2,1610612766,CHA,202330,Hayward,G. Hayward,-174,16,17,Missed,1,,,0,v,MISS Hayward 17' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,249
+0022300143,386,PT10M08.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,173,24,17,Missed,1,,,0,v,MISS Hayward 17' Jump Shot,Missed Shot,Jump Shot,1,2,271
+0022300143,403,PT08M10.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,12,62,6,Missed,1,,,0,v,MISS Hayward 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,284
+0022300143,452,PT04M55.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,31,146,15,Missed,1,,,0,v,MISS Hayward 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,320
+0022300143,457,PT04M50.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,MISS Hayward Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,323
+0022300143,461,PT04M50.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,66,77,143,v,Hayward Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,326
+0022300143,464,PT04M23.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,96,241,26,Missed,1,,,0,v,MISS Hayward 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,328
+0022300143,470,PT04M15.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: McGowens FOR Hayward,Substitution,,0,0,334
+0022300143,618,PT07M16.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,MISS Hayward Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,440
+0022300143,624,PT07M16.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,MISS Hayward Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,444
+0022300143,632,PT06M47.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,97,152,18,Missed,1,,,0,v,MISS Hayward 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,449
+0022300143,655,PT04M54.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward STEAL (1 STL),,,1,0,466
+0022300143,661,PT04M24.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,23,177,18,Missed,1,,,0,v,MISS Hayward 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,470
+0022300143,663,PT04M21.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,472
+0022300143,664,PT04M21.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,11,34,4,Missed,1,,,0,v,MISS Hayward 4' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,473
+0022300143,665,PT04M19.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,474
+0022300143,667,PT04M18.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,-7,-7,1,Made,1,107,106,213,v,Hayward 1' Putback Layup (18 PTS),Made Shot,Putback Layup Shot,1,2,475
+0022300143,670,PT03M45.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,-225,19,0,Missed,1,,,0,v,MISS Hayward 3PT Jump Shot,Missed Shot,Jump Shot,1,3,478
+0022300143,686,PT02M13.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,225,14,0,Missed,1,,,0,v,MISS Hayward 3PT Jump Shot,Missed Shot,Jump Shot,1,3,489
+0022300143,700,PT00M33.40S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,502
+0022300143,701,PT00M32.40S,4,1610612766,CHA,202330,Hayward,G. Hayward,2,17,2,Made,1,119,116,235,v,Hayward 2' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,1,2,503
+0022300143,717,PT00M07.70S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Personal Take Foul (P2.PN) (J.Orr),Foul,Personal Take,1,0,514
+0022300157,21,PT10M49.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,13,3,1,Made,1,4,2,6,h,Hayward 1' Cutting Layup Shot (2 PTS) (Ball 1 AST),Made Shot,Cutting Layup Shot,1,2,13
+0022300157,23,PT10M28.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward STEAL (1 STL),,,1,0,15
+0022300157,27,PT10M17.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-27,6,3,Missed,1,,,0,h,MISS Hayward 3' Layup,Missed Shot,Layup Shot,1,2,18
+0022300157,81,PT06M30.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward OFF.Foul (P1) (J.Butler),Foul,Offensive,1,0,62
+0022300157,83,PT06M30.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,63
+0022300157,96,PT05M23.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-232,32,0,Made,1,17,12,29,h,Hayward 3PT Jump Shot (5 PTS) (Miller 1 AST),Made Shot,Jump Shot,1,3,75
+0022300157,114,PT03M40.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Maledon FOR Hayward,Substitution,,0,0,90
+0022300157,228,PT07M30.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,62,94,11,Missed,1,,,0,h,MISS Hayward 11' Jump Shot,Missed Shot,Jump Shot,1,2,167
+0022300157,248,PT05M13.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward OFF.Foul (P2) (P.O'Connell),Foul,Offensive,1,0,181
+0022300157,250,PT05M13.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,1,0,182
+0022300157,252,PT04M42.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,67,250,26,Missed,1,,,0,h,MISS Hayward 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,184
+0022300157,254,PT04M31.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward STEAL (2 STL),,,1,0,187
+0022300157,256,PT04M26.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-11,8,1,Missed,1,,,0,h,MISS Hayward 1' Running Layup,Missed Shot,Running Layup Shot,1,2,188
+0022300157,281,PT03M10.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,MISS Hayward Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,206
+0022300157,287,PT03M10.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,38,53,91,h,Hayward Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,210
+0022300157,313,PT01M45.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-1,24,2,Missed,1,,,0,h,MISS Hayward 2' Layup,Missed Shot,Layup Shot,1,2,229
+0022300157,314,PT01M43.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,231
+0022300157,315,PT01M42.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,Made,1,40,58,98,h,Hayward Putback Layup (8 PTS),Made Shot,Putback Layup Shot,1,2,232
+0022300157,379,PT10M08.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,66,113,13,Missed,1,,,0,h,MISS Hayward 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,279
+0022300157,400,PT08M34.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,296
+0022300157,406,PT07M59.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,301
+0022300157,407,PT07M56.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,9,17,2,Made,1,59,74,133,h,Hayward 2' Running Layup (10 PTS),Made Shot,Running Layup Shot,1,2,302
+0022300157,416,PT07M17.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,60,74,134,h,Hayward Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,307
+0022300157,417,PT07M17.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,61,74,135,h,Hayward Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,308
+0022300157,425,PT06M26.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,314
+0022300157,426,PT06M16.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Traveling Turnover (P3.T10),Turnover,Traveling,1,0,315
+0022300157,431,PT05M43.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,140,222,26,Made,1,67,77,144,h,Hayward 26' 3PT Jump Shot (15 PTS) (Miller 2 AST),Made Shot,Jump Shot,1,3,319
+0022300157,449,PT04M18.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,-26,90,9,Made,1,73,82,155,h,Hayward 9' Floating Jump Shot (17 PTS),Made Shot,Floating Jump shot,1,2,331
+0022300157,649,PT04M05.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Richards FOR Hayward,Substitution,,0,0,335
+0022300157,550,PT11M29.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,403
+0022300157,554,PT11M07.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,407
+0022300157,561,PT10M31.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,75,53,9,Missed,1,,,0,h,MISS Hayward 9' Fadeaway Bank Shot,Missed Shot,Fadeaway Bank shot,1,2,414
+0022300157,563,PT10M13.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward STEAL (3 STL),,,1,0,417
+0022300157,602,PT07M50.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,MISS Hayward Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,442
+0022300157,604,PT07M50.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,97,118,215,h,Hayward Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,444
+0022300157,611,PT07M22.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,-156,209,26,Missed,1,,,0,h,MISS Hayward 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,451
+0022300157,626,PT06M24.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,463
+0022300157,655,PT04M07.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Richards FOR Hayward,Substitution,,0,0,482
+0022300177,8,PT11M25.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,4
+0022300177,11,PT10M59.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Bad Pass Turnover (P2.T2),Turnover,Bad Pass,1,0,7
+0022300177,16,PT10M39.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-228,28,0,Missed,1,,,0,v,MISS Hayward 3PT Jump Shot,Missed Shot,Jump Shot,1,3,11
+0022300177,34,PT08M25.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,9,64,6,Made,1,9,7,16,v,Hayward 6' Driving Floating Jump Shot (2 PTS) (Ball 1 AST),Made Shot,Driving Floating Jump Shot,1,2,24
+0022300177,38,PT07M38.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward P.FOUL (P1.T2) (J.Goldenberg),Foul,Personal,1,0,28
+0022300177,58,PT06M40.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,40,83,9,Missed,1,,,0,v,MISS Hayward 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,42
+0022300177,97,PT03M12.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,70
+0022300177,105,PT02M55.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: McGowens FOR Hayward,Substitution,,0,0,76
+0022300177,247,PT05M23.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-2,68,7,Made,1,52,43,95,v,Hayward 7' Turnaround Fadeaway (4 PTS),Made Shot,Turnaround Fadeaway shot,1,2,171
+0022300177,341,PT11M02.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward S.FOUL (P2.T2) (B.Adair),Foul,Shooting,1,0,238
+0022300177,349,PT10M32.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,-127,141,19,Missed,1,,,0,v,MISS Hayward 19' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,246
+0022300177,376,PT07M49.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,9,109,11,Missed,1,,,0,v,MISS Hayward 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,264
+0022300177,402,PT06M12.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,-16,47,5,Made,1,85,65,150,v,Hayward 5' Driving Floating Bank Jump Shot (6 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,287
+0022300177,427,PT04M16.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,45,56,7,Missed,1,,,0,v,MISS Hayward 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,303
+0022300177,433,PT04M00.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,88,87,12,Missed,1,,,0,v,MISS Hayward 12' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,309
+0022300177,438,PT03M51.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Ball FOR Hayward,Substitution,,0,0,314
+0022300177,520,PT11M05.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward S.FOUL (P3.T1) (B.Adair),Foul,Shooting,1,0,375
+0022300177,565,PT07M44.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Hayward,Substitution,,0,0,407
+0022300202,23,PT09M27.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-58,147,16,Made,1,4,9,13,h,Hayward 16' Jump Shot (2 PTS) (Ball 2 AST),Made Shot,Jump Shot,1,2,16
+0022300202,40,PT08M19.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward P.FOUL (P1.T3) (K.Lane),Foul,Personal,1,0,29
+0022300202,52,PT07M26.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-7,83,8,Missed,1,,,0,h,MISS Hayward 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,38
+0022300202,56,PT06M59.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-108,248,27,Missed,1,,,0,h,MISS Hayward 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,42
+0022300202,84,PT04M20.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: McGowens FOR Hayward,Substitution,,0,0,62
+0022300202,245,PT05M49.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-110,137,18,Missed,1,,,0,h,MISS Hayward 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,176
+0022300202,278,PT03M53.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward STEAL (1 STL),,,1,0,200
+0022300202,283,PT03M32.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,204
+0022300202,301,PT02M22.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,218
+0022300202,345,PT11M40.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,-175,11,18,Missed,1,,,0,h,MISS Hayward 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,246
+0022300202,356,PT10M45.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,255
+0022300202,365,PT10M06.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,142,229,27,Missed,1,,,0,h,MISS Hayward 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,262
+0022300202,468,PT06M06.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward STEAL (2 STL),,,1,0,293
+0022300202,407,PT05M57.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward S.FOUL (P2.T3) (B.Barnaky),Foul,Shooting,1,0,297
+0022300202,426,PT04M09.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: McGowens FOR Hayward,Substitution,,0,0,309
+0022300202,546,PT05M38.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,91,103,194,h,Hayward Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,390
+0022300202,547,PT05M38.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,92,103,195,h,Hayward Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,391
+0022300202,550,PT05M03.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,27,129,13,Missed,1,,,0,h,MISS Hayward 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,393
+0022300202,596,PT01M28.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward P.FOUL (P3.PN) (K.Lane),Foul,Personal,1,0,423
+0022300217,8,PT11M28.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,2,74,7,Missed,1,,,0,h,MISS Hayward 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,4
+0022300217,16,PT10M45.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward STEAL (1 STL),,,1,0,13
+0022300217,40,PT08M40.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,1,22,2,Made,1,9,7,16,h,Hayward 2' Cutting Layup Shot (2 PTS) (Bridges 1 AST),Made Shot,Cutting Layup Shot,1,2,35
+0022300217,55,PT07M09.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,MISS Hayward Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,47
+0022300217,57,PT07M09.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,12,9,21,h,Hayward Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,49
+0022300217,84,PT05M37.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,15,13,28,h,Hayward Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,68
+0022300217,87,PT05M37.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,16,13,29,h,Hayward Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,70
+0022300217,104,PT03M57.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward S.FOUL (P1.T3) (R.Hussey),Foul,Shooting,1,0,86
+0022300217,109,PT03M57.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: McGowens FOR Hayward,Substitution,,0,0,91
+0022300217,215,PT07M02.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,1,27,3,Missed,1,,,0,h,MISS Hayward 3' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,164
+0022300217,254,PT04M11.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-4,75,8,Missed,1,,,0,h,MISS Hayward 8' Jump Shot,Missed Shot,Jump Shot,1,2,194
+0022300217,256,PT04M08.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,196
+0022300217,325,PT11M50.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,244
+0022300217,365,PT07M52.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,-233,94,25,Missed,1,,,0,h,MISS Hayward 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,278
+0022300217,374,PT07M14.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,10,8,1,Missed,1,,,0,h,MISS Hayward 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,286
+0022300217,387,PT06M30.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,298
+0022300217,402,PT05M35.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,310
+0022300217,466,PT05M35.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Out of Bounds Lost Ball Turnover (P2.T8),Turnover,Out of Bounds Lost Ball Turnover,1,0,311
+0022300217,408,PT05M25.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward S.FOUL (P2.T3) (M.Ervin),Foul,Shooting,1,0,315
+0022300217,412,PT05M06.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,-1,80,8,Made,1,73,78,151,h,Hayward 8' Jump Shot (7 PTS) (Smith 3 AST),Made Shot,Jump Shot,1,2,318
+0022300217,416,PT04M40.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,-9,-1,1,Made,1,75,78,153,h,Hayward 1' Cutting Dunk Shot (9 PTS) (Miller 2 AST),Made Shot,Cutting Dunk Shot,1,2,321
+0022300217,440,PT02M42.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,339
+0022300217,549,PT01M39.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,56,-8,6,Missed,1,,,0,h,MISS Hayward 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,346
+0022300217,551,PT01M38.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,348
+0022300217,447,PT01M35.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,1,1,0,Missed,1,,,0,h,MISS Hayward Jump Shot,Missed Shot,Jump Shot,1,2,349
+0022300217,456,PT00M54.70S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,80,84,164,h,Hayward Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,356
+0022300217,461,PT00M54.70S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,81,84,165,h,Hayward Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,359
+0022300217,613,PT05M27.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward BLOCK (1 BLK),,,1,2,419
+0022300217,563,PT04M17.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,-234,13,0,Made,1,94,100,194,h,Hayward 3PT Running Jump Shot (14 PTS) (Miller 3 AST),Made Shot,Running Jump Shot,1,3,431
+0022300217,586,PT02M03.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,6,15,2,Missed,1,,,0,h,MISS Hayward 2' Layup,Missed Shot,Layup Shot,1,2,448
+0022300217,667,PT02M13.00S,5,1610612766,CHA,202330,Hayward,G. Hayward,-69,126,14,Made,1,114,113,227,h,Hayward 14' Jump Shot (16 PTS) (Miller 4 AST),Made Shot,Jump Shot,1,2,505
+0022300217,669,PT01M54.00S,5,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Violation:Kicked Ball (M.Ervin),Violation,Kicked Ball,0,0,506
+0022300217,674,PT01M21.00S,5,1610612766,CHA,202330,Hayward,G. Hayward,-2,71,7,Missed,1,,,0,h,MISS Hayward 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,511
+0022300217,680,PT00M45.00S,5,1610612766,CHA,202330,Hayward,G. Hayward,-7,5,1,Made,1,116,116,232,h,Hayward 1' Cutting Dunk Shot (18 PTS) (Ball 7 AST),Made Shot,Cutting Dunk Shot,1,2,516
+0022300217,692,PT00M05.20S,5,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward S.FOUL (P3.T2) (R.Mott),Foul,Shooting,1,0,524
+0022300217,704,PT00M00.80S,5,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,120,118,238,h,Hayward Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,532
+0022300217,705,PT00M00.80S,5,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,121,118,239,h,Hayward Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,533
+0022300225,21,PT10M00.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,13
+0022300225,38,PT08M58.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,154,199,25,Missed,1,,,0,h,MISS Hayward 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,28
+0022300225,80,PT04M30.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,17,158,16,Missed,1,,,0,h,MISS Hayward 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,60
+0022300225,101,PT03M29.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Ball FOR Hayward,Substitution,,0,0,76
+0022300225,234,PT05M26.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-16,115,12,Missed,1,,,0,h,MISS Hayward 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,172
+0022300225,257,PT03M07.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-107,124,16,Missed,1,,,0,h,MISS Hayward 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,189
+0022300225,282,PT01M08.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,209
+0022300225,290,PT00M26.80S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward S.FOUL (P1.PN) (S.Mehta),Foul,Shooting,1,0,216
+0022300225,336,PT09M40.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,6,29,3,Made,1,51,64,115,h,Hayward 3' Driving Dunk (2 PTS) (Ball 5 AST),Made Shot,Driving Dunk Shot,1,2,243
+0022300225,339,PT09M24.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,245
+0022300225,342,PT09M09.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,10,23,3,Made,1,53,64,117,h,Hayward 3' Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,1,2,247
+0022300225,370,PT06M54.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,269
+0022300225,371,PT06M45.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,270
+0022300225,385,PT06M06.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,279
+0022300225,386,PT05M45.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,86,-10,9,Missed,1,,,0,h,MISS Hayward 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,280
+0022300225,401,PT04M54.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,289
+0022300225,414,PT03M30.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: McGowens FOR Hayward,Substitution,,0,0,300
+0022300225,569,PT04M43.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,416
+0022300225,577,PT03M56.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,423
+0022300225,578,PT03M45.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,0,424
+0022300225,582,PT03M16.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,6,71,7,Missed,1,,,0,h,MISS Hayward 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,427
+0022300225,598,PT02M34.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,441
+0022300225,603,PT02M07.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,444
+0022300248,7,PT11M42.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,3
+0022300248,27,PT09M33.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-51,78,9,Missed,1,,,0,v,MISS Hayward 9' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,18
+0022300248,46,PT07M34.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-74,92,12,Made,1,10,8,18,v,Hayward 12' Driving Floating Bank Jump Shot (2 PTS) (Ball 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,33
+0022300248,54,PT06M34.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-233,-11,0,Made,1,12,14,26,v,Hayward 3PT Jump Shot (5 PTS) (Rozier 2 AST),Made Shot,Jump Shot,1,3,38
+0022300248,62,PT06M04.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,50,64,8,Made,1,12,16,28,v,Hayward 8' Fadeaway Jumper (7 PTS),Made Shot,Fadeaway Jump Shot,1,2,43
+0022300248,105,PT03M48.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Smith FOR Hayward,Substitution,,0,0,66
+0022300248,207,PT07M47.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,165,6,17,Missed,1,,,0,v,MISS Hayward 17' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,149
+0022300248,211,PT07M17.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0,152
+0022300248,215,PT06M52.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-21,151,15,Missed,1,,,0,v,MISS Hayward 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,156
+0022300248,240,PT05M05.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Lost Ball Turnover (P3.T8),Turnover,Lost Ball,1,0,174
+0022300248,254,PT04M08.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,186
+0022300248,262,PT03M06.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-48,124,13,Missed,1,,,0,v,MISS Hayward 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,192
+0022300248,299,PT01M06.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-227,10,0,Made,1,59,57,116,v,Hayward 3PT Jump Shot (10 PTS) (Rozier 7 AST),Made Shot,Jump Shot,1,3,216
+0022300248,325,PT11M34.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,176,80,19,Missed,1,,,0,v,MISS Hayward 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,234
+0022300248,338,PT10M33.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,-132,237,27,Missed,1,,,0,v,MISS Hayward 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,246
+0022300248,354,PT09M37.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,257
+0022300248,376,PT07M50.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward BLOCK (1 BLK),,,1,2,274
+0022300248,378,PT07M47.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,275
+0022300248,411,PT05M39.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,-235,34,24,Missed,1,,,0,v,MISS Hayward 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,298
+0022300248,439,PT03M52.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Bridges FOR Hayward,Substitution,,0,0,318
+0022300248,578,PT08M14.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,416
+0022300248,634,PT04M08.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,MISS Hayward Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,459
+0022300248,638,PT04M08.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,MISS Hayward Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,462
+0022300248,641,PT03M42.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,465
+0022300248,678,PT01M02.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward P.FOUL (P1.PN) (M.Smith),Foul,Personal,1,0,496
+0022300266,14,PT11M03.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+0022300266,19,PT10M22.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-23,265,27,Made,1,0,6,6,v,Hayward 27' 3PT Jump Shot (3 PTS) (Rozier 1 AST),Made Shot,Jump Shot,1,3,14
+0022300266,36,PT08M14.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,130,228,26,Missed,1,,,0,v,MISS Hayward 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,27
+0022300266,40,PT07M43.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,30
+0022300266,44,PT07M15.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,33
+0022300266,69,PT05M53.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,19,16,35,v,Hayward Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,1,0,53
+0022300266,86,PT03M55.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Thor FOR Hayward,Substitution,,0,0,66
+0022300266,209,PT06M50.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,125,32,13,Made,1,55,51,106,v,Hayward 13' Driving Floating Jump Shot (6 PTS) (Rozier 8 AST),Made Shot,Driving Floating Jump Shot,1,2,154
+0022300266,217,PT06M50.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,55,52,107,v,Hayward Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,158
+0022300266,219,PT06M37.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,160
+0022300266,220,PT06M34.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,2,6,1,Made,1,55,54,109,v,Hayward 1' Running Layup (9 PTS),Made Shot,Running Layup Shot,1,2,161
+0022300266,235,PT05M35.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,202,151,25,Made,1,55,57,112,v,Hayward 25' 3PT Pullup Jump Shot (12 PTS) (Williams 1 AST),Made Shot,Pullup Jump shot,1,3,171
+0022300266,266,PT03M45.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward S.FOUL (P1.PN) (J.Sterling),Foul,Shooting,1,0,193
+0022300266,307,PT03M34.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,199
+0022300266,271,PT03M29.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-159,220,27,Missed,1,,,0,v,MISS Hayward 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,200
+0022300266,293,PT02M08.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-6,13,1,Made,1,64,68,132,v,Hayward 1' Running Alley Oop Dunk Shot (14 PTS) (Rozier 9 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,218
+0022300266,296,PT01M52.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,220
+0022300266,373,PT07M48.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,83,84,167,v,Hayward Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,274
+0022300266,376,PT07M48.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,83,85,168,v,Hayward Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,276
+0022300266,381,PT07M16.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,-134,-10,13,Missed,1,,,0,v,MISS Hayward 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,279
+0022300266,408,PT05M24.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,161,113,20,Missed,1,,,0,v,MISS Hayward 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,297
+0022300266,414,PT04M37.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,303
+0022300266,416,PT04M28.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,305
+0022300266,417,PT04M28.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,Made,1,92,90,182,v,Hayward Tip Layup Shot (18 PTS),Made Shot,Tip Layup Shot,1,2,306
+0022300266,421,PT03M51.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,62,168,18,Missed,1,,,0,v,MISS Hayward 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,310
+0022300266,436,PT03M10.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Bridges FOR Hayward,Substitution,,0,0,324
+0022300266,540,PT06M52.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,114,105,15,Missed,1,,,0,v,MISS Hayward 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,2,401
+0022300266,572,PT05M30.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,64,89,11,Made,1,115,114,229,v,Hayward 11' Driving Floating Jump Shot (20 PTS),Made Shot,Driving Floating Jump Shot,1,2,423
+0022300266,611,PT01M46.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,-140,-16,14,Made,1,122,125,247,v,Hayward 14' Turnaround Fadeaway (22 PTS),Made Shot,Turnaround Fadeaway shot,1,2,453
+0022300281,7,PT11M43.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,2,74,7,Missed,1,,,0,h,MISS Hayward 7' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,3
+0022300281,23,PT10M17.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,1,0,15
+0022300281,72,PT04M33.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-4,163,16,Made,1,12,21,33,h,Hayward 16' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,2,54
+0022300281,75,PT04M14.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Smith FOR Hayward,Substitution,,0,0,56
+0022300281,217,PT06M38.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,175,191,26,Made,1,43,46,89,h,Hayward 26' 3PT Jump Shot (5 PTS) (Smith 2 AST),Made Shot,Jump Shot,1,3,154
+0022300281,224,PT05M56.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,89,109,14,Made,1,45,48,93,h,Hayward 14' Pullup Jump Shot (7 PTS) (Washington 2 AST),Made Shot,Pullup Jump shot,1,2,159
+0022300281,226,PT05M36.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward STEAL (1 STL),,,1,0,161
+0022300281,228,PT05M27.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,25,149,15,Made,1,47,48,95,h,Hayward 15' Running Pull-Up Jump Shot (9 PTS),Made Shot,Running Pull-Up Jump Shot,1,2,162
+0022300281,262,PT03M25.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,184
+0022300281,278,PT02M38.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,52,56,108,h,Hayward Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,196
+0022300281,281,PT02M38.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,53,56,109,h,Hayward Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,198
+0022300281,284,PT02M07.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-126,54,14,Made,1,55,58,113,h,Hayward 14' Pullup Jump Shot (13 PTS) (Rozier 4 AST),Made Shot,Pullup Jump shot,1,2,200
+0022300281,291,PT01M27.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,37,41,6,Made,1,57,58,115,h,Hayward 6' Fadeaway Jumper (15 PTS),Made Shot,Fadeaway Jump Shot,1,2,205
+0022300281,307,PT00M09.60S,2,1610612766,CHA,202330,Hayward,G. Hayward,-225,130,26,Missed,1,,,0,h,MISS Hayward 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,217
+0022300281,339,PT09M45.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,4,136,14,Missed,1,,,0,h,MISS Hayward 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,239
+0022300281,364,PT07M33.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,258
+0022300281,385,PT05M16.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward STEAL (2 STL),,,1,0,275
+0022300281,394,PT05M07.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,124,35,13,Made,1,74,75,149,h,Hayward 13' Jump Shot (17 PTS) (Miller 2 AST),Made Shot,Jump Shot,1,2,280
+0022300281,406,PT04M02.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Richards FOR Hayward,Substitution,,0,0,290
+0022300281,573,PT04M03.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,-92,66,11,Missed,1,,,0,h,MISS Hayward 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,405
+0022300281,646,PT00M04.10S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Personal Take Foul (P1.PN) (G.Petraitis),Foul,Personal Take,1,0,461
+0022300292,14,PT10M56.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward P.FOUL (P1.T1) (C.Blair),Foul,Personal,1,0,7
+0022300292,129,PT10M40.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,11
+0022300292,18,PT10M32.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-2,81,8,Missed,1,,,0,h,MISS Hayward 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,12
+0022300292,30,PT09M20.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,21
+0022300292,40,PT08M43.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,31
+0022300292,61,PT06M36.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,234,33,24,Missed,1,,,0,h,MISS Hayward 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,47
+0022300292,73,PT05M48.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-12,17,2,Made,1,8,15,23,h,Hayward 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,56
+0022300292,96,PT03M53.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,29,18,3,Made,1,13,20,33,h,Hayward 3' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,70
+0022300292,102,PT03M53.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,MISS Hayward Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,73
+0022300292,107,PT03M21.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-225,27,0,Made,1,16,20,36,h,Hayward 3PT Jump Shot (7 PTS) (Smith 1 AST),Made Shot,Jump Shot,1,3,77
+0022300292,112,PT03M10.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: McGowens FOR Hayward,Substitution,,0,0,80
+0022300292,247,PT05M53.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,174
+0022300292,252,PT05M10.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-112,242,27,Missed,1,,,0,h,MISS Hayward 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,178
+0022300292,262,PT03M59.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-60,179,19,Made,1,40,44,84,h,Hayward 19' Pullup Jump Shot (9 PTS) (Smith 3 AST),Made Shot,Pullup Jump shot,1,2,186
+0022300292,280,PT02M33.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-20,57,6,Missed,1,,,0,h,MISS Hayward 6' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,196
+0022300292,285,PT02M26.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,22,21,3,Made,1,44,47,91,h,Hayward 3' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,2,199
+0022300292,296,PT01M32.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,MISS Hayward Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,206
+0022300292,298,PT01M32.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,48,51,99,h,Hayward Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,208
+0022300292,300,PT01M12.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,210
+0022300292,341,PT10M13.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward P.FOUL (P2.T1) (N.Sago),Foul,Personal,1,0,233
+0022300292,353,PT09M00.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward S.FOUL (P3.T2) (T.Ricks),Foul,Shooting,1,0,241
+0022300292,429,PT03M54.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: McGowens FOR Hayward,Substitution,,0,0,299
+0022300292,550,PT07M13.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,383
+0022300292,572,PT05M01.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,143,15,14,Made,1,99,100,199,h,Hayward 14' Pullup Jump Shot (14 PTS) (Rozier 12 AST),Made Shot,Pullup Jump shot,1,2,398
+0022300292,575,PT04M25.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,-4,24,2,Made,1,101,103,204,h,Hayward 2' Driving Floating Bank Jump Shot (16 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,400
+0022300292,580,PT04M25.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,102,103,205,h,Hayward Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,1,0,403
+0022300292,581,PT04M11.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward S.FOUL (P4.T2) (T.Ricks),Foul,Shooting,1,0,404
+0022300292,586,PT03M50.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,-13,10,2,Missed,1,,,0,h,MISS Hayward 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,408
+0022300292,619,PT00M21.50S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward STEAL (1 STL),,,1,0,435
+0022300312,32,PT09M21.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-212,151,26,Made,1,7,10,17,v,Hayward 26' 3PT Jump Shot (3 PTS) (Bridges 1 AST),Made Shot,Jump Shot,1,3,23
+0022300312,41,PT08M34.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,10,11,21,v,Hayward Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,26
+0022300312,42,PT08M34.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,10,12,22,v,Hayward Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,27
+0022300312,68,PT06M18.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,22,8,2,Made,1,12,16,28,v,Hayward 2' Driving Layup (7 PTS) (Washington 1 AST),Made Shot,Driving Layup Shot,1,2,50
+0022300312,93,PT04M27.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,16,17,33,v,Hayward Free Throw Technical (8 PTS),Free Throw,Free Throw Technical,1,0,69
+0022300312,94,PT04M22.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward OFF.Foul (P1) (J.Williams),Foul,Offensive,1,0,70
+0022300312,96,PT04M22.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,71
+0022300312,100,PT04M12.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: McGowens FOR Hayward,Substitution,,0,0,74
+0022300312,219,PT07M34.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,82,161,18,Missed,1,,,0,v,MISS Hayward 18' Jump Shot,Missed Shot,Jump Shot,1,2,164
+0022300312,225,PT06M29.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-105,82,13,Made,1,37,35,72,v,Hayward 13' Driving Floating Bank Jump Shot (10 PTS) (Smith 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,170
+0022300312,241,PT05M41.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,180
+0022300312,242,PT05M35.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,7,109,11,Made,1,37,39,76,v,Hayward 11' Driving Floating Bank Jump Shot (12 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,181
+0022300312,260,PT04M20.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,0,194
+0022300312,264,PT04M07.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,175,142,23,Made,1,43,43,86,v,Hayward 23' Running Pull-Up Jump Shot (14 PTS),Made Shot,Running Pull-Up Jump Shot,1,2,198
+0022300312,270,PT03M43.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,43,44,87,v,Hayward Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,202
+0022300312,273,PT03M43.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,43,45,88,v,Hayward Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,204
+0022300312,278,PT03M20.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,207
+0022300312,288,PT02M55.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,5,24,2,Missed,1,,,0,v,MISS Hayward 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,214
+0022300312,365,PT08M21.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,45,254,26,Missed,1,,,0,v,MISS Hayward 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,265
+0022300312,421,PT04M03.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,-2,5,1,Made,1,78,64,142,v,Hayward 1' Running Alley Oop Dunk Shot (18 PTS) (Smith 4 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,308
+0022300312,425,PT04M03.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Thor FOR Hayward,Substitution,,0,0,311
+0022300312,501,PT09M55.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Lost Ball Turnover (P3.T18),Turnover,Lost Ball,1,0,366
+0022300312,519,PT07M51.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,379
+0022300312,521,PT07M46.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Lost Ball Turnover (P4.T20),Turnover,Lost Ball,1,0,380
+0022300312,534,PT06M53.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,12,4,1,Missed,1,,,0,v,MISS Hayward 1' Running Alley Oop Dunk Shot,Missed Shot,Running Alley Oop Dunk Shot,1,2,391
+0022300312,540,PT06M08.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,395
+0022300312,541,PT06M02.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,-89,6,9,Made,1,101,85,186,v,Hayward 9' Turnaround Fadeaway (20 PTS),Made Shot,Turnaround Fadeaway shot,1,2,396
+0022300312,543,PT05M39.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,398
+0022300312,549,PT04M56.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,-31,105,11,Missed,1,,,0,v,MISS Hayward 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,402
+0022300312,551,PT04M53.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward P.FOUL (P2.T1) (T.Maddox),Foul,Personal,1,0,404
+0022300326,12,PT11M00.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+0022300326,13,PT10M54.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,17,72,7,Missed,1,,,0,h,MISS Hayward 7' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,9
+0022300326,23,PT10M04.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,6,150,15,Made,1,4,0,4,h,Hayward 15' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,18
+0022300326,52,PT06M13.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,37,252,25,Missed,1,,,0,h,MISS Hayward 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,42
+0022300326,69,PT05M30.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,54
+0022300326,74,PT04M34.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-26,36,4,Missed,1,,,0,h,MISS Hayward 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,58
+0022300326,81,PT03M46.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: McGowens FOR Hayward,Substitution,,0,0,64
+0022300326,216,PT07M09.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-85,17,9,Missed,1,,,0,h,MISS Hayward 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,159
+0022300326,233,PT05M54.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,6,8,1,Made,1,35,37,72,h,Hayward 1' Driving Reverse Layup (4 PTS),Made Shot,Driving Reverse Layup Shot,1,2,170
+0022300326,237,PT05M29.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,113,226,25,Missed,1,,,0,h,MISS Hayward 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,173
+0022300326,359,PT08M55.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward BLOCK (1 BLK),,,1,2,269
+0022300326,362,PT08M34.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,138,-9,14,Made,1,47,56,103,h,Hayward 14' Jump Shot (6 PTS) (Richards 1 AST),Made Shot,Jump Shot,1,2,271
+0022300326,375,PT07M33.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward STEAL (1 STL),,,1,0,280
+0022300326,418,PT03M46.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,126,233,26,Missed,1,,,0,h,MISS Hayward 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,311
+0022300326,424,PT03M16.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,315
+0022300326,429,PT03M02.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Rozier FOR Hayward,Substitution,,0,0,320
+0022300326,586,PT05M21.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,-32,267,27,Made,1,91,98,189,h,Hayward 27' 3PT Jump Shot (9 PTS) (Miller 2 AST),Made Shot,Jump Shot,1,3,428
+0022300326,627,PT01M28.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,460
+0022300326,656,PT00M17.70S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Personal Take Foul (P1.PN) (A.Moyer-Gleich),Foul,Personal Take,1,0,478
+0022300326,672,PT00M08.20S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Personal Take Foul (P2.PN) (D.Richardson),Foul,Personal Take,1,0,489
+0022300365,28,PT09M13.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,74,48,9,Missed,1,,,0,v,MISS Hayward 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,19
+0022300365,39,PT08M25.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,7,5,12,v,Hayward Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,31
+0022300365,40,PT08M25.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,MISS Hayward Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,32
+0022300365,65,PT06M31.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-60,94,11,Missed,1,,,0,v,MISS Hayward 11' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,1,2,52
+0022300365,107,PT03M41.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: McGowens FOR Hayward,Substitution,,0,0,81
+0022300365,280,PT02M55.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,195
+0022300365,289,PT02M05.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,202
+0022300365,321,PT11M46.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,54,68,9,Made,1,71,62,133,v,Hayward 9' Floating Jump Shot (3 PTS) (Rozier 4 AST),Made Shot,Floating Jump shot,1,2,223
+0022300365,331,PT10M43.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,-176,195,26,Made,1,77,65,142,v,Hayward 26' 3PT Jump Shot (6 PTS) (Miller 3 AST),Made Shot,Jump Shot,1,3,230
+0022300365,337,PT10M11.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,77,66,143,v,Hayward Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,234
+0022300365,338,PT10M11.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,77,67,144,v,Hayward Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,235
+0022300365,369,PT06M42.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,263
+0022300365,370,PT06M36.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,37,40,5,Made,1,84,73,157,v,Hayward 5' Running Pull-Up Jump Shot (10 PTS),Made Shot,Running Pull-Up Jump Shot,1,2,264
+0022300365,411,PT04M43.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,MISS Hayward Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,292
+0022300365,415,PT04M43.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,92,75,167,v,Hayward Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,295
+0022300365,423,PT04M10.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: McGowens FOR Hayward,Substitution,,0,0,300
+0022300390,7,PT11M41.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,11,15,2,Made,1,2,0,2,h,Hayward 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,3
+0022300390,15,PT10M26.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+0022300390,40,PT08M23.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward BLOCK (1 BLK),,,1,2,29
+0022300390,48,PT07M34.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-4,29,3,Made,1,14,4,18,h,Hayward 3' Driving Layup (4 PTS) (Miller 2 AST),Made Shot,Driving Layup Shot,1,2,34
+0022300390,51,PT07M21.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,37
+0022300390,72,PT05M48.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward BLOCK (2 BLK),,,1,2,54
+0022300390,85,PT05M08.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Martin FOR Hayward,Substitution,,0,0,63
+0022300390,238,PT07M32.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,95,10,Made,1,39,38,77,h,Hayward 10' Turnaround Fadeaway (6 PTS),Made Shot,Turnaround Fadeaway shot,1,2,173
+0022300390,240,PT07M00.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,175
+0022300390,273,PT03M59.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward S.FOUL (P1.T4) (M.Lindsay),Foul,Shooting,1,0,202
+0022300390,283,PT03M56.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,208
+0022300390,303,PT01M43.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,6,18,2,Made,1,56,50,106,h,Hayward 2' Running Dunk (8 PTS) (Smith 7 AST),Made Shot,Running Dunk Shot,1,2,222
+0022300390,314,PT00M44.10S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,230
+0022300390,334,PT11M04.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,34,84,9,Missed,1,,,0,h,MISS Hayward 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,249
+0022300390,354,PT09M04.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,266
+0022300390,414,PT04M04.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,316
+0022300390,415,PT03M58.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Out of Bounds - Bad Pass Turnover Turnover (P3.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,317
+0022300390,416,PT03M58.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Hayward,Substitution,,0,0,318
+0022300390,564,PT07M13.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,44,109,12,Missed,1,,,0,h,MISS Hayward 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,424
+0022300390,581,PT05M33.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward STEAL (1 STL),,,1,0,439
+0022300390,615,PT03M04.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,460
+0022300390,616,PT02M54.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,92,155,18,Missed,1,,,0,h,MISS Hayward 18' Jump Shot,Missed Shot,Jump Shot,1,2,461
+0022300390,631,PT01M23.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Offensive Charge Foul (P2) (N.Green),Foul,Offensive Charge,1,0,473
+0022300390,633,PT01M23.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Offensive Foul Turnover (P4.T17),Turnover,Offensive Foul Turnover,1,0,474
+0022300414,9,PT11M24.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,-22,55,6,Made,1,0,2,2,v,Hayward 6' Turnaround Jump Shot (2 PTS) (Bridges 1 AST),Made Shot,Turnaround Jump Shot,1,2,5
+0022300414,23,PT10M21.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,13
+0022300414,67,PT06M35.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,46
+0022300414,76,PT06M11.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,97,130,16,Missed,1,,,0,v,MISS Hayward 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,52
+0022300414,110,PT03M09.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Rozier FOR Hayward,Substitution,,0,0,76
+0022300414,233,PT06M55.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-93,241,26,Missed,1,,,0,v,MISS Hayward 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,166
+0022300414,257,PT04M33.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward L.B.FOUL (P1.T4) (S.Foster),Foul,Loose Ball,1,0,184
+0022300414,280,PT02M36.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-223,9,0,Missed,1,,,0,v,MISS Hayward 3PT Jump Shot,Missed Shot,Jump Shot,1,3,200
+0022300414,283,PT02M20.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward STEAL (1 STL),,,1,0,204
+0022300414,289,PT01M34.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,70,109,13,Missed,1,,,0,v,MISS Hayward 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,207
+0022300414,295,PT00M39.90S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,212
+0022300414,296,PT00M34.70S,2,1610612766,CHA,202330,Hayward,G. Hayward,1,20,2,Made,1,55,49,104,v,Hayward 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,213
+0022300414,370,PT07M34.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,64,60,124,v,Hayward Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,272
+0022300414,371,PT07M34.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,64,61,125,v,Hayward Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,273
+0022300414,394,PT05M49.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,-27,141,14,Made,1,72,65,137,v,Hayward 14' Pullup Jump Shot (8 PTS) (Smith 2 AST),Made Shot,Pullup Jump shot,1,2,288
+0022300414,398,PT05M10.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,5,34,3,Missed,1,,,0,v,MISS Hayward 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,290
+0022300414,413,PT04M04.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward S.FOUL (P2.PN) (S.Foster),Foul,Shooting,1,0,302
+0022300414,417,PT04M04.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Rozier FOR Hayward,Substitution,,0,0,305
+0022300799,175,PT10M58.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,122
+0022300799,179,PT10M23.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,-18,59,6,Missed,1,,,0,h,MISS Hayward 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,126
+0022300799,182,PT10M14.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,129
+0022300799,237,PT06M09.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Giddey FOR Hayward,Substitution,,0,0,173
+0022300799,501,PT11M39.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,356
+0022300799,527,PT09M42.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,-17,-5,2,Missed,1,,,0,h,MISS Hayward 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,374
+0022300799,576,PT04M39.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,415
+0022300799,580,PT04M16.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Joe FOR Hayward,Substitution,,0,0,419
+0022300809,178,PT11M19.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,-151,156,22,Missed,1,,,0,h,MISS Hayward 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,125
+0022300809,219,PT09M06.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,161
+0022300809,248,PT06M48.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,-81,38,9,Made,1,56,48,104,h,Hayward 9' Jump Shot (2 PTS) (K. Williams 1 AST),Made Shot,Jump Shot,1,2,181
+0022300809,268,PT05M45.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Joe FOR Hayward,Substitution,,0,0,196
+0022300809,556,PT10M25.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,47,44,6,Missed,1,,,0,h,MISS Hayward 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,405
+0022300809,562,PT10M11.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,29,17,3,Missed,1,,,0,h,MISS Hayward 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,410
+0022300809,564,PT10M08.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,412
+0022300809,582,PT08M59.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,47,152,16,Missed,1,,,0,h,MISS Hayward 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,425
+0022300809,586,PT08M44.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,428
+0022300809,624,PT05M52.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,-4,32,3,Made,1,132,93,225,h,Hayward 3' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,458
+0022300809,626,PT05M35.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,460
+0022300809,629,PT05M30.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,133,93,226,h,Hayward Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,462
+0022300809,636,PT05M30.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,134,93,227,h,Hayward Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,466
+0022300809,638,PT05M11.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,468
+0022300809,648,PT04M21.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,476
+0022300809,649,PT04M13.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,5,12,1,Made,1,138,95,233,h,Hayward 1' Cutting Dunk Shot (8 PTS) (Wiggins 1 AST),Made Shot,Cutting Dunk Shot,1,2,477
+0022300809,658,PT03M36.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Wallace FOR Hayward,Substitution,,0,0,483
+0022300822,176,PT10M53.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Violation:Defensive Goaltending (C.Washington),Violation,Defensive Goaltending,1,0,129
+0022300822,187,PT10M11.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,138
+0022300822,201,PT09M09.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,70,25,7,Missed,1,,,0,v,MISS Hayward 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,148
+0022300822,210,PT08M51.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,156
+0022300822,211,PT08M50.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,Missed,1,,,0,v,MISS Hayward Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,157
+0022300822,212,PT08M50.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,159
+0022300822,268,PT05M11.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Dort FOR Hayward,Substitution,,0,0,197
+0022300822,545,PT11M23.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,406
+0022300822,546,PT11M17.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,-66,48,8,Missed,1,,,0,v,MISS Hayward 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,407
+0022300822,555,PT10M19.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,0,414
+0022300822,611,PT06M38.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Dort FOR Hayward,Substitution,,0,0,452
+0022300841,203,PT10M28.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,-27,23,4,Missed,1,,,0,h,MISS Hayward 4' Running Layup,Missed Shot,Running Layup Shot,1,2,150
+0022300841,247,PT06M56.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward L.B.FOUL (P1.T3) (N.Sago),Foul,Loose Ball,1,0,184
+0022300841,280,PT04M13.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Wiggins FOR Hayward,Substitution,,0,0,207
+0022300841,559,PT09M31.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,413
+0022300841,560,PT09M27.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,56,163,17,Missed,1,,,0,h,MISS Hayward 17' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,414
+0022300841,610,PT06M34.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,7,3,1,Made,1,98,81,179,h,Hayward 1' Running Alley Oop Dunk Shot (2 PTS) (Holmgren 2 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,447
+0022300841,613,PT06M16.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,449
+0022300841,645,PT03M21.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Dort FOR Hayward,Substitution,,0,0,476
+0022300841,678,PT01M34.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,9,-2,1,Missed,1,,,0,h,MISS Hayward 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,500
+0022300841,679,PT01M34.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,501
+0022300841,680,PT01M34.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,Made,1,109,92,201,h,Hayward Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,502
+0022300841,683,PT01M34.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,110,92,202,h,Hayward Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,504
+0022300841,695,PT00M03.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,515
+0022300853,207,PT10M13.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,-93,119,15,Missed,1,,,0,v,MISS Hayward 15' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,144
+0022300853,267,PT05M59.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,-2,16,2,Missed,1,,,0,v,MISS Hayward 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,186
+0022300853,278,PT05M21.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Gilgeous-Alexander FOR Hayward,Substitution,,0,0,197
+0022300853,521,PT11M36.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,-4,10,1,Missed,1,,,0,v,MISS Hayward 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,362
+0022300853,528,PT10M52.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,369
+0022300853,555,PT08M24.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward P.FOUL (P1.T2) (J.Williams),Foul,Personal,1,0,393
+0022300853,584,PT06M13.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Joe FOR Hayward,Substitution,,0,0,412
+0022300878,94,PT04M44.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,72
+0022300878,95,PT04M35.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,89,179,20,Made,1,17,12,29,v,Hayward 20' Jump Shot (2 PTS) (Gilgeous-Alexander 1 AST),Made Shot,Jump Shot,1,2,73
+0022300878,102,PT04M15.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,-5,-1,1,Missed,1,,,0,v,MISS Hayward 1' Running Layup,Missed Shot,Running Layup Shot,1,2,77
+0022300878,103,PT04M14.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,78
+0022300878,113,PT04M12.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,-98,116,15,Missed,1,,,0,v,MISS Hayward 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,79
+0022300878,115,PT04M12.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,81
+0022300878,148,PT00M27.90S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: J. Williams FOR Hayward,Substitution,,0,0,110
+0022300878,578,PT08M27.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Gilgeous-Alexander FOR Hayward,Substitution,,0,0,417
+0022300884,126,PT01M55.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,97
+0022300884,131,PT01M19.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,120,116,17,Missed,1,,,0,v,MISS Hayward 17' Jump Shot,Missed Shot,Jump Shot,1,2,102
+0022300884,138,PT01M02.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward S.FOUL (P1.T2) (J.Schroeder),Foul,Shooting,1,0,106
+0022300884,167,PT00M00.50S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Giddey FOR Hayward,Substitution,,0,0,128
+0022300884,442,PT05M01.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward P.FOUL (P2.PN) (J.Schroeder),Foul,Personal,1,0,321
+0022300884,481,PT02M45.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,18,176,18,Made,1,81,66,147,v,Hayward 18' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,351
+0022300884,502,PT00M54.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,23,39,5,Missed,1,,,0,v,MISS Hayward 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,367
+0022300884,506,PT00M36.10S,3,1610612760,OKC,202330,Hayward,G. Hayward,-22,15,3,Missed,1,,,0,v,MISS Hayward 3' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,2,371
+0022300884,658,PT01M56.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,-145,200,25,Missed,1,,,0,v,MISS Hayward 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,474
+0022300900,73,PT05M36.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward STEAL (1 STL),,,1,0,51
+0022300900,94,PT04M29.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,MISS Hayward Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,65
+0022300900,96,PT04M29.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,14,24,38,v,Hayward Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,67
+0022300900,103,PT03M19.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,72
+0022300900,131,PT00M55.40S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,92
+0022300900,240,PT04M45.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,41,54,95,v,Hayward Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,169
+0022300900,245,PT04M45.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,MISS Hayward Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,172
+0022300900,276,PT02M38.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: J. Williams FOR Hayward,Substitution,,0,0,195
+0022300900,441,PT03M02.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,-47,52,7,Made,1,78,86,164,v,Hayward 7' Driving Floating Bank Jump Shot (4 PTS) (Joe 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,314
+0022300900,469,PT00M52.30S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward STEAL (2 STL),,,1,0,336
+0022300900,471,PT00M48.10S,3,1610612760,OKC,202330,Hayward,G. Hayward,154,209,26,Made,1,86,93,179,v,Hayward 26' 3PT Running Pull-Up Jump Shot (7 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,337
+0022300900,582,PT06M03.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,412
+0022300900,583,PT05M53.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,21,23,3,Made,1,101,111,212,v,Hayward 3' Driving Floating Bank Jump Shot (9 PTS) (Joe 2 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,413
+0022300900,589,PT05M53.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,101,112,213,v,Hayward Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,417
+0022300900,594,PT05M16.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Bad Pass Turnover (P2.T15),Turnover,Bad Pass,1,0,421
+0022300900,611,PT04M05.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Giddey FOR Hayward,Substitution,,0,0,437
+0022300914,95,PT04M20.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,232,16,0,Made,1,19,16,35,h,Hayward 3PT Jump Shot (3 PTS) (Joe 1 AST),Made Shot,Jump Shot,1,3,69
+0022300914,100,PT04M07.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward S.FOUL (P1.T2) (T.Washington),Foul,Shooting,1,0,72
+0022300914,173,PT03M20.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,85
+0022300914,119,PT02M38.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Violation:Defensive Goaltending (T.Brothers),Violation,Defensive Goaltending,1,0,91
+0022300914,238,PT05M45.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward STEAL (1 STL),,,1,0,174
+0022300914,298,PT01M18.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,92,92,13,Missed,1,,,0,h,MISS Hayward 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,217
+0022300914,301,PT00M57.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,220
+0022300914,310,PT00M31.60S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Wiggins FOR Hayward,Substitution,,0,0,227
+0022300914,435,PT02M22.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward S.FOUL (P2.PN) (T.Brothers),Foul,Shooting,1,0,317
+0022300914,439,PT02M06.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,-153,197,25,Missed,1,,,0,h,MISS Hayward 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,320
+0022300931,114,PT02M01.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward S.FOUL (P1.T2) (B.Adair),Foul,Shooting,1,0,77
+0022300931,464,PT01M09.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,321
+0022300931,475,PT00M43.70S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,329
+0022300931,515,PT09M53.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,163,197,26,Made,1,107,74,181,h,Hayward 26' 3PT Jump Shot (3 PTS) (K. Williams 3 AST),Made Shot,Jump Shot,1,3,359
+0022300931,535,PT08M49.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,373
+0022300931,536,PT08M40.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,-13,53,5,Missed,1,,,0,h,MISS Hayward 5' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,374
+0022300931,552,PT07M19.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,387
+0022300931,557,PT06M42.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,146,29,15,Made,1,114,77,191,h,Hayward 15' Pullup Jump Shot (5 PTS) (Dieng 2 AST),Made Shot,Pullup Jump shot,1,2,392
+0022300931,560,PT06M41.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Wallace FOR Hayward,Substitution,,0,0,394
+0022300941,36,PT07M53.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,27
+0022300941,37,PT07M45.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Step Out of Bounds Turnover (P1.T1),Turnover,Step Out of Bounds Turnover,1,0,28
+0022300941,45,PT07M18.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,35
+0022300941,65,PT05M52.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Wallace FOR Hayward,Substitution,,0,0,50
+0022300941,157,PT11M42.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward S.FOUL (P1.T1) (J.Goble),Foul,Shooting,1,0,114
+0022300941,165,PT11M06.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,120
+0022300941,171,PT10M56.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward L.B.FOUL (P2.T2) (M.Davis),Foul,Loose Ball,1,0,126
+0022300941,185,PT09M56.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,21,30,51,h,Hayward Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,133
+0022300941,189,PT09M56.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,MISS Hayward Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,135
+0022300941,207,PT08M15.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,27,35,62,h,Hayward Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,148
+0022300941,208,PT08M15.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,MISS Hayward Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,149
+0022300941,244,PT05M21.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward STEAL (1 STL),,,1,0,176
+0022300941,246,PT05M14.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,177
+0022300941,253,PT05M09.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Dort FOR Hayward,Substitution,,0,0,183
+0022300941,359,PT10M07.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,65,62,9,Made,1,56,62,118,h,Hayward 9' Driving Floating Jump Shot (4 PTS) (Dort 2 AST),Made Shot,Driving Floating Jump Shot,1,2,256
+0022300941,386,PT07M13.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,32,241,24,Made,1,67,73,140,h,Hayward 24' 3PT Jump Shot (7 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Jump Shot,1,3,272
+0022300941,423,PT04M03.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Joe FOR Hayward,Substitution,,0,0,298
+0022300941,505,PT10M43.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,5,3,1,Made,1,91,96,187,h,Hayward 1' Cutting Dunk Shot (9 PTS) (Giddey 3 AST),Made Shot,Cutting Dunk Shot,1,2,351
+0022300941,507,PT10M30.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward S.FOUL (P3.T1) (B.Nansel),Foul,Shooting,1,0,352
+0022300941,514,PT10M21.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,-227,5,0,Missed,1,,,0,h,MISS Hayward 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,357
+0022300941,525,PT09M23.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,366
+0022300941,530,PT09M17.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: K. Williams FOR Hayward,Substitution,,0,0,371
+0022300959,149,PT00M15.20S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward S.FOUL (P1.PN) (E.Dalen),Foul,Shooting,1,0,97
+0022300959,317,PT02M15.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,235,16,24,Missed,1,,,0,h,MISS Hayward 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,207
+0022300959,321,PT02M15.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Holmgren FOR Hayward,Substitution,,0,0,210
+0022300959,467,PT05M34.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward S.FOUL (P2.T4) (P.Ransom),Foul,Shooting,1,0,310
+0022300959,479,PT05M02.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,115,26,12,Made,1,83,75,158,h,Hayward 12' Running Pull-Up Jump Shot (2 PTS) (Jal. Williams 4 AST),Made Shot,Running Pull-Up Jump Shot,1,2,319
+0022300959,525,PT01M38.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward STEAL (1 STL),,,1,0,353
+0022300959,533,PT01M05.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,358
+0022300959,536,PT01M05.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,92,84,176,h,Hayward Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,360
+0022300959,537,PT01M05.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,93,84,177,h,Hayward Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,361
+0022300959,569,PT11M39.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,-64,165,18,Missed,1,,,0,h,MISS Hayward 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,376
+0022300959,574,PT10M58.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,96,89,185,h,Hayward Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,380
+0022300959,575,PT10M58.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,97,89,186,h,Hayward Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,381
+0022300959,612,PT07M54.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Gilgeous-Alexander FOR Hayward,Substitution,,0,0,410
+0022300972,128,PT01M44.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,22,2,Made,1,22,25,47,v,Hayward 2' Driving Finger Roll Layup (2 PTS) (Gilgeous-Alexander 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,94
+0022300972,170,PT11M34.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,-72,67,10,Missed,1,,,0,v,MISS Hayward 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,118
+0022300972,197,PT09M32.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Wiggins FOR Hayward,Substitution,,0,0,137
+0022300972,432,PT04M48.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,233,72,24,Made,1,70,75,145,v,Hayward 24' 3PT Jump Shot (5 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Jump Shot,1,3,308
+0022300972,477,PT00M50.90S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,MISS Hayward Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,342
+0022300972,479,PT00M50.90S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,75,89,164,v,Hayward Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,344
+0022301000,126,PT03M05.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,96
+0022301000,150,PT00M48.90S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,28,23,51,h,Hayward Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,114
+0022301000,151,PT00M48.90S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,MISS Hayward Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,115
+0022301000,188,PT10M08.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,-33,254,26,Made,1,34,28,62,h,Hayward 26' 3PT Running Jump Shot (4 PTS) (Wallace 1 AST),Made Shot,Running Jump Shot,1,3,141
+0022301000,198,PT08M46.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,149
+0022301000,199,PT08M40.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,116,241,27,Made,1,39,31,70,h,Hayward 27' 3PT Running Jump Shot (7 PTS) (Jal. Williams 1 AST),Made Shot,Running Jump Shot,1,3,150
+0022301000,228,PT06M45.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Giddey FOR Hayward,Substitution,,0,0,172
+0022301000,379,PT07M51.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,-91,237,25,Missed,1,,,0,h,MISS Hayward 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,277
+0022301000,476,PT00M58.50S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Jal. Williams FOR Hayward,Substitution,,0,0,354
+0022301012,98,PT04M47.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,71
+0022301012,107,PT04M38.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,78
+0022301012,124,PT03M46.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,90
+0022301012,274,PT04M56.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,196
+0022301012,292,PT03M06.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,-227,-6,0,Missed,1,,,0,v,MISS Hayward 3PT Jump Shot,Missed Shot,Jump Shot,1,3,207
+0022301012,316,PT01M09.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward P.FOUL (P1.T3) (J.Capers),Foul,Personal,1,0,225
+0022301012,322,PT00M35.90S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward S.FOUL (P2.PN) (E.Scott),Foul,Shooting,1,0,229
+0022301012,432,PT04M17.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Lost Ball Turnover (P1.T11),Turnover,Lost Ball,1,0,310
+0022301012,442,PT03M18.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,319
+0022301012,449,PT03M07.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,227,130,26,Missed,1,,,0,v,MISS Hayward 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,323
+0022301012,479,PT00M33.50S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Lost Ball Turnover (P2.T13),Turnover,Lost Ball,1,0,345
+0022301012,608,PT04M53.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,234,5,0,Made,1,95,112,207,v,Hayward 3PT Jump Shot (3 PTS) (Joe 2 AST),Made Shot,Jump Shot,1,3,432
+0022301012,610,PT04M41.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward P.FOUL (P3.T3) (J.Capers),Foul,Personal,1,0,433
+0022301012,624,PT03M33.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,97,115,212,v,Hayward Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,442
+0022301012,625,PT03M33.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,97,116,213,v,Hayward Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,443
+0022301012,652,PT02M12.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,461
+0022301012,653,PT02M02.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,21,11,2,Missed,1,,,0,v,MISS Hayward 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,462
+0022301012,659,PT01M50.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward P.FOUL (P4.PN) (T.Ford),Foul,Personal,1,0,469
+0022301030,91,PT05M01.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,-48,174,18,Missed,1,,,0,v,MISS Hayward 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,66
+0022301030,99,PT04M18.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Step Out of Bounds Turnover (P1.T1),Turnover,Step Out of Bounds Turnover,1,0,71
+0022301030,111,PT02M45.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,237,22,24,Missed,1,,,0,v,MISS Hayward 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,81
+0022301030,128,PT01M57.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,1,17,2,Missed,1,,,0,v,MISS Hayward 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,93
+0022301030,144,PT00M57.80S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,105
+0022301030,158,PT00M17.10S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,116
+0022301030,297,PT01M41.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Jal. Williams FOR Hayward,Substitution,,0,0,209
+0022301046,425,PT02M53.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,28,8,3,Missed,1,,,0,v,MISS Hayward 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,306
+0022301046,433,PT02M12.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,150,156,22,Missed,1,,,0,v,MISS Hayward 22' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,313
+0022301046,442,PT01M48.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: K. Williams FOR Hayward,Substitution,,0,0,320
+0022301057,68,PT07M12.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,MISS Hayward Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,50
+0022301057,70,PT07M12.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,3,15,18,h,Hayward Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,52
+0022301057,72,PT06M45.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,54
+0022301057,79,PT06M08.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,173,181,25,Made,1,6,15,21,h,Hayward 25' 3PT Jump Shot (4 PTS) (Giddey 1 AST),Made Shot,Jump Shot,1,3,63
+0022301057,109,PT03M33.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,86
+0022301057,112,PT03M28.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,MISS Hayward Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,88
+0022301057,116,PT03M28.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,12,19,31,h,Hayward Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,91
+0022301057,131,PT02M21.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,225,-10,0,Made,1,15,21,36,h,Hayward 3PT Jump Shot (8 PTS) (Joe 2 AST),Made Shot,Jump Shot,1,3,102
+0022301057,158,PT00M00.40S,1,1610612760,OKC,202330,Hayward,G. Hayward,16,11,2,Missed,1,,,0,h,MISS Hayward 2' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,1,2,122
+0022301057,332,PT00M29.20S,2,1610612760,OKC,202330,Hayward,G. Hayward,98,237,26,Made,1,50,49,99,h,Hayward 26' 3PT Jump Shot (11 PTS) (Jal. Williams 3 AST),Made Shot,Jump Shot,1,3,245
+0022301057,435,PT05M09.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward STEAL (1 STL),,,1,0,324
+0022301057,496,PT00M34.20S,3,1610612760,OKC,202330,Hayward,G. Hayward,146,4,15,Missed,1,,,0,h,MISS Hayward 15' Jump Shot,Missed Shot,Jump Shot,1,2,367
+0022301057,587,PT07M14.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,13,-6,1,Made,1,97,92,189,h,Hayward 1' Cutting Layup Shot (13 PTS) (Jal. Williams 6 AST),Made Shot,Cutting Layup Shot,1,2,434
+0022301057,616,PT04M51.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,18,10,2,Missed,1,,,0,h,MISS Hayward 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,453
+0022301057,621,PT04M47.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: K. Williams FOR Hayward,Substitution,,0,0,457
+0022301069,93,PT03M59.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,18,9,2,Made,1,20,22,42,h,Hayward 2' Driving Finger Roll Layup (2 PTS) (Jay. Williams 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,66
+0022301069,117,PT02M32.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,22,92,9,Missed,1,,,0,h,MISS Hayward 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,82
+0022301069,129,PT01M47.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,28,8,3,Missed,1,,,0,h,MISS Hayward 3' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,91
+0022301069,150,PT00M01.10S,1,1610612760,OKC,202330,Hayward,G. Hayward,228,115,26,Missed,1,,,0,h,MISS Hayward 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,104
+0022301069,270,PT02M32.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,-13,53,5,Made,1,62,50,112,h,Hayward 5' Driving Floating Jump Shot (4 PTS) (Giddey 5 AST),Made Shot,Driving Floating Jump Shot,1,2,184
+0022301069,275,PT02M10.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,188
+0022301069,313,PT00M08.40S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Wiggins FOR Hayward,Substitution,,0,0,213
+0022301082,88,PT04M35.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,-224,27,0,Missed,1,,,0,v,MISS Hayward 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,68
+0022301082,123,PT02M11.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,72,106,13,Missed,1,,,0,v,MISS Hayward 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,96
+0022301082,147,PT00M04.10S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Giddey FOR Hayward,Substitution,,0,0,114
+0022301082,420,PT04M31.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,227,24,0,Made,1,75,69,144,v,Hayward 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Jump Shot,1,3,303
+0022301082,449,PT02M24.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward S.FOUL (P1.T4) (J.Williams),Foul,Shooting,1,0,326
+0022301082,461,PT01M43.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward STEAL (1 STL),,,1,0,338
+0022301082,463,PT01M39.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,2,13,1,Made,1,81,71,152,v,Hayward 1' Running Dunk (5 PTS) (Jal. Williams 3 AST),Made Shot,Running Dunk Shot,1,2,339
+0022301082,484,PT00M34.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,15,20,3,Missed,1,,,0,v,MISS Hayward 3' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,355
+0022301082,485,PT00M31.80S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,356
+0022301093,125,PT02M24.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,-196,176,26,Missed,1,,,0,v,MISS Hayward 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,89
+0022301093,177,PT11M08.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,120
+0022301093,189,PT09M56.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,120,152,19,Made,1,25,26,51,v,Hayward 19' Pullup Jump Shot (2 PTS) (J. Williams 5 AST),Made Shot,Pullup Jump shot,1,2,130
+0022301093,237,PT06M13.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,7,10,1,Made,1,35,35,70,v,Hayward 1' Cutting Layup Shot (4 PTS) (Dort 2 AST),Made Shot,Cutting Layup Shot,1,2,162
+0022301093,244,PT05M50.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Giddey FOR Hayward,Substitution,,0,0,167
+0022301093,480,PT02M22.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward BLOCK (1 BLK),,,1,2,319
+0022301093,511,PT00M30.10S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,342
+0022301093,512,PT00M18.60S,3,1610612760,OKC,202330,Hayward,G. Hayward,-17,48,5,Missed,1,,,0,v,MISS Hayward 5' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,343
+0022301093,542,PT10M22.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,1,0,365
+0022301093,583,PT07M55.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,47,267,27,Made,1,83,91,174,v,Hayward 27' 3PT Jump Shot (7 PTS) (Joe 6 AST),Made Shot,Jump Shot,1,3,398
+0022301093,612,PT06M25.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Giddey FOR Hayward,Substitution,,0,0,414
+0022301105,163,PT11M51.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,-5,199,20,Missed,1,,,0,v,MISS Hayward 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,121
+0022301105,176,PT10M55.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward STEAL (1 STL),,,1,0,134
+0022301105,181,PT10M31.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,137
+0022301105,203,PT08M50.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,158
+0022301105,221,PT07M53.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: Wallace FOR Hayward,Substitution,,0,0,174
+0022301105,494,PT00M50.40S,3,1610612760,OKC,202330,Hayward,G. Hayward,42,39,6,Missed,1,,,0,v,MISS Hayward 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,361
+0022301105,549,PT09M12.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: J. Williams FOR Hayward,Substitution,,0,0,395
+0022301105,631,PT03M22.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,72,31,8,Missed,1,,,0,v,MISS Hayward 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,453
+0022301105,658,PT00M31.90S,4,1610612760,OKC,202330,Hayward,G. Hayward,-227,21,0,Missed,1,,,0,v,MISS Hayward 3PT Jump Shot,Missed Shot,Jump Shot,1,3,474
+0022301116,35,PT08M54.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,26,150,15,Made,1,9,8,17,v,Hayward 15' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,26
+0022301116,38,PT08M54.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,9,9,18,v,Hayward Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,28
+0022301116,48,PT07M59.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,11,12,23,v,Hayward Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,35
+0022301116,49,PT07M59.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,11,13,24,v,Hayward Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,36
+0022301116,95,PT04M23.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: K. Williams FOR Hayward,Substitution,,0,0,63
+0022301116,269,PT05M29.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,-98,0,10,Missed,1,,,0,v,MISS Hayward 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,183
+0022301116,286,PT03M56.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,6,3,1,Made,1,59,49,108,v,Hayward 1' Driving Layup (7 PTS) (Giddey 4 AST),Made Shot,Driving Layup Shot,1,2,196
+0022301116,304,PT02M22.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward STEAL (1 STL),,,1,0,210
+0022301163,112,PT03M42.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,26,15,3,Made,1,24,11,35,h,Hayward 3' Driving Reverse Layup (2 PTS) (Wallace 2 AST),Made Shot,Driving Reverse Layup Shot,1,2,91
+0022301163,115,PT03M18.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,93
+0022301163,138,PT01M56.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,30,11,41,h,Hayward Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,111
+0022301163,143,PT01M56.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,MISS Hayward Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,114
+0022301163,151,PT01M11.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,-6,7,1,Missed,1,,,0,h,MISS Hayward 1' Running Layup,Missed Shot,Running Layup Shot,1,2,122
+0022301163,182,PT11M35.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,141
+0022301163,213,PT09M48.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,38,19,57,h,Hayward Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,164
+0022301163,214,PT09M48.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,MISS Hayward Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,165
+0022301163,245,PT07M56.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,-145,212,26,Made,1,48,21,69,h,Hayward 26' 3PT Pullup Jump Shot (7 PTS) (Jay. Williams 2 AST),Made Shot,Pullup Jump shot,1,3,187
+0022301163,264,PT06M33.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Giddey FOR Hayward,Substitution,,0,0,201
+0022301163,445,PT06M18.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,23,27,4,Made,1,82,47,129,h,Hayward 4' Driving Finger Roll Layup (9 PTS) (Jal. Williams 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,333
+0022301163,454,PT05M39.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward STEAL (1 STL),,,1,0,341
+0022301163,460,PT05M07.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,109,221,25,Missed,1,,,0,h,MISS Hayward 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,344
+0022301163,474,PT04M45.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,21,10,2,Made,1,88,49,137,h,Hayward 2' Driving Layup (11 PTS) (Giddey 7 AST),Made Shot,Driving Layup Shot,1,2,353
+0022301163,478,PT04M34.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward S.FOUL (P1.T4) (M.Ervin),Foul,Shooting,1,0,355
+0022301163,495,PT03M24.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,89,55,144,h,Hayward Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,368
+0022301163,498,PT03M24.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,90,55,145,h,Hayward Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,370
+0022301163,526,PT00M47.90S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0,393
+0022301163,557,PT11M44.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Lost Ball Turnover (P3.T9),Turnover,Lost Ball,1,0,409
+0022301163,571,PT10M14.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,82,148,17,Made,1,100,66,166,h,Hayward 17' Pullup Jump Shot (15 PTS) (Wiggins 2 AST),Made Shot,Pullup Jump shot,1,2,423
+0022301163,579,PT09M14.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,-114,227,25,Made,1,103,66,169,h,Hayward 25' 3PT Jump Shot (18 PTS) (K. Williams 2 AST),Made Shot,Jump Shot,1,3,431
+0022301163,594,PT08M31.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Muscala FOR Hayward,Substitution,,0,0,440
+0022301179,14,PT11M00.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+0022301179,33,PT08M57.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,21
+0022301179,39,PT08M27.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,27
+0022301179,40,PT08M26.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,6,3,1,Made,1,10,9,19,h,Hayward 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,28
+0022301179,58,PT06M57.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,44
+0022301179,91,PT04M50.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: K. Williams FOR Hayward,Substitution,,0,0,68
+0022301179,247,PT06M53.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,50,101,11,Made,1,53,43,96,h,Hayward 11' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,174
+0022301179,256,PT05M52.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,-54,20,6,Missed,1,,,0,h,MISS Hayward 6' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,2,183
+0022301179,287,PT03M24.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward STEAL (1 STL),,,1,0,205
+0022301179,298,PT02M59.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,212
+0022301179,322,PT00M30.20S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward STEAL (2 STL),,,1,0,234
+0022301179,392,PT06M27.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,17,13,2,Made,1,82,70,152,h,Hayward 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,282
+0022301179,399,PT06M27.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,MISS Hayward Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,286
+0022301179,402,PT06M07.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,289
+0022301179,426,PT03M37.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,306
+0022301179,427,PT03M37.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Joe FOR Hayward,Substitution,,0,0,307
+0022301179,564,PT06M22.00S,4,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Wallace FOR Hayward,Substitution,,0,0,404
+0022301196,100,PT04M37.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,70
+0022301196,112,PT03M57.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward L.B.FOUL (P1.T4) (N.Sago),Foul,Loose Ball,1,0,77
+0022301196,322,PT03M57.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,78
+0022301196,140,PT01M56.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward S.FOUL (P2.PN) (N.Sago),Foul,Shooting,1,0,98
+0022301196,144,PT01M43.00S,1,1610612760,OKC,202330,Hayward,G. Hayward,10,4,1,Made,1,29,20,49,h,Hayward 1' Driving Finger Roll Layup (2 PTS) (Jal. Williams 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,101
+0022301196,327,PT02M39.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,73,34,107,h,Hayward Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,227
+0022301196,328,PT02M39.00S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,74,34,108,h,Hayward Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,228
+0022301196,354,PT00M24.60S,2,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Lost Ball Turnover (P2.T6),Turnover,Lost Ball,1,0,246
+0022301196,377,PT11M45.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,135,226,26,Missed,1,,,0,h,MISS Hayward 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,254
+0022301196,380,PT11M22.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,11,10,1,Made,1,84,41,125,h,Hayward 1' Cutting Layup Shot (6 PTS) (K. Williams 1 AST),Made Shot,Cutting Layup Shot,1,2,257
+0022301196,384,PT11M22.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,MISS Hayward Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,259
+0022301196,387,PT11M03.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,262
+0022301196,415,PT08M42.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,-12,12,2,Made,1,90,41,131,h,Hayward 2' Driving Reverse Layup (8 PTS) (Giddey 7 AST),Made Shot,Driving Reverse Layup Shot,1,2,288
+0022301196,454,PT05M38.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,315
+0022301196,460,PT05M10.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,-10,12,2,Made,1,94,49,143,h,Hayward 2' Driving Dunk (10 PTS) (Dieng 1 AST),Made Shot,Driving Dunk Shot,1,2,320
+0022301196,469,PT04M41.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,327
+0022301196,515,PT01M56.00S,3,1610612760,OKC,202330,Hayward,G. Hayward,-76,84,11,Missed,1,,,0,h,MISS Hayward 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,364
+0022301211,19,PT10M50.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,2,1,3,v,Hayward Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,13
+0022301211,20,PT10M50.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,2,2,4,v,Hayward Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,14
+0022301211,27,PT09M51.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,141,57,15,Missed,1,,,0,v,MISS Hayward 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,20
+0022301211,33,PT09M19.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,145,19,15,Made,1,5,6,11,v,Hayward 15' Pullup Jump Shot (4 PTS) (Rozier 1 AST),Made Shot,Pullup Jump shot,1,2,25
+0022301211,37,PT08M53.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,229,3,0,Made,1,5,9,14,v,Hayward 3PT Jump Shot (7 PTS) (Rozier 2 AST),Made Shot,Jump Shot,1,3,28
+0022301211,44,PT08M28.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,1,1,0,Made,1,7,11,18,v,Hayward Driving Dunk (9 PTS) (Rozier 3 AST),Made Shot,Driving Dunk Shot,1,2,32
+0022301211,47,PT08M13.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,34
+0022301211,61,PT07M09.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,163,197,26,Missed,1,,,0,v,MISS Hayward 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,43
+0022301211,75,PT05M19.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,5,21,2,Missed,1,,,0,v,MISS Hayward 2' Driving Layup,Missed Shot,Driving Layup Shot,0,2,56
+0022301211,93,PT04M18.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,69
+0022301211,101,PT03M25.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,127,-4,13,Missed,1,,,0,v,MISS Hayward 13' Jump Shot,Missed Shot,Jump Shot,1,2,75
+0022301211,105,PT03M07.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,5,1,Made,1,22,19,41,v,Hayward 1' Running Dunk (11 PTS) (Miller 2 AST),Made Shot,Running Dunk Shot,1,2,79
+0022301211,111,PT03M07.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,22,20,42,v,Hayward Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,1,0,83
+0022301211,133,PT01M29.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: McGowens FOR Hayward,Substitution,,0,0,101
+0022301211,231,PT07M09.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,165
+0022301211,249,PT05M33.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward STEAL (1 STL),,,1,0,178
+0022301211,251,PT05M18.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-1,69,7,Made,1,45,31,76,v,Hayward 7' Driving Floating Jump Shot (14 PTS) (Smith 1 AST),Made Shot,Driving Floating Jump Shot,1,2,179
+0022301211,263,PT05M18.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,45,32,77,v,Hayward Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,1,0,185
+0022301211,264,PT05M04.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward P.FOUL (P1.T1) (P.Ransom),Foul,Personal,1,0,186
+0022301211,276,PT04M10.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,-148,115,19,Made,1,45,36,81,v,Hayward 19' Step Back Jump Shot (17 PTS),Made Shot,Step Back Jump shot,1,2,195
+0022301211,278,PT03M36.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,5,73,7,Made,1,45,38,83,v,Hayward 7' Driving Floating Bank Jump Shot (19 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,197
+0022301211,296,PT02M13.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,219,120,25,Missed,1,,,0,v,MISS Hayward 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,212
+0022301211,314,PT00M33.40S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward BLOCK (1 BLK),,,1,2,229
+0022301211,339,PT10M44.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,248
+0022301211,359,PT08M45.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Out of Bounds - Bad Pass Turnover Turnover (P3.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,261
+0022301211,368,PT07M21.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,-185,22,19,Missed,1,,,0,v,MISS Hayward 19' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,269
+0022301211,393,PT06M13.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,98,152,18,Missed,1,,,0,v,MISS Hayward 18' Jump Shot,Missed Shot,Jump Shot,1,2,289
+0022301211,395,PT06M07.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward S.FOUL (P2.T3) (C.Blair),Foul,Shooting,1,0,291
+0022301211,413,PT05M06.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Traveling Turnover (P4.T11),Turnover,Traveling,1,0,304
+0022301211,446,PT04M04.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,SUB: McGowens FOR Hayward,Substitution,,0,0,320
+0022301211,544,PT09M01.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward STEAL (2 STL),,,1,0,396
+0022301211,547,PT08M54.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,398
+0022301211,555,PT08M15.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,2,2,0,Made,1,91,77,168,v,Hayward Driving Dunk (21 PTS),Made Shot,Driving Dunk Shot,1,2,404
+0022301211,592,PT06M05.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,213,122,25,Made,1,96,83,179,v,Hayward 25' 3PT Jump Shot (24 PTS) (Washington 3 AST),Made Shot,Jump Shot,1,3,428
+0022301211,596,PT05M35.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,10,69,7,Missed,1,,,0,v,MISS Hayward 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,430
+0022301211,598,PT05M31.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,432
+0022301211,599,PT05M30.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward Bad Pass Turnover (P5.T17),Turnover,Bad Pass,1,0,433
+0022301211,607,PT04M59.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,v,Hayward STEAL (3 STL),,,1,0,444
+0022301211,665,PT01M10.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,47,29,6,Made,1,106,94,200,v,Hayward 6' Driving Floating Bank Jump Shot (26 PTS) (Rozier 7 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,489
+0022301211,669,PT01M10.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,106,95,201,v,Hayward Free Throw 1 of 1 (27 PTS),Free Throw,Free Throw 1 of 1,0,0,491
+0022301216,18,PT10M11.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,9,50,5,Made,1,4,4,8,h,Hayward 5' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,1,2,13
+0022301216,27,PT09M40.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,17,10,2,Made,1,6,4,10,h,Hayward 2' Running Layup (4 PTS) (Miller 1 AST),Made Shot,Running Layup Shot,1,2,21
+0022301216,54,PT06M58.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,31,68,7,Made,1,16,10,26,h,Hayward 7' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,1,2,41
+0022301216,55,PT06M46.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward P.FOUL (P1.T1) (C.Kirkland),Foul,Personal,1,0,42
+0022301216,67,PT05M46.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,225,41,0,Missed,1,,,0,h,MISS Hayward 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,1,3,49
+0022301216,70,PT05M33.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,52
+0022301216,71,PT05M25.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,40,101,11,Missed,1,,,0,h,MISS Hayward 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,53
+0022301216,73,PT05M21.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,11,-4,1,Made,1,21,12,33,h,Hayward 1' Cutting Layup Shot (8 PTS) (Williams 1 AST),Made Shot,Cutting Layup Shot,1,2,55
+0022301216,87,PT04M12.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,65,68,9,Missed,1,,,0,h,MISS Hayward 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,65
+0022301216,92,PT04M06.00S,1,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Richards FOR Hayward,Substitution,,0,0,69
+0022301216,221,PT07M13.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,189,166,25,Made,1,51,33,84,h,Hayward 25' 3PT Jump Shot (11 PTS) (Smith 3 AST),Made Shot,Jump Shot,1,3,161
+0022301216,228,PT06M37.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,123,110,17,Made,1,53,33,86,h,Hayward 17' Pullup Jump Shot (13 PTS) (Smith 4 AST),Made Shot,Pullup Jump shot,1,2,164
+0022301216,231,PT06M10.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,166
+0022301216,258,PT04M55.00S,2,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,187
+0022301216,321,PT11M38.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,-96,46,11,Made,1,68,54,122,h,Hayward 11' Turnaround Fadeaway (15 PTS),Made Shot,Turnaround Fadeaway shot,1,2,228
+0022301216,333,PT10M01.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward STEAL (1 STL),,,1,0,237
+0022301216,362,PT07M08.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,28,63,7,Made,1,78,65,143,h,Hayward 7' Driving Floating Jump Shot (17 PTS) (Rozier 9 AST),Made Shot,Driving Floating Jump Shot,1,2,260
+0022301216,365,PT06M34.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,58,67,9,Missed,1,,,0,h,MISS Hayward 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,262
+0022301216,374,PT05M57.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,21,13,2,Made,1,80,67,147,h,Hayward 2' Driving Layup (19 PTS),Made Shot,Driving Layup Shot,1,2,270
+0022301216,395,PT03M59.00S,3,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,SUB: Richards FOR Hayward,Substitution,,0,0,287
+0022301216,486,PT09M40.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,-50,47,7,Missed,1,,,0,h,MISS Hayward 7' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,346
+0022301216,532,PT07M58.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward Out of Bounds - Bad Pass Turnover Turnover (P3.T14),Turnover,Out of Bounds - Bad Pass Turnover,0,0,369
+0022301216,544,PT05M59.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,388
+0022301216,566,PT04M27.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,404
+0022301216,584,PT03M44.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,105,106,211,h,Hayward Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,415
+0022301216,585,PT03M44.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,MISS Hayward Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,416
+0022301216,586,PT03M41.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,,,0,h,Hayward REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,417
+0022301216,587,PT03M35.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,-2,21,2,Made,1,107,106,213,h,Hayward 2' Driving Layup (22 PTS),Made Shot,Driving Layup Shot,1,2,418
+0022301216,593,PT03M11.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,108,106,214,h,Hayward Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0,422
+0022301216,594,PT03M11.00S,4,1610612766,CHA,202330,Hayward,G. Hayward,0,0,0,,0,109,106,215,h,Hayward Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0,423

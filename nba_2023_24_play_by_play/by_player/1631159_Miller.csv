@@ -1,0 +1,51 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300093,590,PT01M14.00S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,h,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,434
+0022300093,594,PT00M36.40S,4,1610612750,MIN,1631159,Miller,L. Miller,-16,4,2,Missed,1,,,0,h,MISS Miller 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,438
+0022300232,699,PT01M28.00S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,h,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,506
+0022300232,706,PT00M54.40S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,h,Miller REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,512
+0022300232,709,PT00M44.30S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,h,Miller S.FOUL (P1.PN) (E.Malloy),Foul,Shooting,1,0,515
+0022300232,717,PT00M24.20S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,h,Miller REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,522
+0022300249,659,PT01M39.00S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,477
+0022300249,660,PT01M28.00S,4,1610612750,MIN,1631159,Miller,L. Miller,4,4,1,Made,1,93,114,207,v,Miller 1' Reverse Layup (2 PTS) (Milton 3 AST),Made Shot,Reverse Layup Shot,1,2,478
+0022300249,663,PT01M12.00S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,480
+0022300411,627,PT04M20.00S,4,1610612750,MIN,1631159,Miller,L. Miller,-13,-1,1,Made,1,121,101,222,v,Miller 1' Alley Oop Layup (2 PTS) (Milton 1 AST),Made Shot,Alley Oop Layup shot,1,2,436
+0022300411,642,PT02M11.00S,4,1610612750,MIN,1631159,Miller,L. Miller,185,185,26,Made,1,126,104,230,v,Miller 26' 3PT Jump Shot (5 PTS) (Minott 1 AST),Made Shot,Jump Shot,1,3,448
+0022300411,649,PT01M33.00S,4,1610612750,MIN,1631159,Miller,L. Miller,16,-5,2,Made,1,129,106,235,v,Miller 2' Layup (7 PTS) (Minott 2 AST),Made Shot,Layup Shot,1,2,452
+0022300411,657,PT00M57.30S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,458
+0022300538,578,PT07M28.00S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,h,Miller S.FOUL (P1.PN) (N.Buchert),Foul,Shooting,1,0,417
+0022300538,600,PT06M23.00S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,h,Miller P.FOUL (P2.PN) (N.Buchert),Foul,Personal,1,0,434
+0022300538,610,PT05M53.00S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,h,Miller BLOCK (1 BLK),,,1,2,440
+0022300538,613,PT05M40.00S,4,1610612750,MIN,1631159,Miller,L. Miller,5,21,2,Made,1,107,73,180,h,Miller 2' Layup (2 PTS) (Milton 1 AST),Made Shot,Layup Shot,1,2,444
+0022300538,631,PT03M23.00S,4,1610612750,MIN,1631159,Miller,L. Miller,-154,210,26,Missed,1,,,0,h,MISS Miller 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,456
+0022300538,644,PT02M30.00S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,h,Miller STEAL (1 STL),,,1,0,467
+0022300538,652,PT02M18.00S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,h,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,472
+0022300538,661,PT01M21.00S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,h,Miller REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,479
+0022300538,662,PT01M16.00S,4,1610612750,MIN,1631159,Miller,L. Miller,-209,27,21,Made,1,116,89,205,h,Miller 21' Step Back Jump Shot (4 PTS) (Brown Jr. 3 AST),Made Shot,Step Back Jump shot,1,2,480
+0022300538,672,PT00M18.20S,4,1610612750,MIN,1631159,Miller,L. Miller,205,144,25,Missed,1,,,0,h,MISS Miller 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,487
+0022300538,674,PT00M11.80S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,h,Miller Lost Ball Turnover (P1.T16),Turnover,Lost Ball,1,0,489
+0022300791,661,PT01M44.00S,4,1610612750,MIN,1631159,Miller,L. Miller,-89,50,10,Missed,1,,,0,v,MISS Miller 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,482
+0022300944,599,PT02M17.00S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,v,Miller P.FOUL (P1.T3) (K.Scott),Foul,Personal,1,0,432
+0022300944,606,PT02M09.00S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,437
+0022300944,608,PT02M00.00S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,439
+0022301056,612,PT00M29.10S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,h,Miller Violation:Kicked Ball (S.Mehta),Violation,Kicked Ball,0,0,440
+0022301108,584,PT04M47.00S,4,1610612750,MIN,1631159,Miller,L. Miller,-221,11,0,Made,1,116,72,188,h,Miller 3PT Running Jump Shot (3 PTS) (Nix 2 AST),Made Shot,Running Jump Shot,1,3,436
+0022301108,586,PT04M34.00S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,h,Miller STEAL (1 STL),,,0,0,438
+0022301108,609,PT02M36.00S,4,1610612750,MIN,1631159,Miller,L. Miller,-20,10,2,Made,1,122,77,199,h,Miller 2' Running Reverse Layup (5 PTS) (Moore Jr. 2 AST),Made Shot,Running Reverse Layup Shot,1,2,455
+0022301108,630,PT01M21.00S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,h,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,472
+0022301125,614,PT03M11.00S,4,1610612750,MIN,1631159,Miller,L. Miller,25,22,3,Made,1,94,74,168,v,Miller 3' Layup (2 PTS) (Minott 1 AST),Made Shot,Layup Shot,1,2,450
+0022301125,627,PT02M18.00S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,457
+0022301125,648,PT00M36.80S,4,1610612750,MIN,1631159,Miller,L. Miller,-146,150,21,Made,1,97,83,180,v,Miller 21' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,474
+0022301143,649,PT01M19.00S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,475
+0022301143,650,PT01M17.00S,4,1610612750,MIN,1631159,Miller,L. Miller,-10,28,3,Missed,1,,,0,v,MISS Miller 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,476
+0022301164,610,PT02M23.00S,4,1610612750,MIN,1631159,Miller,L. Miller,81,113,14,Made,1,110,96,206,v,Miller 14' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,1,2,437
+0022301164,634,PT00M45.50S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,454
+0022301164,651,PT00M17.40S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,v,Miller Personal Take Foul (P1.PN) (C.Washington),Foul,Personal Take,1,0,466
+0022301164,658,PT00M15.30S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,v,Miller REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,471
+0022301164,661,PT00M09.60S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,116,107,223,v,Miller Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,473
+0022301164,662,PT00M09.60S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,v,MISS Miller Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,474
+0022301194,628,PT02M22.00S,4,1610612750,MIN,1631159,Miller,L. Miller,234,-1,0,Missed,1,,,0,h,MISS Miller 3PT Jump Shot,Missed Shot,Jump Shot,1,3,443
+0022301194,632,PT01M59.00S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,h,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,447
+0022301194,638,PT01M34.00S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,h,Miller REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,453
+0022301194,648,PT01M07.00S,4,1610612750,MIN,1631159,Miller,L. Miller,18,20,3,Missed,1,,,0,h,MISS Miller 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,461
+0022301194,649,PT01M05.00S,4,1610612750,MIN,1631159,Miller,L. Miller,0,0,0,,0,,,0,h,Miller REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,462
+0022301194,650,PT01M05.00S,4,1610612750,MIN,1631159,Miller,L. Miller,5,15,2,Made,1,102,120,222,h,Miller 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,463

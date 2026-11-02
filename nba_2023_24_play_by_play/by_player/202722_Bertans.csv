@@ -1,0 +1,501 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300109,141,PT02M57.00S,1,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,22,14,36,h,Bertans Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,1,0,104
+0022300109,142,PT02M57.00S,1,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,23,14,37,h,Bertans Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,1,0,105
+0022300109,143,PT02M57.00S,1,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,24,14,38,h,Bertans Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,1,0,106
+0022300109,152,PT01M46.00S,1,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,114
+0022300109,291,PT05M32.00S,2,1610612760,OKC,202722,Bertans,D. Bertans,-12,293,29,Made,1,49,36,85,h,Bertans 29' 3PT Jump Shot (6 PTS) (Gilgeous-Alexander 4 AST),Made Shot,Jump Shot,1,3,208
+0022300109,321,PT02M52.00S,2,1610612760,OKC,202722,Bertans,D. Bertans,-163,212,27,Missed,1,,,0,h,MISS Bertans 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,233
+0022300109,326,PT02M17.00S,2,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans S.FOUL (P1.T2) (B.Schwab),Foul,Shooting,1,0,238
+0022300109,333,PT02M05.00S,2,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Williams FOR Bertans,Substitution,,0,0,243
+0022300167,116,PT03M35.00S,1,1610612760,OKC,202722,Bertans,D. Bertans,26,250,25,Missed,1,,,0,h,MISS Bertans 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,87
+0022300167,122,PT02M59.00S,1,1610612760,OKC,202722,Bertans,D. Bertans,135,232,27,Missed,1,,,0,h,MISS Bertans 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,93
+0022300167,128,PT02M35.00S,1,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans STEAL (1 STL),,,1,0,98
+0022300167,166,PT00M16.70S,1,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Wiggins FOR Bertans,Substitution,,0,0,125
+0022300167,270,PT05M05.00S,2,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,56,43,99,h,Bertans Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,1,0,190
+0022300167,271,PT05M05.00S,2,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,57,43,100,h,Bertans Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,1,0,191
+0022300167,276,PT05M05.00S,2,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,58,43,101,h,Bertans Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,1,0,194
+0022300167,289,PT03M59.00S,2,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans S.FOUL (P1.T3) (C.Washington),Foul,Shooting,1,0,204
+0022300167,313,PT02M33.00S,2,1610612760,OKC,202722,Bertans,D. Bertans,-232,50,24,Missed,1,,,0,h,MISS Bertans 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,222
+0022300167,315,PT02M25.00S,2,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans P.FOUL (P2.PN) (C.Washington),Foul,Personal,1,0,224
+0022300167,318,PT02M25.00S,2,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Giddey FOR Bertans,Substitution,,0,0,226
+0022300215,104,PT03M34.00S,1,1610612760,OKC,202722,Bertans,D. Bertans,225,47,0,Missed,1,,,0,v,MISS Bertans 3PT Jump Shot,Missed Shot,Jump Shot,1,3,75
+0022300215,115,PT02M28.00S,1,1610612760,OKC,202722,Bertans,D. Bertans,148,236,28,Made,1,15,25,40,v,Bertans 28' 3PT Jump Shot (3 PTS) (Dort 1 AST),Made Shot,Jump Shot,1,3,84
+0022300215,118,PT02M11.00S,1,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,86
+0022300215,131,PT01M14.00S,1,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,96
+0022300215,136,PT00M35.10S,1,1610612760,OKC,202722,Bertans,D. Bertans,-223,19,0,Missed,1,,,0,v,MISS Bertans 3PT Jump Shot,Missed Shot,Jump Shot,1,3,99
+0022300215,144,PT00M11.80S,1,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: K. Williams FOR Bertans,Substitution,,0,0,104
+0022300215,557,PT05M27.00S,4,1610612760,OKC,202722,Bertans,D. Bertans,-197,169,26,Missed,1,,,0,v,MISS Bertans 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,402
+0022300215,560,PT05M13.00S,4,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans BLOCK (1 BLK),,,1,2,408
+0022300215,572,PT04M09.00S,4,1610612760,OKC,202722,Bertans,D. Bertans,206,153,26,Missed,1,,,0,v,MISS Bertans 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,417
+0022300239,527,PT01M28.00S,3,1610612760,OKC,202722,Bertans,D. Bertans,-234,-31,24,Missed,1,,,0,h,MISS Bertans 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,367
+0022300239,536,PT00M27.70S,3,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,374
+0022300239,542,PT00M12.10S,3,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Dort FOR Bertans,Substitution,,0,0,378
+0022300239,565,PT11M16.00S,4,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,1,0,387
+0022300239,581,PT10M00.00S,4,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans P.FOUL (P2.T2) (B.Kennedy),Foul,Personal,1,0,399
+0022300239,598,PT08M39.00S,4,1610612760,OKC,202722,Bertans,D. Bertans,232,-5,0,Made,1,96,103,199,h,Bertans 3PT Jump Shot (3 PTS) (K. Williams 2 AST),Made Shot,Jump Shot,1,3,411
+0022300239,605,PT07M23.00S,4,1610612760,OKC,202722,Bertans,D. Bertans,156,-15,16,Missed,1,,,0,h,MISS Bertans 16' Jump Shot,Missed Shot,Jump Shot,1,2,417
+0022300239,611,PT07M03.00S,4,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Gilgeous-Alexander FOR Bertans,Substitution,,0,0,422
+0022300239,701,PT01M12.00S,4,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: K. Williams FOR Bertans,Substitution,,0,0,490
+0022300239,731,PT00M32.50S,4,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,113,120,233,h,Bertans Free Throw 1 of 3 (4 PTS),Free Throw,Free Throw 1 of 3,1,0,506
+0022300239,732,PT00M32.50S,4,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,MISS Bertans Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,1,0,507
+0022300239,738,PT00M32.50S,4,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,114,120,234,h,Bertans Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,1,0,511
+0022300239,740,PT00M32.50S,4,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Holmgren FOR Bertans,Substitution,,0,0,513
+0022300239,771,PT00M03.40S,4,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: J. Williams FOR Bertans,Substitution,,0,0,533
+0022300287,225,PT10M37.00S,2,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,28,36,64,v,Bertans Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,1,0,163
+0022300287,226,PT10M37.00S,2,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,28,37,65,v,Bertans Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,1,0,164
+0022300287,227,PT10M37.00S,2,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,28,38,66,v,Bertans Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,1,0,165
+0022300287,235,PT09M44.00S,2,1610612760,OKC,202722,Bertans,D. Bertans,184,183,26,Made,1,28,41,69,v,Bertans 26' 3PT Jump Shot (6 PTS) (Holmgren 1 AST),Made Shot,Jump Shot,1,3,172
+0022300287,237,PT09M31.00S,2,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans S.FOUL (P1.T2) (M.Ervin),Foul,Shooting,1,0,173
+0022300287,263,PT08M23.00S,2,1610612760,OKC,202722,Bertans,D. Bertans,-87,248,26,Made,1,34,46,80,v,Bertans 26' 3PT Jump Shot (9 PTS) (Jal. Williams 3 AST),Made Shot,Jump Shot,1,3,191
+0022300287,292,PT05M38.00S,2,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans P.FOUL (P2.T4) (D.Richardson),Foul,Personal,1,0,215
+0022300287,308,PT04M49.00S,2,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans S.FOUL (P3.PN) (P.Fraher),Foul,Shooting,1,0,225
+0022300287,312,PT04M49.00S,2,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Joe FOR Bertans,Substitution,,0,0,228
+0022300287,522,PT02M00.00S,3,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,388
+0022300287,525,PT01M47.00S,3,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,81,95,176,v,Bertans Free Throw 1 of 3 (10 PTS),Free Throw,Free Throw 1 of 3,1,0,390
+0022300287,526,PT01M47.00S,3,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,81,96,177,v,Bertans Free Throw 2 of 3 (11 PTS),Free Throw,Free Throw 2 of 3,1,0,391
+0022300287,531,PT01M47.00S,3,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,81,97,178,v,Bertans Free Throw 3 of 3 (12 PTS),Free Throw,Free Throw 3 of 3,1,0,394
+0022300287,536,PT01M25.00S,3,1610612760,OKC,202722,Bertans,D. Bertans,-229,21,0,Made,1,81,100,181,v,Bertans 3PT Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,1,3,397
+0022300287,537,PT01M01.00S,3,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans STEAL (1 STL),,,1,0,399
+0022300287,551,PT00M12.60S,3,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Wiggins FOR Bertans,Substitution,,0,0,409
+0022300302,577,PT08M32.00S,4,1610612760,OKC,202722,Bertans,D. Bertans,-229,-21,0,Missed,1,,,0,h,MISS Bertans 3PT Jump Shot,Missed Shot,Jump Shot,1,3,414
+0022300302,595,PT07M11.00S,4,1610612760,OKC,202722,Bertans,D. Bertans,225,9,0,Made,1,124,93,217,h,Bertans 3PT Jump Shot (3 PTS) (Micic 5 AST),Made Shot,Jump Shot,1,3,429
+0022300302,630,PT03M59.00S,4,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans S.FOUL (P1.PN) (T.Maddox),Foul,Shooting,1,0,455
+0022300302,639,PT03M31.00S,4,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans BLOCK (1 BLK),,,1,2,463
+0022300324,576,PT11M09.00S,4,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,402
+0022300324,589,PT10M20.00S,4,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,410
+0022300324,596,PT09M59.00S,4,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,415
+0022300324,608,PT09M02.00S,4,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans OFF.Foul (P1) (B.Nansel),Foul,Offensive,1,0,426
+0022300324,610,PT09M02.00S,4,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans Offensive Foul Turnover (P1.T13),Turnover,Offensive Foul Turnover,1,0,427
+0022300324,630,PT07M26.00S,4,1610612760,OKC,202722,Bertans,D. Bertans,-47,277,28,Missed,1,,,0,v,MISS Bertans 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,441
+0022300324,637,PT07M17.00S,4,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Holmgren FOR Bertans,Substitution,,0,0,446
+0022300397,154,PT00M19.80S,1,1610612760,OKC,202722,Bertans,D. Bertans,-140,215,26,Made,1,37,34,71,h,Bertans 26' 3PT Jump Shot (3 PTS) (K. Williams 1 AST),Made Shot,Jump Shot,1,3,115
+0022300397,301,PT02M52.00S,2,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,210
+0022300397,560,PT07M29.00S,4,1610612760,OKC,202722,Bertans,D. Bertans,-116,248,27,Missed,1,,,0,h,MISS Bertans 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,393
+0022300397,567,PT07M08.00S,4,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: K. Williams FOR Bertans,Substitution,,0,0,399
+0022300419,145,PT00M07.10S,1,1610612760,OKC,202722,Bertans,D. Bertans,-223,2,0,Made,1,38,23,61,h,Bertans 3PT Jump Shot (3 PTS) (Jal. Williams 1 AST),Made Shot,Jump Shot,1,3,106
+0022300419,511,PT00M00.00S,3,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,362
+0022300419,512,PT00M00.00S,3,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,Missed,1,,,0,h,MISS Bertans Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,363
+0022300481,176,PT00M34.40S,1,1610612760,OKC,202722,Bertans,D. Bertans,-228,-29,0,Missed,1,,,0,v,MISS Bertans 3PT Jump Shot,Missed Shot,Jump Shot,1,3,121
+0022300617,311,PT02M35.00S,2,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans BLOCK (1 BLK),,,1,2,230
+0022300617,350,PT00M03.20S,2,1610612760,OKC,202722,Bertans,D. Bertans,162,201,26,Missed,1,,,0,h,MISS Bertans 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,256
+0022300622,654,PT03M30.00S,4,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans STEAL (1 STL),,,1,0,467
+0022300622,656,PT03M23.00S,4,1610612760,OKC,202722,Bertans,D. Bertans,138,237,27,Made,1,99,131,230,v,Bertans 27' 3PT Running Jump Shot (3 PTS) (Wiggins 1 AST),Made Shot,Running Jump Shot,1,3,468
+0022300751,209,PT06M56.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-145,216,26,Missed,1,,,0,h,MISS Bertans 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,146
+0022300751,214,PT06M35.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans S.FOUL (P1.T2) (A.Moyer-Gleich),Foul,Shooting,1,0,149
+0022300751,224,PT05M51.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,155
+0022300751,240,PT05M08.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-126,227,26,Made,1,41,42,83,h,Bertans 26' 3PT Jump Shot (3 PTS) (Micic 3 AST),Made Shot,Jump Shot,1,3,166
+0022300751,242,PT05M01.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans STEAL (1 STL),,,1,0,168
+0022300751,260,PT03M52.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-237,-18,24,Made,1,46,42,88,h,Bertans 24' 3PT Jump Shot (6 PTS) (Bridges 1 AST),Made Shot,Jump Shot,1,3,181
+0022300751,280,PT01M52.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,193
+0022300751,285,PT01M14.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,228,36,0,Made,1,56,44,100,h,Bertans 3PT Running Jump Shot (9 PTS) (Micic 5 AST),Made Shot,Running Jump Shot,1,3,197
+0022300751,549,PT04M05.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans STEAL (2 STL),,,1,0,377
+0022300751,551,PT04M00.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,148,230,27,Missed,1,,,0,h,MISS Bertans 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,378
+0022300751,565,PT03M09.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Miller FOR Bertans,Substitution,,0,0,392
+0022300761,198,PT08M13.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,199,167,26,Made,1,34,29,63,h,Bertans 26' 3PT Jump Shot (3 PTS) (Williams 2 AST),Made Shot,Jump Shot,1,3,146
+0022300761,224,PT06M41.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans P.FOUL (P1.T3) (I.Hwang),Foul,Personal,1,0,164
+0022300761,238,PT06M07.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-225,31,0,Missed,1,,,0,h,MISS Bertans 3PT Jump Shot,Missed Shot,Jump Shot,1,3,171
+0022300761,254,PT04M30.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-225,6,0,Missed,1,,,0,h,MISS Bertans 3PT Jump Shot,Missed Shot,Jump Shot,1,3,185
+0022300761,261,PT04M07.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,89,247,26,Missed,1,,,0,h,MISS Bertans 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,191
+0022300761,279,PT02M44.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,158,232,28,Missed,1,,,0,h,MISS Bertans 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,203
+0022300761,526,PT05M39.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,225,1,0,Missed,1,,,0,h,MISS Bertans 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,378
+0022300761,537,PT04M24.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Micic FOR Bertans,Substitution,,0,0,387
+0022300777,224,PT07M23.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,166
+0022300777,225,PT07M08.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-223,16,0,Missed,1,,,0,h,MISS Bertans 3PT Jump Shot,Missed Shot,Jump Shot,1,3,167
+0022300777,228,PT06M32.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,141,227,27,Made,1,41,39,80,h,Bertans 27' 3PT Jump Shot (3 PTS) (Bridges 2 AST),Made Shot,Jump Shot,1,3,170
+0022300777,255,PT04M20.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,141,233,27,Missed,1,,,0,h,MISS Bertans 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,188
+0022300777,263,PT03M34.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Miller FOR Bertans,Substitution,,0,0,195
+0022300777,285,PT01M58.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans S.FOUL (P1.T4) (J.DeRosa),Foul,Shooting,1,0,210
+0022300777,596,PT03M48.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,45,253,26,Missed,1,,,0,h,MISS Bertans 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,439
+0022300777,608,PT03M13.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Miller FOR Bertans,Substitution,,0,0,446
+0022300801,233,PT07M29.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,112,228,25,Made,1,38,42,80,v,Bertans 25' 3PT Running Jump Shot (3 PTS) (Bridges 2 AST),Made Shot,Running Jump Shot,1,3,171
+0022300801,257,PT05M54.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans P.FOUL (P1.T2) (R.Hussey),Foul,Personal,1,0,188
+0022300801,280,PT04M17.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,116,223,25,Made,1,44,48,92,v,Bertans 25' 3PT Jump Shot (6 PTS) (Micic 4 AST),Made Shot,Jump Shot,1,3,206
+0022300801,286,PT03M25.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans P.FOUL (P2.T4) (C.Washington),Foul,Personal,1,0,210
+0022300801,298,PT02M59.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Miller FOR Bertans,Substitution,,0,0,216
+0022300801,572,PT07M51.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-218,113,25,Made,1,94,95,189,v,Bertans 25' 3PT Jump Shot (9 PTS) (Miller 4 AST),Made Shot,Jump Shot,1,3,415
+0022300801,575,PT07M49.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Mann FOR Bertans,Substitution,,0,0,417
+0022300840,223,PT05M06.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,234,37,24,Missed,1,,,0,v,MISS Bertans 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,170
+0022300840,257,PT02M52.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-2,268,27,Missed,1,,,0,v,MISS Bertans 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,198
+0022300840,279,PT00M01.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-190,337,39,Missed,1,,,0,v,MISS Bertans 39' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,218
+0022300840,518,PT05M59.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-229,138,27,Made,1,114,69,183,v,Bertans 27' 3PT Running Jump Shot (3 PTS) (Miller 2 AST),Made Shot,Running Jump Shot,1,3,385
+0022300840,522,PT05M13.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-70,299,31,Missed,1,,,0,v,MISS Bertans 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,388
+0022300840,532,PT04M45.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,227,-14,0,Made,1,116,72,188,v,Bertans 3PT Jump Shot (6 PTS) (Mann 3 AST),Made Shot,Jump Shot,1,3,395
+0022300840,569,PT02M09.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans S.FOUL (P1.T3) (B.Forte),Foul,Shooting,1,0,422
+0022300840,575,PT01M56.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-211,148,26,Made,1,120,80,200,v,Bertans 26' 3PT Jump Shot (9 PTS) (Thor 1 AST),Made Shot,Jump Shot,1,3,427
+0022300840,586,PT00M52.80S,4,1610612766,CHA,202722,Bertans,D. Bertans,233,-4,0,Made,1,123,85,208,v,Bertans 3PT Jump Shot (12 PTS) (McGowens 2 AST),Made Shot,Jump Shot,1,3,434
+0022300849,254,PT05M21.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,140,222,26,Missed,1,,,0,h,MISS Bertans 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,180
+0022300849,286,PT03M00.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Mann FOR Bertans,Substitution,,0,0,200
+0022300849,541,PT06M49.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-156,214,26,Made,1,82,104,186,h,Bertans 26' 3PT Jump Shot (3 PTS) (Bridges 2 AST),Made Shot,Jump Shot,1,3,387
+0022300849,543,PT06M39.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans P.FOUL (P1.T2) (M.Smith),Foul,Personal,1,0,388
+0022300849,567,PT05M17.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,MISS Bertans Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,0,406
+0022300849,570,PT05M17.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,85,104,189,h,Bertans Free Throw 2 of 3 (4 PTS),Free Throw,Free Throw 2 of 3,0,0,408
+0022300849,571,PT05M17.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,86,104,190,h,Bertans Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,1,0,409
+0022300849,615,PT01M18.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,202,199,28,Made,1,99,109,208,h,Bertans 28' 3PT Jump Shot (8 PTS) (Williams 3 AST),Made Shot,Jump Shot,1,3,444
+0022300858,108,PT02M48.00S,1,1610612766,CHA,202722,Bertans,D. Bertans,-174,218,28,Made,1,22,18,40,v,Bertans 28' 3PT Jump Shot (3 PTS) (Mann 3 AST),Made Shot,Jump Shot,1,3,78
+0022300858,120,PT02M10.00S,1,1610612766,CHA,202722,Bertans,D. Bertans,179,215,28,Missed,1,,,0,v,MISS Bertans 28' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,1,3,86
+0022300858,129,PT01M33.00S,1,1610612766,CHA,202722,Bertans,D. Bertans,-237,-20,24,Made,1,22,21,43,v,Bertans 24' 3PT Jump Shot (6 PTS) (Williams 1 AST),Made Shot,Jump Shot,1,3,94
+0022300858,133,PT00M56.50S,1,1610612766,CHA,202722,Bertans,D. Bertans,-86,21,9,Made,1,25,23,48,v,Bertans 9' Fadeaway Jumper (8 PTS) (Micic 1 AST),Made Shot,Fadeaway Jump Shot,1,2,96
+0022300858,177,PT10M17.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,122
+0022300858,186,PT08M56.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,188,206,28,Missed,1,,,0,v,MISS Bertans 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,127
+0022300858,199,PT08M21.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-185,183,26,Made,1,38,42,80,v,Bertans 26' 3PT Running Jump Shot (11 PTS) (Mann 4 AST),Made Shot,Running Jump Shot,1,3,137
+0022300858,213,PT07M01.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Bridges FOR Bertans,Substitution,,0,0,148
+0022300858,400,PT03M22.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,-64,274,28,Missed,1,,,0,v,MISS Bertans 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,283
+0022300858,419,PT01M35.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,-212,173,27,Missed,1,,,0,v,MISS Bertans 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,297
+0022300858,471,PT10M22.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,62,296,30,Missed,1,,,0,v,MISS Bertans 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,330
+0022300858,480,PT09M55.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-179,211,28,Made,1,95,89,184,v,Bertans 28' 3PT Pullup Jump Shot (14 PTS) (Williams 2 AST),Made Shot,Pullup Jump shot,1,3,336
+0022300858,489,PT09M16.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,202,38,21,Missed,1,,,0,v,MISS Bertans 21' Jump Shot,Missed Shot,Jump Shot,1,2,342
+0022300858,516,PT07M06.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans P.FOUL (P1.T1) (Z.Zarba),Foul,Personal,1,0,364
+0022300858,531,PT05M43.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Micic FOR Bertans,Substitution,,0,0,374
+0022300858,619,PT00M21.30S,4,1610612766,CHA,202722,Bertans,D. Bertans,64,262,27,Missed,1,,,0,v,MISS Bertans 27' 3PT Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,3,434
+0022300875,134,PT00M46.90S,1,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,100
+0022300875,140,PT00M24.00S,1,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans STEAL (1 STL),,,1,0,106
+0022300875,142,PT00M20.90S,1,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,107
+0022300875,179,PT09M49.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-199,162,26,Made,1,31,34,65,v,Bertans 26' 3PT Jump Shot (3 PTS) (Williams 3 AST),Made Shot,Jump Shot,1,3,137
+0022300875,219,PT07M14.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-169,248,30,Made,1,33,41,74,v,Bertans 30' 3PT Jump Shot (6 PTS) (Bridges 1 AST),Made Shot,Jump Shot,1,3,164
+0022300875,228,PT07M08.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans S.FOUL (P1.T1) (J.Sterling),Foul,Shooting,1,0,169
+0022300875,238,PT06M27.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,207,91,23,Missed,1,,,0,v,MISS Bertans 23' Running Jump Shot,Missed Shot,Running Jump Shot,1,2,177
+0022300875,246,PT05M30.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-22,289,29,Missed,1,,,0,v,MISS Bertans 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,183
+0022300875,264,PT03M30.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Micic FOR Bertans,Substitution,,0,0,196
+0022300875,511,PT08M43.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,381
+0022300875,536,PT07M25.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,5,0,1,Made,1,95,87,182,v,Bertans 1' Running Dunk (8 PTS) (Bridges 3 AST),Made Shot,Running Dunk Shot,1,2,401
+0022300875,544,PT06M32.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-211,140,25,Missed,1,,,0,v,MISS Bertans 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,407
+0022300875,546,PT06M10.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans BLOCK (1 BLK),,,1,2,410
+0022300875,566,PT05M05.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans BLOCK (2 BLK),,,1,2,422
+0022300875,569,PT04M49.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-181,182,26,Made,1,100,92,192,v,Bertans 26' 3PT Jump Shot (11 PTS) (Mann 4 AST),Made Shot,Jump Shot,1,3,424
+0022300875,578,PT04M06.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,175,194,26,Missed,1,,,0,v,MISS Bertans 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,429
+0022300875,604,PT02M09.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,131,247,28,Missed,1,,,0,v,MISS Bertans 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,449
+0022300875,606,PT01M49.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans Violation:Kicked Ball (N.Sago),Violation,Kicked Ball,0,0,451
+0022300875,615,PT01M09.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,460
+0022300875,616,PT01M06.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-164,190,25,Made,1,102,103,205,v,Bertans 25' 3PT Running Jump Shot (14 PTS) (Miller 3 AST),Made Shot,Running Jump Shot,1,3,461
+0022300875,624,PT00M24.60S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans P.FOUL (P2.PN) (M.Lindsay),Foul,Personal,1,0,467
+0022300875,629,PT00M21.50S,4,1610612766,CHA,202722,Bertans,D. Bertans,230,51,24,Missed,1,,,0,v,MISS Bertans 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,471
+0022300875,641,PT00M16.70S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans P.FOUL (P3.PN) (N.Sago),Foul,Personal,1,0,480
+0022300885,153,PT11M06.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,170,210,27,Missed,1,,,0,h,MISS Bertans 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,105
+0022300885,157,PT10M35.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,13,17,2,Made,1,22,25,47,h,Bertans 2' Reverse Layup (2 PTS) (Micic 2 AST),Made Shot,Reverse Layup Shot,1,2,109
+0022300885,165,PT09M39.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,154,233,28,Made,1,25,27,52,h,Bertans 28' 3PT Jump Shot (5 PTS) (Micic 3 AST),Made Shot,Jump Shot,1,3,115
+0022300885,195,PT06M46.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,152,228,27,Missed,1,,,0,h,MISS Bertans 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,138
+0022300885,206,PT06M27.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,145
+0022300885,218,PT05M30.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-217,200,30,Made,1,31,34,65,h,Bertans 30' 3PT Jump Shot (8 PTS) (Williams 1 AST),Made Shot,Jump Shot,1,3,153
+0022300885,221,PT05M07.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-192,217,29,Missed,1,,,0,h,MISS Bertans 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,155
+0022300885,238,PT03M33.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,168
+0022300885,242,PT03M03.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,172
+0022300885,246,PT02M54.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Micic FOR Bertans,Substitution,,0,0,175
+0022300885,401,PT03M21.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,197,145,24,Missed,1,,,0,h,MISS Bertans 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,288
+0022300885,411,PT02M46.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,173,192,26,Made,1,62,64,126,h,Bertans 26' 3PT Jump Shot (11 PTS) (Bridges 3 AST),Made Shot,Jump Shot,1,3,296
+0022300885,415,PT01M54.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,-53,285,29,Made,1,65,67,132,h,Bertans 29' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,3,298
+0022300885,428,PT00M34.90S,3,1610612766,CHA,202722,Bertans,D. Bertans,-80,242,25,Missed,1,,,0,h,MISS Bertans 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,307
+0022300885,489,PT07M40.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Mann FOR Bertans,Substitution,,0,0,348
+0022300885,520,PT05M19.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,369
+0022300885,521,PT05M11.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,205,163,26,Missed,1,,,0,h,MISS Bertans 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,370
+0022300885,524,PT04M45.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,373
+0022300885,527,PT04M13.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,376
+0022300910,98,PT03M51.00S,1,1610612766,CHA,202722,Bertans,D. Bertans,-162,228,28,Missed,1,,,0,v,MISS Bertans 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,73
+0022300910,114,PT03M13.00S,1,1610612766,CHA,202722,Bertans,D. Bertans,-207,-29,21,Made,1,22,14,36,v,Bertans 21' Jump Shot (2 PTS) (Smith Jr. 1 AST),Made Shot,Jump Shot,0,2,85
+0022300910,151,PT00M01.50S,1,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,115
+0022300910,152,PT00M00.10S,1,1610612766,CHA,202722,Bertans,D. Bertans,208,107,23,Missed,1,,,0,v,MISS Bertans 23' Jump Shot,Missed Shot,Jump Shot,1,2,116
+0022300910,162,PT11M29.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,191,191,27,Missed,1,,,0,v,MISS Bertans 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,122
+0022300910,167,PT11M00.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-136,233,27,Missed,1,,,0,v,MISS Bertans 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,127
+0022300910,174,PT10M30.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans STEAL (1 STL),,,1,0,133
+0022300910,193,PT09M07.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-197,183,27,Missed,1,,,0,v,MISS Bertans 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,149
+0022300910,212,PT08M11.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-132,226,26,Missed,1,,,0,v,MISS Bertans 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,161
+0022300910,219,PT07M28.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,167
+0022300910,237,PT06M15.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Miller FOR Bertans,Substitution,,0,0,181
+0022300910,253,PT04M56.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,192
+0022300910,256,PT04M24.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-186,167,25,Made,1,41,30,71,v,Bertans 25' 3PT Jump Shot (5 PTS) (Bridges 1 AST),Made Shot,Jump Shot,1,3,195
+0022300910,263,PT03M56.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-234,-11,0,Made,1,41,33,74,v,Bertans 3PT Jump Shot (8 PTS) (Bridges 2 AST),Made Shot,Jump Shot,1,3,199
+0022300910,270,PT03M27.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans STEAL (2 STL),,,1,0,206
+0022300910,282,PT03M05.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,214
+0022300910,288,PT02M31.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,220
+0022300910,289,PT02M30.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-23,15,3,Missed,1,,,0,v,MISS Bertans 3' Jump Shot,Missed Shot,Jump Shot,1,2,221
+0022300910,436,PT04M09.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,-234,-1,0,Missed,1,,,0,v,MISS Bertans 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,332
+0022300910,453,PT01M56.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,-238,-7,24,Missed,1,,,0,v,MISS Bertans 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,344
+0022300910,458,PT01M54.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans T.FOUL (P0.T3) (D.Guthrie),Foul,Technical,1,0,347
+0022300910,479,PT01M13.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,363
+0022300910,518,PT10M12.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans S.FOUL (P1.T2) (S.Mehta),Foul,Shooting,1,0,387
+0022300910,539,PT08M29.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-5,79,8,Missed,1,,,0,v,MISS Bertans 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,402
+0022300910,542,PT08M29.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans P.FOUL (P2.T4) (D.Guthrie),Foul,Personal,1,0,404
+0022300910,642,PT00M32.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-228,163,28,Made,1,110,100,210,v,Bertans 28' 3PT Jump Shot (11 PTS) (Williams 5 AST),Made Shot,Jump Shot,1,3,477
+0022300918,132,PT01M09.00S,1,1610612766,CHA,202722,Bertans,D. Bertans,-25,263,26,Made,1,28,28,56,h,Bertans 26' 3PT Running Jump Shot (3 PTS) (Bridges 1 AST),Made Shot,Running Jump Shot,1,3,97
+0022300918,136,PT00M42.00S,1,1610612766,CHA,202722,Bertans,D. Bertans,11,25,3,Missed,1,,,0,h,MISS Bertans 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,99
+0022300918,166,PT10M07.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans S.FOUL (P1.T1) (P.Fraher),Foul,Shooting,1,0,119
+0022300918,183,PT09M03.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-98,251,27,Missed,1,,,0,h,MISS Bertans 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,130
+0022300918,227,PT06M20.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,29,273,27,Made,1,48,45,93,h,Bertans 27' 3PT Jump Shot (6 PTS) (Micic 4 AST),Made Shot,Jump Shot,0,3,159
+0022300918,233,PT05M58.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Miller FOR Bertans,Substitution,,0,0,163
+0022300918,288,PT00M53.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,194,178,26,Missed,1,,,0,h,MISS Bertans 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,208
+0022300918,290,PT00M38.20S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans STEAL (1 STL),,,1,0,211
+0022300918,298,PT00M01.20S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,217
+0022300918,299,PT00M00.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-82,32,9,Missed,1,,,0,h,MISS Bertans 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,218
+0022300918,432,PT02M15.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,-218,121,25,Made,1,86,76,162,h,Bertans 25' 3PT Jump Shot (9 PTS) (Bridges 4 AST),Made Shot,Jump Shot,1,3,314
+0022300918,434,PT01M58.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans S.FOUL (P2.PN) (P.Fraher),Foul,Shooting,1,0,315
+0022300918,443,PT01M24.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans P.FOUL (P3.PN) (I.Hwang),Foul,Personal,1,0,322
+0022300918,471,PT11M48.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans STEAL (2 STL),,,1,0,341
+0022300918,480,PT10M51.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans Backcourt Turnover (P1.T14),Turnover,Backcourt Turnover,1,0,348
+0022300918,500,PT09M25.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,362
+0022300918,513,PT08M44.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-129,229,26,Missed,1,,,0,h,MISS Bertans 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,371
+0022300918,559,PT05M16.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Williams FOR Bertans,Substitution,,0,0,407
+0022300918,608,PT01M02.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans P.FOUL (P4.T4) (P.Fraher),Foul,Personal,1,0,447
+0022300918,614,PT00M51.60S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,451
+0022300918,623,PT00M31.70S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,109,99,208,h,Bertans Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,457
+0022300918,624,PT00M31.70S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,110,99,209,h,Bertans Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,458
+0022300933,101,PT03M38.00S,1,1610612766,CHA,202722,Bertans,D. Bertans,-207,284,35,Missed,1,,,0,v,MISS Bertans 35' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,75
+0022300933,138,PT00M33.90S,1,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans STEAL (1 STL),,,1,0,102
+0022300933,158,PT11M10.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,51,275,28,Made,1,37,26,63,v,Bertans 28' 3PT Jump Shot (3 PTS) (Smith Jr. 1 AST),Made Shot,Jump Shot,1,3,114
+0022300933,162,PT11M10.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,37,27,64,v,Bertans Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,1,0,116
+0022300933,215,PT06M47.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-234,7,0,Missed,1,,,0,v,MISS Bertans 3PT Jump Shot,Missed Shot,Jump Shot,1,3,158
+0022300933,222,PT06M39.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Miller FOR Bertans,Substitution,,0,0,164
+0022300933,413,PT01M52.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,-126,214,25,Made,1,79,65,144,v,Bertans 25' 3PT Jump Shot (7 PTS) (Bridges 2 AST),Made Shot,Jump Shot,1,3,309
+0022300933,417,PT01M24.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans S.FOUL (P1.T1) (M.Myers),Foul,Shooting,1,0,312
+0022300933,437,PT00M38.30S,3,1610612766,CHA,202722,Bertans,D. Bertans,-189,2,19,Missed,1,,,0,v,MISS Bertans 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,326
+0022300933,508,PT08M40.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,206,172,27,Missed,1,,,0,v,MISS Bertans 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,377
+0022300933,510,PT08M27.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans STEAL (2 STL),,,1,0,380
+0022300933,546,PT06M41.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,MISS Bertans Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,405
+0022300933,550,PT06M36.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-161,192,25,Missed,1,,,0,v,MISS Bertans 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,407
+0022300933,581,PT04M09.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,429
+0022300933,583,PT03M57.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,430
+0022300933,606,PT02M46.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-227,-7,0,Missed,1,,,0,v,MISS Bertans 3PT Jump Shot,Missed Shot,Jump Shot,1,3,445
+0022300950,112,PT01M33.00S,1,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,86
+0022300950,117,PT00M55.10S,1,1610612766,CHA,202722,Bertans,D. Bertans,-175,187,26,Missed,1,,,0,v,MISS Bertans 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,89
+0022300950,130,PT00M00.20S,1,1610612766,CHA,202722,Bertans,D. Bertans,1,278,28,Missed,1,,,0,v,MISS Bertans 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,101
+0022300950,158,PT10M55.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,120
+0022300950,174,PT09M39.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,133
+0022300950,199,PT07M24.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans STEAL (1 STL),,,1,0,156
+0022300950,201,PT07M20.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans Out of Bounds - Bad Pass Turnover Turnover (P2.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,157
+0022300950,214,PT06M32.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,166
+0022300950,218,PT06M25.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,170
+0022300950,247,PT03M59.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,169,224,28,Made,1,36,47,83,v,Bertans 28' 3PT Jump Shot (3 PTS) (Micic 4 AST),Made Shot,Jump Shot,1,3,188
+0022300950,250,PT03M58.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Miller FOR Bertans,Substitution,,0,0,190
+0022300950,422,PT02M19.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,-239,52,24,Missed,1,,,0,v,MISS Bertans 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,312
+0022300950,434,PT01M09.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,-238,-15,24,Missed,1,,,0,v,MISS Bertans 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,321
+0022300950,437,PT00M33.70S,3,1610612766,CHA,202722,Bertans,D. Bertans,-232,-11,0,Missed,1,,,0,v,MISS Bertans 3PT Jump Shot,Missed Shot,Jump Shot,1,3,324
+0022300950,455,PT11M39.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans BLOCK (1 BLK),,,1,2,335
+0022300950,466,PT10M37.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-180,191,26,Missed,1,,,0,v,MISS Bertans 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,343
+0022300950,484,PT09M34.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,70,258,27,Missed,1,,,0,v,MISS Bertans 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,358
+0022300950,505,PT08M33.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,374
+0022300950,542,PT06M33.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-235,48,24,Missed,1,,,0,v,MISS Bertans 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,400
+0022300950,568,PT04M41.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-2,31,3,Missed,1,,,0,v,MISS Bertans 3' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,418
+0022300950,581,PT03M33.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Miller FOR Bertans,Substitution,,0,0,429
+0022300961,165,PT11M46.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,10,34,4,Made,1,28,28,56,h,Bertans 4' Driving Finger Roll Layup (2 PTS) (Mann 4 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,117
+0022300961,180,PT10M28.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,45,284,29,Missed,1,,,0,h,MISS Bertans 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,129
+0022300961,183,PT09M45.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,132
+0022300961,189,PT09M04.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans STEAL (1 STL),,,1,0,138
+0022300961,229,PT06M05.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,169
+0022300961,254,PT04M42.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-150,247,29,Missed,1,,,0,h,MISS Bertans 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,187
+0022300961,262,PT04M01.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans S.FOUL (P1.T1) (S.Wright),Foul,Shooting,1,0,194
+0022300961,278,PT02M50.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,206
+0022300961,453,PT01M40.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,-29,292,29,Missed,1,,,0,h,MISS Bertans 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,330
+0022300961,564,PT05M56.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans S.FOUL (P2.T3) (S.Wright),Foul,Shooting,1,0,410
+0022300961,576,PT05M36.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,207,182,28,Missed,1,,,0,h,MISS Bertans 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,420
+0022300961,581,PT05M06.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Mann FOR Bertans,Substitution,,0,0,423
+0022300969,125,PT02M15.00S,1,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans S.FOUL (P1.T4) (S.Corbin),Foul,Shooting,1,0,93
+0022300969,139,PT00M58.20S,1,1610612766,CHA,202722,Bertans,D. Bertans,1,4,0,Made,1,25,24,49,v,Bertans Layup (2 PTS) (Mann 4 AST),Made Shot,Layup Shot,1,2,103
+0022300969,161,PT11M28.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,217,146,26,Missed,1,,,0,v,MISS Bertans 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,115
+0022300969,163,PT11M19.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,237,61,24,Made,1,27,27,54,v,Bertans 24' 3PT Jump Shot (5 PTS) (Miller 1 AST),Made Shot,Jump Shot,1,3,117
+0022300969,242,PT05M26.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-237,-11,24,Made,1,42,39,81,v,Bertans 24' 3PT Jump Shot (8 PTS) (Pokusevski 1 AST),Made Shot,Jump Shot,1,3,174
+0022300969,262,PT03M56.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans S.FOUL (P2.T2) (S.Corbin),Foul,Shooting,1,0,189
+0022300969,266,PT03M56.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Miller FOR Bertans,Substitution,,0,0,192
+0022300969,345,PT10M58.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,-190,167,25,Missed,1,,,0,v,MISS Bertans 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,244
+0022300969,347,PT10M51.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,-222,96,24,Missed,1,,,0,v,MISS Bertans 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,246
+0022300969,354,PT10M16.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans P.FOUL (P3.T1) (J.Goble),Foul,Personal,1,0,253
+0022300969,441,PT03M23.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,316
+0022300969,458,PT01M35.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Bertans,Substitution,,0,0,328
+0022300969,492,PT11M30.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,53,48,7,Made,1,79,73,152,v,Bertans 7' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,2,348
+0022300969,495,PT11M30.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,79,74,153,v,Bertans Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,350
+0022300969,509,PT10M28.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,81,75,156,v,Bertans Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,1,0,359
+0022300969,515,PT09M25.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans STEAL (1 STL),,,1,0,366
+0022300969,545,PT06M49.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Pokusevski FOR Bertans,Substitution,,0,0,388
+0022300969,599,PT03M27.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,95,92,187,v,Bertans Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,424
+0022300969,600,PT03M27.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,95,93,188,v,Bertans Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,425
+0022300969,644,PT00M59.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans Personal Take Foul (P4.PN) (S.Wall),Foul,Personal Take,1,0,460
+0022300969,654,PT00M30.60S,4,1610612766,CHA,202722,Bertans,D. Bertans,16,13,2,Made,1,109,98,207,v,Bertans 2' Reverse Dunk (16 PTS) (Mann 6 AST),Made Shot,Reverse Dunk Shot,1,2,468
+0022300991,126,PT00M31.20S,1,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans BLOCK (1 BLK),,,1,2,90
+0022300991,140,PT11M40.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-6,27,3,Missed,1,,,0,v,MISS Bertans 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,99
+0022300991,191,PT07M42.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-212,143,26,Missed,1,,,0,v,MISS Bertans 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,137
+0022300991,222,PT06M05.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans STEAL (1 STL),,,1,0,156
+0022300991,234,PT04M40.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans FLAGRANT.FOUL.TYPE2 (P1.T3) (J.Williams),Foul,Flagrant Type 2,1,0,165
+0022300991,236,PT04M40.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,1,0,166
+0022300991,566,PT04M40.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans Ejection:Other,Ejection,Other,0,0,168
+0022300991,248,PT04M40.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Miller FOR Bertans,Substitution,,0,0,171
+0022301021,116,PT01M04.00S,1,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,1,0,81
+0022301021,169,PT08M42.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,228,6,0,Missed,1,,,0,v,MISS Bertans 3PT Jump Shot,Missed Shot,Jump Shot,1,3,114
+0022301021,185,PT07M58.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,128
+0022301021,209,PT06M47.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,225,111,25,Missed,1,,,0,v,MISS Bertans 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,145
+0022301021,221,PT06M21.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,104,237,26,Missed,1,,,0,v,MISS Bertans 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,154
+0022301021,240,PT04M42.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Miller FOR Bertans,Substitution,,0,0,168
+0022301021,453,PT00M36.90S,3,1610612766,CHA,202722,Bertans,D. Bertans,13,21,2,Missed,1,,,0,v,MISS Bertans 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,325
+0022301021,488,PT09M20.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans BLOCK (1 BLK),,,1,2,350
+0022301021,491,PT09M14.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,136,216,26,Missed,1,,,0,v,MISS Bertans 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,352
+0022301021,495,PT08M44.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-202,143,25,Made,1,106,80,186,v,Bertans 25' 3PT Jump Shot (3 PTS) (Mann 9 AST),Made Shot,Jump Shot,1,3,355
+0022301021,525,PT06M49.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,225,25,0,Missed,1,,,0,v,MISS Bertans 3PT Jump Shot,Missed Shot,Jump Shot,1,3,373
+0022301021,583,PT02M30.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-85,240,25,Made,1,128,91,219,v,Bertans 25' 3PT Jump Shot (6 PTS) (Pokusevski 4 AST),Made Shot,Jump Shot,1,3,413
+0022301021,597,PT01M28.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans Bad Pass Turnover (P2.T14),Turnover,Bad Pass,1,0,423
+0022301033,123,PT01M30.00S,1,1610612766,CHA,202722,Bertans,D. Bertans,11,15,2,Missed,1,,,0,v,MISS Bertans 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,90
+0022301033,253,PT05M11.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-126,164,21,Missed,1,,,0,v,MISS Bertans 21' Jump Shot,Missed Shot,Jump Shot,1,2,176
+0022301033,262,PT04M27.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-189,206,28,Made,1,36,32,68,v,Bertans 28' 3PT Jump Shot (3 PTS) (Pokusevski 1 AST),Made Shot,Jump Shot,1,3,182
+0022301033,272,PT03M37.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Miller FOR Bertans,Substitution,,0,0,189
+0022301033,480,PT10M50.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-240,31,24,Missed,1,,,0,v,MISS Bertans 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,334
+0022301033,514,PT08M15.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Micic FOR Bertans,Substitution,,0,0,359
+0022301048,176,PT10M15.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,164,238,29,Made,1,42,46,88,h,Bertans 29' 3PT Jump Shot (3 PTS) (Williams 1 AST),Made Shot,Jump Shot,1,3,120
+0022301048,187,PT09M32.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,43,46,89,h,Bertans Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,128
+0022301048,190,PT09M32.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,44,46,90,h,Bertans Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,130
+0022301048,212,PT07M43.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,163,235,29,Missed,1,,,0,h,MISS Bertans 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,145
+0022301048,239,PT05M47.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,104,269,29,Missed,1,,,0,h,MISS Bertans 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,164
+0022301048,261,PT03M57.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,120,265,29,Missed,1,,,0,h,MISS Bertans 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,180
+0022301048,281,PT01M53.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-72,293,30,Missed,1,,,0,h,MISS Bertans 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,196
+0022301048,291,PT01M28.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans STEAL (1 STL),,,1,0,204
+0022301048,310,PT00M02.90S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,218
+0022301048,311,PT00M00.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-70,594,60,Missed,1,,,0,h,MISS Bertans 60' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,219
+0022301048,532,PT06M55.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans Lost Ball Turnover (P1.T15),Turnover,Lost Ball,1,0,366
+0022301048,559,PT04M58.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Miller FOR Bertans,Substitution,,0,0,385
+0022301062,115,PT00M56.70S,1,1610612766,CHA,202722,Bertans,D. Bertans,227,84,24,Made,1,17,24,41,h,Bertans 24' 3PT Jump Shot (3 PTS) (Mann 2 AST),Made Shot,Jump Shot,1,3,86
+0022301062,144,PT11M13.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,19,26,45,h,Bertans Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,103
+0022301062,145,PT11M13.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,20,26,46,h,Bertans Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,104
+0022301062,152,PT10M21.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,169,184,25,Missed,1,,,0,h,MISS Bertans 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,109
+0022301062,158,PT09M40.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans STEAL (1 STL),,,1,0,115
+0022301062,160,PT09M30.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,152,261,30,Made,1,23,33,56,h,Bertans 30' 3PT Jump Shot (8 PTS) (Williams 1 AST),Made Shot,Jump Shot,1,3,116
+0022301062,178,PT07M37.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,129
+0022301062,190,PT06M55.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,131,260,29,Made,1,30,36,66,h,Bertans 29' 3PT Jump Shot (11 PTS) (Bridges 1 AST),Made Shot,Jump Shot,1,3,138
+0022301062,213,PT05M32.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-89,294,31,Made,1,35,41,76,h,Bertans 31' 3PT Running Jump Shot (14 PTS) (Bridges 2 AST),Made Shot,Running Jump Shot,1,3,153
+0022301062,216,PT05M07.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,155
+0022301062,229,PT04M30.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-161,191,25,Missed,1,,,0,h,MISS Bertans 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,164
+0022301062,242,PT03M47.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Miller FOR Bertans,Substitution,,0,0,176
+0022301062,485,PT09M55.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,28,27,4,Missed,1,,,0,h,MISS Bertans 4' Layup,Missed Shot,Layup Shot,1,2,354
+0022301062,502,PT08M31.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans Personal Take Foul (P1.T1) (M.Lindsay),Foul,Personal Take,1,0,366
+0022301062,507,PT08M21.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,369
+0022301062,536,PT06M02.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-158,268,31,Missed,1,,,0,h,MISS Bertans 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,388
+0022301062,545,PT05M29.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Bridges FOR Bertans,Substitution,,0,0,395
+0022301079,109,PT01M28.00S,1,1610612766,CHA,202722,Bertans,D. Bertans,-4,255,26,Missed,1,,,0,h,MISS Bertans 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,80
+0022301079,153,PT09M54.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-135,231,27,Made,1,33,39,72,h,Bertans 27' 3PT Jump Shot (3 PTS) (Mann 3 AST),Made Shot,Jump Shot,1,3,110
+0022301079,188,PT07M04.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,135
+0022301079,196,PT06M24.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans Transition Take Foul (P1.T3) (C.Kirkland),Foul,Transition Take,1,0,142
+0022301079,210,PT05M50.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Miller FOR Bertans,Substitution,,0,0,152
+0022301079,273,PT01M08.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,195
+0022301079,277,PT00M46.90S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans S.FOUL (P2.PN) (D.Taylor),Foul,Shooting,1,0,198
+0022301079,410,PT02M09.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,143,232,27,Missed,1,,,0,h,MISS Bertans 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,292
+0022301079,467,PT09M26.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,168,200,26,Made,1,87,103,190,h,Bertans 26' 3PT Jump Shot (6 PTS) (Miller 3 AST),Made Shot,Jump Shot,1,3,332
+0022301079,473,PT09M03.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-103,259,28,Made,1,90,105,195,h,Bertans 28' 3PT Jump Shot (9 PTS) (Williams 3 AST),Made Shot,Jump Shot,1,3,336
+0022301079,479,PT08M26.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,140,217,26,Made,1,93,105,198,h,Bertans 26' 3PT Step Back Jump Shot (12 PTS) (Bridges 3 AST),Made Shot,Step Back Jump shot,1,3,340
+0022301079,525,PT04M19.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans S.FOUL (P3.PN) (C.Kirkland),Foul,Shooting,1,0,374
+0022301079,542,PT03M07.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,229,57,24,Missed,1,,,0,h,MISS Bertans 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,387
+0022301079,556,PT02M22.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-225,28,0,Made,1,113,120,233,h,Bertans 3PT Jump Shot (15 PTS) (Williams 5 AST),Made Shot,Jump Shot,1,3,394
+0022301079,571,PT01M19.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans P.FOUL (P4.PN) (M.Smith),Foul,Personal,1,0,405
+0022301079,588,PT00M45.60S,4,1610612766,CHA,202722,Bertans,D. Bertans,-110,265,29,Missed,1,,,0,h,MISS Bertans 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,418
+0022301087,157,PT11M37.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-137,235,27,Missed,1,,,0,h,MISS Bertans 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,113
+0022301087,213,PT06M46.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-2,17,2,Made,1,42,40,82,h,Bertans 2' Driving Layup (2 PTS) (Micic 4 AST),Made Shot,Driving Layup Shot,1,2,156
+0022301087,246,PT04M18.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-159,225,28,Missed,1,,,0,h,MISS Bertans 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,180
+0022301087,261,PT03M01.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Mann FOR Bertans,Substitution,,0,0,193
+0022301087,410,PT02M04.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans BLOCK (1 BLK),,,1,2,298
+0022301087,421,PT01M05.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans S.FOUL (P1.PN) (P.Fraher),Foul,Shooting,1,0,306
+0022301087,467,PT09M46.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,338
+0022301087,496,PT07M11.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,131,216,25,Made,1,93,106,199,h,Bertans 25' 3PT Jump Shot (5 PTS) (Micic 9 AST),Made Shot,Jump Shot,1,3,359
+0022301087,499,PT06M51.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans P.FOUL (P2.T1) (B.Schwab),Foul,Personal,1,0,360
+0022301087,505,PT06M31.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-127,220,25,Made,1,96,109,205,h,Bertans 25' 3PT Jump Shot (8 PTS) (Bridges 6 AST),Made Shot,Jump Shot,1,3,363
+0022301087,598,PT04M43.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans STEAL (1 STL),,,0,0,383
+0022301087,557,PT01M58.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-137,222,26,Missed,1,,,0,h,MISS Bertans 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,402
+0022301087,566,PT01M24.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Thor FOR Bertans,Substitution,,0,0,410
+0022301102,8,PT11M42.00S,1,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+0022301102,11,PT11M24.00S,1,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans STEAL (1 STL),,,1,0,8
+0022301102,21,PT10M16.00S,1,1610612766,CHA,202722,Bertans,D. Bertans,134,223,26,Missed,1,,,0,h,MISS Bertans 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,15
+0022301102,49,PT07M05.00S,1,1610612766,CHA,202722,Bertans,D. Bertans,9,20,2,Made,1,13,10,23,h,Bertans 2' Driving Reverse Layup (2 PTS) (Williams 2 AST),Made Shot,Driving Reverse Layup Shot,1,2,36
+0022301102,101,PT02M34.00S,1,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Mann FOR Bertans,Substitution,,0,0,78
+0022301102,258,PT03M45.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans STEAL (2 STL),,,1,0,189
+0022301102,299,PT01M04.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,163,212,27,Missed,1,,,0,h,MISS Bertans 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,220
+0022301102,332,PT10M47.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans STEAL (3 STL),,,1,0,245
+0022301102,338,PT09M54.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,-15,248,25,Missed,1,,,0,h,MISS Bertans 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,250
+0022301102,355,PT08M19.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans OFF.Foul (P1) (K.Cutler),Foul,Offensive,1,0,264
+0022301102,357,PT08M19.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,1,0,265
+0022301102,371,PT06M45.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,31,251,25,Made,1,53,56,109,h,Bertans 25' 3PT Jump Shot (5 PTS) (Williams 10 AST),Made Shot,Jump Shot,1,3,277
+0022301102,384,PT05M43.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,-232,124,26,Missed,1,,,0,h,MISS Bertans 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,286
+0022301102,402,PT03M51.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,58,63,121,h,Bertans Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,300
+0022301102,409,PT03M51.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,59,63,122,h,Bertans Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,304
+0022301102,423,PT03M02.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: McGowens FOR Bertans,Substitution,,0,0,315
+0022301102,601,PT00M23.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans P.FOUL (P2.T2) (E.Scott),Foul,Personal,1,0,446
+0022301102,603,PT00M18.50S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans Personal Take Foul (P3.PN) (E.Scott),Foul,Personal Take,1,0,447
+0022301102,624,PT00M18.50S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans STEAL (4 STL),,,0,0,453
+0022301102,620,PT00M00.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-229,45,0,Missed,1,,,0,h,MISS Bertans 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,3,461
+0022301115,132,PT00M49.00S,1,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans L.B.FOUL (P1.T3) (M.Ervin),Foul,Loose Ball,1,0,96
+0022301115,136,PT00M39.10S,1,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans S.FOUL (P2.PN) (M.Ervin),Foul,Shooting,1,0,98
+0022301115,221,PT07M00.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,183,181,26,Missed,1,,,0,h,MISS Bertans 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,153
+0022301115,230,PT06M14.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,161
+0022301115,231,PT06M10.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-227,28,0,Made,1,52,39,91,h,Bertans 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,162
+0022301115,248,PT04M13.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Miller FOR Bertans,Substitution,,0,0,174
+0022301115,440,PT01M04.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,-17,1,2,Made,1,89,77,166,h,Bertans 2' Reverse Layup (5 PTS) (Bridges 3 AST),Made Shot,Reverse Layup Shot,1,2,319
+0022301115,473,PT10M54.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-118,279,30,Missed,1,,,0,h,MISS Bertans 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,338
+0022301115,482,PT10M03.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,346
+0022301115,496,PT08M48.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,359
+0022301115,503,PT07M44.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans S.FOUL (P3.T2) (T.Washington),Foul,Shooting,1,0,365
+0022301115,508,PT07M26.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-230,-16,0,Made,1,101,94,195,h,Bertans 3PT Jump Shot (8 PTS) (Bridges 4 AST),Made Shot,Jump Shot,1,3,368
+0022301115,532,PT05M56.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,384
+0022301115,533,PT05M45.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,27,1,3,Made,1,108,94,202,h,Bertans 3' Driving Layup (10 PTS) (Micic 8 AST),Made Shot,Driving Layup Shot,1,2,385
+0022301115,538,PT05M08.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-186,-12,19,Made,1,110,96,206,h,Bertans 19' Fadeaway Jumper (12 PTS) (Williams 6 AST),Made Shot,Fadeaway Jump Shot,1,2,389
+0022301115,551,PT04M37.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans S.FOUL (P4.T4) (E.Dalen),Foul,Shooting,1,0,398
+0022301115,557,PT04M17.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,402
+0022301115,568,PT03M21.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,227,-5,0,Missed,1,,,0,h,MISS Bertans 3PT Jump Shot,Missed Shot,Jump Shot,1,3,410
+0022301115,572,PT03M21.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Mann FOR Bertans,Substitution,,0,0,413
+0022301135,131,PT01M11.00S,1,1610612766,CHA,202722,Bertans,D. Bertans,56,258,26,Missed,1,,,0,h,MISS Bertans 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,97
+0022301135,172,PT10M18.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,122
+0022301135,191,PT09M20.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-146,220,26,Missed,1,,,0,h,MISS Bertans 26' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,3,137
+0022301135,215,PT07M41.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,228,39,0,Made,1,36,44,80,h,Bertans 3PT Jump Shot (3 PTS) (Mann 2 AST),Made Shot,Jump Shot,1,3,155
+0022301135,271,PT02M51.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,167,202,26,Made,1,53,60,113,h,Bertans 26' 3PT Jump Shot (6 PTS) (Micic 4 AST),Made Shot,Jump Shot,1,3,194
+0022301135,274,PT02M51.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Williams FOR Bertans,Substitution,,0,0,196
+0022301135,323,PT00M00.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans STEAL (1 STL),,,1,0,231
+0022301135,325,PT00M00.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-36,267,27,Missed,1,,,0,h,MISS Bertans 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,232
+0022301135,474,PT01M10.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,138,230,27,Made,1,83,86,169,h,Bertans 27' 3PT Step Back Jump Shot (9 PTS) (Mann 4 AST),Made Shot,Step Back Jump shot,1,3,340
+0022301135,480,PT00M12.80S,3,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,345
+0022301135,481,PT00M00.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,-89,321,33,Missed,1,,,0,h,MISS Bertans 33' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,346
+0022301135,501,PT11M10.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,354
+0022301135,502,PT11M07.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans OFF.Foul (P1) (R.Hussey),Foul,Offensive,1,0,355
+0022301135,504,PT11M07.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans Offensive Foul Turnover (P2.T14),Turnover,Offensive Foul Turnover,1,0,356
+0022301135,507,PT10M46.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-48,256,26,Made,1,88,88,176,h,Bertans 26' 3PT Jump Shot (12 PTS) (Miller 4 AST),Made Shot,Jump Shot,1,3,359
+0022301135,521,PT09M56.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans STEAL (2 STL),,,1,0,369
+0022301135,558,PT07M02.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,127,239,27,Missed,1,,,0,h,MISS Bertans 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,392
+0022301135,580,PT05M29.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans BLOCK (1 BLK),,,1,2,407
+0022301135,600,PT04M10.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Miller FOR Bertans,Substitution,,0,0,422
+0022301144,131,PT02M05.00S,1,1610612766,CHA,202722,Bertans,D. Bertans,-188,190,27,Missed,1,,,0,h,MISS Bertans 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,100
+0022301144,147,PT00M01.00S,1,1610612766,CHA,202722,Bertans,D. Bertans,-201,64,21,Missed,1,,,0,h,MISS Bertans 21' Jump Shot,Missed Shot,Jump Shot,1,2,113
+0022301144,174,PT10M45.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-16,12,2,Made,1,20,38,58,h,Bertans 2' Reverse Dunk (2 PTS) (Richards 1 AST),Made Shot,Reverse Dunk Shot,1,2,124
+0022301144,191,PT08M42.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,89,242,26,Made,1,26,47,73,h,Bertans 26' 3PT Jump Shot (5 PTS) (Miller 1 AST),Made Shot,Jump Shot,1,3,135
+0022301144,193,PT08M30.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans P.FOUL (P1.T1) (G.Petraitis),Foul,Personal,1,0,136
+0022301144,214,PT06M51.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-47,71,9,Made,1,33,51,84,h,Bertans 9' Fadeaway Jumper (7 PTS) (Williams 1 AST),Made Shot,Fadeaway Jump Shot,1,2,151
+0022301144,217,PT06M23.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,153
+0022301144,218,PT06M17.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,157,228,28,Made,1,36,51,87,h,Bertans 28' 3PT Jump Shot (10 PTS) (Miller 2 AST),Made Shot,Jump Shot,1,3,154
+0022301144,239,PT04M44.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-229,16,0,Missed,1,,,0,h,MISS Bertans 3PT Jump Shot,Missed Shot,Jump Shot,1,3,168
+0022301144,278,PT02M51.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans P.FOUL (P2.T4) (G.Petraitis),Foul,Personal,1,0,198
+0022301144,285,PT02M32.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,202
+0022301144,287,PT02M28.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Mann FOR Bertans,Substitution,,0,0,204
+0022301144,465,PT01M08.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,-17,258,26,Missed,1,,,0,h,MISS Bertans 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,340
+0022301144,507,PT10M33.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,361
+0022301144,538,PT08M02.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-99,279,30,Made,1,94,105,199,h,Bertans 30' 3PT Jump Shot (13 PTS) (Miller 4 AST),Made Shot,Jump Shot,1,3,388
+0022301144,554,PT07M08.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,Bertans REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,398
+0022301144,578,PT05M47.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,229,-8,0,Missed,1,,,0,h,MISS Bertans 3PT Jump Shot,Missed Shot,Jump Shot,1,3,416
+0022301144,599,PT03M53.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-33,4,3,Missed,1,,,0,h,MISS Bertans 3' Dunk,Missed Shot,Dunk Shot,1,2,432
+0022301144,606,PT03M52.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Bertans,Substitution,,0,0,438
+0022301159,132,PT02M06.00S,1,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans BLOCK (1 BLK),,,1,2,92
+0022301159,151,PT01M01.00S,1,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,33,30,63,v,Bertans Free Throw 1 of 1 (1 PTS),Free Throw,Free Throw 1 of 1,1,0,103
+0022301159,155,PT00M27.30S,1,1610612766,CHA,202722,Bertans,D. Bertans,222,-5,0,Missed,1,,,0,v,MISS Bertans 3PT Jump Shot,Missed Shot,Jump Shot,1,3,107
+0022301159,168,PT11M16.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-54,254,26,Missed,1,,,0,v,MISS Bertans 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,117
+0022301159,180,PT09M57.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-157,206,26,Made,1,38,38,76,v,Bertans 26' 3PT Running Jump Shot (4 PTS) (Mann 3 AST),Made Shot,Running Jump Shot,1,3,128
+0022301159,194,PT08M38.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,130,212,25,Missed,1,,,0,v,MISS Bertans 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,139
+0022301159,214,PT07M21.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,1,0,153
+0022301159,220,PT06M28.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,140,225,27,Missed,1,,,0,v,MISS Bertans 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,159
+0022301159,242,PT05M18.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Bridges FOR Bertans,Substitution,,0,0,175
+0022301159,489,PT09M34.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,227,9,0,Missed,1,,,0,v,MISS Bertans 3PT Jump Shot,Missed Shot,Jump Shot,1,3,343
+0022301159,501,PT08M29.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,-190,92,21,Made,1,97,90,187,v,Bertans 21' Running Jump Shot (6 PTS) (Williams 5 AST),Made Shot,Running Jump Shot,1,2,353
+0022301159,509,PT08M16.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,358
+0022301159,524,PT07M26.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans P.FOUL (P1.T1) (J.Schroeder),Foul,Personal,1,0,369
+0022301159,542,PT06M20.00S,4,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Bridges FOR Bertans,Substitution,,0,0,381
+0022301173,106,PT03M18.00S,1,1610612766,CHA,202722,Bertans,D. Bertans,150,200,25,Missed,1,,,0,v,MISS Bertans 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,76
+0022301173,154,PT11M19.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans OFF.Foul (P1) (J.Orr),Foul,Offensive,1,0,111
+0022301173,156,PT11M19.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,112
+0022301173,165,PT10M30.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,-54,288,29,Made,1,32,29,61,v,Bertans 29' 3PT Jump Bank Shot (3 PTS) (Mann 3 AST),Made Shot,Jump Bank Shot,1,3,119
+0022301173,199,PT07M51.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,146
+0022301173,209,PT07M29.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans P.FOUL (P2.T3) (M.Lindsay),Foul,Personal,1,0,154
+0022301173,241,PT05M07.00S,2,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,SUB: Miller FOR Bertans,Substitution,,0,0,174
+0022301173,336,PT09M22.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,99,243,26,Missed,1,,,0,v,MISS Bertans 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,239
+0022301173,342,PT09M03.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,-75,261,27,Made,1,79,52,131,v,Bertans 27' 3PT Jump Shot (6 PTS) (Mann 6 AST),Made Shot,Jump Shot,1,3,243
+0022301173,360,PT06M56.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,-130,229,26,Made,1,85,60,145,v,Bertans 26' 3PT Jump Shot (9 PTS) (Mann 7 AST),Made Shot,Jump Shot,1,3,256
+0022301173,377,PT05M31.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,214,131,25,Missed,1,,,0,v,MISS Bertans 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,266
+0022301173,382,PT04M54.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,-194,177,26,Missed,1,,,0,v,MISS Bertans 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,270
+0022301173,423,PT02M27.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans STEAL (1 STL),,,1,0,304
+0022301173,426,PT01M57.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans BLOCK (1 BLK),,,1,2,307
+0022301173,438,PT01M19.00S,3,1610612766,CHA,202722,Bertans,D. Bertans,0,0,0,,0,,,0,v,Bertans P.FOUL (P3.PN) (J.Orr),Foul,Personal,1,0,316
+0022301222,508,PT00M42.70S,3,1610612760,OKC,202722,Bertans,D. Bertans,0,0,0,,0,,,0,h,SUB: Dort FOR Bertans,Substitution,,0,0,378

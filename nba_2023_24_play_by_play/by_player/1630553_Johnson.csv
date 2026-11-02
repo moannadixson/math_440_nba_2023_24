@@ -1,0 +1,45 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300417,291,PT01M40.00S,2,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson STEAL (1 STL),,,1,0,211
+0022300417,300,PT01M16.00S,2,1610612751,BKN,1630553,Johnson,K. Johnson,-22,1,2,Missed,1,,,0,h,MISS Johnson 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,216
+0022300417,412,PT05M21.00S,3,1610612751,BKN,1630553,Johnson,K. Johnson,62,248,26,Made,1,79,78,157,h,Johnson 26' 3PT Jump Shot (3 PTS) (Whitehead 2 AST),Made Shot,Jump Shot,1,3,305
+0022300417,421,PT04M26.00S,3,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,310
+0022300417,438,PT03M52.00S,3,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson BLOCK (1 BLK),,,1,2,321
+0022300417,444,PT03M45.00S,3,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson S.FOUL (P1.T4) (D.Guthrie),Foul,Shooting,1,0,326
+0022300417,474,PT00M30.20S,3,1610612751,BKN,1630553,Johnson,K. Johnson,5,8,1,Made,1,92,97,189,h,Johnson 1' Cutting Dunk Shot (5 PTS) (Watford 2 AST),Made Shot,Cutting Dunk Shot,1,2,348
+0022300417,526,PT09M34.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,384
+0022300417,548,PT07M41.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,125,231,26,Made,1,103,113,216,h,Johnson 26' 3PT Jump Shot (8 PTS) (Watford 4 AST),Made Shot,Jump Shot,1,3,399
+0022300417,571,PT06M34.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,107,11,Missed,1,,,0,h,MISS Johnson 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,413
+0022300417,593,PT05M12.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,-7,11,1,Missed,1,,,0,h,MISS Johnson 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,430
+0022300417,608,PT04M09.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,-110,238,26,Missed,1,,,0,h,MISS Johnson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,441
+0022300417,624,PT03M14.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,-156,211,26,Missed,1,,,0,h,MISS Johnson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,454
+0022300417,655,PT01M23.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,119,136,255,h,Johnson Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,477
+0022300417,662,PT01M23.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,120,136,256,h,Johnson Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,481
+0022300417,671,PT00M43.30S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,121,142,263,h,Johnson Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,487
+0022300417,672,PT00M43.30S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,122,142,264,h,Johnson Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,488
+0022300780,503,PT07M41.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,-85,177,20,Made,1,117,68,185,v,K. Johnson 20' Pullup Jump Shot (2 PTS) (Wilson 2 AST),Made Shot,Pullup Jump shot,1,2,348
+0022300780,507,PT07M13.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,142,213,26,Missed,1,,,0,v,MISS K. Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,350
+0022300780,535,PT05M21.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,-151,213,26,Missed,1,,,0,v,MISS K. Johnson 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,371
+0022300780,541,PT04M37.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,v,K. Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,377
+0022300780,548,PT03M52.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,130,77,207,v,K. Johnson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,381
+0022300780,549,PT03M52.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,130,78,208,v,K. Johnson Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,382
+0022300780,555,PT03M03.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,v,K. Johnson Traveling Turnover (P1.T12),Turnover,Traveling,1,0,388
+0022300780,564,PT02M13.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,130,216,25,Made,1,132,84,216,v,K. Johnson 25' 3PT Jump Shot (7 PTS) (Clowney 2 AST),Made Shot,Jump Shot,1,3,395
+0022300780,575,PT00M54.80S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,136,85,221,v,K. Johnson Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,403
+0022300780,576,PT00M54.80S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,136,86,222,v,K. Johnson Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,404
+0022300780,578,PT00M25.70S,4,1610612751,BKN,1630553,Johnson,K. Johnson,-58,176,19,Missed,1,,,0,v,MISS K. Johnson 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,406
+0022300833,625,PT03M10.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,v,K. Johnson S.FOUL (P1.PN) (M.Smith),Foul,Shooting,1,0,436
+0022300833,631,PT02M54.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,51,254,26,Missed,1,,,0,v,MISS K. Johnson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,441
+0022300833,634,PT02M19.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,v,K. Johnson Bad Pass Turnover (P1.T22),Turnover,Bad Pass,1,0,444
+0022300833,657,PT01M34.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,v,K. Johnson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,450
+0022300833,639,PT01M32.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,3,67,7,Made,1,108,77,185,v,K. Johnson 7' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,1,2,451
+0022300833,654,PT00M24.60S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,108,80,188,v,K. Johnson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,463
+0022300833,655,PT00M24.60S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,108,81,189,v,K. Johnson Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,464
+0022300833,659,PT00M01.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,207,91,23,Missed,1,,,0,v,MISS K. Johnson 23' Jump Shot,Missed Shot,Jump Shot,1,2,466
+0022301192,499,PT08M02.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,v,K. Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,378
+0022301192,542,PT05M33.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,96,71,167,v,K. Johnson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,411
+0022301192,543,PT05M33.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,v,MISS K. Johnson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,412
+0022301192,579,PT02M42.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,v,K. Johnson P.FOUL (P1.T3) (G.Petraitis),Foul,Personal,1,0,440
+0022301192,585,PT02M20.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,-13,5,1,Made,1,100,85,185,v,K. Johnson 1' Driving Finger Roll Layup (3 PTS) (Wilson 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,445
+0022301192,593,PT01M40.00S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,v,K. Johnson Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0,451
+0022301192,607,PT00M44.40S,4,1610612751,BKN,1630553,Johnson,K. Johnson,0,0,0,,0,,,0,v,K. Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,464
+0022301192,608,PT00M27.40S,4,1610612751,BKN,1630553,Johnson,K. Johnson,-194,171,26,Missed,1,,,0,v,MISS K. Johnson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,465

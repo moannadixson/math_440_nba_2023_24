@@ -1,0 +1,944 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300011,227,PT08M10.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,165
+0022300011,444,PT03M58.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,323
+0022300011,449,PT03M07.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,328
+0022300011,460,PT02M26.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,333
+0022300011,497,PT00M08.30S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,365
+0022300011,541,PT08M49.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,393
+0022300011,544,PT08M45.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,396
+0022300011,651,PT02M11.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. S.FOUL (P1.PN) (T.Ford),Foul,Shooting,1,0,473
+0022300011,698,PT00M03.10S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,MISS Nance Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,508
+0022300011,702,PT00M03.10S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,103,101,204,v,Nance Jr. Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,511
+0022300011,720,PT00M01.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. Out of Bounds Lost Ball Turnover (P1.T18),Turnover,Out of Bounds Lost Ball Turnover,1,0,522
+0022300052,178,PT09M35.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,125
+0022300052,213,PT06M49.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,103,226,25,Missed,1,,,0,v,MISS Nance Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,151
+0022300052,220,PT06M38.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Ingram FOR Nance Jr.,Substitution,,0,0,157
+0022300052,470,PT01M45.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,329
+0022300052,471,PT01M45.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,Missed,1,,,0,v,MISS Nance Jr. Tip Dunk Shot,Missed Shot,Tip Dunk Shot,1,2,330
+0022300052,473,PT01M42.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,1,17,2,Made,1,79,83,162,v,Nance Jr. 2' Layup (2 PTS) (Marshall 1 AST),Made Shot,Layup Shot,1,2,332
+0022300052,520,PT10M51.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. S.FOUL (P1.T1) (S.Foster),Foul,Shooting,1,0,367
+0022300052,537,PT10M04.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. BLOCK (1 BLK),,,1,2,382
+0022300052,539,PT10M04.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,383
+0022300052,572,PT08M52.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,408
+0022300052,646,PT03M22.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. Bad Pass Turnover (P1.T14),Turnover,Bad Pass,1,0,459
+0022300052,663,PT02M13.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. BLOCK (2 BLK),,,1,2,475
+0022300052,705,PT00M09.70S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. BLOCK (3 BLK),,,0,2,504
+0022300052,698,PT00M01.60S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-10,31,3,Made,1,106,116,222,v,Nance Jr. 3' Dunk (4 PTS) (Ingram 5 AST),Made Shot,Dunk Shot,1,2,506
+0022300071,105,PT04M48.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,76
+0022300071,109,PT04M04.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,1,0,79
+0022300071,121,PT03M19.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,87
+0022300071,126,PT03M05.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,92
+0022300071,130,PT02M37.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,95
+0022300071,162,PT00M49.60S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,7,47,5,Missed,1,,,0,v,MISS Nance Jr. 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,120
+0022300071,324,PT01M44.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. OFF.Foul (P1) (R.Mott),Foul,Offensive,1,0,231
+0022300071,326,PT01M44.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,1,0,232
+0022300071,330,PT01M31.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. Violation:Kicked Ball (D.Scott),Violation,Kicked Ball,0,0,235
+0022300071,344,PT00M08.90S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (1 STL),,,1,0,248
+0022300071,451,PT04M28.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,327
+0022300071,453,PT04M07.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,329
+0022300071,454,PT04M06.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,4,4,1,Made,1,60,73,133,v,Nance Jr. 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,330
+0022300071,459,PT03M12.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,335
+0022300071,501,PT01M11.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,363
+0022300071,510,PT00M06.50S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Hawkins FOR Nance Jr.,Substitution,,0,0,370
+0022300090,89,PT04M50.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. P.FOUL (P1.T1) (T.Washington),Foul,Personal,1,0,66
+0022300090,113,PT02M47.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,84
+0022300090,143,PT00M33.30S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,106
+0022300090,146,PT00M02.10S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. P.FOUL (P2.T3) (S.Wright),Foul,Personal,1,0,108
+0022300090,148,PT00M02.10S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Jones FOR Nance Jr.,Substitution,,0,0,109
+0022300090,206,PT08M23.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,146
+0022300090,216,PT08M02.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,153
+0022300090,224,PT07M18.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,158
+0022300090,254,PT04M28.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Zeller FOR Nance Jr.,Substitution,,0,0,181
+0022300090,488,PT00M00.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,56,136,15,Missed,1,,,0,h,MISS Nance Jr. 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,360
+0022300090,601,PT04M43.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. BLOCK (1 BLK),,,1,2,442
+0022300090,621,PT03M20.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,456
+0022300090,625,PT03M16.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Lewis Jr. FOR Nance Jr.,Substitution,,0,0,460
+0022300108,86,PT05M13.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. P.FOUL (P1.T4) (C.Blair),Foul,Personal,1,0,62
+0022300108,97,PT04M54.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,69
+0022300108,99,PT04M52.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,70
+0022300108,117,PT02M37.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,87
+0022300108,272,PT04M12.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,197
+0022300108,273,PT04M12.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,Made,1,45,48,93,h,Nance Jr. Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,198
+0022300108,287,PT03M32.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,207
+0022300108,292,PT02M51.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-230,19,0,Made,1,48,53,101,h,Nance Jr. 3PT Jump Shot (5 PTS) (Williamson 2 AST),Made Shot,Jump Shot,1,3,211
+0022300108,308,PT01M44.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,223
+0022300108,309,PT01M43.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,224
+0022300108,478,PT03M01.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. OFF.Foul (P2) (J.Goble),Foul,Offensive,1,0,342
+0022300108,480,PT03M01.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Offensive Foul Turnover (P3.T8),Turnover,Offensive Foul Turnover,1,0,343
+0022300108,487,PT02M27.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Williamson FOR Nance Jr.,Substitution,,0,0,348
+0022300121,47,PT08M10.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,32
+0022300121,54,PT07M16.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,39
+0022300121,61,PT06M31.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,46
+0022300121,62,PT06M30.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,Made,1,13,9,22,v,Nance Jr. Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,47
+0022300121,121,PT03M09.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,66,10,7,Missed,1,,,0,v,MISS Nance Jr. 7' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,94
+0022300121,135,PT02M12.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Zeller FOR Nance Jr.,Substitution,,0,0,104
+0022300121,290,PT05M33.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,217
+0022300121,318,PT04M15.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,236
+0022300121,319,PT04M13.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,227,119,26,Made,1,47,28,75,v,Nance Jr. 26' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,1,3,237
+0022300121,345,PT02M16.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (1 STL),,,1,0,257
+0022300121,350,PT02M11.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Daniels FOR Nance Jr.,Substitution,,0,0,261
+0022300121,400,PT00M00.50S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. S.FOUL (P1.PN) (C.Kirkland),Foul,Shooting,1,0,292
+0022300121,613,PT04M17.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (2 STL),,,0,0,378
+0022300121,528,PT03M44.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,381
+0022300121,557,PT02M03.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,12,1,Made,1,73,74,147,v,Nance Jr. 1' Layup (7 PTS) (Williamson 6 AST),Made Shot,Layup Shot,1,2,402
+0022300121,565,PT01M22.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-23,110,11,Made,1,75,76,151,v,Nance Jr. 11' Floating Jump Shot (9 PTS) (Daniels 1 AST),Made Shot,Floating Jump shot,1,2,406
+0022300121,707,PT04M22.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. S.FOUL (P2.T3) (E.Dalen),Foul,Shooting,1,0,494
+0022300121,761,PT00M55.80S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,MISS Nance Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,537
+0022300121,765,PT00M55.80S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,MISS Nance Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,540
+0022300121,768,PT00M45.20S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,544
+0022300129,145,PT01M10.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-13,78,8,Made,1,32,25,57,h,Nance Jr. 8' Layup (2 PTS) (Daniels 3 AST),Made Shot,Layup Shot,1,2,103
+0022300129,362,PT00M00.40S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-119,581,59,Missed,1,,,0,h,MISS Nance Jr. 59' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,250
+0022300129,477,PT04M53.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. L.B.FOUL (P1.PN) (D.Scott),Foul,Loose Ball,1,0,327
+0022300129,490,PT04M24.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,336
+0022300129,491,PT04M23.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-22,21,3,Made,1,87,66,153,h,Nance Jr. 3' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,337
+0022300129,494,PT04M09.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. S.FOUL (P2.PN) (D.Scott),Foul,Shooting,1,0,340
+0022300129,514,PT03M10.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,47,59,8,Missed,1,,,0,h,MISS Nance Jr. 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,352
+0022300129,517,PT02M42.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-38,254,26,Missed,1,,,0,h,MISS Nance Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,355
+0022300129,540,PT00M44.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,23,38,4,Missed,1,,,0,h,MISS Nance Jr. 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,372
+0022300135,125,PT03M15.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,7,7,1,Made,1,28,21,49,h,Nance Jr. 1' Running Dunk (2 PTS) (Lewis Jr. 3 AST),Made Shot,Running Dunk Shot,1,2,96
+0022300135,131,PT02M41.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,101
+0022300135,144,PT01M33.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,225,13,0,Missed,1,,,0,h,MISS Nance Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,111
+0022300135,145,PT01M30.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,112
+0022300135,151,PT01M00.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,117
+0022300135,163,PT00M26.70S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,34,27,61,h,Nance Jr. Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,125
+0022300135,166,PT00M26.70S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,35,27,62,h,Nance Jr. Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,127
+0022300135,333,PT01M04.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. S.FOUL (P1.T2) (B.Taylor),Foul,Shooting,1,0,255
+0022300135,344,PT00M13.90S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,230,62,24,Missed,1,,,0,h,MISS Nance Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,263
+0022300135,438,PT04M31.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-21,43,5,Made,1,73,79,152,h,Nance Jr. 5' Hook Shot (6 PTS) (Lewis Jr. 4 AST),Made Shot,Hook Shot,1,2,325
+0022300135,442,PT03M56.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-100,4,10,Missed,1,,,0,h,MISS Nance Jr. 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,327
+0022300135,470,PT03M08.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Ryan FOR Nance Jr.,Substitution,,0,0,345
+0022300156,133,PT00M54.50S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-107,26,11,Missed,1,,,0,v,MISS Nance Jr. 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,96
+0022300156,173,PT10M13.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,121
+0022300156,214,PT07M08.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-232,62,24,Made,1,35,48,83,v,Nance Jr. 24' 3PT Jump Shot (3 PTS) (Ryan 1 AST),Made Shot,Jump Shot,1,3,149
+0022300156,230,PT06M07.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Jones FOR Nance Jr.,Substitution,,0,0,161
+0022300156,493,PT00M04.50S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,345
+0022300156,494,PT00M04.50S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,Made,1,99,92,191,v,Nance Jr. Putback Dunk (5 PTS),Made Shot,Putback Dunk Shot,1,2,346
+0022300156,536,PT08M58.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. L.B.FOUL (P1.T1) (D.Mosher),Foul,Loose Ball,1,0,381
+0022300156,556,PT08M04.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Daniels FOR Nance Jr.,Substitution,,0,0,394
+0022300156,650,PT00M59.70S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,462
+0022300156,651,PT00M58.50S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,0,463
+0022300166,91,PT03M33.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,66
+0022300166,124,PT01M21.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,25,3,Missed,1,,,0,v,MISS Nance Jr. 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,90
+0022300166,127,PT01M10.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (1 STL),,,1,0,94
+0022300166,158,PT11M23.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,48,38,6,Made,1,28,26,54,v,Nance Jr. 6' Hook Shot (2 PTS) (Hawkins 1 AST),Made Shot,Hook Shot,1,2,113
+0022300166,169,PT10M12.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,119
+0022300166,188,PT09M04.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,132
+0022300166,296,PT00M02.70S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,19,18,3,Missed,1,,,0,v,MISS Nance Jr. 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,211
+0022300166,415,PT04M01.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,300
+0022300166,428,PT03M04.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,5,18,2,Made,1,90,64,154,v,Nance Jr. 2' Driving Layup (4 PTS) (Ingram 5 AST),Made Shot,Driving Layup Shot,1,2,310
+0022300166,437,PT02M40.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-2,22,2,Made,1,91,66,157,v,Nance Jr. 2' Cutting Layup Shot (6 PTS) (Ingram 6 AST),Made Shot,Cutting Layup Shot,1,2,316
+0022300166,446,PT02M17.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. Transition Take Foul (P1.PN) (T.Ricks),Foul,Transition Take,1,0,324
+0022300166,458,PT01M21.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,334
+0022300166,459,PT01M21.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,13,42,4,Missed,1,,,0,v,MISS Nance Jr. 4' Putback Layup,Missed Shot,Putback Layup Shot,1,2,335
+0022300166,466,PT00M38.70S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-186,169,25,Missed,1,,,0,v,MISS Nance Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,341
+0022300166,468,PT00M21.60S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (2 STL),,,1,0,344
+0022300183,105,PT03M21.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,81
+0022300183,147,PT00M50.70S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. S.FOUL (P1.PN) (N.Buchert),Foul,Shooting,1,0,108
+0022300183,162,PT00M01.50S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,120
+0022300183,172,PT11M24.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,127
+0022300183,207,PT11M24.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,5,25,3,Missed,1,,,0,h,MISS Nance Jr. 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,128
+0022300183,200,PT09M21.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,175,175,25,Missed,1,,,0,h,MISS Nance Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,148
+0022300183,202,PT09M11.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,150
+0022300183,209,PT09M07.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,154
+0022300233,176,PT11M38.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. STEAL (1 STL),,,1,0,128
+0022300233,181,PT10M57.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,132
+0022300233,182,PT10M51.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-27,53,6,Made,1,36,32,68,h,Nance Jr. 6' Hook Shot (2 PTS),Made Shot,Hook Shot,1,2,133
+0022300233,202,PT09M32.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. S.FOUL (P1.T2) (B.Forte),Foul,Shooting,1,0,148
+0022300233,216,PT08M13.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Offensive Goaltending Turnover (P1.T2),Turnover,Offensive Goaltending,1,0,159
+0022300233,220,PT07M53.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,162
+0022300233,225,PT07M08.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-235,16,24,Missed,1,,,0,h,MISS Nance Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,166
+0022300233,240,PT06M44.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,177
+0022300233,257,PT05M37.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,188
+0022300233,316,PT02M14.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-21,1,2,Made,1,57,43,100,h,Nance Jr. 2' Alley Oop Layup (4 PTS) (Williamson 3 AST),Made Shot,Alley Oop Layup shot,1,2,232
+0022300233,319,PT01M57.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,234
+0022300233,330,PT01M30.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,55,59,8,Missed,1,,,0,h,MISS Nance Jr. 8' Jump Shot,Missed Shot,Jump Shot,1,2,242
+0022300233,339,PT01M15.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. P.FOUL (P2.PN) (R.Acosta),Foul,Personal,1,0,250
+0022300233,584,PT08M34.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Ingram FOR Nance Jr.,Substitution,,0,0,418
+0022300243,169,PT01M20.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,132
+0022300243,181,PT00M38.50S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,143
+0022300243,212,PT09M55.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (1 STL),,,1,0,166
+0022300243,223,PT08M50.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (2 STL),,,1,0,175
+0022300243,225,PT08M47.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,176
+0022300243,233,PT08M16.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Jones FOR Nance Jr.,Substitution,,0,0,182
+0022300243,527,PT11M20.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. C.P.FOUL (P1.T1) (L.Holtkamp),Foul,Clear Path,1,0,401
+0022300243,545,PT10M03.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,414
+0022300243,551,PT09M39.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (3 STL),,,1,0,418
+0022300243,561,PT09M22.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Ingram FOR Nance Jr.,Substitution,,0,0,426
+0022300256,166,PT11M19.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,119
+0022300256,167,PT11M07.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-2,121,12,Made,1,34,28,62,v,Nance Jr. 12' Floating Jump Shot (2 PTS) (Alvarado 1 AST),Made Shot,Floating Jump shot,1,2,120
+0022300256,181,PT09M57.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,131
+0022300256,188,PT09M20.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,38,33,71,v,Nance Jr. Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,135
+0022300256,189,PT09M20.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,MISS Nance Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,136
+0022300256,222,PT07M57.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,161
+0022300256,539,PT10M09.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. OFF.Foul (P1) (C.Blair),Foul,Offensive,1,0,386
+0022300256,541,PT10M09.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,1,0,387
+0022300256,573,PT08M11.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,412
+0022300256,577,PT07M42.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,416
+0022300256,588,PT06M58.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,424
+0022300424,131,PT02M34.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. STEAL (1 STL),,,1,0,90
+0022300424,149,PT00M51.70S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. STEAL (2 STL),,,1,0,104
+0022300424,253,PT05M43.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,179
+0022300424,260,PT05M02.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,185
+0022300424,269,PT03M48.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,47,263,27,Missed,1,,,0,h,MISS Nance Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,193
+0022300424,272,PT03M35.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,197
+0022300424,291,PT02M11.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,230,103,25,Made,1,55,46,101,h,Nance Jr. 25' 3PT Jump Shot (3 PTS) (Murphy III 2 AST),Made Shot,Jump Shot,1,3,210
+0022300424,297,PT01M40.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,2,4,0,Made,1,57,46,103,h,Nance Jr. Cutting Dunk Shot (5 PTS) (McCollum 3 AST),Made Shot,Cutting Dunk Shot,1,2,215
+0022300424,302,PT00M51.50S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. STEAL (3 STL),,,1,0,219
+0022300424,403,PT05M28.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. BLOCK (1 BLK),,,1,2,293
+0022300424,405,PT05M25.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,294
+0022300424,440,PT02M54.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,318
+0022300424,444,PT02M26.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. STEAL (4 STL),,,1,0,322
+0022300424,483,PT11M44.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-1,-6,1,Made,1,83,76,159,h,Nance Jr. 1' Cutting Dunk Shot (7 PTS) (McCollum 4 AST),Made Shot,Cutting Dunk Shot,1,2,341
+0022300424,492,PT10M52.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. STEAL (5 STL),,,1,0,348
+0022300424,497,PT10M46.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,351
+0022300424,585,PT04M12.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,416
+0022300424,594,PT03M25.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,424
+0022300424,647,PT03M23.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,2,18,2,Missed,1,,,0,h,MISS Nance Jr. 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,425
+0022300424,614,PT01M27.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-2,4,0,Made,1,107,100,207,h,Nance Jr. Dunk (9 PTS) (Williamson 6 AST),Made Shot,Dunk Shot,1,2,440
+0022300424,651,PT00M07.10S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,463
+0022300424,652,PT00M04.80S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Out of Bounds - Bad Pass Turnover Turnover (P2.T15),Turnover,Out of Bounds - Bad Pass Turnover,1,0,464
+0022300446,102,PT04M22.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,76
+0022300446,106,PT03M56.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,79
+0022300446,118,PT03M00.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,34,23,57,h,Nance Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,88
+0022300446,119,PT03M00.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,35,23,58,h,Nance Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,89
+0022300446,125,PT02M23.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. S.FOUL (P1.T4) (B.Taylor),Foul,Shooting,1,0,95
+0022300446,155,PT00M17.20S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,229,-5,0,Made,1,42,33,75,h,Nance Jr. 3PT Jump Shot (5 PTS) (Marshall 3 AST),Made Shot,Jump Shot,1,3,117
+0022300446,176,PT11M33.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,130
+0022300446,197,PT09M41.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. S.FOUL (P2.T1) (M.Dagher),Foul,Shooting,1,0,144
+0022300446,204,PT09M30.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,149
+0022300446,342,PT00M07.30S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,17,7,2,Made,1,74,57,131,h,Nance Jr. 2' Running Layup (7 PTS) (Ingram 5 AST),Made Shot,Running Layup Shot,1,2,253
+0022300446,426,PT05M07.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,312
+0022300446,428,PT04M55.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,315
+0022300446,429,PT04M55.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,Made,1,90,74,164,h,Nance Jr. Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,1,2,316
+0022300446,439,PT04M18.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,9,38,4,Missed,1,,,0,h,MISS Nance Jr. 4' Layup,Missed Shot,Layup Shot,1,2,323
+0022300446,450,PT03M42.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,91,78,169,h,Nance Jr. Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,333
+0022300446,457,PT03M42.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,92,78,170,h,Nance Jr. Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,337
+0022300446,520,PT10M33.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,378
+0022300446,542,PT09M04.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,395
+0022300446,551,PT08M14.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. OFF.Foul (P3) (B.Taylor),Foul,Offensive,1,0,403
+0022300446,553,PT08M14.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,1,0,404
+0022300446,555,PT08M14.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,406
+0022300446,604,PT04M05.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,443
+0022300446,611,PT03M07.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,449
+0022300446,629,PT01M20.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,462
+0022300461,165,PT11M37.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,225,4,0,Missed,1,,,0,h,MISS Nance Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,121
+0022300461,180,PT09M57.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,132
+0022300461,181,PT09M45.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-16,25,3,Made,1,42,20,62,h,Nance Jr. 3' Reverse Layup (2 PTS) (Hawkins 1 AST),Made Shot,Reverse Layup Shot,1,2,133
+0022300461,192,PT08M58.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,141
+0022300461,212,PT06M50.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. STEAL (1 STL),,,1,0,157
+0022300461,218,PT06M38.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,161
+0022300461,285,PT01M29.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,210
+0022300461,295,PT00M29.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,220
+0022300461,297,PT00M07.70S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,222
+0022300461,298,PT00M07.70S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,Missed,1,,,0,h,MISS Nance Jr. Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,223
+0022300461,402,PT03M14.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. STEAL (2 STL),,,1,0,297
+0022300461,408,PT02M50.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. P.FOUL (P1.T2) (G.Petraitis),Foul,Personal,1,0,302
+0022300461,417,PT02M08.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. S.FOUL (P2.T3) (G.Petraitis),Foul,Shooting,1,0,308
+0022300461,448,PT00M29.30S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,334
+0022300461,471,PT10M55.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,351
+0022300461,474,PT10M52.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,86,60,146,h,Nance Jr. Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,353
+0022300461,475,PT10M52.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,MISS Nance Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,354
+0022300461,476,PT10M48.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,355
+0022300461,482,PT10M17.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-109,232,26,Made,1,89,62,151,h,Nance Jr. 26' 3PT Jump Shot (6 PTS) (Daniels 3 AST),Made Shot,Jump Shot,1,3,361
+0022300461,492,PT09M24.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Lost Ball Turnover (P1.T13),Turnover,Lost Ball,1,0,367
+0022300461,511,PT08M18.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Zeller FOR Nance Jr.,Substitution,,0,0,384
+0022300471,105,PT03M00.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,73
+0022300471,109,PT02M37.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,77
+0022300471,115,PT02M17.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,81
+0022300471,185,PT09M36.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,49,30,6,Missed,1,,,0,v,MISS Nance Jr. 6' Hook Shot,Missed Shot,Hook Shot,1,2,130
+0022300471,195,PT07M58.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,139
+0022300471,205,PT07M29.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,148
+0022300471,378,PT06M53.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,22,16,3,Made,1,60,76,136,v,Nance Jr. 3' Cutting Layup Shot (2 PTS) (Jones 2 AST),Made Shot,Cutting Layup Shot,1,2,263
+0022300471,380,PT06M40.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (1 STL),,,1,0,265
+0022300471,391,PT06M21.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. BLOCK (1 BLK),,,1,2,272
+0022300471,406,PT05M25.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,282
+0022300471,410,PT05M15.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,286
+0022300471,421,PT04M48.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,294
+0022300471,442,PT03M13.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. S.FOUL (P1.PN) (J.Schroeder),Foul,Shooting,1,0,310
+0022300471,454,PT02M20.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-4,18,2,Made,1,65,86,151,v,Nance Jr. 2' Reverse Dunk (4 PTS) (Williamson 4 AST),Made Shot,Reverse Dunk Shot,1,2,320
+0022300471,469,PT01M59.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,330
+0022300471,480,PT01M05.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,22,21,3,Made,1,68,90,158,v,Nance Jr. 3' Layup (6 PTS) (Williamson 5 AST),Made Shot,Layup Shot,1,2,338
+0022300471,638,PT01M45.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-23,169,17,Made,1,99,115,214,v,Nance Jr. 17' Jump Shot (8 PTS) (Alvarado 3 AST),Made Shot,Jump Shot,1,2,442
+0022300471,643,PT00M58.40S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,446
+0022300471,644,PT00M58.40S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,Missed,1,,,0,v,MISS Nance Jr. Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,447
+0022300486,140,PT00M20.60S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,104
+0022300486,158,PT11M10.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-233,19,0,Made,1,29,28,57,h,Nance Jr. 3PT Jump Shot (3 PTS) (Williamson 1 AST),Made Shot,Jump Shot,1,3,116
+0022300486,170,PT09M56.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Violation:Kicked Ball (J.Williams),Violation,Kicked Ball,0,0,124
+0022300486,186,PT08M41.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,136
+0022300486,206,PT08M40.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,45,46,6,Missed,1,,,0,h,MISS Nance Jr. 6' Layup,Missed Shot,Layup Shot,1,2,137
+0022300486,190,PT08M28.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,141
+0022300486,210,PT07M33.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,154
+0022300486,293,PT01M14.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,213
+0022300486,304,PT00M02.20S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,223
+0022300486,305,PT00M00.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,83,665,67,Missed,1,,,0,h,MISS Nance Jr. 67' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,224
+0022300486,407,PT05M41.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,18,-4,2,Made,1,54,74,128,h,Nance Jr. 2' Cutting Layup Shot (5 PTS) (Daniels 2 AST),Made Shot,Cutting Layup Shot,1,2,296
+0022300486,410,PT05M09.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,31,7,3,Missed,1,,,0,h,MISS Nance Jr. 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,298
+0022300486,411,PT05M08.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,299
+0022300486,431,PT03M29.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-38,29,5,Made,1,63,76,139,h,Nance Jr. 5' Hook Shot (7 PTS) (Ingram 4 AST),Made Shot,Hook Shot,1,2,314
+0022300486,445,PT01M40.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. STEAL (1 STL),,,1,0,324
+0022300486,482,PT10M44.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,344
+0022300500,100,PT02M55.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,67
+0022300500,104,PT02M28.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,71
+0022300500,105,PT02M28.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,Missed,1,,,0,v,MISS Nance Jr. Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,72
+0022300500,107,PT02M26.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,5,48,5,Missed,1,,,0,v,MISS Nance Jr. 5' Dunk,Missed Shot,Dunk Shot,1,2,74
+0022300500,126,PT01M18.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. OFF.Foul (P1) (C.Washington),Foul,Offensive,1,0,87
+0022300500,128,PT01M18.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,88
+0022300500,134,PT00M39.90S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,93
+0022300500,150,PT00M00.30S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,5,55,6,Made,1,21,33,54,v,Nance Jr. 6' Hook Bank Shot (2 PTS),Made Shot,Hook Bank Shot,1,2,103
+0022300500,184,PT09M36.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,124
+0022300500,195,PT08M42.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,131
+0022300500,217,PT07M58.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. Offensive Goaltending Turnover (P2.T4),Turnover,Offensive Goaltending,1,0,136
+0022300500,219,PT07M23.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Marshall FOR Nance Jr.,Substitution,,0,0,144
+0022300500,301,PT01M32.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. BLOCK (1 BLK),,,1,2,201
+0022300500,442,PT01M41.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,299
+0022300500,481,PT11M12.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,325
+0022300500,482,PT11M12.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,Missed,1,,,0,v,MISS Nance Jr. Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,326
+0022300500,489,PT10M42.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Zeller FOR Nance Jr.,Substitution,,0,0,332
+0022300525,101,PT04M10.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,74
+0022300525,120,PT03M29.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (1 STL),,,1,0,89
+0022300525,150,PT00M39.10S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,25,42,67,v,Nance Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,107
+0022300525,151,PT00M39.10S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,25,43,68,v,Nance Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,108
+0022300525,175,PT11M46.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,118
+0022300525,203,PT09M32.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,140
+0022300525,232,PT07M22.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (2 STL),,,1,0,162
+0022300525,248,PT06M32.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Jones FOR Nance Jr.,Substitution,,0,0,175
+0022300525,301,PT03M19.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-233,34,24,Made,1,51,70,121,v,Nance Jr. 24' 3PT Jump Shot (5 PTS) (Jones 3 AST),Made Shot,Jump Shot,1,3,208
+0022300525,313,PT02M07.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,215
+0022300525,316,PT02M00.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,MISS Nance Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,217
+0022300525,320,PT02M00.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,53,71,124,v,Nance Jr. Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,220
+0022300525,527,PT11M05.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,368
+0022300525,530,PT10M48.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. BLOCK (1 BLK),,,1,2,371
+0022300525,572,PT08M19.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,400
+0022300525,581,PT07M55.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Marshall FOR Nance Jr.,Substitution,,0,0,407
+0022300539,82,PT04M41.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-1,-8,1,Made,1,19,20,39,v,Nance Jr. 1' Cutting Dunk Shot (2 PTS) (Ingram 2 AST),Made Shot,Cutting Dunk Shot,1,2,59
+0022300539,118,PT02M12.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (1 STL),,,1,0,87
+0022300539,165,PT11M18.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,33,246,25,Made,1,42,28,70,v,Nance Jr. 25' 3PT Jump Shot (5 PTS) (Daniels 1 AST),Made Shot,Jump Shot,1,3,115
+0022300539,176,PT09M42.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,232,29,0,Missed,1,,,0,v,MISS Nance Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,122
+0022300539,192,PT07M42.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,136
+0022300539,389,PT05M08.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,278
+0022300539,390,PT04M54.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-21,1,2,Made,1,89,71,160,v,Nance Jr. 2' Driving Reverse Layup (7 PTS) (Ingram 6 AST),Made Shot,Driving Reverse Layup Shot,1,2,279
+0022300539,402,PT03M44.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (2 STL),,,1,0,289
+0022300539,423,PT02M01.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. BLOCK (1 BLK),,,1,2,307
+0022300539,424,PT02M00.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,308
+0022300539,447,PT00M44.10S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. S.FOUL (P1.PN) (P.Fraher),Foul,Shooting,1,0,326
+0022300539,452,PT00M40.20S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-167,189,25,Made,1,95,80,175,v,Nance Jr. 25' 3PT Jump Shot (10 PTS) (Williamson 4 AST),Made Shot,Jump Shot,1,3,330
+0022300539,473,PT11M27.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,343
+0022300539,508,PT08M28.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-230,-15,0,Made,1,105,91,196,v,Nance Jr. 3PT Jump Shot (13 PTS) (Williamson 5 AST),Made Shot,Jump Shot,1,3,369
+0022300539,520,PT07M46.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Ingram FOR Nance Jr.,Substitution,,0,0,378
+0022300539,601,PT01M56.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Alvarado FOR Nance Jr.,Substitution,,0,0,440
+0022300547,140,PT01M57.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,96
+0022300547,141,PT01M45.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,5,1,1,Made,1,17,27,44,v,Nance Jr. 1' Dunk (2 PTS) (Daniels 3 AST),Made Shot,Dunk Shot,1,2,97
+0022300547,226,PT07M07.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,42,62,7,Made,1,33,37,70,v,Nance Jr. 7' Jump Shot (4 PTS) (Daniels 4 AST),Made Shot,Jump Shot,1,2,157
+0022300547,246,PT05M35.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,35,40,75,v,Nance Jr. Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,171
+0022300547,249,PT05M35.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,35,41,76,v,Nance Jr. Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,173
+0022300547,254,PT05M13.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,35,42,77,v,Nance Jr. Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,177
+0022300547,257,PT05M13.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,35,43,78,v,Nance Jr. Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,179
+0022300547,304,PT01M43.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,215
+0022300547,425,PT04M01.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (1 STL),,,1,0,302
+0022300547,444,PT02M37.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-9,11,1,Made,1,77,83,160,v,Nance Jr. 1' Alley Oop Dunk (10 PTS) (Alvarado 2 AST),Made Shot,Alley Oop Dunk Shot,1,2,316
+0022300547,449,PT01M54.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,320
+0022300547,490,PT11M47.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (2 STL),,,1,0,346
+0022300547,504,PT10M24.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,17,50,5,Made,1,85,92,177,v,Nance Jr. 5' Turnaround Hook Shot (12 PTS) (Hawkins 4 AST),Made Shot,Turnaround Hook Shot,1,2,354
+0022300547,517,PT09M27.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,365
+0022300547,648,PT00M21.40S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,106,117,223,v,Nance Jr. Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,461
+0022300547,649,PT00M21.40S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,106,118,224,v,Nance Jr. Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,462
+0022300556,99,PT05M23.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,6,17,2,Missed,1,,,0,v,MISS Nance Jr. 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,73
+0022300556,109,PT04M31.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,82
+0022300556,119,PT03M53.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-234,15,0,Missed,1,,,0,v,MISS Nance Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,89
+0022300556,123,PT03M13.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,135,1,14,Made,1,21,9,30,v,Nance Jr. 14' Jump Shot (2 PTS) (Daniels 1 AST),Made Shot,Jump Shot,1,2,92
+0022300556,190,PT11M01.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (1 STL),,,1,0,139
+0022300556,217,PT09M40.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,156
+0022300556,230,PT09M03.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,234,0,0,Made,1,35,34,69,v,Nance Jr. 3PT Jump Shot (5 PTS) (Williamson 2 AST),Made Shot,Jump Shot,1,3,164
+0022300556,244,PT08M32.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,174
+0022300556,257,PT07M31.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-4,16,2,Made,1,40,40,80,v,Nance Jr. 2' Cutting Dunk Shot (7 PTS) (McCollum 1 AST),Made Shot,Cutting Dunk Shot,1,2,182
+0022300556,260,PT07M12.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,184
+0022300556,261,PT07M03.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,229,4,0,Missed,1,,,0,v,MISS Nance Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,185
+0022300556,273,PT06M14.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,195
+0022300556,457,PT05M52.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,1,22,2,Made,1,79,80,159,v,Nance Jr. 2' Cutting Layup Shot (9 PTS) (McCollum 2 AST),Made Shot,Cutting Layup Shot,1,2,323
+0022300556,463,PT05M52.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,79,81,160,v,Nance Jr. Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,1,0,326
+0022300556,465,PT05M20.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-33,10,3,Missed,1,,,0,v,MISS Nance Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,328
+0022300556,474,PT04M27.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,337
+0022300556,485,PT04M01.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (2 STL),,,1,0,345
+0022300556,509,PT02M52.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,1,6,1,Missed,1,,,0,v,MISS Nance Jr. 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,362
+0022300556,529,PT02M00.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (3 STL),,,1,0,378
+0022300556,594,PT10M12.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. S.FOUL (P1.T4) (S.Wall),Foul,Shooting,1,0,416
+0022300556,597,PT10M01.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-7,6,1,Made,1,97,103,200,v,Nance Jr. 1' Cutting Dunk Shot (12 PTS) (McCollum 3 AST),Made Shot,Cutting Dunk Shot,1,2,418
+0022300556,600,PT09M44.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,420
+0022300556,603,PT09M31.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,97,104,201,v,Nance Jr. Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,422
+0022300556,606,PT09M31.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,97,105,202,v,Nance Jr. Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,424
+0022300556,611,PT08M29.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,428
+0022300556,621,PT06M58.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,436
+0022300556,622,PT06M51.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-143,210,25,Missed,1,,,0,v,MISS Nance Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,437
+0022300556,636,PT06M32.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Murphy III FOR Nance Jr.,Substitution,,0,0,449
+0022300556,704,PT01M53.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,496
+0022300556,730,PT00M19.30S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Murphy III FOR Nance Jr.,Substitution,,0,0,515
+0022300575,111,PT02M36.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,78
+0022300575,124,PT01M41.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,87
+0022300575,192,PT09M45.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,133
+0022300575,197,PT09M21.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. P.FOUL (P1.T1) (E.Scott),Foul,Personal,1,0,137
+0022300575,220,PT08M24.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,153
+0022300575,440,PT05M55.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,313
+0022300575,441,PT05M39.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-23,65,7,Made,1,79,70,149,h,Nance Jr. 7' Hook Shot (2 PTS),Made Shot,Hook Shot,1,2,314
+0022300575,445,PT05M01.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,47,256,26,Made,1,82,70,152,h,Nance Jr. 26' 3PT Jump Shot (5 PTS) (Ingram 8 AST),Made Shot,Jump Shot,1,3,320
+0022300575,467,PT03M11.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,332
+0022300575,534,PT10M35.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. BLOCK (1 BLK),,,1,2,375
+0022300575,568,PT07M50.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,401
+0022300575,569,PT07M50.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,Made,1,106,90,196,h,Nance Jr. Tip Dunk Shot (7 PTS),Made Shot,Tip Dunk Shot,1,2,402
+0022300575,587,PT06M33.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,414
+0022300588,129,PT02M06.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,89
+0022300588,145,PT00M46.70S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,233,-3,0,Missed,1,,,0,h,MISS Nance Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,101
+0022300588,167,PT11M28.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,115
+0022300588,172,PT10M58.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,120
+0022300588,232,PT06M58.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,169
+0022300588,430,PT06M51.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. L.B.FOUL (P1.T3) (M.Myers),Foul,Loose Ball,1,0,311
+0022300588,464,PT04M29.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,338
+0022300588,468,PT03M52.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,341
+0022300588,608,PT04M33.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,235,0,24,Made,1,95,119,214,h,Nance Jr. 24' 3PT Jump Shot (3 PTS) (Jones 2 AST),Made Shot,Jump Shot,1,3,433
+0022300588,617,PT03M59.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Alvarado FOR Nance Jr.,Substitution,,0,0,441
+0022300616,95,PT04M40.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,73
+0022300616,98,PT04M22.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. STEAL (1 STL),,,1,0,77
+0022300616,108,PT03M50.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,84
+0022300616,114,PT03M31.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,88
+0022300616,138,PT02M12.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,103
+0022300616,152,PT00M48.40S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. S.FOUL (P1.T4) (J.Schroeder),Foul,Shooting,1,0,114
+0022300616,157,PT00M02.90S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,142,224,27,Made,1,34,30,64,h,Nance Jr. 27' 3PT Jump Shot (3 PTS) (Williamson 4 AST),Made Shot,Jump Shot,1,3,118
+0022300616,246,PT05M55.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-1,3,0,Made,1,57,43,100,h,Nance Jr. Running Dunk (5 PTS) (Ingram 2 AST),Made Shot,Running Dunk Shot,1,2,174
+0022300616,280,PT03M01.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. S.FOUL (P2.T3) (Z.Zarba),Foul,Shooting,1,0,199
+0022300616,288,PT02M31.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,205
+0022300616,310,PT00M58.60S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-64,29,7,Made,1,74,54,128,h,Nance Jr. 7' Turnaround Fadeaway Bank Jump Shot (7 PTS) (Williamson 7 AST),Made Shot,Turnaround Fadeaway Bank Jump Shot,1,2,223
+0022300616,314,PT00M58.60S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,75,54,129,h,Nance Jr. Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1,0,225
+0022300616,316,PT00M37.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-2,3,0,Made,1,77,56,133,h,Nance Jr. Dunk (10 PTS) (Williamson 8 AST),Made Shot,Dunk Shot,1,2,227
+0022300616,321,PT00M20.50S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Murphy III FOR Nance Jr.,Substitution,,0,0,231
+0022300616,371,PT09M20.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,261
+0022300616,372,PT09M18.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,262
+0022300616,382,PT08M24.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,103,241,26,Missed,1,,,0,h,MISS Nance Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,270
+0022300616,389,PT08M13.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,275
+0022300616,408,PT06M35.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,291
+0022300616,425,PT05M10.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-7,7,1,Made,1,97,85,182,h,Nance Jr. 1' Running Dunk (12 PTS) (Jones 4 AST),Made Shot,Running Dunk Shot,1,2,305
+0022300616,427,PT04M58.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. BLOCK (1 BLK),,,1,2,307
+0022300616,436,PT04M50.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Marshall FOR Nance Jr.,Substitution,,0,0,314
+0022300640,78,PT05M44.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,59
+0022300640,101,PT04M07.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. BLOCK (1 BLK),,,1,2,76
+0022300640,114,PT03M02.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,-3,0,Missed,1,,,0,h,MISS Nance Jr. Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,85
+0022300640,116,PT02M55.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. S.FOUL (P1.T3) (C.Washington),Foul,Shooting,1,0,87
+0022300640,125,PT02M26.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,95
+0022300640,143,PT01M30.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,-3,0,Made,1,21,22,43,h,Nance Jr. Cutting Dunk Shot (2 PTS) (Hawkins 1 AST),Made Shot,Cutting Dunk Shot,1,2,109
+0022300640,291,PT03M44.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,209
+0022300640,296,PT03M20.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,213
+0022300640,363,PT10M07.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-6,5,1,Made,1,43,54,97,h,Nance Jr. 1' Cutting Layup Shot (4 PTS) (Murphy III 1 AST),Made Shot,Cutting Layup Shot,1,2,263
+0022300640,365,PT09M47.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. STEAL (1 STL),,,1,0,265
+0022300640,407,PT05M56.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,298
+0022300640,423,PT04M55.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,310
+0022300640,615,PT03M27.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Alvarado FOR Nance Jr.,Substitution,,0,0,441
+0022300648,69,PT05M45.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. P.FOUL (P1.T3) (S.Wright),Foul,Personal,0,0,52
+0022300648,102,PT02M58.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-237,62,24,Made,1,27,22,49,v,Nance Jr. 24' 3PT Jump Shot (3 PTS) (Daniels 2 AST),Made Shot,Jump Shot,1,3,74
+0022300648,108,PT02M15.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,78
+0022300648,119,PT01M36.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,51,17,5,Made,1,30,26,56,v,Nance Jr. 5' Pullup Jump Shot (5 PTS) (Williamson 1 AST),Made Shot,Pullup Jump shot,1,2,86
+0022300648,123,PT01M06.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-25,119,12,Missed,1,,,0,v,MISS Nance Jr. 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,88
+0022300648,161,PT11M08.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-74,252,26,Made,1,38,35,73,v,Nance Jr. 26' 3PT Jump Shot (8 PTS) (Williamson 2 AST),Made Shot,Jump Shot,1,3,110
+0022300648,178,PT09M40.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,123
+0022300648,191,PT08M39.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,133
+0022300648,289,PT01M33.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,199
+0022300648,294,PT00M45.90S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,21,262,26,Missed,1,,,0,v,MISS Nance Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,203
+0022300648,301,PT00M33.10S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,75,60,135,v,Nance Jr. Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,208
+0022300648,304,PT00M33.10S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,75,61,136,v,Nance Jr. Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,210
+0022300648,367,PT07M21.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. S.FOUL (P2.T2) (J.Sterling),Foul,Shooting,1,0,259
+0022300648,371,PT06M58.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,262
+0022300648,372,PT06M58.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,Missed,1,,,0,v,MISS Nance Jr. Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,263
+0022300648,373,PT06M57.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,264
+0022300648,395,PT05M34.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,283
+0022300659,139,PT01M09.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,101
+0022300659,252,PT04M36.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,184
+0022300659,270,PT02M39.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,234,76,25,Made,1,45,55,100,v,Nance Jr. 25' 3PT Jump Shot (3 PTS) (Ingram 2 AST),Made Shot,Jump Shot,1,3,197
+0022300659,288,PT00M43.40S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-238,-1,24,Missed,1,,,0,v,MISS Nance Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,211
+0022300659,355,PT07M16.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,261
+0022300659,394,PT05M11.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,1,25,3,Missed,1,,,0,v,MISS Nance Jr. 3' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,2,290
+0022300659,396,PT05M02.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. BLOCK (1 BLK),,,1,2,293
+0022300659,407,PT04M25.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valančiūnas FOR Nance Jr.,Substitution,,0,0,300
+0022300659,547,PT04M06.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: McCollum FOR Nance Jr.,Substitution,,0,0,401
+0022300679,108,PT03M17.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,77
+0022300679,111,PT03M02.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (1 STL),,,1,0,81
+0022300679,151,PT00M02.50S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,109
+0022300679,152,PT00M00.50S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-132,632,65,Missed,1,,,0,v,MISS Nance Jr. 65' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,110
+0022300679,257,PT03M59.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. P.FOUL (P1.T2) (S.Corbin),Foul,Personal,1,0,186
+0022300679,265,PT03M18.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. S.FOUL (P2.T3) (M.Dagher),Foul,Shooting,1,0,191
+0022300679,279,PT02M18.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,201
+0022300679,389,PT05M57.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,283
+0022300679,390,PT05M39.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,165,201,26,Missed,1,,,0,v,MISS Nance Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,284
+0022300679,414,PT04M08.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,302
+0022300679,415,PT04M04.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,15,63,6,Missed,1,,,0,v,MISS Nance Jr. 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,303
+0022300679,418,PT03M56.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,306
+0022300679,630,PT02M08.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. P.FOUL (P3.T3) (M.Dagher),Foul,Personal,1,0,450
+0022300679,632,PT02M08.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,451
+0022300718,108,PT03M16.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,79
+0022300718,109,PT03M06.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,1,10,1,Missed,1,,,0,h,MISS Nance Jr. 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,80
+0022300718,111,PT02M47.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. P.FOUL (P1.T1) (J.Tiven),Foul,Personal,1,0,82
+0022300718,162,PT11M16.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,10,-5,1,Made,1,40,19,59,h,Nance Jr. 1' Cutting Dunk Shot (2 PTS) (Williamson 3 AST),Made Shot,Cutting Dunk Shot,1,2,115
+0022300718,167,PT10M40.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,118
+0022300718,175,PT09M32.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,120,4,12,Missed,1,,,0,h,MISS Nance Jr. 12' Jump Shot,Missed Shot,Jump Shot,1,2,124
+0022300718,187,PT08M20.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,2,14,1,Made,1,47,26,73,h,Nance Jr. 1' Alley Oop Dunk (4 PTS) (Alvarado 3 AST),Made Shot,Alley Oop Dunk Shot,1,2,134
+0022300718,195,PT07M42.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,139
+0022300718,253,PT03M10.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. L.B.FOUL (P2.T3) (N.Sago),Foul,Loose Ball,1,0,181
+0022300718,370,PT05M47.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,263
+0022300718,388,PT04M39.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,277
+0022300718,410,PT03M13.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,291
+0022300718,413,PT02M46.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,294
+0022300718,422,PT00M54.20S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. P.FOUL (P3.T4) (A.Nagy),Foul,Personal,1,0,301
+0022300718,431,PT00M23.90S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. S.FOUL (P4.PN) (J.Tiven),Foul,Shooting,1,0,307
+0022300747,89,PT04M43.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-16,16,2,Made,1,25,23,48,v,Nance Jr. 2' Cutting Dunk Shot (2 PTS) (Ingram 1 AST),Made Shot,Cutting Dunk Shot,1,2,61
+0022300747,112,PT03M53.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,77
+0022300747,113,PT03M47.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,31,19,4,Made,1,25,28,53,v,Nance Jr. 4' Hook Bank Shot (4 PTS) (Ingram 2 AST),Made Shot,Hook Bank Shot,1,2,78
+0022300747,130,PT02M22.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Williamson FOR Nance Jr.,Substitution,,0,0,90
+0022300747,179,PT10M47.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-134,234,27,Missed,1,,,0,v,MISS Nance Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,123
+0022300747,190,PT09M32.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,132
+0022300747,214,PT07M48.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,148
+0022300747,265,PT07M47.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,44,46,6,Missed,1,,,0,v,MISS Nance Jr. 6' Putback Layup,Missed Shot,Putback Layup Shot,1,2,149
+0022300747,267,PT07M46.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,151
+0022300747,237,PT06M26.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,166
+0022300747,451,PT04M35.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. P.FOUL (P1.PN) (J.Butler),Foul,Personal,1,0,317
+0022300747,461,PT03M54.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,324
+0022300747,629,PT03M38.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. OFF.Foul (P2) (S.Wright),Foul,Offensive,1,0,446
+0022300747,631,PT03M38.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,1,0,447
+0022300747,633,PT03M20.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,449
+0022300747,636,PT03M15.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,MISS Nance Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,451
+0022300747,638,PT03M15.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,MISS Nance Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,453
+0022300747,641,PT02M53.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,456
+0022300747,657,PT02M33.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Murphy III FOR Nance Jr.,Substitution,,0,0,471
+0022300758,134,PT02M09.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-67,6,7,Missed,1,,,0,v,MISS Nance Jr. 7' Hook Bank Shot,Missed Shot,Hook Bank Shot,1,2,95
+0022300758,440,PT01M50.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,317
+0022300758,461,PT00M31.70S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,13,16,2,Made,1,63,64,127,v,Nance Jr. 2' Driving Floating Jump Shot (2 PTS) (Marshall 1 AST),Made Shot,Driving Floating Jump Shot,1,2,332
+0022300758,579,PT02M46.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,417
+0022300766,85,PT05M25.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,63
+0022300766,116,PT03M08.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. P.FOUL (P1.T2) (D.Scott),Foul,Personal,1,0,86
+0022300766,138,PT01M14.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,97,231,25,Made,1,23,28,51,v,Nance Jr. 25' 3PT Jump Shot (3 PTS) (Williamson 2 AST),Made Shot,Jump Shot,1,3,100
+0022300766,181,PT10M25.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,130
+0022300766,281,PT03M51.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,227,6,0,Missed,1,,,0,v,MISS Nance Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,203
+0022300766,287,PT03M04.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. P.FOUL (P2.T3) (J.Van Duyne),Foul,Personal,1,0,209
+0022300766,294,PT02M48.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,213
+0022300766,320,PT00M17.70S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (1 STL),,,1,0,232
+0022300766,326,PT00M14.30S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Alvarado FOR Nance Jr.,Substitution,,0,0,236
+0022300766,353,PT11M32.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,250
+0022300766,355,PT11M15.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. S.FOUL (P3.T1) (J.Van Duyne),Foul,Shooting,1,0,252
+0022300766,363,PT11M00.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-2,12,1,Made,1,48,65,113,v,Nance Jr. 1' Dunk (5 PTS) (Ingram 4 AST),Made Shot,Dunk Shot,1,2,259
+0022300766,378,PT09M13.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,270
+0022300766,384,PT08M41.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,MISS Nance Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,275
+0022300766,388,PT08M41.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,50,73,123,v,Nance Jr. Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,278
+0022300766,436,PT04M03.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Alvarado FOR Nance Jr.,Substitution,,0,0,315
+0022300766,533,PT08M49.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,388
+0022300766,537,PT08M20.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,392
+0022300766,538,PT08M12.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T16),Turnover,Out of Bounds - Bad Pass Turnover,1,0,393
+0022300766,547,PT07M33.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,398
+0022300766,588,PT05M35.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,427
+0022300766,636,PT00M33.10S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,5,-1,1,Made,1,87,96,183,v,Nance Jr. 1' Dunk (8 PTS) (Ingram 6 AST),Made Shot,Dunk Shot,1,2,462
+0022300766,641,PT00M23.10S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,465
+0022300784,105,PT05M27.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,81
+0022300784,139,PT03M10.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-190,183,26,Made,1,23,17,40,h,Nance Jr. 26' 3PT Jump Shot (3 PTS) (McCollum 1 AST),Made Shot,Jump Shot,1,3,103
+0022300784,162,PT01M44.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. STEAL (1 STL),,,1,0,120
+0022300784,164,PT01M22.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-69,249,26,Missed,1,,,0,h,MISS Nance Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,121
+0022300784,413,PT08M34.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,288
+0022300784,455,PT05M36.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,319
+0022300784,473,PT03M58.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. BLOCK (1 BLK),,,1,2,335
+0022300784,497,PT02M59.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. S.FOUL (P1.PN) (I.Hwang),Foul,Shooting,1,0,349
+0022300784,509,PT02M12.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,MISS Nance Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,356
+0022300784,517,PT02M12.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,93,95,188,h,Nance Jr. Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,361
+0022300784,521,PT01M16.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,365
+0022300784,524,PT00M50.80S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. STEAL (2 STL),,,1,0,368
+0022300784,540,PT00M06.20S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,,"Double Technical - Nance Jr., Shamet (E.Malloy)",Foul,Double Technical,1,0,379
+0022300784,542,PT00M03.70S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Jump Ball Nance Jr. vs. Shamet: Tip to Williamson,Jump Ball,,1,0,380
+0022300784,545,PT00M03.70S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. STEAL (3 STL),,,1,0,382
+0022300784,661,PT03M29.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,456
+0022300784,665,PT03M10.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,460
+0022300784,672,PT01M51.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,466
+0022300784,678,PT01M45.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Murphy III FOR Nance Jr.,Substitution,,0,0,471
+0022300784,731,PT00M01.80S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,509
+0022300798,156,PT00M45.80S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. OFF.Foul (P1) (B.Kennedy),Foul,Offensive,1,0,113
+0022300798,158,PT00M45.80S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,114
+0022300798,166,PT00M18.80S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,120
+0022300798,188,PT10M29.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Jones FOR Nance Jr.,Substitution,,0,0,136
+0022300798,450,PT04M56.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,326
+0022300798,476,PT03M03.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Lane,Violation,Lane,0,0,346
+0022300798,485,PT02M31.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. P.FOUL (P2.PN) (M.Myers),Foul,Personal,1,0,353
+0022300798,491,PT02M04.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,357
+0022300798,503,PT01M16.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. P.FOUL (P3.PN) (P.Ransom),Foul,Personal,1,0,366
+0022300798,512,PT00M40.80S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,0,373
+0022300798,687,PT02M06.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Alvarado FOR Nance Jr.,Substitution,,0,0,493
+0022300810,92,PT04M46.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,67
+0022300810,105,PT04M02.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,76
+0022300810,128,PT02M54.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,22,28,4,Made,1,20,24,44,h,Nance Jr. 4' Cutting Dunk Shot (2 PTS) (Alvarado 1 AST),Made Shot,Cutting Dunk Shot,1,2,93
+0022300810,134,PT02M26.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,98
+0022300810,135,PT02M25.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,17,12,2,Made,1,22,24,46,h,Nance Jr. 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,99
+0022300810,142,PT01M32.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. STEAL (1 STL),,,1,0,105
+0022300810,159,PT01M02.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,118
+0022300810,184,PT11M41.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,135
+0022300810,202,PT10M07.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Jones FOR Nance Jr.,Substitution,,0,0,151
+0022300810,437,PT03M03.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. S.FOUL (P1.T3) (S.Corbin),Foul,Shooting,1,0,329
+0022300810,480,PT00M48.20S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-20,38,4,Made,1,80,83,163,h,Nance Jr. 4' Cutting Layup Shot (6 PTS) (Hawkins 1 AST),Made Shot,Cutting Layup Shot,1,2,362
+0022300810,592,PT05M57.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,446
+0022300810,598,PT05M10.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,451
+0022300810,599,PT04M59.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-225,6,0,Missed,1,,,0,h,MISS Nance Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,452
+0022300810,604,PT04M45.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. BLOCK (1 BLK),,,1,2,457
+0022300810,637,PT02M54.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,483
+0022300810,638,PT02M53.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,484
+0022300810,640,PT02M53.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. P.FOUL (P2.T3) (S.Corbin),Foul,Personal,1,0,486
+0022300810,645,PT02M23.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,489
+0022300810,646,PT02M22.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,13,37,4,Made,1,93,100,193,h,Nance Jr. 4' Putback Dunk (8 PTS),Made Shot,Putback Dunk Shot,1,2,490
+0022300810,649,PT01M47.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,21,55,6,Made,1,95,102,197,h,Nance Jr. 6' Layup (10 PTS) (Williamson 7 AST),Made Shot,Layup Shot,1,2,492
+0022300823,73,PT05M19.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. P.FOUL (P1.T2) (P.Fraher),Foul,Personal,1,0,53
+0022300823,106,PT03M03.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,1,38,4,Missed,1,,,0,h,MISS Nance Jr. 4' Layup,Missed Shot,Layup Shot,1,2,75
+0022300823,109,PT02M38.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,78
+0022300823,149,PT00M02.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. OFF.Foul (P2) (E.Scott),Foul,Offensive,1,0,109
+0022300823,151,PT00M02.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,1,0,110
+0022300823,291,PT02M51.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,211
+0022300823,294,PT02M50.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,48,49,97,h,Nance Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,213
+0022300823,295,PT02M50.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,49,49,98,h,Nance Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,214
+0022300823,310,PT00M52.30S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,223
+0022300823,425,PT03M45.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Traveling Turnover (P3.T11),Turnover,Traveling,1,0,316
+0022300823,439,PT02M10.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,325
+0022300823,440,PT02M08.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Bad Pass Turnover (P4.T12),Turnover,Bad Pass,1,0,326
+0022300823,501,PT09M13.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,370
+0022300823,506,PT08M24.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,228,-11,0,Missed,1,,,0,h,MISS Nance Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,375
+0022300823,511,PT08M09.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,379
+0022300837,83,PT04M01.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,64
+0022300837,90,PT03M34.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. S.FOUL (P1.T2) (B.Schwab),Foul,Shooting,1,0,70
+0022300837,97,PT03M32.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,75
+0022300837,112,PT01M17.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,85
+0022300837,214,PT06M12.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,229,10,0,Missed,1,,,0,v,MISS Nance Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,159
+0022300837,217,PT05M58.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,162
+0022300837,218,PT05M50.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,163
+0022300837,222,PT05M22.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,167
+0022300837,223,PT05M22.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,Made,1,32,37,69,v,Nance Jr. Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,168
+0022300837,230,PT05M22.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,MISS Nance Jr. Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,172
+0022300837,244,PT04M18.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Murphy III FOR Nance Jr.,Substitution,,0,0,181
+0022300837,405,PT03M59.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. L.B.FOUL (P2.T3) (M.Lindsay),Foul,Loose Ball,1,0,303
+0022300837,417,PT02M31.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. S.FOUL (P3.T4) (J.Butler),Foul,Shooting,1,0,313
+0022300837,428,PT02M14.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,320
+0022300837,429,PT02M12.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-1,22,2,Made,1,62,71,133,v,Nance Jr. 2' Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,1,2,321
+0022300837,503,PT07M14.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. S.FOUL (P4.T2) (B.Schwab),Foul,Shooting,1,0,372
+0022300837,519,PT06M36.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,386
+0022300843,68,PT07M09.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,17,12,2,Made,1,11,7,18,v,Nance Jr. 2' Layup (2 PTS),Made Shot,Layup Shot,1,2,51
+0022300843,83,PT05M48.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. Offensive Goaltending Turnover (P1.T2),Turnover,Offensive Goaltending,1,0,62
+0022300843,84,PT05M42.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. P.FOUL (P1.T2) (J.Goble),Foul,Personal,1,0,63
+0022300843,87,PT05M27.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,65
+0022300843,112,PT04M08.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,15,57,6,Made,1,21,16,37,v,Nance Jr. 6' Hook Shot (4 PTS) (Ingram 1 AST),Made Shot,Hook Shot,1,2,80
+0022300843,137,PT03M17.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. Violation:Defensive Goaltending (J.Goble),Violation,Defensive Goaltending,1,0,98
+0022300843,147,PT02M35.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,105
+0022300843,267,PT05M04.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,189
+0022300843,275,PT04M17.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,194
+0022300843,314,PT01M41.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,222
+0022300843,343,PT11M27.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,242
+0022300843,344,PT11M23.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. BLOCK (1 BLK),,,1,2,244
+0022300843,375,PT08M55.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,271
+0022300843,418,PT06M33.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Marshall FOR Nance Jr.,Substitution,,0,0,303
+0022300843,515,PT11M40.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,17,15,2,Made,1,96,88,184,v,Nance Jr. 2' Reverse Layup (6 PTS) (Ingram 4 AST),Made Shot,Reverse Layup Shot,1,2,373
+0022300843,518,PT11M17.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,375
+0022300843,551,PT08M55.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Jones FOR Nance Jr.,Substitution,,0,0,400
+0022300863,91,PT03M37.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,65
+0022300863,267,PT03M17.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-4,32,3,Made,1,62,49,111,h,Nance Jr. 3' Cutting Layup Shot (2 PTS) (Ingram 3 AST),Made Shot,Cutting Layup Shot,1,2,194
+0022300863,435,PT04M10.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,314
+0022300863,455,PT03M32.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. L.B.FOUL (P1.PN) (N.Sago),Foul,Loose Ball,1,0,328
+0022300863,467,PT03M04.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,337
+0022300863,468,PT03M03.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,11,26,3,Made,1,100,66,166,h,Nance Jr. 3' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,338
+0022300890,72,PT05M04.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,51
+0022300890,77,PT04M32.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (1 STL),,,1,0,55
+0022300890,115,PT01M53.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,77
+0022300890,277,PT03M08.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,20,54,6,Missed,1,,,0,v,MISS Nance Jr. 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,200
+0022300890,285,PT03M01.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Williamson FOR Nance Jr.,Substitution,,0,0,207
+0022300890,334,PT11M21.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. P.FOUL (P1.T1) (A.Nagy),Foul,Personal,1,0,244
+0022300890,336,PT11M15.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. S.FOUL (P2.T2) (P.Fraher),Foul,Shooting,1,0,245
+0022300890,344,PT10M51.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. BLOCK (1 BLK),,,1,2,252
+0022300890,351,PT10M10.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,257
+0022300890,352,PT10M10.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,Made,1,46,76,122,v,Nance Jr. Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,258
+0022300890,357,PT09M51.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,262
+0022300890,361,PT09M20.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,268
+0022300890,363,PT09M16.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. S.FOUL (P3.T3) (A.Nagy),Foul,Shooting,1,0,270
+0022300890,383,PT07M19.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,286
+0022300890,388,PT07M18.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,14,1,Missed,1,,,0,v,MISS Nance Jr. 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,287
+0022300890,399,PT06M37.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,296
+0022300890,403,PT06M02.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,2,3,0,Made,1,61,83,144,v,Nance Jr. Cutting Finger Roll Layup Shot (4 PTS) (Ingram 6 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,300
+0022300890,408,PT05M37.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,11,10,1,Made,1,63,85,148,v,Nance Jr. 1' Driving Reverse Dunk Shot (6 PTS) (McCollum 4 AST),Made Shot,Driving Reverse Dunk Shot,1,2,304
+0022300890,427,PT04M43.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,316
+0022300909,110,PT03M34.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. S.FOUL (P1.T2) (R.Acosta),Foul,Shooting,1,0,83
+0022300909,127,PT02M28.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,243,25,24,Made,1,13,28,41,v,Nance Jr. 24' 3PT Jump Shot (3 PTS) (Ingram 1 AST),Made Shot,Jump Shot,1,3,93
+0022300909,129,PT02M09.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. BLOCK (1 BLK),,,1,2,95
+0022300909,191,PT09M53.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,135
+0022300909,315,PT01M19.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,231
+0022300909,404,PT06M53.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-9,85,9,Missed,1,,,0,v,MISS Nance Jr. 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,288
+0022300909,414,PT06M25.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-1,42,4,Missed,1,,,0,v,MISS Nance Jr. 4' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,296
+0022300909,433,PT04M51.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,312
+0022300909,442,PT04M18.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-1,12,1,Missed,1,,,0,v,MISS Nance Jr. 1' Running Layup,Missed Shot,Running Layup Shot,1,2,320
+0022300909,446,PT03M48.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,109,32,11,Missed,1,,,0,v,MISS Nance Jr. 11' Jump Shot,Missed Shot,Jump Shot,1,2,324
+0022300909,473,PT01M55.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. L.B.FOUL (P2.PN) (R.Acosta),Foul,Loose Ball,1,0,345
+0022300909,488,PT00M59.40S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,356
+0022300909,517,PT11M36.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (1 STL),,,1,0,374
+0022300909,545,PT09M11.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,393
+0022300909,616,PT03M51.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,82,93,175,v,Nance Jr. Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,443
+0022300909,617,PT03M51.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,82,94,176,v,Nance Jr. Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,444
+0022300909,624,PT03M17.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,449
+0022300909,637,PT02M07.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-6,7,1,Made,1,87,98,185,v,Nance Jr. 1' Cutting Dunk Shot (7 PTS) (Williamson 4 AST),Made Shot,Cutting Dunk Shot,1,2,458
+0022300909,641,PT01M30.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,48,10,5,Missed,1,,,0,v,MISS Nance Jr. 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,460
+0022300925,138,PT01M56.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-1,8,1,Made,1,18,21,39,v,Nance Jr. 1' Dunk (2 PTS) (Alvarado 1 AST),Made Shot,Dunk Shot,1,2,105
+0022300925,155,PT00M08.70S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,118
+0022300925,184,PT09M10.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. P.FOUL (P1.T1) (Z.Zarba),Foul,Personal,1,0,140
+0022300925,206,PT06M28.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,161
+0022300925,209,PT06M09.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (1 STL),,,1,0,164
+0022300925,228,PT05M32.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-4,12,1,Made,1,24,44,68,v,Nance Jr. 1' Layup (4 PTS) (Jones 1 AST),Made Shot,Layup Shot,1,2,175
+0022300925,238,PT04M53.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Murphy III FOR Nance Jr.,Substitution,,0,0,182
+0022300925,337,PT08M37.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-10,5,1,Made,1,46,58,104,v,Nance Jr. 1' Running Layup (6 PTS) (McCollum 1 AST),Made Shot,Running Layup Shot,1,2,255
+0022300925,348,PT07M16.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (2 STL),,,1,0,265
+0022300925,374,PT05M23.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,284
+0022300925,476,PT10M17.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (3 STL),,,1,0,353
+0022300925,495,PT08M37.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (4 STL),,,1,0,369
+0022300925,530,PT05M19.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-1,8,1,Made,1,85,103,188,v,Nance Jr. 1' Dunk (8 PTS) (Ingram 9 AST),Made Shot,Dunk Shot,1,2,392
+0022300925,536,PT05M19.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,MISS Nance Jr. Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,395
+0022300925,543,PT04M42.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,87,104,191,v,Nance Jr. Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,401
+0022300925,544,PT04M42.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,87,105,192,v,Nance Jr. Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,402
+0022300951,107,PT04M29.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,80
+0022300951,153,PT00M49.10S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,10,7,1,Missed,1,,,0,h,MISS Nance Jr. 1' Layup,Missed Shot,Layup Shot,1,2,114
+0022300951,160,PT00M26.60S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,120
+0022300951,180,PT10M57.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. STEAL (1 STL),,,1,0,137
+0022300951,187,PT10M28.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. STEAL (2 STL),,,1,0,140
+0022300951,194,PT09M40.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,145
+0022300951,209,PT08M47.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,156
+0022300951,336,PT11M15.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,4,98,10,Missed,1,,,0,h,MISS Nance Jr. 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,243
+0022300951,372,PT07M36.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,273
+0022300951,377,PT07M07.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,277
+0022300951,406,PT05M30.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,296
+0022300951,419,PT03M57.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,305
+0022300964,94,PT03M23.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,2,105,11,Missed,1,,,0,h,MISS Nance Jr. 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,75
+0022300964,116,PT01M50.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. P.FOUL (P1.T3) (M.Boland),Foul,Personal,1,0,88
+0022300964,173,PT09M09.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,130
+0022300964,191,PT08M01.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,144
+0022300964,205,PT07M59.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Jump Ball Nance Jr. vs. Tucker: Tip to Murphy III,Jump Ball,,0,0,146
+0022300964,200,PT07M28.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Ingram FOR Nance Jr.,Substitution,,0,0,155
+0022300964,281,PT01M25.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,47,40,87,h,Nance Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,208
+0022300964,284,PT01M25.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,48,40,88,h,Nance Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,210
+0022300964,403,PT04M51.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-2,5,1,Made,1,67,63,130,h,Nance Jr. 1' Cutting Dunk Shot (4 PTS) (Jones 3 AST),Made Shot,Cutting Dunk Shot,1,2,296
+0022300964,411,PT03M39.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,20,16,3,Made,1,71,66,137,h,Nance Jr. 3' Cutting Layup Shot (6 PTS) (McCollum 3 AST),Made Shot,Cutting Layup Shot,1,2,301
+0022300964,439,PT02M09.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,74,73,147,h,Nance Jr. Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,319
+0022300964,442,PT02M09.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,75,73,148,h,Nance Jr. Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,321
+0022300964,485,PT11M09.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. P.FOUL (P2.T1) (M.Boland),Foul,Personal,1,0,350
+0022300964,488,PT11M03.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. S.FOUL (P3.T2) (C.Washington),Foul,Shooting,1,0,352
+0022300964,507,PT09M34.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,225,10,0,Missed,1,,,0,h,MISS Nance Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,365
+0022300964,510,PT09M23.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,368
+0022300964,549,PT06M17.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Williamson FOR Nance Jr.,Substitution,,0,0,397
+0022300964,577,PT03M31.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Jump Ball Nance Jr. vs. Powell: Tip to Ingram,Jump Ball,,0,0,418
+0022300964,580,PT03M23.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-1,8,1,Made,1,107,100,207,h,Nance Jr. 1' Cutting Dunk Shot (10 PTS) (Jones 4 AST),Made Shot,Cutting Dunk Shot,1,2,419
+0022300964,587,PT02M31.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,425
+0022300964,600,PT01M15.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,20,12,2,Made,1,109,102,211,h,Nance Jr. 2' Driving Layup (12 PTS) (Jones 5 AST),Made Shot,Driving Layup Shot,1,2,435
+0022300993,99,PT03M30.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,234,-1,0,Made,1,15,21,36,v,Nance Jr. 3PT Jump Shot (3 PTS) (Murphy III 2 AST),Made Shot,Jump Shot,1,3,73
+0022300993,130,PT01M38.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,1,0,Made,1,18,23,41,v,Nance Jr. Turnaround Hook Shot (5 PTS) (Alvarado 1 AST),Made Shot,Turnaround Hook Shot,1,2,97
+0022300993,134,PT01M17.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,1,94,9,Made,1,18,25,43,v,Nance Jr. 9' Fadeaway Jumper (7 PTS) (McCollum 1 AST),Made Shot,Fadeaway Jump Shot,1,2,100
+0022300993,150,PT00M03.80S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,32,179,18,Made,1,21,27,48,v,Nance Jr. 18' Fadeaway Jumper (9 PTS) (McCollum 2 AST),Made Shot,Fadeaway Jump Shot,1,2,109
+0022300993,168,PT11M26.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,118
+0022300993,169,PT11M26.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,Made,1,21,29,50,v,Nance Jr. Putback Layup (11 PTS),Made Shot,Putback Layup Shot,1,2,119
+0022300993,172,PT10M59.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,230,-5,0,Missed,1,,,0,v,MISS Nance Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,122
+0022300993,179,PT10M26.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,129
+0022300993,217,PT07M11.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (1 STL),,,1,0,156
+0022300993,243,PT05M24.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Jones FOR Nance Jr.,Substitution,,0,0,175
+0022300993,347,PT10M24.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,244
+0022300993,352,PT10M00.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. P.FOUL (P1.T1) (M.Dagher),Foul,Personal,1,0,249
+0022300993,357,PT09M22.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. S.FOUL (P2.T2) (C.Kirkland),Foul,Shooting,1,0,252
+0022300993,361,PT09M05.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-233,-15,0,Missed,1,,,0,v,MISS Nance Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,255
+0022300993,374,PT07M57.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,266
+0022300993,378,PT07M36.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,269
+0022300993,390,PT06M05.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,278
+0022300993,409,PT05M14.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,292
+0022300993,533,PT07M41.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,386
+0022300993,534,PT07M41.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,Made,1,76,95,171,v,Nance Jr. Tip Dunk Shot (13 PTS),Made Shot,Tip Dunk Shot,1,2,387
+0022300993,553,PT05M15.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,402
+0022300993,557,PT04M43.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,406
+0022300993,589,PT03M12.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,427
+0022301004,133,PT01M50.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,95
+0022301004,137,PT01M34.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (1 STL),,,1,0,99
+0022301004,169,PT11M48.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (2 STL),,,1,0,120
+0022301004,183,PT10M42.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,128
+0022301004,204,PT08M05.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,144
+0022301004,216,PT07M13.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,154
+0022301004,290,PT01M07.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-5,26,3,Missed,1,,,0,v,MISS Nance Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,205
+0022301013,48,PT07M19.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,38
+0022301013,51,PT06M39.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,29,38,5,Made,1,14,4,18,v,Nance Jr. 5' Cutting Layup Shot (2 PTS) (McCollum 1 AST),Made Shot,Cutting Layup Shot,1,2,41
+0022301013,55,PT06M39.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,14,5,19,v,Nance Jr. Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,43
+0022301013,60,PT05M51.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,48
+0022301013,61,PT05M42.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-17,40,4,Made,1,16,7,23,v,Nance Jr. 4' Cutting Dunk Shot (5 PTS) (McCollum 2 AST),Made Shot,Cutting Dunk Shot,1,2,49
+0022301013,111,PT00M59.40S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,90
+0022301013,121,PT00M00.10S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,99
+0022301013,201,PT04M50.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,152
+0022301013,205,PT04M27.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,155
+0022301013,277,PT11M03.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,209
+0022301013,281,PT10M48.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,213
+0022301013,284,PT10M48.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,45,49,94,v,Nance Jr. Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,215
+0022301013,285,PT10M48.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,MISS Nance Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,216
+0022301013,358,PT03M29.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,271
+0022301013,363,PT03M25.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Jones FOR Nance Jr.,Substitution,,0,0,275
+0022301027,123,PT02M34.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,23,25,3,Made,1,10,23,33,v,Nance Jr. 3' Running Dunk (2 PTS) (Marshall 1 AST),Made Shot,Running Dunk Shot,1,2,92
+0022301027,139,PT01M10.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,102
+0022301027,153,PT00M03.30S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,111
+0022301027,258,PT05M37.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,21,6,2,Made,1,26,44,70,v,Nance Jr. 2' Running Layup (4 PTS) (Hawkins 2 AST),Made Shot,Running Layup Shot,1,2,183
+0022301027,290,PT02M39.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. S.FOUL (P1.T4) (T.Ford),Foul,Shooting,1,0,208
+0022301027,320,PT00M15.70S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,28,18,3,Made,1,41,57,98,v,Nance Jr. 3' Cutting Dunk Shot (6 PTS) (Williamson 4 AST),Made Shot,Cutting Dunk Shot,1,2,231
+0022301027,338,PT11M12.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,36,51,6,Made,1,44,59,103,v,Nance Jr. 6' Floating Jump Shot (8 PTS) (McCollum 3 AST),Made Shot,Floating Jump shot,1,2,237
+0022301027,377,PT08M37.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. S.FOUL (P2.T2) (B.Schwab),Foul,Shooting,1,0,265
+0022301027,381,PT08M32.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,268
+0022301027,399,PT06M39.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. S.FOUL (P3.PN) (C.Washington),Foul,Shooting,1,0,283
+0022301027,435,PT04M39.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,313
+0022301027,626,PT04M00.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,MISS Nance Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,448
+0022301027,630,PT04M00.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,86,105,191,v,Nance Jr. Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,451
+0022301027,665,PT01M24.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Alvarado FOR Nance Jr.,Substitution,,0,0,478
+0022301046,269,PT04M13.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Violation:Kicked Ball (D.Collins),Violation,Kicked Ball,0,0,188
+0022301046,296,PT02M35.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. STEAL (1 STL),,,1,0,210
+0022301046,400,PT04M57.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Robinson-Earl FOR Nance Jr.,Substitution,,0,0,287
+0022301046,483,PT11M42.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,340
+0022301046,484,PT11M21.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,15,11,2,Missed,1,,,0,h,MISS Nance Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,341
+0022301046,520,PT08M19.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,368
+0022301046,521,PT08M19.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,Made,1,97,99,196,h,Nance Jr. Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,2,369
+0022301046,561,PT04M59.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-2,5,1,Made,1,107,107,214,h,Nance Jr. 1' Cutting Dunk Shot (4 PTS) (Murphy III 2 AST),Made Shot,Cutting Dunk Shot,1,2,397
+0022301046,573,PT03M49.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-5,32,3,Missed,1,,,0,h,MISS Nance Jr. 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,405
+0022301046,612,PT00M19.60S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Violation:Kicked Ball (G.Petraitis),Violation,Kicked Ball,0,0,437
+0022301061,72,PT06M07.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,55
+0022301061,92,PT04M34.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,230,-10,0,Missed,1,,,0,h,MISS Nance Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,70
+0022301061,93,PT04M31.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,71
+0022301061,103,PT03M30.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. T.FOUL (P0.T2) (A.Nagy),Foul,Technical,0,0,79
+0022301061,138,PT01M29.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,71,180,19,Missed,1,,,0,h,MISS Nance Jr. 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,107
+0022301061,148,PT00M42.50S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. STEAL (1 STL),,,1,0,114
+0022301061,159,PT00M08.20S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-4,41,4,Made,1,26,25,51,h,Nance Jr. 4' Cutting Finger Roll Layup Shot (2 PTS) (McCollum 2 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,120
+0022301061,300,PT02M04.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,224
+0022301061,313,PT01M10.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. STEAL (2 STL),,,1,0,234
+0022301061,322,PT00M47.50S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,23,18,3,Missed,1,,,0,h,MISS Nance Jr. 3' Layup,Missed Shot,Layup Shot,1,2,240
+0022301061,333,PT00M03.10S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,248
+0022301061,334,PT00M00.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-80,133,16,Made,1,61,45,106,h,Nance Jr. 16' Floating Jump Shot (4 PTS),Made Shot,Floating Jump shot,1,2,249
+0022301061,403,PT07M39.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,301
+0022301061,407,PT07M12.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,146,-12,15,Made,1,70,56,126,h,Nance Jr. 15' Jump Shot (6 PTS) (Murphy III 4 AST),Made Shot,Jump Shot,1,2,304
+0022301061,409,PT07M03.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. S.FOUL (P2.PN) (J.Tiven),Foul,Shooting,1,0,305
+0022301061,460,PT03M22.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,342
+0022301061,466,PT02M41.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. STEAL (3 STL),,,1,0,348
+0022301061,476,PT01M37.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,232,9,0,Made,1,83,73,156,h,Nance Jr. 3PT Jump Shot (9 PTS) (McCollum 6 AST),Made Shot,Jump Shot,1,3,355
+0022301061,479,PT01M19.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,357
+0022301061,496,PT00M00.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,47,19,5,Missed,1,,,0,h,MISS Nance Jr. 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,371
+0022301061,585,PT06M24.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. S.FOUL (P3.T3) (A.Nagy),Foul,Shooting,1,0,430
+0022301074,103,PT03M41.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,74
+0022301074,113,PT02M41.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,83
+0022301074,207,PT08M03.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,228,16,0,Made,1,42,35,77,h,Nance Jr. 3PT Jump Shot (3 PTS) (Daniels 1 AST),Made Shot,Jump Shot,1,3,142
+0022301074,209,PT07M41.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. S.FOUL (P1.T4) (T.Brothers),Foul,Shooting,1,0,143
+0022301074,258,PT04M00.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-5,20,2,Made,1,49,46,95,h,Nance Jr. 2' Cutting Finger Roll Layup Shot (5 PTS) (Daniels 2 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,182
+0022301074,309,PT00M05.10S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,2,36,4,Missed,1,,,0,h,MISS Nance Jr. 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,219
+0022301074,326,PT10M51.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,232
+0022301074,362,PT07M49.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. P.FOUL (P2.T2) (K.Cutler),Foul,Personal,1,0,258
+0022301074,376,PT06M35.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-184,177,26,Missed,1,,,0,h,MISS Nance Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,269
+0022301074,380,PT06M06.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-228,1,0,Missed,1,,,0,h,MISS Nance Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,273
+0022301074,386,PT05M59.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,278
+0022301092,131,PT00M58.80S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-235,32,24,Made,1,25,46,71,h,Nance Jr. 24' 3PT Jump Shot (3 PTS) (Daniels 1 AST),Made Shot,Jump Shot,1,3,93
+0022301092,135,PT00M24.70S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,18,12,2,Missed,1,,,0,h,MISS Nance Jr. 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,96
+0022301092,136,PT00M23.70S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,97
+0022301092,140,PT00M23.70S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,5,0,1,Missed,1,,,0,h,MISS Nance Jr. 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,98
+0022301092,141,PT00M22.70S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,99
+0022301092,154,PT11M09.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-4,116,12,Missed,1,,,0,h,MISS Nance Jr. 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,111
+0022301092,158,PT10M53.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,114
+0022301092,159,PT10M53.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,Made,1,30,46,76,h,Nance Jr. Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,1,2,115
+0022301092,162,PT10M53.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,31,46,77,h,Nance Jr. Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,117
+0022301092,179,PT09M05.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,128
+0022301092,404,PT04M54.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:4 Def:0),Rebound,Unknown,1,0,294
+0022301092,408,PT04M33.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,297
+0022301092,447,PT02M39.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. L.B.FOUL (P1.PN) (N.Buchert),Foul,Loose Ball,1,0,325
+0022301092,454,PT02M23.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:5 Def:1),Rebound,Unknown,1,0,330
+0022301092,455,PT02M22.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-5,29,3,Missed,1,,,0,h,MISS Nance Jr. 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,331
+0022301092,460,PT01M44.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-185,174,25,Made,1,86,101,187,h,Nance Jr. 25' 3PT Jump Shot (9 PTS) (Murphy III 3 AST),Made Shot,Jump Shot,1,3,335
+0022301092,526,PT08M13.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. S.FOUL (P2.T3) (Z.Zarba),Foul,Shooting,1,0,385
+0022301092,536,PT08M11.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:5 Def:2),Rebound,Unknown,0,0,391
+0022301092,546,PT07M16.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,400
+0022301109,136,PT02M09.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,102
+0022301109,171,PT11M23.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-6,6,1,Made,1,28,24,52,h,Nance Jr. 1' Running Dunk (2 PTS) (Murphy III 1 AST),Made Shot,Running Dunk Shot,1,2,126
+0022301109,201,PT08M22.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,145
+0022301109,212,PT07M38.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Jones FOR Nance Jr.,Substitution,,0,0,154
+0022301109,400,PT04M59.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. S.FOUL (P1.T4) (S.Corbin),Foul,Shooting,1,0,291
+0022301109,404,PT04M42.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. OFF.Foul (P2) (J.Capers),Foul,Offensive,1,0,294
+0022301109,406,PT04M42.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,1,0,295
+0022301109,454,PT01M41.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,228,5,0,Missed,1,,,0,h,MISS Nance Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,330
+0022301109,469,PT00M51.20S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Robinson-Earl FOR Nance Jr.,Substitution,,0,0,339
+0022301123,213,PT07M36.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,150
+0022301123,216,PT07M36.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,Made,1,37,30,67,h,Nance Jr. Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,2,151
+0022301123,231,PT05M12.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,7,31,3,Made,1,44,35,79,h,Nance Jr. 3' Driving Hook Shot (4 PTS) (Daniels 1 AST),Made Shot,Driving Hook Shot,1,2,162
+0022301123,235,PT04M47.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,13,9,2,Missed,1,,,0,h,MISS Nance Jr. 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,165
+0022301123,240,PT04M46.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,169
+0022301123,298,PT00M35.70S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,47,25,5,Missed,1,,,0,h,MISS Nance Jr. 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,207
+0022301123,414,PT04M08.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,280
+0022301123,421,PT03M26.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. STEAL (1 STL),,,1,0,286
+0022301123,427,PT02M47.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-6,17,2,Missed,1,,,0,h,MISS Nance Jr. 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,289
+0022301123,429,PT02M43.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,8,1,Made,1,86,80,166,h,Nance Jr. 1' Dunk (6 PTS) (Murphy III 3 AST),Made Shot,Dunk Shot,1,2,291
+0022301123,450,PT01M51.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,306
+0022301123,459,PT01M30.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0,312
+0022301123,465,PT01M00.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. L.B.FOUL (P1.T3) (D.Taylor),Foul,Loose Ball,1,0,317
+0022301123,492,PT11M10.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,332
+0022301123,499,PT10M33.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. L.B.FOUL (P2.T1) (D.Taylor),Foul,Loose Ball,1,0,338
+0022301123,512,PT09M08.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. S.FOUL (P3.T2) (D.Scott),Foul,Shooting,1,0,348
+0022301123,555,PT06M30.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. OFF.Foul (P4) (T.Ford),Foul,Offensive,1,0,380
+0022301123,557,PT06M30.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Offensive Foul Turnover (P3.T15),Turnover,Offensive Foul Turnover,1,0,381
+0022301123,569,PT05M21.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,41,4,Missed,1,,,0,h,MISS Nance Jr. 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,390
+0022301123,573,PT05M15.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,393
+0022301138,115,PT02M43.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (1 STL),,,1,0,90
+0022301138,125,PT02M09.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,96
+0022301138,163,PT10M56.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,224,11,0,Missed,1,,,0,v,MISS Nance Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,122
+0022301138,174,PT09M35.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-5,8,1,Made,1,32,24,56,v,Nance Jr. 1' Cutting Dunk Shot (2 PTS) (Daniels 1 AST),Made Shot,Cutting Dunk Shot,1,2,131
+0022301138,188,PT08M28.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,141
+0022301138,208,PT07M03.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (2 STL),,,1,0,155
+0022301138,210,PT06M51.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-132,46,14,Made,1,36,33,69,v,Nance Jr. 14' Jump Shot (4 PTS),Made Shot,Jump Shot,1,2,156
+0022301138,224,PT06M19.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Daniels FOR Nance Jr.,Substitution,,0,0,167
+0022301138,315,PT11M11.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,227
+0022301138,316,PT11M07.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. OFF.Foul (P1) (J.Goldenberg),Foul,Offensive,1,0,228
+0022301138,318,PT11M07.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,1,0,229
+0022301138,321,PT10M52.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,232
+0022301138,325,PT10M15.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-16,11,2,Made,1,50,61,111,v,Nance Jr. 2' Cutting Dunk Shot (6 PTS) (McCollum 2 AST),Made Shot,Cutting Dunk Shot,1,2,236
+0022301138,329,PT10M15.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,50,62,112,v,Nance Jr. Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,238
+0022301138,353,PT08M21.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. S.FOUL (P2.T3) (B.Forte),Foul,Shooting,1,0,252
+0022301138,357,PT08M17.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,255
+0022301138,372,PT06M58.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Alvarado FOR Nance Jr.,Substitution,,0,0,265
+0022301138,394,PT05M34.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-28,30,4,Missed,1,,,0,v,MISS Nance Jr. 4' Hook Shot,Missed Shot,Hook Shot,1,2,280
+0022301138,410,PT04M41.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. P.FOUL (P3.PN) (B.Forte),Foul,Personal,1,0,293
+0022301138,425,PT03M18.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,305
+0022301138,490,PT10M37.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. L.B.FOUL (P4.T1) (J.Tiven),Foul,Loose Ball,1,0,348
+0022301138,513,PT09M07.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (3 STL),,,1,0,363
+0022301138,533,PT08M05.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. BLOCK (1 BLK),,,1,2,377
+0022301138,591,PT04M32.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,423
+0022301138,600,PT03M43.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,101,104,205,v,Nance Jr. Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,429
+0022301138,605,PT03M43.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,101,105,206,v,Nance Jr. Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,432
+0022301138,614,PT02M24.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,229,9,0,Missed,1,,,0,v,MISS Nance Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,439
+0022301138,640,PT00M22.20S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,457
+0022301157,113,PT02M44.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. Violation:Kicked Ball (C.Flores),Violation,Kicked Ball,0,0,84
+0022301157,123,PT01M40.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,90
+0022301157,124,PT01M40.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,91
+0022301157,134,PT00M41.20S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (1 STL),,,1,0,101
+0022301157,166,PT10M16.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. STEAL (2 STL),,,1,0,123
+0022301157,173,PT09M27.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,4,116,12,Missed,1,,,0,v,MISS Nance Jr. 12' Jump Shot,Missed Shot,Jump Shot,1,2,128
+0022301157,186,PT08M31.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Murphy III FOR Nance Jr.,Substitution,,0,0,139
+0022301157,402,PT01M56.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,296
+0022301157,419,PT00M10.50S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-181,173,25,Missed,1,,,0,v,MISS Nance Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,310
+0022301157,508,PT06M46.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,372
+0022301157,527,PT05M02.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,Nance Jr. REBOUND (Off:4 Def:0),Rebound,Unknown,1,0,388
+0022301157,530,PT05M02.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,85,101,186,v,Nance Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,390
+0022301157,531,PT05M02.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,85,102,187,v,Nance Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,391
+0022301157,539,PT04M42.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,398
+0022301195,78,PT04M35.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,17,6,2,Missed,1,,,0,h,MISS Nance Jr. 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,52
+0022301195,105,PT02M20.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,73
+0022301195,111,PT01M53.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. P.FOUL (P1.T3) (P.Fraher),Foul,Personal,1,0,77
+0022301195,117,PT01M21.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. L.B.FOUL (P2.PN) (P.Fraher),Foul,Loose Ball,1,0,82
+0022301195,130,PT00M02.80S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: McCollum FOR Nance Jr.,Substitution,,0,0,92
+0022301195,276,PT03M39.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-237,23,24,Made,1,40,60,100,h,Nance Jr. 24' 3PT Jump Shot (3 PTS) (McCollum 3 AST),Made Shot,Jump Shot,1,3,192
+0022301195,295,PT02M26.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,44,62,106,h,Nance Jr. Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,205
+0022301195,296,PT02M26.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,45,62,107,h,Nance Jr. Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,206
+0022301195,298,PT02M00.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,6,1,Made,1,47,64,111,h,Nance Jr. 1' Cutting Dunk Shot (7 PTS) (McCollum 4 AST),Made Shot,Cutting Dunk Shot,1,2,208
+0022301195,315,PT00M03.50S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Ingram FOR Nance Jr.,Substitution,,0,0,221
+0022301195,391,PT06M00.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,274
+0022301195,392,PT05M59.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,Made,1,65,91,156,h,Nance Jr. Tip Dunk Shot (9 PTS),Made Shot,Tip Dunk Shot,1,2,275
+0022301195,395,PT05M38.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,278
+0022301195,404,PT05M17.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. S.FOUL (P3.T2) (A.Moyer-Gleich),Foul,Shooting,1,0,283
+0022301195,409,PT04M54.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,25,55,6,Missed,1,,,0,h,MISS Nance Jr. 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,287
+0022301195,411,PT04M43.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Violation:Kicked Ball (A.Moyer-Gleich),Violation,Kicked Ball,0,0,289
+0022301195,423,PT03M42.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. STEAL (1 STL),,,1,0,299
+0022301195,425,PT03M40.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,300
+0022301195,441,PT01M48.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,312
+0022301195,450,PT01M09.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Daniels FOR Nance Jr.,Substitution,,0,0,321
+0022301195,539,PT06M55.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,230,-11,0,Missed,1,,,0,h,MISS Nance Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,380
+0022301195,553,PT05M44.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,392
+0022301195,573,PT04M17.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,Nance Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,403
+0022301195,574,PT04M17.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,Made,1,98,117,215,h,Nance Jr. Tip Layup Shot (11 PTS),Made Shot,Tip Layup Shot,1,2,404
+0022301195,586,PT03M22.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-5,1,1,Made,1,101,119,220,h,Nance Jr. 1' Cutting Dunk Shot (13 PTS) (McCollum 7 AST),Made Shot,Cutting Dunk Shot,1,2,414
+0022301195,611,PT02M04.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,,,0,h,SUB: Alvarado FOR Nance Jr.,Substitution,,0,0,435

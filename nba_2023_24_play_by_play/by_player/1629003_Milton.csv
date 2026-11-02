@@ -1,0 +1,492 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300013,183,PT10M19.00S,2,1610612750,MIN,1629003,Milton,S. Milton,28,115,12,Missed,1,,,0,v,MISS Milton 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,134
+0022300013,184,PT10M17.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,135
+0022300013,201,PT09M16.00S,2,1610612750,MIN,1629003,Milton,S. Milton,-229,36,0,Made,1,34,29,63,v,Milton 3PT Jump Shot (3 PTS) (Gobert 1 AST),Made Shot,Jump Shot,1,3,148
+0022300013,255,PT05M51.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,MISS Milton Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,185
+0022300013,276,PT04M44.00S,2,1610612750,MIN,1629003,Milton,S. Milton,234,-21,0,Made,1,44,42,86,v,Milton 3PT Jump Shot (6 PTS) (Edwards 2 AST),Made Shot,Jump Shot,1,3,203
+0022300013,298,PT03M12.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Gobert FOR Milton,Substitution,,0,0,222
+0022300013,475,PT02M24.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton OFF.Foul (P1) (J.Tiven),Foul,Offensive,1,0,346
+0022300013,477,PT02M24.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,1,0,347
+0022300013,479,PT02M12.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,349
+0022300013,480,PT02M02.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0,350
+0022300013,499,PT00M04.60S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton P.FOUL (P2.T3) (C.Washington),Foul,Personal,1,0,365
+0022300013,513,PT11M29.00S,4,1610612750,MIN,1629003,Milton,S. Milton,224,11,0,Missed,1,,,0,v,MISS Milton 3PT Jump Shot,Missed Shot,Jump Shot,1,3,372
+0022300013,521,PT10M39.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton S.FOUL (P3.T2) (J.Tiven),Foul,Shooting,1,0,377
+0022300013,537,PT09M39.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,388
+0022300013,546,PT09M25.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: McDaniels FOR Milton,Substitution,,0,0,396
+0022300025,144,PT02M22.00S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,106
+0022300025,150,PT01M24.00S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton P.FOUL (P1.T3) (A.Smith),Foul,Personal,1,0,111
+0022300025,157,PT00M42.60S,1,1610612750,MIN,1629003,Milton,S. Milton,217,155,27,Missed,1,,,0,v,MISS Milton 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,115
+0022300025,180,PT11M18.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,127
+0022300025,240,PT06M47.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,167
+0022300025,247,PT06M04.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton S.FOUL (P2.T1) (M.Dagher),Foul,Shooting,1,0,173
+0022300025,254,PT06M04.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Reid FOR Milton,Substitution,,0,0,179
+0022300025,263,PT05M47.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton OFF.Foul (P3) (T.Ford),Foul,Offensive,1,0,182
+0022300025,265,PT05M47.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,1,0,183
+0022300025,267,PT05M47.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Brown Jr. FOR Milton,Substitution,,0,0,185
+0022300025,487,PT02M49.00S,3,1610612750,MIN,1629003,Milton,S. Milton,-42,10,4,Made,1,75,65,140,v,Milton 4' Driving Layup (2 PTS) (Anderson 3 AST),Made Shot,Driving Layup Shot,1,2,340
+0022300025,491,PT02M49.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,75,66,141,v,Milton Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,343
+0022300025,522,PT00M32.30S,3,1610612750,MIN,1629003,Milton,S. Milton,-36,44,6,Made,1,80,75,155,v,Milton 6' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,2,363
+0022300025,526,PT00M32.30S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,80,76,156,v,Milton Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,365
+0022300025,551,PT11M18.00S,4,1610612750,MIN,1629003,Milton,S. Milton,-6,75,8,Missed,1,,,0,v,MISS Milton 8' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,379
+0022300025,554,PT10M54.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,382
+0022300025,572,PT09M58.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Alexander-Walker FOR Milton,Substitution,,0,0,396
+0022300050,78,PT05M09.00S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,56
+0022300050,89,PT04M19.00S,1,1610612750,MIN,1629003,Milton,S. Milton,-10,0,1,Made,1,18,25,43,h,Milton 1' Running Layup (2 PTS) (Alexander-Walker 1 AST),Made Shot,Running Layup Shot,1,2,66
+0022300050,118,PT02M22.00S,1,1610612750,MIN,1629003,Milton,S. Milton,-98,34,10,Missed,1,,,0,h,MISS Milton 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,83
+0022300050,145,PT00M10.90S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,104
+0022300050,169,PT11M17.00S,2,1610612750,MIN,1629003,Milton,S. Milton,115,104,16,Missed,1,,,0,h,MISS Milton 16' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,111
+0022300050,175,PT10M38.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton BLOCK (1 BLK),,,1,2,117
+0022300050,181,PT10M14.00S,2,1610612750,MIN,1629003,Milton,S. Milton,-28,58,6,Missed,1,,,0,h,MISS Milton 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,120
+0022300050,183,PT10M11.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,122
+0022300050,194,PT09M21.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton S.FOUL (P1.T1) (M.Kallio),Foul,Shooting,1,0,132
+0022300050,203,PT09M12.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,SUB: Brown Jr. FOR Milton,Substitution,,0,0,138
+0022300050,449,PT02M58.00S,3,1610612750,MIN,1629003,Milton,S. Milton,-232,7,0,Missed,1,,,0,h,MISS Milton 3PT Jump Shot,Missed Shot,Jump Shot,1,3,317
+0022300050,469,PT01M27.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton Out of Bounds Lost Ball Turnover (P2.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0,332
+0022300050,470,PT01M07.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton STEAL (1 STL),,,1,0,334
+0022300050,480,PT00M22.60S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton Out of Bounds - Bad Pass Turnover Turnover (P3.T12),Turnover,Out of Bounds - Bad Pass Turnover,1,0,342
+0022300050,501,PT00M01.00S,3,1610612750,MIN,1629003,Milton,S. Milton,97,38,10,Missed,1,,,0,h,MISS Milton 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,354
+0022300058,82,PT04M31.00S,1,1610612750,MIN,1629003,Milton,S. Milton,82,138,16,Made,1,15,18,33,h,Milton 16' Pullup Jump Shot (2 PTS) (Alexander-Walker 1 AST),Made Shot,Pullup Jump shot,1,2,65
+0022300058,90,PT03M41.00S,1,1610612750,MIN,1629003,Milton,S. Milton,199,169,26,Missed,1,,,0,h,MISS Milton 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,72
+0022300058,114,PT02M50.00S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,16,20,36,h,Milton Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,86
+0022300058,115,PT02M50.00S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,17,20,37,h,Milton Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,87
+0022300058,116,PT02M35.00S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton STEAL (1 STL),,,1,0,89
+0022300058,167,PT11M14.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,127
+0022300058,184,PT09M43.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton S.FOUL (P1.T2) (J.Schroeder),Foul,Shooting,1,0,139
+0022300058,196,PT09M00.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,SUB: Brown Jr. FOR Milton,Substitution,,0,0,148
+0022300058,486,PT00M51.80S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton Bad Pass Turnover (P1.T16),Turnover,Bad Pass,1,0,359
+0022300058,498,PT00M29.90S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton BLOCK (1 BLK),,,1,2,369
+0022300058,501,PT00M20.40S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton Out of Bounds - Bad Pass Turnover Turnover (P2.T17),Turnover,Out of Bounds - Bad Pass Turnover,1,0,371
+0022300069,111,PT04M03.00S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,86
+0022300069,138,PT01M42.00S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton S.FOUL (P1.T3) (B.Schwab),Foul,Shooting,1,0,108
+0022300069,163,PT00M22.20S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,MISS Milton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,124
+0022300069,165,PT00M22.20S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,23,25,48,v,Milton Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,126
+0022300069,168,PT00M00.20S,1,1610612750,MIN,1629003,Milton,S. Milton,60,246,25,Missed,1,,,0,v,MISS Milton 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,128
+0022300069,198,PT10M34.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton P.FOUL (P2.T1) (K.Scott),Foul,Personal,1,0,150
+0022300069,202,PT10M13.00S,2,1610612750,MIN,1629003,Milton,S. Milton,230,80,24,Missed,1,,,0,v,MISS Milton 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,153
+0022300069,206,PT10M09.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton S.FOUL (P3.T2) (B.Schwab),Foul,Shooting,1,0,156
+0022300069,208,PT10M09.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Gobert FOR Milton,Substitution,,0,0,157
+0022300069,504,PT03M25.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,379
+0022300069,505,PT03M22.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton Out of Bounds - Bad Pass Turnover Turnover (P2.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,380
+0022300069,520,PT01M57.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,391
+0022300069,527,PT01M21.00S,3,1610612750,MIN,1629003,Milton,S. Milton,-228,-16,0,Made,1,73,74,147,v,Milton 3PT Jump Shot (4 PTS) (Anderson 3 AST),Made Shot,Jump Shot,1,3,397
+0022300069,539,PT00M27.90S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton P.FOUL (P4.T3) (K.Scott),Foul,Personal,1,0,407
+0022300069,569,PT09M58.00S,4,1610612750,MIN,1629003,Milton,S. Milton,-158,225,27,Missed,1,,,0,v,MISS Milton 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,428
+0022300069,593,PT07M54.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,448
+0022300069,607,PT06M45.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton STEAL (1 STL),,,1,0,457
+0022300069,611,PT06M25.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton STEAL (2 STL),,,1,0,460
+0022300069,629,PT05M20.00S,4,1610612750,MIN,1629003,Milton,S. Milton,-48,38,6,Missed,1,,,0,v,MISS Milton 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,473
+0022300069,654,PT03M28.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Conley FOR Milton,Substitution,,0,0,492
+0022300093,148,PT11M15.00S,2,1610612750,MIN,1629003,Milton,S. Milton,143,215,26,Missed,1,,,0,h,MISS Milton 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,112
+0022300093,156,PT10M58.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,118
+0022300093,159,PT10M47.00S,2,1610612750,MIN,1629003,Milton,S. Milton,-2,14,1,Made,1,28,33,61,h,Milton 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,121
+0022300093,162,PT10M47.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,MISS Milton Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,123
+0022300093,170,PT09M53.00S,2,1610612750,MIN,1629003,Milton,S. Milton,-15,93,9,Missed,1,,,0,h,MISS Milton 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,130
+0022300093,185,PT08M33.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,SUB: Anderson FOR Milton,Substitution,,0,0,142
+0022300093,423,PT01M04.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Jump Ball Milton vs. Smith: Tip to Anderson,Jump Ball,,0,0,311
+0022300093,476,PT11M47.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,325
+0022300093,446,PT10M20.00S,4,1610612750,MIN,1629003,Milton,S. Milton,62,244,25,Missed,1,,,0,h,MISS Milton 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,332
+0022300093,452,PT09M37.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton Bad Pass Turnover (P2.T13),Turnover,Bad Pass,1,0,337
+0022300093,457,PT09M34.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,SUB: Gobert FOR Milton,Substitution,,0,0,341
+0022300104,141,PT11M14.00S,2,1610612750,MIN,1629003,Milton,S. Milton,13,114,11,Missed,1,,,0,v,MISS Milton 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,96
+0022300104,145,PT11M11.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton P.FOUL (P1.T2) (N.Buchert),Foul,Personal,0,0,100
+0022300104,170,PT09M57.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,118
+0022300104,171,PT09M54.00S,2,1610612750,MIN,1629003,Milton,S. Milton,-16,3,2,Made,1,38,46,84,v,Milton 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,119
+0022300104,204,PT07M22.00S,2,1610612750,MIN,1629003,Milton,S. Milton,20,24,3,Made,1,42,56,98,v,Milton 3' Running Pull-Up Jump Shot (4 PTS),Made Shot,Running Pull-Up Jump Shot,1,2,144
+0022300104,208,PT06M53.00S,2,1610612750,MIN,1629003,Milton,S. Milton,229,35,0,Made,1,45,59,104,v,Milton 3PT Jump Shot (7 PTS) (McDaniels 2 AST),Made Shot,Jump Shot,1,3,146
+0022300104,254,PT03M18.00S,2,1610612750,MIN,1629003,Milton,S. Milton,147,215,26,Made,1,54,70,124,v,Milton 26' 3PT Running Jump Shot (10 PTS) (Anderson 3 AST),Made Shot,Running Jump Shot,1,3,179
+0022300104,264,PT02M23.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Reid FOR Milton,Substitution,,0,0,186
+0022300104,454,PT00M17.10S,3,1610612750,MIN,1629003,Milton,S. Milton,-29,36,5,Missed,1,,,0,v,MISS Milton 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,329
+0022300104,472,PT10M43.00S,4,1610612750,MIN,1629003,Milton,S. Milton,-66,52,8,Missed,1,,,0,v,MISS Milton 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,340
+0022300104,481,PT10M09.00S,4,1610612750,MIN,1629003,Milton,S. Milton,9,75,8,Missed,1,,,0,v,MISS Milton 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,348
+0022300104,490,PT09M30.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Edwards FOR Milton,Substitution,,0,0,356
+0022300104,585,PT01M49.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton Bad Pass Turnover (P1.T14),Turnover,Bad Pass,1,0,426
+0022300104,606,PT01M11.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Alexander-Walker FOR Milton,Substitution,,0,0,445
+0022300123,168,PT10M57.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton STEAL (1 STL),,,1,0,128
+0022300123,235,PT06M03.00S,2,1610612750,MIN,1629003,Milton,S. Milton,-15,151,15,Missed,1,,,0,h,MISS Milton 15' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,175
+0022300123,242,PT05M38.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,SUB: Edwards FOR Milton,Substitution,,0,0,180
+0022300123,452,PT00M58.90S,3,1610612750,MIN,1629003,Milton,S. Milton,-24,13,3,Missed,1,,,0,h,MISS Milton 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,345
+0022300123,488,PT10M07.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton L.B.FOUL (P1.T2) (M.Smith),Foul,Loose Ball,1,0,375
+0022300123,496,PT09M51.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,380
+0022300123,497,PT09M47.00S,4,1610612750,MIN,1629003,Milton,S. Milton,-13,33,4,Missed,1,,,0,h,MISS Milton 4' Running Layup,Missed Shot,Running Layup Shot,1,2,381
+0022300123,505,PT09M11.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton STEAL (2 STL),,,1,0,389
+0022300123,510,PT09M02.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,SUB: Edwards FOR Milton,Substitution,,0,0,392
+0022300123,590,PT05M04.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton Out of Bounds Lost Ball Turnover (P1.T12),Turnover,Out of Bounds Lost Ball Turnover,0,0,447
+0022300123,626,PT02M18.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,102,85,187,h,Milton Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,473
+0022300123,627,PT02M18.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,103,85,188,h,Milton Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,474
+0022300138,176,PT11M37.00S,2,1610612750,MIN,1629003,Milton,S. Milton,20,15,3,Made,1,31,27,58,h,Milton 3' Driving Layup (2 PTS) (Conley 2 AST),Made Shot,Driving Layup Shot,1,2,124
+0022300138,208,PT08M46.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,147
+0022300138,209,PT08M39.00S,2,1610612750,MIN,1629003,Milton,S. Milton,45,246,25,Missed,1,,,0,h,MISS Milton 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,148
+0022300138,211,PT08M35.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,150
+0022300138,226,PT07M12.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton BLOCK (1 BLK),,,1,3,163
+0022300138,233,PT06M47.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,SUB: Towns FOR Milton,Substitution,,0,0,168
+0022300138,478,PT01M33.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton S.FOUL (P1.PN) (P.Fraher),Foul,Shooting,1,0,341
+0022300138,483,PT01M18.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton STEAL (1 STL),,,1,0,345
+0022300138,655,PT03M00.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,110,89,199,h,Milton Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,468
+0022300138,658,PT03M00.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,111,89,200,h,Milton Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,470
+0022300138,662,PT02M37.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,112,89,201,h,Milton Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,473
+0022300138,663,PT02M37.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,113,89,202,h,Milton Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,474
+0022300138,669,PT01M57.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton S.FOUL (P2.PN) (M.Myers),Foul,Shooting,1,0,478
+0022300138,691,PT00M35.20S,4,1610612750,MIN,1629003,Milton,S. Milton,218,104,24,Missed,1,,,0,h,MISS Milton 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,496
+0022300138,698,PT00M19.60S,4,1610612750,MIN,1629003,Milton,S. Milton,-11,15,2,Made,1,123,95,218,h,Milton 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,501
+0022300154,217,PT09M19.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,SUB: Gobert FOR Milton,Substitution,,0,0,161
+0022300166,115,PT02M02.00S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton STEAL (1 STL),,,1,0,83
+0022300166,117,PT01M57.00S,1,1610612750,MIN,1629003,Milton,S. Milton,-126,228,26,Missed,1,,,0,h,MISS Milton 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,84
+0022300166,131,PT00M59.80S,1,1610612750,MIN,1629003,Milton,S. Milton,-13,25,3,Made,1,25,22,47,h,Milton 3' Driving Layup (2 PTS) (Alexander-Walker 4 AST),Made Shot,Driving Layup Shot,1,2,97
+0022300166,136,PT00M59.80S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,26,22,48,h,Milton Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,100
+0022300166,179,PT09M28.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,127
+0022300166,194,PT08M39.00S,2,1610612750,MIN,1629003,Milton,S. Milton,238,23,24,Made,1,38,29,67,h,Milton 24' 3PT Running Jump Shot (6 PTS) (Edwards 3 AST),Made Shot,Running Jump Shot,1,3,137
+0022300166,215,PT07M11.00S,2,1610612750,MIN,1629003,Milton,S. Milton,226,27,0,Missed,1,,,0,h,MISS Milton 3PT Jump Shot,Missed Shot,Jump Shot,1,3,152
+0022300166,218,PT06M59.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,155
+0022300166,232,PT06M06.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,SUB: Anderson FOR Milton,Substitution,,0,0,167
+0022300166,426,PT03M24.00S,3,1610612750,MIN,1629003,Milton,S. Milton,-9,13,2,Made,1,90,62,152,h,Milton 2' Driving Layup (8 PTS) (Anderson 4 AST),Made Shot,Driving Layup Shot,1,2,309
+0022300166,454,PT01M33.00S,3,1610612750,MIN,1629003,Milton,S. Milton,-232,30,0,Missed,1,,,0,h,MISS Milton 3PT Jump Shot,Missed Shot,Jump Shot,1,3,330
+0022300166,460,PT01M19.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,336
+0022300166,464,PT00M58.70S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,339
+0022300166,465,PT00M55.90S,3,1610612750,MIN,1629003,Milton,S. Milton,-9,-8,1,Made,1,97,68,165,h,Milton 1' Running Layup (10 PTS),Made Shot,Running Layup Shot,1,2,340
+0022300166,467,PT00M35.50S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,342
+0022300166,468,PT00M21.60S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton Bad Pass Turnover (P2.T15),Turnover,Bad Pass,1,0,343
+0022300166,492,PT10M54.00S,4,1610612750,MIN,1629003,Milton,S. Milton,-74,14,8,Missed,1,,,0,h,MISS Milton 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,352
+0022300166,526,PT09M00.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton S.FOUL (P1.T2) (T.Ricks),Foul,Shooting,1,0,376
+0022300166,537,PT08M15.00S,4,1610612750,MIN,1629003,Milton,S. Milton,228,41,0,Missed,1,,,0,h,MISS Milton 3PT Jump Shot,Missed Shot,Jump Shot,1,3,384
+0022300166,555,PT07M47.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,SUB: Edwards FOR Milton,Substitution,,0,0,398
+0022300166,618,PT03M13.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton STEAL (2 STL),,,1,0,447
+0022300166,625,PT03M00.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,SUB: Nix FOR Milton,Substitution,,0,0,451
+0022300186,143,PT02M06.00S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,25,22,47,v,Milton Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,99
+0022300186,144,PT02M06.00S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,MISS Milton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,100
+0022300186,213,PT09M53.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Edwards FOR Milton,Substitution,,0,0,151
+0022300186,531,PT00M04.60S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton P.FOUL (P1.T3) (M.Davis),Foul,Personal,1,0,378
+0022300186,547,PT11M44.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,383
+0022300186,555,PT11M10.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Gobert FOR Milton,Substitution,,0,0,390
+0022300186,714,PT00M58.30S,4,1610612750,MIN,1629003,Milton,S. Milton,-48,110,12,Missed,1,,,0,v,MISS Milton 12' Jump Shot,Missed Shot,Jump Shot,1,2,511
+0022300197,97,PT02M33.00S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton P.FOUL (P1.T4) (T.Maddox),Foul,Personal,1,0,68
+0022300197,107,PT02M22.00S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,74
+0022300197,108,PT02M03.00S,1,1610612750,MIN,1629003,Milton,S. Milton,9,32,3,Missed,1,,,0,v,MISS Milton 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,75
+0022300197,109,PT02M01.00S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,76
+0022300197,110,PT01M58.00S,1,1610612750,MIN,1629003,Milton,S. Milton,37,94,10,Made,1,32,22,54,v,Milton 10' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,2,77
+0022300197,119,PT01M19.00S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton S.FOUL (P2.PN) (J.Butler),Foul,Shooting,1,0,85
+0022300197,253,PT04M04.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Gobert FOR Milton,Substitution,,0,0,173
+0022300197,455,PT00M30.90S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,311
+0022300197,456,PT00M22.50S,3,1610612750,MIN,1629003,Milton,S. Milton,146,63,16,Made,1,108,82,190,v,Milton 16' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,312
+0022300197,458,PT00M00.30S,3,1610612750,MIN,1629003,Milton,S. Milton,-124,569,58,Missed,1,,,0,v,MISS Milton 58' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,314
+0022300197,480,PT10M41.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,329
+0022300197,481,PT10M37.00S,4,1610612750,MIN,1629003,Milton,S. Milton,-2,28,3,Missed,1,,,0,v,MISS Milton 3' Running Layup,Missed Shot,Running Layup Shot,1,2,330
+0022300197,485,PT10M18.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton S.FOUL (P3.T1) (T.Maddox),Foul,Shooting,1,0,334
+0022300197,504,PT09M11.00S,4,1610612750,MIN,1629003,Milton,S. Milton,98,96,14,Made,1,115,93,208,v,Milton 14' Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,1,2,347
+0022300197,536,PT06M55.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Towns FOR Milton,Substitution,,0,0,374
+0022300197,604,PT02M38.00S,4,1610612750,MIN,1629003,Milton,S. Milton,47,91,10,Made,1,129,109,238,v,Milton 10' Pullup Jump Shot (8 PTS) (Brown Jr. 1 AST),Made Shot,Pullup Jump shot,1,2,421
+0022300197,619,PT01M09.00S,4,1610612750,MIN,1629003,Milton,S. Milton,-202,159,26,Missed,1,,,0,v,MISS Milton 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,432
+0022300203,202,PT10M12.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Edwards FOR Milton,Substitution,,0,0,137
+0022300203,317,PT02M16.00S,2,1610612750,MIN,1629003,Milton,S. Milton,103,10,10,Made,1,55,52,107,v,Milton 10' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,2,220
+0022300203,327,PT01M53.00S,2,1610612750,MIN,1629003,Milton,S. Milton,62,134,15,Made,1,57,54,111,v,Milton 15' Pullup Jump Shot (4 PTS) (Conley 2 AST),Made Shot,Pullup Jump shot,1,2,226
+0022300203,454,PT04M12.00S,3,1610612750,MIN,1629003,Milton,S. Milton,119,225,25,Missed,1,,,0,v,MISS Milton 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,312
+0022300203,462,PT03M42.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,0,319
+0022300203,470,PT03M21.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,85,75,160,v,Milton Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,326
+0022300203,475,PT03M21.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,85,76,161,v,Milton Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,329
+0022300203,509,PT00M18.50S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,95,82,177,v,Milton Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,353
+0022300203,512,PT00M18.50S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,95,83,178,v,Milton Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,355
+0022300203,513,PT00M14.20S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton STEAL (1 STL),,,1,0,357
+0022300203,520,PT00M05.20S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton P.FOUL (P1.T3) (M.Kallio),Foul,Personal,1,0,361
+0022300203,523,PT00M00.80S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,363
+0022300203,540,PT11M08.00S,4,1610612750,MIN,1629003,Milton,S. Milton,27,84,9,Missed,1,,,0,v,MISS Milton 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,371
+0022300203,542,PT11M03.00S,4,1610612750,MIN,1629003,Milton,S. Milton,44,-10,5,Missed,1,,,0,v,MISS Milton 5' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,373
+0022300203,545,PT11M01.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton L.B.FOUL (P2.T1) (M.Ervin),Foul,Loose Ball,1,0,376
+0022300203,554,PT09M46.00S,4,1610612750,MIN,1629003,Milton,S. Milton,228,38,0,Missed,1,,,0,v,MISS Milton 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,381
+0022300203,569,PT08M37.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Alexander-Walker FOR Milton,Substitution,,0,0,392
+0022300221,151,PT00M01.10S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,30,28,58,h,Milton Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,110
+0022300221,152,PT00M01.10S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,31,28,59,h,Milton Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,111
+0022300221,169,PT11M22.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,122
+0022300221,170,PT11M17.00S,2,1610612750,MIN,1629003,Milton,S. Milton,-12,127,13,Made,1,34,28,62,h,Milton 13' Floating Jump Shot (4 PTS),Made Shot,Floating Jump shot,1,2,123
+0022300221,184,PT10M37.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,136
+0022300221,201,PT09M23.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton P.FOUL (P1.T3) (P.Fraher),Foul,Personal,1,0,150
+0022300221,213,PT08M36.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,157
+0022300221,235,PT07M22.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,174
+0022300221,246,PT06M59.00S,2,1610612750,MIN,1629003,Milton,S. Milton,26,19,3,Missed,1,,,0,h,MISS Milton 3' Layup,Missed Shot,Layup Shot,1,2,182
+0022300221,250,PT06M33.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,185
+0022300221,256,PT06M30.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,SUB: Brown Jr. FOR Milton,Substitution,,0,0,190
+0022300221,496,PT00M20.10S,3,1610612750,MIN,1629003,Milton,S. Milton,-47,258,26,Missed,1,,,0,h,MISS Milton 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,370
+0022300221,516,PT11M06.00S,4,1610612750,MIN,1629003,Milton,S. Milton,-4,59,6,Made,1,96,78,174,h,Milton 6' Floating Jump Shot (6 PTS) (Towns 4 AST),Made Shot,Floating Jump shot,1,2,385
+0022300221,540,PT09M56.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,402
+0022300221,553,PT09M06.00S,4,1610612750,MIN,1629003,Milton,S. Milton,-140,223,26,Missed,1,,,0,h,MISS Milton 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,410
+0022300221,574,PT08M05.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,SUB: Alexander-Walker FOR Milton,Substitution,,0,0,426
+0022300232,111,PT03M41.00S,1,1610612750,MIN,1629003,Milton,S. Milton,0,8,1,Missed,1,,,0,h,MISS Milton 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,81
+0022300232,134,PT02M27.00S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,30,17,47,h,Milton Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,97
+0022300232,137,PT02M27.00S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,31,17,48,h,Milton Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,99
+0022300232,152,PT01M08.00S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton S.FOUL (P1.PN) (E.Malloy),Foul,Shooting,1,0,111
+0022300232,166,PT00M48.10S,1,1610612750,MIN,1629003,Milton,S. Milton,20,108,11,Made,1,37,18,55,h,Milton 11' Pullup Jump Shot (4 PTS) (Conley 2 AST),Made Shot,Pullup Jump shot,1,2,122
+0022300232,190,PT10M48.00S,2,1610612750,MIN,1629003,Milton,S. Milton,223,67,0,Missed,1,,,0,h,MISS Milton 3PT Jump Shot,Missed Shot,Jump Shot,1,3,137
+0022300232,214,PT09M00.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,SUB: Towns FOR Milton,Substitution,,0,0,158
+0022300232,457,PT05M47.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,76,66,142,h,Milton Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,330
+0022300232,463,PT05M47.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,MISS Milton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,331
+0022300232,462,PT05M23.00S,3,1610612750,MIN,1629003,Milton,S. Milton,-9,131,13,Made,1,78,66,144,h,Milton 13' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,1,2,336
+0022300232,505,PT02M50.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,85,71,156,h,Milton Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,368
+0022300232,506,PT02M50.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,86,71,157,h,Milton Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,369
+0022300232,511,PT02M08.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton S.FOUL (P2.PN) (J.Conley),Foul,Shooting,1,0,373
+0022300232,515,PT01M44.00S,3,1610612750,MIN,1629003,Milton,S. Milton,225,76,24,Missed,1,,,0,h,MISS Milton 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,376
+0022300232,518,PT01M39.00S,3,1610612750,MIN,1629003,Milton,S. Milton,228,-6,0,Made,1,89,75,164,h,Milton 3PT Jump Shot (12 PTS) (Edwards 5 AST),Made Shot,Jump Shot,1,3,378
+0022300232,562,PT10M10.00S,4,1610612750,MIN,1629003,Milton,S. Milton,43,106,11,Missed,1,,,0,h,MISS Milton 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,406
+0022300232,574,PT09M32.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,SUB: Alexander-Walker FOR Milton,Substitution,,0,0,416
+0022300249,113,PT01M29.00S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton S.FOUL (P1.T4) (J.Reneau),Foul,Shooting,1,0,83
+0022300249,125,PT00M42.80S,1,1610612750,MIN,1629003,Milton,S. Milton,234,86,25,Made,1,24,29,53,v,Milton 25' 3PT Jump Shot (3 PTS) (Edwards 4 AST),Made Shot,Jump Shot,1,3,92
+0022300249,128,PT00M31.40S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,94
+0022300249,174,PT09M00.00S,2,1610612750,MIN,1629003,Milton,S. Milton,17,8,2,Missed,1,,,0,v,MISS Milton 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,132
+0022300249,201,PT07M17.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Alexander-Walker FOR Milton,Substitution,,0,0,153
+0022300249,442,PT04M34.00S,3,1610612750,MIN,1629003,Milton,S. Milton,-227,-6,0,Missed,1,,,0,v,MISS Milton 3PT Jump Shot,Missed Shot,Jump Shot,1,3,322
+0022300249,462,PT02M48.00S,3,1610612750,MIN,1629003,Milton,S. Milton,67,77,10,Missed,1,,,0,v,MISS Milton 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,338
+0022300249,500,PT00M40.60S,3,1610612750,MIN,1629003,Milton,S. Milton,-62,34,7,Made,1,66,90,156,v,Milton 7' Driving Floating Bank Jump Shot (5 PTS) (Edwards 7 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,370
+0022300249,501,PT00M32.10S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton STEAL (1 STL),,,1,0,372
+0022300249,533,PT10M47.00S,4,1610612750,MIN,1629003,Milton,S. Milton,148,204,25,Missed,1,,,0,v,MISS Milton 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,388
+0022300249,539,PT10M24.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,73,93,166,v,Milton Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,392
+0022300249,541,PT10M24.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,MISS Milton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,393
+0022300249,548,PT10M07.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,398
+0022300249,549,PT10M03.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton Out of Bounds - Bad Pass Turnover Turnover (P1.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,399
+0022300249,550,PT09M49.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton S.FOUL (P2.T2) (J.DeRosa),Foul,Shooting,1,0,400
+0022300249,572,PT08M06.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Alexander-Walker FOR Milton,Substitution,,0,0,417
+0022300270,97,PT03M25.00S,1,1610612750,MIN,1629003,Milton,S. Milton,-64,123,14,Missed,1,,,0,h,MISS Milton 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,70
+0022300270,102,PT03M12.00S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,74
+0022300270,103,PT03M04.00S,1,1610612750,MIN,1629003,Milton,S. Milton,87,237,25,Missed,1,,,0,h,MISS Milton 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,75
+0022300270,107,PT02M46.00S,1,1610612750,MIN,1629003,Milton,S. Milton,-1,15,2,Made,1,14,19,33,h,Milton 2' Running Layup (2 PTS) (Alexander-Walker 3 AST),Made Shot,Running Layup Shot,1,2,79
+0022300270,123,PT01M50.00S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton STEAL (1 STL),,,1,0,93
+0022300270,196,PT08M23.00S,2,1610612750,MIN,1629003,Milton,S. Milton,113,222,25,Missed,1,,,0,h,MISS Milton 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,144
+0022300270,205,PT07M47.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,SUB: Nix FOR Milton,Substitution,,0,0,151
+0022300270,458,PT02M21.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,MISS Milton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,335
+0022300270,460,PT02M21.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,77,59,136,h,Milton Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,337
+0022300270,461,PT02M05.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton STEAL (2 STL),,,1,0,339
+0022300270,496,PT11M24.00S,4,1610612750,MIN,1629003,Milton,S. Milton,-13,10,2,Made,1,86,66,152,h,Milton 2' Running Layup (5 PTS),Made Shot,Running Layup Shot,1,2,361
+0022300270,541,PT07M26.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,393
+0022300270,554,PT06M40.00S,4,1610612750,MIN,1629003,Milton,S. Milton,-9,11,1,Missed,1,,,0,h,MISS Milton 1' Running Layup,Missed Shot,Running Layup Shot,1,2,402
+0022300270,566,PT05M27.00S,4,1610612750,MIN,1629003,Milton,S. Milton,-138,77,16,Missed,1,,,0,h,MISS Milton 16' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,413
+0022300270,575,PT04M57.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,SUB: Towns FOR Milton,Substitution,,0,0,420
+0022300281,86,PT04M04.00S,1,1610612750,MIN,1629003,Milton,S. Milton,-12,59,6,Missed,1,,,0,v,MISS Milton 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,62
+0022300281,130,PT00M31.00S,1,1610612750,MIN,1629003,Milton,S. Milton,47,-1,5,Made,1,21,30,51,v,Milton 5' Floating Jump Shot (2 PTS) (Reid 1 AST),Made Shot,Floating Jump shot,1,2,94
+0022300281,145,PT11M51.00S,2,1610612750,MIN,1629003,Milton,S. Milton,-29,16,3,Missed,1,,,0,v,MISS Milton 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,103
+0022300281,234,PT04M38.00S,2,1610612750,MIN,1629003,Milton,S. Milton,-127,-2,13,Missed,1,,,0,v,MISS Milton 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,166
+0022300281,236,PT04M23.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton STEAL (1 STL),,,1,0,169
+0022300281,238,PT04M19.00S,2,1610612750,MIN,1629003,Milton,S. Milton,5,15,2,Missed,1,,,0,v,MISS Milton 2' Running Layup,Missed Shot,Running Layup Shot,1,2,170
+0022300281,249,PT03M55.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Alexander-Walker FOR Milton,Substitution,,0,0,179
+0022300281,295,PT00M51.70S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton S.FOUL (P1.PN) (M.Kogut),Foul,Shooting,0,0,208
+0022300281,301,PT00M33.40S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,59,59,118,v,Milton Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,212
+0022300281,304,PT00M33.40S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,59,60,119,v,Milton Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,214
+0022300281,399,PT04M31.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,284
+0022300281,400,PT04M09.00S,3,1610612750,MIN,1629003,Milton,S. Milton,241,16,24,Missed,1,,,0,v,MISS Milton 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,285
+0022300281,431,PT01M18.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton S.FOUL (P2.T1) (J.DeRosa),Foul,Shooting,1,0,308
+0022300281,455,PT00M00.00S,3,1610612750,MIN,1629003,Milton,S. Milton,127,326,35,Missed,1,,,0,v,MISS Milton 35' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,327
+0022300281,468,PT11M22.00S,4,1610612750,MIN,1629003,Milton,S. Milton,-1,4,0,Made,1,90,90,180,v,Milton Driving Finger Roll Layup (6 PTS) (Towns 4 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,332
+0022300281,494,PT09M25.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Conley FOR Milton,Substitution,,0,0,355
+0022300301,111,PT03M51.00S,1,1610612750,MIN,1629003,Milton,S. Milton,6,111,11,Made,1,16,19,35,v,Milton 11' Driving Floating Jump Shot (2 PTS) (Reid 1 AST),Made Shot,Driving Floating Jump Shot,1,2,83
+0022300301,115,PT03M13.00S,1,1610612750,MIN,1629003,Milton,S. Milton,48,84,10,Missed,1,,,0,v,MISS Milton 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,85
+0022300301,117,PT03M09.00S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,87
+0022300301,177,PT03M08.00S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,88
+0022300301,130,PT02M21.00S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,21,22,43,v,Milton Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,96
+0022300301,133,PT02M21.00S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,21,23,44,v,Milton Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,98
+0022300301,138,PT01M54.00S,1,1610612750,MIN,1629003,Milton,S. Milton,-11,250,25,Missed,1,,,0,v,MISS Milton 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,102
+0022300301,152,PT01M00.00S,1,1610612750,MIN,1629003,Milton,S. Milton,18,0,2,Made,1,27,27,54,v,Milton 2' Driving Reverse Layup (6 PTS),Made Shot,Driving Reverse Layup Shot,1,2,115
+0022300301,153,PT00M51.00S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton S.FOUL (P1.PN) (N.Buchert),Foul,Shooting,1,0,116
+0022300301,213,PT08M50.00S,2,1610612750,MIN,1629003,Milton,S. Milton,-64,145,16,Missed,1,,,0,v,MISS Milton 16' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,153
+0022300301,217,PT08M32.00S,2,1610612750,MIN,1629003,Milton,S. Milton,-15,4,2,Made,1,36,40,76,v,Milton 2' Running Layup (8 PTS) (Brown Jr. 2 AST),Made Shot,Running Layup Shot,1,2,157
+0022300301,229,PT07M43.00S,2,1610612750,MIN,1629003,Milton,S. Milton,-20,11,2,Missed,1,,,0,v,MISS Milton 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,166
+0022300301,253,PT05M56.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Conley FOR Milton,Substitution,,0,0,187
+0022300301,453,PT04M20.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton S.FOUL (P2.PN) (M.Lindsay),Foul,Shooting,1,0,327
+0022300301,471,PT03M28.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Timberwolves T.Foul (Def. 3 Sec Milton ) (M.Lindsay),Foul,Defense 3 Second,1,0,339
+0022300301,485,PT02M29.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,81,74,155,v,Milton Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,351
+0022300301,488,PT02M29.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,81,75,156,v,Milton Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,353
+0022300301,504,PT01M28.00S,3,1610612750,MIN,1629003,Milton,S. Milton,92,104,14,Made,1,85,80,165,v,Milton 14' Pullup Jump Shot (12 PTS) (McLaughlin 1 AST),Made Shot,Pullup Jump shot,1,2,365
+0022300301,506,PT01M14.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton S.FOUL (P3.PN) (N.Buchert),Foul,Shooting,1,0,366
+0022300301,510,PT00M57.90S,3,1610612750,MIN,1629003,Milton,S. Milton,2,109,11,Missed,1,,,0,v,MISS Milton 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,369
+0022300301,547,PT10M14.00S,4,1610612750,MIN,1629003,Milton,S. Milton,-85,91,12,Missed,1,,,0,v,MISS Milton 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,391
+0022300301,557,PT09M48.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton S.FOUL (P4.T1) (N.Buchert),Foul,Shooting,1,0,401
+0022300301,579,PT09M06.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Brown Jr. FOR Milton,Substitution,,0,0,416
+0022300321,667,PT01M17.00S,4,1610612750,MIN,1629003,Milton,S. Milton,-118,141,18,Made,1,97,116,213,v,Milton 18' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,476
+0022300338,598,PT02M49.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h, ,Jump Ball,,0,0,423
+0022300338,604,PT02M32.00S,4,1610612750,MIN,1629003,Milton,S. Milton,159,195,25,Missed,1,,,0,h,MISS Milton 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,425
+0022300338,619,PT01M12.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton P.FOUL (P1.PN) (J.Williams),Foul,Personal,1,0,437
+0022300338,630,PT00M17.50S,4,1610612750,MIN,1629003,Milton,S. Milton,-55,50,7,Missed,1,,,0,h,MISS Milton 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,446
+0022300367,246,PT05M30.00S,2,1610612750,MIN,1629003,Milton,S. Milton,-77,6,8,Missed,1,,,0,v,MISS Milton 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,183
+0022300367,260,PT04M06.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton P.FOUL (P1.T3) (R.Mott),Foul,Personal,1,0,194
+0022300367,272,PT03M23.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Conley FOR Milton,Substitution,,0,0,203
+0022300367,517,PT09M12.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton P.FOUL (P2.T1) (J.Goble),Foul,Personal,1,0,371
+0022300367,538,PT07M09.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton Step Out of Bounds Turnover (P1.T15),Turnover,Step Out of Bounds Turnover,1,0,386
+0022300367,539,PT07M09.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Gobert FOR Milton,Substitution,,0,0,387
+0022300367,640,PT01M42.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,121,108,229,v,Milton Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,460
+0022300367,645,PT01M42.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,121,109,230,v,Milton Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,463
+0022300367,650,PT01M24.00S,4,1610612750,MIN,1629003,Milton,S. Milton,-7,-4,1,Missed,1,,,0,v,MISS Milton 1' Running Layup,Missed Shot,Running Layup Shot,1,2,466
+0022300400,190,PT09M36.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,136
+0022300400,191,PT09M31.00S,2,1610612750,MIN,1629003,Milton,S. Milton,-47,29,6,Missed,1,,,0,v,MISS Milton 6' Running Jump Shot,Missed Shot,Running Jump Shot,1,2,137
+0022300400,209,PT08M21.00S,2,1610612750,MIN,1629003,Milton,S. Milton,-228,-3,0,Made,1,30,33,63,v,Milton 3PT Jump Shot (3 PTS) (Conley 4 AST),Made Shot,Jump Shot,1,3,150
+0022300400,252,PT06M08.00S,2,1610612750,MIN,1629003,Milton,S. Milton,18,16,2,Made,1,34,41,75,v,Milton 2' Driving Reverse Layup (5 PTS) (Edwards 4 AST),Made Shot,Driving Reverse Layup Shot,1,2,180
+0022300400,255,PT05M39.00S,2,1610612750,MIN,1629003,Milton,S. Milton,-154,210,26,Missed,1,,,0,v,MISS Milton 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,182
+0022300400,274,PT04M53.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: McDaniels FOR Milton,Substitution,,0,0,194
+0022300400,491,PT00M45.30S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,351
+0022300471,646,PT00M51.90S,4,1610612750,MIN,1629003,Milton,S. Milton,-233,16,0,Made,1,102,115,217,h,Milton 3PT Jump Shot (3 PTS) (Reid 2 AST),Made Shot,Jump Shot,1,3,449
+0022300471,658,PT00M11.00S,4,1610612750,MIN,1629003,Milton,S. Milton,6,15,2,Made,1,106,117,223,h,Milton 2' Cutting Layup Shot (5 PTS) (Brown Jr. 1 AST),Made Shot,Cutting Layup Shot,1,2,458
+0022300485,603,PT02M27.00S,4,1610612750,MIN,1629003,Milton,S. Milton,-142,231,27,Missed,1,,,0,v,MISS Milton 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,438
+0022300485,608,PT02M01.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton S.FOUL (P1.T4) (L.Wood),Foul,Shooting,1,0,443
+0022300485,638,PT00M32.60S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0,468
+0022300513,637,PT02M15.00S,4,1610612750,MIN,1629003,Milton,S. Milton,-53,24,6,Made,1,86,111,197,v,Milton 6' Driving Floating Bank Jump Shot (2 PTS) (Brown Jr. 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,464
+0022300513,655,PT01M11.00S,4,1610612750,MIN,1629003,Milton,S. Milton,4,119,12,Made,1,87,113,200,v,Milton 12' Floating Jump Shot (4 PTS) (McLaughlin 5 AST),Made Shot,Floating Jump shot,1,2,479
+0022300517,348,PT06M41.00S,3,1610612750,MIN,1629003,Milton,S. Milton,40,7,4,Missed,1,,,0,v,MISS Milton 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,255
+0022300517,366,PT05M02.00S,3,1610612750,MIN,1629003,Milton,S. Milton,21,4,2,Made,1,73,73,146,v,Milton 2' Cutting Layup Shot (2 PTS) (Edwards 1 AST),Made Shot,Cutting Layup Shot,1,2,269
+0022300517,370,PT05M02.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,MISS Milton Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,271
+0022300517,378,PT03M34.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton BLOCK (1 BLK),,,1,2,278
+0022300517,380,PT03M31.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,279
+0022300517,432,PT00M19.70S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,319
+0022300538,527,PT09M28.00S,4,1610612750,MIN,1629003,Milton,S. Milton,7,12,1,Made,1,96,60,156,h,Milton 1' Running Reverse Layup (2 PTS) (McLaughlin 5 AST),Made Shot,Running Reverse Layup Shot,1,2,384
+0022300538,542,PT09M17.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton S.FOUL (P1.T1) (N.Sago),Foul,Shooting,1,0,392
+0022300538,585,PT07M01.00S,4,1610612750,MIN,1629003,Milton,S. Milton,36,80,9,Made,1,101,71,172,h,Milton 9' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,423
+0022300538,604,PT06M08.00S,4,1610612750,MIN,1629003,Milton,S. Milton,-13,116,12,Missed,1,,,0,h,MISS Milton 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,437
+0022300538,624,PT04M34.00S,4,1610612750,MIN,1629003,Milton,S. Milton,-9,16,2,Made,1,109,76,185,h,Milton 2' Cutting Layup Shot (6 PTS) (Brown Jr. 2 AST),Made Shot,Cutting Layup Shot,1,2,452
+0022300538,657,PT01M37.00S,4,1610612750,MIN,1629003,Milton,S. Milton,-21,31,4,Missed,1,,,0,h,MISS Milton 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,475
+0022300610,203,PT08M11.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,137
+0022300610,204,PT08M01.00S,2,1610612750,MIN,1629003,Milton,S. Milton,20,65,7,Made,1,43,42,85,h,Milton 7' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,138
+0022300610,222,PT05M46.00S,2,1610612750,MIN,1629003,Milton,S. Milton,-7,259,26,Missed,1,,,0,h,MISS Milton 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,150
+0022300610,268,PT02M22.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton STEAL (1 STL),,,1,0,183
+0022300610,473,PT00M28.90S,3,1610612750,MIN,1629003,Milton,S. Milton,16,6,2,Made,1,107,89,196,h,Milton 2' Running Layup (4 PTS) (Anderson 6 AST),Made Shot,Running Layup Shot,1,2,328
+0022300610,515,PT09M39.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton P.FOUL (P1.T1) (S.Wall),Foul,Personal,1,0,351
+0022300610,530,PT08M16.00S,4,1610612750,MIN,1629003,Milton,S. Milton,-20,17,3,Missed,1,,,0,h,MISS Milton 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,363
+0022300610,534,PT07M51.00S,4,1610612750,MIN,1629003,Milton,S. Milton,-228,34,0,Missed,1,,,0,h,MISS Milton 3PT Jump Shot,Missed Shot,Jump Shot,1,3,367
+0022300610,540,PT07M20.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,SUB: Edwards FOR Milton,Substitution,,0,0,371
+0022300620,176,PT11M22.00S,2,1610612750,MIN,1629003,Milton,S. Milton,-92,30,10,Missed,1,,,0,v,MISS Milton 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,132
+0022300620,179,PT11M07.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton STEAL (1 STL),,,1,0,135
+0022300620,205,PT08M30.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton BLOCK (1 BLK),,,1,2,155
+0022300620,208,PT08M23.00S,2,1610612750,MIN,1629003,Milton,S. Milton,-239,-11,24,Missed,1,,,0,v,MISS Milton 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,157
+0022300620,218,PT07M29.00S,2,1610612750,MIN,1629003,Milton,S. Milton,-42,103,11,Missed,1,,,0,v,MISS Milton 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,166
+0022300620,219,PT07M27.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,167
+0022300620,300,PT07M27.00S,2,1610612750,MIN,1629003,Milton,S. Milton,10,20,2,Missed,1,,,0,v,MISS Milton 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,168
+0022300620,277,PT05M26.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton S.FOUL (P1.T1) (J.Goble),Foul,Shooting,1,0,205
+0022300620,287,PT04M45.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Towns FOR Milton,Substitution,,0,0,214
+0022300620,496,PT02M38.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,353
+0022300620,524,PT00M34.70S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,373
+0022300620,525,PT00M34.00S,3,1610612750,MIN,1629003,Milton,S. Milton,-6,32,3,Made,1,78,88,166,v,Milton 3' Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,374
+0022300620,630,PT05M08.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton Traveling Turnover (P1.T6),Turnover,Traveling,1,0,446
+0022300620,639,PT04M29.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: McDaniels FOR Milton,Substitution,,0,0,451
+0022300649,130,PT02M40.00S,1,1610612750,MIN,1629003,Milton,S. Milton,237,-6,24,Made,1,20,29,49,v,Milton 24' 3PT Jump Shot (3 PTS) (Edwards 4 AST),Made Shot,Jump Shot,1,3,95
+0022300649,140,PT02M21.00S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton S.FOUL (P1.T3) (J.Schroeder),Foul,Shooting,1,0,101
+0022300649,207,PT10M01.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,147
+0022300649,212,PT09M13.00S,2,1610612750,MIN,1629003,Milton,S. Milton,-47,82,9,Made,1,30,40,70,v,Milton 9' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,2,152
+0022300649,236,PT08M00.00S,2,1610612750,MIN,1629003,Milton,S. Milton,-80,3,8,Missed,1,,,0,v,MISS Milton 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,167
+0022300649,239,PT07M48.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,170
+0022300649,253,PT06M25.00S,2,1610612750,MIN,1629003,Milton,S. Milton,13,15,2,Made,1,34,47,81,v,Milton 2' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,179
+0022300649,264,PT05M30.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Edwards FOR Milton,Substitution,,0,0,187
+0022300649,458,PT00M30.70S,3,1610612750,MIN,1629003,Milton,S. Milton,-29,5,3,Missed,1,,,0,v,MISS Milton 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,315
+0022300649,519,PT08M54.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Edwards FOR Milton,Substitution,,0,0,353
+0022300680,609,PT05M00.00S,4,1610612750,MIN,1629003,Milton,S. Milton,87,58,10,Missed,1,,,0,h,MISS Milton 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,429
+0022300680,612,PT04M54.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton S.FOUL (P1.T4) (M.Ervin),Foul,Shooting,1,0,432
+0022300680,618,PT04M35.00S,4,1610612750,MIN,1629003,Milton,S. Milton,-6,92,9,Made,1,104,78,182,h,Milton 9' Driving Floating Jump Shot (2 PTS) (McLaughlin 3 AST),Made Shot,Driving Floating Jump Shot,1,2,437
+0022300680,626,PT03M44.00S,4,1610612750,MIN,1629003,Milton,S. Milton,4,21,2,Made,1,106,78,184,h,Milton 2' Running Layup (4 PTS) (McLaughlin 4 AST),Made Shot,Running Layup Shot,1,2,444
+0022300709,700,PT03M22.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,515
+0022300709,701,PT03M01.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,119,12,Missed,1,,,0,h,MISS Milton 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,516
+0022300709,725,PT01M17.00S,4,1610612750,MIN,1629003,Milton,S. Milton,22,22,3,Missed,1,,,0,h,MISS Milton 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,534
+0022300709,738,PT00M21.30S,4,1610612750,MIN,1629003,Milton,S. Milton,-125,9,13,Missed,1,,,0,h,MISS Milton 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,544
+0022300709,741,PT00M08.40S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,547
+0022300749,133,PT02M02.00S,1,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,97
+0022300749,135,PT02M00.00S,1,1610612765,DET,1629003,Milton,S. Milton,-9,34,4,Missed,1,,,0,v,MISS Milton 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,98
+0022300749,162,PT11M26.00S,2,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton STEAL (1 STL),,,1,0,121
+0022300749,164,PT11M20.00S,2,1610612765,DET,1629003,Milton,S. Milton,-82,125,15,Made,1,31,32,63,v,Milton 15' Driving Floating Jump Shot (2 PTS) (Brown Jr. 1 AST),Made Shot,Driving Floating Jump Shot,1,2,122
+0022300749,189,PT09M00.00S,2,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,140
+0022300749,190,PT08M53.00S,2,1610612765,DET,1629003,Milton,S. Milton,33,103,11,Missed,1,,,0,v,MISS Milton 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,141
+0022300749,211,PT07M42.00S,2,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Cunningham FOR Milton,Substitution,,0,0,154
+0022300749,451,PT00M19.00S,3,1610612765,DET,1629003,Milton,S. Milton,-228,53,0,Missed,1,,,0,v,MISS Milton 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,334
+0022300749,455,PT00M00.00S,3,1610612765,DET,1629003,Milton,S. Milton,20,17,3,Made,1,76,81,157,v,Milton 3' Cutting Layup Shot (4 PTS) (Fontecchio 1 AST),Made Shot,Cutting Layup Shot,1,2,338
+0022300749,467,PT11M29.00S,4,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,345
+0022300749,500,PT08M50.00S,4,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton S.FOUL (P1.T2) (P.Fraher),Foul,Shooting,1,0,368
+0022300749,510,PT08M31.00S,4,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Ivey FOR Milton,Substitution,,0,0,375
+0022300776,186,PT09M55.00S,2,1610612765,DET,1629003,Milton,S. Milton,58,122,14,Made,1,41,30,71,v,Milton 14' Pullup Jump Shot (2 PTS) (Sasser 4 AST),Made Shot,Pullup Jump shot,1,2,134
+0022300776,201,PT08M52.00S,2,1610612765,DET,1629003,Milton,S. Milton,-175,201,27,Missed,1,,,0,v,MISS Milton 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,144
+0022300776,202,PT08M50.00S,2,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,145
+0022300776,226,PT07M24.00S,2,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,164
+0022300776,243,PT06M18.00S,2,1610612765,DET,1629003,Milton,S. Milton,-18,24,3,Missed,1,,,0,v,MISS Milton 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,176
+0022300776,254,PT05M59.00S,2,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Cunningham FOR Milton,Substitution,,0,0,186
+0022300776,491,PT02M08.00S,3,1610612765,DET,1629003,Milton,S. Milton,5,15,2,Made,1,92,79,171,v,Milton 2' Cutting Layup Shot (4 PTS) (Brown Jr. 2 AST),Made Shot,Cutting Layup Shot,1,2,360
+0022300776,505,PT00M56.70S,3,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,372
+0022300776,511,PT00M36.60S,3,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,378
+0022300776,525,PT11M27.00S,4,1610612765,DET,1629003,Milton,S. Milton,-6,133,13,Missed,1,,,0,v,MISS Milton 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,390
+0022300776,526,PT11M22.00S,4,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,391
+0022300776,527,PT11M22.00S,4,1610612765,DET,1629003,Milton,S. Milton,0,0,0,Made,1,99,81,180,v,Milton Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,392
+0022300776,555,PT09M04.00S,4,1610612765,DET,1629003,Milton,S. Milton,4,136,14,Made,1,105,88,193,v,Milton 14' Turnaround Fadeaway (8 PTS),Made Shot,Turnaround Fadeaway shot,1,2,413
+0022300776,564,PT08M25.00S,4,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,419
+0022300776,585,PT07M00.00S,4,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,434
+0022300776,586,PT06M54.00S,4,1610612765,DET,1629003,Milton,S. Milton,-55,147,16,Missed,1,,,0,v,MISS Milton 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,435
+0022300776,606,PT05M59.00S,4,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton S.FOUL (P1.T2) (B.Nansel),Foul,Shooting,1,0,447
+0022300776,630,PT04M38.00S,4,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Duren FOR Milton,Substitution,,0,0,463
+0022300776,676,PT01M55.00S,4,1610612765,DET,1629003,Milton,S. Milton,0,50,5,Missed,1,,,0,v,MISS Milton 5' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,494
+0022300787,135,PT04M11.00S,1,1610612765,DET,1629003,Milton,S. Milton,127,225,26,Made,1,23,19,42,v,Milton 26' 3PT Running Pull-Up Jump Shot (3 PTS) (Cunningham 3 AST),Made Shot,Running Pull-Up Jump Shot,1,3,102
+0022300787,157,PT03M10.00S,1,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,117
+0022300787,172,PT02M18.00S,1,1610612765,DET,1629003,Milton,S. Milton,-27,18,3,Missed,1,,,0,v,MISS Milton 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,129
+0022300787,195,PT00M25.30S,1,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,148
+0022300787,246,PT09M45.00S,2,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,177
+0022300787,247,PT09M44.00S,2,1610612765,DET,1629003,Milton,S. Milton,-9,172,17,Missed,1,,,0,v,MISS Milton 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,178
+0022300787,252,PT09M31.00S,2,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,183
+0022300787,280,PT09M30.00S,2,1610612765,DET,1629003,Milton,S. Milton,-7,5,1,Missed,1,,,0,v,MISS Milton 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,184
+0022300787,282,PT09M29.00S,2,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,185
+0022300787,260,PT09M20.00S,2,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Thompson FOR Milton,Substitution,,0,0,192
+0022300787,388,PT00M57.10S,2,1610612765,DET,1629003,Milton,S. Milton,-70,251,26,Missed,1,,,0,v,MISS Milton 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,280
+0022300787,404,PT00M27.60S,2,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,291
+0022300787,635,PT10M32.00S,4,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,459
+0022300787,649,PT09M36.00S,4,1610612765,DET,1629003,Milton,S. Milton,-195,79,21,Made,1,99,74,173,v,Milton 21' Jump Shot (5 PTS) (Sasser 3 AST),Made Shot,Jump Shot,1,2,469
+0022300787,653,PT09M08.00S,4,1610612765,DET,1629003,Milton,S. Milton,-194,159,25,Made,1,99,77,176,v,Milton 25' 3PT Jump Shot (8 PTS) (Muscala 1 AST),Made Shot,Jump Shot,1,3,472
+0022300787,659,PT09M08.00S,4,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,99,78,177,v,Milton Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,475
+0022300787,680,PT07M22.00S,4,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,494
+0022300787,683,PT07M19.00S,4,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,103,79,182,v,Milton Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,496
+0022300787,694,PT07M19.00S,4,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,MISS Milton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,502
+0022300787,737,PT04M02.00S,4,1610612765,DET,1629003,Milton,S. Milton,-234,-17,0,Made,1,111,87,198,v,Milton 3PT Jump Shot (13 PTS) (Sasser 4 AST),Made Shot,Jump Shot,1,3,536
+0022300787,740,PT03M44.00S,4,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,538
+0022300787,742,PT03M24.00S,4,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton Bad Pass Turnover (P2.T19),Turnover,Bad Pass,1,0,539
+0022300787,744,PT03M21.00S,4,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton STEAL (1 STL),,,1,0,542
+0022300787,751,PT03M00.00S,4,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton BLOCK (1 BLK),,,1,2,548
+0022300787,753,PT02M57.00S,4,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,549
+0022300787,754,PT02M51.00S,4,1610612765,DET,1629003,Milton,S. Milton,-210,125,24,Missed,1,,,0,v,MISS Milton 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,550
+0022300787,784,PT00M45.60S,4,1610612765,DET,1629003,Milton,S. Milton,229,22,0,Missed,1,,,0,v,MISS Milton 3PT Jump Shot,Missed Shot,Jump Shot,1,3,572
+0022300793,115,PT03M07.00S,1,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton S.FOUL (P1.T4) (E.Dalen),Foul,Shooting,1,0,83
+0022300793,118,PT02M51.00S,1,1610612765,DET,1629003,Milton,S. Milton,234,8,0,Missed,1,,,0,v,MISS Milton 3PT Jump Shot,Missed Shot,Jump Shot,1,3,85
+0022300793,181,PT10M36.00S,2,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Cunningham FOR Milton,Substitution,,0,0,127
+0022300793,542,PT10M59.00S,4,1610612765,DET,1629003,Milton,S. Milton,-21,11,2,Made,1,102,91,193,v,Milton 2' Running Finger Roll Layup (2 PTS) (Sasser 2 AST),Made Shot,Running Finger Roll Layup Shot,1,2,395
+0022300793,592,PT07M08.00S,4,1610612765,DET,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Fontecchio FOR Milton,Substitution,,0,0,431
+0022300939,532,PT03M37.00S,4,1610612752,NYK,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton S.FOUL (P1.T4) (K.Cutler),Foul,Shooting,1,0,384
+0022300939,541,PT03M18.00S,4,1610612752,NYK,1629003,Milton,S. Milton,0,0,0,,0,103,71,174,h,Milton Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,391
+0022300939,544,PT03M18.00S,4,1610612752,NYK,1629003,Milton,S. Milton,0,0,0,,0,104,71,175,h,Milton Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,393
+0022300939,559,PT00M58.90S,4,1610612752,NYK,1629003,Milton,S. Milton,-10,42,4,Missed,1,,,0,h,MISS Milton 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,407
+0022300939,568,PT00M25.40S,4,1610612752,NYK,1629003,Milton,S. Milton,88,271,28,Missed,1,,,0,h,MISS Milton 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,415
+0022301035,593,PT04M17.00S,4,1610612752,NYK,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton S.FOUL (P1.PN) (S.Twardoski),Foul,Shooting,1,0,436
+0022301035,612,PT03M05.00S,4,1610612752,NYK,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton S.FOUL (P2.PN) (M.Lindsay),Foul,Shooting,1,0,449
+0022301053,499,PT09M23.00S,4,1610612752,NYK,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton S.FOUL (P1.T2) (M.Kogut),Foul,Shooting,1,0,355
+0022301053,540,PT06M23.00S,4,1610612752,NYK,1629003,Milton,S. Milton,-25,269,27,Made,1,91,133,224,v,Milton 27' 3PT Jump Shot (3 PTS) (Achiuwa 1 AST),Made Shot,Jump Shot,1,3,385
+0022301053,543,PT05M46.00S,4,1610612752,NYK,1629003,Milton,S. Milton,0,1,0,Made,1,91,135,226,v,Milton Driving Reverse Layup (5 PTS) (Achiuwa 2 AST),Made Shot,Driving Reverse Layup Shot,1,2,387
+0022301053,548,PT05M14.00S,4,1610612752,NYK,1629003,Milton,S. Milton,-112,-8,11,Missed,1,,,0,v,MISS Milton 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,389
+0022301053,553,PT05M02.00S,4,1610612752,NYK,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,394
+0022301053,569,PT03M59.00S,4,1610612752,NYK,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton AWAY.FROM.PLAY.FOUL (P2.PN) (Z.Zarba),Foul,Away From Play,1,0,405
+0022301053,573,PT03M44.00S,4,1610612752,NYK,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,408
+0022301053,579,PT02M51.00S,4,1610612752,NYK,1629003,Milton,S. Milton,-61,28,7,Missed,1,,,0,v,MISS Milton 7' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,414
+0022301053,592,PT02M03.00S,4,1610612752,NYK,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton S.FOUL (P3.PN) (Z.Zarba),Foul,Shooting,1,0,423
+0022301053,596,PT01M47.00S,4,1610612752,NYK,1629003,Milton,S. Milton,5,7,1,Made,1,101,140,241,v,Milton 1' Driving Finger Roll Layup (7 PTS) (Jeffries 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,426
+0022301053,609,PT00M46.20S,4,1610612752,NYK,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,436
+0022301070,179,PT09M20.00S,2,1610612752,NYK,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,122
+0022301070,180,PT09M14.00S,2,1610612752,NYK,1629003,Milton,S. Milton,-2,174,17,Missed,1,,,0,v,MISS Milton 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,123
+0022301070,200,PT08M00.00S,2,1610612752,NYK,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,137
+0022301070,204,PT07M47.00S,2,1610612752,NYK,1629003,Milton,S. Milton,-7,1,1,Made,1,50,31,81,v,Milton 1' Cutting Layup Shot (2 PTS) (Brunson 3 AST),Made Shot,Cutting Layup Shot,1,2,140
+0022301070,240,PT05M41.00S,2,1610612752,NYK,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,164
+0022301070,242,PT05M22.00S,2,1610612752,NYK,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton STEAL (1 STL),,,1,0,167
+0022301070,252,PT04M28.00S,2,1610612752,NYK,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton S.FOUL (P1.T4) (J.Conley),Foul,Shooting,1,0,173
+0022301070,255,PT04M28.00S,2,1610612752,NYK,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: DiVincenzo FOR Milton,Substitution,,0,0,175
+0022301210,203,PT09M47.00S,2,1610612750,MIN,1629003,Milton,S. Milton,-25,16,3,Missed,1,,,0,h,MISS Milton 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,150
+0022301210,232,PT07M39.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,168
+0022301210,262,PT05M11.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,SUB: Brown Jr. FOR Milton,Substitution,,0,0,190
+0022301210,475,PT00M45.50S,3,1610612750,MIN,1629003,Milton,S. Milton,-170,193,26,Missed,1,,,0,h,MISS Milton 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,353
+0022301210,524,PT09M16.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,h,SUB: Conley FOR Milton,Substitution,,0,0,392
+0022301221,135,PT02M07.00S,1,1610612750,MIN,1629003,Milton,S. Milton,44,128,14,Made,1,24,28,52,v,Milton 14' Driving Floating Jump Shot (2 PTS) (Brown Jr. 1 AST),Made Shot,Driving Floating Jump Shot,1,2,99
+0022301221,149,PT00M45.70S,1,1610612750,MIN,1629003,Milton,S. Milton,56,257,26,Made,1,24,33,57,v,Milton 26' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,3,110
+0022301221,157,PT00M04.70S,1,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,116
+0022301221,186,PT10M24.00S,2,1610612750,MIN,1629003,Milton,S. Milton,-125,226,26,Made,1,33,38,71,v,Milton 26' 3PT Step Back Jump Shot (8 PTS) (Reid 1 AST),Made Shot,Step Back Jump shot,1,3,138
+0022301221,265,PT04M47.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,42,49,91,v,Milton Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,197
+0022301221,268,PT04M47.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,42,50,92,v,Milton Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,199
+0022301221,272,PT04M38.00S,2,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Anderson FOR Milton,Substitution,,0,0,202
+0022301221,443,PT03M51.00S,3,1610612750,MIN,1629003,Milton,S. Milton,-118,219,25,Missed,1,,,0,v,MISS Milton 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,319
+0022301221,454,PT03M21.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,328
+0022301221,466,PT02M33.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton S.FOUL (P1.T4) (C.Washington),Foul,Shooting,1,0,337
+0022301221,470,PT02M16.00S,3,1610612750,MIN,1629003,Milton,S. Milton,-169,178,25,Made,1,73,91,164,v,Milton 25' 3PT Jump Shot (13 PTS) (Reid 2 AST),Made Shot,Jump Shot,1,3,340
+0022301221,480,PT01M34.00S,3,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,347
+0022301221,523,PT10M37.00S,4,1610612750,MIN,1629003,Milton,S. Milton,-104,232,25,Missed,1,,,0,v,MISS Milton 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,377
+0022301221,548,PT08M44.00S,4,1610612750,MIN,1629003,Milton,S. Milton,-23,20,3,Missed,1,,,0,v,MISS Milton 3' Running Layup,Missed Shot,Running Layup Shot,1,2,396
+0022301221,557,PT08M31.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,SUB: Towns FOR Milton,Substitution,,0,0,404
+0022301221,627,PT03M11.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,95,10,Made,1,94,119,213,v,Milton 10' Fadeaway Jumper (15 PTS) (Garza 1 AST),Made Shot,Fadeaway Jump Shot,1,2,453
+0022301221,630,PT02M49.00S,4,1610612750,MIN,1629003,Milton,S. Milton,0,0,0,,0,,,0,v,Milton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,455
+0022301221,650,PT00M27.50S,4,1610612750,MIN,1629003,Milton,S. Milton,7,8,1,Made,1,101,127,228,v,Milton 1' Driving Finger Roll Layup (17 PTS) (Anderson 5 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,471

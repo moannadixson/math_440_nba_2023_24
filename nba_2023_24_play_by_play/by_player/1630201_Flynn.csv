@@ -1,0 +1,788 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300031,172,PT10M47.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,-2,18,2,Made,1,34,29,63,h,Flynn 2' Running Finger Roll Layup (2 PTS) (Achiuwa 1 AST),Made Shot,Running Finger Roll Layup Shot,1,2,123
+0022300031,179,PT09M56.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,-21,8,2,Missed,1,,,0,h,MISS Flynn 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,129
+0022300031,210,PT07M46.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Schroder FOR Flynn,Substitution,,0,0,150
+0022300031,266,PT04M36.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,6,15,2,Missed,1,,,0,h,MISS Flynn 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,184
+0022300031,278,PT03M26.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn P.FOUL (P1.T2) (N.Green),Foul,Personal,1,0,194
+0022300031,471,PT10M43.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,333
+0022300031,495,PT08M23.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,7,55,6,Missed,1,,,0,h,MISS Flynn 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,350
+0022300031,500,PT08M11.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Traveling Turnover (P1.T12),Turnover,Traveling,1,0,354
+0022300031,503,PT07M38.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,-200,143,25,Made,1,91,92,183,h,Flynn 25' 3PT Jump Shot (5 PTS) (Siakam 4 AST),Made Shot,Jump Shot,1,3,357
+0022300031,516,PT06M24.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Poeltl FOR Flynn,Substitution,,0,0,367
+0022300038,93,PT04M23.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,-228,10,0,Missed,1,,,0,v,MISS Flynn 3PT Jump Shot,Missed Shot,Jump Shot,1,3,72
+0022300038,159,PT11M10.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,120
+0022300038,166,PT10M54.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Dick FOR Flynn,Substitution,,0,0,125
+0022300038,487,PT00M03.70S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,357
+0022300038,505,PT11M39.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,-4,37,4,Missed,1,,,0,v,MISS Flynn 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,368
+0022300038,514,PT10M46.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Bad Pass Turnover (P1.T17),Turnover,Bad Pass,1,0,376
+0022300038,516,PT10M42.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn STEAL (1 STL),,,1,0,379
+0022300038,567,PT06M52.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,416
+0022300038,571,PT06M29.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn S.FOUL (P1.T4) (M.Dagher),Foul,Shooting,1,0,420
+0022300038,575,PT06M13.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,7,144,14,Made,1,112,88,200,v,Flynn 14' Driving Floating Jump Shot (2 PTS) (Achiuwa 4 AST),Made Shot,Driving Floating Jump Shot,1,2,423
+0022300038,592,PT04M31.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,MISS Flynn Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,435
+0022300038,598,PT04M31.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,115,92,207,v,Flynn Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,439
+0022300038,660,PT04M16.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn BLOCK (1 BLK),,,1,2,441
+0022300038,600,PT03M50.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,224,127,26,Made,1,118,95,213,v,Flynn 26' 3PT Jump Shot (6 PTS) (Dick 1 AST),Made Shot,Jump Shot,1,3,444
+0022300038,605,PT03M50.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Temple FOR Flynn,Substitution,,0,0,448
+0022300046,140,PT00M21.80S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,100
+0022300046,189,PT08M36.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,43,24,67,h,Flynn Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,1,0,139
+0022300046,191,PT08M36.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,44,24,68,h,Flynn Free Throw Technical (2 PTS),Free Throw,Free Throw Technical,1,0,141
+0022300046,216,PT06M41.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Anunoby FOR Flynn,Substitution,,0,0,161
+0022300046,434,PT01M07.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Lost Ball Turnover (P1.T11),Turnover,Lost Ball,1,0,320
+0022300046,441,PT00M10.40S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn S.FOUL (P1.T3) (E.Scott),Foul,Shooting,1,0,326
+0022300046,479,PT10M24.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,113,243,27,Missed,1,,,0,h,MISS Flynn 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,352
+0022300046,507,PT09M02.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn STEAL (1 STL),,,1,0,374
+0022300046,509,PT08M56.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,-169,209,27,Missed,1,,,0,h,MISS Flynn 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,375
+0022300046,519,PT08M18.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Schroder FOR Flynn,Substitution,,0,0,383
+0022300054,125,PT02M26.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,164,218,27,Missed,1,,,0,v,MISS Flynn 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,94
+0022300054,220,PT07M18.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Schroder FOR Flynn,Substitution,,0,0,162
+0022300054,464,PT02M30.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn S.FOUL (P1.PN) (M.Boland),Foul,Shooting,1,0,352
+0022300054,480,PT01M17.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,-17,-5,2,Made,1,73,73,146,v,Flynn 2' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,364
+0022300054,483,PT00M50.90S,3,1610612761,TOR,1630201,Flynn,M. Flynn,-230,110,25,Missed,1,,,0,v,MISS Flynn 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,367
+0022300054,531,PT10M53.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,18,-1,2,Missed,1,,,0,v,MISS Flynn 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,391
+0022300054,524,PT10M43.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,-188,190,27,Made,1,78,78,156,v,Flynn 27' 3PT Jump Shot (5 PTS) (Barnes 4 AST),Made Shot,Jump Shot,1,3,394
+0022300054,566,PT07M05.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Schroder FOR Flynn,Substitution,,0,0,422
+0022300069,178,PT11M33.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Offensive Charge Foul (P1) (B.Nansel),Foul,Offensive Charge,1,0,136
+0022300069,180,PT11M33.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,137
+0022300069,196,PT10M42.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn STEAL (1 STL),,,1,0,149
+0022300069,218,PT09M08.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,164
+0022300069,220,PT09M05.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn S.FOUL (P2.T4) (B.Schwab),Foul,Shooting,1,0,166
+0022300069,240,PT08M03.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn P.FOUL (P3.PN) (K.Scott),Foul,Personal,1,0,181
+0022300069,243,PT08M03.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Trent Jr. FOR Flynn,Substitution,,0,0,183
+0022300069,499,PT03M51.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn P.FOUL (P4.T1) (K.Scott),Foul,Personal,1,0,376
+0022300069,506,PT03M04.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,-50,278,28,Made,1,73,66,139,h,Flynn 28' 3PT Jump Shot (3 PTS) (Trent Jr. 2 AST),Made Shot,Jump Shot,1,3,381
+0022300069,524,PT01M35.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,21,2,Missed,1,,,0,h,MISS Flynn 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,394
+0022300069,529,PT00M58.90S,3,1610612761,TOR,1630201,Flynn,M. Flynn,49,34,6,Missed,1,,,0,h,MISS Flynn 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,398
+0022300069,542,PT00M22.10S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Anunoby FOR Flynn,Substitution,,0,0,409
+0022300082,101,PT03M02.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,-143,204,25,Missed,1,,,0,v,MISS Flynn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,75
+0022300082,127,PT01M01.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Anunoby FOR Flynn,Substitution,,0,0,96
+0022300092,137,PT00M35.10S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn STEAL (1 STL),,,1,0,99
+0022300092,139,PT00M33.20S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,1,0,100
+0022300092,161,PT11M26.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,-201,154,25,Made,1,39,27,66,h,Flynn 25' 3PT Jump Shot (3 PTS) (Barnes 2 AST),Made Shot,Jump Shot,1,3,113
+0022300092,168,PT11M02.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,40,29,69,h,Flynn Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,1,0,118
+0022300092,169,PT10M48.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,119
+0022300092,186,PT09M46.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,-20,88,9,Missed,1,,,0,h,MISS Flynn 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,134
+0022300092,214,PT08M20.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Trent Jr. FOR Flynn,Substitution,,0,0,154
+0022300092,442,PT01M26.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn S.FOUL (P1.T3) (M.Boland),Foul,Shooting,1,0,325
+0022300092,449,PT00M41.60S,3,1610612761,TOR,1630201,Flynn,M. Flynn,-120,230,26,Made,1,79,89,168,h,Flynn 26' 3PT Running Pull-Up Jump Shot (7 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,331
+0022300092,451,PT00M13.60S,3,1610612761,TOR,1630201,Flynn,M. Flynn,-20,9,2,Missed,1,,,0,h,MISS Flynn 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,333
+0022300092,473,PT11M13.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Out of Bounds - Bad Pass Turnover Turnover (P3.T12),Turnover,Out of Bounds - Bad Pass Turnover,1,0,347
+0022300092,488,PT09M50.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Schroder FOR Flynn,Substitution,,0,0,359
+0022300105,99,PT03M31.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn STEAL (1 STL),,,1,0,74
+0022300105,145,PT00M29.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,109
+0022300105,146,PT00M19.80S,1,1610612761,TOR,1630201,Flynn,M. Flynn,-31,0,3,Made,1,25,21,46,h,Flynn 3' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,110
+0022300105,155,PT11M48.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,115
+0022300105,189,PT09M10.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Trent Jr. FOR Flynn,Substitution,,0,0,143
+0022300105,442,PT01M28.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,2,0,0,Made,1,72,76,148,h,Flynn Running Layup (4 PTS) (Siakam 2 AST),Made Shot,Running Layup Shot,1,2,337
+0022300105,444,PT01M13.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn P.FOUL (P1.T4) (M.Dagher),Foul,Personal,1,0,338
+0022300105,485,PT10M54.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,241,14,24,Missed,1,,,0,h,MISS Flynn 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,366
+0022300105,495,PT09M52.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,43,8,4,Made,1,78,80,158,h,Flynn 4' Driving Finger Roll Layup (6 PTS) (Barnes 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,375
+0022300105,524,PT07M55.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,81,258,27,Missed,1,,,0,h,MISS Flynn 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,395
+0022300105,532,PT07M38.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Schroder FOR Flynn,Substitution,,0,0,402
+0022300116,105,PT03M40.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,81
+0022300116,114,PT02M31.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,89
+0022300116,146,PT00M38.50S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Step Out of Bounds Turnover (P1.T8),Turnover,Step Out of Bounds Turnover,1,0,113
+0022300116,152,PT00M33.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Anunoby FOR Flynn,Substitution,,0,0,118
+0022300116,186,PT10M33.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,138
+0022300116,191,PT10M04.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,121,261,29,Missed,1,,,0,h,MISS Flynn 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,142
+0022300116,217,PT07M53.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Schroder FOR Flynn,Substitution,,0,0,163
+0022300116,475,PT03M10.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn OFF.Foul (P1) (J.DeRosa),Foul,Offensive,1,0,347
+0022300116,477,PT03M10.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Offensive Foul Turnover (P2.T14),Turnover,Offensive Foul Turnover,1,0,348
+0022300116,536,PT11M29.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn STEAL (1 STL),,,1,0,389
+0022300116,554,PT10M05.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn STEAL (2 STL),,,1,0,403
+0022300116,579,PT08M05.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Poeltl FOR Flynn,Substitution,,0,0,419
+0022300116,643,PT04M11.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn STEAL (3 STL),,,1,0,461
+0022300116,645,PT04M01.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Lost Ball Turnover (P3.T17),Turnover,Lost Ball,1,0,462
+0022300116,664,PT02M35.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,20,85,9,Made,1,126,101,227,h,Flynn 9' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,1,2,473
+0022300116,675,PT01M31.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,114,151,19,Missed,1,,,0,h,MISS Flynn 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,481
+0022300128,140,PT00M58.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,48,96,11,Missed,1,,,0,v,MISS Flynn 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,103
+0022300128,142,PT00M50.30S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn P.FOUL (P1.PN) (M.Lindsay),Foul,Personal,1,0,105
+0022300128,154,PT00M09.40S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Anunoby FOR Flynn,Substitution,,0,0,114
+0022300128,186,PT10M23.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn STEAL (1 STL),,,1,0,131
+0022300128,205,PT09M14.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn STEAL (2 STL),,,1,0,148
+0022300128,207,PT09M11.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,-134,231,27,Made,1,33,35,68,v,Flynn 27' 3PT Running Pull-Up Jump Shot (3 PTS) (Barnes 3 AST),Made Shot,Running Pull-Up Jump Shot,1,3,149
+0022300128,227,PT07M22.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn S.FOUL (P2.T2) (J.Orr),Foul,Shooting,1,0,165
+0022300128,230,PT07M22.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Poeltl FOR Flynn,Substitution,,0,0,167
+0022300128,453,PT02M42.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Lost Ball Turnover (P1.T13),Turnover,Lost Ball,1,0,326
+0022300128,468,PT01M53.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,337
+0022300128,487,PT00M08.60S,3,1610612761,TOR,1630201,Flynn,M. Flynn,-227,-14,0,Missed,1,,,0,v,MISS Flynn 3PT Jump Shot,Missed Shot,Jump Shot,1,3,351
+0022300128,516,PT10M41.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,368
+0022300128,522,PT10M14.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,-229,15,0,Made,1,95,80,175,v,Flynn 3PT Step Back Jump Shot (6 PTS) (Barnes 6 AST),Made Shot,Step Back Jump shot,1,3,373
+0022300128,528,PT09M36.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,378
+0022300128,532,PT09M35.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Schroder FOR Flynn,Substitution,,0,0,381
+0022300128,667,PT00M54.10S,4,1610612761,TOR,1630201,Flynn,M. Flynn,-66,6,7,Missed,1,,,0,v,MISS Flynn 7' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,479
+0022300141,158,PT00M30.60S,1,1610612761,TOR,1630201,Flynn,M. Flynn,-181,179,25,Made,1,26,22,48,v,Flynn 25' 3PT Jump Shot (3 PTS) (Dick 2 AST),Made Shot,Jump Shot,1,3,117
+0022300141,161,PT00M10.40S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,119
+0022300141,175,PT11M17.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,-213,148,26,Missed,1,,,0,v,MISS Flynn 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,127
+0022300141,178,PT11M06.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,130
+0022300141,209,PT08M42.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,126,96,16,Missed,1,,,0,v,MISS Flynn 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,155
+0022300141,210,PT08M39.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,156
+0022300141,219,PT07M55.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Poeltl FOR Flynn,Substitution,,0,0,165
+0022300141,523,PT10M15.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn P.FOUL (P1.T1) (Z.Zarba),Foul,Personal,0,0,381
+0022300141,541,PT09M20.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,92,79,171,v,Flynn Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,393
+0022300141,542,PT09M20.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,92,80,172,v,Flynn Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,394
+0022300141,572,PT07M04.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Schroder FOR Flynn,Substitution,,0,0,413
+0022300168,127,PT01M27.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,98
+0022300168,164,PT11M02.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,125,13,Missed,1,,,0,v,MISS Flynn 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,122
+0022300168,166,PT11M01.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn L.B.FOUL (P1.T1) (J.Reneau),Foul,Loose Ball,1,0,124
+0022300168,169,PT10M42.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,126
+0022300168,191,PT08M28.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,-22,252,25,Missed,1,,,0,v,MISS Flynn 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,145
+0022300168,195,PT08M12.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,149
+0022300168,219,PT06M59.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Poeltl FOR Flynn,Substitution,,0,0,166
+0022300168,494,PT02M39.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,121,230,26,Missed,1,,,0,v,MISS Flynn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,356
+0022300168,531,PT00M34.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,382
+0022300168,544,PT00M05.90S,3,1610612761,TOR,1630201,Flynn,M. Flynn,-170,198,26,Made,1,88,99,187,v,Flynn 26' 3PT Jump Shot (3 PTS) (Siakam 5 AST),Made Shot,Jump Shot,1,3,391
+0022300168,561,PT11M09.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,-192,179,26,Made,1,90,102,192,v,Flynn 26' 3PT Jump Shot (6 PTS) (Anunoby 2 AST),Made Shot,Jump Shot,1,3,401
+0022300168,567,PT10M30.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,93,103,196,v,Flynn Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,404
+0022300168,568,PT10M30.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,93,104,197,v,Flynn Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,405
+0022300168,583,PT09M27.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn S.FOUL (P2.T2) (B.Taylor),Foul,Shooting,1,0,416
+0022300168,602,PT08M18.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Schroder FOR Flynn,Substitution,,0,0,433
+0022300174,140,PT01M22.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,97
+0022300174,157,PT00M16.10S,1,1610612761,TOR,1630201,Flynn,M. Flynn,-98,252,27,Missed,1,,,0,v,MISS Flynn 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,111
+0022300174,173,PT11M02.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,123
+0022300174,181,PT09M45.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,-167,214,27,Made,1,40,29,69,v,Flynn 27' 3PT Jump Shot (3 PTS) (Barnes 2 AST),Made Shot,Jump Shot,1,3,129
+0022300174,215,PT06M51.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Boucher FOR Flynn,Substitution,,0,0,158
+0022300174,488,PT09M25.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,-102,253,27,Missed,1,,,0,v,MISS Flynn 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,353
+0022300174,501,PT08M46.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,11,31,3,Made,1,96,73,169,v,Flynn 3' Driving Layup (5 PTS) (Achiuwa 3 AST),Made Shot,Driving Layup Shot,1,2,361
+0022300174,504,PT08M46.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,MISS Flynn Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,364
+0022300174,546,PT05M31.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,173,200,26,Made,1,106,81,187,v,Flynn 26' 3PT Step Back Jump Shot (8 PTS) (Achiuwa 4 AST),Made Shot,Step Back Jump shot,1,3,394
+0022300174,566,PT03M50.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,-60,26,7,Made,1,113,86,199,v,Flynn 7' Driving Floating Jump Shot (10 PTS) (Young 1 AST),Made Shot,Driving Floating Jump Shot,1,2,407
+0022300174,582,PT02M08.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,-26,34,4,Made,1,115,90,205,v,Flynn 4' Cutting Layup Shot (12 PTS) (Young 2 AST),Made Shot,Cutting Layup Shot,1,2,418
+0022300189,126,PT02M30.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn L.B.FOUL (P1.T3) (B.Forte),Foul,Loose Ball,1,0,88
+0022300189,165,PT11M47.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,211,147,26,Missed,1,,,0,h,MISS Flynn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,116
+0022300189,177,PT09M54.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,28,37,65,h,Flynn Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,1,0,125
+0022300189,206,PT07M38.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,-82,251,26,Missed,1,,,0,h,MISS Flynn 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,150
+0022300189,214,PT07M28.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Schroder FOR Flynn,Substitution,,0,0,158
+0022300189,409,PT04M45.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,302
+0022300189,467,PT01M26.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,232,8,0,Made,1,76,88,164,h,Flynn 3PT Running Jump Shot (4 PTS) (Siakam 6 AST),Made Shot,Running Jump Shot,1,3,346
+0022300189,494,PT00M03.10S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,362
+0022300189,508,PT10M43.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Lost Ball Turnover (P1.T14),Turnover,Lost Ball,1,0,368
+0022300189,511,PT10M27.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,158,205,26,Missed,1,,,0,h,MISS Flynn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,371
+0022300189,519,PT09M29.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,2,0,0,Made,1,88,100,188,h,Flynn Running Finger Roll Layup (6 PTS) (Dick 2 AST),Made Shot,Running Finger Roll Layup Shot,1,2,377
+0022300189,544,PT07M25.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Siakam FOR Flynn,Substitution,,0,0,397
+0022300189,622,PT01M07.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn P.FOUL (P2.T2) (B.Forte),Foul,Personal,1,0,459
+0022300189,639,PT00M01.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn STEAL (1 STL),,,1,0,474
+0022300195,75,PT06M27.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,-188,168,25,Missed,1,,,0,h,MISS Flynn 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,57
+0022300195,88,PT05M33.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,-223,-2,0,Missed,1,,,0,h,MISS Flynn 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,66
+0022300195,111,PT03M41.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,-200,155,25,Missed,1,,,0,h,MISS Flynn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,84
+0022300195,127,PT02M35.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,-114,-11,11,Made,1,16,27,43,h,Flynn 11' Pullup Jump Shot (2 PTS) (Barnes 1 AST),Made Shot,Pullup Jump shot,1,2,96
+0022300195,201,PT09M17.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,54,36,6,Made,1,27,42,69,h,Flynn 6' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,146
+0022300195,204,PT09M17.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,28,42,70,h,Flynn Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,148
+0022300195,226,PT07M50.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn BLOCK (1 BLK),,,1,2,167
+0022300195,242,PT06M39.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Schroder FOR Flynn,Substitution,,0,0,179
+0022300195,467,PT03M33.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,82,241,25,Missed,1,,,0,h,MISS Flynn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,342
+0022300195,469,PT03M28.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,217,117,25,Missed,1,,,0,h,MISS Flynn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,344
+0022300195,480,PT02M40.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,-154,195,25,Missed,1,,,0,h,MISS Flynn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,352
+0022300195,486,PT02M32.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,358
+0022300195,491,PT02M14.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,363
+0022300195,519,PT00M02.50S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn P.FOUL (P1.T4) (S.Corbin),Foul,Personal,1,0,384
+0022300195,541,PT11M24.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,394
+0022300195,547,PT11M03.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,-185,188,26,Missed,1,,,0,h,MISS Flynn 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,399
+0022300195,569,PT09M20.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,-34,116,12,Made,1,87,102,189,h,Flynn 12' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,1,2,417
+0022300195,626,PT05M00.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,70,259,27,Missed,1,,,0,h,MISS Flynn 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,459
+0022300195,643,PT03M31.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Nowell FOR Flynn,Substitution,,0,0,473
+0022300211,138,PT01M25.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn L.B.FOUL (P1.T3) (M.Boland),Foul,Loose Ball,1,0,109
+0022300211,152,PT00M35.40S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn STEAL (1 STL),,,1,0,118
+0022300211,268,PT04M39.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,199
+0022300211,273,PT04M03.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Barnes FOR Flynn,Substitution,,0,0,203
+0022300211,483,PT02M03.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,MISS Flynn Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,351
+0022300211,487,PT02M03.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,MISS Flynn Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,354
+0022300211,502,PT01M07.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,-37,260,26,Missed,1,,,0,h,MISS Flynn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,365
+0022300211,591,PT07M29.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,427
+0022300211,600,PT07M04.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn S.FOUL (P2.T4) (E.Dalen),Foul,Shooting,1,0,435
+0022300211,604,PT06M46.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,-197,179,27,Made,1,125,88,213,h,Flynn 27' 3PT Step Back Jump Shot (3 PTS) (Achiuwa 4 AST),Made Shot,Step Back Jump shot,1,3,438
+0022300211,606,PT06M29.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn STEAL (2 STL),,,1,0,440
+0022300211,608,PT06M26.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,-2,21,2,Made,1,127,88,215,h,Flynn 2' Running Layup (5 PTS),Made Shot,Running Layup Shot,1,2,441
+0022300211,647,PT04M08.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,44,106,11,Made,1,132,94,226,h,Flynn 11' Pullup Jump Shot (7 PTS) (McDaniels 1 AST),Made Shot,Pullup Jump shot,1,2,471
+0022300211,658,PT03M28.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn P.FOUL (P3.PN) (J.Goble),Foul,Personal,1,0,478
+0022300211,662,PT03M10.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,-119,70,14,Missed,1,,,0,h,MISS Flynn 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,481
+0022300211,672,PT02M41.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn S.FOUL (P4.PN) (E.Dalen),Foul,Shooting,1,0,489
+0022300211,686,PT01M38.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,498
+0022300230,156,PT00M44.90S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,110
+0022300230,170,PT11M54.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,-29,277,28,Made,1,35,30,65,v,Flynn 28' 3PT Jump Shot (3 PTS) (Barnes 1 AST),Made Shot,Jump Shot,1,3,120
+0022300230,174,PT11M19.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,-6,5,1,Made,1,37,32,69,v,Flynn 1' Driving Layup (5 PTS) (Barnes 2 AST),Made Shot,Driving Layup Shot,1,2,122
+0022300230,185,PT10M33.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,233,52,24,Made,1,37,35,72,v,Flynn 24' 3PT Jump Shot (8 PTS) (Anunoby 1 AST),Made Shot,Jump Shot,1,3,130
+0022300230,213,PT08M25.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,151
+0022300230,229,PT07M38.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,162
+0022300230,230,PT07M30.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,163
+0022300230,241,PT06M56.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Siakam FOR Flynn,Substitution,,0,0,171
+0022300230,434,PT03M27.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn S.FOUL (P1.T2) (A.Nagy),Foul,Shooting,1,0,313
+0022300230,447,PT02M26.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,2,15,2,Missed,1,,,0,v,MISS Flynn 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,322
+0022300230,465,PT01M18.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn BLOCK (1 BLK),,,1,2,336
+0022300230,468,PT01M14.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn P.FOUL (P2.T3) (N.Buchert),Foul,Personal,1,0,338
+0022300230,501,PT10M52.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,55,30,6,Made,1,104,104,208,v,Flynn 6' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,361
+0022300230,505,PT10M29.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,365
+0022300230,506,PT10M28.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,2,10,1,Made,1,104,106,210,v,Flynn 1' Putback Layup (12 PTS),Made Shot,Putback Layup Shot,1,2,366
+0022300230,541,PT07M47.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,2,0,0,Made,1,111,112,223,v,Flynn Driving Finger Roll Layup (14 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,395
+0022300230,577,PT05M06.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,-217,138,26,Missed,1,,,0,v,MISS Flynn 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,421
+0022300230,606,PT03M37.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Barnes FOR Flynn,Substitution,,0,0,441
+0022300230,649,PT00M30.30S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Trent Jr. FOR Flynn,Substitution,,0,0,475
+0022300230,677,PT00M12.40S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Trent Jr. FOR Flynn,Substitution,,0,0,494
+0022300251,120,PT01M28.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,88
+0022300251,125,PT00M47.30S,1,1610612761,TOR,1630201,Flynn,M. Flynn,13,0,1,Missed,1,,,0,v,MISS Flynn 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,93
+0022300251,170,PT08M54.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,-69,160,17,Missed,1,,,0,v,MISS Flynn 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,129
+0022300251,199,PT06M35.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Anunoby FOR Flynn,Substitution,,0,0,153
+0022300251,360,PT08M11.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,-225,-6,0,Missed,1,,,0,v,MISS Flynn 3PT Jump Shot,Missed Shot,Jump Shot,1,3,266
+0022300251,369,PT07M41.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,-240,16,24,Missed,1,,,0,v,MISS Flynn 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,273
+0022300251,372,PT07M25.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,-239,5,24,Made,1,52,62,114,v,Flynn 24' 3PT Jump Shot (3 PTS) (Siakam 5 AST),Made Shot,Jump Shot,1,3,276
+0022300251,397,PT05M51.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,295
+0022300251,413,PT04M45.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,310
+0022300251,424,PT03M51.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Step Out of Bounds Turnover (P1.T9),Turnover,Step Out of Bounds Turnover,1,0,319
+0022300251,452,PT02M35.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,338
+0022300251,457,PT02M00.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,-237,111,26,Missed,1,,,0,v,MISS Flynn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,343
+0022300251,475,PT00M14.70S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Anunoby FOR Flynn,Substitution,,0,0,357
+0022300251,660,PT00M09.60S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn P.FOUL (P1.PN) (E.Dalen),Foul,Personal,1,0,485
+0022300251,671,PT00M09.60S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Schroder FOR Flynn,Substitution,,0,0,493
+0022300260,129,PT01M05.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,-143,216,26,Missed,1,,,0,h,MISS Flynn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,93
+0022300260,149,PT11M40.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,28,20,48,h,Flynn Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,108
+0022300260,150,PT11M40.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,29,20,49,h,Flynn Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,109
+0022300260,155,PT11M02.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,112
+0022300260,175,PT09M39.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Schroder FOR Flynn,Substitution,,0,0,129
+0022300260,485,PT01M38.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,96,237,26,Missed,1,,,0,h,MISS Flynn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,351
+0022300260,491,PT01M31.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,357
+0022300260,494,PT01M26.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,-228,14,0,Missed,1,,,0,h,MISS Flynn 3PT Jump Shot,Missed Shot,Jump Shot,1,3,358
+0022300260,516,PT00M00.40S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,375
+0022300260,517,PT00M00.40S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Out of Bounds Lost Ball Turnover (P1.T7),Turnover,Out of Bounds Lost Ball Turnover,1,0,376
+0022300260,520,PT00M00.40S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Poeltl FOR Flynn,Substitution,,0,0,379
+0022300260,529,PT11M38.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,383
+0022300260,556,PT08M51.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,403
+0022300260,583,PT07M21.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Poeltl FOR Flynn,Substitution,,0,0,422
+0022300276,173,PT11M37.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn P.FOUL (P1.T1) (J.Williams),Foul,Personal,0,0,125
+0022300276,183,PT10M53.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn BLOCK (1 BLK),,,1,2,135
+0022300276,185,PT10M50.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,136
+0022300276,208,PT09M06.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,237,21,24,Missed,1,,,0,h,MISS Flynn 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,153
+0022300276,228,PT07M11.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Schroder FOR Flynn,Substitution,,0,0,171
+0022300276,485,PT00M39.30S,3,1610612761,TOR,1630201,Flynn,M. Flynn,-44,32,5,Missed,1,,,0,h,MISS Flynn 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,363
+0022300297,139,PT02M27.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,100
+0022300297,144,PT01M59.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,12,-10,2,Made,1,28,28,56,v,Flynn 2' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,104
+0022300297,151,PT01M32.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,109
+0022300297,154,PT01M28.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,110
+0022300297,165,PT00M08.30S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn P.FOUL (P1.T3) (M.Ervin),Foul,Personal,1,0,118
+0022300297,185,PT11M25.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,-96,134,16,Made,1,38,37,75,v,Flynn 16' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,126
+0022300297,243,PT07M15.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,170
+0022300297,248,PT07M03.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,233,23,0,Made,1,51,48,99,v,Flynn 3PT Jump Shot (7 PTS) (Schroder 4 AST),Made Shot,Jump Shot,1,3,174
+0022300297,261,PT06M09.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,187
+0022300297,267,PT05M57.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Anunoby FOR Flynn,Substitution,,0,0,191
+0022300297,473,PT02M30.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,340
+0022300297,523,PT11M38.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Out of Bounds - Bad Pass Turnover Turnover (P3.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,378
+0022300297,533,PT10M12.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,6,-8,1,Missed,1,,,0,v,MISS Flynn 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,386
+0022300297,535,PT10M04.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn S.FOUL (P2.T1) (P.O'Connell),Foul,Shooting,1,0,388
+0022300297,541,PT09M48.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,-141,222,26,Made,1,104,102,206,v,Flynn 26' 3PT Jump Shot (10 PTS) (Achiuwa 2 AST),Made Shot,Jump Shot,1,3,393
+0022300297,545,PT09M27.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Anunoby FOR Flynn,Substitution,,0,0,395
+0022300313,139,PT01M54.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,95
+0022300313,143,PT01M32.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,55,259,26,Missed,1,,,0,h,MISS Flynn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,99
+0022300313,157,PT00M07.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn P.FOUL (P1.T4) (K.Lane),Foul,Personal,1,0,111
+0022300313,170,PT11M17.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,-188,179,26,Missed,1,,,0,h,MISS Flynn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,120
+0022300313,184,PT09M31.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,130
+0022300313,185,PT09M29.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Offensive Charge Foul (P2) (D.Richardson),Foul,Offensive Charge,1,0,131
+0022300313,187,PT09M29.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,1,0,132
+0022300313,192,PT08M42.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Schroder FOR Flynn,Substitution,,0,0,136
+0022300313,475,PT01M10.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,150,232,28,Missed,1,,,0,h,MISS Flynn 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,339
+0022300313,527,PT09M24.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,381
+0022300313,528,PT09M10.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,-7,3,1,Missed,1,,,0,h,MISS Flynn 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,382
+0022300313,563,PT06M59.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Schroder FOR Flynn,Substitution,,0,0,408
+0022300330,80,PT05M27.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn P.FOUL (P1.T1) (J.Tiven),Foul,Personal,1,0,57
+0022300330,122,PT02M09.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,85
+0022300330,125,PT01M49.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn BLOCK (1 BLK),,,1,3,89
+0022300330,131,PT01M23.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn P.FOUL (P2.T2) (M.Kogut),Foul,Personal,1,0,94
+0022300330,140,PT01M09.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,234,-5,0,Made,1,22,20,42,h,Flynn 3PT Jump Shot (3 PTS) (Achiuwa 1 AST),Made Shot,Jump Shot,1,3,100
+0022300330,144,PT00M40.80S,1,1610612761,TOR,1630201,Flynn,M. Flynn,-1,15,2,Made,1,24,23,47,h,Flynn 2' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,102
+0022300330,149,PT00M32.10S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Anunoby FOR Flynn,Substitution,,0,0,106
+0022300330,217,PT07M33.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn S.FOUL (P3.T2) (B.Adair),Foul,Shooting,1,0,153
+0022300330,242,PT06M02.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn P.FOUL (P4.T3) (M.Kogut),Foul,Personal,1,0,170
+0022300330,244,PT06M02.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Schroder FOR Flynn,Substitution,,0,0,171
+0022300330,395,PT06M37.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Lost Ball Turnover (P1.T11),Turnover,Lost Ball,1,0,283
+0022300330,404,PT05M51.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,-202,145,25,Made,1,68,77,145,h,Flynn 25' 3PT Jump Shot (8 PTS) (Siakam 2 AST),Made Shot,Jump Shot,1,3,291
+0022300330,413,PT05M11.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,MISS Flynn Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,298
+0022300330,421,PT05M11.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,69,80,149,h,Flynn Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,303
+0022300330,424,PT04M37.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,-20,24,3,Missed,1,,,0,h,MISS Flynn 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,306
+0022300330,442,PT03M07.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,320
+0022300330,443,PT02M55.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Out of Bounds - Bad Pass Turnover Turnover (P2.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,0,321
+0022300330,617,PT02M02.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,447
+0022300330,621,PT01M38.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,451
+0022300330,641,PT00M59.10S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,100,123,223,h,Flynn Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,464
+0022300330,642,PT00M59.10S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,101,123,224,h,Flynn Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,465
+0022300354,88,PT03M57.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,68
+0022300354,120,PT01M40.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,-229,-10,0,Missed,1,,,0,h,MISS Flynn 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,92
+0022300354,264,PT04M39.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Schroder FOR Flynn,Substitution,,0,0,198
+0022300354,440,PT02M22.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,9,13,2,Made,1,75,74,149,h,Flynn 2' Cutting Layup Shot (2 PTS) (Siakam 6 AST),Made Shot,Cutting Layup Shot,1,2,325
+0022300354,446,PT01M43.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,15,25,3,Missed,1,,,0,h,MISS Flynn 3' Layup,Missed Shot,Layup Shot,1,2,327
+0022300354,457,PT00M30.30S,3,1610612761,TOR,1630201,Flynn,M. Flynn,-165,207,26,Missed,1,,,0,h,MISS Flynn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,337
+0022300354,475,PT11M26.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,347
+0022300354,476,PT11M21.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,-140,235,27,Missed,1,,,0,h,MISS Flynn 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,348
+0022300354,548,PT05M35.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,407
+0022300354,549,PT05M32.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,119,225,25,Missed,1,,,0,h,MISS Flynn 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,408
+0022300354,551,PT05M17.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn S.FOUL (P1.T1) (J.Butler),Foul,Shooting,1,0,410
+0022300354,554,PT05M17.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Schroder FOR Flynn,Substitution,,0,0,412
+0022300369,133,PT00M35.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,55,59,8,Missed,1,,,0,h,MISS Flynn 8' Fadeaway Bank Shot,Missed Shot,Fadeaway Bank shot,1,2,96
+0022300369,141,PT00M00.90S,1,1610612761,TOR,1630201,Flynn,M. Flynn,-150,63,16,Missed,1,,,0,h,MISS Flynn 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,103
+0022300369,153,PT10M46.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,112
+0022300369,167,PT09M49.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,124
+0022300369,184,PT08M39.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,-148,212,26,Missed,1,,,0,h,MISS Flynn 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,136
+0022300369,203,PT07M19.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Schroder FOR Flynn,Substitution,,0,0,155
+0022300369,417,PT02M06.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,-87,243,26,Made,1,67,85,152,h,Flynn 26' 3PT Pullup Jump Shot (3 PTS) (Anunoby 1 AST),Made Shot,Pullup Jump shot,1,3,314
+0022300369,423,PT00M56.40S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn S.FOUL (P1.T2) (J.Van Duyne),Foul,Shooting,1,0,318
+0022300369,432,PT00M37.90S,3,1610612761,TOR,1630201,Flynn,M. Flynn,43,27,5,Missed,1,,,0,h,MISS Flynn 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,324
+0022300369,440,PT00M03.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,-183,178,26,Made,1,75,90,165,h,Flynn 26' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,3,331
+0022300369,445,PT11M44.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn STEAL (1 STL),,,1,0,335
+0022300369,453,PT11M14.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,343
+0022300369,454,PT11M08.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,-26,-2,3,Missed,1,,,0,h,MISS Flynn 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,344
+0022300369,472,PT09M52.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,359
+0022300369,473,PT09M29.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,-88,17,9,Missed,1,,,0,h,MISS Flynn 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,360
+0022300369,498,PT08M01.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Barnes FOR Flynn,Substitution,,0,0,380
+0022300382,136,PT01M24.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,96
+0022300382,140,PT00M59.60S,1,1610612761,TOR,1630201,Flynn,M. Flynn,-142,215,26,Missed,1,,,0,v,MISS Flynn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,99
+0022300382,147,PT00M23.30S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,105
+0022300382,167,PT11M18.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,115
+0022300382,168,PT11M16.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,116
+0022300382,175,PT10M46.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,123
+0022300382,176,PT10M43.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,10,17,2,Missed,1,,,0,v,MISS Flynn 2' Running Layup,Missed Shot,Running Layup Shot,1,2,124
+0022300382,182,PT10M37.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Anunoby FOR Flynn,Substitution,,0,0,129
+0022300382,628,PT01M46.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn BLOCK (1 BLK),,,1,2,445
+0022300382,631,PT01M40.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,0,447
+0022300382,641,PT01M04.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,6,4,1,Made,1,121,108,229,v,Flynn 1' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,455
+0022300382,658,PT00M34.40S,4,1610612761,TOR,1630201,Flynn,M. Flynn,-136,225,26,Missed,1,,,0,v,MISS Flynn 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,464
+0022300382,661,PT00M26.40S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,467
+0022300395,124,PT02M04.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,83
+0022300395,137,PT01M09.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,127,222,26,Made,1,32,26,58,h,Flynn 26' 3PT Jump Shot (3 PTS) (Boucher 1 AST),Made Shot,Jump Shot,1,3,90
+0022300395,170,PT10M24.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn P.FOUL (P1.T3) (T.Ford),Foul,Personal,1,0,113
+0022300395,202,PT07M49.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,135
+0022300395,203,PT07M46.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,189,153,24,Missed,1,,,0,h,MISS Flynn 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,136
+0022300395,215,PT06M39.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Poeltl FOR Flynn,Substitution,,0,0,145
+0022300395,328,PT00M05.30S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Trent Jr. FOR Flynn,Substitution,,0,0,227
+0022300395,510,PT11M47.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,-125,239,27,Missed,1,,,0,h,MISS Flynn 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,353
+0022300395,527,PT09M48.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Anunoby FOR Flynn,Substitution,,0,0,367
+0022300416,619,PT04M43.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Bad Pass Turnover (P1.T15),Turnover,Bad Pass,1,0,439
+0022300416,622,PT04M38.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn OFF.Foul (P1) (C.Blair),Foul,Offensive,1,0,442
+0022300416,624,PT04M38.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Offensive Foul Turnover (P2.T16),Turnover,Offensive Foul Turnover,1,0,443
+0022300416,635,PT03M31.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,-205,190,28,Missed,1,,,0,v,MISS Flynn 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,453
+0022300416,649,PT02M17.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,-189,204,28,Made,1,98,125,223,v,Flynn 28' 3PT Pullup Jump Shot (3 PTS) (Young 1 AST),Made Shot,Pullup Jump shot,1,3,466
+0022300416,652,PT01M43.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,469
+0022300416,653,PT01M41.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,-235,-11,24,Made,1,100,128,228,v,Flynn 24' 3PT Jump Shot (6 PTS) (Young 2 AST),Made Shot,Jump Shot,1,3,470
+0022300432,402,PT03M49.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn STEAL (1 STL),,,1,0,295
+0022300432,429,PT02M18.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn STEAL (2 STL),,,1,0,316
+0022300432,437,PT01M29.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn S.FOUL (P1.T2) (J.Orr),Foul,Shooting,1,0,323
+0022300483,677,PT00M15.80S,4,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,484
+0022300494,642,PT00M12.80S,4,1610612752,NYK,1630201,Flynn,M. Flynn,43,173,18,Missed,1,,,0,v,MISS Flynn 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,468
+0022300514,625,PT02M03.00S,4,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,111,79,190,h,Flynn Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,465
+0022300514,626,PT02M03.00S,4,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,112,79,191,h,Flynn Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,466
+0022300514,629,PT01M23.00S,4,1610612752,NYK,1630201,Flynn,M. Flynn,-80,239,25,Missed,1,,,0,h,MISS Flynn 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,469
+0022300544,144,PT01M02.00S,1,1610612752,NYK,1630201,Flynn,M. Flynn,-7,11,1,Made,1,25,23,48,v,Flynn 1' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,1,2,114
+0022300544,174,PT11M16.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,-47,257,26,Missed,1,,,0,v,MISS Flynn 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,131
+0022300544,186,PT09M31.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,-17,7,2,Made,1,32,35,67,v,Flynn 2' Driving Finger Roll Layup (4 PTS) (Anunoby 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,141
+0022300544,217,PT09M11.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,144
+0022300544,190,PT09M06.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,-110,236,26,Made,1,32,38,70,v,Flynn 26' 3PT Running Pull-Up Jump Shot (7 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,145
+0022300544,193,PT08M32.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,147
+0022300544,201,PT07M38.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn S.FOUL (P1.T1) (K.Scott),Foul,Shooting,1,0,153
+0022300544,207,PT07M05.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn P.FOUL (P2.T2) (R.Acosta),Foul,Personal,1,0,157
+0022300544,211,PT06M54.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn STEAL (1 STL),,,1,0,160
+0022300544,213,PT06M50.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,-9,7,1,Made,1,39,42,81,v,Flynn 1' Running Finger Roll Layup (9 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,161
+0022300544,222,PT06M07.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn P.FOUL (P3.T3) (J.Conley),Foul,Personal,1,0,167
+0022300544,225,PT06M07.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Hartenstein FOR Flynn,Substitution,,0,0,169
+0022300557,161,PT11M46.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,-71,246,26,Missed,1,,,0,h,MISS Flynn 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,111
+0022300557,191,PT08M51.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,-165,181,24,Missed,1,,,0,h,MISS Flynn 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,133
+0022300557,230,PT06M37.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,36,41,77,h,Flynn Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,163
+0022300557,235,PT06M37.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,MISS Flynn Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,164
+0022300557,246,PT05M03.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,-154,206,26,Missed,1,,,0,h,MISS Flynn 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,174
+0022300557,253,PT04M38.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: DiVincenzo FOR Flynn,Substitution,,0,0,180
+0022300557,471,PT00M14.70S,3,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,78,71,149,h,Flynn Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,337
+0022300557,474,PT00M14.70S,3,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,MISS Flynn Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,338
+0022300557,485,PT11M27.00S,4,1610612752,NYK,1630201,Flynn,M. Flynn,125,227,26,Missed,1,,,0,h,MISS Flynn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,345
+0022300557,495,PT10M23.00S,4,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: McBride FOR Flynn,Substitution,,0,0,352
+0022300596,642,PT02M03.00S,4,1610612752,NYK,1630201,Flynn,M. Flynn,-194,157,25,Made,1,124,96,220,h,Flynn 25' 3PT Step Back Jump Shot (3 PTS) (Arcidiacono 1 AST),Made Shot,Step Back Jump shot,1,3,477
+0022300596,645,PT01M41.00S,4,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,479
+0022300596,646,PT01M36.00S,4,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Lost Ball Turnover (P1.T20),Turnover,Lost Ball,1,0,480
+0022300631,592,PT00M46.50S,4,1610612752,NYK,1630201,Flynn,M. Flynn,-1,8,1,Made,1,122,84,206,h,Flynn 1' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,1,2,433
+0022300643,614,PT00M47.30S,4,1610612752,NYK,1630201,Flynn,M. Flynn,-50,155,16,Missed,1,,,0,h,MISS Flynn 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,446
+0022300657,579,PT00M29.80S,4,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,425
+0022300657,582,PT00M25.10S,4,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,92,112,204,v,Flynn Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,427
+0022300657,583,PT00M25.10S,4,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,92,113,205,v,Flynn Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,428
+0022300685,182,PT11M22.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,146
+0022300685,183,PT11M18.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,126,223,26,Missed,1,,,0,h,MISS Flynn 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,147
+0022300685,207,PT09M11.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,29,41,70,h,Flynn Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,167
+0022300685,215,PT09M11.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,30,41,71,h,Flynn Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,172
+0022300685,217,PT08M41.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,1,167,17,Missed,1,,,0,h,MISS Flynn 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,174
+0022300685,236,PT07M10.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,-229,85,24,Missed,1,,,0,h,MISS Flynn 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,190
+0022300685,249,PT05M59.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Brunson FOR Flynn,Substitution,,0,0,199
+0022300701,192,PT08M37.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,-61,92,11,Made,1,34,36,70,h,Flynn 11' Driving Floating Jump Shot (2 PTS) (Hart 1 AST),Made Shot,Driving Floating Jump Shot,1,2,146
+0022300701,198,PT08M37.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,35,36,71,h,Flynn Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,149
+0022300701,208,PT07M38.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,20,90,9,Missed,1,,,0,h,MISS Flynn 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,156
+0022300701,223,PT06M16.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Brunson FOR Flynn,Substitution,,0,0,169
+0022300722,153,PT09M37.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,-136,203,24,Missed,1,,,0,h,MISS Flynn 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,107
+0022300722,178,PT07M09.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,-45,246,25,Made,1,48,28,76,h,Flynn 25' 3PT Step Back Jump Shot (3 PTS) (McBride 2 AST),Made Shot,Step Back Jump shot,1,3,123
+0022300722,185,PT06M38.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,129
+0022300722,190,PT05M59.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Traveling Turnover (P1.T4),Turnover,Traveling,1,0,133
+0022300722,206,PT05M04.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,-237,-1,24,Made,1,55,30,85,h,Flynn 24' 3PT Jump Shot (6 PTS),Made Shot,Jump Shot,1,3,145
+0022300722,213,PT04M38.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Brunson FOR Flynn,Substitution,,0,0,150
+0022300722,455,PT09M26.00S,4,1610612752,NYK,1630201,Flynn,M. Flynn,-17,8,2,Missed,1,,,0,h,MISS Flynn 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,319
+0022300722,468,PT08M08.00S,4,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Hartenstein FOR Flynn,Substitution,,0,0,330
+0022300776,686,PT01M09.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,502
+0022300787,696,PT07M03.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn P.FOUL (P1.T3) (J.Van Duyne),Foul,Personal,0,0,504
+0022300787,705,PT06M12.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-44,19,5,Missed,1,,,0,v,MISS Flynn 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,510
+0022300787,714,PT05M14.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,20,-15,3,Missed,1,,,0,v,MISS Flynn 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,518
+0022300787,736,PT04M12.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,535
+0022300787,769,PT01M48.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-156,205,26,Missed,1,,,0,v,MISS Flynn 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,562
+0022300787,794,PT00M23.50S,4,1610612765,DET,1630201,Flynn,M. Flynn,78,247,26,Made,1,116,100,216,v,Flynn 26' 3PT Jump Shot (3 PTS) (Muscala 2 AST),Made Shot,Jump Shot,1,3,579
+0022300793,170,PT11M22.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn L.B.FOUL (P1.T1) (T.Ford),Foul,Loose Ball,1,0,120
+0022300793,174,PT10M59.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,-88,90,13,Missed,1,,,0,v,MISS Flynn 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,122
+0022300793,189,PT09M48.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,133
+0022300793,201,PT09M06.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn STEAL (1 STL),,,1,0,143
+0022300793,206,PT08M39.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,94,158,18,Made,1,46,35,81,v,Flynn 18' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,147
+0022300793,221,PT07M08.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Thompson FOR Flynn,Substitution,,0,0,158
+0022300793,257,PT04M39.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,-99,128,16,Missed,1,,,0,v,MISS Flynn 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,184
+0022300793,276,PT03M23.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,-1,133,13,Missed,1,,,0,v,MISS Flynn 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,200
+0022300793,290,PT02M35.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn STEAL (2 STL),,,1,0,213
+0022300793,299,PT01M53.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,220
+0022300793,308,PT01M32.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Cunningham FOR Flynn,Substitution,,0,0,228
+0022300793,573,PT08M23.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn OFF.Foul (P2) (T.Ford),Foul,Offensive,1,0,417
+0022300793,577,PT08M23.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Offensive Foul Turnover (P2.T15),Turnover,Offensive Foul Turnover,1,0,418
+0022300793,603,PT06M32.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-67,239,25,Missed,1,,,0,v,MISS Flynn 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,436
+0022300793,607,PT06M29.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Cunningham FOR Flynn,Substitution,,0,0,439
+0022300814,145,PT00M32.50S,1,1610612765,DET,1630201,Flynn,M. Flynn,-11,31,3,Made,1,30,30,60,h,Flynn 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,106
+0022300814,158,PT11M45.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,-178,214,28,Missed,1,,,0,h,MISS Flynn 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,115
+0022300814,160,PT11M37.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,-180,193,26,Made,1,33,32,65,h,Flynn 26' 3PT Jump Shot (5 PTS) (Grimes 1 AST),Made Shot,Jump Shot,1,3,117
+0022300814,170,PT10M19.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,20,80,8,Missed,1,,,0,h,MISS Flynn 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,124
+0022300814,189,PT08M20.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,40,102,11,Missed,1,,,0,h,MISS Flynn 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,139
+0022300814,198,PT07M51.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,99,104,14,Made,1,41,41,82,h,Flynn 14' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,2,145
+0022300814,208,PT06M44.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Thompson FOR Flynn,Substitution,,0,0,152
+0022300814,424,PT02M46.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn STEAL (1 STL),,,1,0,311
+0022300814,445,PT01M50.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,326
+0022300814,448,PT01M41.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,329
+0022300814,457,PT00M54.10S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,83,88,171,h,Flynn Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,336
+0022300814,460,PT00M54.10S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,MISS Flynn Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,338
+0022300814,527,PT06M44.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Cunningham FOR Flynn,Substitution,,0,0,388
+0022300828,144,PT01M27.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,-232,-13,0,Missed,1,,,0,v,MISS Flynn 3PT Jump Shot,Missed Shot,Jump Shot,1,3,102
+0022300828,151,PT00M54.30S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn S.FOUL (P1.T3) (J.DeRosa),Foul,Shooting,1,0,108
+0022300828,159,PT00M12.60S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,114
+0022300828,160,PT00M01.30S,1,1610612765,DET,1630201,Flynn,M. Flynn,7,64,6,Made,1,29,27,56,v,Flynn 6' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,115
+0022300828,221,PT07M51.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,-74,243,25,Made,1,41,34,75,v,Flynn 25' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,3,161
+0022300828,229,PT07M13.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Cunningham FOR Flynn,Substitution,,0,0,169
+0022300828,487,PT11M14.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-4,0,0,Made,1,92,89,181,v,Flynn Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,360
+0022300828,491,PT10M41.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-13,12,2,Missed,1,,,0,v,MISS Flynn 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,363
+0022300828,501,PT09M38.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,369
+0022300828,502,PT09M34.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-13,8,2,Missed,1,,,0,v,MISS Flynn 2' Running Layup,Missed Shot,Running Layup Shot,1,2,370
+0022300828,523,PT08M49.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,MISS Flynn Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,384
+0022300828,525,PT08M49.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,97,90,187,v,Flynn Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,386
+0022300828,530,PT08M03.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,391
+0022300828,538,PT07M30.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Cunningham FOR Flynn,Substitution,,0,0,397
+0022300839,138,PT01M28.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,5,88,9,Missed,1,,,0,v,MISS Flynn 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,97
+0022300839,146,PT00M47.10S,1,1610612765,DET,1630201,Flynn,M. Flynn,-12,195,20,Made,1,25,19,44,v,Flynn 20' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,2,103
+0022300839,148,PT00M19.60S,1,1610612765,DET,1630201,Flynn,M. Flynn,104,253,27,Made,1,27,22,49,v,Flynn 27' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,3,105
+0022300839,160,PT11M11.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,113
+0022300839,167,PT10M33.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,118
+0022300839,205,PT08M25.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Stewart FOR Flynn,Substitution,,0,0,150
+0022300839,452,PT00M31.30S,3,1610612765,DET,1630201,Flynn,M. Flynn,-143,217,26,Missed,1,,,0,v,MISS Flynn 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,334
+0022300839,494,PT10M00.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Bad Pass Turnover (P2.T16),Turnover,Bad Pass,1,0,363
+0022300839,499,PT09M48.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-123,258,29,Missed,1,,,0,v,MISS Flynn 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,367
+0022300839,504,PT09M16.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-154,215,26,Missed,1,,,0,v,MISS Flynn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,371
+0022300839,508,PT08M54.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,375
+0022300839,509,PT08M51.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-17,10,2,Made,1,82,87,169,v,Flynn 2' Running Layup (7 PTS),Made Shot,Running Layup Shot,1,2,376
+0022300839,512,PT08M26.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-81,212,23,Missed,1,,,0,v,MISS Flynn 23' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,378
+0022300839,533,PT07M29.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Cunningham FOR Flynn,Substitution,,0,0,397
+0022300857,133,PT02M39.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,33,134,14,Missed,1,,,0,h,MISS Flynn 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,98
+0022300857,146,PT02M03.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,189,168,25,Missed,1,,,0,h,MISS Flynn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,108
+0022300857,158,PT01M06.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn S.FOUL (P1.PN) (P.Ransom),Foul,Shooting,1,0,117
+0022300857,171,PT11M45.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,-145,253,29,Missed,1,,,0,h,MISS Flynn 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,129
+0022300857,194,PT09M46.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Cunningham FOR Flynn,Substitution,,0,0,150
+0022300902,530,PT07M33.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Cunningham FOR Flynn,Substitution,,0,0,376
+0022300919,729,PT01M50.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn P.FOUL (P1.PN) (M.Ervin),Foul,Personal,1,0,527
+0022300919,742,PT00M56.30S,4,1610612765,DET,1630201,Flynn,M. Flynn,70,47,8,Made,1,122,137,259,h,Flynn 8' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,1,2,537
+0022300919,747,PT00M09.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Lost Ball Turnover (P1.T20),Turnover,Lost Ball,1,0,541
+0022300984,87,PT03M52.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,194,163,25,Missed,1,,,0,v,MISS Flynn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,64
+0022300984,103,PT02M04.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn STEAL (1 STL),,,1,0,80
+0022300984,111,PT01M40.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,234,52,24,Made,1,26,21,47,v,Flynn 24' 3PT Jump Shot (3 PTS) (Fournier 1 AST),Made Shot,Jump Shot,1,3,86
+0022300984,125,PT01M09.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,MISS Flynn Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,94
+0022300984,127,PT01M09.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,29,22,51,v,Flynn Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,96
+0022300984,128,PT00M54.90S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn STEAL (2 STL),,,1,0,98
+0022300984,130,PT00M52.10S,1,1610612765,DET,1630201,Flynn,M. Flynn,-1,7,1,Made,1,29,24,53,v,Flynn 1' Running Finger Roll Layup (6 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,99
+0022300984,135,PT00M04.30S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,103
+0022300984,138,PT00M01.20S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,31,27,58,v,Flynn Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,105
+0022300984,139,PT00M01.20S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,31,28,59,v,Flynn Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,106
+0022300984,193,PT08M09.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Sasser FOR Flynn,Substitution,,0,0,142
+0022300984,399,PT03M05.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,-134,48,14,Missed,1,,,0,v,MISS Flynn 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,299
+0022300984,416,PT01M48.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,-201,174,27,Missed,1,,,0,v,MISS Flynn 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,310
+0022300984,480,PT08M49.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,356
+0022300984,485,PT08M35.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-121,240,27,Made,1,98,75,173,v,Flynn 27' 3PT Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,3,359
+0022300984,488,PT08M12.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,29,29,4,Missed,1,,,0,v,MISS Flynn 4' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,362
+0022300984,505,PT06M39.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,69,258,27,Missed,1,,,0,v,MISS Flynn 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,378
+0022300984,511,PT06M38.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Ivey FOR Flynn,Substitution,,0,0,382
+0022300997,615,PT03M03.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,460
+0022300997,616,PT02M55.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-203,165,26,Missed,1,,,0,h,MISS Flynn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,461
+0022300997,636,PT01M07.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,478
+0022300997,646,PT00M45.10S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Bad Pass Turnover (P1.T15),Turnover,Bad Pass,1,0,486
+0022300997,650,PT00M32.80S,4,1610612765,DET,1630201,Flynn,M. Flynn,-164,228,28,Missed,1,,,0,h,MISS Flynn 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,489
+0022301027,152,PT00M06.10S,1,1610612765,DET,1630201,Flynn,M. Flynn,-132,239,27,Missed,1,,,0,h,MISS Flynn 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,110
+0022301027,165,PT11M23.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,-125,239,27,Made,1,13,29,42,h,Flynn 27' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,118
+0022301027,194,PT09M07.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,130,255,29,Missed,1,,,0,h,MISS Flynn 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,136
+0022301027,200,PT09M03.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Evbuomwan FOR Flynn,Substitution,,0,0,141
+0022301027,425,PT05M02.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn STEAL (1 STL),,,1,0,305
+0022301027,458,PT03M52.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,29,131,13,Missed,1,,,0,h,MISS Flynn 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,320
+0022301027,454,PT02M52.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,223,128,26,Missed,1,,,0,h,MISS Flynn 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,329
+0022301027,483,PT01M45.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,-20,59,6,Made,1,61,78,139,h,Flynn 6' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,1,2,348
+0022301027,488,PT01M27.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,62,81,143,h,Flynn Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,351
+0022301027,489,PT01M27.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,MISS Flynn Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,352
+0022301027,490,PT01M24.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,353
+0022301027,491,PT01M18.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,-183,211,28,Missed,1,,,0,h,MISS Flynn 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,354
+0022301027,494,PT01M01.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,357
+0022301027,554,PT09M09.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-78,131,15,Missed,1,,,0,h,MISS Flynn 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,397
+0022301027,555,PT09M09.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,398
+0022301027,608,PT05M45.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,436
+0022301027,609,PT05M27.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-186,190,27,Made,1,84,98,182,h,Flynn 27' 3PT Jump Shot (9 PTS) (Evbuomwan 1 AST),Made Shot,Jump Shot,1,3,437
+0022301027,623,PT04M15.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,107,163,19,Made,1,86,104,190,h,Flynn 19' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,2,446
+0022301027,634,PT03M33.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,29,5,3,Made,1,88,107,195,h,Flynn 3' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,2,455
+0022301027,637,PT03M33.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,89,107,196,h,Flynn Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,1,0,457
+0022301027,653,PT02M26.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-234,7,0,Made,1,95,108,203,h,Flynn 3PT Jump Shot (17 PTS) (Brown Jr. 1 AST),Made Shot,Jump Shot,1,3,470
+0022301035,82,PT05M09.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn BLOCK (1 BLK),,,1,2,62
+0022301035,124,PT03M27.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,20,10,2,Missed,1,,,0,v,MISS Flynn 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,81
+0022301035,135,PT01M20.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,-89,143,17,Made,1,34,15,49,v,Flynn 17' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,97
+0022301035,136,PT00M57.90S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn STEAL (1 STL),,,1,0,99
+0022301035,138,PT00M54.60S,1,1610612765,DET,1630201,Flynn,M. Flynn,-16,2,2,Made,1,34,17,51,v,Flynn 2' Running Layup (4 PTS) (Rhoden 1 AST),Made Shot,Running Layup Shot,1,2,100
+0022301035,145,PT00M29.10S,1,1610612765,DET,1630201,Flynn,M. Flynn,44,76,9,Missed,1,,,0,v,MISS Flynn 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,106
+0022301035,157,PT11M35.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,116
+0022301035,158,PT11M35.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,117
+0022301035,193,PT08M38.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,47,23,70,v,Flynn Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,144
+0022301035,198,PT08M38.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,47,24,71,v,Flynn Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,145
+0022301035,210,PT07M37.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Sasser FOR Flynn,Substitution,,0,0,154
+0022301035,438,PT02M33.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn P.FOUL (P1.PN) (S.Twardoski),Foul,Personal,1,0,323
+0022301035,451,PT02M20.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,17,148,15,Missed,1,,,0,v,MISS Flynn 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,330
+0022301035,455,PT01M51.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,-241,26,24,Missed,1,,,0,v,MISS Flynn 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,334
+0022301035,470,PT00M41.30S,3,1610612765,DET,1630201,Flynn,M. Flynn,5,1,1,Made,1,92,64,156,v,Flynn 1' Running Layup (8 PTS) (Metu 3 AST),Made Shot,Running Layup Shot,1,2,345
+0022301035,498,PT10M27.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn STEAL (2 STL),,,1,0,365
+0022301035,506,PT09M56.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,371
+0022301035,507,PT09M54.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0,372
+0022301035,512,PT09M37.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,377
+0022301035,522,PT08M58.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-234,26,24,Missed,1,,,0,v,MISS Flynn 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,384
+0022301035,549,PT07M33.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-174,183,25,Made,1,103,76,179,v,Flynn 25' 3PT Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,1,3,403
+0022301035,577,PT05M26.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,423
+0022301035,578,PT05M26.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-23,247,25,Missed,1,,,0,v,MISS Flynn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,424
+0022301035,582,PT04M53.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn P.FOUL (P2.PN) (S.Twardoski),Foul,Personal,1,0,428
+0022301035,636,PT02M00.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-33,246,25,Made,1,120,94,214,v,Flynn 25' 3PT Step Back Jump Shot (14 PTS) (Metu 4 AST),Made Shot,Step Back Jump shot,1,3,467
+0022301035,644,PT01M15.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-48,251,26,Missed,1,,,0,v,MISS Flynn 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,472
+0022301056,142,PT00M34.60S,1,1610612765,DET,1630201,Flynn,M. Flynn,-9,26,3,Made,1,28,25,53,v,Flynn 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,97
+0022301056,174,PT10M27.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,-140,216,26,Made,1,33,28,61,v,Flynn 26' 3PT Pullup Jump Shot (5 PTS) (Brown Jr. 2 AST),Made Shot,Pullup Jump shot,1,3,117
+0022301056,176,PT10M03.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,-93,150,18,Made,1,33,30,63,v,Flynn 18' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,2,119
+0022301056,182,PT09M07.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,125
+0022301056,183,PT08M58.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,-60,31,7,Missed,1,,,0,v,MISS Flynn 7' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,126
+0022301056,186,PT08M48.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,129
+0022301056,211,PT06M04.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Cunningham FOR Flynn,Substitution,,0,0,150
+0022301056,413,PT02M59.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,-11,27,3,Missed,1,,,0,v,MISS Flynn 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,297
+0022301056,422,PT02M30.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,303
+0022301056,434,PT01M31.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn S.FOUL (P1.PN) (P.Fraher),Foul,Shooting,1,0,313
+0022301056,441,PT01M24.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn S.FOUL (P2.PN) (S.Mehta),Foul,Shooting,1,0,319
+0022301056,462,PT11M46.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-28,256,26,Missed,1,,,0,v,MISS Flynn 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,332
+0022301056,468,PT11M11.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-20,151,15,Made,1,78,68,146,v,Flynn 15' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,2,338
+0022301056,477,PT10M22.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,2,152,15,Made,1,81,70,151,v,Flynn 15' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,1,2,343
+0022301056,488,PT09M38.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Out of Bounds Lost Ball Turnover (P2.T9),Turnover,Out of Bounds Lost Ball Turnover,1,0,350
+0022301056,490,PT09M26.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,352
+0022301056,502,PT08M04.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-118,244,27,Made,1,87,75,162,v,Flynn 27' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,3,362
+0022301056,509,PT07M34.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Cunningham FOR Flynn,Substitution,,0,0,367
+0022301056,609,PT00M36.50S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,437
+0022301056,614,PT00M15.60S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,442
+0022301065,135,PT02M24.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,MISS Flynn Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,102
+0022301065,139,PT02M24.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,18,23,41,v,Flynn Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,105
+0022301065,145,PT01M14.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,110
+0022301065,153,PT00M36.30S,1,1610612765,DET,1630201,Flynn,M. Flynn,-164,209,27,Missed,1,,,0,v,MISS Flynn 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,117
+0022301065,183,PT10M55.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,-31,8,3,Made,1,22,25,47,v,Flynn 3' Driving Layup (3 PTS),Made Shot,Driving Layup Shot,1,2,134
+0022301065,209,PT08M51.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,153
+0022301065,228,PT07M24.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Duren FOR Flynn,Substitution,,0,0,170
+0022301065,443,PT02M42.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn STEAL (1 STL),,,0,0,327
+0022301065,454,PT01M43.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,335
+0022301065,467,PT00M17.40S,3,1610612765,DET,1630201,Flynn,M. Flynn,167,277,32,Missed,1,,,0,v,MISS Flynn 32' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,344
+0022301065,504,PT09M05.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Cunningham FOR Flynn,Substitution,,0,0,371
+0022301088,141,PT00M32.90S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,103
+0022301088,167,PT10M59.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn BLOCK (1 BLK),,,1,2,125
+0022301088,175,PT09M52.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,-180,166,24,Made,1,34,28,62,h,Flynn 24' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,130
+0022301088,181,PT08M37.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,134
+0022301088,194,PT07M58.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,-70,105,13,Missed,1,,,0,h,MISS Flynn 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,143
+0022301088,205,PT07M06.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,-233,-24,0,Missed,1,,,0,h,MISS Flynn 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,152
+0022301088,209,PT06M54.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn P.FOUL (P1.T2) (D.Mosher),Foul,Personal,1,0,156
+0022301088,218,PT06M37.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Wiseman FOR Flynn,Substitution,,0,0,161
+0022301088,454,PT01M29.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,132,221,26,Missed,1,,,0,h,MISS Flynn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,334
+0022301088,456,PT01M20.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,227,83,24,Made,1,85,80,165,h,Flynn 24' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,3,336
+0022301088,464,PT00M35.20S,3,1610612765,DET,1630201,Flynn,M. Flynn,-34,67,8,Made,1,87,82,169,h,Flynn 8' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,1,2,347
+0022301088,472,PT00M05.60S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,88,82,170,h,Flynn Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,354
+0022301088,475,PT00M05.60S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,MISS Flynn Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,356
+0022301088,505,PT09M55.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Bad Pass Turnover (P2.T13),Turnover,Bad Pass,1,0,376
+0022301088,534,PT07M50.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,397
+0022301088,535,PT07M36.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,118,231,26,Missed,1,,,0,h,MISS Flynn 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,398
+0022301088,539,PT07M35.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Metu FOR Flynn,Substitution,,0,0,401
+0022301104,122,PT03M24.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,21,16,37,v,Flynn Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,95
+0022301104,125,PT03M24.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,21,17,38,v,Flynn Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,97
+0022301104,127,PT02M54.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,-10,6,1,Made,1,23,19,42,v,Flynn 1' Driving Layup (4 PTS) (Wiseman 1 AST),Made Shot,Driving Layup Shot,1,2,99
+0022301104,139,PT02M35.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,105
+0022301104,140,PT02M21.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,-146,126,19,Made,1,23,21,44,v,Flynn 19' Pullup Jump Shot (6 PTS) (Wiseman 2 AST),Made Shot,Pullup Jump shot,1,2,106
+0022301104,146,PT01M48.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,23,22,45,v,Flynn Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,110
+0022301104,149,PT01M48.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,23,23,46,v,Flynn Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,112
+0022301104,154,PT01M14.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,116
+0022301104,160,PT00M43.50S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn STEAL (1 STL),,,1,0,122
+0022301104,162,PT00M38.30S,1,1610612765,DET,1630201,Flynn,M. Flynn,16,262,26,Missed,1,,,0,v,MISS Flynn 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,123
+0022301104,165,PT00M21.30S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,126
+0022301104,192,PT10M43.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,MISS Flynn Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,146
+0022301104,194,PT10M43.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,28,26,54,v,Flynn Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,148
+0022301104,200,PT09M51.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,-114,173,21,Made,1,30,28,58,v,Flynn 21' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,2,155
+0022301104,203,PT09M12.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,157
+0022301104,221,PT08M19.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,62,253,26,Made,1,34,34,68,v,Flynn 26' 3PT Pullup Jump Shot (14 PTS) (Sasser 2 AST),Made Shot,Pullup Jump shot,1,3,170
+0022301104,230,PT08M19.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,34,35,69,v,Flynn Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,1,0,175
+0022301104,235,PT07M25.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,-6,6,1,Made,1,37,37,74,v,Flynn 1' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,2,179
+0022301104,242,PT06M40.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn STEAL (2 STL),,,1,0,185
+0022301104,244,PT06M28.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,36,68,8,Missed,1,,,0,v,MISS Flynn 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,186
+0022301104,254,PT05M45.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Brown Jr. FOR Flynn,Substitution,,0,0,194
+0022301104,331,PT00M03.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,4,12,1,Missed,1,,,0,v,MISS Flynn 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,252
+0022301104,380,PT07M48.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,73,58,131,v,Flynn Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,291
+0022301104,381,PT07M48.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,MISS Flynn Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,292
+0022301104,384,PT07M14.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Out of Bounds - Bad Pass Turnover Turnover (P3.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,295
+0022301104,395,PT06M13.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,-100,30,10,Made,1,79,60,139,v,Flynn 10' Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,1,2,302
+0022301104,399,PT05M48.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,-15,6,2,Made,1,79,62,141,v,Flynn 2' Driving Layup (22 PTS) (Brown Jr. 2 AST),Made Shot,Driving Layup Shot,1,2,306
+0022301104,403,PT05M15.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,-1,114,11,Made,1,82,64,146,v,Flynn 11' Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,1,2,308
+0022301104,423,PT03M57.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,-9,9,1,Made,1,86,68,154,v,Flynn 1' Running Layup (26 PTS),Made Shot,Running Layup Shot,1,2,322
+0022301104,425,PT03M34.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,324
+0022301104,455,PT01M45.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,-9,253,25,Made,1,89,77,166,v,Flynn 25' 3PT Jump Shot (29 PTS) (Ivey 4 AST),Made Shot,Jump Shot,1,3,344
+0022301104,468,PT01M04.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,MISS Flynn Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,0,351
+0022301104,470,PT01M04.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,89,78,167,v,Flynn Free Throw 2 of 3 (30 PTS),Free Throw,Free Throw 2 of 3,1,0,353
+0022301104,472,PT01M04.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,89,79,168,v,Flynn Free Throw 3 of 3 (31 PTS),Free Throw,Free Throw 3 of 3,1,0,354
+0022301104,474,PT00M51.50S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn S.FOUL (P1.T3) (K.Scott),Foul,Shooting,1,0,356
+0022301104,482,PT00M04.80S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Evbuomwan FOR Flynn,Substitution,,0,0,365
+0022301104,500,PT11M23.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn P.FOUL (P2.T1) (T.Washington),Foul,Personal,1,0,374
+0022301104,511,PT10M46.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,382
+0022301104,512,PT10M40.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,230,29,0,Made,1,92,82,174,v,Flynn 3PT Jump Shot (34 PTS) (Sasser 3 AST),Made Shot,Jump Shot,1,3,383
+0022301104,524,PT09M08.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,125,56,14,Made,1,99,87,186,v,Flynn 14' Pullup Jump Shot (36 PTS),Made Shot,Pullup Jump shot,1,2,392
+0022301104,526,PT08M45.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,394
+0022301104,527,PT08M40.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,34,32,5,Made,1,99,89,188,v,Flynn 5' Running Layup (38 PTS),Made Shot,Running Layup Shot,1,2,395
+0022301104,537,PT08M18.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,401
+0022301104,538,PT07M58.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-153,205,26,Missed,1,,,0,v,MISS Flynn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,402
+0022301104,580,PT05M19.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,51,234,24,Made,1,104,99,203,v,Flynn 24' 3PT Pullup Jump Shot (41 PTS),Made Shot,Pullup Jump shot,1,3,430
+0022301104,583,PT04M39.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Lost Ball Turnover (P4.T9),Turnover,Lost Ball,1,0,432
+0022301104,592,PT04M04.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-51,19,5,Made,1,109,101,210,v,Flynn 5' Driving Floating Jump Shot (43 PTS) (Evbuomwan 1 AST),Made Shot,Driving Floating Jump Shot,1,2,440
+0022301104,596,PT03M27.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-12,13,2,Made,1,112,103,215,v,Flynn 2' Driving Layup (45 PTS),Made Shot,Driving Layup Shot,1,2,442
+0022301104,605,PT02M11.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-116,219,25,Missed,1,,,0,v,MISS Flynn 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,448
+0022301104,616,PT00M51.10S,4,1610612765,DET,1630201,Flynn,M. Flynn,48,242,25,Made,1,118,111,229,v,Flynn 25' 3PT Running Pull-Up Jump Shot (48 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,457
+0022301104,617,PT00M46.40S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn STEAL (3 STL),,,1,0,459
+0022301104,619,PT00M43.80S,4,1610612765,DET,1630201,Flynn,M. Flynn,7,51,5,Missed,1,,,0,v,MISS Flynn 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,460
+0022301104,623,PT00M30.70S,4,1610612765,DET,1630201,Flynn,M. Flynn,1,16,2,Made,1,118,113,231,v,Flynn 2' Running Layup (50 PTS) (Metu 3 AST),Made Shot,Running Layup Shot,1,2,464
+0022301104,642,PT00M14.90S,4,1610612765,DET,1630201,Flynn,M. Flynn,234,50,24,Missed,1,,,0,v,MISS Flynn 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,473
+0022301121,134,PT00M52.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,61,92,11,Missed,1,,,0,v,MISS Flynn 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,104
+0022301121,137,PT00M33.90S,1,1610612765,DET,1630201,Flynn,M. Flynn,65,99,12,Missed,1,,,0,v,MISS Flynn 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,107
+0022301121,155,PT11M24.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Step Out of Bounds Turnover (P1.T9),Turnover,Step Out of Bounds Turnover,1,0,118
+0022301121,168,PT10M22.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,153,198,25,Missed,1,,,0,v,MISS Flynn 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,129
+0022301121,171,PT10M03.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,132
+0022301121,177,PT09M18.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,34,27,61,v,Flynn Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,136
+0022301121,178,PT09M18.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,34,28,62,v,Flynn Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,137
+0022301121,199,PT07M22.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,-137,218,26,Missed,1,,,0,v,MISS Flynn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,153
+0022301121,206,PT07M11.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Duren FOR Flynn,Substitution,,0,0,159
+0022301121,269,PT03M35.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,-17,257,26,Missed,1,,,0,v,MISS Flynn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,203
+0022301121,311,PT01M01.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,MISS Flynn Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,233
+0022301121,313,PT01M01.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,57,36,93,v,Flynn Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,235
+0022301121,317,PT00M32.50S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Lost Ball Turnover (P2.T15),Turnover,Lost Ball,1,0,238
+0022301121,371,PT08M23.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,-230,111,26,Missed,1,,,0,v,MISS Flynn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,271
+0022301121,396,PT05M32.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,12,28,3,Missed,1,,,0,v,MISS Flynn 3' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,290
+0022301121,409,PT04M57.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,-165,195,26,Missed,1,,,0,v,MISS Flynn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,299
+0022301121,429,PT03M16.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn STEAL (1 STL),,,1,0,316
+0022301121,453,PT01M41.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,17,28,3,Missed,1,,,0,v,MISS Flynn 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,332
+0022301121,473,PT00M43.30S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn STEAL (2 STL),,,1,0,348
+0022301121,475,PT00M39.40S,3,1610612765,DET,1630201,Flynn,M. Flynn,-181,194,27,Missed,1,,,0,v,MISS Flynn 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,349
+0022301121,479,PT00M34.40S,3,1610612765,DET,1630201,Flynn,M. Flynn,-132,104,17,Missed,1,,,0,v,MISS Flynn 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,352
+0022301121,493,PT11M45.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-152,206,26,Missed,1,,,0,v,MISS Flynn 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,364
+0022301121,507,PT10M01.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Sasser FOR Flynn,Substitution,,0,0,373
+0022301128,121,PT01M55.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,89
+0022301128,140,PT01M14.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,-37,270,27,Missed,1,,,0,v,MISS Flynn 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,103
+0022301128,147,PT00M02.70S,1,1610612765,DET,1630201,Flynn,M. Flynn,103,263,28,Missed,1,,,0,v,MISS Flynn 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,109
+0022301128,154,PT11M12.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,1,0,116
+0022301128,176,PT09M45.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,-28,115,12,Missed,1,,,0,v,MISS Flynn 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,132
+0022301128,190,PT08M09.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Sasser FOR Flynn,Substitution,,0,0,145
+0022301128,373,PT03M52.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn P.FOUL (P2.PN) (T.Brothers),Foul,Personal,1,0,278
+0022301128,398,PT02M16.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,298
+0022301128,399,PT02M13.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,178,214,28,Missed,1,,,0,v,MISS Flynn 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,299
+0022301128,420,PT00M56.40S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Offensive Charge Foul (P3) (M.Smith),Foul,Offensive Charge,1,0,313
+0022301128,422,PT00M56.40S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,314
+0022301128,424,PT00M36.90S,3,1610612765,DET,1630201,Flynn,M. Flynn,-143,224,27,Missed,1,,,0,v,MISS Flynn 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,316
+0022301128,427,PT00M03.70S,3,1610612765,DET,1630201,Flynn,M. Flynn,-48,24,5,Missed,1,,,0,v,MISS Flynn 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,319
+0022301128,446,PT10M50.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,329
+0022301128,460,PT09M36.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn P.FOUL (P4.T1) (N.Buchert),Foul,Personal,1,0,341
+0022301128,472,PT08M56.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,1,262,26,Made,1,82,96,178,v,Flynn 26' 3PT Pullup Jump Shot (3 PTS) (Metu 3 AST),Made Shot,Pullup Jump shot,1,3,348
+0022301128,475,PT08M38.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn S.FOUL (P5.T2) (N.Buchert),Foul,Shooting,1,0,349
+0022301128,485,PT08M38.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Sasser FOR Flynn,Substitution,,0,0,352
+0022301145,164,PT00M09.40S,1,1610612765,DET,1630201,Flynn,M. Flynn,-1,4,0,Made,1,27,22,49,v,Flynn Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,125
+0022301145,180,PT11M13.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn OFF.Foul (P1) (A.Smith),Foul,Offensive,1,0,132
+0022301145,182,PT11M13.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,133
+0022301145,189,PT10M43.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,138
+0022301145,198,PT09M29.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,-20,117,12,Missed,1,,,0,v,MISS Flynn 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,145
+0022301145,209,PT08M23.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,134,103,17,Made,1,42,32,74,v,Flynn 17' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,152
+0022301145,216,PT07M46.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,87,257,27,Missed,1,,,0,v,MISS Flynn 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,156
+0022301145,240,PT06M12.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Sasser FOR Flynn,Substitution,,0,0,175
+0022301145,458,PT03M00.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn S.FOUL (P2.T4) (J.Capers),Foul,Shooting,1,0,339
+0022301145,514,PT11M27.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-197,175,26,Made,1,90,81,171,v,Flynn 26' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,3,379
+0022301145,517,PT10M53.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-145,218,26,Missed,1,,,0,v,MISS Flynn 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,381
+0022301145,536,PT10M12.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,32,7,3,Missed,1,,,0,v,MISS Flynn 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,394
+0022301145,553,PT09M00.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Sasser FOR Flynn,Substitution,,0,0,407
+0022301145,621,PT03M35.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-110,141,18,Made,1,113,92,205,v,Flynn 18' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,2,459
+0022301145,667,PT00M53.10S,4,1610612765,DET,1630201,Flynn,M. Flynn,-174,196,26,Made,1,120,100,220,v,Flynn 26' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,3,491
+0022301166,123,PT01M47.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,89
+0022301166,124,PT01M41.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,90
+0022301166,131,PT01M06.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,MISS Flynn Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,0,96
+0022301166,133,PT01M06.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,MISS Flynn Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,1,0,98
+0022301166,137,PT01M06.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,25,29,54,h,Flynn Free Throw 3 of 3 (1 PTS),Free Throw,Free Throw 3 of 3,1,0,101
+0022301166,143,PT00M35.60S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,26,29,55,h,Flynn Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,106
+0022301166,144,PT00M35.60S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,27,29,56,h,Flynn Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,107
+0022301166,162,PT11M47.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,117
+0022301166,170,PT10M50.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,42,5,4,Missed,1,,,0,h,MISS Flynn 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,122
+0022301166,178,PT10M05.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Sasser FOR Flynn,Substitution,,0,0,129
+0022301166,409,PT03M43.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,-4,38,4,Missed,1,,,0,h,MISS Flynn 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,294
+0022301166,428,PT02M19.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,310
+0022301166,439,PT01M26.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,-36,2,4,Made,1,76,92,168,h,Flynn 4' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,319
+0022301166,443,PT01M00.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,-36,0,4,Made,1,78,92,170,h,Flynn 4' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,323
+0022301166,445,PT00M31.70S,3,1610612765,DET,1630201,Flynn,M. Flynn,54,1,5,Missed,1,,,0,h,MISS Flynn 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,325
+0022301166,455,PT00M08.90S,3,1610612765,DET,1630201,Flynn,M. Flynn,-173,205,27,Missed,1,,,0,h,MISS Flynn 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,332
+0022301166,483,PT10M23.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,29,11,3,Made,1,86,104,190,h,Flynn 3' Running Layup (9 PTS),Made Shot,Running Layup Shot,1,2,349
+0022301166,491,PT09M32.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Sasser FOR Flynn,Substitution,,0,0,357
+0022301166,602,PT01M53.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn Bad Pass Turnover (P3.T20),Turnover,Bad Pass,1,0,438
+0022301166,616,PT00M55.70S,4,1610612765,DET,1630201,Flynn,M. Flynn,-237,91,25,Made,1,105,127,232,h,Flynn 25' 3PT Jump Shot (12 PTS) (Brown Jr. 3 AST),Made Shot,Jump Shot,1,3,451
+0022301181,138,PT01M05.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn P.FOUL (P1.T2) (A.Moyer-Gleich),Foul,Personal,1,0,98
+0022301181,144,PT00M08.40S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn STEAL (1 STL),,,1,0,104
+0022301181,146,PT00M03.70S,1,1610612765,DET,1630201,Flynn,M. Flynn,5,-4,1,Made,1,21,27,48,v,Flynn 1' Driving Reverse Layup (2 PTS) (Fournier 2 AST),Made Shot,Driving Reverse Layup Shot,1,2,105
+0022301181,164,PT11M24.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,-17,29,3,Missed,1,,,0,v,MISS Flynn 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,111
+0022301181,174,PT09M55.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,-64,39,7,Missed,1,,,0,v,MISS Flynn 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,119
+0022301181,180,PT09M10.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn STEAL (2 STL),,,1,0,125
+0022301181,203,PT07M33.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,-92,64,11,Made,1,33,33,66,v,Flynn 11' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,140
+0022301181,227,PT06M18.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,42,44,6,Missed,1,,,0,v,MISS Flynn 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,154
+0022301181,362,PT05M27.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn STEAL (3 STL),,,1,0,161
+0022301181,246,PT04M42.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Ivey FOR Flynn,Substitution,,0,0,169
+0022301181,447,PT01M28.00S,3,1610612765,DET,1630201,Flynn,M. Flynn,-130,224,26,Missed,1,,,0,v,MISS Flynn 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,314
+0022301181,459,PT00M06.70S,3,1610612765,DET,1630201,Flynn,M. Flynn,50,110,12,Made,1,68,80,148,v,Flynn 12' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,323
+0022301181,473,PT11M20.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn STEAL (4 STL),,,1,0,331
+0022301181,475,PT11M18.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-7,-7,1,Made,1,68,84,152,v,Flynn 1' Running Finger Roll Layup (8 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,332
+0022301181,493,PT09M08.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-137,30,14,Made,1,76,86,162,v,Flynn 14' Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,1,2,346
+0022301181,495,PT08M31.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,98,234,25,Missed,1,,,0,v,MISS Flynn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,348
+0022301181,502,PT08M12.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Metu FOR Flynn,Substitution,,0,0,355
+0022301197,105,PT03M53.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,-118,122,17,Missed,1,,,0,v,MISS Flynn 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,78
+0022301197,116,PT03M51.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,84
+0022301197,132,PT02M38.00S,1,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Nowell FOR Flynn,Substitution,,0,0,99
+0022301197,231,PT07M11.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,146,207,25,Missed,1,,,0,v,MISS Flynn 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,171
+0022301197,251,PT05M44.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,2,193,19,Made,1,47,32,79,v,Flynn 19' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,185
+0022301197,255,PT05M06.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,-27,181,18,Made,1,50,34,84,v,Flynn 18' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,187
+0022301197,258,PT04M36.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,115,220,25,Missed,1,,,0,v,MISS Flynn 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,189
+0022301197,276,PT03M01.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn STEAL (1 STL),,,1,0,205
+0022301197,278,PT02M51.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,72,243,25,Missed,1,,,0,v,MISS Flynn 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,206
+0022301197,285,PT02M44.00S,2,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Sasser FOR Flynn,Substitution,,0,0,212
+0022301197,515,PT08M44.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,377
+0022301197,516,PT08M38.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-20,5,2,Missed,1,,,0,v,MISS Flynn 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,378
+0022301197,548,PT05M43.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,118,226,25,Missed,1,,,0,v,MISS Flynn 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,401
+0022301197,564,PT04M30.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Metu FOR Flynn,Substitution,,0,0,412
+0022301207,144,PT00M28.90S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn S.FOUL (P1.T1) (J.Sterling),Foul,Shooting,1,0,99
+0022301207,169,PT10M59.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,-185,178,26,Made,1,35,39,74,h,Flynn 26' 3PT Jump Shot (3 PTS) (Achiuwa 2 AST),Made Shot,Jump Shot,1,3,117
+0022301207,199,PT07M44.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,139
+0022301207,208,PT07M29.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,h,SUB: Schroder FOR Flynn,Substitution,,0,0,146
+0022301216,116,PT02M26.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn STEAL (1 STL),,,1,0,86
+0022301216,125,PT02M11.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn P.FOUL (P1.T2) (B.Barnaky),Foul,Personal,0,0,92
+0022301216,160,PT11M17.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,29,17,3,Made,1,38,24,62,v,Flynn 3' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,1,2,115
+0022301216,173,PT09M34.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,124
+0022301216,179,PT09M07.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Boucher FOR Flynn,Substitution,,0,0,129
+0022301216,420,PT02M33.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,-137,215,25,Missed,1,,,0,v,MISS Flynn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,301
+0022301216,426,PT01M53.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,85,245,26,Missed,1,,,0,v,MISS Flynn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,306
+0022301216,449,PT00M01.10S,3,1610612761,TOR,1630201,Flynn,M. Flynn,-62,302,31,Missed,1,,,0,v,MISS Flynn 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,325
+0022301216,463,PT11M38.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,-214,129,25,Missed,1,,,0,v,MISS Flynn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,329
+0022301216,491,PT09M35.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,92,87,179,v,Flynn Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,349
+0022301216,492,PT09M35.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,92,88,180,v,Flynn Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,350
+0022301216,523,PT07M49.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,91,92,13,Made,1,96,94,190,v,Flynn 13' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,372
+0022301216,533,PT06M57.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,Flynn STEAL (2 STL),,,0,0,380
+0022301216,535,PT06M45.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,10,8,1,Made,1,96,99,195,v,Flynn 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,381
+0022301216,571,PT04M23.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,,,0,v,SUB: Siakam FOR Flynn,Substitution,,0,0,408

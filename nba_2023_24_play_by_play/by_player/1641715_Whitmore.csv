@@ -1,0 +1,983 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300066,534,PT08M19.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,390
+0022300066,574,PT06M09.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-110,233,26,Missed,1,,,0,v,MISS Whitmore 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,420
+0022300066,579,PT05M47.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,12,17,2,Missed,1,,,0,v,MISS Whitmore 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,423
+0022300066,609,PT03M49.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Bad Pass Turnover (P1.T19),Turnover,Bad Pass,1,0,441
+0022300066,652,PT01M21.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-148,205,25,Missed,1,,,0,v,MISS Whitmore 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,474
+0022300066,655,PT00M55.60S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,15,17,2,Missed,1,,,0,v,MISS Whitmore 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,477
+0022300137,645,PT01M02.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,471
+0022300137,646,PT00M48.30S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore Lost Ball Turnover (P1.T11),Turnover,Lost Ball,1,0,472
+0022300153,489,PT10M54.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore P.FOUL (P1.T1) (P.Fraher),Foul,Personal,1,0,350
+0022300153,493,PT10M31.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,1,37,4,Made,1,103,65,168,h,Whitmore 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,352
+0022300153,519,PT08M44.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,370
+0022300153,524,PT08M10.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore STEAL (1 STL),,,1,0,375
+0022300153,540,PT07M36.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,MISS Whitmore Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,388
+0022300153,542,PT07M36.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,108,71,179,h,Whitmore Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,390
+0022300153,579,PT05M04.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-191,177,26,Missed,1,,,0,h,MISS Whitmore 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,415
+0022300153,584,PT04M13.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,83,88,12,Missed,1,,,0,h,MISS Whitmore 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,420
+0022300153,605,PT02M28.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-25,30,4,Made,1,120,88,208,h,Whitmore 4' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,435
+0022300153,613,PT01M07.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,43,43,6,Made,1,122,95,217,h,Whitmore 6' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,443
+0022300263,609,PT04M21.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,33,-1,3,Made,1,129,112,241,v,Whitmore 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,422
+0022300263,610,PT03M55.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore P.FOUL (P1.PN) (D.Collins),Foul,Personal,1,0,423
+0022300263,634,PT02M55.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,440
+0022300263,643,PT01M42.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,447
+0022300263,644,PT01M38.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,15,1,2,Made,1,133,118,251,v,Whitmore 2' Running Finger Roll Layup (4 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,448
+0022300263,652,PT00M45.30S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,232,95,25,Made,1,133,123,256,v,Whitmore 25' 3PT Step Back Jump Shot (7 PTS) (Samuels Jr. 2 AST),Made Shot,Step Back Jump shot,1,3,454
+0022300263,659,PT00M16.40S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,92,243,26,Missed,1,,,0,v,MISS Whitmore 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,459
+0022300263,663,PT00M10.50S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,134,124,258,v,Whitmore Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,462
+0022300263,664,PT00M10.50S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,MISS Whitmore Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,463
+0022300291,663,PT02M54.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,MISS Whitmore Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,479
+0022300291,669,PT02M54.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,106,89,195,v,Whitmore Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,483
+0022300291,673,PT02M34.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,11,4,1,Made,1,106,91,197,v,Whitmore 1' Running Layup (3 PTS) (Holiday 3 AST),Made Shot,Running Layup Shot,1,2,486
+0022300291,676,PT02M23.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,488
+0022300291,683,PT01M50.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,106,94,200,v,Whitmore Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,494
+0022300291,684,PT01M50.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,106,95,201,v,Whitmore Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,495
+0022300291,697,PT00M41.10S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,506
+0022300291,698,PT00M36.80S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-4,83,8,Missed,1,,,0,v,MISS Whitmore 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,507
+0022300291,699,PT00M35.50S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,508
+0022300291,702,PT00M35.20S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,MISS Whitmore Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,510
+0022300291,705,PT00M35.20S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,MISS Whitmore Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,512
+0022300385,492,PT01M30.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore STEAL (1 STL),,,1,0,378
+0022300385,496,PT01M29.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,89,54,143,h,Whitmore Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,380
+0022300385,497,PT01M29.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,MISS Whitmore Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,381
+0022300385,528,PT10M56.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-221,34,0,Made,1,92,62,154,h,Whitmore 3PT Jump Shot (4 PTS) (Tate 1 AST),Made Shot,Jump Shot,1,3,407
+0022300385,531,PT10M45.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,409
+0022300385,537,PT10M28.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore STEAL (2 STL),,,1,0,415
+0022300385,540,PT10M19.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,417
+0022300385,541,PT10M17.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,21,21,3,Made,1,95,62,157,h,Whitmore 3' Putback Dunk (6 PTS),Made Shot,Putback Dunk Shot,1,2,418
+0022300385,554,PT09M51.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,427
+0022300385,555,PT09M42.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,146,92,17,Missed,1,,,0,h,MISS Whitmore 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,428
+0022300385,559,PT09M17.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,156,226,27,Missed,1,,,0,h,MISS Whitmore 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,432
+0022300385,563,PT08M55.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore S.FOUL (P1.T3) (K.Lane),Foul,Shooting,1,0,436
+0022300385,582,PT08M03.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,9,14,2,Made,1,100,68,168,h,Whitmore 2' Running Alley Oop Dunk Shot (8 PTS) (Hinton 1 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,450
+0022300385,603,PT06M15.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-183,173,25,Missed,1,,,0,h,MISS Whitmore 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,467
+0022300385,618,PT05M06.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,7,-1,1,Made,1,106,77,183,h,Whitmore 1' Running Layup (10 PTS) (Thompson 2 AST),Made Shot,Running Layup Shot,1,2,480
+0022300385,640,PT02M32.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,1,4,0,Made,1,116,85,201,h,Whitmore Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,495
+0022300385,643,PT02M04.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,175,215,28,Missed,1,,,0,h,MISS Whitmore 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,497
+0022300385,654,PT01M37.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-116,225,25,Missed,1,,,0,h,MISS Whitmore 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,506
+0022300385,664,PT00M42.10S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,151,221,27,Missed,1,,,0,h,MISS Whitmore 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,512
+0022300385,665,PT00M39.50S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,513
+0022300385,666,PT00M37.50S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,26,36,4,Made,1,122,94,216,h,Whitmore 4' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,2,514
+0022300385,667,PT00M26.50S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore P.FOUL (P2.PN) (B.Adair),Foul,Personal,1,0,515
+0022300418,159,PT00M29.80S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,116
+0022300418,162,PT00M25.50S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,MISS Whitmore Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,118
+0022300418,164,PT00M25.50S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,24,30,54,h,Whitmore Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,120
+0022300418,183,PT11M16.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,45,22,5,Missed,1,,,0,h,MISS Whitmore 5' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,2,130
+0022300418,185,PT11M07.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore S.FOUL (P1.T1) (B.Schwab),Foul,Shooting,1,0,132
+0022300418,212,PT08M53.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,2,1,0,Made,1,30,39,69,h,Whitmore Running Finger Roll Layup (3 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,154
+0022300418,234,PT07M55.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Tate FOR Whitmore,Substitution,,0,0,171
+0022300418,533,PT11M10.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-224,51,0,Made,1,90,106,196,h,Whitmore 3PT Jump Shot (6 PTS) (Thompson 2 AST),Made Shot,Jump Shot,1,3,385
+0022300418,556,PT09M43.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore S.FOUL (P2.T2) (M.Smith),Foul,Shooting,1,0,401
+0022300418,563,PT09M11.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-157,216,27,Made,1,96,111,207,h,Whitmore 27' 3PT Jump Shot (9 PTS) (Holiday 2 AST),Made Shot,Jump Shot,1,3,407
+0022300418,570,PT08M25.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore Out of Bounds Lost Ball Turnover (P1.T9),Turnover,Out of Bounds Lost Ball Turnover,1,0,412
+0022300418,594,PT06M17.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,208,192,28,Made,1,101,116,217,h,Whitmore 28' 3PT Jump Shot (12 PTS) (Thompson 3 AST),Made Shot,Jump Shot,1,3,431
+0022300418,628,PT01M55.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,164,220,27,Missed,1,,,0,h,MISS Whitmore 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,459
+0022300418,654,PT00M43.20S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore BLOCK (1 BLK),,,1,2,477
+0022300418,664,PT00M17.50S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-53,29,6,Missed,1,,,0,h,MISS Whitmore 6' Layup,Missed Shot,Layup Shot,1,2,484
+0022300453,574,PT07M22.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,195,162,25,Made,1,121,93,214,h,Whitmore 25' 3PT Pullup Jump Shot (3 PTS) (Smith Jr. 1 AST),Made Shot,Pullup Jump shot,1,3,410
+0022300453,582,PT06M52.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-6,18,2,Made,1,123,93,216,h,Whitmore 2' Driving Dunk (5 PTS) (Thompson 4 AST),Made Shot,Driving Dunk Shot,1,2,415
+0022300453,595,PT06M33.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,422
+0022300453,606,PT05M01.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-26,8,3,Missed,1,,,0,h,MISS Whitmore 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,429
+0022300453,607,PT05M00.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,430
+0022300453,608,PT04M59.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-4,25,3,Made,1,128,96,224,h,Whitmore 3' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,1,2,431
+0022300453,617,PT03M59.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,12,22,3,Made,1,132,100,232,h,Whitmore 3' Cutting Dunk Shot (9 PTS) (Bullock Jr. 2 AST),Made Shot,Cutting Dunk Shot,1,2,437
+0022300453,637,PT01M48.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,452
+0022300453,652,PT00M16.90S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,465
+0022300469,120,PT01M11.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,212,141,25,Made,1,23,20,43,h,Whitmore 25' 3PT Running Jump Shot (3 PTS) (Holiday 1 AST),Made Shot,Running Jump Shot,1,3,89
+0022300469,159,PT10M55.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore STEAL (1 STL),,,1,0,113
+0022300469,161,PT10M51.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,15,40,4,Missed,1,,,0,h,MISS Whitmore 4' Running Layup,Missed Shot,Running Layup Shot,1,2,114
+0022300469,184,PT09M01.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Sengun FOR Whitmore,Substitution,,0,0,132
+0022300469,449,PT02M40.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-205,152,26,Made,1,81,68,149,h,Whitmore 26' 3PT Jump Shot (6 PTS) (VanVleet 7 AST),Made Shot,Jump Shot,1,3,324
+0022300469,470,PT01M07.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,157,211,26,Made,1,84,72,156,h,Whitmore 26' 3PT Jump Shot (9 PTS) (VanVleet 8 AST),Made Shot,Jump Shot,1,3,342
+0022300469,477,PT00M10.90S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,347
+0022300469,493,PT11M48.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,11,27,3,Made,1,89,75,164,h,Whitmore 3' Cutting Layup Shot (11 PTS) (Thompson 1 AST),Made Shot,Cutting Layup Shot,1,2,354
+0022300469,495,PT11M31.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore P.FOUL (P1.T1) (A.Smith),Foul,Personal,1,0,355
+0022300469,513,PT09M49.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-227,36,0,Missed,1,,,0,h,MISS Whitmore 3PT Jump Shot,Missed Shot,Jump Shot,1,3,370
+0022300469,538,PT08M07.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore STEAL (2 STL),,,1,0,389
+0022300469,543,PT07M55.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore S.FOUL (P2.T3) (C.Flores),Foul,Shooting,1,0,393
+0022300469,560,PT07M13.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,406
+0022300469,566,PT06M43.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,158,200,25,Missed,1,,,0,h,MISS Whitmore 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,411
+0022300469,576,PT06M26.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Tate FOR Whitmore,Substitution,,0,0,422
+0022300469,673,PT00M50.50S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore Bad Pass Turnover (P1.T16),Turnover,Bad Pass,1,0,493
+0022300469,675,PT00M38.90S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore S.FOUL (P3.PN) (C.Flores),Foul,Shooting,1,0,495
+0022300485,128,PT01M41.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,90
+0022300485,137,PT01M20.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,98
+0022300485,148,PT00M38.80S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-10,65,7,Missed,1,,,0,h,MISS Whitmore 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,107
+0022300485,171,PT10M52.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,124
+0022300485,172,PT10M42.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,130,230,26,Missed,1,,,0,h,MISS Whitmore 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,125
+0022300485,174,PT10M30.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore STEAL (1 STL),,,1,0,128
+0022300485,176,PT10M26.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0,129
+0022300485,180,PT10M26.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Ja. Green FOR Whitmore,Substitution,,0,0,133
+0022300485,451,PT00M39.10S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,239,56,25,Made,1,70,84,154,h,Whitmore 25' 3PT Jump Shot (3 PTS) (Smith Jr. 1 AST),Made Shot,Jump Shot,1,3,338
+0022300485,461,PT11M42.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-47,31,6,Missed,1,,,0,h,MISS Whitmore 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,344
+0022300485,465,PT11M40.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,20,-10,2,Missed,1,,,0,h,MISS Whitmore 2' Layup,Missed Shot,Layup Shot,1,2,347
+0022300485,526,PT11M09.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore Out of Bounds Lost Ball Turnover (P4.T13),Turnover,Out of Bounds Lost Ball Turnover,0,0,351
+0022300485,487,PT09M42.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-15,29,3,Made,1,78,92,170,h,Whitmore 3' Driving Dunk (5 PTS),Made Shot,Driving Dunk Shot,1,2,361
+0022300485,492,PT08M54.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore S.FOUL (P1.T1) (L.Wood),Foul,Shooting,1,0,365
+0022300485,497,PT08M54.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Sengun FOR Whitmore,Substitution,,0,0,369
+0022300485,575,PT03M31.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,116,276,30,Missed,1,,,0,h,MISS Whitmore 30' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,420
+0022300485,578,PT03M28.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Holiday FOR Whitmore,Substitution,,0,0,423
+0022300485,604,PT02M20.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,439
+0022300485,605,PT02M18.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,23,6,2,Made,1,87,118,205,h,Whitmore 2' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,440
+0022300485,610,PT02M01.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,88,118,206,h,Whitmore Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,444
+0022300485,613,PT02M01.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,89,118,207,h,Whitmore Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,445
+0022300485,627,PT01M02.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,154,209,26,Missed,1,,,0,h,MISS Whitmore 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,457
+0022300485,638,PT00M32.60S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore STEAL (2 STL),,,1,0,469
+0022300485,640,PT00M30.10S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,17,9,2,Made,1,95,122,217,h,Whitmore 2' Running Dunk (11 PTS),Made Shot,Running Dunk Shot,1,2,470
+0022300496,124,PT01M36.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,96
+0022300496,125,PT01M25.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,43,15,5,Made,1,20,18,38,h,Whitmore 5' Driving Layup (2 PTS) (Je. Green 1 AST),Made Shot,Driving Layup Shot,1,2,97
+0022300496,129,PT01M25.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,21,18,39,h,Whitmore Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,99
+0022300496,141,PT00M29.60S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore STEAL (1 STL),,,1,0,110
+0022300496,143,PT00M05.70S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,29,3,3,Made,1,29,18,47,h,Whitmore 3' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,111
+0022300496,185,PT09M07.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,140
+0022300496,186,PT08M57.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,2,74,7,Missed,1,,,0,h,MISS Whitmore 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,141
+0022300496,190,PT08M28.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,64,250,26,Made,1,37,26,63,h,Whitmore 26' 3PT Jump Shot (8 PTS) (Je. Green 2 AST),Made Shot,Jump Shot,1,3,145
+0022300496,234,PT07M25.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Tate FOR Whitmore,Substitution,,0,0,157
+0022300496,490,PT00M46.50S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore Violation:Kicked Ball (B.Forte),Violation,Kicked Ball,0,0,356
+0022300496,495,PT00M29.70S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,20,8,2,Made,1,89,72,161,h,Whitmore 2' Running Layup (10 PTS) (Thompson 5 AST),Made Shot,Running Layup Shot,1,2,360
+0022300496,527,PT11M01.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,90,73,163,h,Whitmore Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,377
+0022300496,528,PT11M01.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,91,73,164,h,Whitmore Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,378
+0022300496,538,PT10M12.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,385
+0022300496,553,PT08M37.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-22,1,2,Missed,1,,,0,h,MISS Whitmore 2' Layup,Missed Shot,Layup Shot,1,2,399
+0022300496,572,PT07M56.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Ja. Green FOR Whitmore,Substitution,,0,0,411
+0022300509,138,PT02M06.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,15,263,26,Made,1,29,24,53,v,Whitmore 26' 3PT Pullup Jump Shot (3 PTS) (Je. Green 1 AST),Made Shot,Pullup Jump shot,1,3,99
+0022300509,159,PT00M52.90S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,114
+0022300509,181,PT11M05.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,36,52,6,Made,1,34,29,63,v,Whitmore 6' Driving Finger Roll Layup (5 PTS) (Je. Green 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,131
+0022300509,188,PT10M33.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-103,106,15,Missed,1,,,0,v,MISS Whitmore 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,136
+0022300509,201,PT09M28.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore S.FOUL (P1.T3) (P.Fraher),Foul,Shooting,1,0,147
+0022300509,291,PT07M53.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Tate FOR Whitmore,Substitution,,0,0,166
+0022300509,311,PT02M02.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,225
+0022300509,312,PT02M00.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-13,45,5,Made,1,57,51,108,v,Whitmore 5' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,1,2,226
+0022300509,318,PT01M13.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore STEAL (1 STL),,,1,0,232
+0022300509,332,PT00M53.40S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,241
+0022300509,467,PT02M23.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-176,193,26,Missed,1,,,0,v,MISS Whitmore 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,343
+0022300509,481,PT01M27.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,17,37,4,Made,1,88,82,170,v,Whitmore 4' Alley Oop Dunk (9 PTS) (VanVleet 6 AST),Made Shot,Alley Oop Dunk Shot,1,2,355
+0022300509,484,PT01M09.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,357
+0022300509,488,PT00M47.70S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore P.FOUL (P2.T4) (P.Ransom),Foul,Personal,1,0,360
+0022300509,494,PT00M30.70S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,362
+0022300509,495,PT00M12.10S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Offensive Charge Foul (P3) (P.Ransom),Foul,Offensive Charge,1,0,363
+0022300509,497,PT00M12.10S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,1,0,364
+0022300509,515,PT11M39.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,374
+0022300509,521,PT11M07.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,16,32,4,Missed,1,,,0,v,MISS Whitmore 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,379
+0022300509,523,PT11M02.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore P.FOUL (P4.T2) (P.Ransom),Foul,Personal,1,0,381
+0022300509,535,PT10M07.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-23,25,3,Made,1,96,87,183,v,Whitmore 3' Running Alley Oop Dunk Shot (11 PTS) (Thompson 1 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,389
+0022300509,571,PT07M32.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Sengun FOR Whitmore,Substitution,,0,0,415
+0022300523,89,PT04M23.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,68
+0022300523,125,PT02M08.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,96
+0022300523,130,PT01M34.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-227,68,24,Missed,1,,,0,v,MISS Whitmore 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,101
+0022300523,167,PT11M26.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-54,242,25,Made,1,30,27,57,v,Whitmore 25' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,127
+0022300523,172,PT11M06.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,30,28,58,v,Whitmore Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,131
+0022300523,175,PT11M06.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,30,29,59,v,Whitmore Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,133
+0022300523,185,PT09M48.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,141
+0022300523,220,PT07M23.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Ja. Green FOR Whitmore,Substitution,,0,0,165
+0022300523,261,PT04M51.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,192
+0022300523,268,PT04M35.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Whitmore,Substitution,,0,0,198
+0022300523,405,PT04M24.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,300
+0022300523,439,PT02M41.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,129,226,26,Made,1,86,77,163,v,Whitmore 26' 3PT Jump Shot (8 PTS) (Thompson 3 AST),Made Shot,Jump Shot,1,3,326
+0022300523,464,PT01M02.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore STEAL (1 STL),,,1,0,343
+0022300523,466,PT00M57.40S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-21,4,2,Missed,1,,,0,v,MISS Whitmore 2' Running Layup,Missed Shot,Running Layup Shot,1,2,344
+0022300523,469,PT00M49.70S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,148,21,15,Made,1,92,83,175,v,Whitmore 15' Pullup Jump Shot (10 PTS) (Je. Green 1 AST),Made Shot,Pullup Jump shot,1,2,347
+0022300523,483,PT11M44.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore S.FOUL (P1.T1) (R.Acosta),Foul,Shooting,1,0,355
+0022300523,514,PT09M38.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-159,227,28,Missed,1,,,0,v,MISS Whitmore 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,380
+0022300523,528,PT08M37.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore STEAL (2 STL),,,1,0,394
+0022300523,536,PT08M35.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,1,12,1,Made,1,101,89,190,v,Whitmore 1' Running Dunk (12 PTS),Made Shot,Running Dunk Shot,1,2,395
+0022300523,555,PT07M00.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-7,12,1,Made,1,104,95,199,v,Whitmore 1' Running Layup (14 PTS) (Smith Jr. 1 AST),Made Shot,Running Layup Shot,1,2,409
+0022300523,652,PT04M39.00S,5,1610612745,HOU,1641715,Whitmore,C. Whitmore,2,4,0,Made,1,112,114,226,v,Whitmore Cutting Dunk Shot (16 PTS) (Sengun 5 AST),Made Shot,Cutting Dunk Shot,1,2,482
+0022300523,675,PT02M18.00S,5,1610612745,HOU,1641715,Whitmore,C. Whitmore,64,202,21,Missed,1,,,0,v,MISS Whitmore 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,499
+0022300523,688,PT01M18.00S,5,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,509
+0022300523,689,PT01M18.00S,5,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,Missed,1,,,0,v,MISS Whitmore Putback Dunk,Missed Shot,Putback Dunk Shot,1,2,510
+0022300523,698,PT00M16.20S,5,1610612745,HOU,1641715,Whitmore,C. Whitmore,211,149,26,Missed,1,,,0,v,MISS Whitmore 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,518
+0022300534,95,PT04M22.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-32,52,6,Missed,1,,,0,v,MISS Whitmore 6' Running Layup,Missed Shot,Running Layup Shot,1,2,72
+0022300534,144,PT01M37.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,76,248,26,Missed,1,,,0,v,MISS Whitmore 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,106
+0022300534,146,PT01M34.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Violation:Kicked Ball (B.Forte),Violation,Kicked Ball,0,0,108
+0022300534,159,PT00M05.10S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-164,200,26,Missed,1,,,0,v,MISS Whitmore 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,117
+0022300534,170,PT11M28.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,32,28,4,Missed,1,,,0,v,MISS Whitmore 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,123
+0022300534,197,PT09M22.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: VanVleet FOR Whitmore,Substitution,,0,0,145
+0022300534,419,PT05M46.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore S.FOUL (P1.PN) (J.Williams),Foul,Shooting,1,0,301
+0022300534,424,PT05M46.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Ja. Green FOR Whitmore,Substitution,,0,0,305
+0022300534,474,PT01M43.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,229,43,0,Made,1,87,83,170,v,Whitmore 3PT Jump Shot (3 PTS) (Ja. Green 3 AST),Made Shot,Jump Shot,1,3,339
+0022300534,513,PT00M00.30S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-135,377,40,Missed,1,,,0,v,MISS Whitmore 40' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,367
+0022300534,521,PT11M28.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,373
+0022300534,526,PT11M01.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore AWAY.FROM.PLAY.FOUL (P2.T2) (J.Williams),Foul,Away From Play,1,0,376
+0022300534,530,PT10M36.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,237,8,24,Missed,1,,,0,v,MISS Whitmore 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,380
+0022300534,548,PT09M10.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Bullock Jr. FOR Whitmore,Substitution,,0,0,396
+0022300542,110,PT03M24.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-225,105,25,Made,1,25,23,48,v,Whitmore 25' 3PT Step Back Jump Shot (3 PTS) (VanVleet 3 AST),Made Shot,Step Back Jump shot,1,3,83
+0022300542,127,PT02M41.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,108,246,27,Made,1,26,26,52,v,Whitmore 27' 3PT Pullup Jump Shot (6 PTS) (Je. Green 1 AST),Made Shot,Pullup Jump shot,1,3,95
+0022300542,137,PT01M46.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,103
+0022300542,138,PT01M40.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-13,256,26,Missed,1,,,0,v,MISS Whitmore 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,104
+0022300542,140,PT01M31.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore S.FOUL (P1.PN) (E.Malloy),Foul,Shooting,1,0,106
+0022300542,187,PT09M59.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-146,231,27,Missed,1,,,0,v,MISS Whitmore 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,138
+0022300542,217,PT07M57.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,5,6,1,Made,1,47,42,89,v,Whitmore 1' Cutting Dunk Shot (8 PTS) (Sengun 3 AST),Made Shot,Cutting Dunk Shot,1,2,158
+0022300542,220,PT07M35.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,160
+0022300542,229,PT06M47.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Ja. Green FOR Whitmore,Substitution,,0,0,168
+0022300542,418,PT05M47.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,310
+0022300542,419,PT05M43.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,22,31,4,Made,1,90,73,163,v,Whitmore 4' Driving Floating Bank Jump Shot (10 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,311
+0022300542,424,PT05M43.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,90,74,164,v,Whitmore Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,314
+0022300542,445,PT04M13.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore S.FOUL (P2.PN) (M.Kallio),Foul,Shooting,1,0,330
+0022300542,451,PT04M03.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,1,271,27,Missed,1,,,0,v,MISS Whitmore 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,334
+0022300542,480,PT01M36.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,1,24,2,Missed,1,,,0,v,MISS Whitmore 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,355
+0022300542,489,PT00M49.20S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,109,85,194,v,Whitmore Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,363
+0022300542,492,PT00M49.20S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,109,86,195,v,Whitmore Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,365
+0022300542,503,PT00M01.20S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,81,258,27,Missed,1,,,0,v,MISS Whitmore 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,375
+0022300542,518,PT11M36.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,7,26,3,Made,1,112,88,200,v,Whitmore 3' Running Layup (15 PTS) (Holiday 1 AST),Made Shot,Running Layup Shot,1,2,384
+0022300542,522,PT11M36.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,MISS Whitmore Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,386
+0022300542,534,PT10M27.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore BLOCK (1 BLK),,,1,2,397
+0022300542,553,PT09M44.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,119,218,25,Missed,1,,,0,v,MISS Whitmore 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,413
+0022300542,583,PT07M27.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-206,101,23,Made,1,131,97,228,v,Whitmore 23' Step Back Jump Shot (17 PTS) (Thompson 3 AST),Made Shot,Step Back Jump shot,1,2,435
+0022300542,586,PT07M14.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,437
+0022300542,590,PT06M58.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,441
+0022300542,688,PT06M44.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore STEAL (1 STL),,,1,0,446
+0022300542,600,PT06M39.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,131,98,229,v,Whitmore Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,448
+0022300542,603,PT06M39.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,131,99,230,v,Whitmore Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,450
+0022300542,607,PT06M09.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,454
+0022300542,608,PT06M01.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Traveling Turnover (P1.T11),Turnover,Traveling,1,0,455
+0022300542,614,PT05M22.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,459
+0022300542,657,PT02M14.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-86,199,22,Made,1,139,108,247,v,Whitmore 22' Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,1,2,492
+0022300542,673,PT01M12.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,MISS Whitmore Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,505
+0022300542,675,PT01M12.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,141,111,252,v,Whitmore Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,0,507
+0022300555,127,PT02M13.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-178,42,18,Missed,1,,,0,v,MISS Whitmore 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,95
+0022300555,138,PT01M27.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore S.FOUL (P1.PN) (B.Taylor),Foul,Shooting,1,0,104
+0022300555,179,PT11M36.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,125
+0022300555,180,PT11M36.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,Missed,1,,,0,v,MISS Whitmore Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,126
+0022300555,192,PT10M25.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: VanVleet FOR Whitmore,Substitution,,0,0,134
+0022300555,312,PT02M29.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,228
+0022300555,313,PT02M27.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-16,6,2,Missed,1,,,0,v,MISS Whitmore 2' Running Layup,Missed Shot,Running Layup Shot,1,2,229
+0022300555,323,PT01M34.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,11,93,9,Made,1,65,40,105,v,Whitmore 9' Driving Floating Jump Shot (2 PTS) (Sengun 2 AST),Made Shot,Driving Floating Jump Shot,1,2,236
+0022300555,326,PT01M10.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,238
+0022300555,483,PT02M49.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-169,201,26,Missed,1,,,0,v,MISS Whitmore 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,353
+0022300555,485,PT02M44.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-219,126,25,Made,1,87,71,158,v,Whitmore 25' 3PT Pullup Jump Shot (5 PTS) (Sengun 6 AST),Made Shot,Pullup Jump shot,1,3,355
+0022300555,491,PT02M14.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-9,142,14,Made,1,89,73,162,v,Whitmore 14' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,2,359
+0022300555,514,PT00M25.60S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,375
+0022300555,559,PT10M51.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore S.FOUL (P2.T1) (J.DeRosa),Foul,Shooting,1,0,404
+0022300555,597,PT07M37.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-4,11,1,Made,1,110,88,198,v,Whitmore 1' Running Alley Oop Layup Shot (9 PTS) (Ja. Green 3 AST),Made Shot,Running Alley Oop Layup Shot,1,2,433
+0022300555,607,PT06M35.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,169,200,26,Missed,1,,,0,v,MISS Whitmore 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,441
+0022300555,631,PT05M23.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Personal Take Foul (P3.T3) (B.Taylor),Foul,Personal Take,1,0,457
+0022300555,635,PT05M16.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore STEAL (1 STL),,,1,0,460
+0022300555,637,PT05M13.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,11,1,Made,1,117,100,217,v,Whitmore 1' Running Alley Oop Dunk Shot (11 PTS) (Tate 1 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,461
+0022300555,649,PT04M04.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,470
+0022300555,650,PT03M56.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-27,268,27,Missed,1,,,0,v,MISS Whitmore 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,471
+0022300555,676,PT01M59.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,MISS Whitmore Free Throw Technical,Free Throw,Free Throw Technical,1,0,493
+0022300555,692,PT01M09.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-223,132,26,Made,1,123,113,236,v,Whitmore 26' 3PT Jump Shot (14 PTS) (Tate 2 AST),Made Shot,Jump Shot,1,3,506
+0022300555,694,PT01M00.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Violation:Kicked Ball (B.Taylor),Violation,Kicked Ball,0,0,507
+0022300555,703,PT00M24.90S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,515
+0022300573,126,PT02M06.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-39,29,5,Missed,1,,,0,v,MISS Whitmore 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,95
+0022300573,141,PT01M27.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,107
+0022300573,160,PT00M00.50S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,120
+0022300573,197,PT09M25.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-2,11,1,Missed,1,,,0,v,MISS Whitmore 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,147
+0022300573,202,PT09M04.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-4,254,25,Missed,1,,,0,v,MISS Whitmore 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,152
+0022300573,204,PT08M47.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore S.FOUL (P1.T3) (J.Orr),Foul,Shooting,1,0,154
+0022300573,207,PT08M47.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Ja. Green FOR Whitmore,Substitution,,0,0,156
+0022300573,302,PT04M35.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Brooks FOR Whitmore,Substitution,,0,0,208
+0022300598,155,PT00M40.60S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore BLOCK (1 BLK),,,1,2,119
+0022300598,157,PT00M37.60S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,120
+0022300598,158,PT00M35.90S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,25,25,4,Missed,1,,,0,h,MISS Whitmore 4' Running Layup,Missed Shot,Running Layup Shot,1,2,121
+0022300598,164,PT00M18.80S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,69,253,26,Made,1,31,24,55,h,Whitmore 26' 3PT Jump Shot (3 PTS) (Je. Green 1 AST),Made Shot,Jump Shot,1,3,128
+0022300598,188,PT10M39.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-151,213,26,Made,1,37,27,64,h,Whitmore 26' 3PT Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,1,3,144
+0022300598,223,PT07M37.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Ja. Green FOR Whitmore,Substitution,,0,0,171
+0022300598,464,PT03M10.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,176,194,26,Made,1,82,79,161,h,Whitmore 26' 3PT Jump Shot (9 PTS) (Tate 3 AST),Made Shot,Jump Shot,1,3,347
+0022300598,471,PT02M44.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,33,11,3,Missed,1,,,0,h,MISS Whitmore 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,352
+0022300598,498,PT01M15.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,373
+0022300598,499,PT01M14.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,374
+0022300598,505,PT00M49.90S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,MISS Whitmore Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,378
+0022300598,507,PT00M49.90S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,87,87,174,h,Whitmore Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,380
+0022300598,510,PT00M30.70S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,383
+0022300598,530,PT11M43.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,137,216,26,Missed,1,,,0,h,MISS Whitmore 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,393
+0022300598,536,PT11M17.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,398
+0022300598,550,PT10M19.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,2,32,3,Made,1,94,92,186,h,Whitmore 3' Running Finger Roll Layup (12 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,409
+0022300598,553,PT10M19.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,MISS Whitmore Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,411
+0022300598,558,PT09M51.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,415
+0022300598,564,PT09M06.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore BLOCK (2 BLK),,,1,2,422
+0022300598,567,PT09M04.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,13,25,3,Missed,1,,,0,h,MISS Whitmore 3' Running Layup,Missed Shot,Running Layup Shot,1,2,424
+0022300598,608,PT06M48.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,157,217,27,Made,1,101,99,200,h,Whitmore 27' 3PT Jump Shot (15 PTS),Made Shot,Jump Shot,1,3,453
+0022300598,633,PT04M07.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-37,15,4,Made,1,111,107,218,h,Whitmore 4' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,2,471
+0022300598,662,PT01M45.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore OFF.Foul (P1) (J.Tiven),Foul,Offensive,1,0,492
+0022300598,664,PT01M45.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,1,0,493
+0022300598,681,PT00M28.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,17,22,3,Missed,1,,,0,h,MISS Whitmore 3' Running Layup,Missed Shot,Running Layup Shot,1,2,507
+0022300598,735,PT03M08.00S,5,1610612745,HOU,1641715,Whitmore,C. Whitmore,23,18,3,Missed,1,,,0,h,MISS Whitmore 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,540
+0022300598,762,PT01M20.00S,5,1610612745,HOU,1641715,Whitmore,C. Whitmore,-237,81,25,Missed,1,,,0,h,MISS Whitmore 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,561
+0022300598,789,PT00M36.40S,5,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Tate FOR Whitmore,Substitution,,0,0,582
+0022300623,94,PT03M40.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,65
+0022300623,95,PT03M33.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-192,214,29,Missed,1,,,0,h,MISS Whitmore 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,66
+0022300623,97,PT03M22.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore S.FOUL (P1.T3) (N.Buchert),Foul,Shooting,1,0,68
+0022300623,115,PT02M49.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,81
+0022300623,135,PT01M01.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-230,15,0,Missed,1,,,0,h,MISS Whitmore 3PT Jump Shot,Missed Shot,Jump Shot,1,3,93
+0022300623,402,PT04M14.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-34,22,4,Made,1,86,83,169,h,Whitmore 4' Driving Floating Jump Shot (2 PTS) (Thompson 2 AST),Made Shot,Driving Floating Jump Shot,1,2,287
+0022300623,424,PT02M52.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,301
+0022300623,425,PT02M47.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-18,5,2,Made,1,91,88,179,h,Whitmore 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,302
+0022300623,428,PT02M17.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-203,159,26,Made,1,94,90,184,h,Whitmore 26' 3PT Jump Shot (7 PTS) (VanVleet 5 AST),Made Shot,Jump Shot,1,3,304
+0022300623,432,PT01M50.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-154,215,26,Missed,1,,,0,h,MISS Whitmore 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,306
+0022300623,434,PT01M45.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore S.FOUL (P2.PN) (M.Smith),Foul,Shooting,1,0,308
+0022300623,447,PT00M58.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,317
+0022300623,450,PT00M28.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-15,13,2,Missed,1,,,0,h,MISS Whitmore 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,319
+0022300623,471,PT10M58.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-167,201,26,Missed,1,,,0,h,MISS Whitmore 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,331
+0022300623,495,PT09M10.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,108,260,28,Made,1,106,106,212,h,Whitmore 28' 3PT Step Back Jump Shot (10 PTS) (Brooks 3 AST),Made Shot,Step Back Jump shot,1,3,347
+0022300623,499,PT08M43.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,37,173,18,Made,1,108,106,214,h,Whitmore 18' Jump Shot (12 PTS) (Brooks 4 AST),Made Shot,Jump Shot,1,2,350
+0022300623,515,PT07M34.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Sengun FOR Whitmore,Substitution,,0,0,363
+0022300635,122,PT02M55.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,202,168,26,Missed,1,,,0,v,MISS Whitmore 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,94
+0022300635,137,PT02M05.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,104
+0022300635,161,PT00M40.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,21,2,Missed,1,,,0,v,MISS Whitmore 2' Running Alley Oop Dunk Shot,Missed Shot,Running Alley Oop Dunk Shot,1,2,123
+0022300635,179,PT11M45.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,15,23,3,Made,1,28,32,60,v,Whitmore 3' Cutting Dunk Shot (2 PTS) (Thompson 1 AST),Made Shot,Cutting Dunk Shot,1,2,132
+0022300635,185,PT11M25.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,136
+0022300635,186,PT11M11.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,6,18,2,Made,1,29,34,63,v,Whitmore 2' Driving Layup (4 PTS) (Landale 1 AST),Made Shot,Driving Layup Shot,1,2,137
+0022300635,190,PT10M45.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,16,13,2,Missed,1,,,0,v,MISS Whitmore 2' Layup,Missed Shot,Layup Shot,1,2,140
+0022300635,191,PT10M44.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,141
+0022300635,194,PT10M44.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,29,35,64,v,Whitmore Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,143
+0022300635,195,PT10M44.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,29,36,65,v,Whitmore Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,144
+0022300635,197,PT10M09.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-225,-1,0,Missed,1,,,0,v,MISS Whitmore 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,146
+0022300635,209,PT09M26.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,156
+0022300635,210,PT09M10.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,9,20,2,Missed,1,,,0,v,MISS Whitmore 2' Layup,Missed Shot,Layup Shot,1,2,157
+0022300635,218,PT08M22.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,222,130,26,Missed,1,,,0,v,MISS Whitmore 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,164
+0022300635,227,PT08M05.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-2,67,7,Made,1,36,38,74,v,Whitmore 7' Turnaround Jump Shot (8 PTS) (Thompson 2 AST),Made Shot,Turnaround Jump Shot,1,2,169
+0022300635,235,PT07M17.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-124,242,27,Missed,1,,,0,v,MISS Whitmore 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,175
+0022300635,239,PT07M04.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Je. Green FOR Whitmore,Substitution,,0,0,178
+0022300635,320,PT01M55.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,241
+0022300635,329,PT01M18.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,247
+0022300635,330,PT01M17.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-1,29,3,Missed,1,,,0,v,MISS Whitmore 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,248
+0022300635,474,PT03M29.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore P.FOUL (P1.T4) (J.Capers),Foul,Personal,1,0,350
+0022300635,477,PT03M18.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,352
+0022300635,480,PT03M07.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-16,6,2,Made,1,71,91,162,v,Whitmore 2' Driving Layup (10 PTS) (Thompson 4 AST),Made Shot,Driving Layup Shot,1,2,355
+0022300635,482,PT02M56.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore S.FOUL (P2.PN) (L.Wood),Foul,Shooting,1,0,356
+0022300635,484,PT02M56.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,,"Double Technical - Whitmore, Ball (J.Capers)",Foul,Double Technical,1,0,357
+0022300635,513,PT01M37.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,380
+0022300635,531,PT00M25.10S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,393
+0022300635,549,PT11M25.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,102,222,24,Made,1,78,102,180,v,Whitmore 24' 3PT Jump Shot (13 PTS) (Holiday 2 AST),Made Shot,Jump Shot,1,3,403
+0022300635,556,PT11M07.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-88,240,26,Made,1,80,105,185,v,Whitmore 26' 3PT Jump Bank Shot (16 PTS) (Thompson 5 AST),Made Shot,Jump Bank Shot,1,3,408
+0022300635,564,PT10M33.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-228,9,0,Made,1,80,108,188,v,Whitmore 3PT Jump Shot (19 PTS) (Holiday 3 AST),Made Shot,Jump Shot,1,3,414
+0022300635,578,PT09M53.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,421
+0022300635,586,PT08M46.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,426
+0022300635,593,PT07M44.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-233,78,25,Made,1,85,121,206,v,Whitmore 25' 3PT Jump Shot (22 PTS) (Thompson 6 AST),Made Shot,Jump Shot,1,3,430
+0022300635,604,PT07M25.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-153,234,28,Missed,1,,,0,v,MISS Whitmore 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,436
+0022300635,610,PT06M46.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-15,141,14,Made,1,89,126,215,v,Whitmore 14' Jump Shot (24 PTS) (Thompson 8 AST),Made Shot,Jump Shot,1,2,440
+0022300635,618,PT06M45.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Marjanovic FOR Whitmore,Substitution,,0,0,447
+0022300645,27,PT10M09.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore S.FOUL (P1.T3) (S.Wall),Foul,Shooting,1,0,17
+0022300645,39,PT08M49.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,2,41,4,Missed,1,,,0,v,MISS Whitmore 4' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,26
+0022300645,41,PT08M47.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,28
+0022300645,42,PT08M46.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-18,28,3,Made,1,13,6,19,v,Whitmore 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,29
+0022300645,55,PT07M05.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,38
+0022300645,58,PT07M05.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,17,11,28,v,Whitmore Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,40
+0022300645,59,PT07M05.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,17,12,29,v,Whitmore Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,41
+0022300645,61,PT06M49.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,43
+0022300645,62,PT06M42.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,2,283,28,Missed,1,,,0,v,MISS Whitmore 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,44
+0022300645,94,PT03M48.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,67
+0022300645,111,PT02M22.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Holiday FOR Whitmore,Substitution,,0,0,83
+0022300645,237,PT06M16.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,232,48,24,Made,1,49,25,74,v,Whitmore 24' 3PT Jump Shot (7 PTS) (Brooks 1 AST),Made Shot,Jump Shot,1,3,168
+0022300645,260,PT04M46.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: VanVleet FOR Whitmore,Substitution,,0,0,184
+0022300645,429,PT04M09.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,313
+0022300645,433,PT03M45.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-10,-10,1,Missed,1,,,0,v,MISS Whitmore 1' Running Layup,Missed Shot,Running Layup Shot,1,2,317
+0022300645,438,PT03M29.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,167,194,26,Missed,1,,,0,v,MISS Whitmore 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,322
+0022300645,439,PT03M26.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,323
+0022300645,440,PT03M24.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,26,67,7,Missed,1,,,0,v,MISS Whitmore 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,324
+0022300645,443,PT03M15.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,327
+0022300645,444,PT03M09.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,6,6,1,Missed,1,,,0,v,MISS Whitmore 1' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,2,328
+0022300645,500,PT00M35.50S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,178,209,27,Missed,1,,,0,v,MISS Whitmore 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,366
+0022300645,553,PT09M28.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-135,-11,14,Missed,1,,,0,v,MISS Whitmore 14' Jump Shot,Missed Shot,Jump Shot,1,2,401
+0022300645,557,PT09M19.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-250,-15,25,Made,1,93,80,173,v,Whitmore 25' 3PT Jump Shot (10 PTS) (Tate 1 AST),Made Shot,Jump Shot,1,3,405
+0022300645,562,PT08M55.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,23,-11,3,Missed,1,,,0,v,MISS Whitmore 3' Running Layup,Missed Shot,Running Layup Shot,1,2,409
+0022300645,570,PT08M25.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,95,81,176,v,Whitmore Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,414
+0022300645,571,PT08M25.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,95,82,177,v,Whitmore Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,415
+0022300645,585,PT06M48.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-4,26,3,Made,1,97,86,183,v,Whitmore 3' Floating Jump Shot (14 PTS) (VanVleet 8 AST),Made Shot,Floating Jump shot,1,2,426
+0022300645,604,PT05M36.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,7,-2,1,Made,1,97,88,185,v,Whitmore 1' Running Dunk (16 PTS) (Tate 2 AST),Made Shot,Running Dunk Shot,1,2,441
+0022300645,611,PT05M28.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,446
+0022300645,612,PT05M16.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-17,262,26,Made,1,97,91,188,v,Whitmore 26' 3PT Jump Shot (19 PTS) (Ja. Green 1 AST),Made Shot,Jump Shot,1,3,447
+0022300645,619,PT04M56.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,453
+0022300645,631,PT03M26.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore BLOCK (1 BLK),,,1,2,464
+0022300645,660,PT00M26.80S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-210,132,25,Missed,1,,,0,v,MISS Whitmore 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,487
+0022300662,116,PT02M19.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-221,120,25,Made,1,33,29,62,h,Whitmore 25' 3PT Jump Shot (3 PTS) (Sengun 3 AST),Made Shot,Jump Shot,1,3,85
+0022300662,138,PT01M38.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-172,199,26,Missed,1,,,0,h,MISS Whitmore 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,99
+0022300662,142,PT01M24.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-4,15,2,Made,1,35,30,65,h,Whitmore 2' Running Dunk (5 PTS) (VanVleet 3 AST),Made Shot,Running Dunk Shot,1,2,103
+0022300662,148,PT01M18.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,107
+0022300662,149,PT01M07.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,91,236,25,Missed,1,,,0,h,MISS Whitmore 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,108
+0022300662,153,PT00M48.30S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,112
+0022300662,154,PT00M45.60S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-1,15,2,Made,1,37,31,68,h,Whitmore 2' Running Dunk (7 PTS),Made Shot,Running Dunk Shot,1,2,113
+0022300662,157,PT00M24.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-195,199,28,Made,1,40,31,71,h,Whitmore 28' 3PT Jump Shot (10 PTS) (Thompson 1 AST),Made Shot,Jump Shot,1,3,116
+0022300662,160,PT00M02.10S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,118
+0022300662,161,PT00M00.90S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,12,12,2,Made,1,42,31,73,h,Whitmore 2' Running Dunk (12 PTS),Made Shot,Running Dunk Shot,1,2,119
+0022300662,216,PT09M22.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,155
+0022300662,219,PT09M18.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,MISS Whitmore Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,157
+0022300662,225,PT09M18.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,51,38,89,h,Whitmore Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,161
+0022300662,234,PT08M30.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,54,40,94,h,Whitmore Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,167
+0022300662,239,PT08M30.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,MISS Whitmore Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,170
+0022300662,243,PT08M21.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-205,174,27,Missed,1,,,0,h,MISS Whitmore 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,174
+0022300662,245,PT08M13.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,13,16,2,Made,1,56,40,96,h,Whitmore 2' Cutting Layup Shot (16 PTS) (Sengun 4 AST),Made Shot,Cutting Layup Shot,1,2,176
+0022300662,268,PT06M23.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-129,275,30,Missed,1,,,0,h,MISS Whitmore 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,193
+0022300662,273,PT06M16.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: VanVleet FOR Whitmore,Substitution,,0,0,197
+0022300662,445,PT04M04.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,100,72,172,h,Whitmore Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,326
+0022300662,446,PT04M04.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,101,72,173,h,Whitmore Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,327
+0022300662,619,PT04M05.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Whitmore,Substitution,,0,0,458
+0022300662,667,PT01M42.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,491
+0022300662,668,PT01M41.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,38,69,8,Missed,1,,,0,h,MISS Whitmore 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,492
+0022300662,677,PT01M02.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-9,6,1,Made,1,133,116,249,h,Whitmore 1' Running Layup (20 PTS) (Thompson 3 AST),Made Shot,Running Layup Shot,1,2,499
+0022300662,680,PT00M46.80S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,501
+0022300679,107,PT03M18.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-148,222,27,Missed,1,,,0,h,MISS Whitmore 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,76
+0022300679,141,PT00M58.90S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-172,182,25,Made,1,25,33,58,h,Whitmore 25' 3PT Step Back Jump Shot (3 PTS) (Tate 2 AST),Made Shot,Step Back Jump shot,1,3,101
+0022300679,173,PT09M56.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore S.FOUL (P1.T1) (M.Dagher),Foul,Shooting,1,0,124
+0022300679,186,PT09M05.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,179,204,27,Made,1,34,42,76,h,Whitmore 27' 3PT Jump Shot (6 PTS) (VanVleet 2 AST),Made Shot,Jump Shot,1,3,133
+0022300679,190,PT08M42.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-75,273,28,Made,1,37,42,79,h,Whitmore 28' 3PT Jump Shot (9 PTS) (VanVleet 3 AST),Made Shot,Jump Shot,1,3,136
+0022300679,196,PT07M50.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore STEAL (1 STL),,,1,0,141
+0022300679,200,PT07M47.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,38,44,82,h,Whitmore Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,143
+0022300679,211,PT07M47.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,39,44,83,h,Whitmore Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,149
+0022300679,219,PT06M54.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-132,235,27,Missed,1,,,0,h,MISS Whitmore 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,156
+0022300679,227,PT06M33.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,71,6,7,Missed,1,,,0,h,MISS Whitmore 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,162
+0022300679,233,PT06M17.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Brooks FOR Whitmore,Substitution,,0,0,167
+0022300679,432,PT02M13.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-17,-3,2,Made,1,73,79,152,h,Whitmore 2' Driving Finger Roll Layup (13 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,317
+0022300679,441,PT02M13.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,MISS Whitmore Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,322
+0022300679,454,PT01M31.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-1,8,1,Made,1,77,79,156,h,Whitmore 1' Driving Dunk (15 PTS),Made Shot,Driving Dunk Shot,1,2,332
+0022300679,467,PT00M11.50S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,49,207,21,Missed,1,,,0,h,MISS Whitmore 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,343
+0022300679,499,PT11M10.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,181,197,27,Missed,1,,,0,h,MISS Whitmore 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,359
+0022300679,501,PT11M05.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,233,-3,0,Missed,1,,,0,h,MISS Whitmore 3PT Jump Shot,Missed Shot,Jump Shot,1,3,361
+0022300679,562,PT06M23.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Holiday FOR Whitmore,Substitution,,0,0,402
+0022300679,673,PT00M34.60S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,20,10,2,Made,1,99,110,209,h,Whitmore 2' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,2,477
+0022300692,111,PT02M56.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,2,208,21,Missed,1,,,0,h,MISS Whitmore 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,77
+0022300692,114,PT02M39.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,80
+0022300692,126,PT01M57.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-170,179,25,Missed,1,,,0,h,MISS Whitmore 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,88
+0022300692,131,PT01M37.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,93
+0022300692,240,PT01M37.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,4,19,2,Missed,1,,,0,h,MISS Whitmore 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,94
+0022300692,242,PT01M37.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,96
+0022300692,132,PT01M35.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-15,24,3,Made,1,30,17,47,h,Whitmore 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,97
+0022300692,145,PT00M54.90S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore Offensive Charge Foul (P1) (J.Schroeder),Foul,Offensive Charge,1,0,107
+0022300692,147,PT00M54.90S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1,0,108
+0022300692,157,PT11M47.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-33,17,4,Made,1,39,23,62,h,Whitmore 4' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,116
+0022300692,159,PT11M06.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-197,150,25,Missed,1,,,0,h,MISS Whitmore 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,118
+0022300692,179,PT09M35.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-20,15,3,Made,1,43,25,68,h,Whitmore 3' Cutting Dunk Shot (6 PTS) (VanVleet 3 AST),Made Shot,Cutting Dunk Shot,1,2,135
+0022300692,197,PT08M22.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,44,29,73,h,Whitmore Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,146
+0022300692,200,PT08M22.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,45,29,74,h,Whitmore Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,148
+0022300692,206,PT08M00.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Ja. Green FOR Whitmore,Substitution,,0,0,153
+0022300692,448,PT02M37.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-233,106,26,Made,1,95,69,164,h,Whitmore 26' 3PT Jump Shot (11 PTS) (Tate 1 AST),Made Shot,Jump Shot,1,3,335
+0022300692,455,PT02M17.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore STEAL (1 STL),,,1,0,340
+0022300692,457,PT02M13.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-33,28,4,Missed,1,,,0,h,MISS Whitmore 4' Running Alley Oop Dunk Shot,Missed Shot,Running Alley Oop Dunk Shot,1,2,341
+0022300692,469,PT01M38.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore Lost Ball Turnover (P2.T8),Turnover,Lost Ball,1,0,351
+0022300692,474,PT01M33.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,356
+0022300692,475,PT01M22.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,97,239,26,Made,1,100,69,169,h,Whitmore 26' 3PT Jump Shot (14 PTS) (Tate 3 AST),Made Shot,Jump Shot,1,3,357
+0022300692,488,PT00M37.80S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-26,15,3,Made,1,102,71,173,h,Whitmore 3' Running Dunk (16 PTS) (Sengun 8 AST),Made Shot,Running Dunk Shot,1,2,367
+0022300692,517,PT11M03.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,18,18,3,Made,1,104,75,179,h,Whitmore 3' Dunk (18 PTS) (Thompson 2 AST),Made Shot,Dunk Shot,1,2,382
+0022300692,520,PT10M25.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,33,33,5,Made,1,106,78,184,h,Whitmore 5' Cutting Layup Shot (20 PTS) (Thompson 3 AST),Made Shot,Cutting Layup Shot,1,2,384
+0022300692,522,PT10M10.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore STEAL (2 STL),,,1,0,386
+0022300692,527,PT09M42.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,21,269,27,Missed,1,,,0,h,MISS Whitmore 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,390
+0022300692,553,PT08M16.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,410
+0022300692,554,PT08M15.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-208,167,27,Missed,1,,,0,h,MISS Whitmore 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,411
+0022300692,566,PT07M08.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,25,7,3,Made,1,113,85,198,h,Whitmore 3' Layup (22 PTS),Made Shot,Layup Shot,1,2,422
+0022300692,587,PT04M41.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,436
+0022300692,588,PT04M25.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-164,209,27,Made,1,123,95,218,h,Whitmore 27' 3PT Jump Shot (25 PTS) (Holiday 2 AST),Made Shot,Jump Shot,1,3,437
+0022300692,597,PT03M53.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Samuels Jr. FOR Whitmore,Substitution,,0,0,443
+0022300709,122,PT02M15.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-184,177,26,Missed,1,,,0,v,MISS Whitmore 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,91
+0022300709,136,PT01M22.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,224,29,0,Missed,1,,,0,v,MISS Whitmore 3PT Jump Shot,Missed Shot,Jump Shot,1,3,102
+0022300709,147,PT00M44.90S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,111
+0022300709,148,PT00M40.10S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-17,30,3,Missed,1,,,0,v,MISS Whitmore 3' Running Layup,Missed Shot,Running Layup Shot,1,2,112
+0022300709,166,PT11M41.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-233,14,0,Missed,1,,,0,v,MISS Whitmore 3PT Jump Shot,Missed Shot,Jump Shot,1,3,123
+0022300709,179,PT10M50.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-18,17,2,Missed,1,,,0,v,MISS Whitmore 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,134
+0022300709,190,PT09M57.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,144
+0022300709,191,PT09M55.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,145
+0022300709,192,PT09M55.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Holiday FOR Whitmore,Substitution,,0,0,146
+0022300709,475,PT04M17.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,12,31,3,Missed,1,,,0,v,MISS Whitmore 3' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,354
+0022300709,480,PT03M41.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,233,39,24,Made,1,73,57,130,v,Whitmore 24' 3PT Jump Shot (3 PTS) (Brooks 3 AST),Made Shot,Jump Shot,1,3,358
+0022300709,498,PT02M55.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,75,58,133,v,Whitmore Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,371
+0022300709,499,PT02M55.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,MISS Whitmore Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,372
+0022300709,507,PT02M25.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-219,112,25,Missed,1,,,0,v,MISS Whitmore 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,379
+0022300709,521,PT01M28.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore STEAL (1 STL),,,1,0,392
+0022300709,523,PT01M24.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,9,15,2,Made,1,75,60,135,v,Whitmore 2' Running Finger Roll Layup (6 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,393
+0022300709,550,PT00M03.30S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,MISS Whitmore Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,412
+0022300709,554,PT00M03.30S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,80,64,144,v,Whitmore Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,415
+0022300709,573,PT11M00.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-45,254,26,Made,1,82,67,149,v,Whitmore 26' 3PT Jump Shot (10 PTS) (Thompson 1 AST),Made Shot,Jump Shot,1,3,425
+0022300709,575,PT10M43.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore P.FOUL (P1.T1) (S.Wright),Foul,Personal,1,0,426
+0022300709,588,PT09M27.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,223,123,25,Made,1,84,70,154,v,Whitmore 25' 3PT Jump Shot (13 PTS) (Thompson 2 AST),Made Shot,Jump Shot,1,3,436
+0022300709,616,PT07M44.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,0,454
+0022300709,624,PT07M20.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-119,223,25,Missed,1,,,0,v,MISS Whitmore 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,460
+0022300709,637,PT06M37.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore S.FOUL (P2.PN) (B.Barnaky),Foul,Shooting,1,0,470
+0022300709,648,PT06M27.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,MISS Whitmore Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,477
+0022300709,650,PT06M27.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,94,75,169,v,Whitmore Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,479
+0022300709,673,PT04M47.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-13,235,24,Missed,1,,,0,v,MISS Whitmore 24' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,496
+0022300709,685,PT04M16.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Samuels Jr. FOR Whitmore,Substitution,,0,0,508
+0022300719,95,PT04M00.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-16,27,3,Made,1,27,28,55,v,Whitmore 3' Driving Finger Roll Layup (2 PTS) (Holiday 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,66
+0022300719,104,PT02M35.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-224,-10,0,Made,1,32,33,65,v,Whitmore 3PT Jump Shot (5 PTS) (Holiday 2 AST),Made Shot,Jump Shot,1,3,72
+0022300719,121,PT01M33.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,20,44,5,Made,1,34,37,71,v,Whitmore 5' Driving Finger Roll Layup (7 PTS) (Thompson 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,82
+0022300719,148,PT11M49.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-39,86,9,Missed,1,,,0,v,MISS Whitmore 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,100
+0022300719,181,PT08M50.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,32,23,4,Missed,1,,,0,v,MISS Whitmore 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,124
+0022300719,183,PT08M45.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore P.FOUL (P1.T1) (Z.Zarba),Foul,Personal,1,0,126
+0022300719,187,PT08M19.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,20,1,2,Made,1,45,53,98,v,Whitmore 2' Cutting Dunk Shot (9 PTS) (Je. Green 3 AST),Made Shot,Cutting Dunk Shot,1,2,128
+0022300719,196,PT07M05.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-60,277,28,Missed,1,,,0,v,MISS Whitmore 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,135
+0022300719,205,PT06M55.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Brooks FOR Whitmore,Substitution,,0,0,142
+0022300719,389,PT04M06.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Tate FOR Whitmore,Substitution,,0,0,278
+0022300719,411,PT03M05.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Offensive Charge Foul (P2) (J.Butler),Foul,Offensive Charge,1,0,294
+0022300719,413,PT03M05.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,1,0,295
+0022300719,421,PT02M37.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,15,19,2,Missed,1,,,0,v,MISS Whitmore 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,299
+0022300719,434,PT01M39.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,129,235,27,Missed,1,,,0,v,MISS Whitmore 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,309
+0022300719,445,PT01M10.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore S.FOUL (P3.PN) (Z.Zarba),Foul,Shooting,1,0,318
+0022300719,497,PT10M16.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-26,25,4,Missed,1,,,0,v,MISS Whitmore 4' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,348
+0022300719,512,PT09M21.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-26,14,3,Missed,1,,,0,v,MISS Whitmore 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,359
+0022300719,535,PT07M54.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,378
+0022300719,541,PT07M29.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Brooks FOR Whitmore,Substitution,,0,0,383
+0022300744,124,PT03M20.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,97
+0022300744,148,PT01M35.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-172,204,27,Missed,1,,,0,v,MISS Whitmore 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,114
+0022300744,156,PT01M04.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,54,127,14,Made,1,29,18,47,v,Whitmore 14' Pullup Jump Shot (2 PTS) (Je. Green 1 AST),Made Shot,Pullup Jump shot,1,2,120
+0022300744,177,PT11M44.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,34,21,55,v,Whitmore Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,133
+0022300744,180,PT11M44.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,34,22,56,v,Whitmore Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,134
+0022300744,185,PT11M15.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,217,127,25,Made,1,36,25,61,v,Whitmore 25' 3PT Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,1,3,136
+0022300744,198,PT10M07.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,147
+0022300744,199,PT09M57.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-89,291,30,Made,1,36,33,69,v,Whitmore 30' 3PT Jump Shot (10 PTS) (Holiday 3 AST),Made Shot,Jump Shot,1,3,148
+0022300744,230,PT08M10.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,18,7,2,Missed,1,,,0,v,MISS Whitmore 2' Layup,Missed Shot,Layup Shot,1,2,170
+0022300744,237,PT07M35.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,-4,0,Made,1,39,41,80,v,Whitmore Layup (12 PTS),Made Shot,Layup Shot,1,2,176
+0022300744,286,PT04M35.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Whitmore,Substitution,,0,0,211
+0022300744,306,PT03M31.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-229,15,0,Missed,1,,,0,v,MISS Whitmore 3PT Jump Shot,Missed Shot,Jump Shot,1,3,225
+0022300744,308,PT03M24.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-228,-6,0,Made,1,53,47,100,v,Whitmore 3PT Jump Shot (15 PTS) (Je. Green 2 AST),Made Shot,Jump Shot,1,3,227
+0022300744,319,PT01M58.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,235
+0022300744,322,PT01M55.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,56,48,104,v,Whitmore Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,237
+0022300744,323,PT01M55.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,56,49,105,v,Whitmore Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,238
+0022300744,348,PT01M37.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,1,20,2,Missed,1,,,0,v,MISS Whitmore 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,241
+0022300744,338,PT00M46.60S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore P.FOUL (P1.T4) (B.Schwab),Foul,Personal,1,0,251
+0022300744,342,PT00M13.10S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,0,254
+0022300744,393,PT09M27.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Lost Ball Turnover (P2.T14),Turnover,Lost Ball,1,0,290
+0022300744,402,PT08M05.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Holiday FOR Whitmore,Substitution,,0,0,297
+0022300798,121,PT03M19.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-222,121,25,Missed,1,,,0,v,MISS Whitmore 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,87
+0022300798,129,PT03M10.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,93
+0022300798,212,PT11M52.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore BLOCK (1 BLK),,,1,2,125
+0022300798,202,PT09M32.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore BLOCK (2 BLK),,,1,2,147
+0022300798,210,PT09M23.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Whitmore,Substitution,,0,0,152
+0022300798,256,PT06M31.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,191,157,25,Missed,1,,,0,v,MISS Whitmore 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,185
+0022300798,259,PT06M19.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,188
+0022300798,262,PT06M16.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,MISS Whitmore Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,190
+0022300798,264,PT06M16.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,45,43,88,v,Whitmore Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,192
+0022300798,282,PT04M52.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Brooks FOR Whitmore,Substitution,,0,0,205
+0022300798,441,PT05M30.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,319
+0022300798,459,PT03M47.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,162,227,28,Missed,1,,,0,v,MISS Whitmore 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,333
+0022300798,463,PT03M27.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-238,0,24,Made,1,96,71,167,v,Whitmore 24' 3PT Running Jump Shot (4 PTS) (VanVleet 5 AST),Made Shot,Running Jump Shot,1,3,337
+0022300798,510,PT00M52.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-6,4,1,Made,1,101,79,180,v,Whitmore 1' Running Dunk (6 PTS) (VanVleet 6 AST),Made Shot,Running Dunk Shot,1,2,372
+0022300798,555,PT10M04.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-164,198,26,Missed,1,,,0,v,MISS Whitmore 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,402
+0022300798,558,PT09M56.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,405
+0022300798,561,PT09M53.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Bullock Jr. FOR Whitmore,Substitution,,0,0,407
+0022300798,630,PT05M50.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-228,8,0,Missed,1,,,0,v,MISS Whitmore 3PT Jump Shot,Missed Shot,Jump Shot,1,3,448
+0022300798,668,PT03M04.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Lost Ball Turnover (P1.T22),Turnover,Lost Ball,1,0,479
+0022300798,672,PT02M46.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,2,4,0,Made,1,119,100,219,v,Whitmore Cutting Dunk Shot (8 PTS) (Thompson 4 AST),Made Shot,Cutting Dunk Shot,1,2,482
+0022300798,677,PT02M19.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Bad Pass Turnover (P2.T23),Turnover,Bad Pass,1,0,485
+0022300798,695,PT02M06.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,MISS Whitmore Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,495
+0022300798,697,PT01M55.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,18,3,2,Made,1,121,102,223,v,Whitmore 2' Driving Layup (10 PTS) (Landale 3 AST),Made Shot,Driving Layup Shot,1,2,497
+0022300798,705,PT01M20.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore S.FOUL (P1.PN) (B.Kennedy),Foul,Shooting,1,0,503
+0022300798,710,PT01M06.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,194,193,27,Missed,1,,,0,v,MISS Whitmore 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,507
+0022300798,712,PT01M00.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,237,0,24,Made,1,125,105,230,v,Whitmore 24' 3PT Jump Shot (13 PTS) (Williams 1 AST),Made Shot,Jump Shot,1,3,509
+0022300806,111,PT03M45.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,4,0,0,Made,1,13,22,35,h,Whitmore Running Layup (2 PTS) (Brooks 1 AST),Made Shot,Running Layup Shot,1,2,87
+0022300806,142,PT02M04.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-210,165,27,Made,1,18,24,42,h,Whitmore 27' 3PT Jump Shot (5 PTS) (VanVleet 2 AST),Made Shot,Jump Shot,1,3,112
+0022300806,152,PT01M36.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-110,269,29,Missed,1,,,0,h,MISS Whitmore 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,119
+0022300806,184,PT11M46.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,22,28,50,h,Whitmore Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,141
+0022300806,185,PT11M46.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,MISS Whitmore Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,142
+0022300806,221,PT08M36.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,179,181,25,Made,1,33,36,69,h,Whitmore 25' 3PT Jump Shot (9 PTS) (Holiday 3 AST),Made Shot,Jump Shot,1,3,169
+0022300806,225,PT08M02.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,39,265,27,Missed,1,,,0,h,MISS Whitmore 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,171
+0022300806,228,PT07M51.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,174
+0022300806,229,PT07M46.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,175
+0022300806,243,PT06M30.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,186
+0022300806,252,PT06M11.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Ja. Green FOR Whitmore,Substitution,,0,0,193
+0022300806,462,PT03M18.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,346
+0022300806,467,PT03M14.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,MISS Whitmore Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,350
+0022300806,475,PT03M14.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,82,68,150,h,Whitmore Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,355
+0022300806,495,PT01M42.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-140,236,27,Missed,1,,,0,h,MISS Whitmore 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,371
+0022300806,498,PT01M18.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,49,42,6,Made,1,84,74,158,h,Whitmore 6' Driving Floating Jump Shot (12 PTS) (Sengun 4 AST),Made Shot,Driving Floating Jump Shot,1,2,374
+0022300806,504,PT01M18.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,85,74,159,h,Whitmore Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,1,0,377
+0022300806,509,PT00M56.90S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,6,-1,1,Made,1,87,76,163,h,Whitmore 1' Driving Reverse Layup (15 PTS),Made Shot,Driving Reverse Layup Shot,1,2,381
+0022300806,520,PT00M09.20S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-60,269,28,Missed,1,,,0,h,MISS Whitmore 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,391
+0022300806,537,PT10M53.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-13,45,5,Missed,1,,,0,h,MISS Whitmore 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,402
+0022300806,548,PT09M58.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore Lost Ball Turnover (P3.T12),Turnover,Lost Ball,1,0,411
+0022300806,557,PT09M37.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,419
+0022300806,580,PT07M35.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore Traveling Turnover (P4.T13),Turnover,Traveling,1,0,436
+0022300806,590,PT07M05.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-60,271,28,Missed,1,,,0,h,MISS Whitmore 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,445
+0022300806,603,PT06M03.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Thompson FOR Whitmore,Substitution,,0,0,455
+0022300806,783,PT00M04.10S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Thompson FOR Whitmore,Substitution,,0,0,580
+0022300822,125,PT02M30.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,212,117,24,Made,1,29,27,56,h,Whitmore 24' 3PT Jump Shot (3 PTS) (VanVleet 2 AST),Made Shot,Jump Shot,1,3,93
+0022300822,130,PT02M12.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-13,8,2,Made,1,31,27,58,h,Whitmore 2' Running Dunk (5 PTS) (Thompson 1 AST),Made Shot,Running Dunk Shot,1,2,97
+0022300822,140,PT01M00.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore S.FOUL (P1.T3) (G.Petraitis),Foul,Shooting,1,0,106
+0022300822,152,PT00M10.70S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-228,16,0,Missed,1,,,0,h,MISS Whitmore 3PT Jump Shot,Missed Shot,Jump Shot,1,3,114
+0022300822,171,PT11M06.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-186,197,27,Missed,1,,,0,h,MISS Whitmore 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,124
+0022300822,175,PT10M53.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-20,31,4,Made,1,38,31,69,h,Whitmore 4' Running Layup (7 PTS) (Smith Jr. 3 AST),Made Shot,Running Layup Shot,1,2,128
+0022300822,211,PT08M50.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore BLOCK (1 BLK),,,1,2,158
+0022300822,214,PT08M41.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,161
+0022300822,220,PT07M17.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-9,31,3,Made,1,48,35,83,h,Whitmore 3' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,166
+0022300822,250,PT05M57.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,52,40,92,h,Whitmore Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,183
+0022300822,253,PT05M57.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,53,40,93,h,Whitmore Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,185
+0022300822,260,PT05M23.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Whitmore,Substitution,,0,0,191
+0022300822,468,PT03M48.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore S.FOUL (P2.T1) (C.Washington),Foul,Shooting,1,0,352
+0022300822,475,PT03M23.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,358
+0022300822,476,PT03M17.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore Offensive Charge Foul (P3) (C.Washington),Foul,Offensive Charge,1,0,359
+0022300822,478,PT03M17.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore Offensive Foul Turnover (P1.T14),Turnover,Offensive Foul Turnover,1,0,360
+0022300822,482,PT03M01.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,363
+0022300822,486,PT02M20.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore Bad Pass Turnover (P2.T15),Turnover,Bad Pass,1,0,367
+0022300822,504,PT01M04.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,240,53,25,Missed,1,,,0,h,MISS Whitmore 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,381
+0022300822,553,PT10M25.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-45,22,5,Missed,1,,,0,h,MISS Whitmore 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,412
+0022300822,555,PT10M19.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore STEAL (1 STL),,,1,0,415
+0022300822,557,PT10M13.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,1,61,6,Missed,1,,,0,h,MISS Whitmore 6' Running Layup,Missed Shot,Running Layup Shot,1,2,416
+0022300822,562,PT10M13.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Brooks FOR Whitmore,Substitution,,0,0,420
+0022300822,704,PT00M37.70S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,MISS Whitmore Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,518
+0022300822,706,PT00M37.70S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,110,123,233,h,Whitmore Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,520
+0022300841,143,PT02M06.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,94,166,19,Made,1,26,24,50,v,Whitmore 19' Step Back Jump Shot (2 PTS) (Je. Green 1 AST),Made Shot,Step Back Jump shot,1,2,109
+0022300841,149,PT01M36.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore STEAL (1 STL),,,1,0,115
+0022300841,151,PT01M32.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-4,161,16,Missed,1,,,0,v,MISS Whitmore 16' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,116
+0022300841,162,PT00M53.80S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,156,231,28,Made,1,26,27,53,v,Whitmore 28' 3PT Pullup Jump Shot (5 PTS) (Smith Jr. 1 AST),Made Shot,Pullup Jump shot,1,3,124
+0022300841,191,PT11M29.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,9,27,3,Missed,1,,,0,v,MISS Whitmore 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,139
+0022300841,195,PT10M55.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,93,242,26,Missed,1,,,0,v,MISS Whitmore 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,142
+0022300841,199,PT10M41.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,146
+0022300841,200,PT10M37.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-21,-2,2,Missed,1,,,0,v,MISS Whitmore 2' Running Layup,Missed Shot,Running Layup Shot,1,2,147
+0022300841,230,PT08M19.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: VanVleet FOR Whitmore,Substitution,,0,0,172
+0022300841,509,PT01M17.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-18,11,2,Made,1,82,72,154,v,Whitmore 2' Driving Layup (7 PTS) (Je. Green 2 AST),Made Shot,Driving Layup Shot,1,2,380
+0022300841,550,PT11M16.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-43,80,9,Made,1,84,76,160,v,Whitmore 9' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,2,404
+0022300841,592,PT07M38.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,88,256,27,Missed,1,,,0,v,MISS Whitmore 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,436
+0022300841,600,PT07M28.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Ja. Green FOR Whitmore,Substitution,,0,0,440
+0022300854,112,PT03M00.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,230,-26,0,Missed,1,,,0,v,MISS Whitmore 3PT Jump Shot,Missed Shot,Jump Shot,1,3,89
+0022300854,114,PT02M58.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore P.FOUL (P1.T3) (B.Kennedy),Foul,Personal,1,0,91
+0022300854,127,PT02M02.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-232,144,27,Missed,1,,,0,v,MISS Whitmore 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,100
+0022300854,131,PT01M33.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,13,11,2,Missed,1,,,0,v,MISS Whitmore 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,103
+0022300854,149,PT00M29.50S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,119
+0022300854,163,PT11M53.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,33,18,51,v,Whitmore Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,125
+0022300854,164,PT11M53.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,33,19,52,v,Whitmore Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,126
+0022300854,167,PT11M33.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,-10,1,Made,1,33,21,54,v,Whitmore 1' Running Finger Roll Layup (4 PTS) (Sengun 1 AST),Made Shot,Running Finger Roll Layup Shot,1,2,129
+0022300854,188,PT09M53.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,142
+0022300854,191,PT09M34.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,229,-24,0,Missed,1,,,0,v,MISS Whitmore 3PT Jump Shot,Missed Shot,Jump Shot,1,3,145
+0022300854,282,PT08M37.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore BLOCK (1 BLK),,,1,2,153
+0022300854,240,PT05M34.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Whitmore,Substitution,,0,0,182
+0022300854,292,PT03M03.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-12,10,2,Made,1,57,47,104,v,Whitmore 2' Driving Dunk (6 PTS) (Ja. Green 1 AST),Made Shot,Driving Dunk Shot,1,2,215
+0022300854,308,PT02M09.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,57,48,105,v,Whitmore Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,227
+0022300854,311,PT02M09.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,57,49,106,v,Whitmore Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,229
+0022300854,491,PT01M51.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-5,-18,2,Made,1,84,73,157,v,Whitmore 2' Driving Floating Jump Shot (10 PTS) (Ja. Green 2 AST),Made Shot,Driving Floating Jump Shot,1,2,366
+0022300854,536,PT11M47.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,394
+0022300854,554,PT10M33.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,409
+0022300854,555,PT10M29.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,7,27,3,Missed,1,,,0,v,MISS Whitmore 3' Running Layup,Missed Shot,Running Layup Shot,1,2,410
+0022300854,562,PT09M59.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,416
+0022300854,574,PT08M38.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,9,124,12,Made,1,90,81,171,v,Whitmore 12' Turnaround Fadeaway Bank Jump Shot (12 PTS),Made Shot,Turnaround Fadeaway Bank Jump Shot,1,2,427
+0022300854,596,PT07M50.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,439
+0022300854,597,PT07M32.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,212,201,29,Missed,1,,,0,v,MISS Whitmore 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,440
+0022300854,615,PT06M41.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,,"Double Technical - Whitmore, Booker (B.Kennedy)",Foul,Double Technical,0,0,449
+0022300854,617,PT06M28.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,15,16,2,Missed,1,,,0,v,MISS Whitmore 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,450
+0022300854,619,PT06M26.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,452
+0022300854,620,PT06M26.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,5,1,Missed,1,,,0,v,MISS Whitmore 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,453
+0022300854,622,PT06M26.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,455
+0022300854,626,PT06M23.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Lost Ball Turnover (P2.T13),Turnover,Lost Ball,1,0,457
+0022300854,729,PT01M27.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,541
+0022300854,730,PT01M14.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-185,174,25,Missed,1,,,0,v,MISS Whitmore 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,542
+0022300854,738,PT00M18.40S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,2,6,1,Made,1,106,102,208,v,Whitmore 1' Running Dunk (14 PTS) (VanVleet 5 AST),Made Shot,Running Dunk Shot,1,2,550
+0022300870,134,PT02M04.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,100
+0022300870,136,PT01M51.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,102
+0022300870,137,PT01M46.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-1,-3,0,Missed,1,,,0,v,MISS Whitmore Driving Layup,Missed Shot,Driving Layup Shot,1,2,103
+0022300870,146,PT00M51.50S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,MISS Whitmore Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,111
+0022300870,148,PT00M51.50S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,19,36,55,v,Whitmore Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,113
+0022300870,153,PT00M23.80S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-6,11,1,Made,1,19,38,57,v,Whitmore 1' Running Finger Roll Layup (3 PTS) (Holiday 1 AST),Made Shot,Running Finger Roll Layup Shot,1,2,118
+0022300870,179,PT11M44.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,127
+0022300870,191,PT10M45.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-199,47,20,Missed,1,,,0,v,MISS Whitmore 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,137
+0022300870,199,PT10M02.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore STEAL (1 STL),,,1,0,145
+0022300870,201,PT09M58.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,146
+0022300870,209,PT09M31.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,152
+0022300870,210,PT09M30.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,Missed,1,,,0,v,MISS Whitmore Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,153
+0022300870,214,PT09M14.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-237,-6,24,Missed,1,,,0,v,MISS Whitmore 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,157
+0022300870,218,PT08M30.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-230,44,0,Missed,1,,,0,v,MISS Whitmore 3PT Jump Shot,Missed Shot,Jump Shot,1,3,160
+0022300870,220,PT08M21.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore P.FOUL (P1.T3) (D.Guthrie),Foul,Personal,1,0,162
+0022300870,223,PT08M21.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Ja. Green FOR Whitmore,Substitution,,0,0,164
+0022300870,504,PT01M26.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore S.FOUL (P2.T4) (J.Schroeder),Foul,Shooting,1,0,358
+0022300870,517,PT00M38.40S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,MISS Whitmore Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,366
+0022300870,519,PT00M38.40S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,76,89,165,v,Whitmore Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,368
+0022300870,520,PT00M27.80S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore S.FOUL (P3.PN) (D.Guthrie),Foul,Shooting,1,0,369
+0022300870,565,PT11M44.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,0,392
+0022300870,583,PT10M40.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Lost Ball Turnover (P3.T11),Turnover,Lost Ball,1,0,406
+0022300870,598,PT10M08.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: VanVleet FOR Whitmore,Substitution,,0,0,416
+0022300891,133,PT01M14.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,218,120,25,Made,1,26,18,44,h,Whitmore 25' 3PT Jump Shot (3 PTS) (Holiday 1 AST),Made Shot,Jump Shot,1,3,103
+0022300891,139,PT00M34.90S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-38,258,26,Missed,1,,,0,h,MISS Whitmore 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,107
+0022300891,185,PT09M56.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,139
+0022300891,186,PT09M56.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,Made,1,28,25,53,h,Whitmore Tip Dunk Shot (5 PTS),Made Shot,Tip Dunk Shot,1,2,140
+0022300891,196,PT09M19.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Sengun FOR Whitmore,Substitution,,0,0,148
+0022300891,454,PT03M20.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,341
+0022300891,460,PT02M40.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,346
+0022300891,466,PT01M43.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-18,6,2,Made,1,77,70,147,h,Whitmore 2' Running Dunk (7 PTS) (VanVleet 7 AST),Made Shot,Running Dunk Shot,1,2,351
+0022300891,492,PT00M00.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-145,505,53,Missed,1,,,0,h,MISS Whitmore 53' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,369
+0022300891,508,PT11M45.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore STEAL (1 STL),,,1,0,374
+0022300891,510,PT11M40.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-10,38,4,Missed,1,,,0,h,MISS Whitmore 4' Running Layup,Missed Shot,Running Layup Shot,1,2,375
+0022300891,511,PT11M37.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,376
+0022300891,512,PT11M36.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-9,41,4,Made,1,82,77,159,h,Whitmore 4' Putback Layup (9 PTS),Made Shot,Putback Layup Shot,1,2,377
+0022300891,514,PT11M16.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,157,212,26,Missed,1,,,0,h,MISS Whitmore 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,379
+0022300891,519,PT10M50.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,1,1,0,Made,1,84,79,163,h,Whitmore Reverse Layup (11 PTS) (Thompson 1 AST),Made Shot,Reverse Layup Shot,1,2,383
+0022300891,523,PT10M20.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,125,157,20,Made,1,86,79,165,h,Whitmore 20' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,2,386
+0022300891,528,PT09M53.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,11,44,5,Missed,1,,,0,h,MISS Whitmore 5' Running Layup,Missed Shot,Running Layup Shot,1,2,390
+0022300891,543,PT08M48.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,43,4,Missed,1,,,0,h,MISS Whitmore 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,402
+0022300891,544,PT08M46.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,403
+0022300891,545,PT08M46.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,Missed,1,,,0,h,MISS Whitmore Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,404
+0022300891,546,PT08M45.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,405
+0022300891,547,PT08M45.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,Made,1,90,81,171,h,Whitmore Tip Layup Shot (15 PTS),Made Shot,Tip Layup Shot,1,2,406
+0022300891,586,PT05M36.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-40,10,4,Made,1,99,90,189,h,Whitmore 4' Running Dunk (17 PTS) (Sengun 3 AST),Made Shot,Running Dunk Shot,1,2,434
+0022300891,595,PT04M46.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,440
+0022300891,596,PT04M44.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-5,7,1,Made,1,103,92,195,h,Whitmore 1' Running Dunk (19 PTS),Made Shot,Running Dunk Shot,1,2,441
+0022300891,609,PT03M44.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,450
+0022300891,636,PT01M00.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,472
+0022300897,123,PT01M04.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,94,241,26,Made,1,27,14,41,h,Whitmore 26' 3PT Step Back Jump Shot (3 PTS) (Holiday 1 AST),Made Shot,Step Back Jump shot,1,3,93
+0022300897,134,PT00M01.20S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-115,242,27,Missed,1,,,0,h,MISS Whitmore 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,101
+0022300897,145,PT11M34.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,6,22,2,Missed,1,,,0,h,MISS Whitmore 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,106
+0022300897,149,PT11M30.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,228,22,0,Missed,1,,,0,h,MISS Whitmore 3PT Jump Shot,Missed Shot,Jump Shot,1,3,109
+0022300897,153,PT11M23.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,219,130,25,Missed,1,,,0,h,MISS Whitmore 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,113
+0022300897,178,PT09M39.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,11,19,2,Made,1,34,25,59,h,Whitmore 2' Running Dunk (5 PTS),Made Shot,Running Dunk Shot,1,2,133
+0022300897,188,PT08M56.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-44,31,5,Missed,1,,,0,h,MISS Whitmore 5' Running Layup,Missed Shot,Running Layup Shot,1,2,141
+0022300897,196,PT08M29.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,2,31,3,Made,1,38,25,63,h,Whitmore 3' Running Layup (7 PTS) (Thompson 1 AST),Made Shot,Running Layup Shot,1,2,148
+0022300897,219,PT07M06.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,11,4,1,Made,1,40,26,66,h,Whitmore 1' Running Layup (9 PTS) (Sengun 4 AST),Made Shot,Running Layup Shot,1,2,165
+0022300897,222,PT06M43.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,126,245,28,Made,1,43,28,71,h,Whitmore 28' 3PT Jump Shot (12 PTS) (Sengun 5 AST),Made Shot,Jump Shot,1,3,167
+0022300897,225,PT06M23.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,169
+0022300897,236,PT05M44.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Tate FOR Whitmore,Substitution,,0,0,178
+0022300897,385,PT04M06.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-188,194,27,Missed,1,,,0,h,MISS Whitmore 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,283
+0022300897,413,PT02M39.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-40,107,11,Missed,1,,,0,h,MISS Whitmore 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,302
+0022300897,442,PT00M46.50S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,326
+0022300897,482,PT09M47.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,26,26,4,Missed,1,,,0,h,MISS Whitmore 4' Running Layup,Missed Shot,Running Layup Shot,1,2,352
+0022300897,493,PT08M04.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-223,59,0,Made,1,99,91,190,h,Whitmore 3PT Jump Shot (15 PTS) (Sengun 12 AST),Made Shot,Jump Shot,1,3,362
+0022300897,513,PT06M44.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-123,165,21,Made,1,101,96,197,h,Whitmore 21' Pullup Jump Shot (17 PTS) (Sengun 13 AST),Made Shot,Pullup Jump shot,1,2,376
+0022300897,531,PT05M13.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore L.B.FOUL (P1.T3) (N.Buchert),Foul,Loose Ball,1,0,385
+0022300897,551,PT03M22.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Thompson FOR Whitmore,Substitution,,0,0,401
+0022300916,139,PT00M04.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,MISS Whitmore Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,98
+0022300916,143,PT00M04.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,31,28,59,v,Whitmore Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,101
+0022300916,144,PT00M00.60S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore P.FOUL (P1.T1) (G.Petraitis),Foul,Personal,1,0,102
+0022300916,152,PT11M46.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore BLOCK (1 BLK),,,1,2,108
+0022300916,168,PT10M31.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-53,268,27,Made,1,35,31,66,v,Whitmore 27' 3PT Pullup Jump Shot (4 PTS) (Thompson 1 AST),Made Shot,Pullup Jump shot,1,3,120
+0022300916,196,PT08M16.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,140
+0022300916,225,PT06M23.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,160
+0022300916,231,PT06M09.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,48,5,Made,1,44,44,88,v,Whitmore 5' Running Layup (6 PTS) (Sengun 4 AST),Made Shot,Running Layup Shot,1,2,166
+0022300916,235,PT05M45.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Whitmore,Substitution,,0,0,170
+0022300916,362,PT06M29.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,268
+0022300916,381,PT05M26.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-20,29,4,Made,1,77,78,155,v,Whitmore 4' Driving Finger Roll Layup (8 PTS) (Ja. Green 4 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,278
+0022300916,383,PT05M03.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore STEAL (1 STL),,,1,0,280
+0022300916,387,PT05M01.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,MISS Whitmore Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,282
+0022300916,391,PT05M01.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,77,79,156,v,Whitmore Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,285
+0022300916,404,PT04M26.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,295
+0022300916,474,PT00M07.60S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore P.FOUL (P2.PN) (G.Petraitis),Foul,Personal,1,0,350
+0022300916,484,PT00M02.20S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,357
+0022300916,485,PT00M00.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,Missed,1,,,0,v,MISS Whitmore Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,358
+0022300916,504,PT10M58.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-11,250,25,Missed,1,,,0,v,MISS Whitmore 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,368
+0022300916,506,PT10M51.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,23,266,27,Missed,1,,,0,v,MISS Whitmore 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,370
+0022300916,511,PT10M24.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-43,9,4,Made,1,88,94,182,v,Whitmore 4' Driving Layup (11 PTS) (Holiday 1 AST),Made Shot,Driving Layup Shot,1,2,374
+0022300916,531,PT09M01.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-228,67,24,Missed,1,,,0,v,MISS Whitmore 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,389
+0022300916,532,PT08M58.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,390
+0022300916,545,PT08M11.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,38,32,5,Missed,1,,,0,v,MISS Whitmore 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,399
+0022300916,565,PT07M23.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,90,103,193,v,Whitmore Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,415
+0022300916,566,PT07M23.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,90,104,194,v,Whitmore Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,416
+0022300916,568,PT07M05.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,418
+0022300916,575,PT06M46.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,424
+0022300916,588,PT05M56.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Ja. Green FOR Whitmore,Substitution,,0,0,436
+0022300916,673,PT00M43.90S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-224,126,26,Missed,1,,,0,v,MISS Whitmore 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,500
+0022300916,676,PT00M35.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,503
+0022300929,117,PT02M31.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,211,155,26,Missed,1,,,0,v,MISS Whitmore 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,89
+0022300929,121,PT02M07.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,23,30,4,Missed,1,,,0,v,MISS Whitmore 4' Running Layup,Missed Shot,Running Layup Shot,1,2,93
+0022300929,138,PT00M43.40S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,107
+0022300929,157,PT11M22.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-184,194,27,Made,1,33,26,59,v,Whitmore 27' 3PT Jump Shot (3 PTS) (Landale 1 AST),Made Shot,Jump Shot,1,3,120
+0022300929,160,PT10M41.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-21,31,4,Made,1,35,28,63,v,Whitmore 4' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,2,122
+0022300929,177,PT08M52.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-145,108,18,Made,1,42,31,73,v,Whitmore 18' Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,1,2,134
+0022300929,222,PT05M22.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,162
+0022300929,223,PT05M17.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-134,219,26,Missed,1,,,0,v,MISS Whitmore 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,163
+0022300929,226,PT05M16.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Brooks FOR Whitmore,Substitution,,0,0,165
+0022300929,430,PT01M44.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,319
+0022300929,438,PT01M22.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-31,16,3,Missed,1,,,0,v,MISS Whitmore 3' Running Layup,Missed Shot,Running Layup Shot,1,2,328
+0022300929,457,PT00M25.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,343
+0022300929,504,PT10M23.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-11,94,9,Missed,1,,,0,v,MISS Whitmore 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,373
+0022300929,514,PT09M36.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-156,223,27,Made,1,79,95,174,v,Whitmore 27' 3PT Pullup Jump Shot (10 PTS) (Landale 4 AST),Made Shot,Pullup Jump shot,1,3,382
+0022300929,521,PT08M50.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-192,168,26,Missed,1,,,0,v,MISS Whitmore 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,384
+0022300929,582,PT04M17.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Ja. Green FOR Whitmore,Substitution,,0,0,429
+0022301083,132,PT01M53.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,42,270,27,Made,1,20,30,50,h,Whitmore 27' 3PT Jump Shot (3 PTS) (Holiday 1 AST),Made Shot,Jump Shot,1,3,98
+0022301083,134,PT01M41.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore STEAL (1 STL),,,1,0,100
+0022301083,136,PT01M35.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-4,65,7,Missed,1,,,0,h,MISS Whitmore 7' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,101
+0022301083,138,PT01M34.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,102
+0022301083,150,PT00M02.10S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-141,216,26,Missed,1,,,0,h,MISS Whitmore 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,111
+0022301083,195,PT09M58.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore STEAL (2 STL),,,1,0,138
+0022301083,197,PT09M48.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-120,244,27,Missed,1,,,0,h,MISS Whitmore 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,139
+0022301083,206,PT08M51.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,146
+0022301083,207,PT08M48.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-11,134,13,Made,1,30,40,70,h,Whitmore 13' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,2,147
+0022301083,220,PT07M05.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore STEAL (3 STL),,,1,0,159
+0022301083,227,PT06M51.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: VanVleet FOR Whitmore,Substitution,,0,0,165
+0022301083,447,PT02M34.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,324
+0022301083,448,PT02M34.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,12,13,2,Made,1,65,87,152,h,Whitmore 2' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,1,2,325
+0022301083,454,PT01M37.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,154,193,25,Missed,1,,,0,h,MISS Whitmore 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,330
+0022301083,458,PT01M25.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,2,58,6,Made,1,69,89,158,h,Whitmore 6' Driving Dunk (9 PTS) (VanVleet 5 AST),Made Shot,Driving Dunk Shot,1,2,332
+0022301083,490,PT10M44.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-89,29,9,Missed,1,,,0,h,MISS Whitmore 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,351
+0022301083,506,PT09M17.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-148,201,25,Missed,1,,,0,h,MISS Whitmore 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,363
+0022301083,515,PT08M37.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:4 Def:0),Rebound,Unknown,1,0,370
+0022301083,518,PT08M35.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,MISS Whitmore Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,372
+0022301083,522,PT08M35.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,83,108,191,h,Whitmore Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,375
+0022301083,555,PT06M26.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,89,258,27,Made,1,93,111,204,h,Whitmore 27' 3PT Jump Shot (13 PTS) (Smith Jr. 2 AST),Made Shot,Jump Shot,1,3,401
+0022301083,570,PT05M00.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,MISS Whitmore Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,412
+0022301083,574,PT05M00.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,MISS Whitmore Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,415
+0022301083,577,PT04M42.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,418
+0022301083,578,PT04M37.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-10,17,2,Missed,1,,,0,h,MISS Whitmore 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,419
+0022301083,580,PT04M37.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Bullock Jr. FOR Whitmore,Substitution,,0,0,422
+0022301098,170,PT11M17.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,16,27,43,v,Whitmore Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,123
+0022301098,171,PT11M17.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,MISS Whitmore Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,124
+0022301098,175,PT10M49.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,25,172,17,Missed,1,,,0,v,MISS Whitmore 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,127
+0022301098,207,PT08M32.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,148
+0022301098,208,PT08M26.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-211,124,24,Made,1,27,30,57,v,Whitmore 24' 3PT Jump Shot (4 PTS) (Holiday 1 AST),Made Shot,Jump Shot,1,3,149
+0022301098,212,PT07M57.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,92,237,25,Made,1,27,33,60,v,Whitmore 25' 3PT Running Pull-Up Jump Shot (7 PTS) (VanVleet 2 AST),Made Shot,Running Pull-Up Jump Shot,1,3,152
+0022301098,261,PT04M15.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Thompson FOR Whitmore,Substitution,,0,0,185
+0022301098,403,PT05M19.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-16,29,3,Made,1,67,61,128,v,Whitmore 3' Driving Layup (9 PTS) (VanVleet 5 AST),Made Shot,Driving Layup Shot,1,2,284
+0022301098,408,PT04M30.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-53,179,19,Missed,1,,,0,v,MISS Whitmore 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,288
+0022301098,431,PT02M59.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,305
+0022301098,446,PT01M53.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore STEAL (1 STL),,,1,0,318
+0022301098,448,PT01M50.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,11,1,Made,1,75,72,147,v,Whitmore 1' Running Dunk (11 PTS),Made Shot,Running Dunk Shot,1,2,319
+0022301098,455,PT01M17.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Double Dribble Turnover (P2.T9),Turnover,Double Dribble,1,0,325
+0022301098,458,PT00M56.40S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,152,194,25,Missed,1,,,0,v,MISS Whitmore 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,328
+0022301098,486,PT11M07.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-136,221,26,Made,1,84,75,159,v,Whitmore 26' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,3,345
+0022301098,506,PT08M54.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-188,170,25,Missed,1,,,0,v,MISS Whitmore 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,360
+0022301098,513,PT08M43.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,5,13,1,Missed,1,,,0,v,MISS Whitmore 1' Dunk,Missed Shot,Dunk Shot,1,2,366
+0022301098,528,PT07M25.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,0,376
+0022301098,530,PT07M12.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore P.FOUL (P1.T2) (N.Green),Foul,Personal,1,0,378
+0022301098,547,PT06M02.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,210,141,25,Missed,1,,,0,v,MISS Whitmore 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,390
+0022301098,561,PT05M23.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Je. Green FOR Whitmore,Substitution,,0,0,400
+0022301113,131,PT01M30.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,97
+0022301113,141,PT00M44.50S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore S.FOUL (P1.T2) (N.Sago),Foul,Shooting,1,0,106
+0022301113,153,PT00M08.60S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-135,225,26,Missed,1,,,0,h,MISS Whitmore 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,116
+0022301113,177,PT10M38.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,25,35,60,h,Whitmore Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,130
+0022301113,178,PT10M38.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,26,35,61,h,Whitmore Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,131
+0022301113,233,PT06M27.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Thompson FOR Whitmore,Substitution,,0,0,170
+0022301113,426,PT03M50.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,178,185,26,Missed,1,,,0,h,MISS Whitmore 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,309
+0022301113,435,PT03M20.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,314
+0022301113,436,PT03M14.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-37,29,5,Missed,1,,,0,h,MISS Whitmore 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,315
+0022301113,452,PT02M09.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-86,268,28,Made,1,77,93,170,h,Whitmore 28' 3PT Jump Shot (5 PTS) (Ja. Green 7 AST),Made Shot,Jump Shot,1,3,327
+0022301113,458,PT01M43.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,48,6,5,Missed,1,,,0,h,MISS Whitmore 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,331
+0022301113,462,PT01M32.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,15,8,2,Made,1,79,95,174,h,Whitmore 2' Running Alley Oop Dunk Shot (7 PTS) (Thompson 1 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,335
+0022301113,468,PT00M55.60S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-69,270,28,Missed,1,,,0,h,MISS Whitmore 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,339
+0022301113,470,PT00M41.40S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-22,22,3,Made,1,81,97,178,h,Whitmore 3' Driving Layup (9 PTS) (Smith Jr. 2 AST),Made Shot,Driving Layup Shot,1,2,341
+0022301113,502,PT11M21.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,17,13,2,Made,1,85,101,186,h,Whitmore 2' Driving Finger Roll Layup (11 PTS) (VanVleet 7 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,359
+0022301113,518,PT10M07.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,26,190,19,Missed,1,,,0,h,MISS Whitmore 19' Jump Shot,Missed Shot,Jump Shot,1,2,370
+0022301113,539,PT08M38.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,387
+0022301113,542,PT08M21.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore BLOCK (1 BLK),,,1,2,391
+0022301113,548,PT08M01.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,396
+0022301113,549,PT07M57.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,114,242,27,Missed,1,,,0,h,MISS Whitmore 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,397
+0022301113,559,PT07M28.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-21,65,7,Made,1,94,108,202,h,Whitmore 7' Driving Floating Bank Jump Shot (13 PTS) (VanVleet 9 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,404
+0022301113,583,PT05M58.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-229,44,0,Missed,1,,,0,h,MISS Whitmore 3PT Jump Shot,Missed Shot,Jump Shot,1,3,420
+0022301113,596,PT04M44.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,99,116,215,h,Whitmore Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,430
+0022301113,599,PT04M44.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,100,116,216,h,Whitmore Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,433
+0022301113,603,PT04M20.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,436
+0022301113,604,PT04M14.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore Out of Bounds - Bad Pass Turnover Turnover (P2.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,437
+0022301113,648,PT01M14.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,69,31,8,Made,1,108,129,237,h,Whitmore 8' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,2,467
+0022301113,651,PT01M14.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,MISS Whitmore Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,469
+0022301120,72,PT06M13.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,51
+0022301120,79,PT05M19.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore S.FOUL (P1.T1) (E.Scott),Foul,Shooting,1,0,57
+0022301120,85,PT05M06.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore Backcourt Turnover (P1.T3),Turnover,Backcourt Turnover,1,0,61
+0022301120,105,PT03M28.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,75
+0022301120,106,PT03M17.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-9,78,8,Missed,1,,,0,h,MISS Whitmore 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,76
+0022301120,115,PT02M43.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,28,22,4,Missed,1,,,0,h,MISS Whitmore 4' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,85
+0022301120,127,PT02M24.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-15,29,3,Made,1,23,21,44,h,Whitmore 3' Reverse Dunk (2 PTS) (Landale 1 AST),Made Shot,Reverse Dunk Shot,1,2,92
+0022301120,143,PT01M14.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,104
+0022301120,144,PT01M11.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,10,29,3,Missed,1,,,0,h,MISS Whitmore 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,105
+0022301120,170,PT11M16.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-10,251,25,Made,1,30,29,59,h,Whitmore 25' 3PT Jump Shot (5 PTS) (Smith Jr. 2 AST),Made Shot,Jump Shot,1,3,119
+0022301120,186,PT09M23.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,109,76,13,Missed,1,,,0,h,MISS Whitmore 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,130
+0022301120,191,PT09M13.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Je. Green FOR Whitmore,Substitution,,0,0,134
+0022301120,432,PT03M22.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,311
+0022301120,433,PT03M22.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,Missed,1,,,0,h,MISS Whitmore Tip Dunk Shot,Missed Shot,Tip Dunk Shot,1,2,312
+0022301120,437,PT03M07.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,26,24,4,Missed,1,,,0,h,MISS Whitmore 4' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,316
+0022301120,461,PT01M58.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,243,79,26,Made,1,79,89,168,h,Whitmore 26' 3PT Running Pull-Up Jump Shot (8 PTS) (Ja. Green 3 AST),Made Shot,Running Pull-Up Jump Shot,1,3,334
+0022301120,476,PT00M47.70S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,168,204,26,Missed,1,,,0,h,MISS Whitmore 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,345
+0022301120,497,PT11M44.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,13,21,2,Made,1,85,93,178,h,Whitmore 2' Cutting Finger Roll Layup Shot (10 PTS) (Ja. Green 4 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,357
+0022301120,524,PT09M04.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,92,99,191,h,Whitmore Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,378
+0022301120,527,PT09M04.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,93,99,192,h,Whitmore Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,380
+0022301120,530,PT08M41.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-148,216,26,Missed,1,,,0,h,MISS Whitmore 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,383
+0022301120,560,PT06M09.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Landale FOR Whitmore,Substitution,,0,0,405
+0022301131,215,PT10M16.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,227,-4,0,Made,1,31,49,80,v,Whitmore 3PT Jump Shot (3 PTS) (VanVleet 3 AST),Made Shot,Jump Shot,1,3,150
+0022301131,223,PT09M22.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,227,44,0,Missed,1,,,0,v,MISS Whitmore 3PT Jump Shot,Missed Shot,Jump Shot,1,3,157
+0022301131,244,PT07M31.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore BLOCK (1 BLK),,,1,2,173
+0022301131,246,PT07M28.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,174
+0022301131,273,PT06M21.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,192
+0022301131,282,PT05M34.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Je. Green FOR Whitmore,Substitution,,0,0,198
+0022301131,340,PT01M25.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore S.FOUL (P1.PN) (C.Washington),Foul,Shooting,1,0,241
+0022301131,492,PT01M45.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,1,44,4,Missed,1,,,0,v,MISS Whitmore 4' Jump Shot,Missed Shot,Jump Shot,1,2,346
+0022301131,502,PT01M34.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,96,99,195,v,Whitmore Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,354
+0022301131,503,PT01M34.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,96,100,196,v,Whitmore Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,355
+0022301131,518,PT00M38.30S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,367
+0022301131,521,PT00M34.10S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,98,105,203,v,Whitmore Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,369
+0022301131,524,PT00M34.10S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,98,106,204,v,Whitmore Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,371
+0022301131,550,PT11M21.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore STEAL (1 STL),,,1,0,386
+0022301131,552,PT11M17.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-6,14,2,Made,1,98,108,206,v,Whitmore 2' Running Dunk (9 PTS),Made Shot,Running Dunk Shot,1,2,387
+0022301131,553,PT11M02.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore P.FOUL (P2.T1) (C.Washington),Foul,Personal,1,0,388
+0022301131,556,PT10M56.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,390
+0022301131,557,PT10M46.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,10,253,25,Missed,1,,,0,v,MISS Whitmore 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,391
+0022301131,568,PT10M15.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,23,22,3,Made,1,100,110,210,v,Whitmore 3' Cutting Layup Shot (11 PTS) (Landale 2 AST),Made Shot,Cutting Layup Shot,1,2,399
+0022301131,614,PT08M00.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore BLOCK (2 BLK),,,1,2,431
+0022301131,632,PT05M48.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Bullock Jr. FOR Whitmore,Substitution,,0,0,447
+0022301150,128,PT01M13.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-138,236,27,Missed,1,,,0,h,MISS Whitmore 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,93
+0022301150,151,PT00M00.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-134,601,62,Missed,1,,,0,h,MISS Whitmore 62' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,109
+0022301150,164,PT11M23.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-22,257,26,Missed,1,,,0,h,MISS Whitmore 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,116
+0022301150,178,PT10M23.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore S.FOUL (P1.T2) (B.Nansel),Foul,Shooting,1,0,126
+0022301150,187,PT09M51.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Ja. Green FOR Whitmore,Substitution,,0,0,132
+0022301150,443,PT02M09.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-10,37,4,Made,1,92,78,170,h,Whitmore 4' Driving Floating Jump Shot (2 PTS) (Landale 3 AST),Made Shot,Driving Floating Jump Shot,1,2,318
+0022301150,449,PT01M46.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore L.B.FOUL (P2.PN) (B.Forte),Foul,Loose Ball,1,0,322
+0022301150,451,PT01M46.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore T.FOUL (P2.PN) (B.Forte),Foul,Technical,1,0,323
+0022301150,461,PT01M46.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,SUB: Ja. Green FOR Whitmore,Substitution,,0,0,327
+0022301150,456,PT01M46.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,h,Whitmore Ejection:Other,Ejection,Other,0,0,328
+0022301168,124,PT02M45.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,22,23,45,v,Whitmore Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,87
+0022301168,125,PT02M45.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,22,24,46,v,Whitmore Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,88
+0022301168,143,PT00M59.40S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,101
+0022301168,144,PT00M53.40S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-102,256,28,Missed,1,,,0,v,MISS Whitmore 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,102
+0022301168,176,PT10M11.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,123,241,27,Made,1,36,43,79,v,Whitmore 27' 3PT Pullup Jump Shot (5 PTS) (Ja. Green 1 AST),Made Shot,Pullup Jump shot,1,3,126
+0022301168,183,PT09M29.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-169,200,26,Made,1,36,46,82,v,Whitmore 26' 3PT Jump Shot (8 PTS) (Smith Jr. 2 AST),Made Shot,Jump Shot,1,3,133
+0022301168,191,PT08M21.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-234,44,24,Missed,1,,,0,v,MISS Whitmore 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,137
+0022301168,202,PT07M52.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,31,34,5,Missed,1,,,0,v,MISS Whitmore 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,144
+0022301168,226,PT06M11.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,225,13,0,Missed,1,,,0,v,MISS Whitmore 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,162
+0022301168,247,PT04M12.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-203,193,28,Made,1,55,57,112,v,Whitmore 28' 3PT Jump Shot (11 PTS) (Landale 1 AST),Made Shot,Jump Shot,1,3,179
+0022301168,264,PT03M35.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-17,32,4,Made,1,58,60,118,v,Whitmore 4' Cutting Dunk Shot (13 PTS) (Landale 2 AST),Made Shot,Cutting Dunk Shot,1,2,191
+0022301168,285,PT01M42.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,206
+0022301168,288,PT01M32.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,126,217,25,Made,1,61,67,128,v,Whitmore 25' 3PT Jump Shot (16 PTS) (VanVleet 5 AST),Made Shot,Jump Shot,1,3,208
+0022301168,290,PT01M17.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore BLOCK (1 BLK),,,1,2,210
+0022301168,293,PT01M15.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore BLOCK (2 BLK),,,1,2,213
+0022301168,361,PT07M53.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Offensive Charge Foul (P1) (R.Acosta),Foul,Offensive Charge,1,0,261
+0022301168,363,PT07M53.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,262
+0022301168,428,PT03M07.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-64,258,27,Missed,1,,,0,v,MISS Whitmore 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,310
+0022301168,446,PT01M42.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,325
+0022301168,447,PT01M35.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,326
+0022301168,449,PT01M32.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore S.FOUL (P2.T3) (A.Nagy),Foul,Shooting,1,0,328
+0022301168,495,PT11M08.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,100,100,200,v,Whitmore Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,355
+0022301168,496,PT11M08.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,100,101,201,v,Whitmore Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,356
+0022301168,498,PT10M43.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,358
+0022301168,499,PT10M35.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,16,38,4,Missed,1,,,0,v,MISS Whitmore 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,359
+0022301168,518,PT09M34.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: VanVleet FOR Whitmore,Substitution,,0,0,375
+0022301183,60,PT06M16.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,232,85,25,Missed,1,,,0,v,MISS Whitmore 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,42
+0022301183,64,PT05M56.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-4,73,7,Missed,1,,,0,v,MISS Whitmore 7' Running Layup,Missed Shot,Running Layup Shot,1,2,46
+0022301183,79,PT04M21.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,59
+0022301183,80,PT04M16.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-67,109,13,Missed,1,,,0,v,MISS Whitmore 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,60
+0022301183,95,PT03M16.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,27,262,26,Made,1,19,18,37,v,Whitmore 26' 3PT Jump Shot (3 PTS) (Ja. Green 1 AST),Made Shot,Jump Shot,1,3,70
+0022301183,111,PT02M03.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore P.FOUL (P1.T4) (K.Scott),Foul,Personal,1,0,82
+0022301183,115,PT01M46.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,85
+0022301183,117,PT01M27.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore STEAL (1 STL),,,1,0,88
+0022301183,119,PT01M19.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,17,75,8,Missed,1,,,0,v,MISS Whitmore 8' Running Layup,Missed Shot,Running Layup Shot,1,2,89
+0022301183,142,PT11M47.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,232,38,24,Missed,1,,,0,v,MISS Whitmore 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,105
+0022301183,145,PT11M36.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,108
+0022301183,149,PT11M20.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore STEAL (2 STL),,,1,0,112
+0022301183,154,PT10M50.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,115
+0022301183,158,PT09M59.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-194,210,29,Made,1,26,31,57,v,Whitmore 29' 3PT Jump Shot (6 PTS) (Je. Green 2 AST),Made Shot,Jump Shot,1,3,118
+0022301183,182,PT08M09.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,118,236,26,Missed,1,,,0,v,MISS Whitmore 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,136
+0022301183,185,PT08M01.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,139
+0022301183,191,PT07M49.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Landale FOR Whitmore,Substitution,,0,0,144
+0022301183,257,PT01M10.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,194
+0022301183,382,PT04M25.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore S.FOUL (P2.T3) (M.Kallio),Foul,Shooting,1,0,288
+0022301183,400,PT03M19.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,1,25,3,Made,1,64,77,141,v,Whitmore 3' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,302
+0022301183,459,PT10M59.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-167,187,25,Made,1,75,88,163,v,Whitmore 25' 3PT Jump Shot (11 PTS) (Smith Jr. 3 AST),Made Shot,Jump Shot,1,3,347
+0022301183,489,PT09M14.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-223,55,0,Missed,1,,,0,v,MISS Whitmore 3PT Jump Shot,Missed Shot,Jump Shot,1,3,368
+0022301183,493,PT08M56.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore P.FOUL (P3.T3) (M.Kallio),Foul,Personal,1,0,371
+0022301183,505,PT08M12.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,7,51,5,Missed,1,,,0,v,MISS Whitmore 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,379
+0022301183,523,PT07M26.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,59,262,27,Missed,1,,,0,v,MISS Whitmore 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,390
+0022301183,550,PT06M13.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore S.FOUL (P4.PN) (K.Cutler),Foul,Shooting,1,0,411
+0022301183,576,PT04M38.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,110,261,28,Missed,1,,,0,v,MISS Whitmore 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,431
+0022301183,578,PT04M34.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore P.FOUL (P5.PN) (M.Kallio),Foul,Personal,1,0,433
+0022301183,581,PT04M34.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Whitmore,Substitution,,0,0,435
+0022301199,41,PT08M08.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,-21,24,3,Missed,1,,,0,v,MISS Whitmore 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,32
+0022301199,75,PT05M30.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,57
+0022301199,114,PT02M43.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,86
+0022301199,115,PT02M43.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,Made,1,17,22,39,v,Whitmore Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,2,87
+0022301199,121,PT02M25.00S,1,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Bullock Jr. FOR Whitmore,Substitution,,0,0,92
+0022301199,171,PT11M17.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,128
+0022301199,191,PT09M28.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore BLOCK (1 BLK),,,1,2,146
+0022301199,206,PT08M29.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,MISS Whitmore Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,159
+0022301199,214,PT08M29.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,29,33,62,v,Whitmore Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,164
+0022301199,215,PT08M18.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore S.FOUL (P1.T3) (M.Ervin),Foul,Shooting,1,0,165
+0022301199,220,PT08M08.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,207,174,27,Made,1,30,36,66,v,Whitmore 27' 3PT Jump Shot (6 PTS) (Thompson 3 AST),Made Shot,Jump Shot,1,3,169
+0022301199,232,PT07M20.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-154,200,25,Missed,1,,,0,v,MISS Whitmore 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,178
+0022301199,253,PT05M26.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,7,261,26,Missed,1,,,0,v,MISS Whitmore 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,194
+0022301199,260,PT05M04.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Landale FOR Whitmore,Substitution,,0,0,199
+0022301199,311,PT02M10.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,-20,31,4,Missed,1,,,0,v,MISS Whitmore 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,237
+0022301199,313,PT02M06.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,239
+0022301199,314,PT02M06.00S,2,1610612745,HOU,1641715,Whitmore,C. Whitmore,2,26,3,Made,1,45,48,93,v,Whitmore 3' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,1,2,240
+0022301199,344,PT11M18.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,118,256,28,Missed,1,,,0,v,MISS Whitmore 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,262
+0022301199,353,PT10M14.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-1,52,5,Missed,1,,,0,v,MISS Whitmore 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,270
+0022301199,368,PT09M24.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,9,15,2,Made,1,55,55,110,v,Whitmore 2' Driving Layup (10 PTS) (Smith Jr. 3 AST),Made Shot,Driving Layup Shot,1,2,281
+0022301199,382,PT08M18.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-188,199,27,Made,1,58,61,119,v,Whitmore 27' 3PT Jump Shot (13 PTS) (Ja. Green 3 AST),Made Shot,Jump Shot,1,3,292
+0022301199,385,PT08M02.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,294
+0022301199,386,PT07M58.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-11,23,3,Made,1,58,63,121,v,Whitmore 3' Running Dunk (15 PTS),Made Shot,Running Dunk Shot,1,2,295
+0022301199,394,PT07M12.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,303
+0022301199,423,PT05M09.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,SUB: Williams FOR Whitmore,Substitution,,0,0,327
+0022301199,454,PT03M02.00S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,9,28,3,Made,1,72,76,148,v,Whitmore 3' Driving Layup (17 PTS) (Hinton 2 AST),Made Shot,Driving Layup Shot,1,2,347
+0022301199,490,PT00M58.30S,3,1610612745,HOU,1641715,Whitmore,C. Whitmore,-10,17,2,Made,1,81,81,162,v,Whitmore 2' Driving Layup (19 PTS) (Holiday 2 AST),Made Shot,Driving Layup Shot,1,2,374
+0022301199,619,PT03M36.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,55,60,8,Missed,1,,,0,v,MISS Whitmore 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,463
+0022301199,664,PT01M00.00S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,-196,175,26,Missed,1,,,0,v,MISS Whitmore 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,504
+0022301199,665,PT00M58.10S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,Whitmore REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,505
+0022301199,666,PT00M58.10S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,4,23,2,Made,1,102,112,214,v,Whitmore 2' Putback Layup (21 PTS),Made Shot,Putback Layup Shot,1,2,506
+0022301199,673,PT00M58.10S,4,1610612745,HOU,1641715,Whitmore,C. Whitmore,0,0,0,,0,,,0,v,MISS Whitmore Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,510

@@ -1,0 +1,703 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300064,630,PT05M22.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,1,13,1,Missed,1,,,0,h,MISS Nwora 1' Layup,Missed Shot,Layup Shot,1,2,459
+0022300064,635,PT05M13.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,234,151,28,Made,1,135,112,247,h,Nwora 28' 3PT Running Jump Shot (3 PTS) (McConnell 1 AST),Made Shot,Running Jump Shot,1,3,463
+0022300064,642,PT03M57.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,-12,225,23,Missed,1,,,0,h,MISS Nwora 23' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,468
+0022300064,650,PT03M24.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,2,0,0,Made,1,139,114,253,h,Nwora Running Jump Shot (5 PTS) (McConnell 2 AST),Made Shot,Running Jump Shot,1,2,476
+0022300064,666,PT02M30.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora BLOCK (1 BLK),,,1,2,489
+0022300064,680,PT01M20.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,-224,64,0,Missed,1,,,0,h,MISS Nwora 3PT Jump Shot,Missed Shot,Jump Shot,1,3,501
+0022300064,684,PT01M02.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,23,15,3,Missed,1,,,0,h,MISS Nwora 3' Running Layup,Missed Shot,Running Layup Shot,1,2,505
+0022300064,685,PT00M59.80S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,506
+0022300064,686,PT00M57.80S,4,1610612754,IND,1629670,Nwora,J. Nwora,5,6,1,Missed,1,,,0,h,MISS Nwora 1' Layup,Missed Shot,Layup Shot,1,2,507
+0022300118,397,PT06M44.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,10,7,1,Made,1,94,63,157,v,Nwora 1' Running Layup (2 PTS) (Hield 4 AST),Made Shot,Running Layup Shot,1,2,298
+0022300118,427,PT04M37.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,-234,68,24,Missed,1,,,0,v,MISS Nwora 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,322
+0022300118,444,PT02M53.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,-148,212,26,Missed,1,,,0,v,MISS Nwora 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,336
+0022300118,508,PT00M57.50S,3,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora 3 Second Violation Turnover (P1.T7),Turnover,3 Second Violation,1,0,360
+0022300118,527,PT09M01.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,-225,121,26,Missed,1,,,0,v,MISS Nwora 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,392
+0022300118,529,PT08M48.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,-233,71,24,Missed,1,,,0,v,MISS Nwora 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,394
+0022300118,559,PT06M02.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,-9,46,5,Missed,1,,,0,v,MISS Nwora 5' Running Layup,Missed Shot,Running Layup Shot,1,2,416
+0022300118,602,PT03M20.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,-39,38,5,Made,1,145,96,241,v,Nwora 5' Driving Layup (4 PTS) (Sheppard 2 AST),Made Shot,Driving Layup Shot,1,2,446
+0022300118,606,PT03M20.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,145,97,242,v,Nwora Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,448
+0022300118,610,PT02M36.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora P.FOUL (P1.T4) (D.Richardson),Foul,Personal,1,0,451
+0022300118,617,PT02M10.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora Out of Bounds Lost Ball Turnover (P2.T8),Turnover,Out of Bounds Lost Ball Turnover,1,0,457
+0022300118,620,PT01M58.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,460
+0022300118,625,PT01M22.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,39,22,4,Missed,1,,,0,v,MISS Nwora 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,463
+0022300118,627,PT01M21.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora L.B.FOUL (P2.PN) (B.Taylor),Foul,Loose Ball,1,0,465
+0022300118,639,PT00M54.20S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0,475
+0022300146,599,PT08M07.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,426
+0022300146,608,PT07M27.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,431
+0022300146,615,PT06M42.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Out of Bounds - Bad Pass Turnover Turnover (P1.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,0,439
+0022300146,620,PT06M01.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,443
+0022300146,621,PT06M00.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Lost Ball Turnover (P2.T14),Turnover,Lost Ball,1,0,444
+0022300146,639,PT04M36.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,230,13,0,Made,1,143,104,247,h,Nwora 3PT Jump Shot (3 PTS) (McConnell 3 AST),Made Shot,Jump Shot,1,3,457
+0022300146,644,PT03M54.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,7,-2,1,Made,1,145,104,249,h,Nwora 1' Driving Dunk (5 PTS) (Walker 2 AST),Made Shot,Driving Dunk Shot,1,2,460
+0022300146,660,PT02M55.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,140,213,25,Missed,1,,,0,h,MISS Nwora 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,472
+0022300146,663,PT02M39.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,475
+0022300146,667,PT02M23.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,MISS Nwora Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,478
+0022300146,669,PT02M23.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,148,104,252,h,Nwora Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,480
+0022300209,319,PT04M38.00S,2,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,235
+0022300209,367,PT00M42.70S,2,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Jump Ball Nwora vs. Ingles: Tip to Turner,Jump Ball,,1,0,272
+0022300209,370,PT00M42.70S,2,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora STEAL (1 STL),,,1,0,274
+0022300209,486,PT05M54.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,360
+0022300209,487,PT05M49.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,-107,257,28,Missed,1,,,0,h,MISS Nwora 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,361
+0022300209,500,PT05M14.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,370
+0022300209,501,PT05M14.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,-2,38,4,Made,1,63,98,161,h,Nwora 4' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,371
+0022300209,504,PT04M35.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,-11,19,2,Made,1,65,98,163,h,Nwora 2' Driving Layup (4 PTS) (Turner 3 AST),Made Shot,Driving Layup Shot,1,2,374
+0022300209,528,PT03M09.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,392
+0022300209,555,PT01M30.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Offensive Charge Foul (P1) (J.Conley),Foul,Offensive Charge,1,0,412
+0022300209,557,PT01M30.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Offensive Foul Turnover (P1.T14),Turnover,Offensive Foul Turnover,1,0,413
+0022300209,568,PT00M28.80S,3,1610612754,IND,1629670,Nwora,J. Nwora,-81,266,28,Made,1,76,107,183,h,Nwora 28' 3PT Jump Shot (7 PTS) (McConnell 2 AST),Made Shot,Jump Shot,1,3,423
+0022300209,570,PT00M08.20S,3,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora STEAL (2 STL),,,1,0,425
+0022300209,572,PT00M05.30S,3,1610612754,IND,1629670,Nwora,J. Nwora,-6,9,1,Made,1,78,107,185,h,Nwora 1' Running Finger Roll Layup (9 PTS) (Sheppard 1 AST),Made Shot,Running Finger Roll Layup Shot,1,2,426
+0022300209,606,PT09M26.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,450
+0022300209,607,PT09M22.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,-10,11,1,Made,1,81,114,195,h,Nwora 1' Running Layup (11 PTS),Made Shot,Running Layup Shot,1,2,451
+0022300209,610,PT09M02.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,-7,10,1,Made,1,83,114,197,h,Nwora 1' Running Finger Roll Layup (13 PTS) (Jackson 1 AST),Made Shot,Running Finger Roll Layup Shot,1,2,454
+0022300209,614,PT09M02.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,84,114,198,h,Nwora Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,1,0,456
+0022300209,618,PT08M26.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora P.FOUL (P2.T2) (B.Taylor),Foul,Personal,1,0,459
+0022300209,624,PT08M10.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,175,227,29,Missed,1,,,0,h,MISS Nwora 29' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,463
+0022300209,675,PT04M49.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,1,264,26,Made,1,100,121,221,h,Nwora 26' 3PT Pullup Jump Shot (17 PTS) (Mathurin 3 AST),Made Shot,Pullup Jump shot,1,3,500
+0022300209,698,PT03M34.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,-107,257,28,Missed,1,,,0,h,MISS Nwora 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,512
+0022300209,713,PT02M20.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora STEAL (3 STL),,,1,0,525
+0022300209,715,PT02M17.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,-4,5,1,Made,1,107,124,231,h,Nwora 1' Running Dunk (19 PTS),Made Shot,Running Dunk Shot,1,2,526
+0022300209,716,PT02M12.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora P.FOUL (P3.T4) (A.Smith),Foul,Personal,1,0,527
+0022300230,72,PT06M28.00S,1,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora S.FOUL (P1.T1) (A.Nagy),Foul,Shooting,1,0,50
+0022300230,114,PT03M32.00S,1,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora STEAL (1 STL),,,1,0,82
+0022300230,141,PT01M37.00S,1,1610612754,IND,1629670,Nwora,J. Nwora,-108,243,27,Missed,1,,,0,h,MISS Nwora 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,100
+0022300230,150,PT01M17.00S,1,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Mathurin FOR Nwora,Substitution,,0,0,106
+0022300230,179,PT10M52.00S,2,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,126
+0022300230,193,PT09M40.00S,2,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,135
+0022300230,194,PT09M40.00S,2,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,Missed,1,,,0,h,MISS Nwora Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,136
+0022300230,197,PT09M40.00S,2,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Brown FOR Nwora,Substitution,,0,0,138
+0022300230,423,PT04M04.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora S.FOUL (P2.T4) (A.Nagy),Foul,Shooting,1,0,305
+0022300230,463,PT01M21.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,7,2,1,Missed,1,,,0,h,MISS Nwora 1' Running Layup,Missed Shot,Running Layup Shot,1,2,333
+0022300230,464,PT01M20.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,334
+0022300230,465,PT01M18.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,5,1,1,Missed,1,,,0,h,MISS Nwora 1' Layup,Missed Shot,Layup Shot,1,2,335
+0022300230,467,PT01M16.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,337
+0022300230,471,PT00M56.80S,3,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora P.FOUL (P3.PN) (N.Buchert),Foul,Personal,1,0,340
+0022300230,480,PT00M18.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,-129,246,28,Missed,1,,,0,h,MISS Nwora 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,346
+0022300230,491,PT11M45.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,353
+0022300230,510,PT10M16.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Toppin FOR Nwora,Substitution,,0,0,369
+0022300315,709,PT04M52.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora STEAL (1 STL),,,1,0,516
+0022300315,731,PT03M36.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,130,230,26,Made,1,129,112,241,v,Nwora 26' 3PT Jump Shot (3 PTS) (Brown 8 AST),Made Shot,Jump Shot,1,3,532
+0022300315,788,PT01M59.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,569
+0022300315,805,PT00M50.80S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,583
+0022300315,806,PT00M49.10S,4,1610612754,IND,1629670,Nwora,J. Nwora,2,16,2,Made,1,137,124,261,v,Nwora 2' Putback Layup (5 PTS),Made Shot,Putback Layup Shot,1,2,584
+0022300315,812,PT00M28.80S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora Bad Pass Turnover (P1.T18),Turnover,Bad Pass,1,0,589
+0022300328,712,PT03M12.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora Bad Pass Turnover (P1.T15),Turnover,Bad Pass,1,0,511
+0022300328,730,PT02M34.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,-115,242,27,Made,1,135,114,249,v,Nwora 27' 3PT Jump Shot (3 PTS) (Tshiebwe 1 AST),Made Shot,Jump Shot,1,3,522
+0022300328,733,PT02M06.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,219,117,25,Made,1,137,117,254,v,Nwora 25' 3PT Jump Shot (6 PTS) (Sheppard 1 AST),Made Shot,Jump Shot,1,3,524
+0022300328,738,PT01M22.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,528
+0022300328,746,PT00M24.20S,4,1610612754,IND,1629670,Nwora,J. Nwora,6,131,13,Missed,1,,,0,v,MISS Nwora 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,534
+0022300338,513,PT09M20.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,359
+0022300338,526,PT08M33.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,-1,31,3,Made,1,107,86,193,v,Nwora 3' Driving Finger Roll Layup (2 PTS) (Jackson 4 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,369
+0022300338,532,PT07M34.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,-114,227,25,Missed,1,,,0,v,MISS Nwora 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,373
+0022300338,539,PT07M03.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora Bad Pass Turnover (P1.T14),Turnover,Bad Pass,1,0,379
+0022300338,542,PT06M49.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,5,18,2,Made,1,114,90,204,v,Nwora 2' Cutting Layup Shot (4 PTS) (Tshiebwe 1 AST),Made Shot,Cutting Layup Shot,1,2,382
+0022300338,546,PT06M49.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,114,91,205,v,Nwora Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,384
+0022300338,609,PT02M02.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,188,115,22,Made,1,124,104,228,v,Nwora 22' Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,1,2,429
+0022300350,459,PT03M42.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,-223,8,0,Made,1,84,102,186,h,Nwora 3PT Jump Shot (3 PTS) (Mathurin 1 AST),Made Shot,Jump Shot,1,3,324
+0022300350,506,PT00M40.50S,3,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,358
+0022300350,520,PT11M40.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,-2,55,6,Missed,1,,,0,h,MISS Nwora 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,368
+0022300350,526,PT11M23.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora P.FOUL (P1.T1) (S.Foster),Foul,Personal,1,0,372
+0022300350,536,PT11M01.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,379
+0022300350,563,PT09M04.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,-99,262,28,Missed,1,,,0,h,MISS Nwora 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,399
+0022300350,584,PT06M44.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,-36,91,10,Made,1,107,130,237,h,Nwora 10' Floating Jump Shot (5 PTS) (Toppin 4 AST),Made Shot,Floating Jump shot,1,2,414
+0022300350,609,PT05M54.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,-234,25,24,Missed,1,,,0,h,MISS Nwora 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,430
+0022300350,622,PT05M03.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,36,4,4,Made,1,111,139,250,h,Nwora 4' Driving Layup (7 PTS) (Johnson 1 AST),Made Shot,Driving Layup Shot,1,2,441
+0022300350,644,PT03M35.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,-224,33,0,Missed,1,,,0,h,MISS Nwora 3PT Jump Shot,Missed Shot,Jump Shot,1,3,457
+0022300350,658,PT02M08.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,468
+0022300350,664,PT01M41.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,7,18,2,Made,1,121,151,272,h,Nwora 2' Driving Dunk (9 PTS) (McConnell 7 AST),Made Shot,Driving Dunk Shot,1,2,474
+0022300365,558,PT07M50.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora S.FOUL (P1.T2) (K.Scott),Foul,Shooting,1,0,390
+0022300365,578,PT06M26.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora P.FOUL (P2.T3) (K.Scott),Foul,Personal,1,0,404
+0022300365,603,PT05M35.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,129,102,231,h,Nwora Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,422
+0022300365,604,PT05M35.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,130,102,232,h,Nwora Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,423
+0022300365,606,PT05M02.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,-11,16,2,Made,1,132,104,236,h,Nwora 2' Driving Reverse Layup (4 PTS),Made Shot,Driving Reverse Layup Shot,1,2,425
+0022300365,609,PT04M35.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,-218,144,26,Missed,1,,,0,h,MISS Nwora 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,428
+0022300365,618,PT03M13.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,-43,62,8,Missed,1,,,0,h,MISS Nwora 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,435
+0022300365,636,PT02M00.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,27,13,3,Missed,1,,,0,h,MISS Nwora 3' Running Layup,Missed Shot,Running Layup Shot,1,2,451
+0022300365,644,PT01M04.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,-6,12,1,Made,1,142,109,251,h,Nwora 1' Cutting Layup Shot (6 PTS) (Johnson 2 AST),Made Shot,Cutting Layup Shot,1,2,457
+0022300365,646,PT00M53.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora S.FOUL (P3.T4) (K.Scott),Foul,Shooting,0,0,458
+0022300480,559,PT08M46.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora L.B.FOUL (P1.T3) (T.Ford),Foul,Loose Ball,1,0,394
+0022300480,562,PT08M35.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,396
+0022300480,610,PT05M36.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,-9,15,2,Made,1,135,102,237,h,Nwora 2' Alley Oop Layup (2 PTS) (McConnell 8 AST),Made Shot,Alley Oop Layup shot,1,2,429
+0022300480,630,PT04M36.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,139,106,245,h,Nwora Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,442
+0022300480,631,PT04M36.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,140,106,246,h,Nwora Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,443
+0022300480,637,PT03M58.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Step Out of Bounds Turnover (P1.T13),Turnover,Step Out of Bounds Turnover,1,0,449
+0022300480,644,PT02M50.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,64,252,26,Missed,1,,,0,h,MISS Nwora 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,455
+0022300480,649,PT02M26.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,159,201,26,Made,1,145,111,256,h,Nwora 26' 3PT Jump Shot (7 PTS) (McConnell 9 AST),Made Shot,Jump Shot,1,3,459
+0022300520,135,PT02M11.00S,1,1610612754,IND,1629670,Nwora,J. Nwora,-29,11,3,Made,1,17,19,36,h,Nwora 3' Cutting Layup Shot (2 PTS) (McConnell 1 AST),Made Shot,Cutting Layup Shot,1,2,108
+0022300520,156,PT00M29.60S,1,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,122
+0022300520,177,PT11M04.00S,2,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora S.FOUL (P1.T1) (D.Collins),Foul,Shooting,1,0,141
+0022300520,199,PT09M37.00S,2,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,158
+0022300520,237,PT07M14.00S,2,1610612754,IND,1629670,Nwora,J. Nwora,45,15,5,Missed,1,,,0,h,MISS Nwora 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,185
+0022300520,258,PT05M52.00S,2,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Toppin FOR Nwora,Substitution,,0,0,203
+0022300520,478,PT03M00.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,357
+0022300520,481,PT02M39.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,20,13,2,Made,1,82,70,152,h,Nwora 2' Cutting Layup Shot (4 PTS) (McConnell 5 AST),Made Shot,Cutting Layup Shot,1,2,360
+0022300520,484,PT02M15.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,-214,173,28,Made,1,85,73,158,h,Nwora 28' 3PT Jump Shot (7 PTS) (McConnell 6 AST),Made Shot,Jump Shot,1,3,362
+0022300520,492,PT01M47.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,2,15,2,Made,1,87,75,162,h,Nwora 2' Driving Dunk (9 PTS) (McConnell 7 AST),Made Shot,Driving Dunk Shot,1,2,367
+0022300520,497,PT01M31.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,-181,200,27,Missed,1,,,0,h,MISS Nwora 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,371
+0022300520,514,PT00M34.50S,3,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,382
+0022300520,527,PT11M42.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,125,57,14,Missed,1,,,0,h,MISS Nwora 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,390
+0022300520,531,PT11M35.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora S.FOUL (P2.T1) (D.Collins),Foul,Shooting,1,0,394
+0022300520,559,PT09M27.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora S.FOUL (P3.T3) (B.Forte),Foul,Shooting,1,0,416
+0022300520,570,PT08M23.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,425
+0022300520,584,PT07M41.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Toppin FOR Nwora,Substitution,,0,0,432
+0022300533,631,PT02M31.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,454
+0022300533,644,PT00M34.40S,4,1610612754,IND,1629670,Nwora,J. Nwora,-15,59,6,Missed,1,,,0,v,MISS Nwora 6' Jump Shot,Missed Shot,Jump Shot,1,2,464
+0022300550,135,PT01M51.00S,1,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora STEAL (1 STL),,,1,0,97
+0022300550,140,PT01M14.00S,1,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,100
+0022300550,177,PT10M24.00S,2,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,1,0,128
+0022300550,225,PT08M13.00S,2,1610612754,IND,1629670,Nwora,J. Nwora,141,257,29,Missed,1,,,0,v,MISS Nwora 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,162
+0022300550,244,PT06M50.00S,2,1610612754,IND,1629670,Nwora,J. Nwora,-227,73,24,Made,1,38,38,76,v,Nwora 24' 3PT Step Back Jump Shot (3 PTS) (Mathurin 1 AST),Made Shot,Step Back Jump shot,1,3,177
+0022300550,276,PT04M52.00S,2,1610612754,IND,1629670,Nwora,J. Nwora,-154,222,27,Missed,1,,,0,v,MISS Nwora 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,198
+0022300550,284,PT04M33.00S,2,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Hield FOR Nwora,Substitution,,0,0,204
+0022300550,550,PT08M20.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,-18,15,2,Missed,1,,,0,v,MISS Nwora 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,396
+0022300550,557,PT07M27.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,-232,27,0,Missed,1,,,0,v,MISS Nwora 3PT Jump Shot,Missed Shot,Jump Shot,1,3,403
+0022300550,571,PT07M09.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: B. Brown FOR Nwora,Substitution,,0,0,411
+0022300564,206,PT08M53.00S,2,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora Step Out of Bounds Turnover (P1.T5),Turnover,Step Out of Bounds Turnover,1,0,152
+0022300564,213,PT08M23.00S,2,1610612754,IND,1629670,Nwora,J. Nwora,234,-1,0,Missed,1,,,0,v,MISS Nwora 3PT Jump Shot,Missed Shot,Jump Shot,1,3,159
+0022300564,243,PT06M53.00S,2,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Hield FOR Nwora,Substitution,,0,0,179
+0022300564,430,PT05M57.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora P.FOUL (P1.T3) (B.Kennedy),Foul,Personal,1,0,311
+0022300564,458,PT03M55.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,-165,85,19,Missed,1,,,0,v,MISS Nwora 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,330
+0022300564,472,PT02M51.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,340
+0022300564,473,PT02M50.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,18,22,3,Missed,1,,,0,v,MISS Nwora 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,341
+0022300564,481,PT02M24.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora S.FOUL (P2.PN) (B.Kennedy),Foul,Shooting,1,0,349
+0022300564,487,PT02M09.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,26,142,14,Made,1,95,73,168,v,Nwora 14' Turnaround Jump Shot (2 PTS) (McConnell 4 AST),Made Shot,Turnaround Jump Shot,1,2,353
+0022300564,495,PT01M39.00S,3,1610612754,IND,1629670,Nwora,J. Nwora,113,83,14,Made,1,97,75,172,v,Nwora 14' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,1,2,358
+0022300564,620,PT05M27.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,MISS Nwora Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,448
+0022300564,622,PT05M27.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,114,95,209,v,Nwora Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,450
+0022300564,626,PT05M09.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,-214,146,26,Missed,1,,,0,v,MISS Nwora 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,454
+0022300564,669,PT01M59.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,488
+0022300564,670,PT01M55.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,-92,241,26,Missed,1,,,0,v,MISS Nwora 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,489
+0022300564,672,PT01M43.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,9,10,1,Missed,1,,,0,v,MISS Nwora 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,491
+0022300564,683,PT00M46.00S,4,1610612754,IND,1629670,Nwora,J. Nwora,20,11,2,Made,1,132,105,237,v,Nwora 2' Driving Layup (7 PTS) (Walker 4 AST),Made Shot,Driving Layup Shot,1,2,501
+0022300564,686,PT00M36.90S,4,1610612754,IND,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,503
+0022300564,687,PT00M31.80S,4,1610612754,IND,1629670,Nwora,J. Nwora,-50,254,26,Missed,1,,,0,v,MISS Nwora 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,504
+0022300596,617,PT03M58.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-234,-17,0,Made,1,115,94,209,v,Nwora 3PT Jump Shot (3 PTS) (Dick 1 AST),Made Shot,Jump Shot,1,3,458
+0022300637,229,PT06M54.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,173
+0022300637,230,PT06M52.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,174
+0022300637,238,PT06M40.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,180
+0022300637,248,PT06M10.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Brown FOR Nwora,Substitution,,0,0,186
+0022300637,546,PT07M52.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-221,130,26,Missed,1,,,0,h,MISS Nwora 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,408
+0022300637,583,PT05M19.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,233,107,26,Missed,1,,,0,h,MISS Nwora 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,435
+0022300637,585,PT05M13.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora S.FOUL (P1.T2) (J.DeRosa),Foul,Shooting,1,0,437
+0022300637,588,PT05M13.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Barnes FOR Nwora,Substitution,,0,0,439
+0022300637,656,PT01M17.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-162,222,27,Missed,1,,,0,h,MISS Nwora 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,486
+0022300653,139,PT01M01.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora P.FOUL (P1.PN) (M.Kogut),Foul,Personal,1,0,98
+0022300653,160,PT11M35.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,-123,235,27,Made,1,34,29,63,v,Nwora 27' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,1,3,115
+0022300653,163,PT11M00.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,-25,70,7,Made,1,34,31,65,v,Nwora 7' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,1,2,118
+0022300653,174,PT10M00.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,-239,-6,24,Made,1,36,37,73,v,Nwora 24' 3PT Running Jump Shot (8 PTS) (Schroder 2 AST),Made Shot,Running Jump Shot,1,3,126
+0022300653,219,PT08M03.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,-127,227,26,Made,1,37,44,81,v,Nwora 26' 3PT Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,3,159
+0022300653,229,PT07M00.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,166
+0022300653,247,PT06M05.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Schroder FOR Nwora,Substitution,,0,0,180
+0022300653,279,PT04M12.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,202
+0022300653,300,PT02M30.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,221
+0022300653,301,PT02M27.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora Offensive Charge Foul (P2) (M.Kogut),Foul,Offensive Charge,1,0,222
+0022300653,303,PT02M27.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,223
+0022300653,315,PT01M22.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,232
+0022300653,320,PT00M49.90S,2,1610612761,TOR,1629670,Nwora,J. Nwora,-233,22,0,Missed,1,,,0,v,MISS Nwora 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,237
+0022300653,388,PT08M24.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora P.FOUL (P3.PN) (E.Scott),Foul,Personal,1,0,288
+0022300653,392,PT08M22.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,291
+0022300653,393,PT08M13.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,-33,195,20,Missed,1,,,0,v,MISS Nwora 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,292
+0022300653,402,PT07M13.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,174,192,26,Missed,1,,,0,v,MISS Nwora 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,299
+0022300653,419,PT06M08.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,1,11,1,Made,1,78,76,154,v,Nwora 1' Driving Layup (13 PTS) (Barnes 7 AST),Made Shot,Driving Layup Shot,1,2,313
+0022300653,421,PT05M54.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,315
+0022300653,448,PT04M27.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora STEAL (1 STL),,,1,0,335
+0022300653,452,PT04M23.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,80,83,163,v,Nwora Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,337
+0022300653,457,PT04M23.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,80,84,164,v,Nwora Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,340
+0022300653,469,PT03M02.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,86,85,171,v,Nwora Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,348
+0022300653,472,PT03M02.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,86,86,172,v,Nwora Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,350
+0022300653,487,PT01M54.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,6,16,2,Missed,1,,,0,v,MISS Nwora 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,360
+0022300653,488,PT01M51.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,361
+0022300653,489,PT01M51.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,Missed,1,,,0,v,MISS Nwora Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,362
+0022300653,490,PT01M50.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,363
+0022300653,491,PT01M48.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,11,14,2,Missed,1,,,0,v,MISS Nwora 2' Layup,Missed Shot,Layup Shot,1,2,364
+0022300653,500,PT01M34.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,9,11,1,Made,1,91,93,184,v,Nwora 1' Running Dunk (19 PTS) (Schroder 6 AST),Made Shot,Running Dunk Shot,1,2,372
+0022300653,559,PT09M38.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-4,16,2,Made,1,105,102,207,v,Nwora 2' Layup (21 PTS) (Barnes 8 AST),Made Shot,Layup Shot,1,2,412
+0022300653,565,PT09M18.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,MISS Nwora Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,416
+0022300653,569,PT09M18.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,105,103,208,v,Nwora Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,419
+0022300653,608,PT06M29.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,141,222,26,Missed,1,,,0,v,MISS Nwora 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,449
+0022300653,615,PT06M22.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,110,106,216,v,Nwora Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0,455
+0022300653,616,PT06M22.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,110,107,217,v,Nwora Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0,456
+0022300653,618,PT05M52.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,31,24,4,Missed,1,,,0,v,MISS Nwora 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,458
+0022300653,626,PT05M28.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Barnes FOR Nwora,Substitution,,0,0,465
+0022300653,684,PT01M16.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,512
+0022300653,693,PT00M52.50S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora P.FOUL (P4.PN) (P.Fraher),Foul,Personal,1,0,519
+0022300653,716,PT00M00.50S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-189,455,49,Missed,1,,,0,v,MISS Nwora 49' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,538
+0022300672,89,PT04M14.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora BLOCK (1 BLK),,,0,2,64
+0022300672,102,PT02M43.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,224,117,25,Made,1,21,25,46,v,Nwora 25' 3PT Jump Shot (3 PTS) (Barnes 2 AST),Made Shot,Jump Shot,1,3,76
+0022300672,158,PT11M03.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,1,62,6,Missed,1,,,0,v,MISS Nwora 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,117
+0022300672,165,PT10M22.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora S.FOUL (P1.T1) (S.Twardoski),Foul,Shooting,1,0,123
+0022300672,170,PT10M09.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,7,8,1,Made,1,37,29,66,v,Nwora 1' Cutting Layup Shot (5 PTS) (Young 3 AST),Made Shot,Cutting Layup Shot,1,2,126
+0022300672,180,PT09M01.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,230,25,0,Made,1,42,35,77,v,Nwora 3PT Jump Shot (8 PTS) (Brown 1 AST),Made Shot,Jump Shot,1,3,133
+0022300672,227,PT06M10.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: McDaniels FOR Nwora,Substitution,,0,0,167
+0022300672,403,PT05M07.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,290
+0022300672,429,PT02M46.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,-51,254,26,Made,1,82,82,164,v,Nwora 26' 3PT Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,1,3,307
+0022300672,437,PT02M46.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,82,83,165,v,Nwora Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0,311
+0022300672,443,PT02M19.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,146,215,26,Made,1,83,86,169,v,Nwora 26' 3PT Jump Shot (15 PTS) (Young 6 AST),Made Shot,Jump Shot,1,3,316
+0022300672,452,PT01M43.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,83,87,170,v,Nwora Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,322
+0022300672,455,PT01M43.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,83,88,171,v,Nwora Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,324
+0022300672,462,PT00M48.70S,3,1610612761,TOR,1629670,Nwora,J. Nwora,219,125,25,Missed,1,,,0,v,MISS Nwora 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,330
+0022300672,500,PT10M39.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,361
+0022300672,511,PT09M24.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora S.FOUL (P2.T1) (D.Collins),Foul,Shooting,1,0,370
+0022300672,515,PT09M24.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Trent Jr. FOR Nwora,Substitution,,0,0,373
+0022300692,240,PT01M37.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora BLOCK (1 BLK),,,1,2,95
+0022300692,174,PT09M56.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,148,209,26,Missed,1,,,0,v,MISS Nwora 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,131
+0022300692,185,PT09M22.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Brown FOR Nwora,Substitution,,0,0,139
+0022300692,469,PT01M38.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora STEAL (1 STL),,,1,0,352
+0022300692,471,PT01M35.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,-9,17,2,Missed,1,,,0,v,MISS Nwora 2' Layup,Missed Shot,Layup Shot,1,2,353
+0022300692,480,PT01M04.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,100,70,170,v,Nwora Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,359
+0022300692,481,PT01M04.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,100,71,171,v,Nwora Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,360
+0022300692,485,PT00M48.20S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,364
+0022300692,608,PT03M49.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora P.FOUL (P1.T2) (J.Schroeder),Foul,Personal,1,0,449
+0022300692,610,PT03M42.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora STEAL (2 STL),,,1,0,452
+0022300692,612,PT03M39.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,18,6,2,Made,1,125,99,224,v,Nwora 2' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,1,2,453
+0022300692,619,PT02M58.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora S.FOUL (P2.T3) (J.Schroeder),Foul,Shooting,1,0,459
+0022300692,625,PT02M45.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,15,87,9,Made,1,127,101,228,v,Nwora 9' Floating Jump Shot (6 PTS),Made Shot,Floating Jump shot,1,2,462
+0022300692,641,PT00M58.30S,4,1610612761,TOR,1629670,Nwora,J. Nwora,31,66,7,Made,1,135,106,241,v,Nwora 7' Driving Floating Bank Jump Shot (8 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,474
+0022300718,128,PT02M01.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora Traveling Turnover (P1.T3),Turnover,Traveling,1,0,94
+0022300718,161,PT11M30.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,114
+0022300718,164,PT10M58.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,-131,210,25,Made,1,40,22,62,v,Nwora 25' 3PT Jump Shot (3 PTS) (Brown 1 AST),Made Shot,Jump Shot,1,3,116
+0022300718,222,PT05M48.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,157
+0022300718,226,PT05M42.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Trent Jr. FOR Nwora,Substitution,,0,0,160
+0022300718,408,PT03M27.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,289
+0022300718,409,PT03M16.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,175,199,27,Missed,1,,,0,v,MISS Nwora 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,290
+0022300718,436,PT00M03.50S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora P.FOUL (P1.T1) (N.Sago),Foul,Personal,1,0,311
+0022300718,469,PT09M52.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,331
+0022300718,470,PT09M52.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,Made,1,109,76,185,v,Nwora Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,1,2,332
+0022300718,473,PT09M40.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Brown FOR Nwora,Substitution,,0,0,334
+0022300718,535,PT05M17.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora Lost Ball Turnover (P3.T15),Turnover,Lost Ball,1,0,382
+0022300718,537,PT05M14.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora STEAL (1 STL),,,1,0,385
+0022300718,539,PT05M12.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-1,8,1,Made,1,122,86,208,v,Nwora 1' Driving Dunk (7 PTS),Made Shot,Driving Dunk Shot,1,2,386
+0022300718,549,PT04M27.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,1,138,14,Missed,1,,,0,v,MISS Nwora 14' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,393
+0022300718,581,PT02M16.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-18,10,2,Missed,1,,,0,v,MISS Nwora 2' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,421
+0022300718,590,PT01M40.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-18,11,2,Missed,1,,,0,v,MISS Nwora 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,429
+0022300744,165,PT00M01.20S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,126
+0022300744,186,PT10M58.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,211,132,25,Missed,1,,,0,h,MISS Nwora 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,137
+0022300744,192,PT10M52.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Violation:Defensive Goaltending (J.Van Duyne),Violation,Defensive Goaltending,1,0,140
+0022300744,193,PT10M36.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,51,38,6,Missed,1,,,0,h,MISS Nwora 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,143
+0022300744,218,PT08M54.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Trent Jr. FOR Nwora,Substitution,,0,0,161
+0022300744,503,PT00M11.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,368
+0022300756,616,PT02M34.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora P.FOUL (P1.T2) (M.Ervin),Foul,Personal,1,0,450
+0022300756,633,PT01M34.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-70,242,25,Missed,1,,,0,h,MISS Nwora 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,459
+0022300764,589,PT07M05.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,428
+0022300764,629,PT05M30.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-110,243,27,Missed,1,,,0,h,MISS Nwora 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,454
+0022300764,637,PT04M54.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,461
+0022300764,652,PT03M42.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,474
+0022300764,669,PT02M33.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora S.FOUL (P1.PN) (J.Goble),Foul,Shooting,1,0,487
+0022300764,675,PT02M25.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,MISS Nwora Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,491
+0022300764,677,PT02M25.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,95,122,217,h,Nwora Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,493
+0022300764,678,PT02M09.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora STEAL (1 STL),,,1,0,495
+0022300764,690,PT01M26.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,96,122,218,h,Nwora Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,502
+0022300764,691,PT01M26.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,97,122,219,h,Nwora Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,503
+0022300764,694,PT00M55.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,42,41,6,Missed,1,,,0,h,MISS Nwora 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,506
+0022300782,551,PT11M23.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,392
+0022300782,561,PT10M19.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-27,164,17,Missed,1,,,0,h,MISS Nwora 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,401
+0022300782,586,PT08M29.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora S.FOUL (P1.T1) (B.Barnaky),Foul,Shooting,1,0,422
+0022300782,590,PT08M27.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,425
+0022300782,603,PT07M10.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora S.FOUL (P2.T3) (J.Capers),Foul,Shooting,1,0,434
+0022300782,607,PT07M10.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Barrett FOR Nwora,Substitution,,0,0,437
+0022300795,630,PT03M52.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,458
+0022300795,640,PT03M18.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,113,81,194,h,Nwora Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,465
+0022300795,641,PT03M18.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,114,81,195,h,Nwora Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,466
+0022300795,645,PT02M48.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-9,64,6,Made,1,116,83,199,h,Nwora 6' Driving Floating Jump Shot (4 PTS) (Agbaji 2 AST),Made Shot,Driving Floating Jump Shot,1,2,470
+0022300795,666,PT01M06.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,131,68,15,Missed,1,,,0,h,MISS Nwora 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,485
+0022300795,672,PT00M48.60S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,120,92,212,h,Nwora Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,490
+0022300795,673,PT00M48.60S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,121,92,213,h,Nwora Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,491
+0022300804,23,PT10M23.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,17
+0022300804,43,PT09M26.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,32
+0022300804,56,PT08M24.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,41
+0022300804,87,PT05M46.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,63
+0022300804,88,PT05M40.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,-65,252,26,Missed,1,,,0,v,MISS Nwora 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,64
+0022300804,101,PT04M20.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Olynyk FOR Nwora,Substitution,,0,0,73
+0022300804,240,PT08M19.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,18,68,7,Missed,1,,,0,v,MISS Nwora 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,0,2,175
+0022300804,262,PT07M01.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,-233,-16,0,Missed,1,,,0,v,MISS Nwora 3PT Jump Shot,Missed Shot,Jump Shot,1,3,190
+0022300804,271,PT06M10.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Barnes FOR Nwora,Substitution,,0,0,197
+0022300804,391,PT10M54.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,22,9,2,Missed,1,,,0,v,MISS Nwora 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,281
+0022300804,395,PT10M03.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora STEAL (1 STL),,,1,0,286
+0022300804,397,PT09M58.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,123,222,25,Missed,1,,,0,v,MISS Nwora 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,287
+0022300804,421,PT07M54.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Brown FOR Nwora,Substitution,,0,0,307
+0022300875,127,PT01M14.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,28,4,3,Made,1,27,25,52,h,Nwora 3' Driving Finger Roll Layup (2 PTS) (Barrett 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,95
+0022300875,133,PT00M49.40S,1,1610612761,TOR,1629670,Nwora,J. Nwora,-218,116,25,Missed,1,,,0,h,MISS Nwora 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,99
+0022300875,135,PT00M36.20S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora S.FOUL (P1.PN) (M.Lindsay),Foul,Shooting,1,0,101
+0022300875,222,PT07M13.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Agbaji FOR Nwora,Substitution,,0,0,166
+0022300875,458,PT01M33.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,51,68,9,Made,1,80,72,152,h,Nwora 9' Driving Floating Jump Shot (4 PTS) (Porter 2 AST),Made Shot,Driving Floating Jump Shot,1,2,345
+0022300875,468,PT00M44.90S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,352
+0022300875,469,PT00M40.50S,3,1610612761,TOR,1629670,Nwora,J. Nwora,-31,25,4,Made,1,82,74,156,h,Nwora 4' Running Finger Roll Layup (6 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,353
+0022300875,470,PT00M32.10S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora P.FOUL (P2.PN) (J.Sterling),Foul,Personal,1,0,354
+0022300875,486,PT11M42.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,230,-4,0,Made,1,85,75,160,h,Nwora 3PT Jump Shot (9 PTS) (Barrett 4 AST),Made Shot,Jump Shot,1,3,363
+0022300875,491,PT11M14.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,5,10,1,Made,1,87,75,162,h,Nwora 1' Cutting Layup Shot (11 PTS) (Barrett 5 AST),Made Shot,Cutting Layup Shot,1,2,366
+0022300875,506,PT09M16.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,42,273,28,Missed,1,,,0,h,MISS Nwora 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,376
+0022300875,524,PT08M04.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,391
+0022300875,525,PT08M01.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Bad Pass Turnover (P1.T15),Turnover,Bad Pass,1,0,392
+0022300875,532,PT07M30.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,397
+0022300875,533,PT07M29.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-51,11,5,Missed,1,,,0,h,MISS Nwora 5' Jump Shot,Missed Shot,Jump Shot,1,2,398
+0022300875,554,PT05M26.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,415
+0022300875,556,PT05M17.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Agbaji FOR Nwora,Substitution,,0,0,416
+0022300890,90,PT04M03.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,5,115,12,Missed,1,,,0,h,MISS Nwora 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,60
+0022300890,91,PT03M59.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,61
+0022300890,92,PT03M59.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,Made,1,23,26,49,h,Nwora Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,62
+0022300890,112,PT02M09.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,29,264,27,Missed,1,,,0,h,MISS Nwora 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,74
+0022300890,149,PT11M50.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,40,96,10,Missed,1,,,0,h,MISS Nwora 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,104
+0022300890,167,PT10M23.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,1,0,0,Made,1,30,46,76,h,Nwora Cutting Layup Shot (4 PTS) (Porter 1 AST),Made Shot,Cutting Layup Shot,1,2,119
+0022300890,170,PT09M57.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,121
+0022300890,188,PT08M53.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,48,41,6,Missed,1,,,0,h,MISS Nwora 6' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,133
+0022300890,190,PT08M50.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,135
+0022300890,195,PT08M36.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Agbaji FOR Nwora,Substitution,,0,0,140
+0022300890,438,PT03M48.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,233,26,0,Missed,1,,,0,h,MISS Nwora 3PT Jump Shot,Missed Shot,Jump Shot,1,3,322
+0022300890,461,PT02M00.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,-163,217,27,Made,1,72,97,169,h,Nwora 27' 3PT Jump Shot (7 PTS) (Porter 2 AST),Made Shot,Jump Shot,1,3,338
+0022300890,469,PT00M51.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,-36,5,4,Missed,1,,,0,h,MISS Nwora 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,342
+0022300890,485,PT00M43.40S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora BLOCK (1 BLK),,,1,2,348
+0022300890,474,PT00M33.90S,3,1610612761,TOR,1629670,Nwora,J. Nwora,-235,25,24,Missed,1,,,0,h,MISS Nwora 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,350
+0022300890,581,PT05M38.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,419
+0022300890,585,PT05M24.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,423
+0022300890,594,PT04M53.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,225,12,0,Missed,1,,,0,h,MISS Nwora 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,430
+0022300890,634,PT02M23.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-4,7,1,Made,1,93,130,223,h,Nwora 1' Driving Finger Roll Layup (9 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,462
+0022300890,639,PT02M02.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,7,101,10,Missed,1,,,0,h,MISS Nwora 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,466
+0022300890,640,PT02M00.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,467
+0022300890,641,PT01M58.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-31,28,4,Missed,1,,,0,h,MISS Nwora 4' Putback Layup,Missed Shot,Putback Layup Shot,1,2,468
+0022300890,647,PT01M46.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,237,49,24,Missed,1,,,0,h,MISS Nwora 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,474
+0022300905,110,PT03M06.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,7,28,3,Missed,1,,,0,v,MISS Nwora 3' Driving Layup,Missed Shot,Driving Layup Shot,0,2,79
+0022300905,134,PT01M18.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,208,159,26,Missed,1,,,0,v,MISS Nwora 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,95
+0022300923,108,PT02M46.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora STEAL (1 STL),,,1,0,86
+0022300923,140,PT00M38.70S,1,1610612761,TOR,1629670,Nwora,J. Nwora,1,33,3,Made,1,31,15,46,v,Nwora 3' Driving Floating Jump Shot (2 PTS) (Freeman-Liberty 1 AST),Made Shot,Driving Floating Jump Shot,1,2,109
+0022300923,143,PT00M38.70S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,31,16,47,v,Nwora Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,111
+0022300923,164,PT10M11.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,221,16,0,Made,1,41,23,64,v,Nwora 3PT Jump Shot (6 PTS) (McDaniels 1 AST),Made Shot,Jump Shot,1,3,125
+0022300923,180,PT09M15.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,-1,88,9,Made,1,43,25,68,v,Nwora 9' Driving Floating Jump Shot (8 PTS) (Quickley 2 AST),Made Shot,Driving Floating Jump Shot,1,2,137
+0022300923,194,PT08M18.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,175,196,26,Missed,1,,,0,v,MISS Nwora 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,147
+0022300923,203,PT07M25.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,154
+0022300923,216,PT06M51.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Olynyk FOR Nwora,Substitution,,0,0,167
+0022300923,465,PT11M27.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-16,24,3,Missed,1,,,0,v,MISS Nwora 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,348
+0022300923,480,PT10M10.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-5,0,1,Made,1,94,85,179,v,Nwora 1' Driving Finger Roll Layup (10 PTS) (Boucher 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,362
+0022300923,507,PT07M42.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Dick FOR Nwora,Substitution,,0,0,380
+0022300937,174,PT11M22.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,131
+0022300937,190,PT09M57.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,230,0,0,Missed,1,,,0,v,MISS Nwora 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,144
+0022300937,201,PT09M27.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,16,39,4,Missed,1,,,0,v,MISS Nwora 4' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,152
+0022300937,210,PT08M43.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,159
+0022300937,222,PT07M22.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,168
+0022300937,243,PT06M31.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,181
+0022300937,251,PT05M55.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,-237,69,25,Made,1,38,56,94,v,Nwora 25' 3PT Running Jump Shot (3 PTS) (Barrett 2 AST),Made Shot,Running Jump Shot,1,3,189
+0022300937,262,PT05M18.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,26,253,25,Missed,1,,,0,v,MISS Nwora 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,196
+0022300937,265,PT05M17.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Brown FOR Nwora,Substitution,,0,0,198
+0022300937,459,PT03M18.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,336
+0022300937,460,PT03M00.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,60,83,10,Missed,1,,,0,v,MISS Nwora 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,337
+0022300937,476,PT01M39.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,353
+0022300937,477,PT01M38.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,9,5,1,Made,1,86,95,181,v,Nwora 1' Putback Layup (5 PTS),Made Shot,Putback Layup Shot,1,2,354
+0022300937,497,PT00M00.20S,3,1610612761,TOR,1629670,Nwora,J. Nwora,9,486,49,Missed,1,,,0,v,MISS Nwora 49' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,370
+0022300937,529,PT09M40.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,388
+0022300937,532,PT09M28.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora BLOCK (1 BLK),,,1,2,392
+0022300937,579,PT06M57.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Agbaji FOR Nwora,Substitution,,0,0,422
+0022300946,58,PT06M40.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,-208,174,27,Missed,1,,,0,v,MISS Nwora 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,45
+0022300946,97,PT03M22.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,-218,139,26,Missed,1,,,0,v,MISS Nwora 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,72
+0022300946,117,PT01M33.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,239,37,24,Missed,1,,,0,v,MISS Nwora 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,86
+0022300946,121,PT01M01.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,-50,12,5,Made,1,27,26,53,v,Nwora 5' Driving Floating Bank Jump Shot (2 PTS) (Porter 2 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,89
+0022300946,212,PT08M27.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,141
+0022300946,224,PT06M54.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora STEAL (1 STL),,,1,0,164
+0022300946,230,PT06M39.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,169
+0022300946,233,PT06M18.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora STEAL (2 STL),,,1,0,173
+0022300946,238,PT05M42.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,-169,260,31,Made,1,35,43,78,v,Nwora 31' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,3,177
+0022300946,245,PT04M55.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,-27,6,3,Made,1,37,47,84,v,Nwora 3' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,183
+0022300946,258,PT04M07.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Brown FOR Nwora,Substitution,,0,0,195
+0022300946,408,PT05M23.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,-20,-10,2,Missed,1,,,0,v,MISS Nwora 2' Running Layup,Missed Shot,Running Layup Shot,1,2,306
+0022300946,421,PT04M45.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora S.FOUL (P1.PN) (A.Nagy),Foul,Shooting,1,0,314
+0022300946,429,PT04M25.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,129,-2,13,Missed,1,,,0,v,MISS Nwora 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,319
+0022300946,455,PT03M17.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,27,4,3,Made,1,77,77,154,v,Nwora 3' Cutting Layup Shot (9 PTS) (Porter 5 AST),Made Shot,Cutting Layup Shot,1,2,338
+0022300946,468,PT02M52.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora STEAL (3 STL),,,1,0,346
+0022300946,470,PT02M48.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,347
+0022300946,579,PT07M02.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,22,258,26,Missed,1,,,0,v,MISS Nwora 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,433
+0022300946,589,PT06M13.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-137,226,26,Made,1,94,86,180,v,Nwora 26' 3PT Jump Shot (12 PTS) (Quickley 6 AST),Made Shot,Jump Shot,1,3,441
+0022300946,609,PT05M08.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Brown FOR Nwora,Substitution,,0,0,454
+0022300963,125,PT02M21.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,93
+0022300963,126,PT02M11.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,233,0,0,Missed,1,,,0,h,MISS Nwora 3PT Jump Shot,Missed Shot,Jump Shot,1,3,94
+0022300963,137,PT01M00.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,105
+0022300963,142,PT00M09.30S,1,1610612761,TOR,1629670,Nwora,J. Nwora,-21,33,4,Made,1,26,24,50,h,Nwora 4' Cutting Layup Shot (2 PTS) (Brown 1 AST),Made Shot,Cutting Layup Shot,1,2,110
+0022300963,147,PT00M09.30S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,27,24,51,h,Nwora Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,113
+0022300963,168,PT10M53.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,125
+0022300963,169,PT10M48.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,-125,235,27,Made,1,30,26,56,h,Nwora 27' 3PT Running Pull-Up Jump Shot (6 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,126
+0022300963,182,PT09M40.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,18,6,2,Missed,1,,,0,h,MISS Nwora 2' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,2,138
+0022300963,190,PT09M04.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Dick FOR Nwora,Substitution,,0,0,144
+0022300963,280,PT02M22.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora BLOCK (1 BLK),,,1,2,211
+0022300963,283,PT02M01.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,213
+0022300963,298,PT00M34.50S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Step Out of Bounds Turnover (P2.T8),Turnover,Step Out of Bounds Turnover,1,0,225
+0022300963,392,PT06M39.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,289
+0022300963,395,PT06M07.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora STEAL (1 STL),,,1,0,293
+0022300963,406,PT05M14.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,29,34,4,Made,1,63,67,130,h,Nwora 4' Cutting Layup Shot (8 PTS) (Porter 2 AST),Made Shot,Cutting Layup Shot,1,2,300
+0022300963,412,PT04M54.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,235,14,24,Made,1,66,67,133,h,Nwora 24' 3PT Running Jump Shot (11 PTS) (Brown 3 AST),Made Shot,Running Jump Shot,1,3,306
+0022300963,415,PT04M29.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,308
+0022300963,416,PT04M26.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,-87,242,26,Made,1,69,67,136,h,Nwora 26' 3PT Running Pull-Up Jump Shot (14 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,309
+0022300963,419,PT03M47.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,-161,200,26,Missed,1,,,0,h,MISS Nwora 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,311
+0022300963,439,PT02M41.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0,323
+0022300963,441,PT02M34.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora STEAL (2 STL),,,1,0,326
+0022300963,443,PT02M32.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Out of Bounds - Bad Pass Turnover Turnover (P4.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,327
+0022300963,451,PT01M55.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Ramsey FOR Nwora,Substitution,,0,0,333
+0022300979,107,PT02M37.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,79
+0022300979,112,PT01M49.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,4,14,1,Made,1,23,22,45,v,Nwora 1' Running Dunk (2 PTS) (Ramsey 2 AST),Made Shot,Running Dunk Shot,1,2,83
+0022300979,171,PT10M32.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora S.FOUL (P1.T2) (E.Dalen),Foul,Shooting,1,0,119
+0022300979,185,PT09M24.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,130
+0022300979,199,PT08M33.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,35,31,66,v,Nwora Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,139
+0022300979,200,PT08M33.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,35,32,67,v,Nwora Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,140
+0022300979,212,PT07M43.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,6,1,1,Made,1,37,34,71,v,Nwora 1' Cutting Finger Roll Layup Shot (6 PTS) (Porter 1 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,149
+0022300979,236,PT05M44.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,164
+0022300979,244,PT04M59.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Dick FOR Nwora,Substitution,,0,0,170
+0022300979,357,PT08M35.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,255
+0022300979,381,PT06M05.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora L.B.FOUL (P2.T3) (S.Foster),Foul,Loose Ball,1,0,275
+0022300979,393,PT05M35.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,16,97,10,Made,1,67,58,125,v,Nwora 10' Pullup Jump Shot (8 PTS) (Porter 2 AST),Made Shot,Pullup Jump shot,1,2,282
+0022300979,421,PT03M19.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,9,23,2,Made,1,74,60,134,v,Nwora 2' Driving Layup (10 PTS) (Porter 3 AST),Made Shot,Driving Layup Shot,1,2,302
+0022300979,426,PT03M19.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,74,61,135,v,Nwora Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,305
+0022300979,428,PT03M03.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,-178,186,26,Missed,1,,,0,v,MISS Nwora 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,307
+0022300979,432,PT02M53.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,126,18,13,Made,1,74,63,137,v,Nwora 13' Driving Floating Jump Shot (13 PTS) (Brown 2 AST),Made Shot,Driving Floating Jump Shot,1,2,311
+0022300979,439,PT02M34.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,15,23,3,Made,1,76,65,141,v,Nwora 3' Driving Reverse Layup (15 PTS),Made Shot,Driving Reverse Layup Shot,1,2,316
+0022300979,445,PT01M47.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,-183,204,27,Made,1,79,68,147,v,Nwora 27' 3PT Jump Shot (18 PTS) (Dick 1 AST),Made Shot,Jump Shot,1,3,322
+0022300979,469,PT01M10.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora BLOCK (1 BLK),,,1,2,327
+0022300979,459,PT00M43.70S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,334
+0022300979,463,PT00M16.70S,3,1610612761,TOR,1629670,Nwora,J. Nwora,-197,173,26,Missed,1,,,0,v,MISS Nwora 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,337
+0022300979,490,PT10M31.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,354
+0022300979,503,PT09M38.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,363
+0022300979,514,PT08M58.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Quickley FOR Nwora,Substitution,,0,0,372
+0022300999,101,PT03M39.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,66,50,8,Made,1,21,25,46,h,Nwora 8' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,1,2,72
+0022300999,107,PT02M57.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,78
+0022300999,108,PT02M48.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,-7,76,8,Missed,1,,,0,h,MISS Nwora 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,79
+0022300999,138,PT01M20.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,-26,17,3,Made,1,25,27,52,h,Nwora 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,101
+0022300999,141,PT01M20.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,MISS Nwora Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,103
+0022300999,149,PT00M42.90S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora STEAL (1 STL),,,1,0,110
+0022300999,151,PT00M39.10S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,111
+0022300999,153,PT00M09.50S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Offensive Charge Foul (P1) (J.DeRosa),Foul,Offensive Charge,1,0,113
+0022300999,155,PT00M09.50S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Offensive Foul Turnover (P2.T5),Turnover,Offensive Foul Turnover,1,0,114
+0022300999,201,PT08M53.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,-97,254,27,Made,1,34,46,80,h,Nwora 27' 3PT Jump Shot (7 PTS) (Brown 4 AST),Made Shot,Jump Shot,1,3,147
+0022300999,219,PT07M44.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Bad Pass Turnover (P3.T7),Turnover,Bad Pass,1,0,159
+0022300999,223,PT07M25.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,-233,47,24,Missed,1,,,0,h,MISS Nwora 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,163
+0022300999,226,PT07M20.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Trent Jr. FOR Nwora,Substitution,,0,0,166
+0022300999,452,PT03M17.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Bad Pass Turnover (P4.T14),Turnover,Bad Pass,1,0,328
+0022300999,470,PT02M18.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Out of Bounds - Bad Pass Turnover Turnover (P5.T16),Turnover,Out of Bounds - Bad Pass Turnover,1,0,342
+0022300999,481,PT01M26.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,-32,6,3,Made,1,59,95,154,h,Nwora 3' Driving Floating Jump Shot (9 PTS) (McDaniels 1 AST),Made Shot,Driving Floating Jump Shot,1,2,349
+0022300999,485,PT01M01.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,-15,78,8,Made,1,61,97,158,h,Nwora 8' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,1,2,351
+0022300999,495,PT00M05.20S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,64,97,161,h,Nwora Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,358
+0022300999,496,PT00M05.20S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,65,97,162,h,Nwora Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,359
+0022300999,623,PT02M56.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,448
+0022301012,130,PT03M14.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,95
+0022301012,135,PT02M43.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora S.FOUL (P1.T3) (E.Scott),Foul,Shooting,1,0,99
+0022301012,158,PT01M24.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,114
+0022301012,162,PT00M37.40S,1,1610612761,TOR,1629670,Nwora,J. Nwora,-232,-8,0,Missed,1,,,0,h,MISS Nwora 3PT Jump Shot,Missed Shot,Jump Shot,1,3,117
+0022301012,199,PT09M59.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,-17,67,7,Missed,1,,,0,h,MISS Nwora 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,140
+0022301012,236,PT06M56.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,170
+0022301012,239,PT06M44.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Temple FOR Nwora,Substitution,,0,0,172
+0022301012,464,PT01M29.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,2,4,0,Made,1,74,89,163,h,Nwora Layup (2 PTS),Made Shot,Layup Shot,1,2,335
+0022301012,467,PT01M09.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,337
+0022301012,475,PT00M47.30S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora STEAL (1 STL),,,1,0,343
+0022301012,477,PT00M43.60S,3,1610612761,TOR,1629670,Nwora,J. Nwora,9,19,2,Made,1,76,89,165,h,Nwora 2' Running Layup (4 PTS) (Temple 1 AST),Made Shot,Running Layup Shot,1,2,344
+0022301012,514,PT10M59.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora S.FOUL (P2.T1) (E.Scott),Foul,Shooting,1,0,364
+0022301012,519,PT10M45.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,44,41,6,Made,1,83,92,175,h,Nwora 6' Driving Bank Hook Shot (6 PTS) (Porter 6 AST),Made Shot,Driving Bank Hook Shot,1,2,368
+0022301012,522,PT10M08.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,11,-4,1,Made,1,85,94,179,h,Nwora 1' Driving Layup (8 PTS) (Porter 7 AST),Made Shot,Driving Layup Shot,1,2,370
+0022301012,530,PT09M27.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,377
+0022301012,540,PT08M25.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora S.FOUL (P3.T3) (E.Scott),Foul,Shooting,1,0,383
+0022301012,548,PT08M16.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,210,138,25,Missed,1,,,0,h,MISS Nwora 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,388
+0022301012,559,PT07M05.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Bad Pass Turnover (P3.T20),Turnover,Bad Pass,1,0,398
+0022301012,577,PT06M12.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Dick FOR Nwora,Substitution,,0,0,411
+0022301012,646,PT02M56.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,15,109,11,Made,1,99,118,217,h,Nwora 11' Pullup Jump Shot (10 PTS) (Ramsey 2 AST),Made Shot,Pullup Jump shot,1,2,456
+0022301012,658,PT01M57.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,468
+0022301012,677,PT00M51.20S,4,1610612761,TOR,1629670,Nwora,J. Nwora,49,67,8,Made,1,103,123,226,h,Nwora 8' Driving Hook Shot (12 PTS),Made Shot,Driving Hook Shot,1,2,485
+0022301012,681,PT00M17.10S,4,1610612761,TOR,1629670,Nwora,J. Nwora,228,131,26,Missed,1,,,0,h,MISS Nwora 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,489
+0022301022,123,PT02M28.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,92
+0022301022,127,PT02M06.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,-184,170,25,Made,1,19,21,40,v,Nwora 25' 3PT Jump Shot (3 PTS) (Freeman-Liberty 1 AST),Made Shot,Jump Shot,1,3,94
+0022301022,129,PT01M53.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora P.FOUL (P1.T2) (J.Schroeder),Foul,Personal,1,0,95
+0022301022,172,PT10M43.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,123
+0022301022,197,PT09M07.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,-229,110,25,Missed,1,,,0,v,MISS Nwora 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,143
+0022301022,211,PT07M54.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,28,50,6,Made,1,28,32,60,v,Nwora 6' Driving Floating Jump Shot (5 PTS) (Freeman-Liberty 2 AST),Made Shot,Driving Floating Jump Shot,1,2,155
+0022301022,215,PT07M34.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,158
+0022301022,230,PT06M25.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,92,109,14,Missed,1,,,0,v,MISS Nwora 14' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,168
+0022301022,264,PT04M33.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Dick FOR Nwora,Substitution,,0,0,192
+0022301022,501,PT11M16.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora BLOCK (1 BLK),,,1,2,362
+0022301022,506,PT10M39.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,0,365
+0022301022,522,PT09M43.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-26,1,3,Made,1,85,85,170,v,Nwora 3' Cutting Layup Shot (7 PTS) (Olynyk 8 AST),Made Shot,Cutting Layup Shot,1,2,376
+0022301022,531,PT08M52.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,151,253,29,Missed,1,,,0,v,MISS Nwora 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,383
+0022301022,542,PT08M23.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora P.FOUL (P2.T2) (R.Acosta),Foul,Personal,1,0,392
+0022301022,580,PT06M40.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Agbaji FOR Nwora,Substitution,,0,0,418
+0022301036,120,PT02M53.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,16,16,32,h,Nwora Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,87
+0022301036,123,PT02M53.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,MISS Nwora Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,89
+0022301036,133,PT01M52.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora STEAL (1 STL),,,1,0,97
+0022301036,135,PT01M47.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,98
+0022301036,139,PT01M27.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,228,8,0,Missed,1,,,0,h,MISS Nwora 3PT Jump Shot,Missed Shot,Jump Shot,1,3,101
+0022301036,147,PT00M43.10S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,109
+0022301036,183,PT10M00.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora S.FOUL (P1.T1) (M.Smith),Foul,Shooting,1,0,135
+0022301036,191,PT09M44.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora STEAL (2 STL),,,1,0,141
+0022301036,212,PT07M32.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,70,25,7,Made,1,26,29,55,h,Nwora 7' Turnaround Hook Shot (3 PTS),Made Shot,Turnaround Hook Shot,1,2,157
+0022301036,222,PT05M50.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,-18,273,27,Missed,1,,,0,h,MISS Nwora 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,165
+0022301036,226,PT05M42.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Agbaji FOR Nwora,Substitution,,0,0,168
+0022301036,429,PT01M57.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,313
+0022301036,441,PT00M56.60S,3,1610612761,TOR,1629670,Nwora,J. Nwora,-140,21,14,Made,1,69,66,135,h,Nwora 14' Step Back Jump Shot (5 PTS) (Temple 4 AST),Made Shot,Step Back Jump shot,1,2,321
+0022301036,444,PT00M30.80S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,323
+0022301036,508,PT08M43.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,97,171,20,Missed,1,,,0,h,MISS Nwora 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,367
+0022301036,511,PT08M18.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,370
+0022301036,523,PT07M40.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,120,6,12,Missed,1,,,0,h,MISS Nwora 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,378
+0022301036,539,PT06M22.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,239,29,24,Missed,1,,,0,h,MISS Nwora 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,389
+0022301036,542,PT06M20.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Brown FOR Nwora,Substitution,,0,0,391
+0022301053,125,PT01M32.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,13,7,1,Missed,1,,,0,h,MISS Nwora 1' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,87
+0022301053,129,PT01M30.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,5,1,1,Made,1,28,40,68,h,Nwora 1' Cutting Layup Shot (2 PTS) (Simmons 1 AST),Made Shot,Cutting Layup Shot,1,2,90
+0022301053,165,PT11M24.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,-37,254,26,Missed,1,,,0,h,MISS Nwora 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,115
+0022301053,171,PT11M04.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,120
+0022301053,202,PT08M27.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,96,174,20,Missed,1,,,0,h,MISS Nwora 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,141
+0022301053,209,PT07M35.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,147
+0022301053,214,PT07M21.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Dick FOR Nwora,Substitution,,0,0,151
+0022301053,265,PT03M41.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora STEAL (1 STL),,,1,0,185
+0022301053,267,PT03M38.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,1,0,186
+0022301053,275,PT02M52.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Temple FOR Nwora,Substitution,,0,0,191
+0022301053,460,PT00M05.90S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Traveling Turnover (P2.T12),Turnover,Traveling,1,0,331
+0022301053,546,PT05M29.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,5,247,25,Made,1,94,135,229,h,Nwora 25' 3PT Jump Shot (5 PTS) (Simmons 6 AST),Made Shot,Jump Shot,1,3,388
+0022301053,548,PT05M14.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora BLOCK (1 BLK),,,1,2,390
+0022301053,550,PT05M11.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,391
+0022301053,574,PT03M37.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora STEAL (2 STL),,,1,0,410
+0022301053,578,PT03M13.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,127,136,19,Made,1,97,138,235,h,Nwora 19' Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,1,2,413
+0022301080,130,PT02M51.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,-239,90,26,Missed,1,,,0,h,MISS Nwora 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,94
+0022301080,158,PT00M06.20S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,113
+0022301080,159,PT00M00.90S,1,1610612761,TOR,1629670,Nwora,J. Nwora,6,23,2,Made,1,27,35,62,h,Nwora 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,114
+0022301080,175,PT11M24.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,126,151,20,Missed,1,,,0,h,MISS Nwora 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,121
+0022301080,178,PT10M42.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,-4,15,2,Made,1,29,38,67,h,Nwora 2' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,124
+0022301080,187,PT09M39.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora BLOCK (1 BLK),,,1,2,132
+0022301080,201,PT09M03.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,64,42,8,Missed,1,,,0,h,MISS Nwora 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,143
+0022301080,211,PT07M57.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,235,1,24,Missed,1,,,0,h,MISS Nwora 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,150
+0022301080,231,PT06M45.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,-34,32,5,Missed,1,,,0,h,MISS Nwora 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,164
+0022301080,238,PT06M13.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,171
+0022301080,239,PT06M12.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,-13,4,1,Made,1,35,50,85,h,Nwora 1' Layup (6 PTS),Made Shot,Layup Shot,1,2,172
+0022301080,248,PT06M12.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,36,50,86,h,Nwora Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,177
+0022301080,254,PT05M27.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Freeman-Liberty FOR Nwora,Substitution,,0,0,181
+0022301080,407,PT07M10.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,244,58,25,Made,1,72,85,157,h,Nwora 25' 3PT Running Jump Shot (10 PTS) (Brown 4 AST),Made Shot,Running Jump Shot,1,3,289
+0022301080,433,PT04M54.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,307
+0022301080,434,PT04M54.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,Missed,1,,,0,h,MISS Nwora Putback Layup,Missed Shot,Putback Layup Shot,1,2,308
+0022301080,443,PT04M01.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,34,52,6,Made,1,78,91,169,h,Nwora 6' Driving Floating Jump Shot (12 PTS) (Brown 5 AST),Made Shot,Driving Floating Jump Shot,1,2,315
+0022301080,461,PT02M45.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,-190,171,26,Made,1,84,93,177,h,Nwora 26' 3PT Jump Shot (15 PTS) (Olynyk 9 AST),Made Shot,Jump Shot,1,3,325
+0022301080,471,PT01M04.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,332
+0022301080,482,PT00M47.90S,3,1610612761,TOR,1629670,Nwora,J. Nwora,81,252,26,Missed,1,,,0,h,MISS Nwora 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,340
+0022301080,491,PT00M33.40S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,348
+0022301080,504,PT11M35.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,27,59,6,Made,1,95,101,196,h,Nwora 6' Driving Floating Jump Shot (17 PTS),Made Shot,Driving Floating Jump Shot,1,2,356
+0022301080,515,PT10M25.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,176,197,26,Missed,1,,,0,h,MISS Nwora 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,364
+0022301080,525,PT09M41.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-233,4,0,Missed,1,,,0,h,MISS Nwora 3PT Jump Shot,Missed Shot,Jump Shot,1,3,371
+0022301080,540,PT08M12.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,62,53,8,Missed,1,,,0,h,MISS Nwora 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,381
+0022301080,576,PT05M46.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,7,9,1,Made,1,107,119,226,h,Nwora 1' Running Dunk (19 PTS) (Brown 6 AST),Made Shot,Running Dunk Shot,1,2,404
+0022301080,596,PT04M41.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Dick FOR Nwora,Substitution,,0,0,418
+0022301094,126,PT02M29.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,92
+0022301094,145,PT01M31.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,106
+0022301094,149,PT00M52.30S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Step Out of Bounds Turnover (P1.T3),Turnover,Step Out of Bounds Turnover,1,0,109
+0022301094,179,PT11M10.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,130,252,28,Missed,1,,,0,h,MISS Nwora 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,128
+0022301094,199,PT09M29.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,-34,265,27,Missed,1,,,0,h,MISS Nwora 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,142
+0022301094,230,PT07M47.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Lost Ball Turnover (P2.T5),Turnover,Lost Ball,1,0,165
+0022301094,232,PT07M40.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora STEAL (1 STL),,,1,0,168
+0022301094,265,PT05M45.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Olynyk FOR Nwora,Substitution,,0,0,191
+0022301094,440,PT04M40.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,316
+0022301094,462,PT02M48.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,125,141,19,Missed,1,,,0,h,MISS Nwora 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,331
+0022301094,465,PT02M34.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,334
+0022301094,466,PT02M30.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Out of Bounds - Bad Pass Turnover Turnover (P3.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,335
+0022301094,482,PT01M32.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Lost Ball Turnover (P4.T10),Turnover,Lost Ball,1,0,347
+0022301094,618,PT06M06.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,2,3,0,Missed,1,,,0,h,MISS Nwora Running Layup,Missed Shot,Running Layup Shot,1,2,443
+0022301094,656,PT02M39.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-229,-11,0,Made,1,97,123,220,h,Nwora 3PT Jump Shot (3 PTS) (McDaniels 1 AST),Made Shot,Jump Shot,1,3,475
+0022301094,668,PT01M23.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-230,1,0,Made,1,105,128,233,h,Nwora 3PT Step Back Jump Shot (6 PTS) (Gueye 2 AST),Made Shot,Step Back Jump shot,1,3,482
+0022301094,672,PT01M10.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,485
+0022301108,94,PT03M59.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,14,10,24,v,Nwora Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,1,0,74
+0022301108,95,PT03M59.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,14,11,25,v,Nwora Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,1,0,75
+0022301108,102,PT03M59.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,14,12,26,v,Nwora Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,1,0,76
+0022301108,141,PT00M24.60S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,109
+0022301108,174,PT09M54.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,118,11,12,Made,1,28,21,49,v,Nwora 12' Floating Jump Shot (5 PTS),Made Shot,Floating Jump shot,1,2,130
+0022301108,187,PT09M23.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,139
+0022301108,193,PT09M23.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,29,3,Missed,1,,,0,v,MISS Nwora 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,140
+0022301108,192,PT08M53.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,145
+0022301108,202,PT08M05.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,151
+0022301108,210,PT07M02.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,-153,183,24,Made,1,35,31,66,v,Nwora 24' 3PT Jump Shot (8 PTS) (Freeman-Liberty 1 AST),Made Shot,Jump Shot,1,3,157
+0022301108,219,PT06M37.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0,162
+0022301108,224,PT06M07.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,41,32,73,v,Nwora Free Throw Technical (9 PTS),Free Throw,Free Throw Technical,1,0,166
+0022301108,230,PT05M29.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora Traveling Turnover (P3.T8),Turnover,Traveling,1,0,171
+0022301108,239,PT04M51.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,178
+0022301108,241,PT04M40.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,180
+0022301108,242,PT04M38.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,-89,35,10,Made,1,44,36,80,v,Nwora 10' Floating Jump Shot (11 PTS),Made Shot,Floating Jump shot,1,2,181
+0022301108,248,PT04M14.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Quickley FOR Nwora,Substitution,,0,0,186
+0022301108,409,PT04M14.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,314
+0022301108,438,PT01M28.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora Step Out of Bounds Turnover (P4.T13),Turnover,Step Out of Bounds Turnover,1,0,335
+0022301108,449,PT00M36.30S,3,1610612761,TOR,1629670,Nwora,J. Nwora,-153,225,27,Missed,1,,,0,v,MISS Nwora 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,342
+0022301108,457,PT00M07.30S,3,1610612761,TOR,1629670,Nwora,J. Nwora,-154,162,22,Missed,1,,,0,v,MISS Nwora 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,349
+0022301108,476,PT10M57.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,12,54,6,Made,1,95,62,157,v,Nwora 6' Hook Shot (13 PTS) (Freeman-Liberty 5 AST),Made Shot,Hook Shot,1,2,359
+0022301108,495,PT09M54.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Williams FOR Nwora,Substitution,,0,0,374
+0022301108,532,PT07M33.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,399
+0022301108,548,PT06M25.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,411
+0022301108,551,PT06M20.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,110,70,180,v,Nwora Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,413
+0022301108,552,PT06M20.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,MISS Nwora Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,414
+0022301108,558,PT05M40.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,419
+0022301108,571,PT05M15.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,225,18,0,Missed,1,,,0,v,MISS Nwora 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,426
+0022301108,581,PT05M06.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,433
+0022301108,597,PT03M41.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,446
+0022301108,607,PT02M43.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,191,144,24,Missed,1,,,0,v,MISS Nwora 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,453
+0022301108,627,PT01M31.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:2 Def:10),Rebound,Unknown,1,0,470
+0022301108,634,PT01M02.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:3 Def:10),Rebound,Unknown,1,0,475
+0022301122,129,PT01M54.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,97
+0022301122,130,PT01M43.00S,1,1610612761,TOR,1629670,Nwora,J. Nwora,120,87,15,Made,1,21,21,42,v,Nwora 15' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,98
+0022301122,142,PT00M18.50S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,108
+0022301122,179,PT08M54.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,89,260,27,Missed,1,,,0,v,MISS Nwora 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,137
+0022301122,191,PT07M52.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,28,31,4,Made,1,36,30,66,v,Nwora 4' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,145
+0022301122,196,PT07M01.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,56,16,6,Missed,1,,,0,v,MISS Nwora 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,150
+0022301122,203,PT06M44.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Olynyk FOR Nwora,Substitution,,0,0,156
+0022301122,500,PT00M05.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Quickley FOR Nwora,Substitution,,0,0,366
+0022301146,177,PT09M56.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,135
+0022301146,179,PT09M51.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,10,14,2,Made,1,41,32,73,h,Nwora 2' Finger Roll Layup (2 PTS),Made Shot,Finger Roll Layup Shot,1,2,136
+0022301146,190,PT09M06.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,143
+0022301146,205,PT07M57.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,4,11,1,Made,1,47,39,86,h,Nwora 1' Cutting Layup Shot (4 PTS) (Brown 1 AST),Made Shot,Cutting Layup Shot,1,2,152
+0022301146,232,PT06M07.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Trent Jr. FOR Nwora,Substitution,,0,0,176
+0022301146,437,PT05M21.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora BLOCK (1 BLK),,,1,2,321
+0022301146,459,PT04M01.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,-94,263,28,Made,1,82,94,176,h,Nwora 28' 3PT Jump Shot (7 PTS) (Trent Jr. 3 AST),Made Shot,Jump Shot,1,3,337
+0022301146,493,PT02M18.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,MISS Nwora Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,362
+0022301146,495,PT02M18.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,85,99,184,h,Nwora Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,364
+0022301146,503,PT01M54.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,370
+0022301146,506,PT01M53.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,Missed,1,,,0,h,MISS Nwora Layup,Missed Shot,Layup Shot,1,2,371
+0022301146,522,PT00M46.70S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora BLOCK (2 BLK),,,1,2,386
+0022301146,556,PT10M50.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora S.FOUL (P1.T1) (C.Kirkland),Foul,Shooting,1,0,407
+0022301146,562,PT10M33.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora STEAL (1 STL),,,1,0,412
+0022301146,568,PT10M08.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-159,226,28,Made,1,100,112,212,h,Nwora 28' 3PT Running Jump Shot (11 PTS) (Trent Jr. 4 AST),Made Shot,Running Jump Shot,1,3,416
+0022301146,575,PT09M26.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,421
+0022301146,582,PT08M38.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,15,20,3,Missed,1,,,0,h,MISS Nwora 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,427
+0022301146,593,PT08M02.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Agbaji FOR Nwora,Substitution,,0,0,433
+0022301146,699,PT02M02.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,Nwora Lost Ball Turnover (P2.T15),Turnover,Lost Ball,1,0,513
+0022301146,704,PT01M55.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,h,SUB: Trent Jr. FOR Nwora,Substitution,,0,0,517
+0022301160,176,PT10M18.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,-146,286,32,Made,1,29,32,61,v,Nwora 32' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,137
+0022301160,192,PT09M13.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,224,20,0,Missed,1,,,0,v,MISS Nwora 3PT Jump Shot,Missed Shot,Jump Shot,1,3,147
+0022301160,218,PT07M45.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,166
+0022301160,234,PT06M32.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,11,6,1,Made,1,37,41,78,v,Nwora 1' Running Layup (5 PTS),Made Shot,Running Layup Shot,1,2,179
+0022301160,251,PT05M03.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora S.FOUL (P1.PN) (B.Schwab),Foul,Shooting,1,0,196
+0022301160,254,PT05M03.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Quickley FOR Nwora,Substitution,,0,0,198
+0022301160,465,PT01M23.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,45,68,8,Missed,1,,,0,v,MISS Nwora 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,350
+0022301160,476,PT00M42.60S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,359
+0022301160,518,PT11M11.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,200,169,26,Made,1,79,83,162,v,Nwora 26' 3PT Jump Shot (8 PTS) (Freeman-Liberty 1 AST),Made Shot,Jump Shot,1,3,383
+0022301160,524,PT10M19.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora BLOCK (1 BLK),,,1,2,390
+0022301160,535,PT09M43.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,81,86,167,v,Nwora Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,397
+0022301160,536,PT09M43.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,MISS Nwora Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,398
+0022301160,550,PT08M50.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,23,22,3,Missed,1,,,0,v,MISS Nwora 3' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,410
+0022301160,551,PT08M45.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,411
+0022301160,552,PT08M45.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,Made,1,83,88,171,v,Nwora Putback Layup (11 PTS),Made Shot,Putback Layup Shot,1,2,412
+0022301160,559,PT08M22.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-201,147,25,Missed,1,,,0,v,MISS Nwora 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,417
+0022301160,561,PT08M14.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-45,-5,5,Missed,1,,,0,v,MISS Nwora 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,419
+0022301160,574,PT07M15.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,430
+0022301160,577,PT06M56.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,7,258,26,Missed,1,,,0,v,MISS Nwora 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,431
+0022301160,585,PT06M46.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Dick FOR Nwora,Substitution,,0,0,437
+0022301160,682,PT00M04.30S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Williams FOR Nwora,Substitution,,0,0,508
+0022301176,589,PT01M40.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora Bad Pass Turnover (P1.T17),Turnover,Bad Pass,1,0,412
+0022301176,616,PT00M32.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,431
+0022301189,171,PT00M22.80S,1,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora S.FOUL (P1.PN) (J.Sterling),Foul,Shooting,1,0,126
+0022301189,190,PT11M15.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Raptors T.Foul (Def. 3 Sec Nwora ) (M.Lindsay),Foul,Defense 3 Second,1,0,141
+0022301189,218,PT08M49.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,161
+0022301189,225,PT07M38.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,42,19,5,Made,1,31,33,64,v,Nwora 5' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,167
+0022301189,234,PT06M26.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,173
+0022301189,235,PT06M25.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,174
+0022301189,282,PT04M01.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,SUB: Dick FOR Nwora,Substitution,,0,0,207
+0022301189,504,PT10M43.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,369
+0022301189,516,PT09M43.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora Out of Bounds - Bad Pass Turnover Turnover (P2.T18),Turnover,Out of Bounds - Bad Pass Turnover,1,0,378
+0022301189,529,PT08M20.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-123,232,26,Missed,1,,,0,v,MISS Nwora 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,390
+0022301189,534,PT08M03.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,395
+0022301189,547,PT07M40.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,404
+0022301189,548,PT07M31.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,6,10,1,Made,1,103,75,178,v,Nwora 1' Driving Layup (4 PTS) (McDaniels 2 AST),Made Shot,Driving Layup Shot,1,2,405
+0022301189,551,PT07M08.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,5,0,1,Made,1,103,77,180,v,Nwora 1' Driving Layup (6 PTS) (Freeman-Liberty 5 AST),Made Shot,Driving Layup Shot,1,2,407
+0022301189,559,PT06M33.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,221,23,0,Made,1,104,80,184,v,Nwora 3PT Step Back Jump Shot (9 PTS) (Temple 6 AST),Made Shot,Step Back Jump shot,1,3,413
+0022301189,566,PT05M36.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,168,199,26,Made,1,106,83,189,v,Nwora 26' 3PT Jump Shot (12 PTS) (Freeman-Liberty 6 AST),Made Shot,Jump Shot,1,3,419
+0022301189,573,PT04M38.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,423
+0022301189,593,PT02M24.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,440
+0022301189,594,PT02M16.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-244,49,25,Missed,1,,,0,v,MISS Nwora 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,441
+0022301189,610,PT01M46.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-1,33,3,Missed,1,,,0,v,MISS Nwora 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,452
+0022301189,611,PT01M44.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,453
+0022301189,612,PT01M44.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,Made,1,116,95,211,v,Nwora Tip Layup Shot (14 PTS),Made Shot,Tip Layup Shot,1,2,454
+0022301189,614,PT01M18.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,456
+0022301189,620,PT01M03.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,461
+0022301189,632,PT00M29.70S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,,,0,v,Nwora REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,471
+0022301189,633,PT00M28.50S,4,1610612761,TOR,1629670,Nwora,J. Nwora,17,8,2,Missed,1,,,0,v,MISS Nwora 2' Running Layup,Missed Shot,Running Layup Shot,1,2,472

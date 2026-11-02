@@ -1,0 +1,100 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300027,615,PT02M13.00S,4,1610612749,MIL,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,451
+0022300027,634,PT00M33.90S,4,1610612749,MIL,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,465
+0022300027,636,PT00M05.00S,4,1610612749,MIL,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden S.FOUL (P1.PN) (B.Forte),Foul,Shooting,1,0,467
+0022300840,574,PT02M05.00S,4,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,426
+0022300875,100,PT02M32.00S,1,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden OFF.Foul (P1) (J.Sterling),Foul,Offensive,1,0,77
+0022300875,102,PT02M32.00S,1,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1,0,78
+0022300875,106,PT02M32.00S,1,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,SUB: Bertans FOR Bolden,Substitution,,0,0,82
+0022300875,242,PT05M58.00S,2,1610612766,CHA,1629716,Bolden,M. Bolden,-7,109,11,Missed,1,,,0,v,MISS Bolden 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,180
+0022300875,251,PT05M18.00S,2,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,SUB: Williams FOR Bolden,Substitution,,0,0,188
+0022300875,451,PT01M56.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,SUB: Micic FOR Bolden,Substitution,,0,0,341
+0022301087,57,PT07M13.00S,1,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,h,Bolden REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,43
+0022301087,64,PT06M07.00S,1,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,h,Bolden REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,48
+0022301087,83,PT04M45.00S,1,1610612766,CHA,1629716,Bolden,M. Bolden,25,10,3,Made,1,25,20,45,h,Bolden 3' Alley Oop Dunk (2 PTS) (Bridges 3 AST),Made Shot,Alley Oop Dunk Shot,1,2,59
+0022301087,85,PT04M27.00S,1,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,h,Bolden S.FOUL (P1.T3) (B.Schwab),Foul,Shooting,1,0,60
+0022301087,89,PT04M25.00S,1,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,h,Bolden REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,63
+0022301087,101,PT03M22.00S,1,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,h,Bolden REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,74
+0022301087,272,PT02M15.00S,2,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,h,Bolden REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,200
+0022301087,273,PT02M15.00S,2,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,Made,1,51,51,102,h,Bolden Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,201
+0022301087,281,PT01M17.00S,2,1610612766,CHA,1629716,Bolden,M. Bolden,-44,16,5,Missed,1,,,0,h,MISS Bolden 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,209
+0022301087,405,PT02M39.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,h,Bolden S.FOUL (P2.T4) (B.Schwab),Foul,Shooting,1,0,293
+0022301087,416,PT01M32.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,h,Bolden S.FOUL (P3.PN) (B.Schwab),Foul,Shooting,1,0,302
+0022301087,589,PT00M35.90S,4,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,h,Bolden Violation:Defensive Goaltending (P.Fraher),Violation,Defensive Goaltending,1,0,423
+0022301102,113,PT02M23.00S,1,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,h,Bolden REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,84
+0022301102,239,PT05M22.00S,2,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,h,Bolden REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,173
+0022301102,242,PT04M58.00S,2,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,h,Bolden BLOCK (1 BLK),,,1,2,177
+0022301102,245,PT04M53.00S,2,1610612766,CHA,1629716,Bolden,M. Bolden,-2,27,3,Made,1,37,40,77,h,Bolden 3' Running Alley Oop Layup Shot (2 PTS) (Smith Jr. 1 AST),Made Shot,Running Alley Oop Layup Shot,1,2,179
+0022301102,251,PT04M22.00S,2,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,h,Bolden REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,184
+0022301102,257,PT03M59.00S,2,1610612766,CHA,1629716,Bolden,M. Bolden,-1,57,6,Made,1,39,42,81,h,Bolden 6' Turnaround Fadeaway (4 PTS) (Miller 1 AST),Made Shot,Turnaround Fadeaway shot,1,2,187
+0022301102,268,PT03M19.00S,2,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,h,Bolden REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,196
+0022301102,309,PT00M41.90S,2,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,h,Bolden REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,229
+0022301102,313,PT00M03.80S,2,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,h,Bolden REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,233
+0022301102,417,PT03M12.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,h,MISS Bolden Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,310
+0022301102,419,PT03M12.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,60,65,125,h,Bolden Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,312
+0022301102,551,PT05M22.00S,4,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,h,Bolden REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,410
+0022301102,552,PT05M12.00S,4,1610612766,CHA,1629716,Bolden,M. Bolden,-2,64,6,Made,1,77,77,154,h,Bolden 6' Jump Shot (7 PTS) (Pokusevski 1 AST),Made Shot,Jump Shot,1,2,411
+0022301102,555,PT04M50.00S,4,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,h,Bolden REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,413
+0022301102,564,PT03M42.00S,4,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,h,Bolden STEAL (1 STL),,,1,0,421
+0022301102,574,PT02M59.00S,4,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,h,SUB: Mann FOR Bolden,Substitution,,0,0,428
+0022301115,109,PT02M05.00S,1,1610612766,CHA,1629716,Bolden,M. Bolden,4,15,2,Made,1,34,18,52,h,Bolden 2' Dunk (2 PTS) (Pokusevski 1 AST),Made Shot,Dunk Shot,1,2,79
+0022301115,112,PT01M52.00S,1,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,h,Bolden REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,81
+0022301115,245,PT04M31.00S,2,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,h,Bolden REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,172
+0022301115,246,PT04M31.00S,2,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,Made,1,54,45,99,h,Bolden Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,1,2,173
+0022301115,250,PT04M07.00S,2,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,h,Bolden Violation:Kicked Ball (M.Ervin),Violation,Kicked Ball,0,0,175
+0022301115,272,PT02M38.00S,2,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,h,Bolden S.FOUL (P1.T4) (T.Washington),Foul,Shooting,1,0,190
+0022301115,274,PT02M38.00S,2,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,h,SUB: Williams FOR Bolden,Substitution,,0,0,191
+0022301115,439,PT01M15.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,h,Bolden REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,318
+0022301159,439,PT01M51.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,4,5,1,Made,1,91,75,166,v,Bolden 1' Alley Oop Dunk (2 PTS) (Mann 6 AST),Made Shot,Alley Oop Dunk Shot,1,2,309
+0022301159,445,PT01M22.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,313
+0022301159,449,PT01M02.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,317
+0022301173,12,PT11M14.00S,1,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+0022301173,25,PT09M37.00S,1,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden BLOCK (1 BLK),,,1,2,17
+0022301173,33,PT08M34.00S,1,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden STEAL (1 STL),,,1,0,24
+0022301173,39,PT07M45.00S,1,1610612766,CHA,1629716,Bolden,M. Bolden,-83,70,11,Missed,1,,,0,v,MISS Bolden 11' Hook Bank Shot,Missed Shot,Hook Bank Shot,1,2,28
+0022301173,50,PT06M46.00S,1,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden OFF.Foul (P1) (M.Myers),Foul,Offensive,1,0,37
+0022301173,52,PT06M46.00S,1,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,38
+0022301173,68,PT04M55.00S,1,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden BLOCK (2 BLK),,,1,2,52
+0022301173,100,PT03M29.00S,1,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,SUB: Bertans FOR Bolden,Substitution,,0,0,74
+0022301173,293,PT00M12.30S,2,1610612766,CHA,1629716,Bolden,M. Bolden,1,4,0,Made,1,69,43,112,v,Bolden Cutting Dunk Shot (2 PTS) (Bridges 2 AST),Made Shot,Cutting Dunk Shot,1,2,213
+0022301173,313,PT11M18.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,221
+0022301173,314,PT11M07.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,65,103,12,Missed,1,,,0,v,MISS Bolden 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,222
+0022301173,326,PT10M13.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,-108,53,12,Missed,1,,,0,v,MISS Bolden 12' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,232
+0022301173,332,PT09M40.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden S.FOUL (P2.T2) (J.Orr),Foul,Shooting,1,0,236
+0022301173,341,PT09M14.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden Violation:Defensive Goaltending (M.Lindsay),Violation,Defensive Goaltending,1,0,242
+0022301173,344,PT08M45.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden P.FOUL (P3.T3) (M.Lindsay),Foul,Personal,1,0,244
+0022301173,383,PT04M51.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,271
+0022301173,386,PT04M51.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,90,63,153,v,Bolden Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,273
+0022301173,387,PT04M51.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,90,64,154,v,Bolden Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,274
+0022301173,401,PT03M47.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,286
+0022301173,408,PT03M06.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Bolden,Substitution,,0,0,292
+0022301173,569,PT04M16.00S,4,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,407
+0022301173,570,PT04M14.00S,4,1610612766,CHA,1629716,Bolden,M. Bolden,20,24,3,Made,1,117,89,206,v,Bolden 3' Cutting Layup Shot (6 PTS) (Smith Jr. 2 AST),Made Shot,Cutting Layup Shot,1,2,408
+0022301187,9,PT11M29.00S,1,1610612766,CHA,1629716,Bolden,M. Bolden,-36,99,11,Made,1,0,2,2,v,Bolden 11' Turnaround Bank Hook Shot (2 PTS) (Micic 1 AST),Made Shot,Turnaround Bank Hook Shot,1,2,5
+0022301187,13,PT10M58.00S,1,1610612766,CHA,1629716,Bolden,M. Bolden,18,15,2,Missed,1,,,0,v,MISS Bolden 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,7
+0022301187,28,PT09M18.00S,1,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,20
+0022301187,45,PT07M34.00S,1,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden S.FOUL (P1.T1) (C.Blair),Foul,Shooting,1,0,31
+0022301187,58,PT06M45.00S,1,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden BLOCK (1 BLK),,,1,2,44
+0022301187,66,PT06M02.00S,1,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,50
+0022301187,71,PT05M37.00S,1,1610612766,CHA,1629716,Bolden,M. Bolden,12,258,26,Missed,1,,,0,v,MISS Bolden 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,54
+0022301187,119,PT02M30.00S,1,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,SUB: Pokusevski FOR Bolden,Substitution,,0,0,92
+0022301187,278,PT01M48.00S,2,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,200
+0022301187,279,PT01M48.00S,2,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,Made,1,56,55,111,v,Bolden Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,201
+0022301187,286,PT00M49.90S,2,1610612766,CHA,1629716,Bolden,M. Bolden,-11,76,8,Made,1,58,57,115,v,Bolden 8' Floating Jump Shot (6 PTS) (McGowens 1 AST),Made Shot,Floating Jump shot,1,2,207
+0022301187,301,PT11M44.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,-11,34,4,Made,1,58,59,117,v,Bolden 4' Turnaround Hook Shot (8 PTS) (Mann 5 AST),Made Shot,Turnaround Hook Shot,1,2,218
+0022301187,310,PT10M29.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden STEAL (1 STL),,,1,0,225
+0022301187,317,PT09M47.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden BLOCK (2 BLK),,,1,2,230
+0022301187,336,PT07M42.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,245
+0022301187,368,PT05M42.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,SUB: Black FOR Bolden,Substitution,,0,0,265
+0022301187,389,PT04M25.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,-6,43,4,Made,1,84,82,166,v,Bolden 4' Floating Jump Shot (10 PTS) (Black 5 AST),Made Shot,Floating Jump shot,1,2,276
+0022301187,391,PT04M14.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden BLOCK (3 BLK),,,1,2,278
+0022301187,450,PT03M15.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,SUB: Pokusevski FOR Bolden,Substitution,,0,0,292
+0022301187,430,PT01M54.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,305
+0022301187,431,PT01M54.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden Step Out of Bounds Turnover (P1.T9),Turnover,Step Out of Bounds Turnover,1,0,306
+0022301187,435,PT01M29.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,308
+0022301187,440,PT00M48.70S,3,1610612766,CHA,1629716,Bolden,M. Bolden,-9,14,2,Made,1,93,86,179,v,Bolden 2' Turnaround Bank Shot (12 PTS) (Bailey 3 AST),Made Shot,Turnaround Bank shot,1,2,312
+0022301187,443,PT00M18.10S,3,1610612766,CHA,1629716,Bolden,M. Bolden,38,35,5,Made,1,96,88,184,v,Bolden 5' Hook Shot (14 PTS) (Pokusevski 2 AST),Made Shot,Hook Shot,1,2,314
+0022301187,445,PT00M00.00S,3,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden BLOCK (4 BLK),,,1,2,316
+0022301187,538,PT05M41.00S,4,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,374
+0022301187,544,PT04M37.00S,4,1610612766,CHA,1629716,Bolden,M. Bolden,-5,6,1,Missed,1,,,0,v,MISS Bolden 1' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,379
+0022301187,548,PT04M16.00S,4,1610612766,CHA,1629716,Bolden,M. Bolden,0,0,0,,0,,,0,v,Bolden REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,383

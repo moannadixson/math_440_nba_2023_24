@@ -1,0 +1,569 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300390,122,PT02M40.00S,1,1610612766,CHA,1628998,Martin,C. Martin,113,113,16,Missed,1,,,0,h,MISS Martin 16' Jump Shot,Missed Shot,Jump Shot,1,2,87
+0022300390,153,PT00M43.90S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin P.FOUL (P1.T2) (N.Green),Foul,Personal,1,0,113
+0022300390,241,PT06M53.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,176
+0022300390,245,PT06M41.00S,2,1610612766,CHA,1628998,Martin,C. Martin,16,23,3,Made,1,41,38,79,h,Martin 3' Running Layup (2 PTS) (Hayward 2 AST),Made Shot,Running Layup Shot,1,2,180
+0022300390,269,PT04M41.00S,2,1610612766,CHA,1628998,Martin,C. Martin,7,16,2,Made,1,46,44,90,h,Martin 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,198
+0022300390,277,PT03M59.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: McGowens FOR Martin,Substitution,,0,0,205
+0022300390,454,PT01M31.00S,3,1610612766,CHA,1628998,Martin,C. Martin,20,16,3,Missed,1,,,0,h,MISS Martin 3' Jump Shot,Missed Shot,Jump Shot,1,2,347
+0022300390,557,PT07M53.00S,4,1610612766,CHA,1628998,Martin,C. Martin,127,69,14,Made,1,79,91,170,h,Martin 14' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,420
+0022300390,601,PT04M28.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Washington FOR Martin,Substitution,,0,0,453
+0022300414,85,PT05M54.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin STEAL (1 STL),,,1,0,58
+0022300414,90,PT05M23.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,61
+0022300414,91,PT05M19.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-10,15,2,Missed,1,,,0,v,MISS Martin 2' Running Layup,Missed Shot,Running Layup Shot,1,2,62
+0022300414,133,PT02M04.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin STEAL (2 STL),,,1,0,93
+0022300414,135,PT02M01.00S,1,1610612766,CHA,1628998,Martin,C. Martin,2,24,2,Missed,1,,,0,v,MISS Martin 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,94
+0022300414,138,PT01M51.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin STEAL (3 STL),,,1,0,97
+0022300414,150,PT00M49.80S,1,1610612766,CHA,1628998,Martin,C. Martin,158,205,26,Made,1,24,27,51,v,Martin 26' 3PT Jump Shot (3 PTS) (Bridges 2 AST),Made Shot,Jump Shot,1,3,106
+0022300414,256,PT04M47.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-13,13,2,Made,1,41,37,78,v,Martin 2' Driving Dunk (5 PTS),Made Shot,Driving Dunk Shot,1,2,183
+0022300414,264,PT03M57.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin S.FOUL (P1.PN) (S.Foster),Foul,Shooting,1,0,188
+0022300414,269,PT03M35.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin BLOCK (1 BLK),,,1,2,193
+0022300414,272,PT03M14.00S,2,1610612766,CHA,1628998,Martin,C. Martin,62,147,16,Made,1,47,41,88,v,Martin 16' Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,1,2,195
+0022300414,411,PT04M09.00S,3,1610612766,CHA,1628998,Martin,C. Martin,107,136,17,Missed,1,,,0,v,MISS Martin 17' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,300
+0022300414,448,PT02M22.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,326
+0022300414,460,PT01M41.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin STEAL (4 STL),,,1,0,334
+0022300414,474,PT00M04.90S,3,1610612766,CHA,1628998,Martin,C. Martin,-195,179,26,Missed,1,,,0,v,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,344
+0022300414,552,PT05M59.00S,4,1610612766,CHA,1628998,Martin,C. Martin,-53,160,17,Missed,1,,,0,v,MISS Martin 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,400
+0022300414,591,PT03M08.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin S.FOUL (P2.T4) (K.Lane),Foul,Shooting,1,0,430
+0022300428,94,PT05M16.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,66
+0022300428,133,PT02M17.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-93,255,27,Missed,1,,,0,v,MISS Martin 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,94
+0022300428,139,PT01M28.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,99
+0022300428,140,PT01M19.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-179,176,25,Missed,1,,,0,v,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,100
+0022300428,149,PT00M58.30S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,23,29,52,v,Martin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,107
+0022300428,150,PT00M58.30S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,MISS Martin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,108
+0022300428,163,PT00M01.90S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,117
+0022300428,165,PT00M01.90S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,MISS Martin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,119
+0022300428,267,PT05M11.00S,2,1610612766,CHA,1628998,Martin,C. Martin,147,-15,15,Missed,1,,,0,v,MISS Martin 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,190
+0022300428,268,PT05M08.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,191
+0022300428,269,PT05M07.00S,2,1610612766,CHA,1628998,Martin,C. Martin,23,11,3,Missed,1,,,0,v,MISS Martin 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,192
+0022300428,276,PT04M24.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin Out of Bounds Lost Ball Turnover (P1.T8),Turnover,Out of Bounds Lost Ball Turnover,1,0,199
+0022300428,316,PT01M52.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-18,24,3,Made,1,50,53,103,v,Martin 3' Reverse Layup (3 PTS) (Bridges 2 AST),Made Shot,Reverse Layup Shot,1,2,231
+0022300428,443,PT05M23.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin STEAL (1 STL),,,1,0,319
+0022300428,445,PT05M20.00S,3,1610612766,CHA,1628998,Martin,C. Martin,1,36,4,Made,1,82,73,155,v,Martin 4' Running Dunk (5 PTS),Made Shot,Running Dunk Shot,1,2,320
+0022300428,448,PT04M34.00S,3,1610612766,CHA,1628998,Martin,C. Martin,-240,74,25,Missed,1,,,0,v,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,322
+0022300428,453,PT04M11.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,327
+0022300428,472,PT03M21.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin S.FOUL (P1.PN) (K.Scott),Foul,Shooting,1,0,339
+0022300428,509,PT00M33.20S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin Traveling Turnover (P2.T15),Turnover,Traveling,1,0,367
+0022300436,96,PT03M08.00S,1,1610612766,CHA,1628998,Martin,C. Martin,55,73,9,Missed,1,,,0,v,MISS Martin 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,70
+0022300436,98,PT03M05.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,72
+0022300436,99,PT03M05.00S,1,1610612766,CHA,1628998,Martin,C. Martin,132,35,14,Missed,1,,,0,v,MISS Martin 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,73
+0022300436,137,PT01M09.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin STEAL (1 STL),,,1,0,98
+0022300436,139,PT01M01.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-232,21,0,Made,1,30,30,60,v,Martin 3PT Jump Shot (3 PTS) (Smith 3 AST),Made Shot,Jump Shot,1,3,99
+0022300436,220,PT05M57.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,149
+0022300436,230,PT05M51.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,156
+0022300436,253,PT04M03.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,172
+0022300436,280,PT02M31.00S,2,1610612766,CHA,1628998,Martin,C. Martin,50,46,7,Missed,1,,,0,v,MISS Martin 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,189
+0022300436,286,PT02M04.00S,2,1610612766,CHA,1628998,Martin,C. Martin,227,29,0,Made,1,66,53,119,v,Martin 3PT Jump Shot (6 PTS) (Rozier 4 AST),Made Shot,Jump Shot,1,3,193
+0022300436,405,PT04M08.00S,3,1610612766,CHA,1628998,Martin,C. Martin,237,36,24,Made,1,94,77,171,v,Martin 24' 3PT Jump Shot (9 PTS) (Smith 5 AST),Made Shot,Jump Shot,1,3,274
+0022300436,435,PT01M43.00S,3,1610612766,CHA,1628998,Martin,C. Martin,13,22,3,Missed,1,,,0,v,MISS Martin 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,294
+0022300436,454,PT00M36.10S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin BLOCK (1 BLK),,,1,2,306
+0022300436,457,PT00M33.70S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin P.FOUL (P1.T3) (A.Smith),Foul,Personal,1,0,308
+0022300436,480,PT10M43.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin STEAL (2 STL),,,1,0,321
+0022300436,487,PT10M05.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: McGowens FOR Martin,Substitution,,0,0,325
+0022300436,575,PT03M36.00S,4,1610612766,CHA,1628998,Martin,C. Martin,-23,194,20,Made,1,125,112,237,v,Martin 20' Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,1,2,384
+0022300436,599,PT01M58.00S,4,1610612766,CHA,1628998,Martin,C. Martin,-232,104,25,Missed,1,,,0,v,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,400
+0022300436,603,PT01M54.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,404
+0022300436,604,PT01M54.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,Made,1,129,116,245,v,Martin Tip Layup Shot (13 PTS),Made Shot,Tip Layup Shot,1,2,405
+0022300455,61,PT05M06.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,47
+0022300455,65,PT05M06.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,MISS Martin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,50
+0022300455,71,PT04M32.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin STEAL (1 STL),,,1,0,57
+0022300455,73,PT04M24.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-195,151,25,Missed,1,,,0,v,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,58
+0022300455,75,PT04M13.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin BLOCK (1 BLK),,,1,2,61
+0022300455,97,PT02M57.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,78
+0022300455,136,PT00M24.80S,1,1610612766,CHA,1628998,Martin,C. Martin,-18,-1,2,Missed,1,,,0,v,MISS Martin 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,105
+0022300455,231,PT05M40.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin STEAL (2 STL),,,1,0,172
+0022300455,233,PT05M28.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-168,41,17,Missed,1,,,0,v,MISS Martin 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,173
+0022300455,237,PT05M04.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-234,27,24,Missed,1,,,0,v,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,176
+0022300455,258,PT02M57.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-21,157,16,Missed,1,,,0,v,MISS Martin 16' Jump Shot,Missed Shot,Jump Shot,1,2,191
+0022300455,390,PT03M20.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,292
+0022300455,406,PT01M55.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin BLOCK (2 BLK),,,1,2,305
+0022300455,514,PT07M52.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,380
+0022300455,520,PT07M28.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,102,78,180,v,Martin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,385
+0022300455,521,PT07M28.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,102,79,181,v,Martin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,386
+0022300455,535,PT06M05.00S,4,1610612766,CHA,1628998,Martin,C. Martin,-227,-7,0,Missed,1,,,0,v,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,397
+0022300455,559,PT04M08.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Thor FOR Martin,Substitution,,0,0,417
+0022300464,45,PT08M09.00S,1,1610612766,CHA,1628998,Martin,C. Martin,99,3,10,Missed,1,,,0,v,MISS Martin 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,32
+0022300464,70,PT06M34.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,51
+0022300464,80,PT05M37.00S,1,1610612766,CHA,1628998,Martin,C. Martin,49,236,24,Missed,1,,,0,v,MISS Martin 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,58
+0022300464,84,PT05M24.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,62
+0022300464,90,PT05M11.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Washington FOR Martin,Substitution,,0,0,67
+0022300464,218,PT09M17.00S,2,1610612766,CHA,1628998,Martin,C. Martin,115,119,17,Missed,1,,,0,v,MISS Martin 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,148
+0022300464,224,PT08M52.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin S.FOUL (P1.T2) (A.Moyer-Gleich),Foul,Shooting,1,0,154
+0022300464,254,PT07M27.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-223,9,0,Missed,1,,,0,v,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,172
+0022300464,287,PT05M49.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: McGowens FOR Martin,Substitution,,0,0,191
+0022300464,323,PT02M32.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-221,10,0,Missed,1,,,0,v,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,217
+0022300464,359,PT11M11.00S,3,1610612766,CHA,1628998,Martin,C. Martin,-2,69,7,Made,1,52,47,99,v,Martin 7' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,242
+0022300464,362,PT10M47.00S,3,1610612766,CHA,1628998,Martin,C. Martin,234,13,0,Made,1,52,50,102,v,Martin 3PT Jump Shot (5 PTS) (Rozier 3 AST),Made Shot,Jump Shot,1,3,244
+0022300464,420,PT06M18.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin STEAL (1 STL),,,1,0,298
+0022300464,427,PT06M08.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Smith FOR Martin,Substitution,,0,0,303
+0022300464,541,PT10M10.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,383
+0022300464,546,PT09M18.00S,4,1610612766,CHA,1628998,Martin,C. Martin,99,70,12,Made,1,84,83,167,v,Martin 12' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,2,386
+0022300464,560,PT08M18.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin S.FOUL (P2.T2) (N.Green),Foul,Shooting,1,0,395
+0022300464,586,PT06M42.00S,4,1610612766,CHA,1628998,Martin,C. Martin,218,130,25,Missed,1,,,0,v,MISS Martin 25' 3PT Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,3,411
+0022300464,598,PT06M08.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: McGowens FOR Martin,Substitution,,0,0,419
+0022300464,639,PT04M12.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,452
+0022300464,641,PT04M12.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,98,94,192,v,Martin Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,454
+0022300464,677,PT00M42.10S,4,1610612766,CHA,1628998,Martin,C. Martin,-1,18,2,Made,1,104,107,211,v,Martin 2' Running Layup (10 PTS) (Richards 1 AST),Made Shot,Running Layup Shot,1,2,478
+0022300484,10,PT11M34.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,5
+0022300484,11,PT11M14.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-4,64,6,Missed,1,,,0,v,MISS Martin 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,6
+0022300484,20,PT10M37.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,14
+0022300484,26,PT09M48.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin STEAL (1 STL),,,1,0,20
+0022300484,28,PT09M44.00S,1,1610612766,CHA,1628998,Martin,C. Martin,6,5,1,Made,1,2,4,6,v,Martin 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,21
+0022300484,64,PT06M06.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Washington FOR Martin,Substitution,,0,0,51
+0022300484,165,PT10M39.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-225,8,0,Made,1,25,25,50,v,Martin 3PT Jump Shot (5 PTS) (Rozier 2 AST),Made Shot,Jump Shot,1,3,120
+0022300484,192,PT08M17.00S,2,1610612766,CHA,1628998,Martin,C. Martin,7,239,24,Missed,1,,,0,v,MISS Martin 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,138
+0022300484,230,PT06M28.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,164
+0022300484,231,PT06M09.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-94,230,25,Missed,1,,,0,v,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,165
+0022300484,235,PT05M42.00S,2,1610612766,CHA,1628998,Martin,C. Martin,45,34,6,Missed,1,,,0,v,MISS Martin 6' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,169
+0022300484,243,PT05M36.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Miller FOR Martin,Substitution,,0,0,176
+0022300484,285,PT03M12.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,204
+0022300484,292,PT02M19.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin STEAL (2 STL),,,1,0,210
+0022300484,294,PT02M10.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-102,224,25,Made,1,40,41,81,v,Martin 25' 3PT Jump Shot (8 PTS) (Rozier 4 AST),Made Shot,Jump Shot,1,3,211
+0022300484,309,PT00M48.10S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,223
+0022300484,315,PT00M21.50S,2,1610612766,CHA,1628998,Martin,C. Martin,-225,14,0,Missed,1,,,0,v,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,227
+0022300484,343,PT11M15.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,239
+0022300484,347,PT10M46.00S,3,1610612766,CHA,1628998,Martin,C. Martin,-12,5,1,Made,1,47,43,90,v,Martin 1' Driving Finger Roll Layup (10 PTS) (Bridges 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,241
+0022300484,429,PT04M21.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Smith FOR Martin,Substitution,,0,0,304
+0022300484,518,PT09M24.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin S.FOUL (P1.T1) (B.Schwab),Foul,Shooting,1,0,365
+0022300484,542,PT07M41.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin S.FOUL (P2.T2) (B.Schwab),Foul,Shooting,1,0,383
+0022300484,555,PT06M43.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin S.FOUL (P3.T3) (C.Kirkland),Foul,Shooting,1,0,392
+0022300484,568,PT05M18.00S,4,1610612766,CHA,1628998,Martin,C. Martin,219,127,25,Made,1,96,80,176,v,Martin 25' 3PT Pullup Jump Shot (13 PTS) (Rozier 6 AST),Made Shot,Pullup Jump shot,1,3,403
+0022300484,578,PT04M50.00S,4,1610612766,CHA,1628998,Martin,C. Martin,-229,15,0,Missed,1,,,0,v,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,409
+0022300484,580,PT04M43.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin P.FOUL (P4.T4) (B.Schwab),Foul,Personal,1,0,411
+0022300551,9,PT11M26.00S,1,1610612766,CHA,1628998,Martin,C. Martin,37,17,4,Missed,1,,,0,v,MISS Martin 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,5
+0022300551,15,PT10M51.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin BLOCK (1 BLK),,,1,2,12
+0022300551,52,PT07M58.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,44
+0022300551,57,PT07M21.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-21,251,25,Missed,1,,,0,v,MISS Martin 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,48
+0022300551,66,PT06M22.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin S.FOUL (P1.T3) (D.Taylor),Foul,Shooting,1,0,57
+0022300551,69,PT06M22.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Smith FOR Martin,Substitution,,0,0,59
+0022300551,192,PT10M40.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,125
+0022300551,210,PT07M16.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin Lost Ball Turnover (P2.T6),Turnover,Lost Ball,1,0,162
+0022300551,225,PT06M03.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Thor FOR Martin,Substitution,,0,0,176
+0022300551,328,PT10M34.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,245
+0022300551,366,PT06M56.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Hornets T.Foul (Def. 3 Sec Martin ) (D.Taylor),Foul,Defense 3 Second,1,0,274
+0022300551,385,PT06M06.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Smith FOR Martin,Substitution,,0,0,288
+0022300551,483,PT11M06.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin BLOCK (2 BLK),,,1,2,362
+0022300551,493,PT10M13.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin Bad Pass Turnover (P3.T13),Turnover,Bad Pass,1,0,369
+0022300551,524,PT07M57.00S,4,1610612766,CHA,1628998,Martin,C. Martin,181,157,24,Made,1,87,71,158,v,Martin 24' 3PT Jump Shot (3 PTS) (Rozier 7 AST),Made Shot,Jump Shot,1,3,392
+0022300551,541,PT06M41.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Thor FOR Martin,Substitution,,0,0,404
+0022300575,27,PT09M31.00S,1,1610612766,CHA,1628998,Martin,C. Martin,227,-11,0,Missed,1,,,0,v,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,15
+0022300575,37,PT08M24.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,16,13,29,v,Martin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,21
+0022300575,38,PT08M24.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,16,14,30,v,Martin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,22
+0022300575,39,PT08M09.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin STEAL (1 STL),,,1,0,24
+0022300575,41,PT08M01.00S,1,1610612766,CHA,1628998,Martin,C. Martin,33,97,10,Missed,1,,,0,v,MISS Martin 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,25
+0022300575,63,PT05M59.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin STEAL (2 STL),,,1,0,43
+0022300575,80,PT04M42.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Washington FOR Martin,Substitution,,0,0,57
+0022300575,228,PT08M00.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,159
+0022300575,258,PT05M51.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-230,67,24,Missed,1,,,0,v,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,179
+0022300575,277,PT03M37.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-22,4,2,Made,1,63,53,116,v,Martin 2' Cutting Layup Shot (4 PTS) (Richards 1 AST),Made Shot,Cutting Layup Shot,1,2,196
+0022300575,288,PT03M08.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Ball FOR Martin,Substitution,,0,0,205
+0022300575,333,PT00M29.00S,2,1610612766,CHA,1628998,Martin,C. Martin,100,34,11,Missed,1,,,0,v,MISS Martin 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,240
+0022300575,337,PT00M16.20S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,243
+0022300575,370,PT11M01.00S,3,1610612766,CHA,1628998,Martin,C. Martin,13,262,26,Missed,1,,,0,v,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,258
+0022300575,401,PT08M06.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin S.FOUL (P1.T2) (M.Kogut),Foul,Shooting,1,0,284
+0022300575,421,PT06M28.00S,3,1610612766,CHA,1628998,Martin,C. Martin,-229,8,0,Missed,1,,,0,v,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,301
+0022300575,424,PT06M13.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,304
+0022300575,430,PT06M08.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Smith FOR Martin,Substitution,,0,0,309
+0022300575,533,PT10M43.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,373
+0022300575,534,PT10M35.00S,4,1610612766,CHA,1628998,Martin,C. Martin,-25,4,3,Missed,1,,,0,v,MISS Martin 3' Running Layup,Missed Shot,Running Layup Shot,1,2,374
+0022300575,543,PT10M02.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin P.FOUL (P2.T2) (B.Forte),Foul,Personal,1,0,382
+0022300575,565,PT08M12.00S,4,1610612766,CHA,1628998,Martin,C. Martin,-235,-7,24,Made,1,104,90,194,v,Martin 24' 3PT Jump Shot (7 PTS) (Smith Jr. 2 AST),Made Shot,Jump Shot,1,3,399
+0022300575,576,PT07M20.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Bridges FOR Martin,Substitution,,0,0,408
+0022300584,73,PT05M25.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-6,167,17,Missed,1,,,0,h,MISS Martin 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,51
+0022300584,108,PT03M19.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,77
+0022300584,125,PT02M00.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin BLOCK (1 BLK),,,1,2,90
+0022300584,127,PT01M54.00S,1,1610612766,CHA,1628998,Martin,C. Martin,12,20,2,Missed,1,,,0,h,MISS Martin 2' Running Dunk,Missed Shot,Running Dunk Shot,1,2,92
+0022300584,207,PT08M06.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin P.FOUL (P1.T3) (J.Van Duyne),Foul,Personal,1,0,147
+0022300584,221,PT07M37.00S,2,1610612766,CHA,1628998,Martin,C. Martin,167,58,18,Missed,1,,,0,h,MISS Martin 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,155
+0022300584,229,PT06M48.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,161
+0022300584,271,PT03M49.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Miller FOR Martin,Substitution,,0,0,193
+0022300584,426,PT04M20.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,302
+0022300584,427,PT04M18.00S,3,1610612766,CHA,1628998,Martin,C. Martin,-11,20,2,Made,1,84,77,161,h,Martin 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,303
+0022300584,448,PT02M29.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin STEAL (1 STL),,,1,0,318
+0022300584,452,PT02M10.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin STEAL (2 STL),,,1,0,321
+0022300584,527,PT09M04.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin S.FOUL (P2.T2) (D.Guthrie),Foul,Shooting,1,0,369
+0022300584,544,PT08M36.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin S.FOUL (P3.T3) (B.Nansel),Foul,Shooting,1,0,379
+0022300584,549,PT08M22.00S,4,1610612766,CHA,1628998,Martin,C. Martin,183,183,26,Made,1,105,103,208,h,Martin 26' 3PT Jump Shot (5 PTS) (Ball 6 AST),Made Shot,Jump Shot,1,3,382
+0022300584,553,PT07M57.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin Bad Pass Turnover (P2.T16),Turnover,Bad Pass,1,0,385
+0022300584,577,PT06M07.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,404
+0022300584,591,PT04M09.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Ball FOR Martin,Substitution,,0,0,414
+0022300584,629,PT00M11.80S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Ball FOR Martin,Substitution,,0,0,439
+0022300593,91,PT07M01.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin BLOCK (1 BLK),,,1,2,45
+0022300593,73,PT05M38.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin STEAL (1 STL),,,1,0,59
+0022300593,89,PT04M57.00S,1,1610612766,CHA,1628998,Martin,C. Martin,20,80,8,Missed,1,,,0,h,MISS Martin 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,68
+0022300593,94,PT04M38.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin S.FOUL (P1.T3) (J.Schroeder),Foul,Shooting,1,0,70
+0022300593,97,PT04M38.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Mensah FOR Martin,Substitution,,0,0,72
+0022300593,210,PT07M11.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-118,248,27,Missed,1,,,0,h,MISS Martin 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,153
+0022300593,219,PT06M18.00S,2,1610612766,CHA,1628998,Martin,C. Martin,1,21,2,Made,1,33,38,71,h,Martin 2' Driving Reverse Layup (2 PTS) (Smith 3 AST),Made Shot,Driving Reverse Layup Shot,1,2,159
+0022300593,239,PT05M24.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin S.FOUL (P2.T4) (T.Brothers),Foul,Shooting,1,0,172
+0022300593,242,PT05M22.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,174
+0022300593,275,PT02M55.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,200
+0022300593,281,PT02M16.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,206
+0022300593,283,PT02M06.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Thor FOR Martin,Substitution,,0,0,207
+0022300593,312,PT11M37.00S,3,1610612766,CHA,1628998,Martin,C. Martin,-103,231,25,Missed,1,,,0,h,MISS Martin 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,229
+0022300593,339,PT08M22.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin BLOCK (2 BLK),,,1,3,253
+0022300593,346,PT08M08.00S,3,1610612766,CHA,1628998,Martin,C. Martin,218,-1,22,Missed,1,,,0,h,MISS Martin 22' Running Jump Shot,Missed Shot,Running Jump Shot,1,2,258
+0022300593,348,PT08M01.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin BLOCK (3 BLK),,,1,2,261
+0022300593,350,PT08M00.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,262
+0022300593,372,PT06M16.00S,3,1610612766,CHA,1628998,Martin,C. Martin,221,-11,0,Missed,1,,,0,h,MISS Martin 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,278
+0022300593,401,PT04M10.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Mensah FOR Martin,Substitution,,0,0,300
+0022300593,522,PT07M44.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,385
+0022300593,537,PT06M19.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin Step Out of Bounds Turnover (P1.T13),Turnover,Step Out of Bounds Turnover,1,0,396
+0022300593,543,PT05M16.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,401
+0022300593,557,PT04M29.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin Lost Ball Turnover (P2.T14),Turnover,Lost Ball,1,0,411
+0022300593,559,PT04M26.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin BLOCK (4 BLK),,,1,3,414
+0022300593,626,PT00M27.10S,4,1610612766,CHA,1628998,Martin,C. Martin,124,182,22,Made,1,89,95,184,h,Martin 22' Jump Shot (4 PTS) (Rozier 6 AST),Made Shot,Jump Shot,1,2,461
+0022300619,7,PT11M40.00S,1,1610612766,CHA,1628998,Martin,C. Martin,72,147,16,Missed,1,,,0,v,MISS Martin 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,3
+0022300619,67,PT06M12.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Smith FOR Martin,Substitution,,0,0,47
+0022300619,241,PT05M36.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin P.FOUL (P1.T4) (D.Collins),Foul,Personal,1,0,164
+0022300619,245,PT05M29.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin S.FOUL (P2.PN) (J.DeRosa),Foul,Shooting,1,0,166
+0022300619,262,PT03M44.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-1,58,6,Made,1,45,46,91,v,Martin 6' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,179
+0022300619,280,PT02M40.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,192
+0022300619,293,PT01M00.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-235,12,24,Missed,1,,,0,v,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,203
+0022300619,297,PT00M49.90S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Smith FOR Martin,Substitution,,0,0,207
+0022300619,328,PT10M42.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,226
+0022300619,330,PT10M42.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,56,55,111,v,Martin Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,228
+0022300619,364,PT07M45.00S,3,1610612766,CHA,1628998,Martin,C. Martin,-241,0,24,Missed,1,,,0,v,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,255
+0022300619,366,PT07M40.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin STEAL (1 STL),,,1,0,258
+0022300619,393,PT05M41.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Washington FOR Martin,Substitution,,0,0,277
+0022300619,568,PT04M48.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,396
+0022300619,584,PT03M50.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,408
+0022300619,607,PT02M34.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,100,103,203,v,Martin Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,425
+0022300619,610,PT02M34.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,100,104,204,v,Martin Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,427
+0022300619,624,PT01M12.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Washington FOR Martin,Substitution,,0,0,439
+0022300635,11,PT10M49.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-229,0,0,Missed,1,,,0,h,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,7
+0022300635,13,PT10M41.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-44,17,5,Missed,1,,,0,h,MISS Martin 5' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,2,9
+0022300635,17,PT10M07.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-4,-1,0,Made,1,7,2,9,h,Martin Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,1,2,13
+0022300635,20,PT10M07.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,MISS Martin Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,15
+0022300635,128,PT09M00.00S,1,1610612766,CHA,1628998,Martin,C. Martin,19,6,2,Missed,1,,,0,h,MISS Martin 2' Running Layup,Missed Shot,Running Layup Shot,1,2,29
+0022300635,73,PT05M55.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Washington FOR Martin,Substitution,,0,0,61
+0022300635,276,PT05M01.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,204
+0022300635,277,PT04M56.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-9,4,1,Made,1,46,45,91,h,Martin 1' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,205
+0022300635,302,PT02M57.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,HORNETS T.Foul (Def. 3 Sec Martin ) (B.Barnaky),Foul,Defense 3 Second,1,0,227
+0022300635,319,PT01M56.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-9,5,1,Missed,1,,,0,h,MISS Martin 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,240
+0022300635,335,PT00M55.20S,2,1610612766,CHA,1628998,Martin,C. Martin,28,93,10,Missed,1,,,0,h,MISS Martin 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,253
+0022300635,342,PT00M33.10S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin S.FOUL (P1.PN) (B.Barnaky),Foul,Shooting,1,0,259
+0022300635,371,PT10M34.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin S.FOUL (P2.T2) (J.Capers),Foul,Shooting,1,0,276
+0022300635,383,PT09M24.00S,3,1610612766,CHA,1628998,Martin,C. Martin,13,27,3,Made,1,62,65,127,h,Martin 3' Cutting Finger Roll Layup Shot (6 PTS) (Ball 6 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,285
+0022300635,429,PT05M52.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Ball FOR Martin,Substitution,,0,0,319
+0022300647,17,PT10M24.00S,1,1610612766,CHA,1628998,Martin,C. Martin,6,73,7,Missed,1,,,0,h,MISS Martin 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,9
+0022300647,63,PT06M06.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,1,0,47
+0022300647,67,PT05M50.00S,1,1610612766,CHA,1628998,Martin,C. Martin,142,216,26,Made,1,16,22,38,h,Martin 26' 3PT Jump Shot (3 PTS) (Bridges 1 AST),Made Shot,Jump Shot,1,3,50
+0022300647,71,PT05M36.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Washington FOR Martin,Substitution,,0,0,52
+0022300647,222,PT07M27.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-152,209,26,Missed,1,,,0,h,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,152
+0022300647,229,PT06M53.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,160
+0022300647,231,PT06M53.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,35,60,95,h,Martin Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,162
+0022300647,243,PT06M01.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,170
+0022300647,247,PT06M01.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,36,65,101,h,Martin Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,172
+0022300647,251,PT05M31.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-11,0,1,Made,1,38,65,103,h,Martin 1' Running Dunk (7 PTS) (Bridges 4 AST),Made Shot,Running Dunk Shot,1,2,177
+0022300647,286,PT03M16.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,202
+0022300647,291,PT02M46.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-5,24,2,Missed,1,,,0,h,MISS Martin 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,205
+0022300647,370,PT10M35.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,239
+0022300647,342,PT10M31.00S,3,1610612766,CHA,1628998,Martin,C. Martin,5,16,2,Missed,1,,,0,h,MISS Martin 2' Running Layup,Missed Shot,Running Layup Shot,1,2,240
+0022300647,357,PT09M12.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,251
+0022300647,372,PT08M16.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,261
+0022300647,373,PT08M07.00S,3,1610612766,CHA,1628998,Martin,C. Martin,-227,125,26,Missed,1,,,0,h,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,262
+0022300647,388,PT07M21.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,274
+0022300647,395,PT06M35.00S,3,1610612766,CHA,1628998,Martin,C. Martin,6,20,2,Made,1,60,90,150,h,Martin 2' Jump Bank Shot (9 PTS),Made Shot,Jump Bank Shot,1,2,280
+0022300647,404,PT05M57.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Washington FOR Martin,Substitution,,0,0,287
+0022300647,575,PT06M05.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,396
+0022300647,582,PT05M33.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,402
+0022300647,620,PT02M14.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin L.B.FOUL (P2.T4) (E.Scott),Foul,Loose Ball,1,0,431
+0022300647,632,PT01M00.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,440
+0022300657,20,PT09M55.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,13
+0022300657,38,PT08M06.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,29
+0022300657,48,PT06M50.00S,1,1610612766,CHA,1628998,Martin,C. Martin,223,121,25,Made,1,12,10,22,h,Martin 25' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,37
+0022300657,58,PT05M45.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Smith FOR Martin,Substitution,,0,0,45
+0022300657,200,PT08M00.00S,2,1610612766,CHA,1628998,Martin,C. Martin,6,36,4,Made,1,31,34,65,h,Martin 4' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,152
+0022300657,213,PT06M57.00S,2,1610612766,CHA,1628998,Martin,C. Martin,9,31,3,Missed,1,,,0,h,MISS Martin 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,162
+0022300657,241,PT03M58.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-85,211,23,Missed,1,,,0,h,MISS Martin 23' Jump Shot,Missed Shot,Jump Shot,1,2,183
+0022300657,279,PT00M33.90S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,211
+0022300657,293,PT11M15.00S,3,1610612766,CHA,1628998,Martin,C. Martin,228,47,0,Made,1,46,48,94,h,Martin 3PT Jump Shot (8 PTS) (Bridges 4 AST),Made Shot,Jump Shot,1,3,220
+0022300657,325,PT07M36.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin S.FOUL (P1.T2) (R.Hussey),Foul,Shooting,1,0,245
+0022300657,337,PT06M45.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,0,249
+0022300657,346,PT05M28.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin Lost Ball Turnover (P3.T10),Turnover,Lost Ball,1,0,259
+0022300657,352,PT05M26.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Ntilikina FOR Martin,Substitution,,0,0,263
+0022300657,452,PT10M28.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin Lost Ball Turnover (P4.T12),Turnover,Lost Ball,1,0,329
+0022300657,459,PT09M57.00S,4,1610612766,CHA,1628998,Martin,C. Martin,-38,257,26,Missed,1,,,0,h,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,334
+0022300657,462,PT09M37.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,337
+0022300657,466,PT09M16.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,340
+0022300657,484,PT07M48.00S,4,1610612766,CHA,1628998,Martin,C. Martin,-132,220,26,Made,1,79,99,178,h,Martin 26' 3PT Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,3,354
+0022300657,487,PT07M48.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,80,99,179,h,Martin Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,1,0,356
+0022300657,491,PT07M17.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin Out of Bounds - Bad Pass Turnover Turnover (P5.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,0,360
+0022300657,505,PT06M31.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,370
+0022300657,508,PT06M18.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin P.FOUL (P2.T1) (S.Wright),Foul,Personal,1,0,373
+0022300657,514,PT05M12.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,377
+0022300657,521,PT04M26.00S,4,1610612766,CHA,1628998,Martin,C. Martin,227,41,0,Missed,1,,,0,h,MISS Martin 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,383
+0022300657,528,PT03M19.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin STEAL (1 STL),,,1,0,389
+0022300657,530,PT03M16.00S,4,1610612766,CHA,1628998,Martin,C. Martin,-2,17,2,Made,1,91,105,196,h,Martin 2' Running Layup (14 PTS),Made Shot,Running Layup Shot,1,2,390
+0022300657,533,PT02M44.00S,4,1610612766,CHA,1628998,Martin,C. Martin,115,140,18,Missed,1,,,0,h,MISS Martin 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,393
+0022300657,539,PT02M23.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Thor FOR Martin,Substitution,,0,0,399
+0022300674,12,PT11M11.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,19,2,Missed,1,,,0,h,MISS Martin 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,6
+0022300674,30,PT09M25.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-92,172,20,Missed,1,,,0,h,MISS Martin 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,21
+0022300674,36,PT08M56.00S,1,1610612766,CHA,1628998,Martin,C. Martin,100,232,25,Missed,1,,,0,h,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,26
+0022300674,60,PT06M11.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Smith FOR Martin,Substitution,,0,0,43
+0022300674,205,PT07M02.00S,2,1610612766,CHA,1628998,Martin,C. Martin,5,9,1,Made,1,40,44,84,h,Martin 1' Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,1,2,142
+0022300674,208,PT07M02.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,MISS Martin Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,144
+0022300674,240,PT04M55.00S,2,1610612766,CHA,1628998,Martin,C. Martin,9,9,1,Made,1,50,46,96,h,Martin 1' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,163
+0022300674,247,PT04M18.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin S.FOUL (P1.T4) (K.Scott),Foul,Shooting,1,0,168
+0022300674,269,PT02M44.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,186
+0022300674,270,PT02M36.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,187
+0022300674,286,PT01M30.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin Bad Pass Turnover (P2.T2),Turnover,Bad Pass,1,0,200
+0022300674,293,PT00M46.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-121,50,13,Missed,1,,,0,h,MISS Martin 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,207
+0022300674,295,PT00M35.20S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin P.FOUL (P2.PN) (S.Mehta),Foul,Personal,1,0,209
+0022300674,298,PT00M35.20S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Smith FOR Martin,Substitution,,0,0,211
+0022300674,319,PT11M21.00S,3,1610612766,CHA,1628998,Martin,C. Martin,-195,23,20,Missed,1,,,0,h,MISS Martin 20' Jump Shot,Missed Shot,Jump Shot,1,2,224
+0022300674,323,PT10M49.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin Out of Bounds Lost Ball Turnover (P3.T3),Turnover,Out of Bounds Lost Ball Turnover,1,0,227
+0022300674,355,PT07M40.00S,3,1610612766,CHA,1628998,Martin,C. Martin,186,99,21,Missed,1,,,0,h,MISS Martin 21' Jump Shot,Missed Shot,Jump Shot,1,2,251
+0022300674,381,PT05M43.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Smith FOR Martin,Substitution,,0,0,269
+0022300674,613,PT00M45.60S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin Personal Take Foul (P3.PN) (S.Mehta),Foul,Personal Take,1,0,441
+0022300674,618,PT00M37.40S,4,1610612766,CHA,1628998,Martin,C. Martin,-48,95,11,Missed,1,,,0,h,MISS Martin 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,445
+0022300674,637,PT00M07.90S,4,1610612766,CHA,1628998,Martin,C. Martin,-151,218,27,Made,1,110,117,227,h,Martin 27' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,3,460
+0022300695,13,PT11M00.00S,1,1610612766,CHA,1628998,Martin,C. Martin,235,88,25,Missed,1,,,0,v,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,7
+0022300695,72,PT06M00.00S,1,1610612766,CHA,1628998,Martin,C. Martin,55,242,25,Made,1,17,10,27,v,Martin 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,54
+0022300695,77,PT05M39.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Smith FOR Martin,Substitution,,0,0,58
+0022300695,288,PT01M47.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,203
+0022300695,301,PT00M49.10S,2,1610612766,CHA,1628998,Martin,C. Martin,145,229,27,Missed,1,,,0,v,MISS Martin 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,212
+0022300695,329,PT11M30.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,233
+0022300695,335,PT11M25.00S,3,1610612766,CHA,1628998,Martin,C. Martin,-56,69,9,Made,1,74,47,121,v,Martin 9' Driving Floating Jump Shot (5 PTS) (Bridges 3 AST),Made Shot,Driving Floating Jump Shot,1,2,236
+0022300695,388,PT06M52.00S,3,1610612766,CHA,1628998,Martin,C. Martin,15,48,5,Made,1,87,63,150,v,Martin 5' Driving Hook Shot (7 PTS),Made Shot,Driving Hook Shot,1,2,275
+0022300695,417,PT05M22.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Smith FOR Martin,Substitution,,0,0,293
+0022300726,8,PT11M33.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-28,-1,3,Made,1,2,0,2,h,Martin 3' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,1,2,3
+0022300726,10,PT11M04.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,5
+0022300726,24,PT09M33.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-227,13,0,Made,1,12,3,15,h,Martin 3PT Jump Shot (5 PTS) (Black 1 AST),Made Shot,Jump Shot,1,3,16
+0022300726,33,PT08M52.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,24
+0022300726,38,PT08M14.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-62,88,11,Made,1,17,5,22,h,Martin 11' Turnaround Jump Shot (7 PTS) (Bridges 1 AST),Made Shot,Turnaround Jump Shot,1,2,28
+0022300726,41,PT07M36.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,30
+0022300726,45,PT07M10.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,33
+0022300726,66,PT05M55.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,MISS Martin Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,0,45
+0022300726,68,PT05M55.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,19,13,32,h,Martin Free Throw 2 of 3 (8 PTS),Free Throw,Free Throw 2 of 3,1,0,47
+0022300726,69,PT05M55.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,20,13,33,h,Martin Free Throw 3 of 3 (9 PTS),Free Throw,Free Throw 3 of 3,0,0,48
+0022300726,73,PT05M42.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Smith FOR Martin,Substitution,,0,0,51
+0022300726,241,PT04M11.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,169
+0022300726,271,PT02M03.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin S.FOUL (P1.T4) (K.Lane),Foul,Shooting,1,0,189
+0022300726,282,PT01M06.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-49,242,25,Made,1,58,54,112,h,Martin 25' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,3,198
+0022300726,284,PT00M41.10S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,200
+0022300726,292,PT00M05.40S,2,1610612766,CHA,1628998,Martin,C. Martin,-10,188,19,Missed,1,,,0,h,MISS Martin 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,206
+0022300726,319,PT10M12.00S,3,1610612766,CHA,1628998,Martin,C. Martin,-97,64,12,Made,1,64,59,123,h,Martin 12' Fadeaway Jumper (14 PTS),Made Shot,Fadeaway Jump Shot,1,2,220
+0022300726,322,PT09M53.00S,3,1610612766,CHA,1628998,Martin,C. Martin,137,231,27,Made,1,67,61,128,h,Martin 27' 3PT Pullup Jump Shot (17 PTS) (Bridges 5 AST),Made Shot,Pullup Jump shot,1,3,222
+0022300726,325,PT09M29.00S,3,1610612766,CHA,1628998,Martin,C. Martin,17,7,2,Made,1,69,61,130,h,Martin 2' Running Reverse Layup (19 PTS),Made Shot,Running Reverse Layup Shot,1,2,225
+0022300726,327,PT09M06.00S,3,1610612766,CHA,1628998,Martin,C. Martin,147,27,15,Missed,1,,,0,h,MISS Martin 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,227
+0022300726,354,PT06M24.00S,3,1610612766,CHA,1628998,Martin,C. Martin,69,46,8,Missed,1,,,0,h,MISS Martin 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,248
+0022300726,367,PT05M25.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Smith FOR Martin,Substitution,,0,0,256
+0022300726,514,PT08M09.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin S.FOUL (P2.T4) (K.Lane),Foul,Shooting,1,0,362
+0022300726,522,PT07M20.00S,4,1610612766,CHA,1628998,Martin,C. Martin,-54,260,27,Missed,1,,,0,h,MISS Martin 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,368
+0022300726,555,PT05M30.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin STEAL (1 STL),,,1,0,392
+0022300726,561,PT05M04.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin P.FOUL (P3.PN) (N.Green),Foul,Personal,1,0,395
+0022300726,580,PT03M13.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin STEAL (2 STL),,,1,0,411
+0022300726,595,PT01M42.00S,4,1610612766,CHA,1628998,Martin,C. Martin,223,41,0,Missed,1,,,0,h,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,420
+0022300726,600,PT01M12.00S,4,1610612766,CHA,1628998,Martin,C. Martin,-5,33,3,Missed,1,,,0,h,MISS Martin 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,425
+0022300745,7,PT11M43.00S,1,1610612766,CHA,1628998,Martin,C. Martin,70,155,17,Missed,1,,,0,v,MISS Martin 17' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,3
+0022300745,26,PT09M31.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,4,6,10,v,Martin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,17
+0022300745,27,PT09M31.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,MISS Martin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,18
+0022300745,38,PT08M19.00S,1,1610612766,CHA,1628998,Martin,C. Martin,96,242,26,Missed,1,,,0,v,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,28
+0022300745,50,PT06M52.00S,1,1610612766,CHA,1628998,Martin,C. Martin,56,90,11,Missed,1,,,0,v,MISS Martin 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,39
+0022300745,69,PT05M59.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: McGowens FOR Martin,Substitution,,0,0,52
+0022300745,233,PT06M04.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-5,17,2,Missed,1,,,0,v,MISS Martin 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,177
+0022300745,277,PT03M24.00S,2,1610612766,CHA,1628998,Martin,C. Martin,100,156,19,Missed,1,,,0,v,MISS Martin 19' Hook Shot,Missed Shot,Hook Shot,0,2,208
+0022300745,312,PT01M10.00S,2,1610612766,CHA,1628998,Martin,C. Martin,131,240,27,Missed,1,,,0,v,MISS Martin 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,233
+0022300745,319,PT00M39.50S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,239
+0022300745,320,PT00M37.90S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,240
+0022300745,321,PT00M35.60S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin P.FOUL (P1.PN) (N.Buchert),Foul,Personal,1,0,241
+0022300745,371,PT08M16.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin S.FOUL (P2.T3) (N.Buchert),Foul,Shooting,1,0,277
+0022300745,375,PT08M14.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,280
+0022300745,376,PT08M13.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,281
+0022300745,389,PT07M22.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,294
+0022300745,391,PT07M09.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,296
+0022300745,392,PT07M09.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,Made,1,82,46,128,v,Martin Tip Layup Shot (3 PTS),Made Shot,Tip Layup Shot,1,2,297
+0022300745,419,PT05M16.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,4,0,Made,1,86,52,138,v,Martin Cutting Layup Shot (5 PTS) (Bridges 2 AST),Made Shot,Cutting Layup Shot,1,2,317
+0022300745,427,PT04M26.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,323
+0022300745,428,PT04M24.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0,324
+0022300745,432,PT04M09.00S,3,1610612766,CHA,1628998,Martin,C. Martin,233,-16,0,Missed,1,,,0,v,MISS Martin 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,328
+0022300745,472,PT01M12.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Martin,Substitution,,0,0,359
+0022300751,9,PT11M26.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-134,218,26,Missed,1,,,0,h,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,4
+0022300751,27,PT09M41.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,19
+0022300751,30,PT09M12.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,22
+0022300751,33,PT09M03.00S,1,1610612766,CHA,1628998,Martin,C. Martin,1,53,5,Made,1,7,8,15,h,Martin 5' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,24
+0022300751,37,PT08M30.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,26
+0022300751,51,PT07M22.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,36
+0022300751,55,PT06M43.00S,1,1610612766,CHA,1628998,Martin,C. Martin,5,10,1,Missed,1,,,0,h,MISS Martin 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,40
+0022300751,77,PT04M34.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Micic FOR Martin,Substitution,,0,0,57
+0022300751,221,PT06M05.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-235,37,24,Made,1,38,39,77,h,Martin 24' 3PT Jump Shot (5 PTS) (Micic 2 AST),Made Shot,Jump Shot,1,3,153
+0022300751,244,PT04M55.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin Lost Ball Turnover (P2.T11),Turnover,Lost Ball,1,0,169
+0022300751,249,PT04M32.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,174
+0022300751,316,PT11M41.00S,3,1610612766,CHA,1628998,Martin,C. Martin,-114,32,12,Missed,1,,,0,h,MISS Martin 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,208
+0022300751,333,PT10M07.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,223
+0022300751,351,PT08M05.00S,3,1610612766,CHA,1628998,Martin,C. Martin,-131,230,26,Missed,1,,,0,h,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,236
+0022300751,363,PT06M43.00S,3,1610612766,CHA,1628998,Martin,C. Martin,16,27,3,Missed,1,,,0,h,MISS Martin 3' Layup,Missed Shot,Layup Shot,1,2,246
+0022300751,371,PT06M06.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Curry FOR Martin,Substitution,,0,0,253
+0022300751,527,PT06M07.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin Out of Bounds - Bad Pass Turnover Turnover (P3.T17),Turnover,Out of Bounds - Bad Pass Turnover,1,0,362
+0022300751,538,PT05M15.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,369
+0022300751,576,PT02M37.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,399
+0022300751,596,PT00M21.70S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin Bad Pass Turnover (P4.T19),Turnover,Bad Pass,0,0,416
+0022300761,13,PT10M58.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,7
+0022300761,28,PT09M21.00S,1,1610612766,CHA,1628998,Martin,C. Martin,195,172,26,Made,1,10,5,15,h,Martin 26' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,19
+0022300761,33,PT08M49.00S,1,1610612766,CHA,1628998,Martin,C. Martin,230,100,25,Missed,1,,,0,h,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,23
+0022300761,44,PT08M13.00S,1,1610612766,CHA,1628998,Martin,C. Martin,12,16,2,Made,1,12,9,21,h,Martin 2' Hook Shot (5 PTS) (Mann 2 AST),Made Shot,Hook Shot,1,2,33
+0022300761,67,PT06M05.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-129,168,21,Missed,1,,,0,h,MISS Martin 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,50
+0022300761,71,PT05M57.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Curry FOR Martin,Substitution,,0,0,53
+0022300761,186,PT09M20.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,1,0,135
+0022300761,195,PT08M43.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,143
+0022300761,196,PT08M43.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,144
+0022300761,253,PT04M46.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,184
+0022300761,267,PT03M38.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-2,11,1,Made,1,40,40,80,h,Martin 1' Cutting Dunk Shot (7 PTS) (Bridges 3 AST),Made Shot,Cutting Dunk Shot,1,2,195
+0022300761,275,PT03M15.00S,2,1610612766,CHA,1628998,Martin,C. Martin,143,52,15,Made,1,42,41,83,h,Martin 15' Pullup Jump Shot (9 PTS) (Williams 3 AST),Made Shot,Pullup Jump shot,1,2,200
+0022300761,291,PT01M17.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin STEAL (1 STL),,,1,0,213
+0022300761,304,PT00M25.10S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,221
+0022300761,321,PT11M23.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,233
+0022300761,322,PT11M06.00S,3,1610612766,CHA,1628998,Martin,C. Martin,1,75,8,Missed,1,,,0,h,MISS Martin 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,234
+0022300761,368,PT06M05.00S,3,1610612766,CHA,1628998,Martin,C. Martin,-127,58,14,Made,1,63,66,129,h,Martin 14' Fadeaway Jumper (11 PTS),Made Shot,Fadeaway Jump Shot,1,2,268
+0022300761,369,PT05M56.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin BLOCK (1 BLK),,,1,2,270
+0022300761,380,PT05M19.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin S.FOUL (P2.T2) (J.Tiven),Foul,Shooting,1,0,278
+0022300761,406,PT04M38.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Mann FOR Martin,Substitution,,0,0,286
+0022300761,532,PT04M26.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin Lost Ball Turnover (P3.T17),Turnover,Lost Ball,1,0,383
+0022300761,567,PT00M54.70S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,411
+0022300777,8,PT11M33.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,4
+0022300777,26,PT09M57.00S,1,1610612766,CHA,1628998,Martin,C. Martin,11,41,4,Missed,1,,,0,h,MISS Martin 4' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,18
+0022300777,56,PT07M50.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-102,158,19,Missed,1,,,0,h,MISS Martin 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,41
+0022300777,87,PT05M12.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-150,217,26,Missed,1,,,0,h,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,63
+0022300777,93,PT04M19.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,69
+0022300777,109,PT03M30.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Micic FOR Martin,Substitution,,0,0,84
+0022300777,211,PT07M47.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,154
+0022300777,238,PT05M45.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,177
+0022300777,239,PT05M25.00S,2,1610612766,CHA,1628998,Martin,C. Martin,43,75,9,Made,1,46,39,85,h,Martin 9' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,2,178
+0022300777,259,PT03M51.00S,2,1610612766,CHA,1628998,Martin,C. Martin,10,38,4,Made,1,48,46,94,h,Martin 4' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,191
+0022300777,261,PT03M38.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,193
+0022300777,266,PT03M17.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,197
+0022300777,290,PT01M45.00S,2,1610612766,CHA,1628998,Martin,C. Martin,15,7,2,Made,1,58,53,111,h,Martin 2' Cutting Layup Shot (6 PTS) (Williams 2 AST),Made Shot,Cutting Layup Shot,1,2,213
+0022300777,387,PT06M09.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Curry FOR Martin,Substitution,,0,0,287
+0022300777,543,PT07M53.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,398
+0022300777,572,PT05M39.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin STEAL (1 STL),,,1,0,421
+0022300777,590,PT04M37.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,434
+0022300777,644,PT01M11.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Martin,Substitution,,0,0,474
+0022300801,15,PT10M45.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin BLOCK (1 BLK),,,1,2,10
+0022300801,20,PT10M33.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,13
+0022300801,21,PT10M30.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,14
+0022300801,25,PT10M07.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,18
+0022300801,26,PT09M59.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin Out of Bounds - Bad Pass Turnover Turnover (P2.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,19
+0022300801,46,PT08M17.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-17,10,2,Made,1,9,5,14,v,Martin 2' Reverse Layup (2 PTS),Made Shot,Reverse Layup Shot,1,2,34
+0022300801,67,PT06M56.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin P.FOUL (P1.T4) (M.Lindsay),Foul,Personal,1,0,49
+0022300801,70,PT06M47.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,51
+0022300801,74,PT06M09.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-153,205,26,Missed,1,,,0,v,MISS Martin 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,54
+0022300801,83,PT05M54.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Micic FOR Martin,Substitution,,0,0,62
+0022300801,217,PT08M19.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin Bad Pass Turnover (P3.T6),Turnover,Bad Pass,1,0,158
+0022300801,255,PT06M01.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-218,52,22,Missed,1,,,0,v,MISS Martin 22' Jump Shot,Missed Shot,Jump Shot,1,2,186
+0022300801,291,PT03M10.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,213
+0022300801,309,PT02M22.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin STEAL (1 STL),,,1,0,222
+0022300801,367,PT09M17.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin STEAL (2 STL),,,1,0,264
+0022300801,390,PT07M52.00S,3,1610612766,CHA,1628998,Martin,C. Martin,-227,4,0,Made,1,64,68,132,v,Martin 3PT Jump Shot (5 PTS) (Miller 2 AST),Made Shot,Jump Shot,1,3,284
+0022300801,416,PT06M04.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin P.FOUL (P2.T4) (R.Hussey),Foul,Personal,1,0,300
+0022300801,424,PT05M45.00S,3,1610612766,CHA,1628998,Martin,C. Martin,98,137,17,Missed,1,,,0,v,MISS Martin 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,306
+0022300801,443,PT04M26.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Micic FOR Martin,Substitution,,0,0,323
+0022300801,586,PT06M45.00S,4,1610612766,CHA,1628998,Martin,C. Martin,17,71,7,Missed,1,,,0,v,MISS Martin 7' Hook Shot,Missed Shot,Hook Shot,1,2,426
+0022300801,632,PT04M00.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin STEAL (3 STL),,,1,0,461
+0022300801,639,PT03M10.00S,4,1610612766,CHA,1628998,Martin,C. Martin,39,243,25,Missed,1,,,0,v,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,465
+0022300801,658,PT01M27.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin S.FOUL (P3.PN) (M.Lindsay),Foul,Shooting,1,0,480
+0022300801,673,PT00M28.40S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,492
+0022300811,11,PT10M55.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-86,184,20,Missed,1,,,0,v,MISS Martin 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,6
+0022300811,13,PT10M45.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin STEAL (1 STL),,,1,0,9
+0022300811,45,PT08M03.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin STEAL (2 STL),,,1,0,36
+0022300811,47,PT08M00.00S,1,1610612766,CHA,1628998,Martin,C. Martin,36,16,4,Made,1,6,5,11,v,Martin 4' Running Layup (2 PTS) (Richards 1 AST),Made Shot,Running Layup Shot,1,2,37
+0022300811,72,PT06M00.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-202,149,25,Missed,1,,,0,v,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,57
+0022300811,78,PT05M33.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-235,27,24,Missed,1,,,0,v,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,62
+0022300811,80,PT05M22.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-113,49,12,Missed,1,,,0,v,MISS Martin 12' Driving Layup,Missed Shot,Driving Layup Shot,1,2,64
+0022300811,91,PT04M59.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Williams FOR Martin,Substitution,,0,0,74
+0022300811,260,PT05M46.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,1,0,191
+0022300811,307,PT01M59.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,228
+0022300811,316,PT01M05.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin STEAL (3 STL),,,1,0,237
+0022300811,351,PT10M58.00S,3,1610612766,CHA,1628998,Martin,C. Martin,234,32,24,Missed,1,,,0,v,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,256
+0022300811,359,PT09M45.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin Traveling Turnover (P1.T13),Turnover,Traveling,1,0,262
+0022300811,366,PT08M48.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,268
+0022300811,373,PT08M07.00S,3,1610612766,CHA,1628998,Martin,C. Martin,161,213,27,Made,1,52,36,88,v,Martin 27' 3PT Jump Shot (5 PTS) (Mann 1 AST),Made Shot,Jump Shot,1,3,274
+0022300811,404,PT05M57.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Curry FOR Martin,Substitution,,0,0,298
+0022300811,577,PT05M31.00S,4,1610612766,CHA,1628998,Martin,C. Martin,-178,172,25,Missed,1,,,0,v,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,418
+0022300811,579,PT05M25.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin STEAL (4 STL),,,1,0,421
+0022300811,581,PT05M21.00S,4,1610612766,CHA,1628998,Martin,C. Martin,31,22,4,Made,1,84,69,153,v,Martin 4' Running Layup (7 PTS) (Micic 3 AST),Made Shot,Running Layup Shot,1,2,422
+0022300811,647,PT00M48.40S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,472
+0022300826,15,PT11M05.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+0022300826,20,PT10M43.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin BLOCK (1 BLK),,,1,3,15
+0022300826,23,PT10M37.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-11,11,2,Made,1,0,7,7,v,Martin 2' Running Reverse Layup (2 PTS) (Bridges 1 AST),Made Shot,Running Reverse Layup Shot,1,2,17
+0022300826,27,PT10M10.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-237,41,24,Missed,1,,,0,v,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,20
+0022300826,36,PT08M50.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,1,0,27
+0022300826,69,PT06M00.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Micic FOR Martin,Substitution,,0,0,53
+0022300826,211,PT07M19.00S,2,1610612766,CHA,1628998,Martin,C. Martin,97,26,10,Missed,1,,,0,v,MISS Martin 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,159
+0022300826,256,PT04M02.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin STEAL (1 STL),,,1,0,196
+0022300826,258,PT03M58.00S,2,1610612766,CHA,1628998,Martin,C. Martin,6,7,1,Made,1,24,40,64,v,Martin 1' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,197
+0022300826,277,PT02M39.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin STEAL (2 STL),,,1,0,213
+0022300826,296,PT00M28.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,229
+0022300826,297,PT00M08.20S,2,1610612766,CHA,1628998,Martin,C. Martin,184,174,25,Made,1,32,47,79,v,Martin 25' 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,1,3,230
+0022300826,317,PT10M50.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,242
+0022300826,318,PT10M42.00S,3,1610612766,CHA,1628998,Martin,C. Martin,12,15,2,Made,1,38,51,89,v,Martin 2' Layup (9 PTS) (Miller 1 AST),Made Shot,Layup Shot,1,2,243
+0022300826,321,PT10M05.00S,3,1610612766,CHA,1628998,Martin,C. Martin,1,263,26,Missed,1,,,0,v,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,245
+0022300826,392,PT04M34.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Micic FOR Martin,Substitution,,0,0,299
+0022300826,517,PT08M00.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,385
+0022300826,523,PT07M22.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,391
+0022300826,552,PT05M11.00S,4,1610612766,CHA,1628998,Martin,C. Martin,25,36,4,Missed,1,,,0,v,MISS Martin 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,411
+0022300826,553,PT05M11.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,412
+0022300826,556,PT05M11.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,68,84,152,v,Martin Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,414
+0022300826,559,PT05M11.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,68,85,153,v,Martin Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,416
+0022300826,609,PT01M26.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin Bad Pass Turnover (P2.T18),Turnover,Bad Pass,1,0,451
+0022300840,35,PT08M40.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-233,51,24,Missed,1,,,0,v,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,28
+0022300840,64,PT05M53.00S,1,1610612766,CHA,1628998,Martin,C. Martin,43,205,21,Missed,1,,,0,v,MISS Martin 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,51
+0022300840,69,PT05M27.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Curry FOR Martin,Substitution,,0,0,55
+0022300840,200,PT06M59.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,152
+0022300840,228,PT04M41.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,174
+0022300840,235,PT03M57.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,180
+0022300840,244,PT03M24.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-6,19,2,Missed,1,,,0,v,MISS Martin 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,187
+0022300840,260,PT02M33.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,201
+0022300840,261,PT02M30.00S,2,1610612766,CHA,1628998,Martin,C. Martin,4,35,4,Missed,1,,,0,v,MISS Martin 4' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,202
+0022300840,265,PT02M00.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,19,2,Made,1,56,26,82,v,Martin 2' Cutting Finger Roll Layup Shot (2 PTS) (Micic 2 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,205
+0022300840,268,PT01M25.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-136,229,27,Missed,1,,,0,v,MISS Martin 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,207
+0022300840,271,PT01M06.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,210
+0022300840,326,PT07M56.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,249
+0022300840,339,PT07M29.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,259
+0022300840,357,PT05M44.00S,3,1610612766,CHA,1628998,Martin,C. Martin,-26,263,26,Missed,1,,,0,v,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,272
+0022300840,362,PT05M34.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Micic FOR Martin,Substitution,,0,0,276
+0022300840,469,PT09M20.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin P.FOUL (P1.T1) (N.Green),Foul,Personal,1,0,348
+0022300840,486,PT07M53.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin S.FOUL (P2.T2) (B.Forte),Foul,Shooting,1,0,361
+0022300840,489,PT07M53.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Bertans FOR Martin,Substitution,,0,0,363
+0022300849,17,PT10M34.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-29,265,27,Missed,1,,,0,h,MISS Martin 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,12
+0022300849,19,PT10M25.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin P.FOUL (P1.T1) (E.Malloy),Foul,Personal,1,0,14
+0022300849,64,PT06M41.00S,1,1610612766,CHA,1628998,Martin,C. Martin,18,7,2,Made,1,8,13,21,h,Martin 2' Running Layup (2 PTS) (Mann 1 AST),Made Shot,Running Layup Shot,1,2,51
+0022300849,77,PT05M41.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Micic FOR Martin,Substitution,,0,0,60
+0022300849,212,PT08M28.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin S.FOUL (P2.T3) (E.Malloy),Foul,Shooting,1,0,154
+0022300849,221,PT07M53.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,160
+0022300849,255,PT05M20.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,181
+0022300849,284,PT03M00.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin P.FOUL (P3.PN) (M.Smith),Foul,Personal,1,0,199
+0022300849,287,PT03M00.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Miller FOR Martin,Substitution,,0,0,201
+0022300849,361,PT09M00.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin BLOCK (1 BLK),,,1,3,252
+0022300849,399,PT05M41.00S,3,1610612766,CHA,1628998,Martin,C. Martin,-126,227,26,Missed,1,,,0,h,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,282
+0022300849,417,PT04M10.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,SUB: Curry FOR Martin,Substitution,,0,0,293
+0022300849,519,PT08M25.00S,4,1610612766,CHA,1628998,Martin,C. Martin,4,48,5,Missed,1,,,0,h,MISS Martin 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,369
+0022300849,535,PT07M37.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,0,381
+0022300849,549,PT06M12.00S,4,1610612766,CHA,1628998,Martin,C. Martin,-132,16,13,Missed,1,,,0,h,MISS Martin 13' Jump Shot,Missed Shot,Jump Shot,1,2,392
+0022300849,586,PT03M41.00S,4,1610612766,CHA,1628998,Martin,C. Martin,-230,3,0,Made,1,91,107,198,h,Martin 3PT Running Jump Shot (5 PTS) (Bridges 3 AST),Made Shot,Running Jump Shot,1,3,421
+0022300849,597,PT02M46.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,h,Martin BLOCK (2 BLK),,,1,2,429
+0022300858,15,PT10M42.00S,1,1610612766,CHA,1628998,Martin,C. Martin,108,177,21,Missed,1,,,0,v,MISS Martin 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,8
+0022300858,52,PT07M17.00S,1,1610612766,CHA,1628998,Martin,C. Martin,-190,194,27,Missed,1,,,0,v,MISS Martin 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,40
+0022300858,66,PT05M43.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,51
+0022300858,84,PT04M18.00S,1,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Micic FOR Martin,Substitution,,0,0,64
+0022300858,208,PT07M14.00S,2,1610612766,CHA,1628998,Martin,C. Martin,-134,229,27,Made,1,38,48,86,v,Martin 27' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,144
+0022300858,225,PT06M44.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,38,49,87,v,Martin Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,155
+0022300858,226,PT06M44.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,38,50,88,v,Martin Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,156
+0022300858,248,PT04M47.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin S.FOUL (P1.T3) (Z.Zarba),Foul,Shooting,1,0,172
+0022300858,270,PT03M06.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin BLOCK (1 BLK),,,1,2,187
+0022300858,277,PT02M14.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,193
+0022300858,292,PT00M58.00S,2,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,206
+0022300858,340,PT09M11.00S,3,1610612766,CHA,1628998,Martin,C. Martin,4,10,1,Made,1,67,71,138,v,Martin 1' Driving Layup (7 PTS) (Mann 5 AST),Made Shot,Driving Layup Shot,1,2,239
+0022300858,344,PT09M11.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,67,72,139,v,Martin Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1,0,241
+0022300858,353,PT07M46.00S,3,1610612766,CHA,1628998,Martin,C. Martin,-232,105,25,Missed,1,,,0,v,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,248
+0022300858,357,PT07M07.00S,3,1610612766,CHA,1628998,Martin,C. Martin,-25,157,16,Made,1,71,76,147,v,Martin 16' Turnaround Fadeaway (10 PTS) (Curry 2 AST),Made Shot,Turnaround Fadeaway shot,1,2,251
+0022300858,367,PT05M56.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,259
+0022300858,371,PT05M47.00S,3,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Micic FOR Martin,Substitution,,0,0,262
+0022300858,484,PT09M22.00S,4,1610612766,CHA,1628998,Martin,C. Martin,4,34,3,Missed,1,,,0,v,MISS Martin 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,338
+0022300858,494,PT08M47.00S,4,1610612766,CHA,1628998,Martin,C. Martin,22,25,3,Made,1,97,91,188,v,Martin 3' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,347
+0022300858,514,PT07M17.00S,4,1610612766,CHA,1628998,Martin,C. Martin,58,273,28,Missed,1,,,0,v,MISS Martin 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,362
+0022300858,527,PT05M47.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,371
+0022300858,546,PT04M57.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin P.FOUL (P2.T2) (E.Scott),Foul,Personal,1,0,384
+0022300858,558,PT04M25.00S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,Martin BLOCK (2 BLK),,,1,2,393
+0022300858,607,PT00M30.80S,4,1610612766,CHA,1628998,Martin,C. Martin,0,0,0,,0,,,0,v,SUB: Bertans FOR Martin,Substitution,,0,0,424

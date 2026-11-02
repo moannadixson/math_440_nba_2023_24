@@ -1,0 +1,678 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300012,44,PT07M31.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,34
+0022300012,54,PT07M19.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Lane,Violation,Lane,0,0,41
+0022300012,59,PT06M50.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,46
+0022300012,60,PT06M44.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,-1,15,2,Made,1,15,9,24,h,Biyombo 2' Cutting Dunk Shot (2 PTS) (Bane 2 AST),Made Shot,Cutting Dunk Shot,1,2,47
+0022300012,68,PT05M49.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,-2,16,2,Made,1,19,11,30,h,Biyombo 2' Alley Oop Layup (4 PTS) (Bane 4 AST),Made Shot,Alley Oop Layup shot,1,2,52
+0022300012,90,PT04M37.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,68
+0022300012,95,PT04M25.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Gilyard FOR Biyombo,Substitution,,0,0,73
+0022300012,192,PT08M36.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,-62,21,7,Made,1,41,50,91,h,Biyombo 7' Turnaround Bank Shot (6 PTS),Made Shot,Turnaround Bank shot,1,2,139
+0022300012,238,PT05M16.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,170
+0022300012,241,PT05M16.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,MISS Biyombo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,172
+0022300012,245,PT05M16.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,50,59,109,h,Biyombo Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,175
+0022300012,249,PT04M44.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo P.FOUL (P1.T3) (D.Collins),Foul,Personal,1,0,179
+0022300012,262,PT03M32.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,190
+0022300012,273,PT03M08.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Jump Ball (CC) Biyombo vs. Collins: Tip to Smart,Jump Ball,Coach Challenge,0,0,200
+0022300012,301,PT00M28.20S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:5 Def:2),Rebound,Unknown,1,0,218
+0022300012,302,PT00M28.20S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,Missed,1,,,0,h,MISS Biyombo Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,219
+0022300012,303,PT00M28.20S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:5 Def:2),Rebound,Unknown,1,0,221
+0022300012,304,PT00M28.20S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,Missed,1,,,0,h,MISS Biyombo Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,222
+0022300012,312,PT00M01.70S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:6 Def:2),Rebound,Unknown,1,0,228
+0022300012,329,PT11M48.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo STEAL (1 STL),,,1,0,237
+0022300012,333,PT11M07.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo S.FOUL (P2.T1) (D.Collins),Foul,Shooting,1,0,240
+0022300012,344,PT09M33.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:6 Def:3),Rebound,Unknown,1,0,247
+0022300012,345,PT09M25.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,1,8,1,Made,1,71,80,151,h,Biyombo 1' Dunk (9 PTS),Made Shot,Dunk Shot,1,2,248
+0022300012,351,PT08M39.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo S.FOUL (P3.T2) (K.Lane),Foul,Shooting,1,0,253
+0022300012,358,PT08M21.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,23,21,3,Missed,1,,,0,h,MISS Biyombo 3' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,259
+0022300012,363,PT07M59.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,26,30,4,Made,1,74,83,157,h,Biyombo 4' Turnaround Hook Shot (11 PTS) (Smart 2 AST),Made Shot,Turnaround Hook Shot,1,2,263
+0022300012,370,PT07M18.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo P.FOUL (P4.T3) (J.Butler),Foul,Personal,1,0,268
+0022300012,377,PT06M11.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,9,15,2,Missed,1,,,0,h,MISS Biyombo 2' Layup,Missed Shot,Layup Shot,1,2,273
+0022300012,385,PT05M43.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,77,91,168,h,Biyombo Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,281
+0022300012,392,PT05M43.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,78,91,169,h,Biyombo Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,285
+0022300012,394,PT05M22.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:6 Def:4),Rebound,Unknown,1,0,287
+0022300012,400,PT04M55.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Aldama FOR Biyombo,Substitution,,0,0,292
+0022300012,560,PT07M53.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:6 Def:5),Rebound,Unknown,1,0,410
+0022300012,601,PT04M07.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:8 Def:5),Rebound,Unknown,1,0,443
+0022300012,602,PT04M06.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,-6,26,3,Missed,1,,,0,h,MISS Biyombo 3' Hook Bank Shot,Missed Shot,Hook Bank Shot,1,2,444
+0022300012,603,PT04M06.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:8 Def:5),Rebound,Unknown,0,0,445
+0022300012,629,PT02M23.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:8 Def:6),Rebound,Unknown,1,0,465
+0022300012,655,PT00M19.70S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:9 Def:6),Rebound,Unknown,1,0,487
+0022300012,658,PT00M18.60S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,120,125,245,h,Biyombo Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,489
+0022300012,659,PT00M18.60S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,121,125,246,h,Biyombo Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,490
+0022300026,10,PT11M15.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo BLOCK (1 BLK),,,1,2,5
+0022300026,23,PT09M44.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,16
+0022300026,26,PT09M26.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo BLOCK (2 BLK),,,1,2,19
+0022300026,31,PT09M19.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,22
+0022300026,47,PT08M11.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Violation:Kicked Ball (R.Acosta),Violation,Kicked Ball,0,0,36
+0022300026,73,PT06M02.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,54
+0022300026,74,PT05M49.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,-4,75,8,Missed,1,,,0,v,MISS Biyombo 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,55
+0022300026,138,PT02M49.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Jackson Jr. FOR Biyombo,Substitution,,0,0,103
+0022300026,293,PT04M44.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo P.FOUL (P1.PN) (R.Acosta),Foul,Personal,1,0,207
+0022300026,308,PT03M31.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,219
+0022300026,309,PT03M30.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,-38,35,5,Missed,1,,,0,v,MISS Biyombo 5' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,220
+0022300026,317,PT02M28.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,229
+0022300026,339,PT00M44.20S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo S.FOUL (P2.PN) (B.Taylor),Foul,Shooting,1,0,244
+0022300026,364,PT11M25.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,257
+0022300026,372,PT10M18.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:5 Def:2),Rebound,Unknown,1,0,263
+0022300026,373,PT10M05.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,-93,84,13,Missed,1,,,0,v,MISS Biyombo 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,264
+0022300026,395,PT08M16.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:6 Def:2),Rebound,Unknown,1,0,284
+0022300026,396,PT08M15.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,1,46,5,Missed,1,,,0,v,MISS Biyombo 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,285
+0022300026,457,PT04M46.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,2,73,7,Missed,1,,,0,v,MISS Biyombo 7' Hook Shot,Missed Shot,Hook Shot,1,2,330
+0022300026,469,PT04M29.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo S.FOUL (P3.T4) (R.Acosta),Foul,Shooting,1,0,338
+0022300026,472,PT04M29.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Tillman FOR Biyombo,Substitution,,0,0,340
+0022300044,34,PT08M55.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo S.FOUL (P1.T1) (M.Smith),Foul,Shooting,1,0,26
+0022300044,62,PT06M31.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,7,67,7,Made,1,15,11,26,h,Biyombo 7' Hook Shot (2 PTS),Made Shot,Hook Shot,1,2,47
+0022300044,82,PT05M18.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,63
+0022300044,86,PT04M36.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,-5,48,5,Missed,1,,,0,h,MISS Biyombo 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,66
+0022300044,101,PT03M27.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,76
+0022300044,105,PT03M05.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,-1,6,1,Made,1,22,19,41,h,Biyombo 1' Cutting Dunk Shot (4 PTS) (Bane 4 AST),Made Shot,Cutting Dunk Shot,1,2,79
+0022300044,119,PT02M32.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Williams Jr. FOR Biyombo,Substitution,,0,0,87
+0022300044,287,PT03M01.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo BLOCK (1 BLK),,,1,2,211
+0022300044,298,PT01M26.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,221
+0022300044,335,PT10M00.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,247
+0022300044,362,PT06M37.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo S.FOUL (P2.T2) (B.Taylor),Foul,Shooting,1,0,273
+0022300044,401,PT03M14.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,10,13,2,Made,1,69,77,146,h,Biyombo 2' Cutting Dunk Shot (6 PTS) (Bane 9 AST),Made Shot,Cutting Dunk Shot,1,2,300
+0022300044,405,PT02M43.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,-21,65,7,Missed,1,,,0,h,MISS Biyombo 7' Hook Shot,Missed Shot,Hook Shot,1,2,305
+0022300044,408,PT02M42.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Williams Jr. FOR Biyombo,Substitution,,0,0,307
+0022300044,525,PT05M06.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo S.FOUL (P3.T2) (I.Hwang),Foul,Shooting,1,0,392
+0022300044,531,PT05M04.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,396
+0022300044,538,PT04M24.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR Biyombo,Substitution,,0,0,402
+0022300144,38,PT09M20.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,27
+0022300144,41,PT09M20.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,10,3,13,v,Biyombo Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,29
+0022300144,42,PT09M20.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,10,4,14,v,Biyombo Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,30
+0022300144,43,PT09M11.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo P.FOUL (P1.T2) (L.Wood),Foul,Personal,1,0,31
+0022300144,46,PT09M01.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,33
+0022300144,49,PT08M48.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo BLOCK (1 BLK),,,1,2,37
+0022300144,56,PT08M24.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,43
+0022300144,57,PT08M20.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo OFF.Foul (P2) (G.Petraitis),Foul,Offensive,1,0,44
+0022300144,59,PT08M20.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1,0,45
+0022300144,60,PT08M20.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Aldama FOR Biyombo,Substitution,,0,0,46
+0022300144,287,PT03M56.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,211
+0022300144,288,PT03M55.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,-23,6,2,Made,1,48,47,95,v,Biyombo 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,212
+0022300144,299,PT03M00.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Jackson Jr. FOR Biyombo,Substitution,,0,0,221
+0022300144,354,PT11M15.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,-12,4,1,Missed,1,,,0,v,MISS Biyombo 1' Layup,Missed Shot,Layup Shot,1,2,254
+0022300144,356,PT11M11.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,256
+0022300144,357,PT11M10.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,-17,13,2,Missed,1,,,0,v,MISS Biyombo 2' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,257
+0022300144,381,PT09M00.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo BLOCK (2 BLK),,,1,2,277
+0022300144,391,PT08M04.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,285
+0022300144,407,PT06M57.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo L.B.FOUL (P3.T1) (L.Wood),Foul,Loose Ball,1,0,296
+0022300144,423,PT06M05.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,26,3,3,Made,1,68,77,145,v,Biyombo 3' Cutting Layup Shot (6 PTS) (Smart 3 AST),Made Shot,Cutting Layup Shot,1,2,308
+0022300144,426,PT05M48.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,310
+0022300144,428,PT05M37.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,312
+0022300144,429,PT05M37.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,Missed,1,,,0,v,MISS Biyombo Putback Layup,Missed Shot,Putback Layup Shot,1,2,313
+0022300144,431,PT05M34.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo S.FOUL (P4.T2) (G.Petraitis),Foul,Shooting,1,0,315
+0022300144,448,PT04M56.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,328
+0022300144,450,PT04M51.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo S.FOUL (P5.T3) (E.Malloy),Foul,Shooting,1,0,330
+0022300144,453,PT04M51.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Lofton Jr. FOR Biyombo,Substitution,,0,0,332
+0022300144,624,PT02M47.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,463
+0022300144,626,PT02M33.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:5 Def:5),Rebound,Unknown,1,0,465
+0022300144,627,PT02M27.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,5,3,1,Made,1,100,104,204,v,Biyombo 1' Dunk (8 PTS) (Bane 5 AST),Made Shot,Dunk Shot,1,2,466
+0022300144,634,PT01M48.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:5 Def:6),Rebound,Unknown,1,0,471
+0022300144,656,PT00M27.10S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo BLOCK (3 BLK),,,1,2,489
+0022300164,11,PT11M11.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,16,2,Made,1,2,0,2,h,Biyombo 2' Cutting Dunk Shot (2 PTS) (Smart 1 AST),Made Shot,Cutting Dunk Shot,1,2,6
+0022300164,14,PT10M45.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+0022300164,16,PT10M31.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,10
+0022300164,25,PT09M55.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo S.FOUL (P1.T2) (J.Van Duyne),Foul,Shooting,1,0,18
+0022300164,39,PT08M57.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,28
+0022300164,56,PT07M23.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,42
+0022300164,57,PT07M19.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,-1,10,1,Made,1,10,15,25,h,Biyombo 1' Dunk (4 PTS) (Bane 1 AST),Made Shot,Dunk Shot,1,2,43
+0022300164,100,PT04M13.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Lofton Jr. FOR Biyombo,Substitution,,0,0,75
+0022300164,285,PT04M02.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo P.FOUL (P2.T3) (J.Van Duyne),Foul,Personal,1,0,209
+0022300164,306,PT02M26.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,225
+0022300164,387,PT09M27.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,284
+0022300164,466,PT04M24.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,MISS Biyombo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,341
+0022300164,468,PT04M24.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,65,73,138,h,Biyombo Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,343
+0022300164,471,PT04M05.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo STEAL (1 STL),,,1,0,347
+0022300164,473,PT03M45.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,26,55,6,Made,1,67,73,140,h,Biyombo 6' Hook Shot (7 PTS) (Kennard 2 AST),Made Shot,Hook Shot,1,2,348
+0022300164,492,PT01M30.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,362
+0022300164,493,PT01M29.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,Made,1,73,77,150,h,Biyombo Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,1,2,363
+0022300164,496,PT00M52.90S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo OFF.Foul (P3) (J.Van Duyne),Foul,Offensive,1,0,366
+0022300164,498,PT00M52.90S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo Offensive Foul Turnover (P1.T12),Turnover,Offensive Foul Turnover,1,0,367
+0022300164,499,PT00M52.90S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR Biyombo,Substitution,,0,0,368
+0022300164,620,PT06M32.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:5 Def:3),Rebound,Unknown,1,0,451
+0022300164,645,PT04M40.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:6 Def:3),Rebound,Unknown,1,0,472
+0022300164,648,PT04M13.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo S.FOUL (P4.PN) (T.Mirkovich),Foul,Shooting,1,0,474
+0022300164,652,PT04M10.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:6 Def:4),Rebound,Unknown,1,0,477
+0022300164,658,PT03M54.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Aldama FOR Biyombo,Substitution,,0,0,482
+0022300179,62,PT07M09.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,43
+0022300179,63,PT06M59.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,-31,41,5,Missed,1,,,0,v,MISS Biyombo 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,44
+0022300179,66,PT06M40.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,47
+0022300179,101,PT03M30.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo BLOCK (1 BLK),,,1,2,74
+0022300179,109,PT02M48.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,81
+0022300179,111,PT02M48.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Gilyard FOR Biyombo,Substitution,,0,0,83
+0022300179,139,PT00M29.20S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo S.FOUL (P1.T3) (T.Ford),Foul,Shooting,1,0,101
+0022300179,250,PT05M52.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,178
+0022300179,269,PT04M39.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,-31,30,4,Made,1,39,40,79,v,Biyombo 4' Layup (2 PTS) (Aldama 1 AST),Made Shot,Layup Shot,1,2,191
+0022300179,322,PT01M27.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,231
+0022300179,324,PT01M07.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo STEAL (1 STL),,,1,0,234
+0022300179,351,PT00M16.60S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,251
+0022300179,352,PT00M16.60S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,Made,1,45,52,97,v,Biyombo Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,252
+0022300179,393,PT09M55.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,276
+0022300179,408,PT08M54.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,286
+0022300179,442,PT06M09.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,-27,63,7,Made,1,56,69,125,v,Biyombo 7' Floating Jump Shot (6 PTS) (Smart 4 AST),Made Shot,Floating Jump shot,1,2,310
+0022300179,456,PT05M30.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,319
+0022300179,461,PT05M26.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,MISS Biyombo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,323
+0022300179,465,PT05M26.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,MISS Biyombo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,326
+0022300179,469,PT04M48.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,330
+0022300179,474,PT04M12.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,-2,43,4,Made,1,62,74,136,v,Biyombo 4' Layup (8 PTS) (Bane 6 AST),Made Shot,Layup Shot,1,2,333
+0022300179,478,PT04M12.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,62,75,137,v,Biyombo Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,335
+0022300179,481,PT04M04.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo L.B.FOUL (P2.T3) (T.Ford),Foul,Loose Ball,1,0,338
+0022300179,486,PT03M53.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,341
+0022300179,490,PT03M14.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,-33,25,4,Made,1,64,77,141,v,Biyombo 4' Layup (11 PTS) (Aldama 2 AST),Made Shot,Layup Shot,1,2,344
+0022300179,495,PT02M55.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Roddy FOR Biyombo,Substitution,,0,0,347
+0022300179,593,PT08M07.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,415
+0022300179,612,PT06M06.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:4 Def:8),Rebound,Unknown,1,0,429
+0022300179,672,PT01M55.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,MISS Biyombo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,474
+0022300179,676,PT01M55.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,95,98,193,v,Biyombo Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,477
+0022300179,677,PT01M36.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo BLOCK (2 BLK),,,1,2,479
+0022300179,685,PT01M15.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,MISS Biyombo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,485
+0022300179,691,PT01M15.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,98,99,197,v,Biyombo Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,489
+0022300179,713,PT00M18.90S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo S.FOUL (P3.PN) (T.Ford),Foul,Shooting,1,0,506
+0022300179,721,PT00M18.90S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Aldama FOR Biyombo,Substitution,,0,0,513
+0022300206,13,PT10M55.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo S.FOUL (P1.T1) (R.Mott),Foul,Shooting,1,0,6
+0022300206,76,PT05M36.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,-29,75,8,Made,1,23,15,38,v,Biyombo 8' Hook Shot (2 PTS),Made Shot,Hook Shot,1,2,52
+0022300206,78,PT05M24.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,54
+0022300206,102,PT04M29.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo OFF.Foul (P2) (R.Mott),Foul,Offensive,1,0,70
+0022300206,104,PT04M29.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1,0,71
+0022300206,105,PT04M29.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Lofton Jr. FOR Biyombo,Substitution,,0,0,72
+0022300206,283,PT06M06.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,198
+0022300206,284,PT05M56.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,-26,63,7,Made,1,54,42,96,v,Biyombo 7' Hook Shot (4 PTS) (Rose 1 AST),Made Shot,Hook Shot,1,2,199
+0022300206,297,PT04M44.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,1,25,3,Made,1,59,44,103,v,Biyombo 3' Cutting Dunk Shot (6 PTS) (Bane 3 AST),Made Shot,Cutting Dunk Shot,1,2,209
+0022300206,307,PT03M47.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo P.FOUL (P3.PN) (J.Goldenberg),Foul,Personal,1,0,216
+0022300206,309,PT03M47.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo T.FOUL (P3.PN) (J.Goldenberg),Foul,Technical,1,0,217
+0022300206,312,PT03M47.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Lofton Jr. FOR Biyombo,Substitution,,0,0,220
+0022300206,402,PT10M18.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,283
+0022300206,408,PT09M56.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,288
+0022300206,409,PT09M55.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,Made,1,70,58,128,v,Biyombo Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,2,289
+0022300206,413,PT09M33.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,293
+0022300206,416,PT09M15.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,48,9,5,Missed,1,,,0,v,MISS Biyombo 5' Layup,Missed Shot,Layup Shot,1,2,298
+0022300206,429,PT08M06.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,21,75,8,Missed,1,,,0,v,MISS Biyombo 8' Hook Shot,Missed Shot,Hook Shot,1,2,309
+0022300206,432,PT08M05.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo P.FOUL (P4.T1) (J.Goldenberg),Foul,Personal,1,0,312
+0022300206,437,PT07M49.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,314
+0022300206,499,PT02M46.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,-20,29,4,Made,1,90,77,167,v,Biyombo 4' Layup (10 PTS) (Williams 2 AST),Made Shot,Layup Shot,1,2,358
+0022300206,509,PT02M07.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Jackson Jr. FOR Biyombo,Substitution,,0,0,365
+0022300206,602,PT08M48.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,12,14,2,Made,1,99,100,199,v,Biyombo 2' Layup (12 PTS),Made Shot,Layup Shot,1,2,433
+0022300206,605,PT08M48.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,MISS Biyombo Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,435
+0022300206,630,PT06M59.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,454
+0022300206,650,PT05M38.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,472
+0022300206,651,PT05M22.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,-22,15,3,Made,1,99,108,207,v,Biyombo 3' Dunk (14 PTS) (Williams 4 AST),Made Shot,Dunk Shot,1,2,473
+0022300206,679,PT03M13.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,493
+0022300213,34,PT09M02.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo L.B.FOUL (P1.T1) (J.Williams),Foul,Loose Ball,1,0,27
+0022300213,57,PT06M58.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo BLOCK (1 BLK),,,1,2,44
+0022300213,74,PT05M14.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo P.FOUL (P2.T4) (S.Corbin),Foul,Personal,1,0,58
+0022300213,77,PT05M14.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Williams FOR Biyombo,Substitution,,0,0,60
+0022300213,208,PT08M12.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo S.FOUL (P3.T1) (M.Dagher),Foul,Shooting,1,0,158
+0022300213,211,PT08M12.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Aldama FOR Biyombo,Substitution,,0,0,160
+0022300213,346,PT11M30.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,252
+0022300213,347,PT11M23.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,-6,57,6,Made,1,55,56,111,h,Biyombo 6' Hook Shot (2 PTS) (Bane 5 AST),Made Shot,Hook Shot,1,2,253
+0022300213,372,PT09M05.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,270
+0022300213,386,PT07M53.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo P.FOUL (P4.T1) (S.Corbin),Foul,Personal,1,0,282
+0022300213,405,PT06M56.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo P.FOUL (P5.T3) (J.Williams),Foul,Personal,1,0,295
+0022300213,407,PT06M56.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Roddy FOR Biyombo,Substitution,,0,0,296
+0022300213,557,PT07M37.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,-27,4,3,Missed,1,,,0,h,MISS Biyombo 3' Hook Shot,Missed Shot,Hook Shot,1,2,397
+0022300213,564,PT07M20.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Konchar FOR Biyombo,Substitution,,0,0,404
+0022300231,40,PT07M55.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo BLOCK (1 BLK),,,1,2,31
+0022300231,45,PT07M46.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,34
+0022300231,56,PT06M11.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,44
+0022300231,72,PT05M30.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,-13,62,6,Made,1,11,18,29,v,Biyombo 6' Driving Floating Jump Shot (2 PTS) (Bane 1 AST),Made Shot,Driving Floating Jump Shot,1,2,54
+0022300231,103,PT03M37.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Jackson Jr. FOR Biyombo,Substitution,,0,0,78
+0022300231,200,PT08M24.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,146
+0022300231,307,PT06M57.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,155
+0022300231,260,PT05M27.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,MISS Biyombo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,183
+0022300231,264,PT05M27.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,39,34,73,v,Biyombo Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,186
+0022300231,274,PT04M39.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,194
+0022300231,294,PT02M39.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Violation:Defensive Goaltending (C.Washington),Violation,Defensive Goaltending,1,0,212
+0022300231,302,PT01M31.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo STEAL (1 STL),,,1,0,220
+0022300231,313,PT00M55.90S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Aldama FOR Biyombo,Substitution,,0,0,227
+0022300231,353,PT10M32.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,-2,48,5,Made,1,45,51,96,v,Biyombo 5' Layup (5 PTS) (Bane 3 AST),Made Shot,Layup Shot,1,2,249
+0022300231,432,PT04M51.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,305
+0022300231,450,PT03M32.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo BLOCK (2 BLK),,,1,2,319
+0022300231,455,PT03M31.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Aldama FOR Biyombo,Substitution,,0,0,322
+0022300231,531,PT10M28.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,-26,80,8,Missed,1,,,0,v,MISS Biyombo 8' Hook Shot,Missed Shot,Hook Shot,1,2,376
+0022300231,580,PT07M10.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,17,32,4,Missed,1,,,0,v,MISS Biyombo 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,411
+0022300231,593,PT06M09.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Aldama FOR Biyombo,Substitution,,0,0,423
+0022300249,52,PT06M09.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,-2,90,9,Made,1,13,17,30,h,Biyombo 9' Hook Shot (2 PTS) (Gilyard 1 AST),Made Shot,Hook Shot,1,2,37
+0022300249,61,PT05M21.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,43
+0022300249,94,PT02M49.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR Biyombo,Substitution,,0,0,69
+0022300249,238,PT04M37.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,176
+0022300249,259,PT03M16.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,23,71,7,Made,1,36,53,89,h,Biyombo 7' Turnaround Hook Shot (4 PTS) (Rose 2 AST),Made Shot,Turnaround Hook Shot,1,2,191
+0022300249,278,PT02M18.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,MISS Biyombo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,204
+0022300249,280,PT02M18.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,37,55,92,h,Biyombo Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,206
+0022300249,289,PT01M55.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,MISS Biyombo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,214
+0022300249,291,PT01M55.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,MISS Biyombo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,216
+0022300249,293,PT01M41.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo STEAL (1 STL),,,1,0,219
+0022300249,318,PT00M31.70S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,MISS Biyombo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,234
+0022300249,320,PT00M31.70S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,41,58,99,h,Biyombo Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,236
+0022300249,326,PT00M03.10S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,241
+0022300249,329,PT00M03.10S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,42,60,102,h,Biyombo Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,243
+0022300249,330,PT00M03.10S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,43,60,103,h,Biyombo Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,244
+0022300249,352,PT11M00.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo Traveling Turnover (P1.T8),Turnover,Traveling,1,0,256
+0022300249,373,PT09M33.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Aldama FOR Biyombo,Substitution,,0,0,271
+0022300249,496,PT00M51.60S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,65,88,153,h,Biyombo Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,367
+0022300249,499,PT00M51.60S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,66,88,154,h,Biyombo Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,369
+0022300249,537,PT10M24.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo S.FOUL (P1.T2) (J.DeRosa),Foul,Shooting,1,0,391
+0022300249,547,PT10M14.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,-4,92,9,Missed,1,,,0,h,MISS Biyombo 9' Hook Shot,Missed Shot,Hook Shot,1,2,397
+0022300249,562,PT09M16.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,410
+0022300249,589,PT06M07.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,428
+0022300249,636,PT02M19.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Williams Jr. FOR Biyombo,Substitution,,0,0,464
+0022300261,13,PT11M09.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo OFF.Foul (P1) (T.Washington),Foul,Offensive,1,0,6
+0022300261,15,PT11M09.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,0,7
+0022300261,29,PT09M31.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo BLOCK (1 BLK),,,1,2,19
+0022300261,33,PT09M16.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,22
+0022300261,61,PT06M27.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,-5,6,1,Made,1,14,17,31,h,Biyombo 1' Running Dunk (2 PTS) (Bane 2 AST),Made Shot,Running Dunk Shot,1,2,44
+0022300261,64,PT06M07.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,46
+0022300261,66,PT06M03.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo Offensive Goaltending Turnover (P2.T2),Turnover,Offensive Goaltending,1,0,47
+0022300261,72,PT05M49.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,51
+0022300261,127,PT02M09.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo STEAL (1 STL),,,1,0,93
+0022300261,239,PT05M37.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo OFF.Foul (P2) (M.Kallio),Foul,Offensive,1,0,175
+0022300261,241,PT05M37.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo Offensive Foul Turnover (P3.T4),Turnover,Offensive Foul Turnover,1,0,176
+0022300261,257,PT03M58.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo BLOCK (2 BLK),,,1,2,190
+0022300261,264,PT03M06.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,28,3,Made,1,50,37,87,h,Biyombo 3' Hook Shot (4 PTS) (Rose 5 AST),Made Shot,Hook Shot,1,2,194
+0022300261,269,PT02M09.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,GRIZZLIES T.Foul (Def. 3 Sec Biyombo ) (M.Kallio),Foul,Defense 3 Second,1,0,198
+0022300261,292,PT00M30.70S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,216
+0022300261,297,PT00M05.80S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Aldama FOR Biyombo,Substitution,,0,0,219
+0022300261,313,PT11M36.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo BLOCK (3 BLK),,,1,2,228
+0022300261,341,PT09M13.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,8,1,Made,1,69,45,114,h,Biyombo 1' Layup (6 PTS) (Bane 7 AST),Made Shot,Layup Shot,1,2,249
+0022300261,383,PT05M45.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo Traveling Turnover (P4.T8),Turnover,Traveling,1,0,279
+0022300261,416,PT02M55.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR Biyombo,Substitution,,0,0,302
+0022300261,534,PT06M22.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,393
+0022300261,538,PT05M50.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo S.FOUL (P3.T3) (M.Kallio),Foul,Shooting,1,0,396
+0022300261,543,PT05M47.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,399
+0022300261,552,PT04M47.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo Bad Pass Turnover (P5.T15),Turnover,Bad Pass,1,0,407
+0022300261,566,PT03M50.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Aldama FOR Biyombo,Substitution,,0,0,419
+0022300277,21,PT10M17.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,15
+0022300277,33,PT09M04.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,84,8,Missed,1,,,0,v,MISS Biyombo 8' Hook Shot,Missed Shot,Hook Shot,1,2,27
+0022300277,72,PT05M33.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,56
+0022300277,73,PT05M31.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,Made,1,12,15,27,v,Biyombo Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,57
+0022300277,92,PT04M27.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,69
+0022300277,112,PT02M45.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,87
+0022300277,116,PT02M45.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Williams FOR Biyombo,Substitution,,0,0,89
+0022300277,263,PT04M54.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,-5,2,1,Made,1,34,44,78,v,Biyombo 1' Running Reverse Layup (4 PTS) (Rose 2 AST),Made Shot,Running Reverse Layup Shot,1,2,192
+0022300277,273,PT04M05.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,198
+0022300277,295,PT02M12.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo L.B.FOUL (P1.T3) (M.Myers),Foul,Loose Ball,1,0,216
+0022300277,298,PT01M35.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo OFF.Foul (P2) (D.Guthrie),Foul,Offensive,1,0,218
+0022300277,300,PT01M35.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,1,0,219
+0022300277,313,PT00M50.10S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Tillman FOR Biyombo,Substitution,,0,0,229
+0022300277,351,PT10M05.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo BLOCK (1 BLK),,,1,2,253
+0022300277,361,PT09M56.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Lane,Violation,Lane,0,0,260
+0022300277,389,PT08M04.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,283
+0022300277,409,PT07M00.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,298
+0022300277,432,PT05M13.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo BLOCK (2 BLK),,,1,2,315
+0022300277,476,PT02M15.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Tillman FOR Biyombo,Substitution,,0,0,347
+0022300288,18,PT10M03.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,6,48,5,Missed,1,,,0,v,MISS Biyombo 5' Hook Shot,Missed Shot,Hook Shot,1,2,13
+0022300288,22,PT09M52.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo L.B.FOUL (P1.T1) (R.Mott),Foul,Loose Ball,1,0,17
+0022300288,58,PT06M59.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,45
+0022300288,59,PT06M59.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,Made,1,10,11,21,v,Biyombo Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,46
+0022300288,79,PT05M58.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,62,6,Missed,1,,,0,v,MISS Biyombo 6' Hook Shot,Missed Shot,Hook Shot,1,2,61
+0022300288,82,PT05M43.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,64
+0022300288,102,PT04M55.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Tillman FOR Biyombo,Substitution,,0,0,77
+0022300288,291,PT04M34.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo BLOCK (1 BLK),,,1,2,204
+0022300288,293,PT04M31.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,205
+0022300288,294,PT04M31.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Step Out of Bounds Turnover (P1.T9),Turnover,Step Out of Bounds Turnover,1,0,206
+0022300288,302,PT03M51.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo S.FOUL (P2.T3) (J.Butler),Foul,Shooting,1,0,212
+0022300288,336,PT01M52.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,235
+0022300288,348,PT01M16.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,245
+0022300288,349,PT01M02.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,42,55,7,Missed,1,,,0,v,MISS Biyombo 7' Hook Shot,Missed Shot,Hook Shot,1,2,246
+0022300288,357,PT00M31.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo BLOCK (2 BLK),,,1,2,254
+0022300288,386,PT10M55.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo BLOCK (3 BLK),,,1,2,269
+0022300288,400,PT10M01.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,17,69,7,Missed,1,,,0,v,MISS Biyombo 7' Hook Shot,Missed Shot,Hook Shot,1,2,280
+0022300288,415,PT09M12.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo S.FOUL (P3.T1) (C.Blair),Foul,Shooting,1,0,292
+0022300288,419,PT08M56.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo OFF.Foul (P4) (R.Mott),Foul,Offensive,0,0,295
+0022300288,421,PT08M56.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,1,0,296
+0022300288,422,PT08M56.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Aldama FOR Biyombo,Substitution,,0,0,297
+0022300288,591,PT09M40.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Roddy FOR Biyombo,Substitution,,0,0,417
+0022300288,769,PT00M04.80S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Nowell FOR Biyombo,Substitution,,0,0,541
+0022300299,98,PT04M36.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo BLOCK (1 BLK),,,1,2,72
+0022300299,120,PT02M50.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo S.FOUL (P1.PN) (L.Holtkamp),Foul,Shooting,1,0,89
+0022300299,140,PT01M13.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,-2,8,1,Made,1,24,26,50,h,Biyombo 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,104
+0022300299,224,PT06M27.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,162
+0022300299,258,PT04M23.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR Biyombo,Substitution,,0,0,186
+0022300299,423,PT04M27.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo Out of Bounds Lost Ball Turnover (P2.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0,301
+0022300299,427,PT04M13.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,304
+0022300299,437,PT03M21.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,312
+0022300299,469,PT01M33.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Tillman FOR Biyombo,Substitution,,0,0,332
+0022300314,23,PT10M45.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo S.FOUL (P1.T2) (J.Goldenberg),Foul,Shooting,1,0,16
+0022300314,58,PT07M27.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,MISS Biyombo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,41
+0022300314,60,PT07M27.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,MISS Biyombo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,43
+0022300314,90,PT05M19.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,64
+0022300314,91,PT05M19.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,1,0,65
+0022300314,104,PT03M57.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,77
+0022300314,118,PT02M55.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Aldama FOR Biyombo,Substitution,,0,0,90
+0022300314,215,PT08M24.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,151
+0022300314,242,PT05M53.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,174
+0022300314,271,PT04M01.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo S.FOUL (P2.T3) (D.Guthrie),Foul,Shooting,1,0,195
+0022300314,274,PT04M01.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,197
+0022300314,282,PT03M37.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Aldama FOR Biyombo,Substitution,,0,0,203
+0022300314,378,PT10M10.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,268
+0022300314,379,PT10M10.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,Missed,1,,,0,v,MISS Biyombo Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,269
+0022300314,387,PT09M39.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,276
+0022300314,389,PT09M10.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo S.FOUL (P3.T3) (J.Goldenberg),Foul,Shooting,1,0,278
+0022300314,395,PT08M53.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,7,88,9,Made,1,60,54,114,v,Biyombo 9' Hook Shot (2 PTS) (Williams Jr. 1 AST),Made Shot,Hook Shot,1,2,282
+0022300314,442,PT05M13.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo S.FOUL (P4.PN) (J.Goldenberg),Foul,Shooting,1,0,318
+0022300314,456,PT04M26.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,72,69,141,v,Biyombo Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,326
+0022300314,459,PT04M26.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,MISS Biyombo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,328
+0022300314,473,PT04M05.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Aldama FOR Biyombo,Substitution,,0,0,341
+0022300314,553,PT11M38.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,MISS Biyombo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,394
+0022300314,555,PT11M38.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,MISS Biyombo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,396
+0022300314,557,PT11M21.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo S.FOUL (P5.T1) (D.Guthrie),Foul,Shooting,1,0,398
+0022300314,560,PT11M21.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Aldama FOR Biyombo,Substitution,,0,0,400
+0022300332,12,PT11M04.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+0022300332,16,PT10M37.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,10
+0022300332,24,PT09M39.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,15,75,8,Made,1,7,2,9,h,Biyombo 8' Floating Jump Shot (2 PTS) (Williams Jr. 2 AST),Made Shot,Floating Jump shot,1,2,18
+0022300332,39,PT08M18.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,-22,68,7,Made,1,11,5,16,h,Biyombo 7' Hook Shot (4 PTS) (Rose 2 AST),Made Shot,Hook Shot,1,2,30
+0022300332,48,PT07M28.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,36
+0022300332,55,PT06M26.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,42
+0022300332,56,PT06M26.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,Made,1,18,5,23,h,Biyombo Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,43
+0022300332,59,PT06M26.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,MISS Biyombo Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,45
+0022300332,62,PT06M06.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo S.FOUL (P1.T1) (K.Scott),Foul,Shooting,1,0,48
+0022300332,90,PT04M23.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,-29,12,3,Missed,1,,,0,h,MISS Biyombo 3' Running Dunk,Missed Shot,Running Dunk Shot,1,2,70
+0022300332,124,PT02M25.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,97
+0022300332,125,PT02M15.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,98
+0022300332,131,PT01M28.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,104
+0022300332,134,PT01M24.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR Biyombo,Substitution,,0,0,106
+0022300332,233,PT07M04.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,175
+0022300332,238,PT06M35.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,180
+0022300332,256,PT05M29.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,-18,58,6,Missed,1,,,0,h,MISS Biyombo 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,193
+0022300332,299,PT01M53.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,11,48,5,Made,1,51,39,90,h,Biyombo 5' Turnaround Hook Shot (8 PTS) (Williams 1 AST),Made Shot,Turnaround Hook Shot,1,2,226
+0022300332,307,PT00M54.80S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR Biyombo,Substitution,,0,0,232
+0022300332,334,PT11M09.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,1,47,5,Missed,1,,,0,h,MISS Biyombo 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,255
+0022300332,348,PT10M28.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,2,56,6,Missed,1,,,0,h,MISS Biyombo 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,267
+0022300332,414,PT05M15.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,0,314
+0022300332,433,PT04M21.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Roddy FOR Biyombo,Substitution,,0,0,330
+0022300332,481,PT01M24.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,10,19,2,Made,1,72,72,144,h,Biyombo 2' Dunk (10 PTS) (Roddy 2 AST),Made Shot,Dunk Shot,1,2,366
+0022300332,511,PT11M02.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo S.FOUL (P2.T1) (T.Washington),Foul,Shooting,1,0,385
+0022300332,530,PT10M16.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR Biyombo,Substitution,,0,0,399
+0022300332,626,PT04M32.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo BLOCK (1 BLK),,,1,2,471
+0022300332,672,PT01M05.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,503
+0022300332,678,PT00M39.40S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Aldama FOR Biyombo,Substitution,,0,0,508
+0022300360,22,PT10M38.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,13,-1,1,Missed,1,,,0,v,MISS Biyombo 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,15
+0022300360,75,PT06M28.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,17,16,2,Made,1,12,11,23,v,Biyombo 2' Dunk (2 PTS) (Bane 1 AST),Made Shot,Dunk Shot,1,2,59
+0022300360,104,PT04M46.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo OFF.Foul (P1) (R.Acosta),Foul,Offensive,1,0,82
+0022300360,106,PT04M46.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0,83
+0022300360,131,PT01M51.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,104
+0022300360,135,PT01M47.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Jackson Jr. FOR Biyombo,Substitution,,0,0,108
+0022300360,261,PT04M37.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo L.B.FOUL (P2.T4) (Z.Zarba),Foul,Loose Ball,1,0,201
+0022300360,274,PT04M13.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Jackson Jr. FOR Biyombo,Substitution,,0,0,207
+0022300360,301,PT01M21.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo P.FOUL (P3.PN) (R.Acosta),Foul,Personal,1,0,228
+0022300360,306,PT01M21.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Tillman FOR Biyombo,Substitution,,0,0,232
+0022300360,345,PT11M26.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,6,8,1,Made,1,60,43,103,v,Biyombo 1' Cutting Dunk Shot (4 PTS) (Bane 3 AST),Made Shot,Cutting Dunk Shot,1,2,255
+0022300360,357,PT10M23.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,75,5,8,Made,1,60,47,107,v,Biyombo 8' Hook Shot (6 PTS) (Morant 4 AST),Made Shot,Hook Shot,1,2,264
+0022300360,375,PT09M16.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo BLOCK (1 BLK),,,1,2,277
+0022300360,380,PT08M55.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo STEAL (1 STL),,,1,0,281
+0022300360,404,PT06M55.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,-36,20,4,Made,1,71,64,135,v,Biyombo 4' Layup (8 PTS) (Williams Jr. 3 AST),Made Shot,Layup Shot,1,2,296
+0022300360,413,PT06M17.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Violation:Defensive Goaltending (R.Acosta),Violation,Defensive Goaltending,1,0,302
+0022300360,419,PT05M41.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,306
+0022300360,448,PT03M26.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Tillman FOR Biyombo,Substitution,,0,0,330
+0022300377,9,PT11M28.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo S.FOUL (P1.T1) (E.Malloy),Foul,Shooting,1,0,4
+0022300377,36,PT08M40.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,27
+0022300377,76,PT05M29.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Konchar FOR Biyombo,Substitution,,0,0,56
+0022300377,245,PT03M41.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo BLOCK (1 BLK),,,1,2,176
+0022300377,251,PT03M10.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,-6,48,5,Missed,1,,,0,h,MISS Biyombo 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,181
+0022300377,262,PT02M26.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Morant FOR Biyombo,Substitution,,0,0,188
+0022300377,310,PT11M31.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,5,1,Missed,1,,,0,h,MISS Biyombo 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,217
+0022300377,312,PT11M24.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo S.FOUL (P2.T1) (E.Malloy),Foul,Shooting,1,0,219
+0022300377,329,PT10M17.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,233
+0022300377,370,PT06M52.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,-10,5,1,Missed,1,,,0,h,MISS Biyombo 1' Hook Shot,Missed Shot,Hook Shot,1,2,266
+0022300377,385,PT05M53.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,277
+0022300377,388,PT05M38.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,4,0,Made,1,76,69,145,h,Biyombo Alley Oop Dunk (2 PTS) (Bane 6 AST),Made Shot,Alley Oop Dunk Shot,1,2,279
+0022300377,392,PT05M38.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,MISS Biyombo Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,281
+0022300377,401,PT05M15.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Aldama FOR Biyombo,Substitution,,0,0,289
+0022300393,61,PT06M12.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,44
+0022300393,66,PT05M39.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,2,5,1,Made,1,17,14,31,v,Biyombo 1' Dunk (2 PTS) (Morant 2 AST),Made Shot,Dunk Shot,1,2,49
+0022300393,70,PT05M20.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Aldama FOR Biyombo,Substitution,,0,0,51
+0022300393,254,PT05M52.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo S.FOUL (P1.T3) (J.Conley),Foul,Shooting,1,0,187
+0022300393,265,PT05M27.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,196
+0022300393,268,PT05M13.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,199
+0022300393,276,PT04M31.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,205
+0022300393,284,PT04M17.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,211
+0022300393,285,PT04M08.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,-2,18,2,Made,1,50,46,96,v,Biyombo 2' Cutting Dunk Shot (4 PTS) (Bane 3 AST),Made Shot,Cutting Dunk Shot,1,2,212
+0022300393,307,PT02M56.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,227
+0022300393,347,PT02M55.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,-50,-5,5,Missed,1,,,0,v,MISS Biyombo 5' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,228
+0022300393,309,PT02M49.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,231
+0022300393,312,PT02M49.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,MISS Biyombo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,233
+0022300393,314,PT02M49.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,53,47,100,v,Biyombo Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,235
+0022300393,320,PT02M03.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,240
+0022300393,334,PT01M03.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,MISS Biyombo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,253
+0022300393,336,PT01M03.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,58,48,106,v,Biyombo Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,255
+0022300393,355,PT11M32.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,-6,16,2,Missed,1,,,0,v,MISS Biyombo 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,267
+0022300393,357,PT11M31.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:5 Def:3),Rebound,Unknown,1,0,269
+0022300393,358,PT11M30.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,-1,37,4,Missed,1,,,0,v,MISS Biyombo 4' Layup,Missed Shot,Layup Shot,0,2,270
+0022300393,383,PT09M11.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:6 Def:3),Rebound,Unknown,1,0,288
+0022300393,393,PT08M22.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo STEAL (1 STL),,,1,0,295
+0022300393,422,PT05M58.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:7 Def:3),Rebound,Unknown,1,0,315
+0022300393,423,PT05M58.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,Made,1,72,72,144,v,Biyombo Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,2,316
+0022300393,465,PT02M25.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Tillman FOR Biyombo,Substitution,,0,0,347
+0022300393,631,PT02M13.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:7 Def:4),Rebound,Unknown,1,0,465
+0022300393,649,PT01M19.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo P.FOUL (P2.T4) (J.Conley),Foul,Personal,1,0,479
+0022300393,661,PT00M36.30S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,MISS Biyombo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,489
+0022300393,663,PT00M36.30S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,MISS Biyombo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,491
+0022300393,667,PT00M34.60S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Williams FOR Biyombo,Substitution,,0,0,495
+0022300410,48,PT07M55.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo BLOCK (1 BLK),,,1,2,37
+0022300410,59,PT07M38.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,46
+0022300410,71,PT06M15.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,58
+0022300410,113,PT02M52.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,-31,79,8,Made,1,16,20,36,v,Biyombo 8' Hook Shot (2 PTS),Made Shot,Hook Shot,1,2,92
+0022300410,126,PT02M25.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Aldama FOR Biyombo,Substitution,,0,0,101
+0022300410,263,PT06M06.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,197
+0022300410,276,PT05M05.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,208
+0022300410,283,PT04M09.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,-4,-4,1,Made,1,35,38,73,v,Biyombo 1' Dunk (4 PTS) (Roddy 1 AST),Made Shot,Dunk Shot,1,2,213
+0022300410,292,PT02M52.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo BLOCK (2 BLK),,,1,2,221
+0022300410,308,PT02M05.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,-26,64,7,Missed,1,,,0,v,MISS Biyombo 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,232
+0022300410,320,PT01M22.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Tillman FOR Biyombo,Substitution,,0,0,242
+0022300410,365,PT09M54.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,273
+0022300410,371,PT09M19.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,1,1,0,Made,1,52,50,102,v,Biyombo Running Dunk (6 PTS) (Morant 5 AST),Made Shot,Running Dunk Shot,1,2,278
+0022300410,391,PT07M14.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,-4,-1,0,Made,1,61,54,115,v,Biyombo Running Dunk (8 PTS) (Morant 6 AST),Made Shot,Running Dunk Shot,1,2,295
+0022300410,393,PT07M03.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo P.FOUL (P1.T2) (B.Schwab),Foul,Personal,1,0,296
+0022300410,396,PT06M55.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,298
+0022300410,415,PT05M57.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo L.B.FOUL (P2.T3) (J.DeRosa),Foul,Loose Ball,1,0,315
+0022300410,445,PT04M20.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo S.FOUL (P3.T4) (M.Ervin),Foul,Shooting,1,0,334
+0022300410,457,PT03M16.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,343
+0022300410,467,PT02M23.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Aldama FOR Biyombo,Substitution,,0,0,352
+0022300410,607,PT05M25.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo L.B.FOUL (P4.PN) (J.DeRosa),Foul,Loose Ball,1,0,453
+0022300410,631,PT04M55.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Tillman FOR Biyombo,Substitution,,0,0,469
+0022300425,10,PT10M57.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo BLOCK (1 BLK),,,1,2,8
+0022300425,13,PT10M46.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,-10,76,8,Missed,1,,,0,v,MISS Biyombo 8' Hook Shot,Missed Shot,Hook Shot,1,2,10
+0022300425,15,PT10M39.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo P.FOUL (P1.T1) (A.Smith),Foul,Personal,1,0,12
+0022300425,20,PT10M20.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,16
+0022300425,24,PT09M45.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,19
+0022300425,80,PT04M31.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,-17,10,2,Made,1,19,20,39,v,Biyombo 2' Layup (2 PTS) (Roddy 1 AST),Made Shot,Layup Shot,1,2,61
+0022300425,83,PT04M13.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo P.FOUL (P2.T2) (A.Smith),Foul,Personal,1,0,62
+0022300425,85,PT04M13.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Tillman FOR Biyombo,Substitution,,0,0,63
+0022300425,269,PT03M02.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,195
+0022300425,291,PT01M24.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,212
+0022300425,292,PT01M20.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,4,58,6,Missed,1,,,0,v,MISS Biyombo 6' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,213
+0022300425,650,PT07M11.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,275
+0022300425,375,PT06M29.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,5,14,1,Missed,1,,,0,v,MISS Biyombo 1' Hook Shot,Missed Shot,Hook Shot,1,2,281
+0022300425,389,PT06M03.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo S.FOUL (P3.T3) (A.Smith),Foul,Shooting,1,0,291
+0022300425,393,PT06M03.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Tillman FOR Biyombo,Substitution,,0,0,294
+0022300425,510,PT10M39.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,369
+0022300425,511,PT10M38.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Traveling Turnover (P2.T10),Turnover,Traveling,1,0,370
+0022300425,531,PT09M08.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Williams FOR Biyombo,Substitution,,0,0,387
+0022300438,18,PT10M10.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,-26,30,4,Missed,1,,,0,v,MISS Biyombo 4' Hook Shot,Missed Shot,Hook Shot,1,2,11
+0022300438,25,PT09M14.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,16
+0022300438,32,PT08M44.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,15,21,3,Made,1,7,12,19,v,Biyombo 3' Layup (2 PTS) (Jackson Jr. 1 AST),Made Shot,Layup Shot,1,2,22
+0022300438,36,PT08M22.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo OFF.Foul (P1) (J.Sterling),Foul,Offensive,1,0,25
+0022300438,38,PT08M22.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,0,26
+0022300438,52,PT07M15.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,37
+0022300438,60,PT06M52.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo STEAL (1 STL),,,1,0,45
+0022300438,90,PT04M13.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Aldama FOR Biyombo,Substitution,,0,0,69
+0022300449,21,PT09M34.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo P.FOUL (P1.T1) (J.Van Duyne),Foul,Personal,1,0,15
+0022300449,24,PT09M22.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,17
+0022300449,39,PT07M44.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,29
+0022300449,49,PT06M37.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,38
+0022300449,55,PT06M05.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,44
+0022300449,57,PT06M05.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Aldama FOR Biyombo,Substitution,,0,0,46
+0022300449,169,PT10M22.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo BLOCK (1 BLK),,,1,2,118
+0022300449,231,PT06M16.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Rose FOR Biyombo,Substitution,,0,0,165
+0022300449,274,PT03M08.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,198
+0022300449,346,PT11M05.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,248
+0022300449,362,PT09M45.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Aldama FOR Biyombo,Substitution,,0,0,261
+0022300460,12,PT11M15.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo STEAL (1 STL),,,1,0,6
+0022300460,27,PT09M30.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,19
+0022300460,35,PT09M04.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,7,5,1,Made,1,7,5,12,h,Biyombo 1' Alley Oop Dunk (2 PTS) (Morant 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,25
+0022300460,39,PT08M40.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo OFF.Foul (P1) (P.Ransom),Foul,Offensive,1,0,27
+0022300460,41,PT08M40.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,0,28
+0022300460,51,PT07M51.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,36
+0022300460,64,PT06M52.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,46
+0022300460,84,PT05M24.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,-26,23,3,Missed,1,,,0,h,MISS Biyombo 3' Layup,Missed Shot,Layup Shot,1,2,59
+0022300460,108,PT04M11.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo BLOCK (1 BLK),,,1,2,77
+0022300460,122,PT03M15.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo BLOCK (2 BLK),,,1,2,89
+0022300460,132,PT02M11.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,-26,13,3,Made,1,18,17,35,h,Biyombo 3' Finger Roll Layup (4 PTS) (Rose 1 AST),Made Shot,Finger Roll Layup Shot,1,2,97
+0022300460,136,PT02M03.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR Biyombo,Substitution,,0,0,99
+0022300460,303,PT02M13.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo BLOCK (3 BLK),,,1,2,222
+0022300460,309,PT01M39.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,226
+0022300460,312,PT01M20.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,-33,50,6,Missed,1,,,0,h,MISS Biyombo 6' Hook Shot,Missed Shot,Hook Shot,1,2,229
+0022300460,326,PT00M29.70S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,240
+0022300460,360,PT10M05.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo OFF.Foul (P2) (M.Ervin),Foul,Offensive,1,0,260
+0022300460,362,PT10M05.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,1,0,261
+0022300460,390,PT06M32.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo S.FOUL (P3.T1) (C.Washington),Foul,Shooting,1,0,283
+0022300460,424,PT05M06.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Aldama FOR Biyombo,Substitution,,0,0,308
+0022300460,514,PT11M36.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,373
+0022300460,518,PT11M08.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,376
+0022300460,562,PT07M57.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo P.FOUL (P4.T4) (C.Washington),Foul,Personal,1,0,408
+0022300460,586,PT06M18.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,426
+0022300460,588,PT06M18.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR Biyombo,Substitution,,0,0,428
+0022300491,18,PT10M42.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,11
+0022300491,22,PT10M12.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,14
+0022300491,44,PT08M20.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,31
+0022300491,61,PT06M33.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,-11,13,2,Made,1,10,12,22,v,Biyombo 2' Cutting Dunk Shot (2 PTS) (Morant 2 AST),Made Shot,Cutting Dunk Shot,1,2,45
+0022300491,73,PT05M35.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,-48,17,5,Made,1,16,16,32,v,Biyombo 5' Hook Shot (4 PTS) (Smart 1 AST),Made Shot,Hook Shot,1,2,52
+0022300491,82,PT05M16.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Aldama FOR Biyombo,Substitution,,0,0,58
+0022300491,337,PT10M02.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,250
+0022300491,378,PT06M53.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Traveling Turnover (P2.T14),Turnover,Traveling,1,0,282
+0022300491,387,PT06M12.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo S.FOUL (P1.T3) (M.Boland),Foul,Shooting,1,0,290
+0022300491,391,PT06M09.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,293
+0022300491,393,PT05M55.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,295
+0022300491,428,PT04M05.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Aldama FOR Biyombo,Substitution,,0,0,322
+0022300491,447,PT02M53.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,-22,60,6,Made,1,89,86,175,v,Biyombo 6' Hook Shot (6 PTS) (Kennard 2 AST),Made Shot,Hook Shot,1,2,334
+0022300491,468,PT01M33.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo P.FOUL (P2.PN) (S.Corbin),Foul,Personal,1,0,348
+0022300491,549,PT07M05.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,404
+0022300491,571,PT05M29.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,420
+0022300491,592,PT04M27.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,435
+0022300491,624,PT00M53.90S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,463
+0022300491,630,PT00M00.10S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,468
+0022300503,101,PT05M28.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,-13,27,3,Missed,1,,,0,v,MISS Biyombo 3' Hook Shot,Missed Shot,Hook Shot,1,2,74
+0022300503,104,PT05M01.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,77
+0022300503,156,PT02M15.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Jackson Jr. FOR Biyombo,Substitution,,0,0,114
+0022300503,284,PT05M24.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo BLOCK (1 BLK),,,1,2,206
+0022300503,317,PT03M32.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,226
+0022300503,326,PT02M30.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo P.FOUL (P1.PN) (C.Blair),Foul,Personal,1,0,233
+0022300503,412,PT08M16.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,290
+0022300503,421,PT07M21.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,64,63,9,Missed,1,,,0,v,MISS Biyombo 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,295
+0022300503,437,PT05M40.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,306
+0022300503,442,PT05M14.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo S.FOUL (P2.T2) (K.Cutler),Foul,Shooting,1,0,310
+0022300503,455,PT04M51.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Out of Bounds - Bad Pass Turnover Turnover (P2.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,317
+0022300503,460,PT04M31.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo BLOCK (2 BLK),,,1,2,322
+0022300503,513,PT02M10.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo BLOCK (3 BLK),,,1,2,366
+0022300503,549,PT00M45.10S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,MISS Biyombo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,392
+0022300503,553,PT00M45.10S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,94,84,178,v,Biyombo Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,395
+0022300503,574,PT00M00.30S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,409
+0022300503,592,PT11M05.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,416
+0022300503,595,PT10M27.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo S.FOUL (P3.T1) (K.Cutler),Foul,Shooting,1,0,418
+0022300503,618,PT09M24.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,437
+0022300503,680,PT05M39.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Williams Jr. FOR Biyombo,Substitution,,0,0,480
+0022300515,11,PT11M11.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,2,84,8,Missed,1,,,0,v,MISS Biyombo 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,6
+0022300515,48,PT07M40.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,41
+0022300515,67,PT06M16.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Grizzlies T.Foul (Def. 3 Sec Biyombo ) (J.Van Duyne),Foul,Defense 3 Second,1,0,55
+0022300515,98,PT03M56.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo S.FOUL (P1.T4) (M.Lindsay),Foul,Shooting,1,0,76
+0022300515,110,PT02M58.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,1,0,Made,1,18,25,43,v,Biyombo Running Dunk (2 PTS) (Smart 1 AST),Made Shot,Running Dunk Shot,1,2,86
+0022300515,114,PT02M58.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Roddy FOR Biyombo,Substitution,,0,0,89
+0022300515,370,PT10M27.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,266
+0022300515,371,PT10M12.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo S.FOUL (P2.T2) (J.Van Duyne),Foul,Shooting,1,0,267
+0022300515,400,PT07M42.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,290
+0022300515,408,PT07M09.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0,295
+0022300515,421,PT06M09.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Tillman FOR Biyombo,Substitution,,0,0,304
+0022300515,576,PT07M43.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Tillman FOR Biyombo,Substitution,,0,0,415
+0022300809,599,PT07M44.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,438
+0022300809,664,PT03M13.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo OFF.Foul (P1) (S.Mehta),Foul,Offensive,1,0,487
+0022300809,666,PT03M13.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo Offensive Foul Turnover (P1.T15),Turnover,Offensive Foul Turnover,1,0,488
+0022300809,679,PT01M35.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo BLOCK (1 BLK),,,1,2,500
+0022300853,574,PT06M44.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,405
+0022300853,585,PT06M13.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Gilgeous-Alexander FOR Biyombo,Substitution,,0,0,413
+0022300878,279,PT04M37.00S,2,1610612760,OKC,202687,Biyombo,B. Biyombo,-4,-13,1,Missed,1,,,0,v,MISS Biyombo 1' Dunk,Missed Shot,Dunk Shot,1,2,200
+0022300878,307,PT02M57.00S,2,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,222
+0022300878,316,PT02M57.00S,2,1610612760,OKC,202687,Biyombo,B. Biyombo,-1,26,3,Missed,1,,,0,v,MISS Biyombo 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,223
+0022300878,317,PT02M57.00S,2,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,224
+0022300878,308,PT02M53.00S,2,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,Made,1,42,55,97,v,Biyombo Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,225
+0022300878,320,PT02M02.00S,2,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Holmgren FOR Biyombo,Substitution,,0,0,233
+0022300878,423,PT06M33.00S,3,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Holmgren FOR Biyombo,Substitution,,0,0,313
+0022300884,120,PT02M14.00S,1,1610612760,OKC,202687,Biyombo,B. Biyombo,-62,8,6,Missed,1,,,0,v,MISS Biyombo 6' Jump Shot,Missed Shot,Jump Shot,1,2,91
+0022300884,155,PT00M02.60S,1,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo S.FOUL (P1.PN) (J.Orr),Foul,Shooting,1,0,121
+0022300884,159,PT00M02.60S,1,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: J. Williams FOR Biyombo,Substitution,,0,0,124
+0022300884,482,PT02M20.00S,3,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo P.FOUL (P2.PN) (J.Schroeder),Foul,Personal,1,0,352
+0022300884,489,PT01M42.00S,3,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo L.B.FOUL (P3.PN) (J.Capers),Foul,Loose Ball,1,0,358
+0022300884,496,PT01M10.00S,3,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo S.FOUL (P4.PN) (J.Schroeder),Foul,Shooting,1,0,363
+0022300884,499,PT01M10.00S,3,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Holmgren FOR Biyombo,Substitution,,0,0,365
+0022300931,571,PT05M50.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo S.FOUL (P1.T3) (B.Adair),Foul,Shooting,1,0,400
+0022300931,583,PT04M26.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,410
+0022300931,593,PT03M07.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,418
+0022300931,610,PT01M32.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,431
+0022300931,615,PT01M32.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,120,91,211,h,Biyombo Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,433
+0022300931,616,PT01M32.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,121,91,212,h,Biyombo Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,434
+0022301030,621,PT03M29.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,447
+0022301030,625,PT03M16.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,450
+0022301030,673,PT03M14.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo STEAL (1 STL),,,1,0,453
+0022301030,633,PT03M13.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,MISS Biyombo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,455
+0022301030,637,PT03M13.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,MISS Biyombo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,459
+0022301105,647,PT01M50.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,-10,69,7,Made,1,129,98,227,v,Biyombo 7' Hook Shot (2 PTS) (Wiggins 5 AST),Made Shot,Hook Shot,1,2,465
+0022301163,560,PT11M35.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,412
+0022301163,570,PT10M22.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,422
+0022301163,605,PT08M11.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,446
+0022301163,657,PT03M16.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,10,35,4,Made,1,120,80,200,h,Biyombo 4' Cutting Layup Shot (2 PTS) (Flagler 2 AST),Made Shot,Cutting Layup Shot,1,2,486
+0022301163,662,PT02M44.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,490
+0022301163,663,PT02M43.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,-2,1,0,Made,1,122,80,202,h,Biyombo Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,491
+0022301163,677,PT01M13.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,11,50,5,Made,1,124,86,210,h,Biyombo 5' Turnaround Hook Shot (6 PTS) (Wiggins 3 AST),Made Shot,Turnaround Hook Shot,1,2,501
+0022301163,679,PT01M01.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo BLOCK (1 BLK),,,1,2,503
+0022301163,681,PT00M58.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,504
+0022301163,690,PT00M06.80S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,510
+0022301196,486,PT03M30.00S,3,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,100,49,149,h,Biyombo Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,341
+0022301196,493,PT03M30.00S,3,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,101,49,150,h,Biyombo Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,345
+0022301196,502,PT02M40.00S,3,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo S.FOUL (P1.T2) (K.Lane),Foul,Shooting,1,0,353
+0022301196,514,PT02M07.00S,3,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,363
+0022301196,520,PT01M35.00S,3,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,MISS Biyombo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,368
+0022301196,522,PT01M35.00S,3,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,MISS Biyombo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,370
+0022301196,528,PT00M46.50S,3,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,375
+0022301196,531,PT00M21.30S,3,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo BLOCK (1 BLK),,,1,2,379
+0022301196,550,PT11M25.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,-2,69,7,Missed,1,,,0,h,MISS Biyombo 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,389
+0022301196,573,PT09M21.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,406
+0022301196,600,PT06M45.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,427
+0022301196,633,PT03M56.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,451
+0022301196,639,PT03M10.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,456
+0022301196,640,PT03M10.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,0,0,0,Made,1,128,75,203,h,Biyombo Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,457
+0022301196,651,PT02M36.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,-1,13,1,Made,1,133,75,208,h,Biyombo 1' Alley Oop Layup (6 PTS) (Dieng 4 AST),Made Shot,Alley Oop Layup shot,1,2,465
+0022301196,665,PT01M18.00S,4,1610612760,OKC,202687,Biyombo,B. Biyombo,-43,36,6,Missed,1,,,0,h,MISS Biyombo 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,475
+0022301206,10,PT11M19.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+0022301206,21,PT10M12.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,17
+0022301206,29,PT09M21.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,23
+0022301206,48,PT06M58.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,38
+0022301206,59,PT06M06.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,-9,58,6,Missed,1,,,0,v,MISS Biyombo 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,45
+0022301206,67,PT05M17.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,50
+0022301206,106,PT02M21.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Konchar FOR Biyombo,Substitution,,0,0,76
+0022301206,248,PT04M47.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,20,38,4,Missed,1,,,0,v,MISS Biyombo 4' Hook Shot,Missed Shot,Hook Shot,1,2,181
+0022301206,266,PT03M25.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Williams Jr. FOR Biyombo,Substitution,,0,0,198
+0022301206,330,PT11M12.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo BLOCK (1 BLK),,,1,2,238
+0022301206,332,PT11M08.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,239
+0022301206,334,PT10M47.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Grizzlies T.Foul (Def. 3 Sec Biyombo ) (J.Goldenberg),Foul,Defense 3 Second,1,0,241
+0022301206,348,PT09M52.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo S.FOUL (P1.T1) (J.Goldenberg),Foul,Shooting,1,0,255
+0022301206,359,PT08M58.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,263
+0022301206,370,PT08M13.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,272
+0022301206,382,PT06M40.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,282
+0022301206,385,PT06M18.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,285
+0022301206,404,PT05M00.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo OFF.Foul (P2) (J.Goldenberg),Foul,Offensive,1,0,299
+0022301206,406,PT05M00.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,1,0,300
+0022301206,433,PT02M25.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Jackson Jr. FOR Biyombo,Substitution,,0,0,320
+0022301206,549,PT06M20.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,398
+0022301206,551,PT06M16.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,Biyombo REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,400
+0022301206,577,PT03M40.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,-9,15,2,Made,1,93,105,198,v,Biyombo 2' Running Dunk (2 PTS) (Aldama 3 AST),Made Shot,Running Dunk Shot,1,2,422
+0022301206,589,PT02M29.00S,4,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,v,SUB: Jackson Jr. FOR Biyombo,Substitution,,0,0,430
+0022301221,29,PT09M45.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo P.FOUL (P1.T1) (M.Kogut),Foul,Personal,1,0,21
+0022301221,33,PT09M37.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,24
+0022301221,107,PT04M05.00S,1,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR Biyombo,Substitution,,0,0,78
+0022301221,278,PT04M11.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,206
+0022301221,297,PT03M01.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,222
+0022301221,299,PT02M44.00S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo S.FOUL (P2.PN) (P.Fraher),Foul,Shooting,1,0,224
+0022301221,326,PT00M27.30S,2,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Williams Jr. FOR Biyombo,Substitution,,0,0,243
+0022301221,354,PT10M56.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo S.FOUL (P3.T1) (C.Washington),Foul,Shooting,1,0,257
+0022301221,380,PT08M03.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,-5,7,1,Missed,1,,,0,h,MISS Biyombo 1' Layup,Missed Shot,Layup Shot,1,2,276
+0022301221,398,PT06M23.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,-4,6,1,Made,1,68,82,150,h,Biyombo 1' Cutting Dunk Shot (2 PTS) (Jackson Jr. 1 AST),Made Shot,Cutting Dunk Shot,1,2,289
+0022301221,418,PT04M53.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo P.FOUL (P4.T4) (P.Fraher),Foul,Personal,1,0,304
+0022301221,428,PT04M40.00S,3,1610612763,MEM,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,SUB: Jackson Jr. FOR Biyombo,Substitution,,0,0,309

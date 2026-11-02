@@ -1,0 +1,53 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300020,593,PT03M39.00S,4,1610612753,ORL,1641724,Howard,J. Howard,-145,217,26,Missed,1,,,0,v,MISS Howard 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,430
+0022300020,613,PT02M06.00S,4,1610612753,ORL,1641724,Howard,J. Howard,-170,196,26,Missed,1,,,0,v,MISS Howard 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,446
+0022300020,642,PT00M39.10S,4,1610612753,ORL,1641724,Howard,J. Howard,88,239,25,Missed,1,,,0,v,MISS Howard 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,467
+0022300020,648,PT00M00.00S,4,1610612753,ORL,1641724,Howard,J. Howard,2,416,42,Missed,1,,,0,v,MISS Howard 42' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,473
+0022300066,646,PT01M59.00S,4,1610612753,ORL,1641724,Howard,J. Howard,-229,0,0,Missed,1,,,0,h,MISS Howard 3PT Jump Shot,Missed Shot,Jump Shot,1,3,470
+0022300114,649,PT03M39.00S,4,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,479
+0022300114,665,PT02M31.00S,4,1610612753,ORL,1641724,Howard,J. Howard,12,34,4,Made,1,107,95,202,v,Howard 4' Layup (2 PTS) (Bitadze 2 AST),Made Shot,Layup Shot,1,2,490
+0022300134,678,PT01M03.00S,4,1610612753,ORL,1641724,Howard,J. Howard,62,241,25,Missed,1,,,0,h,MISS Howard 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,505
+0022300134,685,PT00M13.50S,4,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,,,0,h,Howard REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,510
+0022300134,686,PT00M13.50S,4,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,Missed,1,,,0,h,MISS Howard Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,511
+0022300209,652,PT06M36.00S,4,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,,,0,v,Howard Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,483
+0022300209,673,PT05M00.00S,4,1610612753,ORL,1641724,Howard,J. Howard,116,249,27,Missed,1,,,0,v,MISS Howard 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,498
+0022300209,697,PT03M42.00S,4,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,,,0,v,Howard Out of Bounds Lost Ball Turnover (P2.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0,511
+0022300209,700,PT03M15.00S,4,1610612753,ORL,1641724,Howard,J. Howard,-168,216,27,Missed,1,,,0,v,MISS Howard 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,514
+0022300329,680,PT00M15.60S,4,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,,,0,v,Howard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,482
+0022300329,681,PT00M12.10S,4,1610612753,ORL,1641724,Howard,J. Howard,-114,270,29,Missed,1,,,0,v,MISS Howard 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,483
+0022300344,628,PT02M01.00S,4,1610612753,ORL,1641724,Howard,J. Howard,-109,193,22,Missed,1,,,0,v,MISS Howard 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,468
+0022300344,641,PT00M49.90S,4,1610612753,ORL,1641724,Howard,J. Howard,-176,193,26,Made,1,114,97,211,v,Howard 26' 3PT Jump Shot (3 PTS) (Black 3 AST),Made Shot,Jump Shot,1,3,480
+0022300415,661,PT00M03.00S,4,1610612753,ORL,1641724,Howard,J. Howard,170,176,24,Made,1,92,112,204,h,Howard 24' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,492
+0022300585,613,PT02M11.00S,4,1610612753,ORL,1641724,Howard,J. Howard,-45,130,14,Made,1,100,113,213,h,Howard 14' Pullup Jump Shot (2 PTS) (Black 3 AST),Made Shot,Pullup Jump shot,1,2,445
+0022300585,628,PT01M33.00S,4,1610612753,ORL,1641724,Howard,J. Howard,-197,168,26,Missed,1,,,0,h,MISS Howard 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,454
+0022300585,653,PT00M21.20S,4,1610612753,ORL,1641724,Howard,J. Howard,-205,174,27,Made,1,109,124,233,h,Howard 27' 3PT Jump Shot (5 PTS) (Wagner 2 AST),Made Shot,Jump Shot,1,3,472
+0022300601,645,PT01M10.00S,4,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,,,0,h,Howard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,456
+0022300601,648,PT01M09.00S,4,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,,,0,h,MISS Howard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,458
+0022300601,650,PT01M09.00S,4,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,105,87,192,h,Howard Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,460
+0022300601,656,PT00M20.10S,4,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,,,0,h,Howard BLOCK (1 BLK),,,1,2,466
+0022300772,657,PT02M08.00S,4,1610612753,ORL,1641724,Howard,J. Howard,-99,237,26,Made,1,109,123,232,h,Howard 26' 3PT Jump Shot (3 PTS) (Bitadze 1 AST),Made Shot,Jump Shot,1,3,468
+0022300772,659,PT01M46.00S,4,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,,,0,h,Howard S.FOUL (P1.PN) (M.Myers),Foul,Shooting,1,0,469
+0022300772,680,PT01M11.00S,4,1610612753,ORL,1641724,Howard,J. Howard,72,276,29,Missed,1,,,0,h,MISS Howard 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,483
+0022300778,546,PT01M36.00S,4,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,,,0,h,Howard P.FOUL (P1.PN) (N.Buchert),Foul,Personal,1,0,401
+0022300778,562,PT00M25.10S,4,1610612753,ORL,1641724,Howard,J. Howard,-39,262,26,Missed,1,,,0,h,MISS Howard 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,411
+0022300979,622,PT01M59.00S,4,1610612753,ORL,1641724,Howard,J. Howard,-179,177,25,Missed,1,,,0,h,MISS Howard 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,440
+0022301136,649,PT00M42.90S,4,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,,,0,h,Howard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,466
+0022301136,650,PT00M34.80S,4,1610612753,ORL,1641724,Howard,J. Howard,113,253,28,Made,1,113,98,211,h,Howard 28' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,467
+0022301150,644,PT01M06.00S,4,1610612753,ORL,1641724,Howard,J. Howard,140,212,25,Missed,1,,,0,v,MISS Howard 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,464
+0022301150,658,PT00M31.20S,4,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,,,0,v,Howard BLOCK (1 BLK),,,1,2,473
+0022301150,661,PT00M23.90S,4,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,,,0,v,Howard Bad Pass Turnover (P1.T15),Turnover,Bad Pass,1,0,475
+0022301162,544,PT04M42.00S,4,1610612753,ORL,1641724,Howard,J. Howard,-234,125,27,Missed,1,,,0,v,MISS Howard 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,404
+0022301162,567,PT03M28.00S,4,1610612753,ORL,1641724,Howard,J. Howard,152,222,27,Missed,1,,,0,v,MISS Howard 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,418
+0022301162,590,PT02M19.00S,4,1610612753,ORL,1641724,Howard,J. Howard,222,169,28,Made,1,116,95,211,v,Howard 28' 3PT Jump Shot (3 PTS) (Schofield 1 AST),Made Shot,Jump Shot,1,3,432
+0022301162,627,PT01M21.00S,4,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,,,0,v,Howard STEAL (1 STL),,,1,0,448
+0022301162,610,PT00M36.90S,4,1610612753,ORL,1641724,Howard,J. Howard,-238,47,24,Missed,1,,,0,v,MISS Howard 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,452
+0022301191,555,PT04M23.00S,4,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,,,0,h,Howard STEAL (1 STL),,,1,0,414
+0022301191,557,PT03M57.00S,4,1610612753,ORL,1641724,Howard,J. Howard,224,101,25,Missed,1,,,0,h,MISS Howard 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,415
+0022301191,582,PT02M05.00S,4,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,,,0,h,Howard P.FOUL (P1.T4) (J.Williams),Foul,Personal,1,0,434
+0022301191,602,PT00M23.30S,4,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,,,0,h,Howard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,450
+0022301217,561,PT04M36.00S,4,1610612753,ORL,1641724,Howard,J. Howard,21,24,3,Made,1,115,84,199,h,Howard 3' Cutting Layup Shot (2 PTS) (Houstan 1 AST),Made Shot,Cutting Layup Shot,1,2,407
+0022301217,592,PT02M28.00S,4,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,,,0,h,Howard P.FOUL (P1.T4) (D.Mosher),Foul,Personal,1,0,430
+0022301217,610,PT01M07.00S,4,1610612753,ORL,1641724,Howard,J. Howard,-173,179,25,Made,1,122,89,211,h,Howard 25' 3PT Jump Shot (5 PTS) (Black 3 AST),Made Shot,Jump Shot,1,3,445
+0022301217,613,PT00M52.10S,4,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,,,0,h,Howard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,447
+0022301217,616,PT00M48.50S,4,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,,,0,h,MISS Howard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,449
+0022301217,618,PT00M48.50S,4,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,123,89,212,h,Howard Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,451

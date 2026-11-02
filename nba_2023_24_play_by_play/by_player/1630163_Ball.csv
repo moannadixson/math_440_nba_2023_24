@@ -1,0 +1,944 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300009,11,PT11M15.00S,1,1610612766,CHA,1630163,Ball,L. Ball,214,172,27,Missed,1,,,0,v,MISS Ball 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,7
+0022300009,19,PT10M15.00S,1,1610612766,CHA,1630163,Ball,L. Ball,235,95,25,Missed,1,,,0,v,MISS Ball 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,13
+0022300009,34,PT08M56.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,10,1,11,v,Ball Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,24
+0022300009,35,PT08M56.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,MISS Ball Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,25
+0022300009,37,PT08M41.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball STEAL (1 STL),,,1,0,28
+0022300009,43,PT08M08.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,32
+0022300009,52,PT07M00.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,39
+0022300009,74,PT05M15.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Maledon FOR Ball,Substitution,,0,0,56
+0022300009,143,PT00M00.10S,1,1610612766,CHA,1630163,Ball,L. Ball,75,34,8,Missed,1,,,0,v,MISS Ball 8' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,108
+0022300009,175,PT10M13.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball S.FOUL (P1.T1) (C.Blair),Foul,Shooting,1,0,131
+0022300009,178,PT10M13.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Lane,Violation,Lane,0,0,133
+0022300009,180,PT10M02.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-70,39,8,Missed,1,,,0,v,MISS Ball 8' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,135
+0022300009,206,PT08M11.00S,2,1610612766,CHA,1630163,Ball,L. Ball,40,65,8,Missed,1,,,0,v,MISS Ball 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,155
+0022300009,207,PT08M06.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,156
+0022300009,208,PT08M06.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,Made,1,41,30,71,v,Ball Putback Layup (3 PTS),Made Shot,Putback Layup Shot,1,2,157
+0022300009,217,PT07M39.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Maledon FOR Ball,Substitution,,0,0,163
+0022300009,299,PT02M24.00S,2,1610612766,CHA,1630163,Ball,L. Ball,29,58,6,Missed,1,,,0,v,MISS Ball 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,220
+0022300009,300,PT02M23.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,221
+0022300009,328,PT02M23.00S,2,1610612766,CHA,1630163,Ball,L. Ball,21,33,4,Missed,1,,,0,v,MISS Ball 4' Tip Layup Shot,Missed Shot,Tip Layup Shot,0,2,222
+0022300009,304,PT02M18.00S,2,1610612766,CHA,1630163,Ball,L. Ball,34,36,5,Made,1,54,48,102,v,Ball 5' Floating Jump Shot (5 PTS) (Hayward 5 AST),Made Shot,Floating Jump shot,1,2,225
+0022300009,338,PT11M46.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball S.FOUL (P2.T1) (L.Wood),Foul,Shooting,1,0,247
+0022300009,346,PT11M01.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,254
+0022300009,347,PT10M55.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Step Out of Bounds Turnover (P2.T5),Turnover,Step Out of Bounds Turnover,1,0,255
+0022300009,362,PT09M59.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball S.FOUL (P3.T2) (C.Blair),Foul,Shooting,1,0,266
+0022300009,383,PT08M31.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-5,35,4,Missed,1,,,0,v,MISS Ball 4' Layup,Missed Shot,Layup Shot,1,2,285
+0022300009,387,PT08M27.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-230,-21,0,Missed,1,,,0,v,MISS Ball 3PT Jump Shot,Missed Shot,Jump Shot,1,3,288
+0022300009,408,PT06M58.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,304
+0022300009,413,PT06M25.00S,3,1610612766,CHA,1630163,Ball,L. Ball,234,51,24,Made,1,75,70,145,v,Ball 24' 3PT Jump Shot (8 PTS) (Hayward 8 AST),Made Shot,Jump Shot,1,3,309
+0022300009,423,PT05M37.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Maledon FOR Ball,Substitution,,0,0,318
+0022300009,498,PT01M20.00S,3,1610612766,CHA,1630163,Ball,L. Ball,23,9,2,Made,1,91,86,177,v,Ball 2' Layup (10 PTS),Made Shot,Layup Shot,1,2,368
+0022300009,505,PT00M59.60S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,93,87,180,v,Ball Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,373
+0022300009,506,PT00M59.60S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,93,88,181,v,Ball Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,374
+0022300009,514,PT00M24.80S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball STEAL (2 STL),,,1,0,381
+0022300009,516,PT00M06.10S,3,1610612766,CHA,1630163,Ball,L. Ball,-78,290,30,Missed,1,,,0,v,MISS Ball 30' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,382
+0022300009,543,PT10M35.00S,4,1610612766,CHA,1630163,Ball,L. Ball,71,134,15,Made,1,99,92,191,v,Ball 15' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,2,400
+0022300009,546,PT10M15.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-4,15,2,Made,1,99,94,193,v,Ball 2' Running Layup (16 PTS),Made Shot,Running Layup Shot,1,2,403
+0022300009,580,PT08M33.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball L.B.FOUL (P4.T4) (L.Wood),Foul,Loose Ball,1,0,426
+0022300009,593,PT07M45.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Maledon FOR Ball,Substitution,,0,0,436
+0022300009,606,PT07M02.00S,4,1610612766,CHA,1630163,Ball,L. Ball,140,257,29,Made,1,109,102,211,v,Ball 29' 3PT Jump Shot (19 PTS) (Thor 2 AST),Made Shot,Jump Shot,1,3,446
+0022300009,626,PT05M47.00S,4,1610612766,CHA,1630163,Ball,L. Ball,232,-10,0,Made,1,109,106,215,v,Ball 3PT Jump Shot (22 PTS) (Williams 3 AST),Made Shot,Jump Shot,1,3,464
+0022300009,651,PT04M24.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-235,20,24,Made,1,109,110,219,v,Ball 24' 3PT Jump Shot (25 PTS) (Washington 4 AST),Made Shot,Jump Shot,1,3,483
+0022300009,662,PT03M09.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,490
+0022300009,690,PT01M04.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball S.FOUL (P5.PN) (P.Ransom),Foul,Shooting,1,0,512
+0022300017,9,PT11M31.00S,1,1610612766,CHA,1630163,Ball,L. Ball,99,15,10,Missed,1,,,0,h,MISS Ball 10' Layup,Missed Shot,Layup Shot,1,2,4
+0022300017,56,PT11M27.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball STEAL (1 STL),,,1,0,7
+0022300017,25,PT10M00.00S,1,1610612766,CHA,1630163,Ball,L. Ball,1,299,30,Made,1,8,5,13,h,Ball 30' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,1,3,16
+0022300017,27,PT09M43.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,18
+0022300017,43,PT08M03.00S,1,1610612766,CHA,1630163,Ball,L. Ball,25,13,3,Missed,1,,,0,h,MISS Ball 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,30
+0022300017,50,PT06M57.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-12,22,3,Made,1,16,11,27,h,Ball 3' Driving Reverse Layup (5 PTS),Made Shot,Driving Reverse Layup Shot,1,2,37
+0022300017,52,PT06M43.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,39
+0022300017,58,PT06M27.00S,1,1610612766,CHA,1630163,Ball,L. Ball,54,20,6,Missed,1,,,0,h,MISS Ball 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,42
+0022300017,68,PT05M21.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-13,13,2,Missed,1,,,0,h,MISS Ball 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,51
+0022300017,72,PT05M02.00S,1,1610612766,CHA,1630163,Ball,L. Ball,12,20,2,Made,1,21,15,36,h,Ball 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,54
+0022300017,85,PT05M02.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,22,16,38,h,Ball Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1,0,62
+0022300017,94,PT04M19.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Smith FOR Ball,Substitution,,0,0,69
+0022300017,125,PT01M59.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-20,36,4,Missed,1,,,0,h,MISS Ball 4' Layup,Missed Shot,Layup Shot,1,2,91
+0022300017,127,PT01M56.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,93
+0022300017,141,PT01M04.00S,1,1610612766,CHA,1630163,Ball,L. Ball,43,312,31,Missed,1,,,0,h,MISS Ball 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,104
+0022300017,153,PT00M00.50S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Step Out of Bounds Turnover (P1.T4),Turnover,Step Out of Bounds Turnover,1,0,114
+0022300017,160,PT11M10.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,120
+0022300017,162,PT11M01.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball STEAL (2 STL),,,1,0,123
+0022300017,164,PT10M51.00S,2,1610612766,CHA,1630163,Ball,L. Ball,96,165,19,Missed,1,,,0,h,MISS Ball 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,124
+0022300017,173,PT09M57.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,132
+0022300017,174,PT09M53.00S,2,1610612766,CHA,1630163,Ball,L. Ball,69,270,28,Missed,1,,,0,h,MISS Ball 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,133
+0022300017,178,PT09M29.00S,2,1610612766,CHA,1630163,Ball,L. Ball,12,27,3,Made,1,34,28,62,h,Ball 3' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,137
+0022300017,181,PT08M50.00S,2,1610612766,CHA,1630163,Ball,L. Ball,120,241,27,Missed,1,,,0,h,MISS Ball 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,140
+0022300017,192,PT08M28.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,147
+0022300017,195,PT08M05.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball S.FOUL (P1.T2) (M.Kallio),Foul,Shooting,1,0,149
+0022300017,198,PT08M05.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Black FOR Ball,Substitution,,0,0,151
+0022300017,244,PT05M18.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball STEAL (3 STL),,,1,0,186
+0022300017,246,PT05M12.00S,2,1610612766,CHA,1630163,Ball,L. Ball,186,209,28,Missed,1,,,0,h,MISS Ball 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,187
+0022300017,263,PT03M16.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Lost Ball Turnover (P3.T8),Turnover,Lost Ball,1,0,202
+0022300017,267,PT03M04.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball OFF.Foul (P2) (D.Taylor),Foul,Offensive,1,0,205
+0022300017,269,PT03M04.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Offensive Foul Turnover (P4.T9),Turnover,Offensive Foul Turnover,1,0,206
+0022300017,282,PT02M03.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: McGowens FOR Ball,Substitution,,0,0,213
+0022300017,322,PT11M41.00S,3,1610612766,CHA,1630163,Ball,L. Ball,156,310,35,Made,1,51,57,108,h,Ball 35' 3PT Jump Shot (13 PTS),Made Shot,Jump Shot,1,3,236
+0022300017,364,PT07M12.00S,3,1610612766,CHA,1630163,Ball,L. Ball,44,75,9,Missed,1,,,0,h,MISS Ball 9' Layup,Missed Shot,Layup Shot,1,2,270
+0022300017,371,PT06M49.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,276
+0022300017,372,PT06M45.00S,3,1610612766,CHA,1630163,Ball,L. Ball,185,185,26,Made,1,64,72,136,h,Ball 26' 3PT Jump Shot (16 PTS),Made Shot,Jump Shot,1,3,277
+0022300017,388,PT05M55.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Smith FOR Ball,Substitution,,0,0,290
+0022300017,437,PT02M54.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-40,66,8,Missed,1,,,0,h,MISS Ball 8' Layup,Missed Shot,Layup Shot,1,2,321
+0022300017,442,PT02M54.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,73,80,153,h,Ball Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,1,0,324
+0022300017,457,PT01M30.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Lost Ball Turnover (P5.T15),Turnover,Lost Ball,1,0,337
+0022300017,486,PT00M03.60S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,79,87,166,h,Ball Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,355
+0022300017,487,PT00M03.60S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,80,87,167,h,Ball Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,356
+0022300017,496,PT11M14.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-232,15,0,Made,1,83,87,170,h,Ball 3PT Step Back Jump Shot (22 PTS),Made Shot,Step Back Jump shot,1,3,362
+0022300017,497,PT11M08.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball P.FOUL (P3.T1) (Z.Zarba),Foul,Personal,1,0,363
+0022300017,501,PT10M52.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Bad Pass Turnover (P6.T16),Turnover,Bad Pass,1,0,365
+0022300017,506,PT10M36.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-6,48,5,Missed,1,,,0,h,MISS Ball 5' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,369
+0022300017,521,PT09M41.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Lost Ball Turnover (P7.T17),Turnover,Lost Ball,1,0,381
+0022300017,526,PT09M21.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-77,285,30,Missed,1,,,0,h,MISS Ball 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,386
+0022300017,530,PT09M12.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball P.FOUL (P4.T2) (D.Taylor),Foul,Personal,1,0,390
+0022300017,534,PT08M59.00S,4,1610612766,CHA,1630163,Ball,L. Ball,13,11,2,Made,1,85,95,180,h,Ball 2' Running Layup (24 PTS),Made Shot,Running Layup Shot,1,2,393
+0022300017,551,PT06M51.00S,4,1610612766,CHA,1630163,Ball,L. Ball,16,110,11,Missed,1,,,0,h,MISS Ball 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,407
+0022300017,563,PT05M27.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-33,-2,3,Missed,1,,,0,h,MISS Ball 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,415
+0022300017,571,PT04M13.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-185,201,27,Missed,1,,,0,h,MISS Ball 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,421
+0022300017,613,PT02M56.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Bad Pass Turnover (P8.T18),Turnover,Bad Pass,1,0,431
+0022300017,607,PT01M05.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-28,14,3,Made,1,103,108,211,h,Ball 3' Driving Reverse Layup (26 PTS),Made Shot,Driving Reverse Layup Shot,1,2,452
+0022300017,617,PT00M42.30S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,104,109,213,h,Ball Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,1,0,458
+0022300017,618,PT00M42.30S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,105,109,214,h,Ball Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,1,0,459
+0022300017,621,PT00M13.50S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Personal Take Foul (P5.PN) (M.Kallio),Foul,Personal Take,1,0,462
+0022300027,12,PT10M59.00S,1,1610612766,CHA,1630163,Ball,L. Ball,13,6,1,Made,1,5,5,10,h,Ball 1' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,1,2,6
+0022300027,16,PT10M39.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-82,319,33,Made,1,8,5,13,h,Ball 33' 3PT Jump Shot (5 PTS) (Washington 1 AST),Made Shot,Jump Shot,1,3,9
+0022300027,20,PT10M18.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-65,255,26,Missed,1,,,0,h,MISS Ball 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,12
+0022300027,35,PT09M08.00S,1,1610612766,CHA,1630163,Ball,L. Ball,1,92,9,Made,1,12,9,21,h,Ball 9' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,1,2,25
+0022300027,39,PT08M45.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-7,31,3,Missed,1,,,0,h,MISS Ball 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,29
+0022300027,56,PT08M03.00S,1,1610612766,CHA,1630163,Ball,L. Ball,22,79,8,Missed,1,,,0,h,MISS Ball 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,42
+0022300027,61,PT07M37.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-170,242,30,Missed,1,,,0,h,MISS Ball 30' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,47
+0022300027,77,PT06M44.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,57
+0022300027,81,PT06M42.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,16,14,30,h,Ball Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,60
+0022300027,82,PT06M42.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,17,14,31,h,Ball Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,61
+0022300027,95,PT05M29.00S,1,1610612766,CHA,1630163,Ball,L. Ball,1,92,9,Made,1,19,19,38,h,Ball 9' Floating Jump Shot (11 PTS),Made Shot,Floating Jump shot,1,2,74
+0022300027,99,PT04M53.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,78
+0022300027,100,PT04M53.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,79
+0022300027,101,PT04M53.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: McGowens FOR Ball,Substitution,,0,0,80
+0022300027,144,PT02M02.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,30,26,56,h,Ball Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,108
+0022300027,145,PT02M02.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,31,26,57,h,Ball Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,109
+0022300027,158,PT00M10.90S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Out of Bounds - Bad Pass Turnover Turnover (P2.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,119
+0022300027,173,PT11M14.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-210,184,28,Missed,1,,,0,h,MISS Ball 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,128
+0022300027,176,PT11M00.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,131
+0022300027,184,PT10M06.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,138
+0022300027,195,PT09M38.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball STEAL (1 STL),,,1,0,146
+0022300027,197,PT09M34.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Bad Pass Turnover (P3.T3),Turnover,Bad Pass,1,0,147
+0022300027,215,PT08M01.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-120,234,26,Missed,1,,,0,h,MISS Ball 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,161
+0022300027,220,PT07M46.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Hayward FOR Ball,Substitution,,0,0,165
+0022300027,293,PT01M11.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-16,96,10,Missed,1,,,0,h,MISS Ball 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,217
+0022300027,297,PT00M47.70S,2,1610612766,CHA,1630163,Ball,L. Ball,33,59,7,Made,1,54,55,109,h,Ball 7' Driving Floating Bank Jump Shot (15 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,220
+0022300027,300,PT00M27.90S,2,1610612766,CHA,1630163,Ball,L. Ball,11,72,7,Made,1,56,57,113,h,Ball 7' Driving Floating Jump Shot (17 PTS),Made Shot,Driving Floating Jump Shot,1,2,222
+0022300027,305,PT00M00.90S,2,1610612766,CHA,1630163,Ball,L. Ball,-34,3,3,Missed,1,,,0,h,MISS Ball 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,226
+0022300027,311,PT00M00.90S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,57,59,116,h,Ball Free Throw Technical (18 PTS),Free Throw,Free Throw Technical,1,0,230
+0022300027,355,PT09M16.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Traveling Turnover (P4.T6),Turnover,Traveling,1,0,261
+0022300027,358,PT08M54.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-33,131,14,Missed,1,,,0,h,MISS Ball 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,263
+0022300027,362,PT08M45.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-229,78,24,Made,1,64,66,130,h,Ball 24' 3PT Jump Shot (21 PTS) (Williams 2 AST),Made Shot,Jump Shot,1,3,267
+0022300027,366,PT08M19.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-183,200,27,Missed,1,,,0,h,MISS Ball 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,270
+0022300027,368,PT08M12.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-227,10,0,Missed,1,,,0,h,MISS Ball 3PT Jump Shot,Missed Shot,Jump Shot,1,3,272
+0022300027,372,PT07M39.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,65,68,133,h,Ball Free Throw Technical (22 PTS),Free Throw,Free Throw Technical,1,0,276
+0022300027,373,PT07M35.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball OFF.Foul (P1) (S.Wall),Foul,Offensive,1,0,277
+0022300027,375,PT07M35.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Offensive Foul Turnover (P5.T7),Turnover,Offensive Foul Turnover,1,0,278
+0022300027,389,PT06M31.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-20,15,3,Made,1,67,76,143,h,Ball 3' Driving Finger Roll Layup (24 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,288
+0022300027,392,PT06M02.00S,3,1610612766,CHA,1630163,Ball,L. Ball,31,20,4,Missed,1,,,0,h,MISS Ball 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,290
+0022300027,402,PT05M18.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Smith FOR Ball,Substitution,,0,0,298
+0022300027,436,PT03M06.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,323
+0022300027,437,PT03M00.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-26,29,4,Made,1,75,84,159,h,Ball 4' Driving Floating Bank Jump Shot (26 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,324
+0022300027,441,PT02M25.00S,3,1610612766,CHA,1630163,Ball,L. Ball,44,13,5,Made,1,77,87,164,h,Ball 5' Driving Layup (28 PTS),Made Shot,Driving Layup Shot,1,2,327
+0022300027,464,PT00M05.50S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,80,92,172,h,Ball Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,1,0,342
+0022300027,465,PT00M05.50S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,81,92,173,h,Ball Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,1,0,343
+0022300027,489,PT10M51.00S,4,1610612766,CHA,1630163,Ball,L. Ball,170,228,28,Missed,1,,,0,h,MISS Ball 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,357
+0022300027,498,PT10M17.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-74,39,8,Missed,1,,,0,h,MISS Ball 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,365
+0022300027,503,PT09M58.00S,4,1610612766,CHA,1630163,Ball,L. Ball,27,20,3,Missed,1,,,0,h,MISS Ball 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,370
+0022300027,508,PT09M31.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Bad Pass Turnover (P6.T9),Turnover,Bad Pass,1,0,374
+0022300027,520,PT07M58.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,89,101,190,h,Ball Free Throw 1 of 2 (31 PTS),Free Throw,Free Throw 1 of 2,1,0,384
+0022300027,529,PT07M58.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,90,101,191,h,Ball Free Throw 2 of 2 (32 PTS),Free Throw,Free Throw 2 of 2,1,0,389
+0022300027,533,PT07M26.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,91,104,195,h,Ball Free Throw 1 of 2 (33 PTS),Free Throw,Free Throw 1 of 2,1,0,392
+0022300027,534,PT07M26.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,MISS Ball Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,393
+0022300027,538,PT06M59.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-38,80,9,Made,1,93,104,197,h,Ball 9' Running Jump Shot (35 PTS),Made Shot,Running Jump Shot,1,2,397
+0022300027,563,PT04M44.00S,4,1610612766,CHA,1630163,Ball,L. Ball,10,25,3,Made,1,95,113,208,h,Ball 3' Driving Floating Jump Shot (37 PTS) (Miller 3 AST),Made Shot,Driving Floating Jump Shot,1,2,417
+0022300027,578,PT03M56.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-42,79,9,Missed,1,,,0,h,MISS Ball 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,427
+0022300027,580,PT03M56.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball L.B.FOUL (P2.T2) (S.Wall),Foul,Loose Ball,1,0,429
+0022300027,585,PT03M36.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Smith FOR Ball,Substitution,,0,0,432
+0022300063,7,PT11M47.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-50,125,13,Missed,1,,,0,h,MISS Ball 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,3
+0022300063,11,PT11M29.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,6
+0022300063,13,PT11M12.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+0022300063,35,PT08M53.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-130,269,30,Missed,1,,,0,h,MISS Ball 30' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,25
+0022300063,38,PT08M46.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball S.FOUL (P1.T1) (E.Malloy),Foul,Shooting,1,0,28
+0022300063,76,PT06M20.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Miller FOR Ball,Substitution,,0,0,57
+0022300063,127,PT02M39.00S,1,1610612766,CHA,1630163,Ball,L. Ball,105,20,11,Missed,1,,,0,h,MISS Ball 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,92
+0022300063,135,PT02M17.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,MISS Ball Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,98
+0022300063,139,PT02M17.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,21,22,43,h,Ball Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,101
+0022300063,191,PT01M44.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball STEAL (1 STL),,,1,0,106
+0022300063,154,PT00M53.50S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,113
+0022300063,157,PT00M31.60S,1,1610612766,CHA,1630163,Ball,L. Ball,9,32,3,Missed,1,,,0,h,MISS Ball 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,116
+0022300063,173,PT11M22.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-15,31,3,Missed,1,,,0,h,MISS Ball 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,126
+0022300063,196,PT10M10.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-225,54,0,Missed,1,,,0,h,MISS Ball 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,3,141
+0022300063,206,PT09M30.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,149
+0022300063,209,PT09M27.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,26,35,61,h,Ball Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,151
+0022300063,210,PT09M27.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,27,35,62,h,Ball Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,152
+0022300063,215,PT08M48.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,156
+0022300063,225,PT07M37.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-176,241,30,Missed,1,,,0,h,MISS Ball 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,162
+0022300063,232,PT07M31.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Thor FOR Ball,Substitution,,0,0,168
+0022300063,303,PT03M21.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,220
+0022300063,316,PT02M33.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball S.FOUL (P2.PN) (A.Smith),Foul,Shooting,1,0,231
+0022300063,320,PT02M23.00S,2,1610612766,CHA,1630163,Ball,L. Ball,138,249,28,Missed,1,,,0,h,MISS Ball 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,234
+0022300063,323,PT02M22.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Maledon FOR Ball,Substitution,,0,0,236
+0022300063,379,PT11M21.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-10,262,26,Missed,1,,,0,h,MISS Ball 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,276
+0022300063,389,PT10M21.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Out of Bounds Lost Ball Turnover (P3.T13),Turnover,Out of Bounds Lost Ball Turnover,1,0,285
+0022300063,392,PT09M55.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-4,287,29,Made,1,54,56,110,h,Ball 29' 3PT Jump Shot (6 PTS) (Washington 2 AST),Made Shot,Jump Shot,1,3,288
+0022300063,398,PT09M26.00S,3,1610612766,CHA,1630163,Ball,L. Ball,44,285,29,Made,1,57,58,115,h,Ball 29' 3PT Jump Shot (9 PTS) (Hayward 5 AST),Made Shot,Jump Shot,1,3,291
+0022300063,406,PT08M30.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,296
+0022300063,424,PT06M34.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,312
+0022300063,427,PT06M21.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-167,247,30,Missed,1,,,0,h,MISS Ball 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,315
+0022300063,430,PT05M58.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball S.FOUL (P3.T1) (A.Smith),Foul,Shooting,1,0,318
+0022300063,433,PT05M58.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Miller FOR Ball,Substitution,,0,0,320
+0022300063,504,PT01M44.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-238,69,25,Made,1,76,69,145,h,Ball 25' 3PT Jump Shot (12 PTS) (Maledon 3 AST),Made Shot,Jump Shot,1,3,373
+0022300063,541,PT10M43.00S,4,1610612766,CHA,1630163,Ball,L. Ball,180,243,30,Missed,1,,,0,h,MISS Ball 30' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,397
+0022300063,556,PT10M17.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-126,225,26,Made,1,85,79,164,h,Ball 26' 3PT Jump Shot (15 PTS) (Thor 1 AST),Made Shot,Jump Shot,1,3,407
+0022300063,571,PT09M07.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Hayward FOR Ball,Substitution,,0,0,417
+0022300077,10,PT11M28.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball STEAL (1 STL),,,1,0,7
+0022300077,64,PT07M11.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball BLOCK (1 BLK),,,1,2,45
+0022300077,68,PT06M51.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-2,36,4,Missed,1,,,0,h,MISS Ball 4' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,48
+0022300077,69,PT06M45.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,49
+0022300077,70,PT06M45.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,Missed,1,,,0,h,MISS Ball Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,50
+0022300077,81,PT06M15.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Miller FOR Ball,Substitution,,0,0,59
+0022300077,126,PT02M48.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-17,-1,2,Made,1,14,22,36,h,Ball 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,92
+0022300077,128,PT02M30.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,94
+0022300077,135,PT01M58.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-233,-2,0,Made,1,19,26,45,h,Ball 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,3,99
+0022300077,139,PT01M34.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,20,26,46,h,Ball Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,102
+0022300077,140,PT01M34.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,21,26,47,h,Ball Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,103
+0022300077,142,PT01M18.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,105
+0022300077,143,PT01M10.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-213,129,25,Missed,1,,,0,h,MISS Ball 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,106
+0022300077,145,PT01M08.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Step Out of Bounds Turnover (P1.T4),Turnover,Step Out of Bounds Turnover,1,0,108
+0022300077,155,PT00M37.70S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Lost Ball Turnover (P2.T5),Turnover,Lost Ball,1,0,117
+0022300077,216,PT09M11.00S,2,1610612766,CHA,1630163,Ball,L. Ball,151,237,28,Missed,1,,,0,h,MISS Ball 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,162
+0022300077,223,PT08M46.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-11,13,2,Made,1,27,36,63,h,Ball 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,167
+0022300077,225,PT08M31.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,169
+0022300077,229,PT08M10.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Thor FOR Ball,Substitution,,0,0,173
+0022300077,294,PT03M54.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,223
+0022300077,302,PT03M15.00S,2,1610612766,CHA,1630163,Ball,L. Ball,213,136,25,Made,1,38,47,85,h,Ball 25' 3PT Step Back Jump Shot (12 PTS) (Williams 1 AST),Made Shot,Step Back Jump shot,1,3,228
+0022300077,322,PT02M10.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,-7,1,Missed,1,,,0,h,MISS Ball 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,240
+0022300077,338,PT01M38.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,42,52,94,h,Ball Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,251
+0022300077,341,PT01M38.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,43,52,95,h,Ball Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,253
+0022300077,347,PT00M55.50S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,257
+0022300077,353,PT00M27.70S,2,1610612766,CHA,1630163,Ball,L. Ball,-183,190,26,Missed,1,,,0,h,MISS Ball 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,262
+0022300077,429,PT08M20.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball S.FOUL (P1.T2) (J.Schroeder),Foul,Shooting,1,0,313
+0022300077,448,PT06M58.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,325
+0022300077,455,PT06M29.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Miller FOR Ball,Substitution,,0,0,332
+0022300077,530,PT01M52.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,70,75,145,h,Ball Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,390
+0022300077,531,PT01M52.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,71,75,146,h,Ball Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,391
+0022300077,536,PT01M28.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-88,264,28,Missed,1,,,0,h,MISS Ball 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,395
+0022300077,547,PT00M16.40S,3,1610612766,CHA,1630163,Ball,L. Ball,-6,17,2,Missed,1,,,0,h,MISS Ball 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,403
+0022300077,553,PT00M03.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,73,83,156,h,Ball Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,407
+0022300077,554,PT00M03.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,MISS Ball Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,408
+0022300077,555,PT00M02.20S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,409
+0022300077,558,PT00M02.20S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,74,83,157,h,Ball Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,411
+0022300077,559,PT00M02.20S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,75,83,158,h,Ball Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,412
+0022300077,573,PT11M47.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,76,83,159,h,Ball Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,418
+0022300077,574,PT11M47.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,MISS Ball Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,419
+0022300077,577,PT11M13.00S,4,1610612766,CHA,1630163,Ball,L. Ball,2,86,9,Missed,1,,,0,h,MISS Ball 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,422
+0022300077,578,PT11M13.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,423
+0022300077,620,PT11M13.00S,4,1610612766,CHA,1630163,Ball,L. Ball,2,36,4,Missed,1,,,0,h,MISS Ball 4' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,424
+0022300077,598,PT09M54.00S,4,1610612766,CHA,1630163,Ball,L. Ball,22,33,4,Missed,1,,,0,h,MISS Ball 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,439
+0022300077,602,PT09M52.00S,4,1610612766,CHA,1630163,Ball,L. Ball,7,267,27,Missed,1,,,0,h,MISS Ball 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,442
+0022300077,632,PT08M13.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Hayward FOR Ball,Substitution,,0,0,464
+0022300077,695,PT03M40.00S,4,1610612766,CHA,1630163,Ball,L. Ball,1,1,0,Missed,1,,,0,h,MISS Ball Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,511
+0022300077,703,PT03M26.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Step Out of Bounds Turnover (P3.T17),Turnover,Step Out of Bounds Turnover,1,0,517
+0022300077,728,PT01M47.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball STEAL (2 STL),,,1,0,536
+0022300077,744,PT01M05.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Bad Pass Turnover (P4.T18),Turnover,Bad Pass,1,0,547
+0022300101,10,PT11M25.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-105,289,31,Missed,1,,,0,h,MISS Ball 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,6
+0022300101,29,PT09M40.00S,1,1610612766,CHA,1630163,Ball,L. Ball,76,299,31,Missed,1,,,0,h,MISS Ball 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,20
+0022300101,43,PT08M11.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Traveling Turnover (P1.T1),Turnover,Traveling,1,0,30
+0022300101,44,PT08M01.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball STEAL (1 STL),,,1,0,32
+0022300101,47,PT07M47.00S,1,1610612766,CHA,1630163,Ball,L. Ball,23,17,3,Missed,1,,,0,h,MISS Ball 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,33
+0022300101,55,PT07M02.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-2,292,29,Missed,1,,,0,h,MISS Ball 29' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,39
+0022300101,58,PT06M37.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,43
+0022300101,67,PT06M14.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-6,20,2,Made,1,14,23,37,h,Ball 2' Driving Finger Roll Layup (2 PTS) (Rozier 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,49
+0022300101,71,PT05M45.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-228,5,0,Missed,1,,,0,h,MISS Ball 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,3,52
+0022300101,90,PT03M49.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Richards FOR Ball,Substitution,,0,0,68
+0022300101,139,PT01M03.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-40,77,9,Missed,1,,,0,h,MISS Ball 9' Driving Layup,Missed Shot,Driving Layup Shot,1,2,102
+0022300101,172,PT11M36.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,121
+0022300101,173,PT11M34.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball OFF.Foul (P1) (G.Petraitis),Foul,Offensive,1,0,122
+0022300101,175,PT11M34.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Offensive Foul Turnover (P2.T3),Turnover,Offensive Foul Turnover,1,0,123
+0022300101,183,PT10M52.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball S.FOUL (P2.T1) (C.Washington),Foul,Shooting,1,0,130
+0022300101,188,PT10M37.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-32,-1,3,Missed,1,,,0,h,MISS Ball 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,134
+0022300101,206,PT09M28.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Rozier FOR Ball,Substitution,,0,0,147
+0022300101,346,PT11M34.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Lost Ball Turnover (P3.T6),Turnover,Lost Ball,1,0,251
+0022300101,360,PT10M17.00S,3,1610612766,CHA,1630163,Ball,L. Ball,25,20,3,Made,1,59,70,129,h,Ball 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,264
+0022300101,361,PT09M58.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball S.FOUL (P3.T1) (G.Petraitis),Foul,Shooting,1,0,265
+0022300101,374,PT09M07.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball P.FOUL (P4.T2) (C.Washington),Foul,Personal,1,0,275
+0022300101,376,PT09M07.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Miller FOR Ball,Substitution,,0,0,276
+0022300101,503,PT11M35.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,371
+0022300101,504,PT11M26.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-176,210,27,Missed,1,,,0,h,MISS Ball 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,372
+0022300101,602,PT10M27.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball STEAL (2 STL),,,0,0,393
+0022300101,631,PT10M22.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,86,102,188,h,Ball Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,395
+0022300101,632,PT10M22.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,87,102,189,h,Ball Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,396
+0022300101,520,PT09M53.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-152,286,32,Missed,1,,,0,h,MISS Ball 32' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,399
+0022300101,524,PT09M19.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball P.FOUL (P5.T1) (G.Petraitis),Foul,Personal,1,0,402
+0022300101,531,PT08M47.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Rozier FOR Ball,Substitution,,0,0,405
+0022300101,601,PT04M09.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-11,16,2,Made,1,106,118,224,h,Ball 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,448
+0022300101,626,PT02M49.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball P.FOUL (P6.PN) (C.Washington),Foul,Personal,1,0,462
+0022300101,628,PT02M49.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Maledon FOR Ball,Substitution,,0,0,465
+0022300122,9,PT11M25.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-12,4,1,Made,1,0,2,2,v,Ball 1' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,5
+0022300122,27,PT09M07.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball L.B.FOUL (P1.T1) (J.Goldenberg),Foul,Loose Ball,1,0,18
+0022300122,57,PT05M59.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Miller FOR Ball,Substitution,,0,0,41
+0022300122,128,PT00M49.60S,1,1610612766,CHA,1630163,Ball,L. Ball,-104,247,27,Missed,1,,,0,v,MISS Ball 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,93
+0022300122,163,PT11M10.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball STEAL (1 STL),,,1,0,117
+0022300122,173,PT10M29.00S,2,1610612766,CHA,1630163,Ball,L. Ball,28,179,18,Missed,1,,,0,v,MISS Ball 18' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,123
+0022300122,175,PT10M21.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball P.FOUL (P2.T2) (M.Kogut),Foul,Personal,1,0,125
+0022300122,187,PT09M22.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-40,113,12,Made,1,43,33,76,v,Ball 12' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,1,2,133
+0022300122,206,PT08M10.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Hayward FOR Ball,Substitution,,0,0,147
+0022300122,337,PT11M43.00S,3,1610612766,CHA,1630163,Ball,L. Ball,1,298,30,Missed,1,,,0,v,MISS Ball 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,245
+0022300122,375,PT07M51.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball OFF.Foul (P3) (J.Goldenberg),Foul,Offensive,1,0,272
+0022300122,377,PT07M51.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Offensive Foul Turnover (P1.T13),Turnover,Offensive Foul Turnover,1,0,273
+0022300122,394,PT06M12.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,80,70,150,v,Ball Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,286
+0022300122,401,PT06M12.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,,"Double Technical - Ball, Brooks (M.Kogut)",Foul,Double Technical,0,0,290
+0022300122,403,PT06M12.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,80,71,151,v,Ball Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,291
+0022300122,406,PT05M42.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Bad Pass Turnover (P2.T14),Turnover,Bad Pass,1,0,294
+0022300122,410,PT05M14.00S,3,1610612766,CHA,1630163,Ball,L. Ball,96,34,10,Missed,1,,,0,v,MISS Ball 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,297
+0022300122,418,PT04M56.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Miller FOR Ball,Substitution,,0,0,305
+0022300122,461,PT02M37.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-223,38,0,Missed,1,,,0,v,MISS Ball 3PT Jump Shot,Missed Shot,Jump Shot,1,3,337
+0022300122,464,PT02M19.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Traveling Turnover (P3.T16),Turnover,Traveling,1,0,340
+0022300122,496,PT00M00.80S,3,1610612766,CHA,1630163,Ball,L. Ball,-192,192,27,Missed,1,,,0,v,MISS Ball 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,366
+0022300122,528,PT10M31.00S,4,1610612766,CHA,1630163,Ball,L. Ball,28,21,4,Missed,1,,,0,v,MISS Ball 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,386
+0022300122,577,PT06M14.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-18,11,2,Made,1,106,94,200,v,Ball 2' Driving Reverse Layup (8 PTS),Made Shot,Driving Reverse Layup Shot,1,2,423
+0022300122,590,PT04M55.00S,4,1610612766,CHA,1630163,Ball,L. Ball,36,9,4,Missed,1,,,0,v,MISS Ball 4' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,2,434
+0022300122,599,PT04M47.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-94,243,26,Made,1,108,100,208,v,Ball 26' 3PT Jump Shot (11 PTS) (Hayward 4 AST),Made Shot,Jump Shot,1,3,441
+0022300122,612,PT03M53.00S,4,1610612766,CHA,1630163,Ball,L. Ball,2,279,28,Made,1,112,105,217,v,Ball 28' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,3,449
+0022300122,615,PT03M23.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-56,16,6,Made,1,115,107,222,v,Ball 6' Driving Floating Jump Shot (16 PTS),Made Shot,Driving Floating Jump Shot,1,2,451
+0022300122,640,PT01M35.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,120,113,233,v,Ball Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,469
+0022300122,643,PT01M35.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,MISS Ball Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,471
+0022300122,648,PT01M04.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,475
+0022300122,667,PT00M21.80S,4,1610612766,CHA,1630163,Ball,L. Ball,11,-2,1,Made,1,126,117,243,v,Ball 1' Driving Layup (19 PTS),Made Shot,Driving Layup Shot,1,2,486
+0022300122,668,PT00M15.80S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball P.FOUL (P4.PN) (M.Kogut),Foul,Personal,1,0,487
+0022300133,18,PT10M27.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-45,184,19,Missed,1,,,0,v,MISS Ball 19' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,12
+0022300133,46,PT08M34.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-45,52,7,Missed,1,,,0,v,MISS Ball 7' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,34
+0022300133,51,PT08M15.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-206,154,26,Made,1,10,7,17,v,Ball 26' 3PT Jump Shot (3 PTS) (Washington 1 AST),Made Shot,Jump Shot,1,3,37
+0022300133,75,PT06M04.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Thor FOR Ball,Substitution,,0,0,56
+0022300133,139,PT02M02.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,1,0,101
+0022300133,141,PT01M50.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,103
+0022300133,142,PT01M45.00S,1,1610612766,CHA,1630163,Ball,L. Ball,38,26,5,Missed,1,,,0,v,MISS Ball 5' Running Layup,Missed Shot,Running Layup Shot,1,2,104
+0022300133,179,PT11M20.00S,2,1610612766,CHA,1630163,Ball,L. Ball,140,233,27,Missed,1,,,0,v,MISS Ball 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,131
+0022300133,200,PT09M52.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball P.FOUL (P1.T2) (R.Acosta),Foul,Personal,1,0,145
+0022300133,223,PT08M06.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,165
+0022300133,229,PT08M02.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Rozier FOR Ball,Substitution,,0,0,170
+0022300133,315,PT02M26.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0,235
+0022300133,325,PT01M41.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-50,59,8,Made,1,41,54,95,v,Ball 8' Fadeaway Bank Shot (5 PTS),Made Shot,Fadeaway Bank shot,1,2,243
+0022300133,341,PT00M50.30S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Lost Ball Turnover (P4.T9),Turnover,Lost Ball,1,0,255
+0022300133,344,PT00M25.10S,2,1610612766,CHA,1630163,Ball,L. Ball,70,270,28,Missed,1,,,0,v,MISS Ball 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,258
+0022300133,358,PT11M38.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-42,17,5,Missed,1,,,0,v,MISS Ball 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,264
+0022300133,359,PT11M33.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,265
+0022300133,360,PT11M33.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,Missed,1,,,0,v,MISS Ball Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,266
+0022300133,373,PT10M07.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Out of Bounds Lost Ball Turnover (P5.T10),Turnover,Out of Bounds Lost Ball Turnover,1,0,276
+0022300133,380,PT09M34.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball P.FOUL (P2.T1) (C.Kirkland),Foul,Personal,1,0,281
+0022300133,382,PT09M26.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball S.FOUL (P3.T2) (R.Acosta),Foul,Shooting,1,0,282
+0022300133,394,PT08M49.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Traveling Turnover (P6.T11),Turnover,Traveling,1,0,290
+0022300133,404,PT07M40.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball STEAL (1 STL),,,1,0,299
+0022300133,412,PT06M42.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball P.FOUL (P4.T4) (R.Acosta),Foul,Personal,1,0,303
+0022300133,414,PT06M42.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Miller FOR Ball,Substitution,,0,0,304
+0022300133,513,PT10M54.00S,4,1610612766,CHA,1630163,Ball,L. Ball,34,273,28,Made,1,99,95,194,v,Ball 28' 3PT Pullup Jump Shot (8 PTS) (Washington 4 AST),Made Shot,Pullup Jump shot,1,3,375
+0022300133,523,PT10M25.00S,4,1610612766,CHA,1630163,Ball,L. Ball,34,72,8,Made,1,100,97,197,v,Ball 8' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,1,2,382
+0022300133,530,PT09M24.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-233,27,0,Missed,1,,,0,v,MISS Ball 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,387
+0022300133,537,PT08M24.00S,4,1610612766,CHA,1630163,Ball,L. Ball,25,279,28,Missed,1,,,0,v,MISS Ball 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,392
+0022300133,546,PT07M59.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Hayward FOR Ball,Substitution,,0,0,400
+0022300133,589,PT05M24.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,110,118,228,v,Ball Free Throw Technical (11 PTS),Free Throw,Free Throw Technical,1,0,428
+0022300133,595,PT05M04.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-203,164,26,Missed,1,,,0,v,MISS Ball 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,432
+0022300133,628,PT01M52.00S,4,1610612766,CHA,1630163,Ball,L. Ball,21,21,3,Missed,1,,,0,v,MISS Ball 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,456
+0022300133,630,PT01M49.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball P.FOUL (P5.PN) (C.Kirkland),Foul,Personal,1,0,458
+0022300133,641,PT00M45.10S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball STEAL (2 STL),,,1,0,468
+0022300143,11,PT11M20.00S,1,1610612766,CHA,1630163,Ball,L. Ball,20,125,13,Missed,1,,,0,v,MISS Ball 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,6
+0022300143,26,PT09M45.00S,1,1610612766,CHA,1630163,Ball,L. Ball,60,65,9,Missed,1,,,0,v,MISS Ball 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,15
+0022300143,48,PT08M10.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,34
+0022300143,58,PT07M21.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,40
+0022300143,81,PT05M55.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball S.FOUL (P1.T2) (B.Kennedy),Foul,Shooting,1,0,58
+0022300143,86,PT05M55.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Thor FOR Ball,Substitution,,0,0,62
+0022300143,147,PT01M50.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-32,13,3,Missed,1,,,0,v,MISS Ball 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,105
+0022300143,162,PT00M27.10S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,118
+0022300143,197,PT09M23.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-175,8,18,Missed,1,,,0,v,MISS Ball 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,141
+0022300143,200,PT09M11.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,144
+0022300143,219,PT07M54.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Miller FOR Ball,Substitution,,0,0,158
+0022300143,307,PT03M06.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,217
+0022300143,326,PT02M32.00S,2,1610612766,CHA,1630163,Ball,L. Ball,11,7,1,Missed,1,,,0,v,MISS Ball 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,229
+0022300143,339,PT01M38.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-2,5,1,Made,1,45,60,105,v,Ball 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,239
+0022300143,372,PT11M10.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,261
+0022300143,373,PT11M01.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-229,22,0,Missed,1,,,0,v,MISS Ball 3PT Jump Shot,Missed Shot,Jump Shot,1,3,262
+0022300143,392,PT09M40.00S,3,1610612766,CHA,1630163,Ball,L. Ball,17,122,12,Missed,1,,,0,v,MISS Ball 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,276
+0022300143,409,PT07M48.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball BLOCK (1 BLK),,,1,2,291
+0022300143,417,PT07M21.00S,3,1610612766,CHA,1630163,Ball,L. Ball,12,263,26,Missed,1,,,0,v,MISS Ball 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,296
+0022300143,421,PT06M58.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball STEAL (1 STL),,,1,0,301
+0022300143,429,PT06M25.00S,3,1610612766,CHA,1630163,Ball,L. Ball,42,10,4,Made,1,63,73,136,v,Ball 4' Driving Layup (4 PTS) (Hayward 8 AST),Made Shot,Driving Layup Shot,1,2,305
+0022300143,433,PT06M25.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,63,74,137,v,Ball Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,307
+0022300143,435,PT05M45.00S,3,1610612766,CHA,1630163,Ball,L. Ball,200,147,25,Missed,1,,,0,v,MISS Ball 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,309
+0022300143,446,PT05M06.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Thor FOR Ball,Substitution,,0,0,318
+0022300143,496,PT02M56.00S,3,1610612766,CHA,1630163,Ball,L. Ball,143,109,18,Missed,1,,,0,v,MISS Ball 18' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,351
+0022300143,500,PT02M45.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,355
+0022300143,503,PT02M17.00S,3,1610612766,CHA,1630163,Ball,L. Ball,27,17,3,Made,1,75,81,156,v,Ball 3' Driving Floating Bank Jump Shot (7 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,357
+0022300143,506,PT01M49.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-58,251,26,Missed,1,,,0,v,MISS Ball 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,359
+0022300143,520,PT00M55.60S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,367
+0022300143,542,PT00M04.40S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,383
+0022300143,560,PT11M09.00S,4,1610612766,CHA,1630163,Ball,L. Ball,97,245,26,Made,1,86,89,175,v,Ball 26' 3PT Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,1,3,394
+0022300143,563,PT10M33.00S,4,1610612766,CHA,1630163,Ball,L. Ball,54,260,27,Made,1,88,92,180,v,Ball 27' 3PT Step Back Jump Shot (13 PTS),Made Shot,Step Back Jump shot,1,3,396
+0022300143,566,PT10M04.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-190,171,26,Missed,1,,,0,v,MISS Ball 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,398
+0022300143,575,PT09M44.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,405
+0022300143,594,PT08M52.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball S.FOUL (P2.T3) (J.Van Duyne),Foul,Shooting,1,0,421
+0022300143,604,PT08M13.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-9,13,2,Made,1,96,94,190,v,Ball 2' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,1,2,429
+0022300143,608,PT08M13.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,96,95,191,v,Ball Free Throw Technical (16 PTS),Free Throw,Free Throw Technical,1,0,432
+0022300143,609,PT08M13.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,96,96,192,v,Ball Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,1,0,433
+0022300143,611,PT07M54.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,435
+0022300143,612,PT07M49.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball OFF.Foul (P3) (J.Van Duyne),Foul,Offensive,1,0,436
+0022300143,614,PT07M49.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Offensive Foul Turnover (P3.T8),Turnover,Offensive Foul Turnover,1,0,437
+0022300143,635,PT06M14.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-173,187,25,Made,1,102,99,201,v,Ball 25' 3PT Jump Shot (20 PTS) (Washington 1 AST),Made Shot,Jump Shot,1,3,452
+0022300143,638,PT05M51.00S,4,1610612766,CHA,1630163,Ball,L. Ball,10,258,26,Made,1,102,102,204,v,Ball 26' 3PT Pullup Jump Shot (23 PTS),Made Shot,Pullup Jump shot,1,3,454
+0022300143,674,PT03M13.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-54,8,5,Made,1,110,108,218,v,Ball 5' Driving Layup (25 PTS),Made Shot,Driving Layup Shot,1,2,481
+0022300143,687,PT02M11.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,490
+0022300143,688,PT02M07.00S,4,1610612766,CHA,1630163,Ball,L. Ball,142,266,30,Made,1,115,112,227,v,Ball 30' 3PT Pullup Jump Shot (28 PTS),Made Shot,Pullup Jump shot,1,3,491
+0022300143,694,PT01M08.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball P.FOUL (P4.PN) (J.Orr),Foul,Personal,1,0,497
+0022300143,698,PT00M57.90S,4,1610612766,CHA,1630163,Ball,L. Ball,-17,8,2,Made,1,119,114,233,v,Ball 2' Driving Reverse Layup (30 PTS),Made Shot,Driving Reverse Layup Shot,1,2,500
+0022300143,713,PT00M08.30S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball AWAY.FROM.PLAY.FOUL (P5.PN) (J.Van Duyne),Foul,Away From Play,1,0,511
+0022300143,723,PT00M02.80S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Personal Take Foul (P6.PN) (B.Kennedy),Foul,Personal Take,1,0,518
+0022300143,725,PT00M02.80S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Thor FOR Ball,Substitution,,0,0,519
+0022300157,30,PT10M10.00S,1,1610612766,CHA,1630163,Ball,L. Ball,145,220,26,Missed,1,,,0,h,MISS Ball 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,21
+0022300157,36,PT09M10.00S,1,1610612766,CHA,1630163,Ball,L. Ball,10,9,1,Made,1,9,6,15,h,Ball 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,26
+0022300157,45,PT08M20.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,12,6,18,h,Ball Free Throw Technical (3 PTS),Free Throw,Free Throw Technical,1,0,34
+0022300157,64,PT07M11.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-23,11,3,Made,1,14,8,22,h,Ball 3' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,50
+0022300157,91,PT05M43.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,70
+0022300157,92,PT05M38.00S,1,1610612766,CHA,1630163,Ball,L. Ball,163,205,26,Missed,1,,,0,h,MISS Ball 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,71
+0022300157,94,PT05M31.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball STEAL (1 STL),,,1,0,74
+0022300157,100,PT04M37.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,77
+0022300157,106,PT04M10.00S,1,1610612766,CHA,1630163,Ball,L. Ball,39,99,11,Missed,1,,,0,h,MISS Ball 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,83
+0022300157,107,PT04M08.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,84
+0022300157,108,PT04M07.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-38,76,8,Made,1,19,17,36,h,Ball 8' Floating Jump Shot (7 PTS),Made Shot,Floating Jump shot,1,2,85
+0022300157,113,PT03M40.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: McGowens FOR Ball,Substitution,,0,0,89
+0022300157,159,PT00M32.60S,1,1610612766,CHA,1630163,Ball,L. Ball,-26,67,7,Made,1,26,22,48,h,Ball 7' Floating Jump Shot (9 PTS),Made Shot,Floating Jump shot,1,2,121
+0022300157,166,PT00M02.60S,1,1610612766,CHA,1630163,Ball,L. Ball,148,267,31,Made,1,29,24,53,h,Ball 31' 3PT Step Back Jump Shot (12 PTS),Made Shot,Step Back Jump shot,1,3,126
+0022300157,179,PT10M58.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Traveling Turnover (P2.T5),Turnover,Traveling,1,0,132
+0022300157,190,PT10M20.00S,2,1610612766,CHA,1630163,Ball,L. Ball,56,273,28,Missed,1,,,0,h,MISS Ball 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,138
+0022300157,214,PT08M13.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,159
+0022300157,217,PT08M10.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Thor FOR Ball,Substitution,,0,0,161
+0022300157,276,PT03M32.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-89,240,26,Missed,1,,,0,h,MISS Ball 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,202
+0022300157,290,PT02M46.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-18,6,2,Missed,1,,,0,h,MISS Ball 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,212
+0022300157,317,PT01M29.00S,2,1610612766,CHA,1630163,Ball,L. Ball,10,50,5,Made,1,42,60,102,h,Ball 5' Floating Jump Shot (14 PTS),Made Shot,Floating Jump shot,1,2,234
+0022300157,320,PT01M29.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,MISS Ball Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,236
+0022300157,324,PT01M00.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Out of Bounds - Bad Pass Turnover Turnover (P3.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,240
+0022300157,335,PT00M32.90S,2,1610612766,CHA,1630163,Ball,L. Ball,-138,236,27,Made,1,45,62,107,h,Ball 27' 3PT Step Back Jump Shot (17 PTS),Made Shot,Step Back Jump shot,1,3,248
+0022300157,368,PT11M05.00S,3,1610612766,CHA,1630163,Ball,L. Ball,4,46,5,Made,1,50,67,117,h,Ball 5' Driving Floating Jump Shot (19 PTS),Made Shot,Driving Floating Jump Shot,1,2,270
+0022300157,434,PT05M14.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-28,85,9,Made,1,69,79,148,h,Ball 9' Turnaround Fadeaway (21 PTS),Made Shot,Turnaround Fadeaway shot,1,2,321
+0022300157,440,PT04M58.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Thor FOR Ball,Substitution,,0,0,326
+0022300157,537,PT03M56.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-4,84,8,Missed,1,,,0,h,MISS Ball 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,337
+0022300157,539,PT03M55.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,339
+0022300157,458,PT03M54.00S,3,1610612766,CHA,1630163,Ball,L. Ball,11,74,7,Made,1,75,84,159,h,Ball 7' Floating Jump Shot (23 PTS),Made Shot,Floating Jump shot,1,2,340
+0022300157,476,PT02M59.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Bad Pass Turnover (P4.T11),Turnover,Bad Pass,0,0,354
+0022300157,477,PT02M59.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball P.FOUL (P1.PN) (S.Foster),Foul,Personal,0,0,356
+0022300157,490,PT02M19.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Bad Pass Turnover (P5.T13),Turnover,Bad Pass,1,0,365
+0022300157,492,PT02M12.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball P.FOUL (P2.PN) (J.Butler),Foul,Personal,1,0,367
+0022300157,498,PT01M57.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,78,96,174,h,Ball Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,371
+0022300157,501,PT01M57.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,79,96,175,h,Ball Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0,373
+0022300157,516,PT00M47.70S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball S.FOUL (P3.PN) (J.Butler),Foul,Shooting,1,0,384
+0022300157,520,PT00M32.50S,3,1610612766,CHA,1630163,Ball,L. Ball,-62,29,7,Made,1,81,101,182,h,Ball 7' Driving Layup (27 PTS),Made Shot,Driving Layup Shot,1,2,387
+0022300157,526,PT00M03.40S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,82,103,185,h,Ball Free Throw Technical (28 PTS),Free Throw,Free Throw Technical,1,0,391
+0022300157,567,PT10M00.00S,4,1610612766,CHA,1630163,Ball,L. Ball,131,257,29,Made,1,91,105,196,h,Ball 29' 3PT Jump Shot (31 PTS),Made Shot,Jump Shot,1,3,419
+0022300157,583,PT09M10.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Bad Pass Turnover (P6.T16),Turnover,Bad Pass,1,0,429
+0022300157,609,PT07M27.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-13,288,29,Missed,1,,,0,h,MISS Ball 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,449
+0022300157,619,PT06M59.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,98,122,220,h,Ball Free Throw 1 of 2 (32 PTS),Free Throw,Free Throw 1 of 2,1,0,457
+0022300157,620,PT06M59.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,MISS Ball Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,458
+0022300157,624,PT06M37.00S,4,1610612766,CHA,1630163,Ball,L. Ball,13,22,3,Made,1,100,124,224,h,Ball 3' Driving Layup (34 PTS),Made Shot,Driving Layup Shot,1,2,461
+0022300157,640,PT05M04.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-225,13,0,Missed,1,,,0,h,MISS Ball 3PT Jump Shot,Missed Shot,Jump Shot,1,3,474
+0022300157,654,PT04M07.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Smith Jr. FOR Ball,Substitution,,0,0,481
+0022300177,22,PT10M05.00S,1,1610612766,CHA,1630163,Ball,L. Ball,123,278,30,Made,1,7,3,10,v,Ball 30' 3PT Jump Shot (3 PTS) (Washington 1 AST),Made Shot,Jump Shot,1,3,15
+0022300177,37,PT07M49.00S,1,1610612766,CHA,1630163,Ball,L. Ball,10,12,2,Made,1,9,9,18,v,Ball 2' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,27
+0022300177,44,PT07M18.00S,1,1610612766,CHA,1630163,Ball,L. Ball,5,6,1,Made,1,11,11,22,v,Ball 1' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,32
+0022300177,65,PT05M49.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,48
+0022300177,68,PT05M42.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Maledon FOR Ball,Substitution,,0,0,49
+0022300177,117,PT02M34.00S,1,1610612766,CHA,1630163,Ball,L. Ball,206,148,25,Missed,1,,,0,v,MISS Ball 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,81
+0022300177,125,PT02M02.00S,1,1610612766,CHA,1630163,Ball,L. Ball,37,1,4,Missed,1,,,0,v,MISS Ball 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,85
+0022300177,138,PT01M31.00S,1,1610612766,CHA,1630163,Ball,L. Ball,22,294,29,Missed,1,,,0,v,MISS Ball 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,94
+0022300177,146,PT00M51.70S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,100
+0022300177,182,PT10M23.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-222,92,24,Made,1,38,32,70,v,Ball 24' 3PT Jump Shot (10 PTS) (Washington 3 AST),Made Shot,Jump Shot,1,3,127
+0022300177,194,PT09M34.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball BLOCK (1 BLK),,,1,2,136
+0022300177,202,PT09M21.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-15,-4,2,Made,1,38,34,72,v,Ball 2' Driving Reverse Layup (12 PTS),Made Shot,Driving Reverse Layup Shot,1,2,141
+0022300177,205,PT08M57.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-88,249,26,Made,1,41,37,78,v,Ball 26' 3PT Step Back Jump Shot (15 PTS),Made Shot,Step Back Jump shot,1,3,143
+0022300177,208,PT08M21.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-12,15,2,Made,1,43,39,82,v,Ball 2' Driving Floating Jump Shot (17 PTS),Made Shot,Driving Floating Jump Shot,1,2,145
+0022300177,215,PT07M36.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Williams FOR Ball,Substitution,,0,0,150
+0022300177,287,PT02M39.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Offensive Charge Foul (P1) (S.Wright),Foul,Offensive Charge,1,0,199
+0022300177,289,PT02M39.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,1,0,200
+0022300177,301,PT02M04.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,209
+0022300177,302,PT01M58.00S,2,1610612766,CHA,1630163,Ball,L. Ball,51,74,9,Missed,1,,,0,v,MISS Ball 9' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,210
+0022300177,305,PT01M47.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,213
+0022300177,306,PT01M42.00S,2,1610612766,CHA,1630163,Ball,L. Ball,15,11,2,Made,1,62,48,110,v,Ball 2' Driving Layup (19 PTS),Made Shot,Driving Layup Shot,1,2,214
+0022300177,312,PT00M59.40S,2,1610612766,CHA,1630163,Ball,L. Ball,65,-3,7,Made,1,64,50,114,v,Ball 7' Turnaround Jump Shot (21 PTS),Made Shot,Turnaround Jump Shot,1,2,219
+0022300177,315,PT00M43.40S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,222
+0022300177,381,PT07M13.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball STEAL (1 STL),,,1,0,270
+0022300177,385,PT07M05.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,273
+0022300177,386,PT07M05.00S,3,1610612766,CHA,1630163,Ball,L. Ball,1,14,1,Made,1,82,61,143,v,Ball 1' Tip Layup Shot (23 PTS),Made Shot,Tip Layup Shot,1,2,274
+0022300177,393,PT06M40.00S,3,1610612766,CHA,1630163,Ball,L. Ball,50,42,7,Missed,1,,,0,v,MISS Ball 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,280
+0022300177,394,PT06M35.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,281
+0022300177,395,PT06M35.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,Made,1,83,63,146,v,Ball Tip Layup Shot (25 PTS),Made Shot,Tip Layup Shot,1,2,282
+0022300177,408,PT05M36.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Smith FOR Ball,Substitution,,0,0,291
+0022300177,447,PT03M16.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,0,319
+0022300177,465,PT02M47.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,89,74,163,v,Ball Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,1,0,334
+0022300177,466,PT02M47.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,89,75,164,v,Ball Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,1,0,335
+0022300177,483,PT01M21.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-118,252,28,Missed,1,,,0,v,MISS Ball 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,347
+0022300177,491,PT00M59.60S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball S.FOUL (P2.PN) (J.Goldenberg),Foul,Shooting,0,0,353
+0022300177,506,PT00M00.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-207,150,26,Missed,1,,,0,v,MISS Ball 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,366
+0022300177,525,PT10M50.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-12,6,1,Made,1,102,81,183,v,Ball 1' Driving Layup (29 PTS),Made Shot,Driving Layup Shot,1,2,379
+0022300177,543,PT09M09.00S,4,1610612766,CHA,1630163,Ball,L. Ball,208,146,25,Made,1,106,86,192,v,Ball 25' 3PT Step Back Jump Shot (32 PTS),Made Shot,Step Back Jump shot,1,3,392
+0022300177,563,PT07M44.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Richards FOR Ball,Substitution,,0,0,405
+0022300202,13,PT10M49.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,8
+0022300202,31,PT09M08.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball P.FOUL (P1.T2) (K.Lane),Foul,Personal,1,0,21
+0022300202,35,PT08M43.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-121,269,29,Made,1,7,11,18,h,Ball 29' 3PT Pullup Jump Shot (3 PTS) (Washington 1 AST),Made Shot,Pullup Jump shot,1,3,24
+0022300202,37,PT08M22.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,26
+0022300202,38,PT08M19.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Bad Pass Turnover (P2.T2),Turnover,Bad Pass,1,0,27
+0022300202,64,PT06M31.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-228,69,24,Made,1,12,20,32,h,Ball 24' 3PT Jump Shot (6 PTS) (Williams 1 AST),Made Shot,Jump Shot,1,3,47
+0022300202,68,PT05M47.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-56,100,11,Made,1,14,22,36,h,Ball 11' Driving Floating Jump Shot (8 PTS) (Bridges 1 AST),Made Shot,Driving Floating Jump Shot,1,2,49
+0022300202,72,PT05M30.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-223,12,0,Missed,1,,,0,h,MISS Ball 3PT Jump Shot,Missed Shot,Jump Shot,1,3,52
+0022300202,80,PT04M25.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-223,18,0,Missed,1,,,0,h,MISS Ball 3PT Jump Shot,Missed Shot,Jump Shot,1,3,58
+0022300202,119,PT02M55.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Miller FOR Ball,Substitution,,0,0,84
+0022300202,170,PT11M33.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,122
+0022300202,177,PT10M59.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,20,30,50,h,Ball Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,128
+0022300202,178,PT10M59.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,21,30,51,h,Ball Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,129
+0022300202,193,PT09M42.00S,2,1610612766,CHA,1630163,Ball,L. Ball,7,31,3,Missed,1,,,0,h,MISS Ball 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,141
+0022300202,196,PT09M16.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-65,283,29,Missed,1,,,0,h,MISS Ball 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,144
+0022300202,204,PT08M28.00S,2,1610612766,CHA,1630163,Ball,L. Ball,4,31,3,Made,1,25,37,62,h,Ball 3' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,150
+0022300202,211,PT08M03.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Smith FOR Ball,Substitution,,0,0,156
+0022300202,306,PT01M58.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,222
+0022300202,327,PT00M42.30S,2,1610612766,CHA,1630163,Ball,L. Ball,-12,33,4,Made,1,50,56,106,h,Ball 4' Layup (14 PTS) (Hayward 2 AST),Made Shot,Layup Shot,1,2,237
+0022300202,335,PT00M01.20S,2,1610612766,CHA,1630163,Ball,L. Ball,1,80,8,Missed,1,,,0,h,MISS Ball 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,242
+0022300202,347,PT11M28.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball STEAL (1 STL),,,1,0,249
+0022300202,368,PT09M35.00S,3,1610612766,CHA,1630163,Ball,L. Ball,4,92,9,Missed,1,,,0,h,MISS Ball 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,265
+0022300202,373,PT09M18.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-168,192,26,Made,1,55,67,122,h,Ball 26' 3PT Running Jump Shot (17 PTS) (Miller 2 AST),Made Shot,Running Jump Shot,1,3,269
+0022300202,376,PT08M49.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,271
+0022300202,377,PT08M45.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-130,241,27,Made,1,58,67,125,h,Ball 27' 3PT Running Jump Shot (20 PTS) (Hayward 3 AST),Made Shot,Running Jump Shot,1,3,272
+0022300202,409,PT05M57.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Smith FOR Ball,Substitution,,0,0,298
+0022300202,488,PT10M55.00S,4,1610612766,CHA,1630163,Ball,L. Ball,225,26,0,Made,1,83,94,177,h,Ball 3PT Step Back Jump Shot (23 PTS),Made Shot,Step Back Jump shot,1,3,348
+0022300202,495,PT09M37.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-120,235,26,Made,1,88,94,182,h,Ball 26' 3PT Jump Shot (26 PTS) (Bridges 3 AST),Made Shot,Jump Shot,1,3,353
+0022300202,498,PT09M09.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-7,288,29,Missed,1,,,0,h,MISS Ball 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,355
+0022300202,500,PT09M03.00S,4,1610612766,CHA,1630163,Ball,L. Ball,4,6,1,Missed,1,,,0,h,MISS Ball 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,357
+0022300202,507,PT08M50.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,362
+0022300202,510,PT08M39.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Out of Bounds Lost Ball Turnover (P3.T10),Turnover,Out of Bounds Lost Ball Turnover,1,0,366
+0022300202,529,PT06M29.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball P.FOUL (P2.T3) (K.Lane),Foul,Personal,1,0,379
+0022300202,539,PT05M57.00S,4,1610612766,CHA,1630163,Ball,L. Ball,38,247,25,Missed,1,,,0,h,MISS Ball 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,385
+0022300202,559,PT04M24.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-28,35,4,Made,1,94,106,200,h,Ball 4' Turnaround Fadeaway (28 PTS),Made Shot,Turnaround Fadeaway shot,1,2,402
+0022300202,581,PT02M40.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-6,24,2,Missed,1,,,0,h,MISS Ball 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,413
+0022300202,592,PT01M39.00S,4,1610612766,CHA,1630163,Ball,L. Ball,224,31,0,Made,1,102,114,216,h,Ball 3PT Step Back Jump Shot (31 PTS),Made Shot,Step Back Jump shot,1,3,421
+0022300202,594,PT01M34.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball P.FOUL (P3.T4) (B.Schwab),Foul,Personal,1,0,422
+0022300202,612,PT01M00.00S,4,1610612766,CHA,1630163,Ball,L. Ball,103,232,25,Made,1,105,118,223,h,Ball 25' 3PT Pullup Jump Shot (34 PTS),Made Shot,Pullup Jump shot,1,3,435
+0022300217,19,PT10M36.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,15
+0022300217,79,PT10M36.00S,1,1610612766,CHA,1630163,Ball,L. Ball,2,9,1,Missed,1,,,0,h,MISS Ball 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,16
+0022300217,21,PT10M11.00S,1,1610612766,CHA,1630163,Ball,L. Ball,4,16,2,Made,1,2,5,7,h,Ball 2' Layup (2 PTS),Made Shot,Layup Shot,1,2,19
+0022300217,24,PT09M58.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-56,270,28,Made,1,5,5,10,h,Ball 28' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,3,22
+0022300217,26,PT09M44.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,24
+0022300217,27,PT09M36.00S,1,1610612766,CHA,1630163,Ball,L. Ball,129,258,29,Missed,1,,,0,h,MISS Ball 29' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,25
+0022300217,47,PT08M12.00S,1,1610612766,CHA,1630163,Ball,L. Ball,2,1,0,Made,1,11,7,18,h,Ball Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,41
+0022300217,62,PT06M34.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball S.FOUL (P1.T1) (M.Ervin),Foul,Shooting,1,0,54
+0022300217,76,PT06M07.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,64
+0022300217,85,PT05M37.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Smith FOR Ball,Substitution,,0,0,69
+0022300217,138,PT01M39.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,110
+0022300217,144,PT00M34.60S,1,1610612766,CHA,1630163,Ball,L. Ball,-47,95,11,Made,1,25,25,50,h,Ball 11' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,1,2,114
+0022300217,163,PT11M06.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,129
+0022300217,180,PT09M23.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball P.FOUL (P2.T2) (R.Hussey),Foul,Personal,1,0,143
+0022300217,188,PT08M29.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,147
+0022300217,192,PT08M10.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-200,222,30,Made,1,35,43,78,h,Ball 30' 3PT Jump Shot (12 PTS) (Bridges 3 AST),Made Shot,Jump Shot,1,3,151
+0022300217,195,PT07M38.00S,2,1610612766,CHA,1630163,Ball,L. Ball,31,268,27,Missed,1,,,0,h,MISS Ball 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,153
+0022300217,200,PT07M30.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Miller FOR Ball,Substitution,,0,0,158
+0022300217,269,PT03M28.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,205
+0022300217,272,PT03M20.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-87,254,27,Made,1,48,58,106,h,Ball 27' 3PT Pullup Jump Shot (15 PTS) (Williams 1 AST),Made Shot,Pullup Jump shot,1,3,207
+0022300217,275,PT02M57.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,209
+0022300217,281,PT02M40.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball BLOCK (1 BLK),,,1,2,214
+0022300217,287,PT02M21.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-15,22,3,Made,1,52,58,110,h,Ball 3' Jump Bank Shot (17 PTS),Made Shot,Jump Bank Shot,1,2,218
+0022300217,303,PT00M39.00S,2,1610612766,CHA,1630163,Ball,L. Ball,94,137,17,Missed,1,,,0,h,MISS Ball 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,230
+0022300217,309,PT00M31.20S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Smith FOR Ball,Substitution,,0,0,235
+0022300217,335,PT11M22.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball S.FOUL (P3.T1) (R.Mott),Foul,Shooting,1,0,252
+0022300217,342,PT11M01.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,258
+0022300217,347,PT10M18.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-5,17,2,Missed,1,,,0,h,MISS Ball 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,262
+0022300217,350,PT10M08.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball STEAL (1 STL),,,1,0,266
+0022300217,352,PT10M02.00S,3,1610612766,CHA,1630163,Ball,L. Ball,227,27,0,Made,1,63,68,131,h,Ball 3PT Running Jump Shot (20 PTS) (Miller 1 AST),Made Shot,Running Jump Shot,1,3,267
+0022300217,355,PT09M36.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,269
+0022300217,356,PT09M24.00S,3,1610612766,CHA,1630163,Ball,L. Ball,26,148,15,Made,1,65,68,133,h,Ball 15' Floating Jump Shot (22 PTS) (Bridges 5 AST),Made Shot,Floating Jump shot,1,2,270
+0022300217,380,PT06M53.00S,3,1610612766,CHA,1630163,Ball,L. Ball,4,58,6,Missed,1,,,0,h,MISS Ball 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,291
+0022300217,384,PT06M42.00S,3,1610612766,CHA,1630163,Ball,L. Ball,119,243,27,Missed,1,,,0,h,MISS Ball 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,295
+0022300217,388,PT06M17.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-4,-1,0,Made,1,70,73,143,h,Ball Driving Floating Jump Shot (24 PTS),Made Shot,Driving Floating Jump Shot,1,2,299
+0022300217,393,PT06M17.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,71,73,144,h,Ball Free Throw 1 of 1 (25 PTS),Free Throw,Free Throw 1 of 1,1,0,302
+0022300217,404,PT05M35.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Smith FOR Ball,Substitution,,0,0,312
+0022300217,463,PT00M11.50S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Lost Ball Turnover (P3.T10),Turnover,Lost Ball,1,0,361
+0022300217,490,PT10M18.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,378
+0022300217,491,PT10M18.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,Made,1,83,87,170,h,Ball Putback Layup (27 PTS),Made Shot,Putback Layup Shot,1,2,379
+0022300217,513,PT07M39.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-140,227,27,Missed,1,,,0,h,MISS Ball 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,396
+0022300217,541,PT05M51.00S,4,1610612766,CHA,1630163,Ball,L. Ball,17,36,4,Missed,1,,,0,h,MISS Ball 4' Layup,Missed Shot,Layup Shot,1,2,414
+0022300217,555,PT05M16.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Out of Bounds - Bad Pass Turnover Turnover (P4.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,424
+0022300217,580,PT02M46.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball STEAL (2 STL),,,1,0,444
+0022300217,582,PT02M41.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-153,188,24,Missed,1,,,0,h,MISS Ball 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,445
+0022300217,591,PT01M32.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-136,218,26,Made,1,104,108,212,h,Ball 26' 3PT Running Jump Shot (30 PTS) (Hayward 3 AST),Made Shot,Running Jump Shot,1,3,453
+0022300217,595,PT01M09.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball L.B.FOUL (P4.T3) (M.Ervin),Foul,Loose Ball,1,0,456
+0022300217,606,PT00M10.70S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball L.B.FOUL (P5.PN) (R.Mott),Foul,Loose Ball,1,0,463
+0022300217,620,PT00M07.20S,4,1610612766,CHA,1630163,Ball,L. Ball,-12,19,2,Made,1,108,108,216,h,Ball 2' Driving Layup (32 PTS) (Hayward 4 AST),Made Shot,Driving Layup Shot,1,2,471
+0022300217,640,PT04M26.00S,5,1610612766,CHA,1630163,Ball,L. Ball,33,94,10,Made,1,110,110,220,h,Ball 10' Driving Floating Jump Shot (34 PTS),Made Shot,Driving Floating Jump Shot,1,2,481
+0022300217,643,PT03M58.00S,5,1610612766,CHA,1630163,Ball,L. Ball,10,-4,1,Missed,1,,,0,h,MISS Ball 1' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,484
+0022300217,650,PT03M35.00S,5,1610612766,CHA,1630163,Ball,L. Ball,-22,0,2,Made,1,112,111,223,h,Ball 2' Driving Layup (36 PTS),Made Shot,Driving Layup Shot,1,2,490
+0022300217,653,PT03M10.00S,5,1610612766,CHA,1630163,Ball,L. Ball,194,159,25,Missed,1,,,0,h,MISS Ball 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,493
+0022300217,661,PT02M59.00S,5,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Step Out of Bounds Turnover (P5.T13),Turnover,Step Out of Bounds Turnover,1,0,499
+0022300217,707,PT00M00.80S,5,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Washington FOR Ball,Substitution,,0,0,535
+0022300225,18,PT10M13.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-4,63,6,Made,1,2,5,7,h,Ball 6' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,11
+0022300225,22,PT09M49.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-173,241,30,Missed,1,,,0,h,MISS Ball 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,14
+0022300225,25,PT09M36.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,17
+0022300225,26,PT09M27.00S,1,1610612766,CHA,1630163,Ball,L. Ball,104,100,14,Missed,1,,,0,h,MISS Ball 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,18
+0022300225,27,PT09M21.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,19
+0022300225,28,PT09M18.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-15,36,4,Made,1,4,5,9,h,Ball 4' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,20
+0022300225,41,PT08M30.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-16,34,4,Made,1,6,5,11,h,Ball 4' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,1,2,31
+0022300225,51,PT07M16.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball STEAL (1 STL),,,1,0,40
+0022300225,53,PT07M13.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,41
+0022300225,68,PT05M37.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Traveling Turnover (P2.T3),Turnover,Traveling,1,0,53
+0022300225,69,PT05M37.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Smith FOR Ball,Substitution,,0,0,54
+0022300225,108,PT03M05.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-4,67,7,Made,1,17,22,39,h,Ball 7' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,2,80
+0022300225,111,PT03M05.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,MISS Ball Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,82
+0022300225,115,PT02M39.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-6,5,1,Missed,1,,,0,h,MISS Ball 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,86
+0022300225,136,PT01M03.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,102
+0022300225,137,PT00M53.50S,1,1610612766,CHA,1630163,Ball,L. Ball,-2,15,2,Missed,1,,,0,h,MISS Ball 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,103
+0022300225,145,PT00M10.10S,1,1610612766,CHA,1630163,Ball,L. Ball,25,-6,3,Missed,1,,,0,h,MISS Ball 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,109
+0022300225,163,PT10M52.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-235,36,24,Made,1,26,24,50,h,Ball 24' 3PT Jump Shot (11 PTS) (Smith 2 AST),Made Shot,Jump Shot,0,3,122
+0022300225,167,PT10M27.00S,2,1610612766,CHA,1630163,Ball,L. Ball,113,245,27,Missed,1,,,0,h,MISS Ball 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,0,3,125
+0022300225,184,PT09M24.00S,2,1610612766,CHA,1630163,Ball,L. Ball,37,252,25,Made,1,32,28,60,h,Ball 25' 3PT Step Back Jump Shot (14 PTS),Made Shot,Step Back Jump shot,1,3,136
+0022300225,191,PT08M21.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-184,231,30,Missed,1,,,0,h,MISS Ball 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,141
+0022300225,205,PT07M06.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Smith FOR Ball,Substitution,,0,0,154
+0022300225,260,PT02M55.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,192
+0022300225,314,PT11M31.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Out of Bounds Lost Ball Turnover (P3.T8),Turnover,Out of Bounds Lost Ball Turnover,1,0,225
+0022300225,316,PT10M51.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-230,70,24,Missed,1,,,0,h,MISS Ball 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,227
+0022300225,321,PT10M28.00S,3,1610612766,CHA,1630163,Ball,L. Ball,37,4,4,Missed,1,,,0,h,MISS Ball 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,231
+0022300225,329,PT09M56.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-96,252,27,Missed,1,,,0,h,MISS Ball 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,237
+0022300225,331,PT09M50.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball S.FOUL (P1.T2) (A.Smith),Foul,Shooting,1,0,239
+0022300225,354,PT08M03.00S,3,1610612766,CHA,1630163,Ball,L. Ball,33,17,4,Missed,1,,,0,h,MISS Ball 4' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,257
+0022300225,364,PT07M27.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball S.FOUL (P2.T3) (A.Smith),Foul,Shooting,1,0,265
+0022300225,367,PT07M15.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-132,244,28,Made,1,57,72,129,h,Ball 28' 3PT Step Back Jump Shot (17 PTS) (Miller 1 AST),Made Shot,Step Back Jump shot,1,3,267
+0022300225,393,PT05M21.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Smith FOR Ball,Substitution,,0,0,285
+0022300225,439,PT02M24.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-15,53,6,Missed,1,,,0,h,MISS Ball 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,316
+0022300225,445,PT01M52.00S,3,1610612766,CHA,1630163,Ball,L. Ball,222,149,27,Made,1,74,88,162,h,Ball 27' 3PT Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,1,3,322
+0022300225,448,PT01M20.00S,3,1610612766,CHA,1630163,Ball,L. Ball,6,16,2,Made,1,76,88,164,h,Ball 2' Driving Layup (22 PTS),Made Shot,Driving Layup Shot,1,2,325
+0022300225,465,PT00M09.30S,3,1610612766,CHA,1630163,Ball,L. Ball,-131,237,27,Missed,1,,,0,h,MISS Ball 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,340
+0022300225,479,PT11M21.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,348
+0022300225,480,PT11M13.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-87,272,29,Missed,1,,,0,h,MISS Ball 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,349
+0022300225,507,PT09M19.00S,4,1610612766,CHA,1630163,Ball,L. Ball,129,239,27,Made,1,88,93,181,h,Ball 27' 3PT Pullup Jump Shot (25 PTS),Made Shot,Pullup Jump shot,1,3,369
+0022300225,516,PT08M39.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-59,265,27,Made,1,91,95,186,h,Ball 27' 3PT Pullup Jump Shot (28 PTS) (Miller 2 AST),Made Shot,Pullup Jump shot,1,3,376
+0022300225,525,PT07M34.00S,4,1610612766,CHA,1630163,Ball,L. Ball,16,268,27,Missed,1,,,0,h,MISS Ball 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,382
+0022300225,536,PT07M19.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,388
+0022300225,544,PT06M34.00S,4,1610612766,CHA,1630163,Ball,L. Ball,10,27,3,Missed,1,,,0,h,MISS Ball 3' Jump Shot,Missed Shot,Jump Shot,1,2,395
+0022300225,546,PT06M31.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,397
+0022300225,550,PT06M02.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,400
+0022300225,568,PT04M45.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-152,238,28,Missed,1,,,0,h,MISS Ball 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,415
+0022300225,570,PT04M40.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-64,99,12,Made,1,105,102,207,h,Ball 12' Floating Jump Shot (30 PTS) (Hayward 6 AST),Made Shot,Floating Jump shot,1,2,417
+0022300225,574,PT04M07.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Bad Pass Turnover (P4.T11),Turnover,Bad Pass,1,0,420
+0022300225,599,PT02M29.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-29,81,9,Made,1,108,106,214,h,Ball 9' Floating Jump Shot (32 PTS) (Miller 3 AST),Made Shot,Floating Jump shot,1,2,442
+0022300225,608,PT01M46.00S,4,1610612766,CHA,1630163,Ball,L. Ball,158,206,26,Missed,1,,,0,h,MISS Ball 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,448
+0022300225,646,PT00M17.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,116,114,230,h,Ball Free Throw 1 of 2 (33 PTS),Free Throw,Free Throw 1 of 2,1,0,477
+0022300225,649,PT00M17.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,117,114,231,h,Ball Free Throw 2 of 2 (34 PTS),Free Throw,Free Throw 2 of 2,1,0,479
+0022300248,10,PT11M25.00S,1,1610612766,CHA,1630163,Ball,L. Ball,80,151,17,Missed,1,,,0,v,MISS Ball 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,6
+0022300248,26,PT09M46.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,17
+0022300248,33,PT09M11.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,23
+0022300248,50,PT06M57.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-201,174,27,Made,1,12,11,23,v,Ball 27' 3PT Jump Shot (3 PTS) (Bridges 1 AST),Made Shot,Jump Shot,1,3,35
+0022300248,73,PT04M51.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Miller FOR Ball,Substitution,,0,0,52
+0022300248,116,PT02M19.00S,1,1610612766,CHA,1630163,Ball,L. Ball,80,282,29,Missed,1,,,0,v,MISS Ball 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,81
+0022300248,156,PT11M05.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-2,84,8,Made,1,28,35,63,v,Ball 8' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,1,2,115
+0022300248,163,PT10M39.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-158,194,25,Missed,1,,,0,v,MISS Ball 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,119
+0022300248,202,PT08M07.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Rozier FOR Ball,Substitution,,0,0,147
+0022300248,276,PT02M24.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-22,6,2,Made,1,55,51,106,v,Ball 2' Driving Reverse Layup (7 PTS),Made Shot,Driving Reverse Layup Shot,1,2,201
+0022300248,283,PT02M12.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Miller FOR Ball,Substitution,,0,0,207
+0022300541,7,PT11M47.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball STEAL (1 STL),,,1,0,4
+0022300541,39,PT09M24.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-167,242,29,Missed,1,,,0,v,MISS Ball 29' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,30
+0022300541,43,PT09M09.00S,1,1610612766,CHA,1630163,Ball,L. Ball,17,8,2,Missed,1,,,0,v,MISS Ball 2' Running Layup,Missed Shot,Running Layup Shot,1,2,34
+0022300541,49,PT09M05.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball L.B.FOUL (P1.T3) (B.Taylor),Foul,Loose Ball,1,0,40
+0022300541,55,PT08M17.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball STEAL (2 STL),,,1,0,46
+0022300541,57,PT08M12.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,47
+0022300541,63,PT07M49.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-185,216,28,Missed,1,,,0,v,MISS Ball 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,51
+0022300541,86,PT06M21.00S,1,1610612766,CHA,1630163,Ball,L. Ball,234,69,24,Made,1,12,8,20,v,Ball 24' 3PT Jump Shot (3 PTS) (Miller 1 AST),Made Shot,Jump Shot,1,3,68
+0022300541,90,PT06M21.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Smith FOR Ball,Substitution,,0,0,71
+0022300541,149,PT02M49.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Out of Bounds Lost Ball Turnover (P2.T4),Turnover,Out of Bounds Lost Ball Turnover,1,0,114
+0022300541,156,PT02M27.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-217,139,26,Made,1,21,15,36,v,Ball 26' 3PT Jump Shot (6 PTS) (Smith 1 AST),Made Shot,Jump Shot,1,3,122
+0022300541,162,PT02M00.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Step Out of Bounds Turnover (P3.T5),Turnover,Step Out of Bounds Turnover,1,0,126
+0022300541,167,PT01M25.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball STEAL (3 STL),,,1,0,131
+0022300541,171,PT01M23.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,25,16,41,v,Ball Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,133
+0022300541,172,PT01M23.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,MISS Ball Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,134
+0022300541,186,PT00M41.90S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,27,19,46,v,Ball Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,145
+0022300541,187,PT00M41.90S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,27,20,47,v,Ball Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,146
+0022300541,195,PT00M16.40S,1,1610612766,CHA,1630163,Ball,L. Ball,-2,50,5,Made,1,28,22,50,v,Ball 5' Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,152
+0022300541,237,PT10M25.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,30,26,56,v,Ball Free Throw Flagrant 1 of 2 (12 PTS),Free Throw,Free Throw Flagrant 1 of 2,1,0,177
+0022300541,238,PT10M25.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,30,27,57,v,Ball Free Throw Flagrant 2 of 2 (13 PTS),Free Throw,Free Throw Flagrant 2 of 2,1,0,178
+0022300541,239,PT10M12.00S,2,1610612766,CHA,1630163,Ball,L. Ball,185,196,27,Missed,1,,,0,v,MISS Ball 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,179
+0022300541,256,PT08M57.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-213,159,27,Made,1,38,32,70,v,Ball 27' 3PT Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1,3,194
+0022300541,257,PT08M49.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball P.FOUL (P2.T2) (B.Taylor),Foul,Personal,1,0,195
+0022300541,263,PT08M49.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Smith FOR Ball,Substitution,,0,0,198
+0022300541,346,PT02M00.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,259
+0022300541,368,PT00M30.20S,2,1610612766,CHA,1630163,Ball,L. Ball,2,89,9,Missed,1,,,0,v,MISS Ball 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,276
+0022300541,371,PT00M00.00S,2,1610612766,CHA,1630163,Ball,L. Ball,13,121,12,Missed,1,,,0,v,MISS Ball 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,279
+0022300541,385,PT11M42.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball OFF.Foul (P3) (J.Goble),Foul,Offensive,1,0,283
+0022300541,387,PT11M42.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Offensive Foul Turnover (P4.T8),Turnover,Offensive Foul Turnover,1,0,284
+0022300541,393,PT10M51.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-113,234,26,Missed,1,,,0,v,MISS Ball 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,288
+0022300541,412,PT09M09.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,303
+0022300541,413,PT09M05.00S,3,1610612766,CHA,1630163,Ball,L. Ball,214,145,26,Missed,1,,,0,v,MISS Ball 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,304
+0022300541,434,PT07M16.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,86,55,141,v,Ball Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,319
+0022300541,437,PT07M16.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,86,56,142,v,Ball Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,321
+0022300541,439,PT07M00.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,323
+0022300541,440,PT06M54.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Lost Ball Turnover (P5.T9),Turnover,Lost Ball,1,0,324
+0022300541,454,PT06M07.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-211,148,26,Missed,1,,,0,v,MISS Ball 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,334
+0022300541,462,PT05M34.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Smith FOR Ball,Substitution,,0,0,341
+0022300541,519,PT02M22.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball STEAL (4 STL),,,1,0,385
+0022300541,521,PT02M19.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Out of Bounds - Bad Pass Turnover Turnover (P6.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,386
+0022300541,523,PT01M47.00S,3,1610612766,CHA,1630163,Ball,L. Ball,64,180,19,Made,1,95,69,164,v,Ball 19' Pullup Jump Shot (20 PTS) (Smith 3 AST),Made Shot,Pullup Jump shot,1,2,388
+0022300541,529,PT01M22.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,98,70,168,v,Ball Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,391
+0022300541,530,PT01M22.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,98,71,169,v,Ball Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,392
+0022300541,563,PT11M45.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball STEAL (5 STL),,,1,0,413
+0022300541,567,PT11M41.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,103,72,175,v,Ball Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0,415
+0022300541,568,PT11M41.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,103,73,176,v,Ball Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0,416
+0022300541,599,PT09M38.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,111,76,187,v,Ball Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,1,0,438
+0022300541,608,PT09M38.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,111,77,188,v,Ball Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,1,0,443
+0022300541,613,PT09M14.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,113,78,191,v,Ball Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,1,0,446
+0022300541,614,PT09M14.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,113,79,192,v,Ball Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,1,0,447
+0022300541,615,PT09M12.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball P.FOUL (P4.T3) (B.Taylor),Foul,Personal,1,0,448
+0022300541,617,PT09M12.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Smith FOR Ball,Substitution,,0,0,449
+0022300551,8,PT11M35.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+0022300551,13,PT11M00.00S,1,1610612766,CHA,1630163,Ball,L. Ball,159,205,26,Missed,1,,,0,v,MISS Ball 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,9
+0022300551,19,PT10M39.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,15
+0022300551,41,PT08M58.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-2,84,8,Missed,1,,,0,v,MISS Ball 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,34
+0022300551,62,PT06M34.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,53
+0022300551,70,PT06M22.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Washington FOR Ball,Substitution,,0,0,60
+0022300551,136,PT00M58.50S,1,1610612766,CHA,1630163,Ball,L. Ball,-146,214,26,Missed,1,,,0,v,MISS Ball 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,107
+0022300551,139,PT00M33.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,110
+0022300551,150,PT11M38.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-6,10,1,Missed,1,,,0,v,MISS Ball 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,116
+0022300551,153,PT11M23.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball STEAL (1 STL),,,1,0,120
+0022300551,155,PT11M15.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-54,252,26,Missed,1,,,0,v,MISS Ball 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,121
+0022300551,173,PT09M44.00S,2,1610612766,CHA,1630163,Ball,L. Ball,211,172,27,Missed,1,,,0,v,MISS Ball 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,133
+0022300551,176,PT09M28.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,136
+0022300551,177,PT09M24.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball OFF.Foul (P1) (S.Foster),Foul,Offensive,1,0,137
+0022300551,179,PT09M24.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0,138
+0022300551,180,PT09M24.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Rozier FOR Ball,Substitution,,0,0,139
+0022300551,268,PT02M46.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Out of Bounds - Bad Pass Turnover Turnover (P2.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,205
+0022300551,272,PT02M27.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-22,8,2,Made,1,49,27,76,v,Ball 2' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,208
+0022300551,275,PT02M00.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-195,146,24,Missed,1,,,0,v,MISS Ball 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,211
+0022300551,283,PT01M49.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,216
+0022300551,294,PT01M02.00S,2,1610612766,CHA,1630163,Ball,L. Ball,239,-6,24,Missed,1,,,0,v,MISS Ball 24' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,3,225
+0022300551,298,PT00M37.40S,2,1610612766,CHA,1630163,Ball,L. Ball,-12,11,2,Missed,1,,,0,v,MISS Ball 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,229
+0022300551,322,PT11M06.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-241,-8,24,Made,1,54,37,91,v,Ball 24' 3PT Jump Shot (5 PTS) (Rozier 3 AST),Made Shot,Jump Shot,1,3,241
+0022300551,327,PT10M38.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-33,286,29,Missed,1,,,0,v,MISS Ball 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,244
+0022300551,329,PT10M32.00S,3,1610612766,CHA,1630163,Ball,L. Ball,13,253,25,Made,1,54,40,94,v,Ball 25' 3PT Jump Shot (8 PTS) (Martin 2 AST),Made Shot,Jump Shot,1,3,246
+0022300551,332,PT10M04.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-136,265,30,Missed,1,,,0,v,MISS Ball 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,248
+0022300551,338,PT09M31.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball P.FOUL (P2.T1) (S.Foster),Foul,Personal,1,0,253
+0022300551,349,PT08M46.00S,3,1610612766,CHA,1630163,Ball,L. Ball,59,40,7,Made,1,58,42,100,v,Ball 7' Driving Floating Bank Jump Shot (10 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,261
+0022300551,362,PT07M36.00S,3,1610612766,CHA,1630163,Ball,L. Ball,44,45,6,Missed,1,,,0,v,MISS Ball 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,270
+0022300551,379,PT06M22.00S,3,1610612766,CHA,1630163,Ball,L. Ball,52,49,7,Made,1,64,52,116,v,Ball 7' Pullup Jump Shot (12 PTS) (Rozier 4 AST),Made Shot,Pullup Jump shot,1,2,284
+0022300551,384,PT06M06.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Thor FOR Ball,Substitution,,0,0,287
+0022300551,433,PT02M58.00S,3,1610612766,CHA,1630163,Ball,L. Ball,30,8,3,Made,1,72,57,129,v,Ball 3' Driving Reverse Layup (14 PTS) (Thor 1 AST),Made Shot,Driving Reverse Layup Shot,1,2,326
+0022300551,445,PT01M44.00S,3,1610612766,CHA,1630163,Ball,L. Ball,238,55,24,Missed,1,,,0,v,MISS Ball 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,336
+0022300551,452,PT01M19.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,341
+0022300551,453,PT01M19.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,Missed,1,,,0,v,MISS Ball Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,342
+0022300551,454,PT01M16.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,343
+0022300551,455,PT01M16.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,Made,1,77,59,136,v,Ball Tip Layup Shot (16 PTS),Made Shot,Tip Layup Shot,1,2,344
+0022300551,466,PT00M03.90S,3,1610612766,CHA,1630163,Ball,L. Ball,-174,223,28,Missed,1,,,0,v,MISS Ball 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,352
+0022300551,482,PT11M26.00S,4,1610612766,CHA,1630163,Ball,L. Ball,6,41,4,Made,1,77,63,140,v,Ball 4' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,1,2,360
+0022300551,484,PT11M03.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,363
+0022300551,487,PT10M44.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-105,251,27,Made,1,77,66,143,v,Ball 27' 3PT Jump Shot (21 PTS),Made Shot,Jump Shot,1,3,365
+0022300551,489,PT10M30.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball P.FOUL (P3.T1) (D.Taylor),Foul,Personal,1,0,366
+0022300551,509,PT09M06.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Rozier FOR Ball,Substitution,,0,0,382
+0022300551,555,PT05M30.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball STEAL (2 STL),,,1,0,415
+0022300551,574,PT04M13.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,428
+0022300551,590,PT03M31.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball STEAL (3 STL),,,1,0,439
+0022300551,611,PT02M10.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Bouknight FOR Ball,Substitution,,0,0,456
+0022300575,43,PT07M56.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball P.FOUL (P1.T1) (M.Kogut),Foul,Personal,1,0,27
+0022300575,61,PT06M03.00S,1,1610612766,CHA,1630163,Ball,L. Ball,7,15,2,Missed,1,,,0,v,MISS Ball 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,40
+0022300575,69,PT05M23.00S,1,1610612766,CHA,1630163,Ball,L. Ball,206,163,26,Made,1,24,20,44,v,Ball 26' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,47
+0022300575,79,PT04M42.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Smith FOR Ball,Substitution,,0,0,56
+0022300575,133,PT01M18.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,43,29,72,v,Ball Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,90
+0022300575,134,PT01M18.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,43,30,73,v,Ball Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,91
+0022300575,136,PT00M55.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-5,280,28,Missed,1,,,0,v,MISS Ball 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,93
+0022300575,140,PT00M40.70S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,97
+0022300575,141,PT00M36.50S,1,1610612766,CHA,1630163,Ball,L. Ball,-143,225,27,Made,1,43,33,76,v,Ball 27' 3PT Running Jump Shot (8 PTS) (Smith 1 AST),Made Shot,Running Jump Shot,1,3,98
+0022300575,147,PT00M03.30S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,43,34,77,v,Ball Free Throw 1 of 3 (9 PTS),Free Throw,Free Throw 1 of 3,1,0,102
+0022300575,148,PT00M03.30S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,43,35,78,v,Ball Free Throw 2 of 3 (10 PTS),Free Throw,Free Throw 2 of 3,1,0,103
+0022300575,149,PT00M03.30S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,43,36,79,v,Ball Free Throw 3 of 3 (11 PTS),Free Throw,Free Throw 3 of 3,1,0,104
+0022300575,238,PT11M31.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,111
+0022300575,167,PT10M57.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,114
+0022300575,176,PT10M30.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-33,86,9,Missed,1,,,0,v,MISS Ball 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,121
+0022300575,181,PT10M17.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,125
+0022300575,182,PT10M05.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-25,10,3,Missed,1,,,0,v,MISS Ball 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,126
+0022300575,184,PT09M59.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-228,15,0,Missed,1,,,0,v,MISS Ball 3PT Jump Shot,Missed Shot,Jump Shot,1,3,128
+0022300575,186,PT09M54.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-229,-4,0,Missed,1,,,0,v,MISS Ball 3PT Jump Shot,Missed Shot,Jump Shot,1,3,130
+0022300575,191,PT09M51.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-213,137,25,Missed,1,,,0,v,MISS Ball 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,132
+0022300575,204,PT08M46.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball S.FOUL (P2.T3) (M.Kogut),Foul,Shooting,1,0,141
+0022300575,208,PT08M46.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Rozier FOR Ball,Substitution,,0,0,144
+0022300575,292,PT02M54.00S,2,1610612766,CHA,1630163,Ball,L. Ball,66,10,7,Made,1,64,55,119,v,Ball 7' Floating Jump Shot (13 PTS) (Rozier 4 AST),Made Shot,Floating Jump shot,1,2,207
+0022300575,299,PT02M31.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-172,188,25,Missed,1,,,0,v,MISS Ball 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,213
+0022300575,302,PT02M22.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,64,56,120,v,Ball Free Throw Technical (14 PTS),Free Throw,Free Throw Technical,1,0,216
+0022300575,314,PT01M47.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-37,298,30,Missed,1,,,0,v,MISS Ball 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,225
+0022300575,317,PT01M37.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,228
+0022300575,323,PT01M16.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Martin FOR Ball,Substitution,,0,0,232
+0022300575,376,PT10M09.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,264
+0022300575,383,PT10M06.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,MISS Ball Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,268
+0022300575,385,PT10M06.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,74,64,138,v,Ball Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,270
+0022300575,390,PT09M41.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-39,35,5,Made,1,74,66,140,v,Ball 5' Running Layup (17 PTS) (Bridges 2 AST),Made Shot,Running Layup Shot,1,2,275
+0022300575,392,PT09M17.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball P.FOUL (P3.T1) (E.Scott),Foul,Personal,1,0,277
+0022300575,400,PT08M22.00S,3,1610612766,CHA,1630163,Ball,L. Ball,1,29,3,Made,1,76,68,144,v,Ball 3' Layup (19 PTS),Made Shot,Layup Shot,1,2,283
+0022300575,417,PT06M48.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-224,117,25,Missed,1,,,0,v,MISS Ball 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,297
+0022300575,420,PT06M38.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,300
+0022300575,432,PT06M08.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Washington FOR Ball,Substitution,,0,0,311
+0022300575,495,PT01M13.00S,3,1610612766,CHA,1630163,Ball,L. Ball,28,-2,3,Made,1,94,79,173,v,Ball 3' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,1,2,353
+0022300575,498,PT00M48.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball STEAL (1 STL),,,1,0,357
+0022300575,531,PT11M06.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-154,240,29,Made,1,99,85,184,v,Ball 29' 3PT Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,1,3,371
+0022300575,550,PT09M18.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Out of Bounds Lost Ball Turnover (P3.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0,387
+0022300575,551,PT08M57.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball STEAL (2 STL),,,1,0,389
+0022300575,555,PT08M54.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,101,86,187,v,Ball Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,1,0,391
+0022300575,558,PT08M54.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,101,87,188,v,Ball Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,1,0,393
+0022300575,561,PT08M23.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Lost Ball Turnover (P4.T12),Turnover,Lost Ball,1,0,395
+0022300575,585,PT06M33.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball P.FOUL (P4.T3) (B.Forte),Foul,Personal,1,0,413
+0022300575,589,PT06M26.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball S.FOUL (P5.T4) (E.Scott),Foul,Shooting,1,0,415
+0022300575,597,PT05M46.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-221,134,26,Made,1,111,98,209,v,Ball 26' 3PT Running Jump Shot (29 PTS) (Bridges 3 AST),Made Shot,Running Jump Shot,1,3,421
+0022300575,600,PT05M20.00S,4,1610612766,CHA,1630163,Ball,L. Ball,197,152,25,Missed,1,,,0,v,MISS Ball 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,423
+0022300575,621,PT03M30.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Mensah FOR Ball,Substitution,,0,0,441
+0022300584,25,PT10M04.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,17
+0022300584,33,PT09M23.00S,1,1610612766,CHA,1630163,Ball,L. Ball,5,1,1,Made,1,9,6,15,h,Ball 1' Driving Finger Roll Layup (2 PTS) (Bridges 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,23
+0022300584,65,PT06M05.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Martin FOR Ball,Substitution,,0,0,46
+0022300584,129,PT01M48.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,94
+0022300584,130,PT01M48.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,Made,1,30,22,52,h,Ball Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,95
+0022300584,147,PT00M11.10S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,MISS Ball Free Throw Technical,Free Throw,Free Throw Technical,1,0,106
+0022300584,149,PT00M00.00S,1,1610612766,CHA,1630163,Ball,L. Ball,20,66,7,Made,1,34,32,66,h,Ball 7' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,1,2,108
+0022300584,167,PT10M57.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball S.FOUL (P1.T1) (B.Nansel),Foul,Shooting,1,0,116
+0022300584,174,PT10M40.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,38,35,73,h,Ball Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,121
+0022300584,175,PT10M40.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,39,35,74,h,Ball Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,122
+0022300584,178,PT10M09.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-108,284,30,Missed,1,,,0,h,MISS Ball 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,125
+0022300584,195,PT09M14.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball L.B.FOUL (P2.T2) (D.Guthrie),Foul,Loose Ball,1,0,138
+0022300584,204,PT08M29.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball STEAL (1 STL),,,1,0,145
+0022300584,206,PT08M14.00S,2,1610612766,CHA,1630163,Ball,L. Ball,18,42,5,Made,1,46,37,83,h,Ball 5' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,146
+0022300584,209,PT08M06.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Mensah FOR Ball,Substitution,,0,0,148
+0022300584,276,PT03M41.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Out of Bounds Lost Ball Turnover (P2.T8),Turnover,Out of Bounds Lost Ball Turnover,1,0,196
+0022300584,290,PT02M57.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,58,52,110,h,Ball Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,206
+0022300584,291,PT02M57.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,59,52,111,h,Ball Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,207
+0022300584,306,PT01M19.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Martin FOR Ball,Substitution,,0,0,219
+0022300584,399,PT06M18.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball P.FOUL (P3.T3) (B.Nansel),Foul,Personal,1,0,284
+0022300584,401,PT06M18.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Martin FOR Ball,Substitution,,0,0,285
+0022300584,446,PT02M41.00S,3,1610612766,CHA,1630163,Ball,L. Ball,195,160,25,Made,1,87,82,169,h,Ball 25' 3PT Jump Shot (15 PTS) (Martin 2 AST),Made Shot,Jump Shot,1,3,316
+0022300584,454,PT02M03.00S,3,1610612766,CHA,1630163,Ball,L. Ball,131,272,30,Missed,1,,,0,h,MISS Ball 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,322
+0022300584,456,PT01M52.00S,3,1610612766,CHA,1630163,Ball,L. Ball,18,49,5,Made,1,91,82,173,h,Ball 5' Driving Floating Jump Shot (17 PTS) (Bridges 3 AST),Made Shot,Driving Floating Jump Shot,1,2,324
+0022300584,470,PT01M03.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-227,54,0,Made,1,94,85,179,h,Ball 3PT Jump Shot (20 PTS) (Martin 3 AST),Made Shot,Jump Shot,1,3,332
+0022300584,481,PT00M00.40S,3,1610612766,CHA,1630163,Ball,L. Ball,157,228,28,Made,1,97,85,182,h,Ball 28' 3PT Step Back Jump Shot (23 PTS),Made Shot,Step Back Jump shot,1,3,342
+0022300584,492,PT11M14.00S,4,1610612766,CHA,1630163,Ball,L. Ball,45,70,8,Missed,1,,,0,h,MISS Ball 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,346
+0022300584,494,PT11M12.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball STEAL (2 STL),,,1,0,349
+0022300584,559,PT11M10.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Out of Bounds Lost Ball Turnover (P3.T13),Turnover,Out of Bounds Lost Ball Turnover,1,0,350
+0022300584,500,PT10M39.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball OFF.Foul (P4) (J.Van Duyne),Foul,Offensive,1,0,352
+0022300584,502,PT10M39.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Offensive Foul Turnover (P4.T14),Turnover,Offensive Foul Turnover,1,0,353
+0022300584,551,PT08M05.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball STEAL (3 STL),,,1,0,384
+0022300584,557,PT07M33.00S,4,1610612766,CHA,1630163,Ball,L. Ball,225,65,0,Made,1,108,103,211,h,Ball 3PT Pullup Jump Shot (26 PTS),Made Shot,Pullup Jump shot,1,3,389
+0022300584,560,PT07M33.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Rozier FOR Ball,Substitution,,0,0,391
+0022300584,621,PT00M26.40S,4,1610612766,CHA,1630163,Ball,L. Ball,-5,21,2,Made,1,120,117,237,h,Ball 2' Driving Reverse Layup (28 PTS),Made Shot,Driving Reverse Layup Shot,1,2,433
+0022300584,623,PT00M26.40S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Martin FOR Ball,Substitution,,0,0,435
+0022300584,636,PT00M05.20S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Martin FOR Ball,Substitution,,0,0,444
+0022300610,11,PT11M08.00S,1,1610612766,CHA,1630163,Ball,L. Ball,140,15,14,Made,1,5,2,7,v,Ball 14' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,1,2,6
+0022300610,16,PT10M15.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+0022300610,22,PT09M32.00S,1,1610612766,CHA,1630163,Ball,L. Ball,108,292,31,Missed,1,,,0,v,MISS Ball 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,14
+0022300610,52,PT06M18.00S,1,1610612766,CHA,1630163,Ball,L. Ball,22,3,2,Made,1,19,19,38,v,Ball 2' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,36
+0022300610,54,PT05M46.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-48,120,13,Missed,1,,,0,v,MISS Ball 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,38
+0022300610,60,PT05M31.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Smith FOR Ball,Substitution,,0,0,44
+0022300610,174,PT10M28.00S,2,1610612766,CHA,1630163,Ball,L. Ball,26,13,3,Made,1,40,38,78,v,Ball 3' Driving Reverse Layup (6 PTS),Made Shot,Driving Reverse Layup Shot,1,2,114
+0022300610,182,PT09M22.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball STEAL (1 STL),,,1,0,123
+0022300610,187,PT08M44.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,127
+0022300610,189,PT08M44.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball L.B.FOUL (P1.T3) (K.Cutler),Foul,Loose Ball,1,0,128
+0022300610,206,PT07M46.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Rozier FOR Ball,Substitution,,0,0,140
+0022300610,239,PT04M31.00S,2,1610612766,CHA,1630163,Ball,L. Ball,96,250,27,Made,1,53,49,102,v,Ball 27' 3PT Jump Shot (9 PTS) (Washington 3 AST),Made Shot,Jump Shot,1,3,164
+0022300610,243,PT04M01.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-158,210,26,Missed,1,,,0,v,MISS Ball 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,166
+0022300610,288,PT01M02.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,66,59,125,v,Ball Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,196
+0022300610,291,PT01M02.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,66,60,126,v,Ball Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,198
+0022300610,292,PT00M47.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball STEAL (2 STL),,,1,0,200
+0022300610,330,PT10M58.00S,3,1610612766,CHA,1630163,Ball,L. Ball,23,21,3,Made,1,71,66,137,v,Ball 3' Driving Reverse Layup (13 PTS),Made Shot,Driving Reverse Layup Shot,1,2,223
+0022300610,333,PT10M19.00S,3,1610612766,CHA,1630163,Ball,L. Ball,26,55,6,Missed,1,,,0,v,MISS Ball 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,225
+0022300610,334,PT10M17.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,226
+0022300610,382,PT06M14.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-13,20,2,Missed,1,,,0,v,MISS Ball 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,258
+0022300610,383,PT06M13.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,259
+0022300610,386,PT06M12.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,MISS Ball Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,261
+0022300610,390,PT06M12.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,88,80,168,v,Ball Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,264
+0022300610,393,PT05M51.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,266
+0022300610,394,PT05M49.00S,3,1610612766,CHA,1630163,Ball,L. Ball,38,23,4,Missed,1,,,0,v,MISS Ball 4' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,267
+0022300610,405,PT05M09.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Smith FOR Ball,Substitution,,0,0,277
+0022300610,464,PT01M13.00S,3,1610612766,CHA,1630163,Ball,L. Ball,50,101,11,Missed,1,,,0,v,MISS Ball 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,320
+0022300610,467,PT00M56.40S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,323
+0022300610,468,PT00M50.70S,3,1610612766,CHA,1630163,Ball,L. Ball,13,41,4,Made,1,102,89,191,v,Ball 4' Running Finger Roll Layup (16 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,324
+0022300610,471,PT00M35.40S,3,1610612766,CHA,1630163,Ball,L. Ball,-33,283,28,Missed,1,,,0,v,MISS Ball 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,326
+0022300610,497,PT11M17.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,338
+0022300610,502,PT10M44.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-70,39,8,Made,1,109,100,209,v,Ball 8' Driving Floating Jump Shot (18 PTS),Made Shot,Driving Floating Jump Shot,1,2,341
+0022300610,532,PT08M05.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-148,235,28,Missed,1,,,0,v,MISS Ball 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,365
+0022300610,541,PT07M20.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Bridges FOR Ball,Substitution,,0,0,372
+0022300610,602,PT02M28.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball STEAL (3 STL),,,1,0,412
+0022300610,656,PT00M48.20S,4,1610612766,CHA,1630163,Ball,L. Ball,21,39,4,Missed,1,,,0,v,MISS Ball 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,427
+0022300610,631,PT00M15.40S,4,1610612766,CHA,1630163,Ball,L. Ball,232,75,24,Missed,1,,,0,v,MISS Ball 24' 3PT Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,3,432
+0022300610,635,PT00M12.50S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Black FOR Ball,Substitution,,0,0,436
+0022300619,18,PT10M16.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball S.FOUL (P1.T1) (M.Lindsay),Foul,Shooting,1,0,10
+0022300619,22,PT10M02.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-194,190,27,Missed,1,,,0,v,MISS Ball 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,13
+0022300619,30,PT09M11.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-44,38,6,Made,1,7,7,14,v,Ball 6' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,21
+0022300619,33,PT09M11.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,7,8,15,v,Ball Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,23
+0022300619,66,PT06M12.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Washington FOR Ball,Substitution,,0,0,46
+0022300619,125,PT01M23.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-145,74,16,Missed,1,,,0,v,MISS Ball 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,86
+0022300619,154,PT11M36.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,102
+0022300619,155,PT11M26.00S,2,1610612766,CHA,1630163,Ball,L. Ball,48,15,5,Missed,1,,,0,v,MISS Ball 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,103
+0022300619,178,PT09M55.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-20,2,2,Made,1,32,34,66,v,Ball 2' Driving Reverse Layup (5 PTS),Made Shot,Driving Reverse Layup Shot,1,2,123
+0022300619,184,PT09M23.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-178,283,33,Missed,1,,,0,v,MISS Ball 33' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,127
+0022300619,186,PT09M16.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball P.FOUL (P2.T3) (M.Lindsay),Foul,Personal,1,0,129
+0022300619,194,PT08M49.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Backcourt Turnover (P1.T2),Turnover,Backcourt Turnover,1,0,133
+0022300619,199,PT08M31.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,35,35,70,v,Ball Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,137
+0022300619,204,PT08M31.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,35,36,71,v,Ball Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,140
+0022300619,210,PT07M44.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,145
+0022300619,212,PT07M41.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,147
+0022300619,213,PT07M40.00S,2,1610612766,CHA,1630163,Ball,L. Ball,23,25,3,Missed,1,,,0,v,MISS Ball 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,148
+0022300619,219,PT07M04.00S,2,1610612766,CHA,1630163,Ball,L. Ball,-17,314,31,Missed,1,,,0,v,MISS Ball 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,151
+0022300619,227,PT06M26.00S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Martin FOR Ball,Substitution,,0,0,157
+0022300619,283,PT02M27.00S,2,1610612766,CHA,1630163,Ball,L. Ball,83,188,21,Missed,1,,,0,v,MISS Ball 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,194
+0022300619,290,PT01M24.00S,2,1610612766,CHA,1630163,Ball,L. Ball,87,284,30,Missed,1,,,0,v,MISS Ball 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,200
+0022300619,298,PT00M49.90S,2,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Washington FOR Ball,Substitution,,0,0,208
+0022300619,319,PT11M29.00S,3,1610612766,CHA,1630163,Ball,L. Ball,18,-2,2,Made,1,54,54,108,v,Ball 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,219
+0022300619,322,PT10M56.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-98,36,10,Missed,1,,,0,v,MISS Ball 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,221
+0022300619,348,PT09M23.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball P.FOUL (P3.T1) (J.DeRosa),Foul,Personal,1,0,242
+0022300619,355,PT09M00.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,64,60,124,v,Ball Free Throw Technical (10 PTS),Free Throw,Free Throw Technical,1,0,247
+0022300619,368,PT07M34.00S,3,1610612766,CHA,1630163,Ball,L. Ball,203,169,26,Made,1,66,68,134,v,Ball 26' 3PT Running Jump Shot (13 PTS) (Miller 4 AST),Made Shot,Running Jump Shot,1,3,259
+0022300619,379,PT06M24.00S,3,1610612766,CHA,1630163,Ball,L. Ball,43,4,4,Missed,1,,,0,v,MISS Ball 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,266
+0022300619,392,PT05M41.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Smith FOR Ball,Substitution,,0,0,276
+0022300619,458,PT01M02.00S,3,1610612766,CHA,1630163,Ball,L. Ball,43,6,4,Made,1,84,87,171,v,Ball 4' Driving Bank Hook Shot (15 PTS),Made Shot,Driving Bank Hook Shot,1,2,321
+0022300619,461,PT00M29.70S,3,1610612766,CHA,1630163,Ball,L. Ball,27,21,3,Made,1,87,89,176,v,Ball 3' Driving Floating Jump Shot (17 PTS),Made Shot,Driving Floating Jump Shot,1,2,323
+0022300619,494,PT10M20.00S,4,1610612766,CHA,1630163,Ball,L. Ball,169,242,30,Missed,1,,,0,v,MISS Ball 30' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,342
+0022300619,498,PT10M04.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball STEAL (1 STL),,,1,0,345
+0022300619,500,PT09M58.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-217,135,26,Missed,1,,,0,v,MISS Ball 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,346
+0022300619,508,PT09M30.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-23,41,5,Missed,1,,,0,v,MISS Ball 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,352
+0022300619,533,PT08M18.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Martin FOR Ball,Substitution,,0,0,371
+0022300619,585,PT03M43.00S,4,1610612766,CHA,1630163,Ball,L. Ball,202,242,32,Missed,1,,,0,v,MISS Ball 32' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,409
+0022300619,593,PT03M23.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,415
+0022300619,627,PT01M51.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball P.FOUL (P4.T4) (D.Collins),Foul,Personal,1,0,430
+0022300619,617,PT01M28.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,432
+0022300619,630,PT00M58.20S,4,1610612766,CHA,1630163,Ball,L. Ball,-9,20,2,Missed,1,,,0,v,MISS Ball 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,440
+0022300619,641,PT00M32.70S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Out of Bounds Lost Ball Turnover (P3.T10),Turnover,Out of Bounds Lost Ball Turnover,1,0,445
+0022300619,651,PT00M23.80S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball OFF.Foul (P5) (J.DeRosa),Foul,Offensive,1,0,456
+0022300619,653,PT00M23.80S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball Offensive Foul Turnover (P4.T11),Turnover,Offensive Foul Turnover,1,0,457
+0022300619,665,PT00M08.90S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,Ball P.FOUL (P6.PN) (M.Lindsay),Foul,Personal,1,0,466
+0022300619,667,PT00M08.90S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,v,SUB: Smith Jr. FOR Ball,Substitution,,0,0,467
+0022300635,33,PT09M17.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,24
+0022300635,34,PT09M14.00S,1,1610612766,CHA,1630163,Ball,L. Ball,48,260,26,Missed,1,,,0,h,MISS Ball 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,25
+0022300635,42,PT08M26.00S,1,1610612766,CHA,1630163,Ball,L. Ball,153,210,26,Missed,1,,,0,h,MISS Ball 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,35
+0022300635,52,PT07M31.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-4,15,2,Made,1,11,12,23,h,Ball 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,42
+0022300635,80,PT07M12.00S,1,1610612766,CHA,1630163,Ball,L. Ball,6,8,1,Missed,1,,,0,h,MISS Ball 1' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,46
+0022300635,64,PT06M35.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,53
+0022300635,65,PT06M28.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-31,246,25,Made,1,16,14,30,h,Ball 25' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,3,54
+0022300635,68,PT06M01.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-153,219,27,Missed,1,,,0,h,MISS Ball 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,57
+0022300635,74,PT05M55.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Smith FOR Ball,Substitution,,0,0,62
+0022300635,117,PT03M26.00S,1,1610612766,CHA,1630163,Ball,L. Ball,-40,24,5,Missed,1,,,0,h,MISS Ball 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,90
+0022300635,144,PT01M18.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball L.B.FOUL (P1.PN) (L.Wood),Foul,Loose Ball,1,0,109
+0022300635,152,PT01M03.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Offensive Charge Foul (P2) (L.Wood),Foul,Offensive Charge,1,0,115
+0022300635,154,PT01M03.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,116
+0022300635,155,PT01M03.00S,1,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Black FOR Ball,Substitution,,0,0,117
+0022300635,363,PT11M22.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-44,147,15,Made,1,55,58,113,h,Ball 15' Fadeaway Jumper (7 PTS),Made Shot,Fadeaway Jump Shot,1,2,269
+0022300635,364,PT11M09.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball S.FOUL (P3.T1) (B.Barnaky),Foul,Shooting,1,0,270
+0022300635,376,PT10M22.00S,3,1610612766,CHA,1630163,Ball,L. Ball,163,205,26,Made,1,58,61,119,h,Ball 26' 3PT Pullup Jump Shot (10 PTS) (Miller 2 AST),Made Shot,Pullup Jump shot,1,3,280
+0022300635,381,PT09M54.00S,3,1610612766,CHA,1630163,Ball,L. Ball,9,18,2,Made,1,60,63,123,h,Ball 2' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,283
+0022300635,387,PT09M03.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-146,221,26,Missed,1,,,0,h,MISS Ball 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,287
+0022300635,390,PT08M43.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball S.FOUL (P4.T3) (L.Wood),Foul,Shooting,1,0,290
+0022300635,392,PT08M43.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Smith FOR Ball,Substitution,,0,0,291
+0022300635,436,PT05M10.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball STEAL (1 STL),,,1,0,324
+0022300635,445,PT04M39.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,0,330
+0022300635,476,PT03M20.00S,3,1610612766,CHA,1630163,Ball,L. Ball,-99,270,29,Missed,1,,,0,h,MISS Ball 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,351
+0022300635,486,PT02M56.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,MISS Ball Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,358
+0022300635,490,PT02M56.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,72,91,163,h,Ball Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,361
+0022300635,503,PT01M54.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,0,373
+0022300635,521,PT01M05.00S,3,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,Ball STEAL (2 STL),,,1,0,387
+0022300635,530,PT00M27.20S,3,1610612766,CHA,1630163,Ball,L. Ball,158,226,28,Missed,1,,,0,h,MISS Ball 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,392
+0022300635,534,PT00M00.00S,3,1610612766,CHA,1630163,Ball,L. Ball,10,31,3,Made,1,78,99,177,h,Ball 3' Driving Layup (15 PTS) (Bridges 2 AST),Made Shot,Driving Layup Shot,1,2,396
+0022300635,571,PT11M44.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-2,136,14,Missed,1,,,0,h,MISS Ball 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,400
+0022300635,566,PT10M23.00S,4,1610612766,CHA,1630163,Ball,L. Ball,-110,251,27,Missed,1,,,0,h,MISS Ball 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,415
+0022300635,614,PT06M45.00S,4,1610612766,CHA,1630163,Ball,L. Ball,0,0,0,,0,,,0,h,SUB: Smith FOR Ball,Substitution,,0,0,443

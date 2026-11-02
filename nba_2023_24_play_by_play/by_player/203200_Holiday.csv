@@ -1,0 +1,487 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300024,484,PT10M13.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,354
+0022300048,305,PT00M46.80S,2,1610612743,DEN,203200,Holiday,J. Holiday,233,25,0,Missed,1,,,0,v,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,1,3,229
+0022300048,307,PT00M40.70S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday P.FOUL (P1.PN) (D.Mosher),Foul,Personal,1,0,231
+0022300048,469,PT00M02.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday P.FOUL (P2.T3) (D.Mosher),Foul,Personal,1,0,347
+0022300048,528,PT09M11.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday STEAL (1 STL),,,1,0,381
+0022300048,538,PT09M00.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,-230,52,24,Made,1,84,75,159,v,Holiday 24' 3PT Jump Shot (3 PTS) (Gordon 2 AST),Made Shot,Jump Shot,1,3,388
+0022300048,573,PT06M52.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,416
+0022300123,573,PT05M15.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,229,56,24,Missed,1,,,0,v,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,437
+0022300123,595,PT04M34.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,452
+0022300123,614,PT03M11.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,-225,11,0,Made,1,99,83,182,v,Holiday 3PT Jump Shot (3 PTS) (Key 2 AST),Made Shot,Jump Shot,1,3,465
+0022300169,505,PT09M57.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,368
+0022300169,529,PT08M29.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,386
+0022300169,544,PT07M05.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday S.FOUL (P1.T2) (B.Nansel),Foul,Shooting,1,0,400
+0022300169,562,PT06M43.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,175,168,24,Missed,1,,,0,h,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,408
+0022300169,566,PT06M13.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,225,-8,0,Made,1,95,93,188,h,Holiday 3PT Jump Shot (3 PTS) (Caldwell-Pope 3 AST),Made Shot,Jump Shot,1,3,411
+0022300169,571,PT05M41.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,415
+0022300169,581,PT04M34.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Gordon FOR Holiday,Substitution,,0,0,422
+0022300210,152,PT00M27.20S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,113
+0022300210,153,PT00M05.40S,1,1610612743,DEN,203200,Holiday,J. Holiday,-238,-5,24,Missed,1,,,0,v,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,114
+0022300210,192,PT09M25.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,142
+0022300210,463,PT01M42.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday P.FOUL (P1.T3) (L.Holtkamp),Foul,Personal,1,0,343
+0022300210,565,PT08M24.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,401
+0022300210,584,PT04M58.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P2.T2) (B.Nansel),Foul,Shooting,1,0,428
+0022300210,634,PT01M45.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,-235,-3,24,Made,1,118,100,218,v,Holiday 24' 3PT Running Jump Shot (3 PTS) (Gillespie 1 AST),Made Shot,Running Jump Shot,1,3,462
+0022300210,643,PT00M42.30S,4,1610612743,DEN,203200,Holiday,J. Holiday,98,259,28,Made,1,121,106,227,v,Holiday 28' 3PT Jump Shot (6 PTS) (Pickett 3 AST),Made Shot,Jump Shot,1,3,467
+0022300226,312,PT00M01.40S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,219
+0022300252,11,PT11M11.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday L.B.FOUL (P1.T1) (S.Foster),Foul,Loose Ball,1,0,6
+0022300252,43,PT08M39.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,22,243,24,Made,1,10,7,17,h,Holiday 24' 3PT Pullup Jump Shot (3 PTS) (Jokic 1 AST),Made Shot,Pullup Jump shot,1,3,31
+0022300252,49,PT08M24.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (1 STL),,,1,0,36
+0022300252,51,PT08M22.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,-1,27,3,Made,1,12,7,19,h,Holiday 3' Running Dunk (5 PTS),Made Shot,Running Dunk Shot,1,2,37
+0022300252,121,PT03M25.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Jackson FOR Holiday,Substitution,,0,0,83
+0022300252,354,PT02M12.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,250
+0022300252,369,PT01M10.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,107,227,25,Missed,1,,,0,h,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,261
+0022300252,401,PT10M34.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday S.FOUL (P2.T1) (J.Schroeder),Foul,Shooting,1,0,283
+0022300252,406,PT10M19.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,-227,-20,0,Missed,1,,,0,h,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,1,3,287
+0022300252,471,PT05M25.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,-177,188,26,Missed,1,,,0,h,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,338
+0022300252,478,PT05M01.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Strawther FOR Holiday,Substitution,,0,0,343
+0022300252,669,PT04M45.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Jump Ball Holiday vs. Bassey: Tip to Branham,Jump Ball,,0,0,475
+0022300252,699,PT02M02.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,497
+0022300252,714,PT01M31.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Key FOR Holiday,Substitution,,0,0,507
+0022300257,100,PT04M32.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,105,256,28,Missed,1,,,0,v,MISS Holiday 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,75
+0022300257,103,PT04M08.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday STEAL (1 STL),,,1,0,79
+0022300257,105,PT04M05.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,7,29,3,Made,1,19,19,38,v,Holiday 3' Running Dunk (2 PTS) (Caldwell-Pope 2 AST),Made Shot,Running Dunk Shot,1,2,80
+0022300257,113,PT03M18.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,86
+0022300257,116,PT02M30.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,130,134,19,Made,1,22,23,45,v,Holiday 19' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,89
+0022300257,155,PT00M59.90S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,119
+0022300257,156,PT00M57.80S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,120
+0022300257,270,PT05M11.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,208
+0022300257,275,PT04M15.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,-206,144,25,Missed,1,,,0,v,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,211
+0022300257,276,PT04M12.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,212
+0022300257,321,PT00M59.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,-107,125,16,Missed,1,,,0,v,MISS Holiday 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,244
+0022300257,323,PT00M57.30S,2,1610612743,DEN,203200,Holiday,J. Holiday,-239,53,24,Made,1,54,57,111,v,Holiday 24' 3PT Jump Shot (7 PTS) (Jordan 3 AST),Made Shot,Jump Shot,1,3,246
+0022300257,379,PT10M04.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,-228,-7,0,Made,1,61,61,122,v,Holiday 3PT Jump Shot (10 PTS) (Jackson 7 AST),Made Shot,Jump Shot,1,3,281
+0022300257,409,PT07M06.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,-21,13,2,Made,1,68,68,136,v,Holiday 2' Cutting Layup Shot (12 PTS) (Jordan 4 AST),Made Shot,Cutting Layup Shot,1,2,306
+0022300257,415,PT06M15.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,311
+0022300257,423,PT05M37.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday Out of Bounds - Bad Pass Turnover Turnover (P3.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,319
+0022300257,437,PT04M14.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P1.T3) (J.Williams),Foul,Shooting,1,0,327
+0022300257,442,PT04M14.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Braun FOR Holiday,Substitution,,0,0,331
+0022300257,609,PT07M09.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,448
+0022300257,633,PT04M52.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,465
+0022300257,637,PT04M34.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P2.T4) (S.Mehta),Foul,Shooting,1,0,468
+0022300263,13,PT10M48.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,34,8,3,Missed,1,,,0,h,MISS Holiday 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,8
+0022300263,19,PT10M18.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (1 STL),,,1,0,13
+0022300263,42,PT07M52.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,233,34,24,Missed,1,,,0,h,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,30
+0022300263,44,PT07M44.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,243,20,24,Made,1,17,5,22,h,Holiday 24' 3PT Jump Shot (3 PTS) (Jokic 3 AST),Made Shot,Jump Shot,1,3,32
+0022300263,67,PT05M23.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (2 STL),,,1,0,46
+0022300263,74,PT05M00.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Nnaji FOR Holiday,Substitution,,0,0,49
+0022300263,192,PT08M39.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,133
+0022300263,198,PT07M41.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday P.FOUL (P1.T1) (D.Collins),Foul,Personal,1,0,139
+0022300263,237,PT05M32.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,165
+0022300263,289,PT01M20.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,9,-4,1,Made,1,72,56,128,h,Holiday 1' Cutting Layup Shot (5 PTS) (Jokic 12 AST),Made Shot,Cutting Layup Shot,1,2,204
+0022300263,292,PT01M04.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday S.FOUL (P2.PN) (S.Wright),Foul,Shooting,1,0,206
+0022300263,318,PT00M49.60S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Braun FOR Holiday,Substitution,,0,0,214
+0022300263,339,PT10M41.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,-232,85,25,Missed,1,,,0,h,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,233
+0022300263,364,PT07M09.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,-159,200,26,Made,1,90,72,162,h,Holiday 26' 3PT Jump Shot (8 PTS) (Jokic 13 AST),Made Shot,Jump Shot,1,3,251
+0022300263,387,PT05M09.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,223,20,0,Made,1,95,79,174,h,Holiday 3PT Jump Shot (11 PTS) (Caldwell-Pope 2 AST),Made Shot,Jump Shot,1,3,265
+0022300263,403,PT03M51.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,277
+0022300263,407,PT03M38.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Braun FOR Holiday,Substitution,,0,0,280
+0022300263,469,PT00M09.40S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,322
+0022300263,628,PT03M08.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Pickett FOR Holiday,Substitution,,0,0,438
+0022300279,7,PT11M46.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,233,25,0,Made,1,0,3,3,v,Holiday 3PT Jump Shot (3 PTS) (Caldwell-Pope 1 AST),Made Shot,Jump Shot,1,3,3
+0022300279,13,PT11M02.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,110,108,15,Made,1,2,5,7,v,Holiday 15' Pullup Jump Shot (5 PTS) (Jokic 1 AST),Made Shot,Pullup Jump shot,1,2,7
+0022300279,20,PT10M15.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,1,0,11
+0022300279,31,PT08M57.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,19
+0022300279,53,PT06M12.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday Violation:Kicked Ball (D.Taylor),Violation,Kicked Ball,0,0,37
+0022300279,57,PT06M12.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Watson FOR Holiday,Substitution,,0,0,41
+0022300279,175,PT09M39.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,141,236,27,Missed,1,,,0,v,MISS Holiday 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,117
+0022300279,178,PT09M12.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,229,21,0,Made,1,37,49,86,v,Holiday 3PT Jump Shot (8 PTS) (Jackson 2 AST),Made Shot,Jump Shot,1,3,120
+0022300279,205,PT07M31.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Jokic FOR Holiday,Substitution,,0,0,142
+0022300279,315,PT11M31.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,-9,13,2,Made,1,65,72,137,v,Holiday 2' Cutting Dunk Shot (10 PTS) (Jokic 11 AST),Made Shot,Cutting Dunk Shot,1,2,213
+0022300279,324,PT10M59.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,230,8,0,Missed,1,,,0,v,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,1,3,218
+0022300279,330,PT10M34.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday STEAL (1 STL),,,1,0,225
+0022300279,359,PT07M57.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,125,238,27,Made,1,70,82,152,v,Holiday 27' 3PT Running Jump Shot (13 PTS) (Porter Jr. 3 AST),Made Shot,Running Jump Shot,1,3,246
+0022300279,375,PT06M19.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P2.T2) (K.Lane),Foul,Shooting,1,0,258
+0022300279,389,PT05M53.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Watson FOR Holiday,Substitution,,0,0,268
+0022300279,523,PT07M43.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,100,165,19,Made,1,98,100,198,v,Holiday 19' Pullup Jump Shot (15 PTS) (Porter Jr. 4 AST),Made Shot,Pullup Jump shot,1,2,371
+0022300279,571,PT04M42.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,400
+0022300279,595,PT03M28.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Jackson FOR Holiday,Substitution,,0,0,417
+0022300290,148,PT01M33.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,108
+0022300290,191,PT00M27.20S,1,1610612743,DEN,203200,Holiday,J. Holiday,-78,47,9,Missed,1,,,0,v,MISS Holiday 9' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,128
+0022300290,216,PT10M25.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday P.FOUL (P1.T1) (K.Scott),Foul,Personal,1,0,146
+0022300290,224,PT09M52.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P2.T2) (M.Dagher),Foul,Shooting,1,0,151
+0022300290,240,PT09M34.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,163
+0022300290,477,PT02M54.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,330
+0022300290,512,PT01M03.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,356
+0022300290,568,PT09M00.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Gordon FOR Holiday,Substitution,,0,0,397
+0022300307,80,PT04M50.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,227,-11,0,Made,1,15,17,32,v,Holiday 3PT Jump Shot (3 PTS) (Jokic 4 AST),Made Shot,Jump Shot,1,3,58
+0022300307,191,PT10M51.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday P.FOUL (P1.T1) (M.Smith),Foul,Personal,1,0,144
+0022300307,220,PT08M39.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,165
+0022300307,508,PT01M10.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,234,36,24,Made,1,78,87,165,v,Holiday 24' 3PT Running Jump Shot (6 PTS) (Jackson 3 AST),Made Shot,Running Jump Shot,1,3,373
+0022300307,570,PT08M15.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P2.T3) (M.Lindsay),Foul,Shooting,1,0,416
+0022300307,608,PT05M26.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,4,1,0,Made,1,89,102,191,v,Holiday Cutting Dunk Shot (8 PTS) (Gordon 6 AST),Made Shot,Cutting Dunk Shot,1,2,445
+0022300307,639,PT02M44.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,466
+0022300307,659,PT01M16.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P3.PN) (M.Smith),Foul,Shooting,1,0,483
+0022300307,663,PT00M55.90S,4,1610612743,DEN,203200,Holiday,J. Holiday,-227,-5,0,Missed,1,,,0,v,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,1,3,486
+0022300322,16,PT10M09.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,235,36,24,Missed,1,,,0,h,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,8
+0022300322,27,PT09M13.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,170,194,26,Missed,1,,,0,h,MISS Holiday 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,18
+0022300322,59,PT06M28.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,39
+0022300322,65,PT06M17.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (1 STL),,,1,0,43
+0022300322,76,PT05M29.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (2 STL),,,1,0,54
+0022300322,78,PT05M25.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,10,-2,1,Made,1,17,14,31,h,Holiday 1' Running Dunk (2 PTS) (Jokic 4 AST),Made Shot,Running Dunk Shot,1,2,55
+0022300322,98,PT04M07.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Braun FOR Holiday,Substitution,,0,0,67
+0022300322,260,PT05M21.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (3 STL),,,1,0,183
+0022300322,271,PT04M25.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,-225,79,24,Missed,1,,,0,h,MISS Holiday 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,193
+0022300322,315,PT01M35.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (4 STL),,,1,0,226
+0022300322,338,PT00M18.10S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday S.FOUL (P1.T4) (Z.Zarba),Foul,Shooting,1,0,244
+0022300322,399,PT07M55.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday S.FOUL (P2.T2) (B.Barnaky),Foul,Shooting,1,0,288
+0022300322,439,PT04M53.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,221,7,0,Missed,1,,,0,h,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,1,3,319
+0022300322,443,PT04M36.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,323
+0022300322,474,PT03M12.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Braun FOR Holiday,Substitution,,0,0,345
+0022300322,643,PT03M55.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,234,13,0,Missed,1,,,0,h,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,1,3,463
+0022300322,685,PT01M25.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Tyson FOR Holiday,Substitution,,0,0,496
+0022300340,15,PT10M55.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+0022300340,44,PT07M47.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,-200,143,25,Missed,1,,,0,h,MISS Holiday 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,34
+0022300340,76,PT05M34.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,227,24,0,Made,1,20,17,37,h,Holiday 3PT Jump Shot (3 PTS) (Gordon 2 AST),Made Shot,Jump Shot,1,3,56
+0022300340,100,PT04M08.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Strawther FOR Holiday,Substitution,,0,0,73
+0022300340,252,PT05M28.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,-134,143,20,Missed,1,,,0,h,MISS Holiday 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,183
+0022300340,357,PT10M40.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,186,195,27,Made,1,61,56,117,h,Holiday 27' 3PT Jump Shot (6 PTS) (Murray 5 AST),Made Shot,Jump Shot,1,3,253
+0022300340,419,PT05M26.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Watson FOR Holiday,Substitution,,0,0,299
+0022300340,650,PT03M14.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,456
+0022300340,654,PT03M05.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,459
+0022300356,618,PT04M40.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday BLOCK (1 BLK),,,0,2,409
+0022300356,572,PT04M12.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,-72,158,17,Missed,1,,,0,h,MISS Holiday 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,418
+0022300356,589,PT02M43.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday S.FOUL (P1.PN) (N.Buchert),Foul,Shooting,1,0,433
+0022300356,602,PT01M45.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,444
+0022300356,606,PT01M11.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,143,140,20,Missed,1,,,0,h,MISS Holiday 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,448
+0022300425,95,PT03M30.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (1 STL),,,1,0,71
+0022300425,133,PT00M54.30S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,97
+0022300425,136,PT00M36.70S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (2 STL),,,1,0,102
+0022300425,138,PT00M33.60S,1,1610612743,DEN,203200,Holiday,J. Holiday,11,0,1,Made,1,30,27,57,h,Holiday 1' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,1,2,103
+0022300425,153,PT11M41.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,-230,-25,0,Made,1,36,27,63,h,Holiday 3PT Jump Shot (5 PTS) (Jordan 1 AST),Made Shot,Jump Shot,1,3,112
+0022300425,212,PT07M43.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,-192,157,25,Missed,1,,,0,h,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,156
+0022300425,226,PT07M04.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,168
+0022300425,410,PT05M16.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday S.FOUL (P1.PN) (M.Davis),Foul,Shooting,1,0,303
+0022300425,423,PT04M34.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,221,22,0,Made,1,95,63,158,h,Holiday 3PT Jump Shot (8 PTS) (Caldwell-Pope 3 AST),Made Shot,Jump Shot,1,3,311
+0022300425,471,PT00M51.70S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday S.FOUL (P2.PN) (D.Mosher),Foul,Shooting,1,0,345
+0022300425,475,PT00M51.70S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Watson FOR Holiday,Substitution,,0,0,348
+0022300425,552,PT07M13.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,4,16,2,Missed,1,,,0,h,MISS Holiday 2' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,2,401
+0022300425,555,PT07M04.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,404
+0022300425,562,PT07M01.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Key FOR Holiday,Substitution,,0,0,409
+0022300435,107,PT03M16.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,238,4,24,Missed,1,,,0,h,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,74
+0022300435,148,PT00M14.20S,1,1610612743,DEN,203200,Holiday,J. Holiday,237,34,24,Missed,1,,,0,h,MISS Holiday 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,105
+0022300435,191,PT09M53.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Watson FOR Holiday,Substitution,,0,0,132
+0022300435,431,PT03M06.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday S.FOUL (P1.T2) (K.Lane),Foul,Shooting,1,0,314
+0022300435,637,PT01M52.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,456
+0022300435,657,PT00M21.10S,4,1610612743,DEN,203200,Holiday,J. Holiday,125,121,17,Missed,1,,,0,h,MISS Holiday 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,472
+0022300488,196,PT10M40.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday P.FOUL (P1.T1) (M.Myers),Foul,Personal,1,0,147
+0022300488,246,PT07M29.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Murray FOR Holiday,Substitution,,0,0,183
+0022300488,524,PT08M36.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,378
+0022300488,529,PT08M28.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,-2,256,26,Missed,1,,,0,h,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,382
+0022300488,543,PT07M46.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Murray FOR Holiday,Substitution,,0,0,393
+0022300524,195,PT07M28.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,146
+0022300524,572,PT07M28.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday L.B.FOUL (P1.T3) (Z.Zarba),Foul,Loose Ball,1,0,410
+0022300524,574,PT07M24.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday P.FOUL (P2.T4) (N.Sago),Foul,Personal,1,0,411
+0022300524,591,PT06M40.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,422
+0022300524,616,PT05M34.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,-33,256,26,Missed,1,,,0,v,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,438
+0022300524,622,PT05M06.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,221,112,25,Made,1,116,97,213,v,Holiday 25' 3PT Running Jump Shot (3 PTS) (Key 1 AST),Made Shot,Running Jump Shot,1,3,443
+0022300524,639,PT03M44.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,-94,247,26,Missed,1,,,0,v,MISS Holiday 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,454
+0022300524,641,PT03M31.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday STEAL (1 STL),,,1,0,457
+0022300539,618,PT01M26.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday Lost Ball Turnover (P1.T16),Turnover,Lost Ball,1,0,445
+0022300631,484,PT09M40.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,354
+0022300631,485,PT09M31.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,28,251,25,Missed,1,,,0,v,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,355
+0022300631,498,PT08M08.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday STEAL (1 STL),,,1,0,366
+0022300631,514,PT07M12.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P1.T1) (M.Kogut),Foul,Shooting,1,0,378
+0022300631,522,PT06M51.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,37,205,21,Made,1,110,75,185,v,Holiday 21' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,2,383
+0022300631,533,PT05M21.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday P.FOUL (P2.T3) (S.Foster),Foul,Personal,1,0,393
+0022300631,543,PT05M02.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,-105,164,19,Made,1,115,79,194,v,Holiday 19' Step Back Jump Shot (4 PTS) (Pickett 1 AST),Made Shot,Step Back Jump shot,1,2,398
+0022300631,558,PT03M30.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,221,1,0,Missed,1,,,0,v,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,1,3,407
+0022300682,146,PT01M18.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,-237,-22,24,Made,1,16,28,44,v,Holiday 24' 3PT Step Back Jump Shot (3 PTS) (Jackson 2 AST),Made Shot,Step Back Jump shot,1,3,112
+0022300682,159,PT00M28.60S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,121
+0022300682,162,PT00M01.50S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday BLOCK (1 BLK),,,1,3,125
+0022300682,195,PT09M03.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,140,218,26,Missed,1,,,0,v,MISS Holiday 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,146
+0022300682,212,PT08M01.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday P.FOUL (P1.T2) (N.Buchert),Foul,Personal,1,0,160
+0022300682,249,PT05M57.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P2.T4) (C.Blair),Foul,Shooting,1,0,185
+0022300682,253,PT05M57.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,188
+0022300682,472,PT02M12.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday STEAL (1 STL),,,1,0,352
+0022300682,478,PT01M50.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P3.PN) (N.Buchert),Foul,Shooting,1,0,355
+0022300682,494,PT00M28.90S,3,1610612743,DEN,203200,Holiday,J. Holiday,143,80,16,Made,1,70,72,142,v,Holiday 16' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,2,367
+0022300697,429,PT02M29.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,-143,150,21,Missed,1,,,0,h,MISS Holiday 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,329
+0022300697,469,PT11M02.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,244,14,24,Missed,1,,,0,h,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,357
+0022300697,491,PT08M10.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (1 STL),,,1,0,377
+0022300697,502,PT07M46.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,384
+0022300740,22,PT10M23.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,-6,20,2,Made,1,2,4,6,v,Holiday 2' Cutting Layup Shot (2 PTS) (Jokic 1 AST),Made Shot,Cutting Layup Shot,1,2,17
+0022300740,107,PT04M10.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Braun FOR Holiday,Substitution,,0,0,82
+0022300740,282,PT04M13.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P1.T2) (P.Fraher),Foul,Shooting,1,0,203
+0022300740,345,PT11M21.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,244
+0022300740,348,PT11M03.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday P.FOUL (P2.T1) (J.Goble),Foul,Personal,1,0,246
+0022300740,356,PT10M26.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday P.FOUL (P3.T2) (J.Goble),Foul,Personal,1,0,252
+0022300740,414,PT04M50.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P4.T4) (P.Fraher),Foul,Shooting,1,0,294
+0022300740,420,PT04M15.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P5.PN) (E.Scott),Foul,Shooting,1,0,298
+0022300740,424,PT04M15.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Watson FOR Holiday,Substitution,,0,0,301
+0022300740,559,PT07M30.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P6.T4) (P.Fraher),Foul,Shooting,1,0,397
+0022300740,561,PT07M30.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Watson FOR Holiday,Substitution,,0,0,398
+0022300746,48,PT07M13.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,232,31,0,Made,1,12,13,25,v,Holiday 3PT Jump Shot (3 PTS) (Gordon 2 AST),Made Shot,Jump Shot,1,3,34
+0022300746,56,PT06M01.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,82,80,11,Missed,1,,,0,v,MISS Holiday 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,40
+0022300746,84,PT04M01.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,232,86,25,Made,1,18,21,39,v,Holiday 25' 3PT Jump Shot (6 PTS) (Braun 1 AST),Made Shot,Jump Shot,1,3,61
+0022300746,100,PT03M08.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Strawther FOR Holiday,Substitution,,0,0,75
+0022300746,309,PT02M37.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,218
+0022300746,322,PT01M22.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,-233,16,0,Missed,1,,,0,v,MISS Holiday 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,228
+0022300746,326,PT00M54.40S,2,1610612743,DEN,203200,Holiday,J. Holiday,-169,193,26,Missed,1,,,0,v,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,231
+0022300746,332,PT00M31.50S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday STEAL (1 STL),,,1,0,237
+0022300746,357,PT10M40.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,255
+0022300746,402,PT07M15.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P1.T1) (J.Orr),Foul,Shooting,1,0,293
+0022300746,406,PT06M58.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,147,206,25,Made,1,83,69,152,v,Holiday 25' 3PT Jump Shot (9 PTS) (Jokic 6 AST),Made Shot,Jump Shot,1,3,296
+0022300746,410,PT06M18.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,237,21,24,Missed,1,,,0,v,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,298
+0022300746,447,PT04M24.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday STEAL (2 STL),,,1,0,323
+0022300746,460,PT03M41.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Strawther FOR Holiday,Substitution,,0,0,333
+0022300746,547,PT09M30.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,MISS Holiday Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,394
+0022300746,549,PT09M30.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,114,87,201,v,Holiday Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,396
+0022300746,555,PT08M51.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,400
+0022300746,566,PT08M34.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,194,176,26,Missed,1,,,0,v,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,406
+0022300746,579,PT07M27.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,-225,-2,0,Missed,1,,,0,v,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,1,3,416
+0022300746,641,PT01M48.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,463
+0022300746,653,PT00M43.90S,4,1610612743,DEN,203200,Holiday,J. Holiday,-206,135,25,Missed,1,,,0,v,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,470
+0022300767,236,PT05M57.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P1.T3) (G.Petraitis),Foul,Shooting,1,0,173
+0022300767,246,PT05M04.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,-233,1,0,Missed,1,,,0,v,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,1,3,182
+0022300767,308,PT00M12.80S,2,1610612743,DEN,203200,Holiday,J. Holiday,158,205,26,Made,1,60,44,104,v,Holiday 26' 3PT Jump Shot (3 PTS) (Jokic 4 AST),Made Shot,Jump Shot,1,3,229
+0022300767,345,PT09M54.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,93,257,27,Missed,1,,,0,v,MISS Holiday 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,253
+0022300767,373,PT06M52.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,234,27,24,Missed,1,,,0,v,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,276
+0022300767,387,PT05M35.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P2.T4) (G.Petraitis),Foul,Shooting,1,0,288
+0022300767,394,PT05M08.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,293
+0022300767,398,PT04M43.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,297
+0022300767,424,PT02M43.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,50,178,18,Made,1,84,63,147,v,Holiday 18' Pullup Jump Shot (5 PTS) (Jokic 8 AST),Made Shot,Pullup Jump shot,1,2,315
+0022300767,428,PT02M06.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,-234,84,25,Missed,1,,,0,v,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,317
+0022300767,448,PT00M49.30S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,333
+0022300786,18,PT10M27.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,12
+0022300786,31,PT08M45.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,-232,15,0,Made,1,10,5,15,h,Holiday 3PT Jump Shot (3 PTS) (Gordon 1 AST),Made Shot,Jump Shot,1,3,22
+0022300786,127,PT01M53.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,95
+0022300786,223,PT07M13.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,169
+0022300786,224,PT07M13.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,Missed,1,,,0,h,MISS Holiday Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,170
+0022300786,231,PT06M52.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,-227,68,24,Made,1,38,30,68,h,Holiday 24' 3PT Jump Shot (6 PTS) (Braun 1 AST),Made Shot,Jump Shot,1,3,174
+0022300786,253,PT05M38.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (1 STL),,,1,0,192
+0022300786,266,PT05M09.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,202
+0022300786,267,PT04M55.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,114,239,26,Missed,1,,,0,h,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,203
+0022300786,295,PT02M16.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday S.FOUL (P1.T4) (R.Acosta),Foul,Shooting,1,0,226
+0022300786,316,PT01M25.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,242
+0022300786,339,PT11M07.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday S.FOUL (P2.T1) (D.Guthrie),Foul,Shooting,1,0,260
+0022300786,355,PT09M31.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,-223,-21,0,Missed,1,,,0,h,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,1,3,270
+0022300786,396,PT05M38.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,300
+0022300786,424,PT03M47.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,68,60,128,h,Holiday Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,321
+0022300786,425,PT03M47.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,69,60,129,h,Holiday Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,322
+0022300786,435,PT02M47.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday S.FOUL (P3.T4) (D.Guthrie),Foul,Shooting,1,0,332
+0022300786,472,PT01M13.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Jackson FOR Holiday,Substitution,,0,0,356
+0022300786,588,PT05M08.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,-227,-12,0,Missed,1,,,0,h,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,1,3,434
+0022300786,624,PT01M41.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,119,145,19,Missed,1,,,0,h,MISS Holiday 19' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,459
+0022300786,631,PT01M14.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,15,8,2,Missed,1,,,0,h,MISS Holiday 2' Running Layup,Missed Shot,Running Layup Shot,1,2,466
+0022300800,534,PT00M54.50S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,396
+0022300800,732,PT00M49.50S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday BLOCK (1 BLK),,,0,2,400
+0022300800,560,PT11M33.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (1 STL),,,1,0,420
+0022300800,562,PT11M26.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,43,113,12,Made,1,103,83,186,h,Holiday 12' Running Dunk (2 PTS) (Jackson 3 AST),Made Shot,Running Dunk Shot,1,2,421
+0022300800,572,PT10M25.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (2 STL),,,1,0,430
+0022300800,586,PT09M59.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,48,267,27,Made,1,109,83,192,h,Holiday 27' 3PT Running Jump Shot (5 PTS) (Murray 8 AST),Made Shot,Running Jump Shot,1,3,440
+0022300800,617,PT08M00.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,130,243,28,Made,1,112,92,204,h,Holiday 28' 3PT Jump Shot (8 PTS) (Jokic 14 AST),Made Shot,Jump Shot,1,3,460
+0022300800,649,PT05M26.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Braun FOR Holiday,Substitution,,0,0,483
+0022300800,697,PT03M47.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,-228,25,0,Missed,1,,,0,h,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,1,3,509
+0022300800,701,PT03M22.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,121,151,19,Missed,1,,,0,h,MISS Holiday 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,512
+0022300812,155,PT11M38.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,-189,159,25,Missed,1,,,0,v,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,115
+0022300812,167,PT10M42.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday P.FOUL (P1.T1) (M.Kogut),Foul,Personal,1,0,126
+0022300812,209,PT07M31.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,159
+0022300824,698,PT01M07.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,18,312,31,Missed,1,,,0,v,MISS Holiday 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,488
+0022300847,170,PT10M51.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,-137,251,29,Missed,1,,,0,h,MISS Holiday 29' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,126
+0022300847,212,PT08M25.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,155
+0022300847,603,PT04M08.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,422
+0022300847,604,PT04M01.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,118,127,17,Made,1,111,87,198,h,Holiday 17' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,423
+0022300847,638,PT02M11.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday Bad Pass Turnover (P1.T16),Turnover,Bad Pass,1,0,445
+0022300847,640,PT02M08.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (1 STL),,,1,0,448
+0022300855,455,PT03M11.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,330
+0022300855,481,PT01M36.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,118,219,25,Missed,1,,,0,h,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,350
+0022300855,485,PT01M22.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,170,197,26,Missed,1,,,0,h,MISS Holiday 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,354
+0022300855,489,PT00M49.10S,3,1610612743,DEN,203200,Holiday,J. Holiday,241,27,24,Made,1,81,68,149,h,Holiday 24' 3PT Jump Shot (3 PTS) (Jokic 7 AST),Made Shot,Jump Shot,1,3,357
+0022300855,505,PT11M39.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,238,26,24,Made,1,86,70,156,h,Holiday 24' 3PT Jump Shot (6 PTS) (Gordon 3 AST),Made Shot,Jump Shot,1,3,365
+0022300855,511,PT10M58.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday S.FOUL (P1.T1) (K.Cutler),Foul,Shooting,1,0,369
+0022300855,534,PT09M40.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,387
+0022300855,558,PT07M36.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,403
+0022300869,118,PT00M24.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,136,212,25,Made,1,31,27,58,v,Holiday 25' 3PT Jump Shot (3 PTS) (Braun 1 AST),Made Shot,Jump Shot,1,3,85
+0022300869,184,PT08M22.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,92,232,25,Made,1,44,39,83,v,Holiday 25' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,3,127
+0022300869,238,PT04M42.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,9,21,2,Made,1,52,47,99,v,Holiday 2' Cutting Dunk Shot (8 PTS) (Jokic 3 AST),Made Shot,Cutting Dunk Shot,1,2,166
+0022300869,254,PT03M27.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Murray FOR Holiday,Substitution,,0,0,178
+0022300869,451,PT11M38.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,241,48,25,Missed,1,,,0,v,MISS Holiday 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,311
+0022300869,464,PT09M58.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,320
+0022300869,465,PT09M48.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,-229,17,0,Missed,1,,,0,v,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,1,3,321
+0022300869,472,PT09M36.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday STEAL (1 STL),,,1,0,329
+0022300869,526,PT04M29.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,-228,19,0,Made,1,108,108,216,v,Holiday 3PT Jump Shot (11 PTS) (Jokic 6 AST),Made Shot,Jump Shot,1,3,367
+0022300869,544,PT02M03.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,10,38,4,Made,1,110,117,227,v,Holiday 4' Running Layup (13 PTS) (Gordon 5 AST),Made Shot,Running Layup Shot,1,2,382
+0022300869,565,PT00M15.50S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,397
+0022300906,122,PT02M42.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,4,23,2,Made,1,22,23,45,h,Holiday 2' Running Layup (2 PTS) (Watson 1 AST),Made Shot,Running Layup Shot,1,2,85
+0022300906,232,PT06M54.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,164
+0022300906,347,PT00M11.50S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday BLOCK (1 BLK),,,1,2,250
+0022300906,516,PT10M57.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday S.FOUL (P1.T2) (M.Kogut),Foul,Shooting,1,0,361
+0022300906,542,PT09M14.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,-60,246,25,Missed,1,,,0,h,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,379
+0022300906,570,PT08M04.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,402
+0022300922,121,PT02M45.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,7,251,25,Made,1,34,16,50,h,Holiday 25' 3PT Jump Shot (3 PTS) (Jokic 2 AST),Made Shot,Jump Shot,1,3,86
+0022300922,241,PT05M46.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Gordon FOR Holiday,Substitution,,0,0,172
+0022300922,468,PT01M15.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,332
+0022300922,538,PT08M03.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday P.FOUL (P1.T3) (M.Lindsay),Foul,Personal,1,0,381
+0022300922,540,PT07M56.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday BLOCK (1 BLK),,,1,2,383
+0022300922,597,PT04M21.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,422
+0022300937,177,PT10M51.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,133
+0022300937,229,PT07M10.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,174
+0022300949,135,PT01M01.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,104
+0022300949,151,PT11M44.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,185,162,25,Missed,1,,,0,v,MISS Holiday 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,0,3,117
+0022300949,155,PT11M17.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,137,179,23,Missed,1,,,0,v,MISS Holiday 23' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,120
+0022300949,159,PT11M00.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P1.T1) (J.Goldenberg),Foul,Shooting,1,0,124
+0022300949,163,PT10M48.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,227,107,25,Missed,1,,,0,v,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,127
+0022300949,169,PT10M00.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,132
+0022300949,170,PT09M47.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,135,222,26,Missed,1,,,0,v,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,133
+0022300949,186,PT08M10.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday BLOCK (1 BLK),,,1,2,146
+0022300949,189,PT08M05.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P2.T3) (J.Goldenberg),Foul,Shooting,1,0,148
+0022300949,193,PT08M05.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Gordon FOR Holiday,Substitution,,0,0,151
+0022300949,462,PT07M42.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,347
+0022300949,469,PT07M05.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,188,10,19,Made,1,77,83,160,v,Holiday 19' Step Back Jump Shot (2 PTS) (Gordon 3 AST),Made Shot,Step Back Jump shot,1,2,353
+0022300949,478,PT06M29.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Jokic FOR Holiday,Substitution,,0,0,359
+0022300965,177,PT11M24.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,-11,5,1,Made,1,20,39,59,v,Holiday 1' Driving Reverse Layup (2 PTS) (Watson 1 AST),Made Shot,Driving Reverse Layup Shot,1,2,121
+0022300965,193,PT09M47.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,135,204,24,Missed,1,,,0,v,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,133
+0022300965,195,PT09M32.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday P.FOUL (P1.T3) (D.Richardson),Foul,Personal,1,0,135
+0022300965,206,PT08M46.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,6,0,1,Missed,1,,,0,v,MISS Holiday 1' Running Dunk,Missed Shot,Running Dunk Shot,1,2,145
+0022300965,208,PT08M41.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday STEAL (1 STL),,,1,0,148
+0022300965,254,PT05M40.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,203,137,24,Made,1,33,50,83,v,Holiday 24' 3PT Jump Shot (5 PTS) (Braun 2 AST),Made Shot,Jump Shot,1,3,181
+0022300965,266,PT04M49.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,189
+0022300965,448,PT01M04.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,135,218,26,Missed,1,,,0,v,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,320
+0022300965,461,PT00M00.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,-238,75,25,Made,1,79,86,165,v,Holiday 25' 3PT Jump Shot (8 PTS) (Murray 5 AST),Made Shot,Jump Shot,1,3,330
+0022300965,490,PT09M57.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,227,4,0,Missed,1,,,0,v,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,1,3,350
+0022300965,502,PT08M36.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,225,-17,0,Made,1,83,95,178,v,Holiday 3PT Jump Shot (11 PTS) (Braun 3 AST),Made Shot,Jump Shot,1,3,359
+0022300965,538,PT06M26.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P2.T3) (D.Richardson),Foul,Shooting,1,0,386
+0022300965,544,PT06M01.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,391
+0022300965,584,PT02M52.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday STEAL (2 STL),,,1,0,423
+0022300965,609,PT01M04.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,1,10,1,Made,1,100,117,217,v,Holiday 1' Running Layup (13 PTS) (Watson 2 AST),Made Shot,Running Layup Shot,1,2,440
+0022300978,208,PT11M08.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P1.T1) (N.Sago),Foul,Shooting,1,0,147
+0022300978,212,PT10M56.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,29,13,3,Missed,1,,,0,v,MISS Holiday 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,150
+0022300978,269,PT06M30.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Gordon FOR Holiday,Substitution,,0,0,194
+0022300978,558,PT10M03.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Gordon FOR Holiday,Substitution,,0,0,406
+0022300995,183,PT10M38.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,131
+0022300995,205,PT08M14.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday P.FOUL (P1.T1) (J.Tiven),Foul,Personal,1,0,149
+0022300995,226,PT07M09.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,-202,138,24,Made,1,37,48,85,v,Holiday 24' 3PT Jump Shot (3 PTS) (Gordon 2 AST),Made Shot,Jump Shot,1,3,164
+0022300995,267,PT05M06.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,185
+0022300995,270,PT04M11.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,-229,70,24,Made,1,43,58,101,v,Holiday 24' 3PT Running Jump Shot (6 PTS) (Jackson 4 AST),Made Shot,Running Jump Shot,1,3,194
+0022300995,283,PT03M35.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday Violation:Kicked Ball (R.Acosta),Violation,Kicked Ball,0,0,202
+0022300995,284,PT03M35.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Gordon FOR Holiday,Substitution,,0,0,203
+0022300995,504,PT07M30.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,186,164,25,Missed,1,,,0,v,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,369
+0022300995,559,PT03M21.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P2.T3) (R.Acosta),Foul,Shooting,1,0,408
+0022300995,565,PT02M42.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P3.T4) (J.Tiven),Foul,Shooting,1,0,412
+0022300995,570,PT02M42.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Murray FOR Holiday,Substitution,,0,0,416
+0022301009,158,PT09M37.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday S.FOUL (P1.T2) (M.Ervin),Foul,Shooting,1,0,108
+0022301009,173,PT08M16.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,119
+0022301009,188,PT07M21.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday S.FOUL (P2.T3) (M.Ervin),Foul,Shooting,1,0,131
+0022301009,193,PT07M08.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,165,195,26,Missed,1,,,0,h,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,135
+0022301009,198,PT07M05.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Jokic FOR Holiday,Substitution,,0,0,139
+0022301009,451,PT10M33.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,192,172,26,Missed,1,,,0,h,MISS Holiday 26' 3PT Floating Jump Shot,Missed Shot,Floating Jump shot,1,3,315
+0022301009,463,PT09M52.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,325
+0022301026,121,PT02M51.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,95
+0022301026,264,PT05M07.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,10,9,1,Made,1,35,49,84,v,Holiday 1' Running Dunk (2 PTS) (Gordon 2 AST),Made Shot,Running Dunk Shot,1,2,208
+0022301026,286,PT03M45.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Braun FOR Holiday,Substitution,,0,0,223
+0022301026,482,PT02M31.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,102,136,17,Missed,1,,,0,v,MISS Holiday 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,354
+0022301040,152,PT01M28.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,-227,6,0,Made,1,37,24,61,h,Holiday 3PT Jump Shot (3 PTS) (Jokic 3 AST),Made Shot,Jump Shot,1,3,113
+0022301040,187,PT11M39.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday L.B.FOUL (P1.T1) (S.Wall),Foul,Loose Ball,1,0,134
+0022301040,201,PT10M41.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,144
+0022301040,241,PT07M49.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,176
+0022301040,419,PT04M48.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,244,52,25,Made,1,86,68,154,h,Holiday 25' 3PT Jump Shot (6 PTS) (Gillespie 1 AST),Made Shot,Jump Shot,1,3,307
+0022301040,454,PT02M56.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (1 STL),,,1,0,328
+0022301040,466,PT01M49.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,22,13,3,Missed,1,,,0,h,MISS Holiday 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,337
+0022301040,708,PT01M48.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (2 STL),,,0,0,341
+0022301040,480,PT00M54.60S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,350
+0022301040,522,PT11M12.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,-18,175,18,Made,1,101,76,177,h,Holiday 18' Jump Shot (8 PTS) (Jordan 1 AST),Made Shot,Jump Shot,1,2,380
+0022301040,566,PT08M42.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,218,113,25,Made,1,107,83,190,h,Holiday 25' 3PT Jump Shot (11 PTS) (Jackson 7 AST),Made Shot,Jump Shot,1,3,413
+0022301040,579,PT07M57.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,229,13,0,Missed,1,,,0,h,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,1,3,424
+0022301040,599,PT06M12.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,439
+0022301040,635,PT04M16.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Pickett FOR Holiday,Substitution,,0,0,461
+0022301059,177,PT09M33.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (1 STL),,,1,0,128
+0022301059,195,PT08M32.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,-232,31,0,Missed,1,,,0,h,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,1,3,142
+0022301059,213,PT07M30.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,154
+0022301059,436,PT00M59.50S,3,1610612743,DEN,203200,Holiday,J. Holiday,237,-1,24,Missed,1,,,0,h,MISS Holiday 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,311
+0022301071,155,PT00M08.10S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,108
+0022301071,277,PT02M11.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday S.FOUL (P1.T4) (K.Lane),Foul,Shooting,1,0,190
+0022301071,288,PT01M06.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,49,246,25,Missed,1,,,0,h,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,199
+0022301071,440,PT02M18.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,-147,204,25,Made,1,63,81,144,h,Holiday 25' 3PT Jump Shot (3 PTS) (Jackson 3 AST),Made Shot,Jump Shot,1,3,311
+0022301071,444,PT01M44.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday P.FOUL (P2.T4) (J.Goble),Foul,Personal,1,0,314
+0022301071,485,PT11M21.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,-9,16,2,Made,1,68,87,155,h,Holiday 2' Cutting Layup Shot (5 PTS) (Jackson 5 AST),Made Shot,Cutting Layup Shot,1,2,339
+0022301071,531,PT09M55.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (1 STL),,,1,0,352
+0022301071,518,PT09M10.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,222,17,0,Missed,1,,,0,h,MISS Holiday 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,362
+0022301071,559,PT07M04.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Jokic FOR Holiday,Substitution,,0,0,393
+0022301071,644,PT01M16.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,-232,38,24,Missed,1,,,0,h,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,458
+0022301071,674,PT00M46.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Huff FOR Holiday,Substitution,,0,0,481
+0022301077,133,PT01M06.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,11,15,2,Missed,1,,,0,h,MISS Holiday 2' Layup,Missed Shot,Layup Shot,1,2,97
+0022301077,134,PT01M03.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,98
+0022301077,135,PT01M03.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,Made,1,29,23,52,h,Holiday Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,99
+0022301077,197,PT08M49.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,211,122,24,Missed,1,,,0,h,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,144
+0022301077,209,PT08M14.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,153
+0022301077,279,PT03M45.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,124,139,19,Made,1,50,47,97,h,Holiday 19' Pullup Jump Shot (4 PTS) (Jokic 5 AST),Made Shot,Pullup Jump shot,1,2,200
+0022301077,306,PT01M08.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (1 STL),,,1,0,219
+0022301077,308,PT01M05.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,220
+0022301077,312,PT00M49.60S,2,1610612743,DEN,203200,Holiday,J. Holiday,18,184,18,Missed,1,,,0,h,MISS Holiday 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,223
+0022301077,454,PT01M35.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,-235,-23,24,Made,1,99,72,171,h,Holiday 24' 3PT Jump Shot (7 PTS) (Jokic 12 AST),Made Shot,Jump Shot,1,3,325
+0022301077,500,PT10M14.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday S.FOUL (P1.T3) (S.Foster),Foul,Shooting,1,0,358
+0022301077,546,PT06M19.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,67,236,25,Missed,1,,,0,h,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,389
+0022301077,548,PT06M08.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday BLOCK (1 BLK),,,1,2,392
+0022301077,557,PT05M49.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,399
+0022301099,151,PT00M52.20S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,118
+0022301099,185,PT10M08.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,140,124,19,Missed,1,,,0,h,MISS Holiday 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,141
+0022301099,197,PT09M12.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,29,26,4,Missed,1,,,0,h,MISS Holiday 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,151
+0022301099,210,PT08M32.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday BLOCK (1 BLK),,,1,2,159
+0022301099,236,PT06M27.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,178
+0022301099,432,PT05M07.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,-232,50,24,Made,1,73,74,147,h,Holiday 24' 3PT Jump Shot (3 PTS) (Jokic 5 AST),Made Shot,Jump Shot,0,3,322
+0022301099,452,PT03M48.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday Violation:Kicked Ball (J.DeRosa),Violation,Kicked Ball,0,0,332
+0022301099,461,PT02M58.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,339
+0022301099,517,PT11M46.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,21,6,2,Missed,1,,,0,h,MISS Holiday 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,373
+0022301099,519,PT11M44.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,375
+0022301099,540,PT10M11.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,121,68,14,Made,1,91,85,176,h,Holiday 14' Pullup Jump Shot (5 PTS) (Watson 1 AST),Made Shot,Pullup Jump shot,1,2,391
+0022301099,594,PT06M20.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,-27,256,26,Missed,1,,,0,h,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,427
+0022301099,596,PT06M05.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (1 STL),,,1,0,430
+0022301099,607,PT05M40.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday BLOCK (2 BLK),,,1,3,436
+0022301099,622,PT04M46.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,448
+0022301114,134,PT02M23.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,99
+0022301114,137,PT01M39.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,102
+0022301114,149,PT00M17.60S,1,1610612743,DEN,203200,Holiday,J. Holiday,141,233,27,Missed,1,,,0,v,MISS Holiday 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,111
+0022301114,180,PT10M16.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,131
+0022301114,429,PT02M32.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,316
+0022301130,131,PT02M08.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,1,0,100
+0022301130,150,PT00M47.10S,1,1610612743,DEN,203200,Holiday,J. Holiday,9,21,2,Made,1,31,21,52,h,Holiday 2' Running Layup (2 PTS) (Jokic 3 AST),Made Shot,Running Layup Shot,1,2,116
+0022301130,179,PT11M29.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (1 STL),,,1,0,134
+0022301130,196,PT10M11.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,65,257,27,Made,1,38,26,64,h,Holiday 27' 3PT Jump Shot (5 PTS) (Strawther 1 AST),Made Shot,Jump Shot,1,3,145
+0022301130,235,PT08M03.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday S.FOUL (P1.T4) (P.Fraher),Foul,Shooting,1,0,171
+0022301130,259,PT06M40.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,187
+0022301130,540,PT08M41.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday S.FOUL (P2.T1) (P.Fraher),Foul,Shooting,1,0,380
+0022301130,570,PT06M44.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,223,24,0,Made,1,122,98,220,h,Holiday 3PT Turnaround Fadeaway (8 PTS),Made Shot,Turnaround Fadeaway shot,1,3,403
+0022301154,132,PT00M56.30S,1,1610612743,DEN,203200,Holiday,J. Holiday,-23,0,2,Missed,1,,,0,v,MISS Holiday 2' Layup,Missed Shot,Layup Shot,1,2,100
+0022301154,195,PT11M13.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,119
+0022301154,172,PT09M09.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday S.FOUL (P1.T1) (N.Sago),Foul,Shooting,1,0,134
+0022301154,198,PT07M58.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,53,245,25,Made,1,31,43,74,v,Holiday 25' 3PT Jump Shot (3 PTS) (Jackson 2 AST),Made Shot,Jump Shot,1,3,150
+0022301154,224,PT05M57.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Braun FOR Holiday,Substitution,,0,0,173
+0022301154,492,PT07M56.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,-129,222,26,Missed,1,,,0,v,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,372
+0022301154,501,PT06M57.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Jokic FOR Holiday,Substitution,,0,0,381
+0022301154,585,PT01M10.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,-230,102,25,Made,1,92,111,203,v,Holiday 25' 3PT Jump Shot (6 PTS) (Pickett 1 AST),Made Shot,Jump Shot,1,3,446
+0022301154,589,PT00M53.60S,4,1610612743,DEN,203200,Holiday,J. Holiday,109,237,26,Missed,1,,,0,v,MISS Holiday 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,448
+0022301164,160,PT10M47.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (1 STL),,,1,0,116
+0022301164,162,PT10M39.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,-232,15,0,Made,1,29,28,57,h,Holiday 3PT Jump Shot (3 PTS) (Jackson 1 AST),Made Shot,Jump Shot,1,3,117
+0022301164,169,PT10M01.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday P.FOUL (P1.T2) (C.Washington),Foul,Personal,1,0,122
+0022301164,202,PT07M29.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Jokic FOR Holiday,Substitution,,0,0,147
+0022301164,437,PT01M14.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,318
+0022301180,128,PT01M11.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,-232,0,0,Missed,1,,,0,v,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,1,3,98
+0022301180,139,PT00M05.30S,1,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday L.B.FOUL (P1.T3) (J.Sterling),Foul,Loose Ball,1,0,106
+0022301180,154,PT11M16.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,232,17,0,Made,1,34,34,68,v,Holiday 3PT Jump Shot (3 PTS) (Jackson 2 AST),Made Shot,Jump Shot,1,3,116
+0022301180,157,PT11M00.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,13,247,25,Missed,1,,,0,v,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,119
+0022301180,160,PT10M45.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,122
+0022301180,217,PT07M33.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,-228,10,0,Missed,1,,,0,v,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,1,3,165
+0022301180,225,PT07M07.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,239,-6,24,Missed,1,,,0,v,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,171
+0022301180,233,PT06M36.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Murray FOR Holiday,Substitution,,0,0,179
+0022301180,429,PT02M13.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,-165,194,25,Made,1,83,94,177,v,Holiday 25' 3PT Jump Shot (6 PTS) (Jokic 9 AST),Made Shot,Jump Shot,1,3,314
+0022301180,451,PT00M39.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,5,1,Made,1,87,97,184,v,Holiday 1' Driving Reverse Layup (8 PTS) (Jokic 10 AST),Made Shot,Driving Reverse Layup Shot,1,2,330
+0022301180,475,PT11M06.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday STEAL (1 STL),,,1,0,343
+0022301180,531,PT07M57.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Jokic FOR Holiday,Substitution,,0,0,388
+0022301193,145,PT01M15.00S,1,1610612743,DEN,203200,Holiday,J. Holiday,224,38,0,Made,1,22,27,49,v,Holiday 3PT Jump Shot (3 PTS) (Braun 1 AST),Made Shot,Jump Shot,1,3,113
+0022301193,169,PT11M30.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday OFF.Foul (P1) (M.Smith),Foul,Offensive,1,0,129
+0022301193,171,PT11M30.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,1,0,130
+0022301193,179,PT10M18.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,71,243,25,Missed,1,,,0,v,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,137
+0022301193,218,PT08M04.00S,2,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Murray FOR Holiday,Substitution,,0,0,171
+0022301193,453,PT01M51.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday STEAL (1 STL),,,1,0,349
+0022301193,476,PT00M10.10S,3,1610612743,DEN,203200,Holiday,J. Holiday,-146,201,25,Missed,1,,,0,v,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,365
+0022301193,490,PT11M47.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,-81,230,24,Missed,1,,,0,v,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,371
+0022301193,497,PT11M19.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,377
+0022301193,571,PT04M29.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,-88,227,24,Missed,1,,,0,v,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,433
+0022301193,610,PT01M23.00S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,v,SUB: Key FOR Holiday,Substitution,,0,0,462
+0022301224,428,PT02M54.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday STEAL (1 STL),,,1,0,323
+0022301224,452,PT01M19.00S,3,1610612743,DEN,203200,Holiday,J. Holiday,9,8,1,Made,1,74,85,159,h,Holiday 1' Running Dunk (2 PTS) (Braun 1 AST),Made Shot,Running Dunk Shot,1,2,342
+0022301224,650,PT00M48.50S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,487
+0022301224,664,PT00M41.60S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,Holiday P.FOUL (P1.PN) (J.Orr),Foul,Personal,1,0,494
+0022301224,671,PT00M41.60S,4,1610612743,DEN,203200,Holiday,J. Holiday,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,499

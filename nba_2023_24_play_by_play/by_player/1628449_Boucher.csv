@@ -1,0 +1,733 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300031,151,PT00M08.90S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Trent Jr. FOR Boucher,Substitution,,0,0,107
+0022300031,178,PT10M05.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,128
+0022300031,204,PT07M59.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,5,0,1,Made,1,36,38,74,h,Boucher 1' Layup (2 PTS) (Flynn 2 AST),Made Shot,Layup Shot,1,2,146
+0022300031,224,PT07M08.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,MISS Boucher Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,158
+0022300031,226,PT07M08.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,37,38,75,h,Boucher Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,160
+0022300031,233,PT06M19.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,2,32,3,Missed,1,,,0,h,MISS Boucher 3' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,166
+0022300031,248,PT05M43.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,38,258,26,Made,1,41,42,83,h,Boucher 26' 3PT Jump Shot (6 PTS) (Schroder 3 AST),Made Shot,Jump Shot,1,3,176
+0022300031,259,PT04M50.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Barnes FOR Boucher,Substitution,,0,0,182
+0022300031,466,PT11M10.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,15,30,3,Missed,1,,,0,h,MISS Boucher 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,328
+0022300031,479,PT09M58.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,339
+0022300031,480,PT09M55.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,20,63,7,Missed,1,,,0,h,MISS Boucher 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,340
+0022300031,507,PT07M08.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-223,-5,0,Missed,1,,,0,h,MISS Boucher 3PT Jump Shot,Missed Shot,Jump Shot,1,3,360
+0022300031,510,PT06M48.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,363
+0022300031,531,PT05M13.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,377
+0022300031,535,PT05M10.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Trent Jr. FOR Boucher,Substitution,,0,0,380
+0022300038,158,PT11M14.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher BLOCK (1 BLK),,,1,2,119
+0022300038,164,PT10M54.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher S.FOUL (P1.T1) (J.Orr),Foul,Shooting,1,0,124
+0022300038,174,PT10M16.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher P.FOUL (P2.T2) (M.Dagher),Foul,Personal,1,0,131
+0022300038,180,PT09M53.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-219,105,24,Made,1,34,26,60,v,Boucher 24' 3PT Jump Shot (3 PTS) (Achiuwa 1 AST),Made Shot,Jump Shot,1,3,135
+0022300038,199,PT08M28.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-232,78,24,Missed,1,,,0,v,MISS Boucher 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,150
+0022300038,235,PT06M10.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Schroder FOR Boucher,Substitution,,0,0,175
+0022300038,545,PT08M13.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher L.B.FOUL (P3.T1) (J.Orr),Foul,Loose Ball,1,0,402
+0022300038,568,PT06M42.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,223,17,0,Missed,1,,,0,v,MISS Boucher 3PT Jump Shot,Missed Shot,Jump Shot,1,3,417
+0022300038,611,PT03M17.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,10,75,8,Missed,1,,,0,v,MISS Boucher 8' Jump Shot,Missed Shot,Jump Shot,1,2,451
+0022300038,622,PT02M54.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,461
+0022300038,632,PT01M38.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,469
+0022300046,269,PT09M42.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,15,8,2,Missed,1,,,0,h,MISS Boucher 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,126
+0022300046,177,PT09M34.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher STEAL (1 STL),,,1,0,129
+0022300046,179,PT09M30.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,11,5,1,Made,1,42,24,66,h,Boucher 1' Layup (2 PTS),Made Shot,Layup Shot,1,2,130
+0022300046,198,PT08M17.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,234,77,25,Missed,1,,,0,h,MISS Boucher 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,145
+0022300046,212,PT06M41.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,45,31,76,h,Boucher Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,157
+0022300046,225,PT06M41.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,46,31,77,h,Boucher Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,164
+0022300046,233,PT06M01.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Siakam FOR Boucher,Substitution,,0,0,171
+0022300046,465,PT10M44.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher S.FOUL (P1.T1) (K.Scott),Foul,Shooting,1,0,341
+0022300046,467,PT10M44.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher T.FOUL (P1.T1) (K.Scott),Foul,Technical,1,0,342
+0022300046,476,PT10M42.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,349
+0022300046,536,PT07M39.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Siakam FOR Boucher,Substitution,,0,0,392
+0022300054,188,PT09M49.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-234,21,0,Made,1,28,27,55,v,Boucher 3PT Jump Shot (3 PTS) (Barnes 1 AST),Made Shot,Jump Shot,1,3,140
+0022300054,199,PT08M35.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,149
+0022300054,207,PT08M07.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,200,168,26,Made,1,32,30,62,v,Boucher 26' 3PT Jump Shot (6 PTS) (Barnes 2 AST),Made Shot,Jump Shot,1,3,155
+0022300054,225,PT06M58.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,5,18,2,Made,1,35,32,67,v,Boucher 2' Running Finger Roll Layup (8 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,165
+0022300054,228,PT06M37.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-1,79,8,Missed,1,,,0,v,MISS Boucher 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,168
+0022300054,230,PT06M29.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher STEAL (1 STL),,,1,0,171
+0022300054,270,PT04M19.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Anunoby FOR Boucher,Substitution,,0,0,199
+0022300054,530,PT10M14.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,225,-4,0,Missed,1,,,0,v,MISS Boucher 3PT Jump Shot,Missed Shot,Jump Shot,1,3,398
+0022300054,541,PT09M20.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-16,10,2,Made,1,80,80,160,v,Boucher 2' Layup (10 PTS) (Barnes 5 AST),Made Shot,Layup Shot,1,2,407
+0022300054,550,PT08M02.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,222,119,25,Made,1,84,85,169,v,Boucher 25' 3PT Jump Shot (13 PTS) (Barnes 6 AST),Made Shot,Jump Shot,1,3,413
+0022300054,582,PT05M55.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Poeltl FOR Boucher,Substitution,,0,0,432
+0022300082,263,PT03M19.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher OFF.Foul (P1) (B.Barnaky),Foul,Offensive,1,0,198
+0022300082,265,PT03M19.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher Offensive Foul Turnover (P1.T13),Turnover,Offensive Foul Turnover,1,0,199
+0022300082,276,PT02M08.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-2,8,1,Made,1,42,27,69,v,Boucher 1' Driving Layup (2 PTS) (Barnes 3 AST),Made Shot,Driving Layup Shot,1,2,210
+0022300082,280,PT02M08.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,42,28,70,v,Boucher Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,212
+0022300082,294,PT01M21.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-4,143,14,Missed,1,,,0,v,MISS Boucher 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,223
+0022300082,504,PT11M37.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,368
+0022300082,531,PT09M28.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,10,31,3,Made,1,67,74,141,v,Boucher 3' Layup (5 PTS),Made Shot,Layup Shot,1,2,387
+0022300082,559,PT07M05.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,MISS Boucher Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,406
+0022300082,571,PT07M05.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,71,80,151,v,Boucher Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,413
+0022300082,605,PT04M47.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Barnes FOR Boucher,Substitution,,0,0,437
+0022300082,695,PT00M09.40S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,504
+0022300082,705,PT00M03.50S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher S.FOUL (P2.PN) (J.Goble),Foul,Shooting,1,0,512
+0022300082,736,PT04M45.00S,5,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher S.FOUL (P3.T1) (B.Barnaky),Foul,Shooting,1,0,531
+0022300082,743,PT03M51.00S,5,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,536
+0022300082,747,PT03M22.00S,5,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,540
+0022300082,762,PT01M41.00S,5,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,552
+0022300082,764,PT01M18.00S,5,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,554
+0022300082,767,PT01M18.00S,5,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,99,100,199,v,Boucher Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,556
+0022300082,768,PT01M18.00S,5,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,99,101,200,v,Boucher Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,557
+0022300082,771,PT00M39.40S,5,1610612761,TOR,1628449,Boucher,C. Boucher,5,18,2,Made,1,99,103,202,v,Boucher 2' Jump Bank Shot (10 PTS) (Schroder 10 AST),Made Shot,Jump Bank Shot,1,2,560
+0022300092,121,PT02M00.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher Traveling Turnover (P1.T3),Turnover,Traveling,1,0,86
+0022300092,129,PT01M07.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,-12,22,3,Missed,1,,,0,h,MISS Boucher 3' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,91
+0022300092,131,PT00M54.60S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher STEAL (1 STL),,,1,0,94
+0022300092,133,PT00M52.20S,1,1610612761,TOR,1628449,Boucher,C. Boucher,6,4,1,Made,1,32,27,59,h,Boucher 1' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,95
+0022300092,136,PT00M52.20S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,33,27,60,h,Boucher Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,97
+0022300092,173,PT10M30.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,116,237,26,Missed,1,,,0,h,MISS Boucher 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,122
+0022300092,190,PT09M33.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,230,29,0,Missed,1,,,0,h,MISS Boucher 3PT Jump Shot,Missed Shot,Jump Shot,1,3,137
+0022300092,215,PT08M20.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Siakam FOR Boucher,Substitution,,0,0,155
+0022300092,448,PT00M47.20S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,330
+0022300092,465,PT11M41.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,341
+0022300092,468,PT11M40.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,80,91,171,h,Boucher Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,343
+0022300092,469,PT11M40.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,81,91,172,h,Boucher Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,344
+0022300092,475,PT10M47.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,349
+0022300092,479,PT10M12.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,353
+0022300092,482,PT09M58.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-180,67,19,Missed,1,,,0,h,MISS Boucher 19' Jump Shot,Missed Shot,Jump Shot,1,2,355
+0022300092,494,PT09M26.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,49,11,5,Missed,1,,,0,h,MISS Boucher 5' Layup,Missed Shot,Layup Shot,1,2,363
+0022300092,499,PT09M20.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher S.FOUL (P1.T3) (M.Kogut),Foul,Shooting,1,0,368
+0022300092,505,PT08M58.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher P.FOUL (P2.T4) (M.Kogut),Foul,Personal,1,0,372
+0022300092,507,PT08M58.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Siakam FOR Boucher,Substitution,,0,0,373
+0022300105,101,PT03M26.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,75
+0022300105,130,PT01M52.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,97
+0022300105,131,PT01M52.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,Made,1,23,16,39,h,Boucher Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,98
+0022300105,133,PT01M20.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,-183,18,18,Missed,1,,,0,h,MISS Boucher 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,100
+0022300105,143,PT00M32.10S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher BLOCK (1 BLK),,,1,2,108
+0022300105,148,PT00M02.30S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,112
+0022300105,167,PT10M55.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,126
+0022300105,183,PT09M34.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,26,30,56,h,Boucher Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,137
+0022300105,184,PT09M34.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,27,30,57,h,Boucher Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,138
+0022300105,226,PT06M38.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Dick FOR Boucher,Substitution,,0,0,169
+0022300105,427,PT02M43.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher S.FOUL (P1.T3) (B.Forte),Foul,Shooting,1,0,324
+0022300105,432,PT02M23.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,328
+0022300105,433,PT02M23.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,Missed,1,,,0,h,MISS Boucher Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,329
+0022300105,452,PT00M42.60S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,343
+0022300105,453,PT00M39.50S,3,1610612761,TOR,1628449,Boucher,C. Boucher,27,15,3,Missed,1,,,0,h,MISS Boucher 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,344
+0022300105,467,PT00M08.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,354
+0022300105,484,PT11M12.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,365
+0022300105,507,PT08M38.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher L.B.FOUL (P2.T1) (D.Taylor),Foul,Loose Ball,1,0,384
+0022300105,533,PT07M38.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Siakam FOR Boucher,Substitution,,0,0,403
+0022300116,125,PT02M12.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher STEAL (1 STL),,,1,0,97
+0022300116,139,PT01M19.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,108
+0022300116,153,PT00M33.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Schroder FOR Boucher,Substitution,,0,0,119
+0022300116,190,PT10M11.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,141
+0022300116,194,PT09M49.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,145
+0022300116,195,PT09M31.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-47,22,5,Made,1,39,20,59,h,Boucher 5' Turnaround Fadeaway (2 PTS) (Anunoby 2 AST),Made Shot,Turnaround Fadeaway shot,1,2,146
+0022300116,231,PT07M19.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Poeltl FOR Boucher,Substitution,,0,0,173
+0022300116,486,PT02M26.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher S.FOUL (P1.PN) (J.DeRosa),Foul,Shooting,1,0,353
+0022300116,504,PT01M30.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher S.FOUL (P2.PN) (J.Tiven),Foul,Shooting,1,0,367
+0022300116,508,PT01M17.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,370
+0022300116,509,PT01M17.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,Made,1,90,75,165,h,Boucher Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,371
+0022300116,510,PT00M59.90S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher P.FOUL (P3.PN) (T.Mirkovich),Foul,Personal,1,0,372
+0022300116,513,PT00M59.90S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Porter Jr. FOR Boucher,Substitution,,0,0,374
+0022300116,677,PT01M24.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-130,230,26,Missed,1,,,0,h,MISS Boucher 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,483
+0022300116,683,PT01M07.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,129,108,237,h,Boucher Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,487
+0022300116,684,PT01M07.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,130,108,238,h,Boucher Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,488
+0022300116,686,PT00M34.70S,4,1610612761,TOR,1628449,Boucher,C. Boucher,9,65,7,Missed,1,,,0,h,MISS Boucher 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,490
+0022300116,689,PT00M26.60S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,493
+0022300128,122,PT02M37.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,64,272,28,Missed,1,,,0,v,MISS Boucher 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,88
+0022300128,136,PT01M11.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher S.FOUL (P1.T2) (M.Lindsay),Foul,Shooting,1,0,100
+0022300128,146,PT00M47.50S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,108
+0022300128,150,PT00M09.40S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher P.FOUL (P2.PN) (J.Orr),Foul,Personal,1,0,111
+0022300128,173,PT11M45.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,2,10,1,Made,1,30,28,58,v,Boucher 1' Driving Reverse Layup (2 PTS) (Anunoby 1 AST),Made Shot,Driving Reverse Layup Shot,1,2,120
+0022300128,195,PT09M55.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher BLOCK (1 BLK),,,1,2,138
+0022300128,201,PT09M36.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,143
+0022300128,202,PT09M36.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,Made,1,33,32,65,v,Boucher Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,144
+0022300128,220,PT07M55.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher L.B.FOUL (P3.T1) (M.Lindsay),Foul,Loose Ball,1,0,159
+0022300128,231,PT07M22.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Schroder FOR Boucher,Substitution,,0,0,168
+0022300128,486,PT00M29.40S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,350
+0022300128,488,PT00M06.40S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,352
+0022300128,489,PT00M05.20S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher Lost Ball Turnover (P1.T15),Turnover,Lost Ball,1,0,353
+0022300128,505,PT12M00.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher T.FOUL (P3.T0) (M.Lindsay),Foul,Technical,0,0,360
+0022300128,515,PT10M45.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,246,23,25,Missed,1,,,0,v,MISS Boucher 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,367
+0022300128,531,PT09M35.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,95,81,176,v,Boucher Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,380
+0022300128,536,PT09M35.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,95,82,177,v,Boucher Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,383
+0022300128,540,PT09M16.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Poeltl FOR Boucher,Substitution,,0,0,386
+0022300168,158,PT11M36.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,117
+0022300168,159,PT11M31.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,132,220,26,Made,1,33,30,63,v,Boucher 26' 3PT Jump Shot (3 PTS) (Flynn 2 AST),Made Shot,Jump Shot,1,3,118
+0022300168,187,PT08M49.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,141
+0022300168,188,PT08M48.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,Made,1,39,38,77,v,Boucher Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,1,2,142
+0022300168,193,PT08M15.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher BLOCK (1 BLK),,,1,2,148
+0022300168,200,PT07M55.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher Offensive Charge Foul (P1) (S.Wright),Foul,Offensive Charge,1,0,154
+0022300168,202,PT07M55.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0,155
+0022300168,213,PT07M22.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-15,63,6,Made,1,39,40,79,v,Boucher 6' Driving Floating Bank Jump Shot (7 PTS) (Flynn 4 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,162
+0022300168,221,PT06M59.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Siakam FOR Boucher,Substitution,,0,0,168
+0022300168,471,PT04M12.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,MISS Boucher Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,339
+0022300168,473,PT04M12.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,76,87,163,v,Boucher Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,341
+0022300168,505,PT01M24.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher P.FOUL (P2.PN) (B.Taylor),Foul,Personal,1,0,364
+0022300168,519,PT01M04.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher L.B.FOUL (P3.PN) (B.Taylor),Foul,Loose Ball,1,0,373
+0022300168,526,PT00M48.40S,3,1610612761,TOR,1628449,Boucher,C. Boucher,23,34,4,Made,1,85,96,181,v,Boucher 4' Layup (10 PTS) (Trent Jr. 1 AST),Made Shot,Layup Shot,1,2,378
+0022300168,536,PT00M17.10S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher S.FOUL (P4.PN) (J.Reneau),Foul,Shooting,1,0,386
+0022300168,539,PT00M17.10S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Siakam FOR Boucher,Substitution,,0,0,388
+0022300168,597,PT08M18.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher S.FOUL (P5.T3) (J.Reneau),Foul,Shooting,1,0,429
+0022300168,629,PT06M13.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Anunoby FOR Boucher,Substitution,,0,0,454
+0022300174,151,PT00M33.30S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher S.FOUL (P1.PN) (S.Wall),Foul,Shooting,1,0,106
+0022300174,187,PT08M40.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Dick FOR Boucher,Substitution,,0,0,133
+0022300174,237,PT05M36.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,169
+0022300174,261,PT02M56.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Anunoby FOR Boucher,Substitution,,0,0,190
+0022300174,443,PT00M01.90S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,325
+0022300174,492,PT09M08.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,356
+0022300174,514,PT07M56.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-229,41,0,Missed,1,,,0,v,MISS Boucher 3PT Jump Shot,Missed Shot,Jump Shot,1,3,370
+0022300174,517,PT07M40.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,373
+0022300174,525,PT07M04.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,22,34,4,Missed,1,,,0,v,MISS Boucher 4' Layup,Missed Shot,Layup Shot,1,2,380
+0022300174,529,PT06M24.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-189,205,28,Made,1,103,76,179,v,Boucher 28' 3PT Jump Shot (3 PTS) (Dick 1 AST),Made Shot,Jump Shot,1,3,383
+0022300174,541,PT05M43.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher S.FOUL (P2.T3) (M.Ervin),Foul,Shooting,1,0,391
+0022300174,556,PT04M28.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,170,211,27,Made,1,111,84,195,v,Boucher 27' 3PT Jump Shot (6 PTS) (Achiuwa 5 AST),Made Shot,Jump Shot,1,3,402
+0022300174,585,PT01M52.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,420
+0022300189,145,PT00M40.60S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher BLOCK (1 BLK),,,1,2,104
+0022300189,148,PT00M24.70S,1,1610612761,TOR,1628449,Boucher,C. Boucher,235,10,24,Missed,1,,,0,h,MISS Boucher 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,106
+0022300189,179,PT09M38.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,127
+0022300189,181,PT09M33.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,129
+0022300189,643,PT09M32.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,9,-22,2,Missed,1,,,0,h,MISS Boucher 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,0,2,130
+0022300189,191,PT08M23.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher S.FOUL (P1.T1) (C.Washington),Foul,Shooting,1,0,138
+0022300189,196,PT08M20.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,141
+0022300189,215,PT07M28.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Dick FOR Boucher,Substitution,,0,0,159
+0022300189,505,PT11M18.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-233,-3,0,Made,1,84,94,178,h,Boucher 3PT Jump Shot (3 PTS) (Barnes 4 AST),Made Shot,Jump Shot,1,3,366
+0022300189,535,PT07M49.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,15,59,6,Missed,1,,,0,h,MISS Boucher 6' Layup,Missed Shot,Layup Shot,1,2,390
+0022300189,549,PT06M44.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,400
+0022300189,553,PT06M30.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,404
+0022300189,560,PT06M02.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,409
+0022300189,567,PT05M45.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,415
+0022300189,584,PT04M48.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher BLOCK (2 BLK),,,1,2,428
+0022300189,593,PT04M18.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher BLOCK (3 BLK),,,1,2,435
+0022300189,605,PT02M59.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-4,6,1,Made,1,103,107,210,h,Boucher 1' Running Dunk (5 PTS) (Schroder 6 AST),Made Shot,Running Dunk Shot,1,2,445
+0022300189,626,PT00M51.60S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-4,12,1,Made,1,107,107,214,h,Boucher 1' Running Layup (7 PTS) (Siakam 7 AST),Made Shot,Running Layup Shot,1,2,462
+0022300195,87,PT05M38.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,65
+0022300195,92,PT05M02.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,-200,161,26,Missed,1,,,0,h,MISS Boucher 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,69
+0022300195,95,PT04M46.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,72
+0022300195,96,PT04M37.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,11,6,1,Made,1,12,21,33,h,Boucher 1' Cutting Layup Shot (2 PTS) (Siakam 3 AST),Made Shot,Cutting Layup Shot,1,2,73
+0022300195,105,PT03M56.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,79
+0022300195,106,PT03M55.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,15,3,2,Missed,1,,,0,h,MISS Boucher 2' Layup,Missed Shot,Layup Shot,1,2,80
+0022300195,129,PT02M20.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher S.FOUL (P1.T4) (R.Hussey),Foul,Shooting,1,0,97
+0022300195,143,PT01M25.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,107
+0022300195,474,PT03M08.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,348
+0022300195,481,PT02M34.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,353
+0022300195,482,PT02M34.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,Missed,1,,,0,h,MISS Boucher Putback Layup,Missed Shot,Putback Layup Shot,1,2,354
+0022300195,483,PT02M34.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,355
+0022300195,484,PT02M32.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,Missed,1,,,0,h,MISS Boucher Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,356
+0022300195,489,PT02M17.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher BLOCK (1 BLK),,,1,2,362
+0022300195,494,PT02M12.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,69,98,167,h,Boucher Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,365
+0022300195,497,PT02M12.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,70,98,168,h,Boucher Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,367
+0022300195,501,PT01M43.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,229,-15,0,Made,1,73,98,171,h,Boucher 3PT Running Jump Shot (7 PTS) (Flynn 3 AST),Made Shot,Running Jump Shot,1,3,370
+0022300195,506,PT01M07.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,230,7,0,Missed,1,,,0,h,MISS Boucher 3PT Jump Shot,Missed Shot,Jump Shot,1,3,373
+0022300195,548,PT11M01.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,400
+0022300195,554,PT10M47.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:5 Def:3),Rebound,Unknown,1,0,404
+0022300195,557,PT10M47.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,82,100,182,h,Boucher Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,406
+0022300195,558,PT10M47.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,83,100,183,h,Boucher Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,407
+0022300195,585,PT08M00.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-25,12,3,Missed,1,,,0,h,MISS Boucher 3' Layup,Missed Shot,Layup Shot,1,2,430
+0022300195,600,PT07M16.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,442
+0022300195,644,PT03M31.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Temple FOR Boucher,Substitution,,0,0,474
+0022300211,148,PT00M54.80S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,115
+0022300211,157,PT00M12.20S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,121
+0022300211,170,PT11M26.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,129
+0022300211,171,PT11M20.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,5,11,1,Made,1,36,20,56,h,Boucher 1' Running Finger Roll Layup (2 PTS) (Barnes 3 AST),Made Shot,Running Finger Roll Layup Shot,1,2,130
+0022300211,210,PT08M51.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher S.FOUL (P1.T2) (J.Goble),Foul,Shooting,1,0,156
+0022300211,217,PT08M17.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher S.FOUL (P2.T3) (J.Goble),Foul,Shooting,1,0,162
+0022300211,239,PT07M26.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Siakam FOR Boucher,Substitution,,0,0,178
+0022300211,525,PT11M30.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher S.FOUL (P3.T1) (E.Dalen),Foul,Shooting,1,0,382
+0022300211,533,PT11M07.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,230,1,0,Made,1,110,74,184,h,Boucher 3PT Jump Shot (5 PTS) (Anunoby 3 AST),Made Shot,Jump Shot,1,3,388
+0022300211,545,PT10M04.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,223,8,0,Made,1,115,76,191,h,Boucher 3PT Jump Shot (8 PTS) (Barnes 9 AST),Made Shot,Jump Shot,1,3,396
+0022300211,547,PT09M54.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher S.FOUL (P4.T2) (M.Boland),Foul,Shooting,1,0,397
+0022300211,557,PT09M24.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-213,142,26,Missed,1,,,0,h,MISS Boucher 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,404
+0022300211,571,PT08M23.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-37,92,10,Made,1,120,83,203,h,Boucher 10' Driving Hook Shot (10 PTS) (Trent Jr. 3 AST),Made Shot,Driving Hook Shot,1,2,415
+0022300211,577,PT08M23.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,MISS Boucher Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,418
+0022300211,579,PT08M12.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,216,63,23,Missed,1,,,0,h,MISS Boucher 23' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,420
+0022300211,594,PT07M12.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher STEAL (1 STL),,,1,0,431
+0022300211,603,PT07M02.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,437
+0022300211,618,PT05M44.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,450
+0022300211,621,PT05M43.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,MISS Boucher Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,452
+0022300211,623,PT05M43.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,128,88,216,h,Boucher Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,454
+0022300211,668,PT03M03.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,486
+0022300211,682,PT01M49.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,75,248,26,Made,1,140,104,244,h,Boucher 26' 3PT Jump Shot (14 PTS) (Flynn 4 AST),Made Shot,Jump Shot,1,3,496
+0022300211,706,PT00M42.40S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher BLOCK (1 BLK),,,1,3,513
+0022300230,200,PT09M26.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher S.FOUL (P1.T1) (N.Buchert),Foul,Shooting,1,0,139
+0022300230,220,PT07M57.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,42,44,86,v,Boucher Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,156
+0022300230,227,PT07M57.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,42,45,87,v,Boucher Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,160
+0022300230,242,PT06M56.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Schroder FOR Boucher,Substitution,,0,0,172
+0022300230,497,PT11M26.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,101,101,202,v,Boucher Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,358
+0022300230,498,PT11M26.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,101,102,203,v,Boucher Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,359
+0022300230,504,PT10M31.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,15,13,2,Missed,1,,,0,v,MISS Boucher 2' Layup,Missed Shot,Layup Shot,1,2,364
+0022300230,507,PT10M16.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher S.FOUL (P2.T1) (M.Myers),Foul,Shooting,1,0,367
+0022300230,514,PT09M56.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,372
+0022300230,515,PT09M55.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-9,26,3,Made,1,106,108,214,v,Boucher 3' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,2,373
+0022300230,543,PT07M14.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-230,-4,0,Missed,1,,,0,v,MISS Boucher 3PT Jump Shot,Missed Shot,Jump Shot,1,3,397
+0022300230,556,PT06M40.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Siakam FOR Boucher,Substitution,,0,0,409
+0022300251,148,PT11M26.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher STEAL (1 STL),,,1,0,110
+0022300251,158,PT10M15.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,119
+0022300251,159,PT10M14.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,Made,1,25,32,57,v,Boucher Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,120
+0022300251,175,PT08M26.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-53,21,6,Missed,1,,,0,v,MISS Boucher 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,133
+0022300251,182,PT08M07.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher Traveling Turnover (P1.T4),Turnover,Traveling,1,0,138
+0022300251,190,PT06M46.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,145
+0022300251,195,PT06M35.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,38,36,74,v,Boucher Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,149
+0022300251,206,PT06M35.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,38,37,75,v,Boucher Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,155
+0022300251,208,PT06M15.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,157
+0022300251,213,PT06M01.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Siakam FOR Boucher,Substitution,,0,0,162
+0022300251,517,PT09M34.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,MISS Boucher Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,381
+0022300251,523,PT09M34.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,84,77,161,v,Boucher Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,385
+0022300251,528,PT08M58.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,390
+0022300251,545,PT07M38.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Siakam FOR Boucher,Substitution,,0,0,402
+0022300260,234,PT05M56.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Barnes FOR Boucher,Substitution,,0,0,172
+0022300276,211,PT08M35.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,124,227,26,Missed,1,,,0,h,MISS Boucher 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,156
+0022300276,217,PT08M10.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,36,1,4,Missed,1,,,0,h,MISS Boucher 4' Layup,Missed Shot,Layup Shot,1,2,162
+0022300276,225,PT07M18.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-18,7,2,Made,1,37,41,78,h,Boucher 2' Running Layup (2 PTS) (Barnes 1 AST),Made Shot,Running Layup Shot,1,2,169
+0022300276,252,PT05M58.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-6,10,1,Made,1,41,42,83,h,Boucher 1' Driving Layup (4 PTS) (Anunoby 2 AST),Made Shot,Driving Layup Shot,1,2,187
+0022300276,283,PT03M16.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher STEAL (1 STL),,,1,0,209
+0022300276,290,PT02M43.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-13,25,3,Missed,1,,,0,h,MISS Boucher 3' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,214
+0022300276,297,PT02M34.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,221
+0022300276,302,PT02M34.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,50,49,99,h,Boucher Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,224
+0022300276,303,PT02M34.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,51,49,100,h,Boucher Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,225
+0022300276,478,PT01M07.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,229,29,0,Missed,1,,,0,h,MISS Boucher 3PT Jump Shot,Missed Shot,Jump Shot,1,3,358
+0022300276,520,PT10M38.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-20,5,2,Missed,1,,,0,h,MISS Boucher 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,385
+0022300276,525,PT10M19.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-224,25,0,Missed,1,,,0,h,MISS Boucher 3PT Jump Shot,Missed Shot,Jump Shot,1,3,390
+0022300276,534,PT09M36.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,398
+0022300276,535,PT09M36.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,Made,1,83,95,178,h,Boucher Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,2,399
+0022300276,538,PT09M36.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,MISS Boucher Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,401
+0022300276,585,PT05M42.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Trent Jr. FOR Boucher,Substitution,,0,0,435
+0022300276,644,PT01M01.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,473
+0022300276,645,PT00M57.40S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-138,250,29,Made,1,106,117,223,h,Boucher 29' 3PT Jump Shot (11 PTS) (Flynn 4 AST),Made Shot,Jump Shot,1,3,474
+0022300297,221,PT08M37.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-211,131,25,Missed,1,,,0,v,MISS Boucher 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,152
+0022300297,225,PT08M10.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-229,20,0,Missed,1,,,0,v,MISS Boucher 3PT Jump Shot,Missed Shot,Jump Shot,1,3,156
+0022300297,242,PT07M19.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,228,47,0,Missed,1,,,0,v,MISS Boucher 3PT Jump Shot,Missed Shot,Jump Shot,1,3,169
+0022300297,257,PT06M21.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,180
+0022300297,396,PT06M21.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,34,0,3,Missed,1,,,0,v,MISS Boucher 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,181
+0022300297,397,PT06M20.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,182
+0022300297,258,PT06M19.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-21,8,2,Missed,1,,,0,v,MISS Boucher 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,183
+0022300297,262,PT05M57.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,6,16,2,Made,1,53,50,103,v,Boucher 2' Cutting Layup Shot (2 PTS) (Flynn 2 AST),Made Shot,Cutting Layup Shot,1,2,188
+0022300297,270,PT05M57.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,53,51,104,v,Boucher Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,192
+0022300297,292,PT04M22.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher Traveling Turnover (P1.T2),Turnover,Traveling,1,0,210
+0022300297,299,PT03M54.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher L.B.FOUL (P1.T4) (B.Kennedy),Foul,Loose Ball,1,0,216
+0022300297,301,PT03M54.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Barnes FOR Boucher,Substitution,,0,0,217
+0022300297,549,PT09M15.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,397
+0022300297,553,PT08M44.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-18,1,2,Made,1,106,106,212,v,Boucher 2' Cutting Layup Shot (5 PTS) (Barnes 4 AST),Made Shot,Cutting Layup Shot,1,2,400
+0022300297,565,PT07M33.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,223,109,25,Missed,1,,,0,v,MISS Boucher 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,407
+0022300297,579,PT06M52.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Siakam FOR Boucher,Substitution,,0,0,418
+0022300313,159,PT00M01.30S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher BLOCK (1 BLK),,,1,2,113
+0022300313,174,PT10M59.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-5,-1,1,Made,1,33,41,74,h,Boucher 1' Running Dunk (2 PTS) (Barnes 3 AST),Made Shot,Running Dunk Shot,1,2,124
+0022300313,196,PT08M08.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher BLOCK (2 BLK),,,1,2,139
+0022300313,226,PT07M20.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-85,267,28,Missed,1,,,0,h,MISS Boucher 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,159
+0022300313,230,PT07M02.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher Non-Unsportsmanlike Tech Foul - Flopping (P0.T0) (S.Foster),Foul,Flopping,1,0,162
+0022300313,245,PT06M02.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Barnes FOR Boucher,Substitution,,0,0,173
+0022300330,193,PT08M32.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,MISS Boucher Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,137
+0022300330,196,PT08M32.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,MISS Boucher Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,140
+0022300330,199,PT08M14.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,143
+0022300330,240,PT06M16.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-232,2,0,Missed,1,,,0,h,MISS Boucher 3PT Jump Shot,Missed Shot,Jump Shot,1,3,168
+0022300330,261,PT04M34.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,182
+0022300330,262,PT04M30.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher OFF.Foul (P1) (J.Tiven),Foul,Offensive,1,0,183
+0022300330,264,PT04M30.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,1,0,184
+0022300330,265,PT04M30.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Barnes FOR Boucher,Substitution,,0,0,185
+0022300330,491,PT11M45.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher STEAL (1 STL),,,1,0,358
+0022300330,495,PT11M32.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,79,87,166,h,Boucher Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,360
+0022300330,496,PT11M32.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,MISS Boucher Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,361
+0022300330,507,PT09M59.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,6,8,1,Made,1,85,92,177,h,Boucher 1' Cutting Dunk Shot (3 PTS) (Barnes 7 AST),Made Shot,Cutting Dunk Shot,1,2,370
+0022300330,511,PT09M59.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,86,92,178,h,Boucher Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,1,0,372
+0022300330,535,PT07M35.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher Violation:Defensive Goaltending (M.Kogut),Violation,Defensive Goaltending,1,0,387
+0022300330,548,PT06M53.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-229,1,0,Missed,1,,,0,h,MISS Boucher 3PT Jump Shot,Missed Shot,Jump Shot,1,3,396
+0022300330,550,PT06M42.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher BLOCK (1 BLK),,,1,2,399
+0022300330,552,PT06M39.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,400
+0022300330,560,PT06M18.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher BLOCK (2 BLK),,,1,2,406
+0022300330,570,PT05M17.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-232,-10,0,Made,1,95,113,208,h,Boucher 3PT Jump Shot (7 PTS) (Siakam 4 AST),Made Shot,Jump Shot,1,3,413
+0022300330,576,PT04M46.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Poeltl FOR Boucher,Substitution,,0,0,418
+0022300354,140,PT00M04.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,1,10,1,Made,1,19,27,46,h,Boucher 1' Cutting Dunk Shot (2 PTS) (Barnes 2 AST),Made Shot,Cutting Dunk Shot,1,2,108
+0022300354,179,PT09M35.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher S.FOUL (P1.T2) (J.Goble),Foul,Shooting,1,0,135
+0022300354,187,PT08M54.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,31,13,3,Made,1,27,34,61,h,Boucher 3' Cutting Layup Shot (4 PTS) (Schroder 1 AST),Made Shot,Cutting Layup Shot,1,2,141
+0022300354,221,PT07M04.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,167
+0022300354,222,PT07M02.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-11,21,2,Missed,1,,,0,h,MISS Boucher 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,168
+0022300354,227,PT06M44.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,173
+0022300354,232,PT06M12.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Siakam FOR Boucher,Substitution,,0,0,176
+0022300354,486,PT10M33.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-11,5,1,Made,1,83,83,166,h,Boucher 1' Cutting Dunk Shot (6 PTS) (Barnes 6 AST),Made Shot,Cutting Dunk Shot,1,2,357
+0022300354,499,PT09M27.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,86,85,171,h,Boucher Free Throw Flagrant 1 of 2 (7 PTS),Free Throw,Free Throw Flagrant 1 of 2,1,0,369
+0022300354,500,PT09M27.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,MISS Boucher Free Throw Flagrant 2 of 2,Free Throw,Free Throw Flagrant 2 of 2,0,0,370
+0022300354,518,PT07M11.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,386
+0022300354,519,PT07M04.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-33,18,4,Missed,1,,,0,h,MISS Boucher 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,387
+0022300354,544,PT05M51.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,230,6,0,Missed,1,,,0,h,MISS Boucher 3PT Jump Shot,Missed Shot,Jump Shot,1,3,403
+0022300354,546,PT05M39.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher BLOCK (1 BLK),,,1,3,406
+0022300354,555,PT05M17.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Trent Jr. FOR Boucher,Substitution,,0,0,413
+0022300369,178,PT09M11.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,141,221,26,Made,1,29,36,65,h,Boucher 26' 3PT Jump Shot (3 PTS) (Trent Jr. 1 AST),Made Shot,Jump Shot,1,3,132
+0022300369,183,PT08M44.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,135
+0022300369,185,PT08M31.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,137
+0022300369,186,PT08M31.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,Missed,1,,,0,h,MISS Boucher Putback Layup,Missed Shot,Putback Layup Shot,1,2,138
+0022300369,191,PT08M15.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,143
+0022300369,197,PT07M27.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,148
+0022300369,216,PT06M21.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,161
+0022300369,240,PT06M08.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Siakam FOR Boucher,Substitution,,0,0,168
+0022300369,452,PT11M14.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher BLOCK (1 BLK),,,1,2,342
+0022300369,479,PT08M47.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,365
+0022300369,493,PT08M04.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,375
+0022300369,503,PT07M43.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher S.FOUL (P1.T2) (J.Van Duyne),Foul,Shooting,1,0,382
+0022300369,522,PT06M53.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,395
+0022300369,523,PT06M48.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,1,5,1,Made,1,88,96,184,h,Boucher 1' Dunk (5 PTS),Made Shot,Dunk Shot,1,2,396
+0022300369,534,PT05M26.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Siakam FOR Boucher,Substitution,,0,0,403
+0022300395,134,PT01M17.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,89
+0022300395,150,PT11M44.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher STEAL (1 STL),,,1,0,99
+0022300395,156,PT11M20.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher S.FOUL (P1.T1) (A.Smith),Foul,Shooting,1,0,103
+0022300395,164,PT10M49.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,60,43,7,Made,1,40,33,73,h,Boucher 7' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,109
+0022300395,167,PT10M49.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,41,33,74,h,Boucher Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,111
+0022300395,168,PT10M31.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher P.FOUL (P2.T2) (A.Smith),Foul,Personal,1,0,112
+0022300395,216,PT06M39.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Schroder FOR Boucher,Substitution,,0,0,146
+0022300395,534,PT09M24.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,372
+0022300395,539,PT09M04.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,233,43,24,Made,1,101,95,196,h,Boucher 24' 3PT Running Jump Shot (6 PTS) (Barnes 5 AST),Made Shot,Running Jump Shot,1,3,377
+0022300395,545,PT08M27.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,102,98,200,h,Boucher Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,380
+0022300395,548,PT08M27.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,MISS Boucher Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,382
+0022300395,552,PT07M57.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-6,59,6,Made,1,104,100,204,h,Boucher 6' Turnaround Hook Shot (9 PTS) (Barnes 6 AST),Made Shot,Turnaround Hook Shot,1,2,385
+0022300395,557,PT07M28.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,389
+0022300395,583,PT05M45.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Barnes FOR Boucher,Substitution,,0,0,408
+0022300416,123,PT01M59.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,85
+0022300416,127,PT01M26.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,88
+0022300416,128,PT01M20.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,-167,202,26,Made,1,24,29,53,v,Boucher 26' 3PT Running Jump Shot (3 PTS) (Schroder 3 AST),Made Shot,Running Jump Shot,1,3,89
+0022300416,138,PT00M36.80S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher S.FOUL (P1.T4) (S.Corbin),Foul,Shooting,1,0,97
+0022300416,169,PT10M04.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher S.FOUL (P2.T1) (C.Blair),Foul,Shooting,1,0,122
+0022300416,177,PT09M44.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-239,-11,24,Missed,1,,,0,v,MISS Boucher 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,127
+0022300416,196,PT08M30.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,141
+0022300416,202,PT07M48.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,147
+0022300416,203,PT07M47.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-50,-4,5,Missed,1,,,0,v,MISS Boucher 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,148
+0022300416,223,PT06M54.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher P.FOUL (P3.T3) (C.Blair),Foul,Personal,1,0,161
+0022300416,225,PT06M54.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Poeltl FOR Boucher,Substitution,,0,0,162
+0022300416,431,PT04M35.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,234,11,0,Missed,1,,,0,v,MISS Boucher 3PT Jump Shot,Missed Shot,Jump Shot,1,3,310
+0022300416,436,PT04M30.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,200,168,26,Made,1,65,81,146,v,Boucher 26' 3PT Jump Shot (6 PTS) (Siakam 8 AST),Made Shot,Jump Shot,1,3,313
+0022300416,469,PT01M13.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Barnes FOR Boucher,Substitution,,0,0,335
+0022300432,100,PT04M28.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,91,244,26,Missed,1,,,0,v,MISS Boucher 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,77
+0022300432,106,PT03M51.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,83
+0022300432,115,PT02M46.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,88
+0022300432,131,PT02M09.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher S.FOUL (P1.T2) (D.Guthrie),Foul,Shooting,1,0,97
+0022300432,134,PT01M49.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,228,85,24,Made,1,28,20,48,v,Boucher 24' 3PT Jump Shot (3 PTS) (Schroder 1 AST),Made Shot,Jump Shot,1,3,99
+0022300432,170,PT11M11.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,203,164,26,Missed,1,,,0,v,MISS Boucher 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,120
+0022300432,180,PT10M23.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,129
+0022300432,184,PT10M07.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Siakam FOR Boucher,Substitution,,0,0,133
+0022300440,161,PT00M17.70S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Trent Jr. FOR Boucher,Substitution,,0,0,117
+0022300440,180,PT11M46.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher P.FOUL (P1.T1) (M.Ervin),Foul,Personal,1,0,125
+0022300440,194,PT10M40.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,234,-13,0,Missed,1,,,0,v,MISS Boucher 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,137
+0022300440,225,PT08M22.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,31,30,61,v,Boucher Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,160
+0022300440,232,PT08M22.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,31,31,62,v,Boucher Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,164
+0022300440,239,PT08M00.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: McDaniels FOR Boucher,Substitution,,0,0,170
+0022300440,425,PT05M35.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,312
+0022300440,451,PT03M50.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,MISS Boucher Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,331
+0022300440,457,PT03M50.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,76,76,152,v,Boucher Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,335
+0022300440,484,PT01M04.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher S.FOUL (P2.PN) (M.Ervin),Foul,Shooting,1,0,354
+0022300440,492,PT00M45.90S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,MISS Boucher Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,360
+0022300440,496,PT00M45.90S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,87,86,173,v,Boucher Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,363
+0022300440,537,PT09M40.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,390
+0022300440,555,PT07M51.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Siakam FOR Boucher,Substitution,,0,0,404
+0022300452,208,PT08M41.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,153
+0022300452,253,PT06M52.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Barrett FOR Boucher,Substitution,,0,0,185
+0022300452,595,PT06M26.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Barnes FOR Boucher,Substitution,,0,0,426
+0022300470,182,PT11M46.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,130
+0022300470,195,PT10M26.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,142
+0022300470,235,PT06M21.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,172
+0022300470,243,PT05M55.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,179
+0022300470,245,PT05M46.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,181
+0022300470,246,PT05M45.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,6,1,1,Made,1,37,43,80,v,Boucher 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,182
+0022300470,253,PT05M43.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Quickley FOR Boucher,Substitution,,0,0,188
+0022300470,467,PT03M04.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,339
+0022300470,471,PT02M47.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,343
+0022300470,485,PT02M18.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,350
+0022300470,535,PT10M23.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,386
+0022300470,536,PT10M23.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,Made,1,78,97,175,v,Boucher Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,387
+0022300470,549,PT09M05.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Poeltl FOR Boucher,Substitution,,0,0,396
+0022300492,202,PT09M27.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher S.FOUL (P1.T2) (M.Dagher),Foul,Shooting,1,0,148
+0022300492,212,PT08M35.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,157
+0022300492,221,PT07M57.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,200,156,25,Missed,1,,,0,v,MISS Boucher 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,164
+0022300492,239,PT07M01.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher STEAL (1 STL),,,1,0,177
+0022300492,253,PT06M36.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Raptors T.Foul (Def. 3 Sec Boucher ) (J.Orr),Foul,Defense 3 Second,1,0,184
+0022300492,258,PT06M22.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,188
+0022300492,261,PT06M09.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,MISS Boucher Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,190
+0022300492,263,PT06M09.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,52,46,98,v,Boucher Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,192
+0022300492,276,PT04M31.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,233,51,24,Made,1,57,51,108,v,Boucher 24' 3PT Jump Shot (4 PTS) (Siakam 3 AST),Made Shot,Jump Shot,1,3,202
+0022300492,279,PT04M16.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,204
+0022300492,291,PT03M14.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Barrett FOR Boucher,Substitution,,0,0,213
+0022300492,336,PT00M10.90S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-221,80,24,Missed,1,,,0,v,MISS Boucher 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,245
+0022300492,434,PT05M23.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,315
+0022300492,435,PT05M17.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,-4,27,3,Made,1,98,81,179,v,Boucher 3' Cutting Dunk Shot (6 PTS) (Barnes 4 AST),Made Shot,Cutting Dunk Shot,1,2,316
+0022300492,443,PT04M37.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,-221,136,26,Missed,1,,,0,v,MISS Boucher 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,321
+0022300492,451,PT03M42.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,327
+0022300492,492,PT00M19.90S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Quickley FOR Boucher,Substitution,,0,0,358
+0022300492,531,PT10M30.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-214,131,25,Missed,1,,,0,v,MISS Boucher 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,375
+0022300492,561,PT08M40.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,397
+0022300492,562,PT08M40.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,Made,1,120,107,227,v,Boucher Tip Dunk Shot (8 PTS),Made Shot,Tip Dunk Shot,1,2,398
+0022300492,589,PT06M27.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,417
+0022300492,590,PT06M26.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-17,13,2,Made,1,126,116,242,v,Boucher 2' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,1,2,418
+0022300492,595,PT06M26.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,126,117,243,v,Boucher Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,421
+0022300492,611,PT05M14.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,434
+0022300492,621,PT04M33.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,4,10,1,Made,1,126,121,247,v,Boucher 1' Layup (13 PTS) (Quickley 7 AST),Made Shot,Layup Shot,1,2,442
+0022300492,629,PT04M15.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Barnes FOR Boucher,Substitution,,0,0,446
+0022300492,655,PT02M11.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher S.FOUL (P2.PN) (J.Orr),Foul,Shooting,1,0,464
+0022300492,671,PT01M10.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,131,128,259,v,Boucher Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,477
+0022300492,673,PT01M10.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,MISS Boucher Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,478
+0022300492,679,PT00M20.70S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher BLOCK (1 BLK),,,1,2,484
+0022300492,683,PT00M09.70S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,487
+0022300504,160,PT11M42.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,114
+0022300504,171,PT10M13.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher BLOCK (1 BLK),,,1,2,124
+0022300504,173,PT10M13.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,125
+0022300504,179,PT09M37.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,130
+0022300504,215,PT07M06.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-227,-13,0,Made,1,37,54,91,v,Boucher 3PT Jump Shot (3 PTS) (Barrett 3 AST),Made Shot,Jump Shot,1,3,156
+0022300504,223,PT06M29.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-23,27,4,Made,1,40,56,96,v,Boucher 4' Layup (5 PTS),Made Shot,Layup Shot,1,2,159
+0022300504,231,PT06M10.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Quickley FOR Boucher,Substitution,,0,0,166
+0022300504,487,PT00M00.70S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,352
+0022300504,488,PT00M00.40S,3,1610612761,TOR,1628449,Boucher,C. Boucher,55,20,6,Made,1,87,101,188,v,Boucher 6' Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,1,2,353
+0022300504,508,PT11M27.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher STEAL (1 STL),,,1,0,363
+0022300504,510,PT11M23.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-116,220,25,Made,1,87,105,192,v,Boucher 25' 3PT Running Jump Shot (10 PTS) (Schroder 4 AST),Made Shot,Running Jump Shot,1,3,364
+0022300504,519,PT10M20.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-203,148,25,Made,1,90,110,200,v,Boucher 25' 3PT Jump Shot (13 PTS) (Barrett 6 AST),Made Shot,Jump Shot,1,3,371
+0022300504,530,PT09M25.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,379
+0022300504,531,PT09M17.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,16,30,3,Made,1,93,114,207,v,Boucher 3' Finger Roll Layup (15 PTS) (Trent Jr. 1 AST),Made Shot,Finger Roll Layup Shot,1,2,380
+0022300504,545,PT07M53.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Raptors T.Foul (Def. 3 Sec Boucher ) (M.Boland),Foul,Defense 3 Second,1,0,388
+0022300504,550,PT07M43.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,392
+0022300504,554,PT07M00.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,58,43,7,Made,1,99,122,221,v,Boucher 7' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,2,396
+0022300504,556,PT06M47.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,398
+0022300504,575,PT06M06.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,408
+0022300504,608,PT03M44.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: McDaniels FOR Boucher,Substitution,,0,0,432
+0022300504,637,PT00M54.90S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,454
+0022300516,128,PT00M21.70S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher STEAL (1 STL),,,1,0,91
+0022300516,130,PT00M01.80S,1,1610612761,TOR,1628449,Boucher,C. Boucher,-69,238,25,Missed,1,,,0,v,MISS Boucher 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,92
+0022300516,138,PT11M57.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher STEAL (2 STL),,,0,0,97
+0022300516,148,PT10M49.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,104
+0022300516,152,PT10M25.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,107
+0022300516,153,PT10M25.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,108
+0022300516,178,PT08M22.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-232,8,0,Missed,1,,,0,v,MISS Boucher 3PT Jump Shot,Missed Shot,Jump Shot,1,3,127
+0022300516,209,PT07M14.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,150
+0022300516,214,PT06M24.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,153
+0022300516,217,PT06M05.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,156
+0022300516,218,PT05M56.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher Lost Ball Turnover (P3.T5),Turnover,Lost Ball,1,0,157
+0022300516,226,PT05M29.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Siakam FOR Boucher,Substitution,,0,0,163
+0022300516,474,PT11M40.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,17,13,2,Made,1,88,91,179,v,Boucher 2' Cutting Dunk Shot (2 PTS) (Porter 3 AST),Made Shot,Cutting Dunk Shot,1,2,336
+0022300516,476,PT11M24.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher S.FOUL (P1.T1) (T.Ricks),Foul,Shooting,1,0,337
+0022300516,480,PT11M20.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,340
+0022300516,488,PT10M29.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,347
+0022300516,522,PT08M49.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,373
+0022300516,556,PT05M43.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Barrett FOR Boucher,Substitution,,0,0,397
+0022300526,178,PT08M27.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,217,145,26,Missed,1,,,0,v,MISS Boucher 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,126
+0022300526,190,PT08M04.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,134
+0022300526,198,PT07M26.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,16,95,10,Missed,1,,,0,v,MISS Boucher 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,139
+0022300526,238,PT04M21.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Schroder FOR Boucher,Substitution,,0,0,167
+0022300526,533,PT06M31.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-2,7,1,Made,1,111,103,214,v,Boucher 1' Cutting Dunk Shot (2 PTS) (Quickley 5 AST),Made Shot,Cutting Dunk Shot,1,2,371
+0022300526,542,PT06M31.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,111,104,215,v,Boucher Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,376
+0022300526,553,PT05M15.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Young FOR Boucher,Substitution,,0,0,385
+0022300540,149,PT01M04.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,4,142,14,Made,1,26,22,48,v,Boucher 14' Turnaround Jump Shot (2 PTS) (Schroder 1 AST),Made Shot,Turnaround Jump Shot,1,2,114
+0022300540,187,PT10M00.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Young FOR Boucher,Substitution,,0,0,139
+0022300540,571,PT07M15.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,138,208,25,Made,1,117,96,213,v,Boucher 25' 3PT Jump Shot (5 PTS) (Temple 1 AST),Made Shot,Jump Shot,1,3,416
+0022300540,593,PT05M14.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher Step Out of Bounds Turnover (P1.T11),Turnover,Step Out of Bounds Turnover,1,0,433
+0022300540,618,PT03M51.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,88,229,25,Missed,1,,,0,v,MISS Boucher 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,455
+0022300540,621,PT03M39.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher S.FOUL (P1.T4) (E.Scott),Foul,Shooting,1,0,457
+0022300540,652,PT01M49.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-152,194,25,Missed,1,,,0,v,MISS Boucher 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,479
+0022300540,660,PT01M25.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,137,107,244,v,Boucher Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,485
+0022300540,661,PT01M25.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,137,108,245,v,Boucher Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,486
+0022300563,156,PT11M46.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,26,29,55,h,Boucher Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,112
+0022300563,157,PT11M46.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,27,29,56,h,Boucher Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,113
+0022300563,166,PT10M39.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-154,199,25,Missed,1,,,0,h,MISS Boucher 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,121
+0022300563,198,PT07M22.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,185,169,25,Missed,1,,,0,h,MISS Boucher 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,144
+0022300563,205,PT06M54.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,151
+0022300563,206,PT06M50.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-16,46,5,Missed,1,,,0,h,MISS Boucher 5' Running Layup,Missed Shot,Running Layup Shot,1,2,152
+0022300563,211,PT06M16.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher S.FOUL (P1.T1) (B.Nansel),Foul,Shooting,1,0,157
+0022300563,214,PT06M16.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Siakam FOR Boucher,Substitution,,0,0,159
+0022300563,472,PT00M25.20S,3,1610612761,TOR,1628449,Boucher,C. Boucher,-228,6,0,Missed,1,,,0,h,MISS Boucher 3PT Jump Shot,Missed Shot,Jump Shot,1,3,353
+0022300563,489,PT10M52.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-223,1,0,Missed,1,,,0,h,MISS Boucher 3PT Jump Shot,Missed Shot,Jump Shot,1,3,366
+0022300563,532,PT07M19.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,399
+0022300563,533,PT07M18.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,5,5,1,Made,1,84,94,178,h,Boucher 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,400
+0022300563,572,PT05M10.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Barrett FOR Boucher,Substitution,,0,0,427
+0022300574,155,PT10M47.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher BLOCK (1 BLK),,,1,3,116
+0022300574,162,PT10M35.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,120
+0022300574,164,PT10M24.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,122
+0022300574,165,PT10M23.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-2,23,2,Made,1,47,18,65,h,Boucher 2' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,1,2,123
+0022300574,173,PT09M44.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,228,-1,0,Missed,1,,,0,h,MISS Boucher 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,129
+0022300574,204,PT07M33.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Barnes FOR Boucher,Substitution,,0,0,151
+0022300574,437,PT02M46.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,322
+0022300574,456,PT01M23.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,13,66,7,Missed,1,,,0,h,MISS Boucher 7' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,337
+0022300574,467,PT00M10.20S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,346
+0022300574,487,PT10M21.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,358
+0022300574,501,PT09M34.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,369
+0022300574,522,PT07M24.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,383
+0022300574,535,PT06M00.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Trent Jr. FOR Boucher,Substitution,,0,0,392
+0022300580,126,PT01M52.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,148,201,25,Missed,1,,,0,h,MISS Boucher 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,88
+0022300580,129,PT01M33.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,91
+0022300580,131,PT01M21.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,93
+0022300580,155,PT00M00.90S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,111
+0022300580,158,PT00M00.90S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,27,38,65,h,Boucher Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,113
+0022300580,159,PT00M00.90S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,MISS Boucher Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,114
+0022300580,183,PT10M03.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,133
+0022300580,191,PT09M26.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher Traveling Turnover (P1.T3),Turnover,Traveling,1,0,141
+0022300580,193,PT09M10.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,143
+0022300580,223,PT07M29.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher S.FOUL (P1.T2) (Z.Zarba),Foul,Shooting,1,0,163
+0022300580,228,PT07M11.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,6,3,1,Made,1,44,46,90,h,Boucher 1' Driving Dunk (3 PTS) (Porter 1 AST),Made Shot,Driving Dunk Shot,1,2,166
+0022300580,232,PT06M52.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,230,9,0,Missed,1,,,0,h,MISS Boucher 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,170
+0022300580,268,PT04M50.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher Out of Bounds Lost Ball Turnover (P2.T4),Turnover,Out of Bounds Lost Ball Turnover,1,0,192
+0022300580,270,PT04M31.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,194
+0022300580,284,PT03M18.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Barrett FOR Boucher,Substitution,,0,0,205
+0022300580,457,PT02M20.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,330
+0022300580,472,PT01M24.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,341
+0022300580,481,PT00M14.90S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Barrett FOR Boucher,Substitution,,0,0,348
+0022300580,510,PT10M47.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-228,113,25,Made,1,93,92,185,h,Boucher 25' 3PT Running Jump Shot (6 PTS) (Barrett 6 AST),Made Shot,Running Jump Shot,1,3,366
+0022300580,529,PT09M15.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,380
+0022300580,560,PT07M23.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Quickley FOR Boucher,Substitution,,0,0,403
+0022300596,209,PT08M11.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,23,5,2,Made,1,39,39,78,v,Boucher 2' Running Layup (2 PTS) (Barnes 3 AST),Made Shot,Running Layup Shot,1,2,154
+0022300596,227,PT06M06.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher P.FOUL (P1.T3) (D.Taylor),Foul,Personal,1,0,169
+0022300596,246,PT05M35.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Barrett FOR Boucher,Substitution,,0,0,180
+0022300596,513,PT10M38.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,38,9,4,Missed,1,,,0,v,MISS Boucher 4' Layup,Missed Shot,Layup Shot,1,2,380
+0022300596,531,PT09M56.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,95,81,176,v,Boucher Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,394
+0022300596,534,PT09M56.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,MISS Boucher Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,396
+0022300596,536,PT09M40.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher S.FOUL (P2.T2) (C.Washington),Foul,Shooting,1,0,398
+0022300596,547,PT08M53.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Trent Jr. FOR Boucher,Substitution,,0,0,406
+0022300596,621,PT03M10.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,461
+0022300596,622,PT03M08.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-9,10,1,Missed,1,,,0,v,MISS Boucher 1' Layup,Missed Shot,Layup Shot,1,2,462
+0022300596,640,PT02M10.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,178,172,25,Missed,1,,,0,v,MISS Boucher 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,475
+0022300596,649,PT01M26.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,483
+0022300596,650,PT01M26.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-6,9,1,Made,1,124,98,222,v,Boucher 1' Putback Layup (5 PTS),Made Shot,Putback Layup Shot,1,2,484
+0022300637,133,PT01M41.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,-232,-16,0,Missed,1,,,0,h,MISS Boucher 3PT Jump Shot,Missed Shot,Jump Shot,1,3,98
+0022300637,147,PT00M26.70S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,111
+0022300637,148,PT00M24.90S,1,1610612761,TOR,1628449,Boucher,C. Boucher,-11,11,2,Missed,1,,,0,h,MISS Boucher 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,112
+0022300637,221,PT08M05.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,166
+0022300637,222,PT08M05.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,Made,1,34,46,80,h,Boucher Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,167
+0022300637,224,PT07M45.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,169
+0022300637,249,PT06M10.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Young FOR Boucher,Substitution,,0,0,187
+0022300637,409,PT05M12.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,304
+0022300637,434,PT03M18.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,-5,1,1,Made,1,72,89,161,h,Boucher 1' Running Reverse Layup (4 PTS) (Barnes 4 AST),Made Shot,Running Reverse Layup Shot,1,2,323
+0022300637,456,PT01M56.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,340
+0022300637,475,PT00M56.10S,3,1610612761,TOR,1628449,Boucher,C. Boucher,4,1,0,Made,1,79,93,172,h,Boucher Alley Oop Dunk (6 PTS) (Dick 2 AST),Made Shot,Alley Oop Dunk Shot,1,2,355
+0022300637,482,PT00M09.70S,3,1610612761,TOR,1628449,Boucher,C. Boucher,4,8,1,Made,1,81,95,176,h,Boucher 1' Alley Oop Dunk (8 PTS) (Barrett 4 AST),Made Shot,Alley Oop Dunk Shot,1,2,361
+0022300637,495,PT11M47.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,10,254,25,Missed,1,,,0,h,MISS Boucher 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,368
+0022300637,499,PT11M22.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-118,223,25,Missed,1,,,0,h,MISS Boucher 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,371
+0022300637,502,PT11M00.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher S.FOUL (P1.T1) (C.Blair),Foul,Shooting,1,0,373
+0022300637,517,PT10M03.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,84,101,185,h,Boucher Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,383
+0022300637,518,PT10M03.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,MISS Boucher Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,384
+0022300637,530,PT08M53.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Nwora FOR Boucher,Substitution,,0,0,395
+0022300653,132,PT01M43.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher S.FOUL (P1.T4) (E.Scott),Foul,Shooting,1,0,94
+0022300653,148,PT00M28.40S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,105
+0022300653,180,PT09M31.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,131
+0022300653,199,PT08M36.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher S.FOUL (P2.T2) (E.Scott),Foul,Shooting,1,0,144
+0022300653,239,PT06M19.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,225,17,0,Missed,1,,,0,v,MISS Boucher 3PT Jump Shot,Missed Shot,Jump Shot,1,3,173
+0022300653,242,PT06M05.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,1,18,2,Made,1,43,50,93,v,Boucher 2' Driving Layup (2 PTS) (Barnes 3 AST),Made Shot,Driving Layup Shot,1,2,176
+0022300653,251,PT06M05.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,43,51,94,v,Boucher Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,181
+0022300653,274,PT04M33.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Trent Jr. FOR Boucher,Substitution,,0,0,199
+0022300653,493,PT01M47.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,366
+0022300653,496,PT01M47.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,91,90,181,v,Boucher Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,368
+0022300653,497,PT01M47.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,91,91,182,v,Boucher Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,369
+0022300653,517,PT00M35.60S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,385
+0022300653,518,PT00M32.50S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher Out of Bounds - Bad Pass Turnover Turnover (P1.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,386
+0022300672,177,PT09M21.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,222,31,0,Made,1,40,32,72,v,Boucher 3PT Jump Shot (3 PTS) (Young 4 AST),Made Shot,Jump Shot,1,3,131
+0022300672,206,PT08M02.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,150
+0022300672,217,PT06M45.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,2,9,1,Made,1,45,39,84,v,Boucher 1' Cutting Layup Shot (5 PTS) (Young 5 AST),Made Shot,Cutting Layup Shot,1,2,159
+0022300672,223,PT06M10.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher Traveling Turnover (P1.T8),Turnover,Traveling,1,0,163
+0022300672,237,PT05M24.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,172
+0022300672,248,PT04M33.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher L.B.FOUL (P1.PN) (S.Wright),Foul,Loose Ball,1,0,178
+0022300672,251,PT04M33.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Schroder FOR Boucher,Substitution,,0,0,180
+0022300718,464,PT10M27.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,191,190,27,Made,1,109,74,183,v,Boucher 27' 3PT Jump Shot (3 PTS) (Dick 1 AST),Made Shot,Jump Shot,1,3,327
+0022300718,515,PT07M17.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher Lost Ball Turnover (P1.T14),Turnover,Lost Ball,1,0,369
+0022300718,523,PT06M44.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,374
+0022300718,524,PT06M38.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,7,8,1,Made,1,120,82,202,v,Boucher 1' Dunk (5 PTS) (Nwora 4 AST),Made Shot,Dunk Shot,1,2,375
+0022300718,528,PT06M10.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher BLOCK (1 BLK),,,1,2,378
+0022300718,543,PT04M35.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,390
+0022300718,555,PT03M56.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,399
+0022300718,558,PT03M56.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,124,87,211,v,Boucher Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,401
+0022300718,559,PT03M56.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,124,88,212,v,Boucher Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,402
+0022300718,571,PT03M01.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-123,232,26,Missed,1,,,0,v,MISS Boucher 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,411
+0022300718,576,PT02M50.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,416
+0022300718,578,PT02M39.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,418
+0022300718,579,PT02M38.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,Made,1,128,91,219,v,Boucher Putback Layup (9 PTS),Made Shot,Putback Layup Shot,1,2,419
+0022300718,606,PT00M47.30S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,440
+0022300718,613,PT00M20.40S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-126,103,16,Made,1,138,100,238,v,Boucher 16' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,2,446
+0022300782,469,PT04M01.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,338
+0022300782,486,PT03M04.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,349
+0022300782,488,PT02M56.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,351
+0022300782,491,PT02M55.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,96,91,187,h,Boucher Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,353
+0022300782,496,PT02M55.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,97,91,188,h,Boucher Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,356
+0022300782,501,PT02M20.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher P.FOUL (P1.T3) (J.Capers),Foul,Personal,1,0,360
+0022300782,529,PT00M26.90S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher S.FOUL (P2.T4) (B.Barnaky),Foul,Shooting,1,0,381
+0022300782,531,PT00M26.90S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Quickley FOR Boucher,Substitution,,0,0,382
+0022300782,548,PT11M50.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,5,9,1,Made,1,105,101,206,h,Boucher 1' Alley Oop Dunk (4 PTS) (Barnes 8 AST),Made Shot,Alley Oop Dunk Shot,1,2,390
+0022300782,557,PT10M42.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher BLOCK (1 BLK),,,1,2,398
+0022300782,564,PT09M47.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-200,148,25,Missed,1,,,0,h,MISS Boucher 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,404
+0022300782,572,PT09M30.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,MISS Boucher Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,411
+0022300782,576,PT09M30.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,MISS Boucher Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,414
+0022300782,583,PT08M47.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,6,6,1,Made,1,111,107,218,h,Boucher 1' Cutting Dunk Shot (6 PTS) (Nwora 1 AST),Made Shot,Cutting Dunk Shot,1,2,420
+0022300782,613,PT06M48.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher STEAL (1 STL),,,1,0,442
+0022300782,615,PT06M44.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,6,3,1,Made,1,115,111,226,h,Boucher 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,443
+0022300782,631,PT05M20.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,455
+0022300782,632,PT05M20.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,Made,1,117,115,232,h,Boucher Putback Layup (10 PTS),Made Shot,Putback Layup Shot,1,2,456
+0022300782,638,PT04M57.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Barnes FOR Boucher,Substitution,,0,0,461
+0022300795,633,PT03M35.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,111,81,192,h,Boucher Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,460
+0022300795,634,PT03M35.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,112,81,193,h,Boucher Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,461
+0022300795,657,PT01M58.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-25,262,26,Missed,1,,,0,h,MISS Boucher 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,478
+0022300795,682,PT00M01.70S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,498
+0022300860,449,PT03M44.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,234,-9,0,Missed,1,,,0,h,MISS Boucher 3PT Jump Shot,Missed Shot,Jump Shot,1,3,330
+0022300860,460,PT03M16.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,339
+0022300860,461,PT03M05.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,33,11,3,Made,1,77,85,162,h,Boucher 3' Alley Oop Layup (2 PTS) (Quickley 8 AST),Made Shot,Alley Oop Layup shot,1,2,340
+0022300860,464,PT02M50.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher S.FOUL (P1.T3) (A.Moyer-Gleich),Foul,Shooting,1,0,341
+0022300860,499,PT00M46.10S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher Lost Ball Turnover (P1.T11),Turnover,Lost Ball,1,0,366
+0022300860,502,PT00M38.40S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,369
+0022300905,122,PT02M10.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,88
+0022300905,141,PT00M33.60S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,100
+0022300905,154,PT11M45.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher Lost Ball Turnover (P2.T2),Turnover,Lost Ball,1,0,107
+0022300905,163,PT11M12.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,115
+0022300905,164,PT11M12.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,Missed,1,,,0,v,MISS Boucher Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,116
+0022300905,189,PT08M38.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher S.FOUL (P1.T1) (S.Wright),Foul,Shooting,1,0,137
+0022300905,208,PT06M59.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,1,8,1,Made,1,50,36,86,v,Boucher 1' Layup (2 PTS) (Quickley 6 AST),Made Shot,Layup Shot,1,2,151
+0022300905,214,PT06M59.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Olynyk FOR Boucher,Substitution,,0,0,156
+0022300905,392,PT05M54.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,-11,-5,1,Made,1,79,71,150,v,Boucher 1' Reverse Dunk (4 PTS) (Quickley 13 AST),Made Shot,Reverse Dunk Shot,1,2,286
+0022300905,398,PT05M54.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,79,72,151,v,Boucher Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,289
+0022300905,412,PT04M54.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,299
+0022300905,418,PT04M31.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,303
+0022300905,427,PT03M33.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,311
+0022300905,449,PT02M39.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,328
+0022300905,450,PT02M39.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,9,4,1,Made,1,83,77,160,v,Boucher 1' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,1,2,329
+0022300905,482,PT00M02.50S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,353
+0022300905,483,PT00M02.10S,3,1610612761,TOR,1628449,Boucher,C. Boucher,23,22,3,Made,1,89,82,171,v,Boucher 3' Putback Layup (9 PTS),Made Shot,Putback Layup Shot,1,2,354
+0022300905,515,PT09M34.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,377
+0022300905,545,PT06M54.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,12,32,3,Made,1,101,95,196,v,Boucher 3' Cutting Layup Shot (11 PTS) (Barrett 4 AST),Made Shot,Cutting Layup Shot,1,2,399
+0022300905,566,PT05M47.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,412
+0022300905,575,PT05M29.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher P.FOUL (P2.T3) (S.Wright),Foul,Personal,1,0,417
+0022300905,585,PT04M56.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Olynyk FOR Boucher,Substitution,,0,0,423
+0022300923,96,PT03M29.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,77
+0022300923,100,PT02M57.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,80
+0022300923,131,PT01M11.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher BLOCK (1 BLK),,,1,2,102
+0022300923,160,PT10M46.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,38,19,57,v,Boucher Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,122
+0022300923,161,PT10M46.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,38,20,58,v,Boucher Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,123
+0022300923,168,PT09M45.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher S.FOUL (P1.T2) (D.Richardson),Foul,Shooting,1,0,128
+0022300923,193,PT08M23.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,146
+0022300923,198,PT07M47.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-121,239,27,Missed,1,,,0,v,MISS Boucher 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,150
+0022300923,208,PT06M58.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher BLOCK (2 BLK),,,1,2,160
+0022300923,217,PT06M51.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Freeman-Liberty FOR Boucher,Substitution,,0,0,168
+0022300923,442,PT00M55.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher Out of Bounds Lost Ball Turnover (P1.T13),Turnover,Out of Bounds Lost Ball Turnover,1,0,331
+0022300923,473,PT11M13.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,94,82,176,v,Boucher Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,355
+0022300923,474,PT11M13.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,94,83,177,v,Boucher Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,356
+0022300923,477,PT10M34.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher 3 Second Violation Turnover (P2.T16),Turnover,3 Second Violation,1,0,359
+0022300923,490,PT09M35.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher BLOCK (3 BLK),,,1,2,369
+0022300923,500,PT08M10.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,2,267,27,Made,1,97,93,190,v,Boucher 27' 3PT Jump Shot (7 PTS) (Quickley 7 AST),Made Shot,Jump Shot,1,3,376
+0022300923,517,PT06M47.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher Lost Ball Turnover (P3.T18),Turnover,Lost Ball,1,0,385
+0022300923,538,PT05M33.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-223,110,25,Made,1,105,98,203,v,Boucher 25' 3PT Jump Shot (10 PTS) (Olynyk 5 AST),Made Shot,Jump Shot,1,3,400
+0022300923,557,PT03M58.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,418
+0022300923,573,PT01M53.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,429
+0022300923,574,PT01M43.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,6,15,2,Made,1,111,107,218,v,Boucher 2' Cutting Dunk Shot (12 PTS) (Olynyk 7 AST),Made Shot,Cutting Dunk Shot,1,2,430
+0022300923,596,PT00M24.70S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,113,110,223,v,Boucher Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,445
+0022300923,597,PT00M24.70S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,113,111,224,v,Boucher Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,446
+0022300923,609,PT00M00.70S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,453
+0022300923,610,PT00M00.70S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,Made,1,113,113,226,v,Boucher Tip Layup Shot (16 PTS),Made Shot,Tip Layup Shot,1,2,454
+0022300923,614,PT00M00.70S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: McDaniels FOR Boucher,Substitution,,0,0,458
+0022300923,638,PT04M01.00S,5,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,471
+0022300923,644,PT03M25.00S,5,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,476
+0022300923,667,PT01M40.00S,5,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher S.FOUL (P2.T2) (D.Richardson),Foul,Shooting,1,0,494
+0022301207,239,PT05M51.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,165
+0022301207,270,PT03M01.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Barnes FOR Boucher,Substitution,,0,0,187
+0022301207,486,PT11M01.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Jump Ball Boucher vs. O. Robinson: Tip to Richardson,Jump Ball,,0,0,343
+0022301207,485,PT11M00.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,345
+0022301207,489,PT10M59.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,0,346
+0022301207,501,PT09M57.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,357
+0022301207,530,PT07M31.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,13,10,2,Missed,1,,,0,h,MISS Boucher 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,375
+0022301207,538,PT06M37.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-227,47,0,Missed,1,,,0,h,MISS Boucher 3PT Jump Shot,Missed Shot,Jump Shot,1,3,383
+0022301207,541,PT06M28.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,Boucher REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,386
+0022301207,546,PT06M18.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,h,SUB: Siakam FOR Boucher,Substitution,,0,0,391
+0022301216,233,PT06M08.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,29,16,3,Missed,1,,,0,v,MISS Boucher 3' Running Layup,Missed Shot,Running Layup Shot,1,2,168
+0022301216,243,PT05M32.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher BLOCK (1 BLK),,,1,3,178
+0022301216,245,PT05M29.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,179
+0022301216,246,PT05M29.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher Offensive Charge Foul (P1) (B.Schwab),Foul,Offensive Charge,1,0,180
+0022301216,248,PT05M29.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,1,0,181
+0022301216,251,PT05M15.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,5,22,2,Made,1,53,40,93,v,Boucher 2' Running Layup (2 PTS) (Schroder 2 AST),Made Shot,Running Layup Shot,1,2,184
+0022301216,255,PT05M15.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,53,41,94,v,Boucher Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,186
+0022301216,282,PT03M23.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Barnes FOR Boucher,Substitution,,0,0,204
+0022301216,465,PT11M32.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-129,222,26,Missed,1,,,0,v,MISS Boucher 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,331
+0022301216,472,PT10M59.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-4,15,2,Made,1,90,82,172,v,Boucher 2' Running Layup (5 PTS) (Barnes 8 AST),Made Shot,Running Layup Shot,1,2,336
+0022301216,476,PT10M31.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,12,11,2,Made,1,90,84,174,v,Boucher 2' Cutting Layup Shot (7 PTS) (Barnes 9 AST),Made Shot,Cutting Layup Shot,1,2,339
+0022301216,497,PT08M38.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher S.FOUL (P2.T1) (C.Kirkland),Foul,Shooting,1,0,354
+0022301216,506,PT08M22.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,360
+0022301216,507,PT08M22.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,Made,1,96,90,186,v,Boucher Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,1,2,361
+0022301216,516,PT07M59.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher P.FOUL (P3.T2) (C.Kirkland),Foul,Personal,1,0,368
+0022301216,528,PT07M17.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-196,167,26,Missed,1,,,0,v,MISS Boucher 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,376
+0022301216,547,PT05M39.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-229,6,0,Missed,1,,,0,v,MISS Boucher 3PT Jump Shot,Missed Shot,Jump Shot,1,3,390
+0022301216,549,PT05M35.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,-2,38,4,Missed,1,,,0,v,MISS Boucher 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,392
+0022301216,553,PT05M16.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,395
+0022301216,556,PT05M02.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,Boucher S.FOUL (P4.T4) (B.Schwab),Foul,Shooting,1,0,397
+0022301216,572,PT04M23.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,,,0,v,SUB: Poeltl FOR Boucher,Substitution,,0,0,409

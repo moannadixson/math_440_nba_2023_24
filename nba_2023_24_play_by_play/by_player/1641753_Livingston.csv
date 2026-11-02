@@ -1,0 +1,76 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300116,654,PT03M28.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,-229,5,0,Made,1,121,99,220,v,Livingston 3PT Jump Shot (3 PTS) (Jackson Jr. 1 AST),Made Shot,Jump Shot,1,3,468
+0022300116,679,PT01M16.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,33,53,6,Made,1,128,108,236,v,Livingston 6' Floating Jump Shot (5 PTS) (Green 1 AST),Made Shot,Floating Jump shot,1,2,485
+0022300173,660,PT05M35.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,v,SUB: Green FOR Livingston,Substitution,,0,0,465
+0022300334,569,PT08M51.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston S.FOUL (P1.T2) (J.Goldenberg),Foul,Shooting,1,0,418
+0022300334,606,PT06M39.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,446
+0022300334,640,PT04M23.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston S.FOUL (P2.PN) (D.Scott),Foul,Shooting,1,0,471
+0022300334,663,PT02M46.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,489
+0022300334,669,PT02M17.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,494
+0022300334,682,PT00M31.50S,4,1610612749,MIL,1641753,Livingston,C. Livingston,-17,17,2,Made,1,146,114,260,h,Livingston 2' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,504
+0022300417,666,PT00M59.90S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,v,Livingston REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,484
+0022300417,673,PT00M32.10S,4,1610612749,MIL,1641753,Livingston,C. Livingston,-15,-12,2,Made,1,122,144,266,v,Livingston 2' Layup (2 PTS) (T. Antetokounmpo 2 AST),Made Shot,Layup Shot,1,2,489
+0022300466,720,PT00M44.80S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,v,Livingston REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,513
+0022300510,445,PT03M37.00S,3,1610612749,MIL,1641753,Livingston,C. Livingston,2,17,2,Made,1,80,93,173,h,Livingston 2' Running Layup (2 PTS) (G. Antetokounmpo 7 AST),Made Shot,Running Layup Shot,1,2,328
+0022300510,459,PT02M40.00S,3,1610612749,MIL,1641753,Livingston,C. Livingston,-5,29,3,Missed,1,,,0,h,MISS Livingston 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,338
+0022300510,461,PT02M38.00S,3,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,340
+0022300510,462,PT02M37.00S,3,1610612749,MIL,1641753,Livingston,C. Livingston,-44,8,4,Made,1,84,95,179,h,Livingston 4' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,341
+0022300510,480,PT01M25.00S,3,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,85,97,182,h,Livingston Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,352
+0022300510,481,PT01M25.00S,3,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,86,97,183,h,Livingston Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,353
+0022300510,522,PT10M27.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,13,25,3,Missed,1,,,0,h,MISS Livingston 3' Running Layup,Missed Shot,Running Layup Shot,1,2,382
+0022300510,552,PT08M00.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston STEAL (1 STL),,,1,0,404
+0022300510,558,PT07M36.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston P.FOUL (P1.T4) (C.Kirkland),Foul,Personal,1,0,408
+0022300510,572,PT06M16.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,-9,34,4,Missed,1,,,0,h,MISS Livingston 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,417
+0022300510,591,PT04M25.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,431
+0022300510,594,PT04M18.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,434
+0022300510,611,PT02M59.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,SUB: Beasley FOR Livingston,Substitution,,0,0,447
+0022300510,637,PT01M11.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,SUB: Beasley FOR Livingston,Substitution,,0,0,464
+0022300510,659,PT00M47.80S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,SUB: Beasley FOR Livingston,Substitution,,0,0,480
+0022300528,613,PT03M00.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,445
+0022300528,616,PT02M07.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,4,6,1,Made,1,133,99,232,h,Livingston 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,448
+0022300528,619,PT01M44.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,451
+0022300528,625,PT01M00.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,456
+0022300545,459,PT00M12.70S,3,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,BUCKS T.Foul (Def. 3 Sec Livingston ) (J.Williams),Foul,Defense 3 Second,1,0,338
+0022300572,413,PT04M17.00S,3,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,v,Livingston S.FOUL (P1.T4) (B.Kennedy),Foul,Shooting,1,0,311
+0022300572,433,PT02M11.00S,3,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,v,Livingston REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,327
+0022300572,434,PT02M08.00S,3,1610612749,MIL,1641753,Livingston,C. Livingston,4,14,1,Missed,1,,,0,v,MISS Livingston 1' Running Layup,Missed Shot,Running Layup Shot,1,2,328
+0022300572,523,PT08M12.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,v,Livingston S.FOUL (P2.T2) (B.Kennedy),Foul,Shooting,1,0,390
+0022300572,543,PT06M52.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,v,SUB: R. Lopez FOR Livingston,Substitution,,0,0,405
+0022300648,658,PT01M38.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston S.FOUL (P1.PN) (S.Wright),Foul,Shooting,1,0,479
+0022300648,664,PT01M37.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston S.FOUL (P2.PN) (J.Sterling),Foul,Shooting,1,0,484
+0022300648,671,PT00M36.10S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,490
+0022300648,672,PT00M35.40S,4,1610612749,MIL,1641753,Livingston,C. Livingston,-15,19,2,Missed,1,,,0,h,MISS Livingston 2' Running Layup,Missed Shot,Running Layup Shot,1,2,491
+0022300711,648,PT00M03.10S,4,1610612749,MIL,1641753,Livingston,C. Livingston,-1,46,5,Missed,1,,,0,v,MISS Livingston 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,470
+0022300767,613,PT01M05.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,458
+0022300840,520,PT05M30.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,246,35,25,Missed,1,,,0,h,MISS Livingston 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,386
+0022300840,544,PT03M18.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston P.FOUL (P1.T2) (B.Forte),Foul,Personal,1,0,403
+0022300840,546,PT03M13.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston P.FOUL (P2.T3) (N.Green),Foul,Personal,1,0,404
+0022300840,549,PT02M59.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,406
+0022300840,579,PT01M23.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston S.FOUL (P3.PN) (N.Buchert),Foul,Shooting,1,0,429
+0022300840,583,PT01M05.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston OFF.Foul (P4) (B.Forte),Foul,Offensive,1,0,432
+0022300840,585,PT01M05.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,1,0,433
+0022300840,588,PT00M34.70S,4,1610612749,MIL,1641753,Livingston,C. Livingston,-147,222,27,Missed,1,,,0,h,MISS Livingston 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,435
+0022301030,639,PT03M01.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,-225,9,0,Missed,1,,,0,h,MISS Livingston 3PT Jump Shot,Missed Shot,Jump Shot,1,3,461
+0022301030,662,PT01M03.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,-1,29,3,Made,1,118,93,211,h,Livingston 3' Running Layup (2 PTS) (T. Antetokounmpo 1 AST),Made Shot,Running Layup Shot,1,2,480
+0022301162,592,PT02M08.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,-200,191,28,Missed,1,,,0,h,MISS Livingston 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,433
+0022301162,600,PT01M31.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston P.FOUL (P1.PN) (M.Myers),Foul,Personal,1,0,440
+0022301162,611,PT00M33.40S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,453
+0022301162,614,PT00M31.60S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,117,99,216,h,Livingston Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,455
+0022301162,615,PT00M31.60S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,MISS Livingston Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,456
+0022301179,465,PT01M06.00S,3,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,v,Livingston REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,334
+0022301179,468,PT00M39.80S,3,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,v,Livingston S.FOUL (P1.T2) (C.Washington),Foul,Shooting,1,0,337
+0022301179,475,PT00M13.50S,3,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,v,Livingston REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,342
+0022301179,504,PT10M01.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,v,Livingston REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,359
+0022301179,527,PT08M17.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,v,Livingston REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,378
+0022301179,550,PT06M56.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,v,Livingston S.FOUL (P2.T2) (P.Fraher),Foul,Shooting,1,0,395
+0022301179,560,PT06M22.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,v,Livingston S.FOUL (P3.T3) (T.Brothers),Foul,Shooting,1,0,401
+0022301179,568,PT06M09.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,7,-6,1,Made,1,109,89,198,v,Livingston 1' Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,1,2,406
+0022301179,578,PT05M14.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,-5,5,1,Made,1,111,91,202,v,Livingston 1' Cutting Layup Shot (4 PTS) (Antetokounmpo 1 AST),Made Shot,Cutting Layup Shot,1,2,412
+0022301179,605,PT03M10.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,v,Livingston REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,428
+0022301179,606,PT03M09.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,4,1,0,Made,1,123,96,219,v,Livingston Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,2,429
+0022301179,609,PT02M47.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,v,Livingston Out of Bounds Lost Ball Turnover (P1.T19),Turnover,Out of Bounds Lost Ball Turnover,1,0,432
+0022301201,654,PT01M44.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,476
+0022301201,671,PT01M34.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,-66,43,8,Missed,1,,,0,h,MISS Livingston 8' Layup,Missed Shot,Layup Shot,1,2,477
+0022301201,673,PT01M31.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,479
+0022301201,674,PT01M30.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,0,480
+0022301201,657,PT01M26.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,,,0,h,Livingston STEAL (1 STL),,,1,0,483

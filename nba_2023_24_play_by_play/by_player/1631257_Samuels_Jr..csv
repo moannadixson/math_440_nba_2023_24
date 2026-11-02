@@ -1,0 +1,38 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300066,640,PT02M22.00S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,0,0,0,,0,,,0,v,Samuels Jr. P.FOUL (P1.PN) (T.Ford),Foul,Personal,1,0,465
+0022300137,642,PT01M17.00S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,0,0,0,,0,106,87,193,h,Samuels Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,468
+0022300137,643,PT01M17.00S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,0,0,0,,0,107,87,194,h,Samuels Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,469
+0022300137,651,PT00M47.40S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,0,0,0,,0,,,0,h,Samuels Jr. P.FOUL (P1.PN) (J.Reneau),Foul,Personal,1,0,474
+0022300137,655,PT00M32.80S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,-224,-8,0,Missed,1,,,0,h,MISS Samuels Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,477
+0022300153,499,PT09M49.00S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,-34,14,4,Made,1,105,67,172,h,Samuels Jr. 4' Running Finger Roll Layup (2 PTS) (Bullock Jr. 2 AST),Made Shot,Running Finger Roll Layup Shot,1,2,356
+0022300153,512,PT09M41.00S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,0,0,0,,0,,,0,h,Samuels Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,364
+0022300153,543,PT07M13.00S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,0,0,0,,0,,,0,h,Samuels Jr. P.FOUL (P1.T4) (J.Van Duyne),Foul,Personal,1,0,391
+0022300153,576,PT05M17.00S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,0,0,0,,0,,,0,h,Samuels Jr. BLOCK (1 BLK),,,1,2,411
+0022300153,580,PT05M01.00S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,0,0,0,,0,,,0,h,Samuels Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,416
+0022300153,595,PT03M19.00S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,-2,32,3,Made,1,118,83,201,h,Samuels Jr. 3' Driving Floating Jump Shot (4 PTS) (Whitmore 1 AST),Made Shot,Driving Floating Jump Shot,1,2,429
+0022300153,619,PT00M05.30S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,0,0,0,,0,,,0,h,Samuels Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,448
+0022300263,621,PT03M25.00S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,0,0,0,,0,,,0,v,Samuels Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,431
+0022300263,622,PT03M17.00S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,225,27,0,Missed,1,,,0,v,MISS Samuels Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,432
+0022300263,658,PT00M21.90S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,0,0,0,,0,,,0,v,Samuels Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,458
+0022300291,672,PT02M38.00S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,0,0,0,,0,,,0,v,Samuels Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,485
+0022300291,693,PT01M12.00S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,0,0,0,,0,,,0,v,Samuels Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,503
+0022300385,605,PT06M06.00S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,0,0,0,,0,,,0,h,Samuels Jr. STEAL (1 STL),,,1,0,470
+0022300385,621,PT04M56.00S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,0,0,0,,0,,,0,h,Samuels Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,482
+0022300385,624,PT04M51.00S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,20,9,2,Made,1,108,77,185,h,Samuels Jr. 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,483
+0022300385,636,PT03M09.00S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,-1,9,1,Made,1,114,83,197,h,Samuels Jr. 1' Cutting Layup Shot (4 PTS) (Thompson 3 AST),Made Shot,Cutting Layup Shot,1,2,493
+0022300385,656,PT01M30.00S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,15,-12,2,Made,1,118,89,207,h,Samuels Jr. 2' Driving Layup (6 PTS) (Landale 2 AST),Made Shot,Driving Layup Shot,1,2,508
+0022300635,655,PT03M45.00S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,-5,26,3,Missed,1,,,0,v,MISS Samuels Jr. 3' Layup,Missed Shot,Layup Shot,1,2,473
+0022300635,675,PT02M18.00S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,0,0,0,,0,,,0,v,Samuels Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,487
+0022300635,701,PT00M57.00S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,0,0,0,,0,,,0,v,Samuels Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,507
+0022300692,615,PT03M24.00S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,0,0,0,,0,,,0,h,Samuels Jr. P.FOUL (P1.T3) (J.Schroeder),Foul,Personal,1,0,456
+0022300692,631,PT01M58.00S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,-12,12,2,Made,1,131,104,235,h,Samuels Jr. 2' Cutting Dunk Shot (2 PTS),Made Shot,Cutting Dunk Shot,1,2,465
+0022300709,720,PT01M50.00S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,0,0,0,,0,,,0,v,Samuels Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,530
+0022300709,721,PT01M46.00S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,-9,27,3,Made,1,106,81,187,v,Samuels Jr. 3' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,531
+0022300709,727,PT01M11.00S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,-12,5,1,Made,1,109,86,195,v,Samuels Jr. 1' Running Finger Roll Layup (4 PTS) (Holiday 2 AST),Made Shot,Running Finger Roll Layup Shot,1,2,536
+0022301120,636,PT00M34.90S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,40,21,5,Missed,1,,,0,h,MISS Samuels Jr. 5' Running Layup,Missed Shot,Running Layup Shot,1,2,466
+0022301120,644,PT00M05.00S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,0,0,0,,0,,,0,h,Samuels Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,474
+0022301120,645,PT00M04.10S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,29,13,3,Made,1,104,119,223,h,Samuels Jr. 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,475
+0022301150,658,PT00M31.20S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,38,30,5,Missed,1,,,0,h,MISS Samuels Jr. 5' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,472
+0022301199,456,PT02M52.00S,3,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,0,0,0,,0,,,0,v,Samuels Jr. BLOCK (1 BLK),,,1,2,349
+0022301199,475,PT02M08.00S,3,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,0,0,0,,0,,,0,v,Samuels Jr. S.FOUL (P1.T3) (J.Butler),Foul,Shooting,1,0,364
+0022301199,676,PT00M50.40S,4,1610612745,HOU,1631257,Samuels Jr.,J. Samuels Jr.,0,0,0,,0,,,0,v,Samuels Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,513

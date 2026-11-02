@@ -1,0 +1,288 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300093,562,PT02M12.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,113,30,12,Missed,1,,,0,v,MISS O. Robinson 12' Jump Shot,Missed Shot,Jump Shot,1,2,413
+0022300093,583,PT01M41.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,427
+0022300093,589,PT01M16.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,12,64,7,Missed,1,,,0,v,MISS O. Robinson 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,433
+0022300093,594,PT00M36.40S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson BLOCK (1 BLK),,,1,2,439
+0022300107,133,PT02M08.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,1,0,94
+0022300107,143,PT00M49.70S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson STEAL (1 STL),,,1,0,101
+0022300107,156,PT00M00.10S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,28,27,55,v,O. Robinson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,112
+0022300107,157,PT00M00.10S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,28,28,56,v,O. Robinson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,113
+0022300107,189,PT09M16.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson L.B.FOUL (P1.T1) (T.Brothers),Foul,Loose Ball,1,0,140
+0022300107,201,PT08M54.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson OFF.Foul (P2) (D.Collins),Foul,Offensive,1,0,146
+0022300107,203,PT08M54.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson Offensive Foul Turnover (P2.T5),Turnover,Offensive Foul Turnover,1,0,147
+0022300107,217,PT08M32.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,SUB: Lowry FOR O. Robinson,Substitution,,0,0,158
+0022300107,394,PT06M23.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,13,93,9,Made,1,79,60,139,v,O. Robinson 9' Floating Jump Shot (4 PTS) (Lowry 3 AST),Made Shot,Floating Jump shot,1,2,294
+0022300107,427,PT03M34.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,320
+0022300107,442,PT02M27.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,333
+0022300107,471,PT00M09.80S,3,1610612748,MIA,1631115,Robinson,O. Robinson,21,27,3,Missed,1,,,0,v,MISS O. Robinson 3' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,353
+0022300107,480,PT11M44.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,223,2,0,Made,1,97,76,173,v,O. Robinson 3PT Jump Shot (7 PTS) (Jaquez Jr. 3 AST),Made Shot,Jump Shot,1,3,361
+0022300107,484,PT11M18.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson S.FOUL (P3.T1) (T.Brothers),Foul,Shooting,1,0,363
+0022300107,489,PT10M57.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,-21,14,3,Missed,1,,,0,v,MISS O. Robinson 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,366
+0022300107,490,PT10M57.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,367
+0022300107,505,PT09M48.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,379
+0022300107,521,PT08M27.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,-6,-6,1,Made,1,107,87,194,v,O. Robinson 1' Driving Dunk (9 PTS),Made Shot,Driving Dunk Shot,1,2,390
+0022300107,523,PT08M00.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,392
+0022300107,559,PT05M21.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,415
+0022300107,580,PT03M14.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson S.FOUL (P4.T4) (D.Collins),Foul,Shooting,1,0,430
+0022300107,589,PT03M00.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson Bad Pass Turnover (P3.T14),Turnover,Bad Pass,1,0,437
+0022300107,599,PT02M54.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,445
+0022300107,600,PT02M48.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,67,138,15,Missed,1,,,0,v,MISS O. Robinson 15' Hook Shot,Missed Shot,Hook Shot,1,2,446
+0022300107,616,PT01M48.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,-21,-12,2,Made,1,115,107,222,v,O. Robinson 2' Cutting Layup Shot (11 PTS) (Herro 3 AST),Made Shot,Cutting Layup Shot,1,2,458
+0022300220,599,PT00M22.70S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson S.FOUL (P1.PN) (P.Ransom),Foul,Shooting,1,0,426
+0022300229,86,PT04M50.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,-1,14,1,Made,1,16,21,37,v,O. Robinson 1' Cutting Layup Shot (2 PTS) (Highsmith 3 AST),Made Shot,Cutting Layup Shot,1,2,62
+0022300229,89,PT04M30.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,64
+0022300229,121,PT03M16.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson STEAL (1 STL),,,1,0,84
+0022300229,123,PT03M13.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,-5,10,1,Made,1,20,29,49,v,O. Robinson 1' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,1,2,85
+0022300229,134,PT02M02.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson S.FOUL (P1.PN) (J.DeRosa),Foul,Shooting,1,0,94
+0022300229,147,PT01M11.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,103
+0022300229,148,PT01M09.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,Made,1,24,31,55,v,O. Robinson Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,104
+0022300229,183,PT10M55.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson S.FOUL (P2.T1) (B.Adair),Foul,Shooting,1,0,128
+0022300229,194,PT09M51.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,138
+0022300229,195,PT09M49.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,-11,17,2,Made,1,28,43,71,v,O. Robinson 2' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,1,2,139
+0022300229,261,PT05M40.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,180
+0022300229,262,PT05M23.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson Traveling Turnover (P1.T4),Turnover,Traveling,1,0,181
+0022300229,264,PT05M23.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,SUB: Bryant FOR O. Robinson,Substitution,,0,0,183
+0022300229,451,PT01M12.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,45,22,5,Missed,1,,,0,v,MISS O. Robinson 5' Hook Shot,Missed Shot,Hook Shot,1,2,326
+0022300229,469,PT00M40.60S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,5,1,Missed,1,,,0,v,MISS O. Robinson 1' Hook Shot,Missed Shot,Hook Shot,1,2,339
+0022300229,470,PT00M40.60S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,340
+0022300229,546,PT00M40.60S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,76,101,177,v,O. Robinson Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,342
+0022300229,547,PT00M40.60S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,MISS O. Robinson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,343
+0022300229,492,PT11M35.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson BLOCK (1 BLK),,,1,2,358
+0022300229,499,PT11M13.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,361
+0022300229,510,PT10M21.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson S.FOUL (P3.T1) (G.Petraitis),Foul,Shooting,1,0,368
+0022300229,539,PT08M35.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,391
+0022300229,551,PT07M48.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,-78,44,9,Missed,1,,,0,v,MISS O. Robinson 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,396
+0022300229,569,PT05M54.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,259,26,Made,1,86,116,202,v,O. Robinson 26' 3PT Jump Shot (12 PTS) (Jaquez Jr. 1 AST),Made Shot,Jump Shot,1,3,410
+0022300229,572,PT05M34.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,412
+0022300229,578,PT05M13.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,6,1,1,Made,1,86,118,204,v,O. Robinson 1' Alley Oop Dunk (14 PTS) (Richardson 5 AST),Made Shot,Alley Oop Dunk Shot,1,2,416
+0022300229,592,PT03M42.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson BLOCK (2 BLK),,,1,2,427
+0022300229,594,PT03M42.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,428
+0022300229,598,PT03M40.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson OFF.Foul (P4) (B.Adair),Foul,Offensive,1,0,429
+0022300229,600,PT03M40.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,1,0,430
+0022300267,234,PT06M41.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,165
+0022300267,235,PT06M28.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,18,18,3,Missed,1,,,0,h,MISS O. Robinson 3' Layup,Missed Shot,Layup Shot,1,2,166
+0022300267,268,PT04M54.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,36,20,4,Made,1,50,52,102,h,O. Robinson 4' Driving Layup (2 PTS) (Butler 1 AST),Made Shot,Driving Layup Shot,1,2,189
+0022300267,285,PT03M56.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,SUB: Highsmith FOR O. Robinson,Substitution,,0,0,202
+0022300267,554,PT10M18.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson S.FOUL (P1.T1) (A.Moyer-Gleich),Foul,Shooting,1,0,406
+0022300267,585,PT07M57.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,430
+0022300267,595,PT07M52.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,SUB: Love FOR O. Robinson,Substitution,,0,0,437
+0022300284,4,PT12M00.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,Jump Ball O. Robinson vs. Turner: Tip to Toppin,Jump Ball,,1,0,2
+0022300284,17,PT11M00.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,-124,104,16,Missed,1,,,0,h,MISS O. Robinson 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,10
+0022300284,29,PT09M55.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,22
+0022300284,46,PT08M57.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,74,7,Made,1,6,5,11,h,O. Robinson 7' Hook Shot (2 PTS) (Martin 1 AST),Made Shot,Hook Shot,1,2,35
+0022300284,56,PT08M11.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,42
+0022300284,79,PT06M08.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,SUB: Jaquez Jr. FOR O. Robinson,Substitution,,0,0,59
+0022300284,198,PT10M53.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,-49,25,6,Made,1,36,29,65,h,O. Robinson 6' Layup (4 PTS),Made Shot,Layup Shot,1,2,143
+0022300284,223,PT09M16.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,159
+0022300284,236,PT08M26.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson S.FOUL (P1.T2) (T.Brothers),Foul,Shooting,1,0,170
+0022300284,267,PT06M28.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,SUB: Martin FOR O. Robinson,Substitution,,0,0,192
+0022300284,345,PT00M20.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,-5,73,7,Made,1,65,63,128,h,O. Robinson 7' Hook Shot (6 PTS) (D. Robinson 1 AST),Made Shot,Hook Shot,1,2,245
+0022300284,376,PT09M41.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,12,25,3,Made,1,72,72,144,h,O. Robinson 3' Hook Shot (8 PTS) (Butler 2 AST),Made Shot,Hook Shot,1,2,266
+0022300284,386,PT09M00.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,-119,182,22,Missed,1,,,0,h,MISS O. Robinson 22' Jump Shot,Missed Shot,Jump Shot,1,2,272
+0022300284,397,PT07M56.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,49,27,6,Missed,1,,,0,h,MISS O. Robinson 6' Layup,Missed Shot,Layup Shot,1,2,281
+0022300284,404,PT07M31.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,1,272,27,Made,1,75,82,157,h,O. Robinson 27' 3PT Jump Shot (11 PTS) (Butler 3 AST),Made Shot,Jump Shot,1,3,285
+0022300284,407,PT07M10.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,287
+0022300284,420,PT06M08.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,23,41,5,Missed,1,,,0,h,MISS O. Robinson 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,296
+0022300284,422,PT06M05.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,298
+0022300284,433,PT05M00.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,SUB: Jaquez Jr. FOR O. Robinson,Substitution,,0,0,308
+0022300284,532,PT10M19.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,15,47,5,Made,1,103,110,213,h,O. Robinson 5' Dunk (13 PTS) (Jaquez Jr. 3 AST),Made Shot,Dunk Shot,1,2,372
+0022300284,578,PT06M43.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,240,21,24,Made,1,113,122,235,h,O. Robinson 24' 3PT Jump Shot (16 PTS) (Butler 5 AST),Made Shot,Jump Shot,1,3,401
+0022300284,609,PT04M06.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,422
+0022300284,616,PT03M46.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,SUB: Love FOR O. Robinson,Substitution,,0,0,427
+0022300292,17,PT10M41.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,9
+0022300292,128,PT10M40.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,-16,15,2,Missed,1,,,0,v,MISS O. Robinson 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,10
+0022300292,32,PT09M13.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,23
+0022300292,49,PT07M55.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,MISS O. Robinson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,38
+0022300292,51,PT07M55.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,4,9,13,v,O. Robinson Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,40
+0022300292,59,PT06M48.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,-230,25,0,Made,1,6,12,18,v,O. Robinson 3PT Jump Shot (4 PTS) (Martin 1 AST),Made Shot,Jump Shot,1,3,46
+0022300292,81,PT05M08.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,SUB: Richardson FOR O. Robinson,Substitution,,0,0,62
+0022300292,171,PT11M14.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,119
+0022300292,191,PT09M08.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,-18,20,3,Missed,1,,,0,v,MISS O. Robinson 3' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,2,135
+0022300292,195,PT08M48.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,138
+0022300292,198,PT08M08.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,-1,27,3,Made,1,33,35,68,v,O. Robinson 3' Turnaround Hook Shot (6 PTS) (Jaquez Jr. 1 AST),Made Shot,Turnaround Hook Shot,1,2,141
+0022300292,208,PT07M47.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,SUB: Bryant FOR O. Robinson,Substitution,,0,0,149
+0022300292,346,PT09M56.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson P.FOUL (P1.T1) (T.Ricks),Foul,Personal,1,0,236
+0022300292,355,PT09M00.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,MISS O. Robinson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,242
+0022300292,357,PT09M00.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,59,67,126,v,O. Robinson Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,244
+0022300292,365,PT08M01.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson BLOCK (1 BLK),,,1,2,251
+0022300292,380,PT07M02.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,262
+0022300292,385,PT06M26.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson BLOCK (2 BLK),,,1,2,268
+0022300292,390,PT06M16.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson P.FOUL (P2.T3) (N.Sago),Foul,Personal,1,0,272
+0022300292,393,PT06M01.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,274
+0022300292,394,PT05M54.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,118,242,27,Missed,1,,,0,v,MISS O. Robinson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,275
+0022300292,396,PT05M45.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson S.FOUL (P3.T4) (C.Blair),Foul,Shooting,1,0,277
+0022300292,401,PT05M45.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,SUB: Jaquez Jr. FOR O. Robinson,Substitution,,0,0,281
+0022300292,505,PT10M52.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,350
+0022300292,510,PT10M26.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson S.FOUL (P4.T1) (C.Blair),Foul,Shooting,1,0,354
+0022300292,544,PT07M28.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson S.FOUL (P5.T2) (C.Blair),Foul,Shooting,1,0,379
+0022300292,555,PT06M51.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,SUB: Butler FOR O. Robinson,Substitution,,0,0,388
+0022300312,4,PT12M00.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,Jump Ball O. Robinson vs. Richards: Tip to Rozier,Jump Ball,,1,0,2
+0022300312,39,PT08M34.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson S.FOUL (P1.T2) (J.Williams),Foul,Shooting,1,0,25
+0022300312,49,PT07M43.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,34
+0022300312,50,PT07M42.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,35
+0022300312,56,PT07M22.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,16,39,4,Missed,1,,,0,h,MISS O. Robinson 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,40
+0022300312,70,PT05M53.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson 3 Second Violation Turnover (P2.T5),Turnover,3 Second Violation,1,0,51
+0022300312,73,PT05M53.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,SUB: Cain FOR O. Robinson,Substitution,,0,0,54
+0022300312,345,PT10M13.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,25,8,3,Made,1,64,48,112,h,O. Robinson 3' Layup (2 PTS) (Lowry 1 AST),Made Shot,Layup Shot,1,2,251
+0022300312,349,PT09M49.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson OFF.Foul (P2) (J.Schroeder),Foul,Offensive,1,0,253
+0022300312,351,PT09M49.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson Offensive Foul Turnover (P3.T16),Turnover,Offensive Foul Turnover,1,0,254
+0022300312,355,PT09M19.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,257
+0022300312,370,PT08M09.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,272
+0022300312,371,PT08M07.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,-11,16,2,Made,1,70,51,121,h,O. Robinson 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,273
+0022300312,380,PT07M21.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,277
+0022300312,381,PT07M19.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,-17,13,2,Made,1,72,53,125,h,O. Robinson 2' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,2,278
+0022300312,387,PT06M22.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,-96,21,10,Missed,1,,,0,h,MISS O. Robinson 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,284
+0022300312,399,PT05M49.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,SUB: Jaquez Jr. FOR O. Robinson,Substitution,,0,0,293
+0022300320,4,PT12M00.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,Jump Ball O. Robinson vs. Vucevic: Tip to White,Jump Ball,,1,0,2
+0022300320,20,PT10M04.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,-2,31,3,Missed,1,,,0,h,MISS O. Robinson 3' Hook Shot,Missed Shot,Hook Shot,1,2,14
+0022300320,39,PT08M10.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,13,262,26,Missed,1,,,0,h,MISS O. Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,29
+0022300320,56,PT06M46.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,SUB: Love FOR O. Robinson,Substitution,,0,0,40
+0022300320,193,PT09M44.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson OFF.Foul (P1) (J.Van Duyne),Foul,Offensive,1,0,133
+0022300320,195,PT09M44.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,134
+0022300320,234,PT06M38.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,SUB: Love FOR O. Robinson,Substitution,,0,0,163
+0022300320,340,PT11M30.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,Jump Ball O. Robinson vs. Vucevic: Tip to White,Jump Ball,,1,0,238
+0022300320,522,PT10M39.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,250
+0022300320,358,PT10M38.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,MISS O. Robinson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,252
+0022300320,360,PT10M38.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,57,61,118,h,O. Robinson Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,254
+0022300320,378,PT08M39.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson S.FOUL (P2.T3) (D.Mosher),Foul,Shooting,1,0,268
+0022300320,392,PT07M38.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,278
+0022300320,407,PT06M16.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,SUB: Jaquez Jr. FOR O. Robinson,Substitution,,0,0,289
+0022300337,4,PT12M00.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,Jump Ball O. Robinson vs. Vucevic: Tip to White,Jump Ball,,1,0,2
+0022300337,19,PT10M38.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,185,181,26,Missed,1,,,0,h,MISS O. Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,13
+0022300337,47,PT08M22.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson S.FOUL (P1.T1) (A.Moyer-Gleich),Foul,Shooting,1,0,32
+0022300337,52,PT07M59.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,-29,7,3,Made,1,13,4,17,h,O. Robinson 3' Cutting Finger Roll Layup Shot (2 PTS) (D. Robinson 2 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,36
+0022300337,61,PT06M49.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,-2,105,11,Missed,1,,,0,h,MISS O. Robinson 11' Hook Shot,Missed Shot,Hook Shot,1,2,43
+0022300337,65,PT06M15.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,-180,189,26,Missed,1,,,0,h,MISS O. Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,46
+0022300337,73,PT06M06.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,SUB: Love FOR O. Robinson,Substitution,,0,0,50
+0022300337,340,PT10M18.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,234
+0022300337,346,PT09M51.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson S.FOUL (P2.T2) (I.Hwang),Foul,Shooting,1,0,238
+0022300337,367,PT08M25.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,255
+0022300337,386,PT06M52.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,SUB: Love FOR O. Robinson,Substitution,,0,0,271
+0022300366,619,PT01M01.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,SUB: Adebayo FOR O. Robinson,Substitution,,0,0,439
+0022300458,593,PT01M58.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,437
+0022300458,605,PT00M15.20S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,MISS O. Robinson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,446
+0022300458,607,PT00M15.20S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,121,104,225,v,O. Robinson Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,448
+0022300551,629,PT00M53.50S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson S.FOUL (P1.PN) (S.Foster),Foul,Shooting,1,0,465
+0022300574,598,PT01M51.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,434
+0022300630,545,PT02M09.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,389
+0022300630,548,PT02M09.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,MISS O. Robinson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,391
+0022300630,550,PT02M09.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,105,138,243,h,O. Robinson Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,393
+0022300630,552,PT01M48.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,395
+0022300630,555,PT01M42.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,106,138,244,h,O. Robinson Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,397
+0022300630,556,PT01M42.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,107,138,245,h,O. Robinson Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,398
+0022300630,568,PT00M22.20S,4,1610612748,MIA,1631115,Robinson,O. Robinson,1,11,1,Missed,1,,,0,h,MISS O. Robinson 1' Layup,Missed Shot,Layup Shot,1,2,408
+0022300721,622,PT02M16.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,445
+0022300721,629,PT01M04.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,7,263,26,Missed,1,,,0,h,MISS O. Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,452
+0022300759,394,PT04M43.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,70,79,149,h,O. Robinson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,277
+0022300759,395,PT04M43.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,71,79,150,h,O. Robinson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,278
+0022300759,398,PT04M39.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,SUB: D. Robinson FOR O. Robinson,Substitution,,0,0,280
+0022300773,575,PT03M24.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson STEAL (1 STL),,,1,0,415
+0022300773,582,PT02M59.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,420
+0022300773,587,PT02M18.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,1,0,424
+0022300773,597,PT01M23.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,432
+0022300773,605,PT00M28.90S,4,1610612748,MIA,1631115,Robinson,O. Robinson,-1,21,2,Made,1,97,123,220,v,O. Robinson 2' Cutting Dunk Shot (2 PTS) (Swider 1 AST),Made Shot,Cutting Dunk Shot,1,2,439
+0022300855,122,PT02M00.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,89
+0022300855,172,PT10M11.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,123
+0022300855,201,PT08M00.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,147
+0022300855,209,PT07M50.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,SUB: Rozier FOR O. Robinson,Substitution,,0,0,154
+0022300855,517,PT10M39.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,374
+0022300855,544,PT08M58.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,SUB: Adebayo FOR O. Robinson,Substitution,,0,0,393
+0022300867,158,PT00M24.10S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,114
+0022300867,185,PT10M27.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,133
+0022300867,194,PT09M31.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,140
+0022300867,198,PT09M01.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson S.FOUL (P1.T2) (M.Boland),Foul,Shooting,1,0,144
+0022300867,211,PT08M19.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson S.FOUL (P2.T3) (C.Blair),Foul,Shooting,1,0,152
+0022300867,224,PT07M38.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,135,214,25,Missed,1,,,0,h,MISS O. Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,163
+0022300867,230,PT07M35.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,SUB: D. Robinson FOR O. Robinson,Substitution,,0,0,168
+0022300867,380,PT06M42.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson STEAL (1 STL),,,1,0,272
+0022300867,397,PT05M49.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson S.FOUL (P3.T3) (C.Blair),Foul,Shooting,0,0,284
+0022300867,407,PT04M56.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson P.FOUL (P4.T4) (M.Boland),Foul,Personal,1,0,291
+0022300867,419,PT04M20.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,Jump Ball O. Robinson vs. Collins: Tip to Rozier,Jump Ball,,0,0,300
+0022300867,434,PT03M55.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,Jump Ball O. Robinson vs. Yurtseven: Tip to Horton-Tucker,Jump Ball,,0,0,309
+0022300867,442,PT03M24.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,312
+0022300867,443,PT03M19.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,-12,36,4,Missed,1,,,0,h,MISS O. Robinson 4' Hook Shot,Missed Shot,Hook Shot,1,2,313
+0022300867,453,PT02M36.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,SUB: Martin FOR O. Robinson,Substitution,,0,0,320
+0022300888,141,PT00M51.40S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,104
+0022300888,161,PT11M21.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,-25,58,6,Missed,1,,,0,h,MISS O. Robinson 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,120
+0022300888,175,PT10M13.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,130
+0022300888,176,PT10M12.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,17,21,3,Made,1,38,34,72,h,O. Robinson 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,131
+0022300888,182,PT09M25.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,25,70,7,Missed,1,,,0,h,MISS O. Robinson 7' Jump Shot,Missed Shot,Jump Shot,1,2,137
+0022300888,183,PT09M23.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,138
+0022300888,196,PT08M47.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,146
+0022300888,198,PT08M32.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,148
+0022300888,207,PT08M02.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,154
+0022300888,228,PT05M52.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,170
+0022300888,230,PT05M52.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,SUB: Adebayo FOR O. Robinson,Substitution,,0,0,172
+0022300926,240,PT06M06.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,175
+0022300926,245,PT05M59.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,SUB: Rozier FOR O. Robinson,Substitution,,0,0,180
+0022300996,109,PT03M17.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,-245,-8,25,Made,1,19,26,45,v,Robinson 25' 3PT Jump Shot (3 PTS) (Mills 2 AST),Made Shot,Jump Shot,1,3,76
+0022300996,115,PT02M35.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,80
+0022300996,116,PT02M35.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,-4,3,1,Made,1,19,28,47,v,Robinson 1' Putback Layup (5 PTS),Made Shot,Putback Layup Shot,1,2,81
+0022300996,119,PT02M35.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,19,29,48,v,Robinson Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,83
+0022300996,141,PT00M09.20S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,SUB: Jovic FOR Robinson,Substitution,,0,0,99
+0022300996,443,PT01M22.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,-16,5,2,Made,1,75,81,156,v,Robinson 2' Layup (8 PTS),Made Shot,Layup Shot,1,2,315
+0022300996,476,PT10M09.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,Robinson REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,340
+0022300996,477,PT10M09.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,18,33,4,Missed,1,,,0,v,MISS Robinson 4' Putback Layup,Missed Shot,Putback Layup Shot,1,2,341
+0022300996,480,PT10M09.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,SUB: Jovic FOR Robinson,Substitution,,0,0,343
+0022301013,514,PT02M59.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,Robinson BLOCK (1 BLK),,,1,2,381
+0022301013,524,PT02M20.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,390
+0022301029,573,PT03M11.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,102,15,10,Missed,1,,,0,h,MISS Robinson 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,410
+0022301029,575,PT03M10.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,412
+0022301044,616,PT01M02.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,439
+0022301044,626,PT01M02.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,Robinson Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,440
+0022301207,29,PT10M08.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,20
+0022301207,40,PT09M22.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,29
+0022301207,43,PT09M13.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,32
+0022301207,71,PT06M13.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,100,227,25,Made,1,7,20,27,v,O. Robinson 25' 3PT Jump Shot (3 PTS) (Martin 1 AST),Made Shot,Jump Shot,1,3,52
+0022301207,78,PT05M51.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,SUB: Love FOR O. Robinson,Substitution,,0,0,58
+0022301207,225,PT06M19.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson OFF.Foul (P1) (E.Malloy),Foul,Offensive,1,0,156
+0022301207,227,PT06M19.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,0,157
+0022301207,242,PT05M43.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson P.FOUL (P2.T3) (J.Sterling),Foul,Personal,1,0,167
+0022301207,254,PT05M02.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,SUB: Love FOR O. Robinson,Substitution,,0,0,177
+0022301207,327,PT10M56.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson STEAL (1 STL),,,1,0,227
+0022301207,329,PT10M49.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,17,264,26,Made,1,66,68,134,v,O. Robinson 26' 3PT Jump Shot (6 PTS) (Butler 4 AST),Made Shot,Jump Shot,1,3,228
+0022301207,343,PT09M15.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,-22,6,2,Missed,1,,,0,v,MISS O. Robinson 2' Dunk,Missed Shot,Dunk Shot,1,2,239
+0022301207,345,PT09M12.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,241
+0022301207,346,PT09M08.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,-22,8,2,Missed,1,,,0,v,MISS O. Robinson 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,242
+0022301207,350,PT08M55.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,246
+0022301207,356,PT08M25.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson STEAL (2 STL),,,1,0,251
+0022301207,402,PT05M22.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,286
+0022301207,424,PT03M39.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,SUB: Love FOR O. Robinson,Substitution,,0,0,305
+0022301207,489,PT10M59.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson STEAL (3 STL),,,1,0,347
+0022301207,498,PT10M10.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,355
+0022301207,508,PT09M15.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,21,25,3,Made,1,87,89,176,v,O. Robinson 3' Cutting Layup Shot (8 PTS) (D. Robinson 5 AST),Made Shot,Cutting Layup Shot,1,2,360
+0022301207,512,PT09M15.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,87,90,177,v,O. Robinson Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,362
+0022301207,530,PT07M31.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson BLOCK (1 BLK),,,1,2,376
+0022301207,536,PT06M47.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,-1,68,7,Missed,1,,,0,v,MISS O. Robinson 7' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,1,2,381
+0022301207,553,PT05M38.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,396
+0022301207,563,PT04M32.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,211,149,26,Missed,1,,,0,v,MISS O. Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,404
+0022301207,568,PT04M07.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson L.B.FOUL (P3.T2) (E.Malloy),Foul,Loose Ball,1,0,409
+0022301207,580,PT03M33.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,420
+0022301207,581,PT03M25.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,-11,64,6,Made,1,94,99,193,v,O. Robinson 6' Driving Hook Shot (11 PTS) (Butler 6 AST),Made Shot,Driving Hook Shot,1,2,421
+0022301207,587,PT02M26.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,425
+0022301207,588,PT02M12.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,33,28,4,Made,1,96,104,200,v,O. Robinson 4' Turnaround Bank Hook Shot (13 PTS) (D. Robinson 7 AST),Made Shot,Turnaround Bank Hook Shot,1,2,426
+0022301207,591,PT01M56.00S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:3 Def:8),Rebound,Unknown,1,0,428
+0022301207,617,PT00M22.90S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,103,111,214,v,O. Robinson Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,445
+0022301207,618,PT00M22.90S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,103,112,215,v,O. Robinson Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,446
+0022301207,620,PT00M12.60S,4,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,v,O. Robinson REBOUND (Off:3 Def:9),Rebound,Unknown,1,0,448
+0022301220,4,PT12M00.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,Jump Ball O. Robinson vs. Allen: Tip to Strus,Jump Ball,,1,0,2
+0022301220,9,PT11M41.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson S.FOUL (P1.T1) (M.Myers),Foul,Shooting,1,0,4
+0022301220,40,PT09M07.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,29
+0022301220,62,PT07M11.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson P.FOUL (P2.T3) (K.Lane),Foul,Personal,1,0,46
+0022301220,64,PT07M11.00S,1,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,SUB: Love FOR O. Robinson,Substitution,,0,0,47
+0022301220,205,PT11M11.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,25,10,3,Made,1,27,19,46,h,O. Robinson 3' Layup (2 PTS) (Richardson 1 AST),Made Shot,Layup Shot,1,2,149
+0022301220,209,PT11M11.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,28,19,47,h,O. Robinson Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,151
+0022301220,225,PT09M48.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,161
+0022301220,230,PT09M33.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson BLOCK (1 BLK),,,1,2,164
+0022301220,232,PT09M29.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,165
+0022301220,265,PT06M47.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,189
+0022301220,270,PT06M11.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,193
+0022301220,271,PT06M09.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,38,11,4,Missed,1,,,0,h,MISS O. Robinson 4' Putback Layup,Missed Shot,Putback Layup Shot,1,2,194
+0022301220,280,PT05M33.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,203
+0022301220,292,PT04M15.00S,2,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,SUB: Love FOR O. Robinson,Substitution,,0,0,212
+0022301220,391,PT09M42.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,277
+0022301220,412,PT08M14.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,292
+0022301220,421,PT07M22.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,54,5,5,Made,1,57,69,126,h,O. Robinson 5' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,2,299
+0022301220,428,PT06M51.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,305
+0022301220,447,PT05M32.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,O. Robinson P.FOUL (P3.T2) (K.Lane),Foul,Personal,1,0,318
+0022301220,464,PT04M37.00S,3,1610612748,MIA,1631115,Robinson,O. Robinson,0,0,0,,0,,,0,h,SUB: Love FOR O. Robinson,Substitution,,0,0,332

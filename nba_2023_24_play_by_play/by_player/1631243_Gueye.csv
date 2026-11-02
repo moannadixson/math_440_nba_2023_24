@@ -1,0 +1,83 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300097,673,PT03M01.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye S.FOUL (P1.T3) (B.Nansel),Foul,Shooting,1,0,474
+0022300097,678,PT02M39.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye STEAL (1 STL),,,1,0,479
+0022300097,705,PT00M28.20S,4,1610612737,ATL,1631243,Gueye,M. Gueye,-226,1,0,Missed,1,,,0,v,MISS Gueye 3PT Jump Shot,Missed Shot,Jump Shot,1,3,501
+0022301130,624,PT03M27.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,-234,68,24,Missed,1,,,0,v,MISS Gueye 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,441
+0022301130,644,PT02M27.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,223,2,0,Missed,1,,,0,v,MISS Gueye 3PT Jump Shot,Missed Shot,Jump Shot,1,3,456
+0022301130,651,PT02M03.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,462
+0022301130,652,PT02M03.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye Bad Pass Turnover (P1.T16),Turnover,Bad Pass,1,0,463
+0022301130,668,PT00M28.60S,4,1610612737,ATL,1631243,Gueye,M. Gueye,-75,110,13,Missed,1,,,0,v,MISS Gueye 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,475
+0022301159,91,PT04M30.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,62
+0022301159,110,PT03M13.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,203,155,26,Made,1,26,25,51,h,Gueye 26' 3PT Running Jump Shot (3 PTS) (Windler 1 AST),Made Shot,Running Jump Shot,1,3,76
+0022301159,129,PT02M15.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,88
+0022301159,131,PT02M10.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,90
+0022301159,132,PT02M06.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,29,22,4,Missed,1,,,0,h,MISS Gueye 4' Layup,Missed Shot,Layup Shot,1,2,91
+0022301159,149,PT01M01.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye AWAY.FROM.PLAY.FOUL (P1.PN) (J.Goble),Foul,Away From Play,0,0,102
+0022301159,165,PT11M38.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,114
+0022301159,171,PT11M07.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,120
+0022301159,186,PT09M31.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye BLOCK (1 BLK),,,1,2,133
+0022301159,202,PT08M05.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye S.FOUL (P2.T1) (M.Smith),Foul,Shooting,1,0,146
+0022301159,225,PT06M06.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,SUB: Bogdanovic FOR Gueye,Substitution,,0,0,164
+0022301159,425,PT02M54.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,300
+0022301159,435,PT02M26.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye STEAL (1 STL),,,1,0,307
+0022301159,448,PT01M04.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,-12,6,1,Missed,1,,,0,h,MISS Gueye 1' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,2,316
+0022301159,513,PT07M42.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye P.FOUL (P3.T1) (J.Schroeder),Foul,Personal,1,0,362
+0022301159,534,PT07M06.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,375
+0022301159,539,PT06M20.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,Gueye P.FOUL (P4.T4) (J.Goble),Foul,Personal,1,0,379
+0022301159,541,PT06M20.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,h,SUB: Fernando FOR Gueye,Substitution,,0,0,380
+0022301178,95,PT05M33.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye S.FOUL (P1.T4) (J.Goldenberg),Foul,Shooting,1,0,65
+0022301178,103,PT04M59.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,-232,50,24,Missed,1,,,0,v,MISS Gueye 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,72
+0022301178,105,PT04M41.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye S.FOUL (P2.PN) (S.Foster),Foul,Shooting,1,0,74
+0022301178,138,PT02M31.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,1,13,1,Made,1,21,22,43,v,Gueye 1' Cutting Dunk Shot (2 PTS) (Fernando 2 AST),Made Shot,Cutting Dunk Shot,1,2,98
+0022301178,191,PT10M55.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,131
+0022301178,196,PT10M09.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,230,8,0,Missed,1,,,0,v,MISS Gueye 3PT Jump Shot,Missed Shot,Jump Shot,1,3,136
+0022301178,202,PT09M51.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye P.FOUL (P3.T2) (A.Smith),Foul,Personal,1,0,140
+0022301178,210,PT09M34.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,SUB: Hunter FOR Gueye,Substitution,,0,0,146
+0022301178,295,PT04M23.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,202
+0022301178,296,PT04M22.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,7,18,2,Missed,1,,,0,v,MISS Gueye 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,203
+0022301178,301,PT04M16.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,207
+0022301178,318,PT02M52.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,SUB: Hunter FOR Gueye,Substitution,,0,0,220
+0022301178,520,PT00M01.10S,3,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,366
+0022301178,522,PT00M01.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,40,27,5,Missed,1,,,0,v,MISS Gueye 5' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,367
+0022301178,541,PT10M57.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,376
+0022301178,580,PT07M47.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,SUB: Krejci FOR Gueye,Substitution,,0,0,408
+0022301178,678,PT00M25.10S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye STEAL (1 STL),,,1,0,479
+0022301178,700,PT00M11.90S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye Personal Take Foul (P4.PN) (A.Smith),Foul,Personal Take,1,0,491
+0022301188,75,PT07M01.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,21,10,31,v,Gueye Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,52
+0022301188,78,PT07M01.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,21,11,32,v,Gueye Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,54
+0022301188,86,PT06M02.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,-18,5,2,Made,1,24,15,39,v,Gueye 2' Dunk (4 PTS) (Murray 2 AST),Made Shot,Dunk Shot,1,2,61
+0022301188,105,PT04M09.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,27,61,7,Made,1,33,20,53,v,Gueye 7' Turnaround Fadeaway (6 PTS) (Young 3 AST),Made Shot,Turnaround Fadeaway shot,1,2,75
+0022301188,108,PT03M42.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,77
+0022301188,117,PT03M22.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye BLOCK (1 BLK),,,1,2,84
+0022301188,121,PT03M06.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,-21,4,2,Made,1,35,24,59,v,Gueye 2' Cutting Layup Shot (8 PTS) (Young 4 AST),Made Shot,Cutting Layup Shot,1,2,87
+0022301188,137,PT02M05.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,87,243,26,Missed,1,,,0,v,MISS Gueye 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,97
+0022301188,142,PT01M33.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,39,27,66,v,Gueye Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,101
+0022301188,145,PT01M33.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,39,28,67,v,Gueye Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,103
+0022301188,161,PT00M01.20S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye BLOCK (2 BLK),,,1,3,116
+0022301188,231,PT07M13.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye BLOCK (3 BLK),,,1,2,164
+0022301188,245,PT06M30.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,175
+0022301188,246,PT06M29.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,-10,52,5,Missed,1,,,0,v,MISS Gueye 5' Layup,Missed Shot,Layup Shot,1,2,176
+0022301188,260,PT05M50.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,43,251,25,Made,1,62,58,120,v,Gueye 25' 3PT Jump Shot (13 PTS) (Young 6 AST),Made Shot,Jump Shot,1,3,186
+0022301188,263,PT05M28.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,188
+0022301188,279,PT04M04.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye L.B.FOUL (P1.T2) (D.Collins),Foul,Loose Ball,1,0,200
+0022301188,283,PT03M52.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,202
+0022301188,286,PT03M37.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye Violation:Defensive Goaltending (B.Forte),Violation,Defensive Goaltending,0,0,205
+0022301188,287,PT03M37.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye S.FOUL (P2.T3) (T.Brothers),Foul,Shooting,1,0,206
+0022301188,295,PT03M23.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye S.FOUL (P3.T4) (D.Collins),Foul,Shooting,1,0,213
+0022301188,298,PT03M12.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,-9,34,4,Missed,1,,,0,v,MISS Gueye 4' Dunk,Missed Shot,Dunk Shot,1,2,215
+0022301188,306,PT03M00.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,SUB: Fernando FOR Gueye,Substitution,,0,0,223
+0022301188,431,PT05M06.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,311
+0022301188,448,PT03M55.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye L.B.FOUL (P4.T3) (D.Collins),Foul,Loose Ball,1,0,326
+0022301188,452,PT03M25.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,-74,247,26,Made,1,113,89,202,v,Gueye 26' 3PT Jump Shot (16 PTS) (Bogdanovic 1 AST),Made Shot,Jump Shot,1,3,328
+0022301188,455,PT03M11.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,330
+0022301188,483,PT01M56.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,351
+0022301188,489,PT01M32.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,-2,25,3,Missed,1,,,0,v,MISS Gueye 3' Layup,Missed Shot,Layup Shot,1,2,355
+0022301188,524,PT00M33.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye STEAL (1 STL),,,1,0,364
+0022301188,511,PT00M00.90S,3,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,371
+0022301188,586,PT06M48.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye Violation:Kicked Ball (T.Brothers),Violation,Kicked Ball,0,0,421
+0022301188,617,PT04M29.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,11,1,Made,1,151,110,261,v,Gueye 1' Cutting Dunk Shot (18 PTS) (Forrest 1 AST),Made Shot,Cutting Dunk Shot,1,2,441
+0022301188,619,PT04M10.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye STEAL (2 STL),,,1,0,443
+0022301188,635,PT03M10.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,MISS Gueye Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,454
+0022301188,637,PT03M10.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,151,113,264,v,Gueye Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,456
+0022301188,658,PT00M54.50S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,,,0,v,Gueye REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,474
+0022301188,659,PT00M53.50S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,Missed,1,,,0,v,MISS Gueye Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,475

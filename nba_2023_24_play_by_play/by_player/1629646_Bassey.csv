@@ -1,0 +1,227 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300013,98,PT03M50.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,74
+0022300013,157,PT02M32.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey BLOCK (1 BLK),,,1,2,92
+0022300013,256,PT05M48.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,186
+0022300013,260,PT05M22.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,190
+0022300013,261,PT05M17.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,4,4,1,Missed,1,,,0,h,MISS Bassey 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,191
+0022300013,280,PT04M18.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey BLOCK (2 BLK),,,1,2,207
+0022300013,296,PT03M12.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,SUB: Jones FOR Bassey,Substitution,,0,0,220
+0022300013,447,PT03M37.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey S.FOUL (P1.PN) (C.Washington),Foul,Shooting,1,0,326
+0022300013,455,PT03M35.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,331
+0022300013,458,PT03M22.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,334
+0022300013,459,PT03M21.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,2,17,2,Made,1,67,80,147,h,Bassey 2' Layup (2 PTS),Made Shot,Layup Shot,1,2,335
+0022300013,498,PT00M09.40S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,364
+0022300013,501,PT00M00.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,-115,242,27,Missed,1,,,0,h,MISS Bassey 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,366
+0022300021,105,PT03M41.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,79
+0022300021,132,PT01M22.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,126,53,14,Missed,1,,,0,v,MISS Bassey 14' Jump Shot,Missed Shot,Jump Shot,1,2,98
+0022300021,146,PT00M09.90S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,SUB: Wembanyama FOR Bassey,Substitution,,0,0,110
+0022300021,261,PT06M23.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,183
+0022300021,264,PT05M58.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey S.FOUL (P1.T4) (P.Ransom),Foul,Shooting,1,0,185
+0022300021,270,PT05M55.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,190
+0022300021,313,PT03M01.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,SUB: Collins FOR Bassey,Substitution,,0,0,220
+0022300021,476,PT03M34.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,55,124,14,Made,1,80,58,138,v,Bassey 14' Floating Jump Shot (2 PTS) (Graham 4 AST),Made Shot,Floating Jump shot,1,2,343
+0022300021,503,PT02M23.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,363
+0022300021,514,PT01M50.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,373
+0022300021,658,PT05M04.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,5,-2,1,Made,1,111,75,186,v,Bassey 1' Dunk (4 PTS) (Graham 6 AST),Made Shot,Dunk Shot,1,2,468
+0022300021,677,PT03M53.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,479
+0022300021,682,PT02M55.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,-65,34,7,Missed,1,,,0,v,MISS Bassey 7' Jump Shot,Missed Shot,Jump Shot,1,2,482
+0022300021,697,PT01M03.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,494
+0022300021,698,PT01M03.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,1,-2,0,Made,1,123,87,210,v,Bassey Floating Jump Shot (6 PTS),Made Shot,Floating Jump shot,1,2,495
+0022300032,120,PT02M09.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,29,60,7,Made,1,31,22,53,h,Bassey 7' Floating Jump Shot (2 PTS) (Branham 1 AST),Made Shot,Floating Jump shot,1,2,89
+0022300032,134,PT01M10.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,98
+0022300032,144,PT00M35.30S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,SUB: Johnson FOR Bassey,Substitution,,0,0,106
+0022300051,186,PT09M41.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey BLOCK (1 BLK),,,1,2,125
+0022300051,216,PT08M27.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,SUB: Collins FOR Bassey,Substitution,,0,0,148
+0022300073,89,PT05M50.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey Violation:Defensive Goaltending (T.Maddox),Violation,Defensive Goaltending,1,0,64
+0022300073,94,PT05M10.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey STEAL (1 STL),,,1,0,69
+0022300073,136,PT02M56.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,98
+0022300073,163,PT00M43.50S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,SUB: Johnson FOR Bassey,Substitution,,0,0,117
+0022300073,285,PT05M14.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,SUB: Collins FOR Bassey,Substitution,,0,0,205
+0022300073,453,PT05M00.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey Bad Pass Turnover (P1.T14),Turnover,Bad Pass,1,0,328
+0022300073,456,PT04M53.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,331
+0022300073,468,PT03M53.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,341
+0022300073,482,PT03M22.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,351
+0022300073,497,PT01M51.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,2,13,1,Made,1,91,88,179,h,Bassey 1' Cutting Dunk Shot (2 PTS) (Jones 4 AST),Made Shot,Cutting Dunk Shot,1,2,362
+0022300073,515,PT00M31.70S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,375
+0022300083,147,PT00M36.30S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,108
+0022300083,150,PT00M09.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey P.FOUL (P1.T3) (K.Lane),Foul,Personal,1,0,110
+0022300083,174,PT10M50.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,SUB: Vassell FOR Bassey,Substitution,,0,0,121
+0022300083,443,PT03M04.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,313
+0022300083,473,PT00M08.20S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,337
+0022300099,142,PT02M05.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,109
+0022300099,169,PT00M33.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey S.FOUL (P1.PN) (J.Van Duyne),Foul,Shooting,1,0,131
+0022300099,175,PT00M13.30S,1,1610612759,SAS,1629646,Bassey,C. Bassey,-6,5,1,Made,1,23,17,40,v,Bassey 1' Dunk (2 PTS) (Wembanyama 1 AST),Made Shot,Dunk Shot,1,2,136
+0022300099,301,PT03M31.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey Violation:Kicked Ball (C.Flores),Violation,Kicked Ball,0,0,222
+0022300099,311,PT02M28.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,229
+0022300099,312,PT02M28.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,Made,1,51,35,86,v,Bassey Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,1,2,230
+0022300099,322,PT01M37.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,238
+0022300099,329,PT00M48.10S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey P.FOUL (P2.T4) (C.Flores),Foul,Personal,1,0,244
+0022300099,332,PT00M35.50S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,246
+0022300099,409,PT07M00.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,-34,177,18,Missed,1,,,0,v,MISS Bassey 18' Jump Shot,Missed Shot,Jump Shot,1,2,302
+0022300099,414,PT06M58.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,SUB: Collins FOR Bassey,Substitution,,0,0,306
+0022300099,534,PT11M30.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey STEAL (1 STL),,,1,0,396
+0022300099,551,PT09M37.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,407
+0022300099,552,PT09M31.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,13,41,4,Made,1,97,72,169,v,Bassey 4' Turnaround Bank Hook Shot (6 PTS) (Branham 2 AST),Made Shot,Turnaround Bank Hook Shot,1,2,408
+0022300099,574,PT08M05.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey BLOCK (1 BLK),,,1,2,425
+0022300099,586,PT06M55.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,SUB: Wesley FOR Bassey,Substitution,,0,0,434
+0022300113,109,PT04M10.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey S.FOUL (P1.T2) (D.Guthrie),Foul,Shooting,1,0,78
+0022300113,143,PT02M36.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,101
+0022300113,144,PT02M22.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,1,24,2,Made,1,22,16,38,v,Bassey 2' Dunk (2 PTS) (Osman 1 AST),Made Shot,Dunk Shot,1,2,102
+0022300113,183,PT11M22.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey Violation:Defensive Goaltending (D.Guthrie),Violation,Defensive Goaltending,1,0,130
+0022300113,190,PT10M40.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey BLOCK (1 BLK),,,1,2,136
+0022300113,232,PT09M42.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,SUB: Collins FOR Bassey,Substitution,,0,0,146
+0022300113,455,PT03M14.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,316
+0022300113,480,PT01M09.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey S.FOUL (P2.T4) (D.Guthrie),Foul,Shooting,1,0,335
+0022300113,499,PT00M00.20S,3,1610612759,SAS,1629646,Bassey,C. Bassey,-116,1,12,Missed,1,,,0,v,MISS Bassey 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,349
+0022300113,524,PT10M27.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,365
+0022300113,646,PT10M27.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,366
+0022300113,525,PT10M27.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey L.B.FOUL (P3.T1) (D.Guthrie),Foul,Loose Ball,1,0,367
+0022300113,529,PT10M18.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey S.FOUL (P4.T2) (P.Ransom),Foul,Shooting,1,0,368
+0022300113,540,PT09M45.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,SUB: Osman FOR Bassey,Substitution,,0,0,377
+0022300131,118,PT02M34.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,84
+0022300131,134,PT01M08.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,97
+0022300131,141,PT01M05.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey STEAL (1 STL),,,1,0,102
+0022300131,173,PT10M16.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,-20,3,2,Made,1,25,44,69,v,Bassey 2' Alley Oop Layup (2 PTS) (Jones 2 AST),Made Shot,Alley Oop Layup shot,1,2,123
+0022300131,177,PT10M16.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,25,45,70,v,Bassey Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,125
+0022300131,183,PT10M01.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,SUB: Collins FOR Bassey,Substitution,,0,0,130
+0022300141,145,PT01M46.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,SUB: Johnson FOR Bassey,Substitution,,0,0,107
+0022300141,439,PT03M56.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,321
+0022300141,476,PT01M49.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,349
+0022300141,485,PT01M00.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey S.FOUL (P1.PN) (Z.Zarba),Foul,Shooting,1,0,356
+0022300141,501,PT00M04.90S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,SUB: Johnson FOR Bassey,Substitution,,0,0,367
+0022300141,513,PT11M38.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,-4,16,2,Made,1,88,71,159,h,Bassey 2' Alley Oop Layup (2 PTS) (Wembanyama 3 AST),Made Shot,Alley Oop Layup shot,1,2,374
+0022300141,519,PT10M33.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey Out of Bounds Lost Ball Turnover (P1.T15),Turnover,Out of Bounds Lost Ball Turnover,1,0,378
+0022300141,525,PT10M15.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,SUB: Sochan FOR Bassey,Substitution,,0,0,382
+0022300146,104,PT04M53.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,-12,1,1,Made,1,22,20,42,v,Bassey 1' Hook Shot (2 PTS) (McDermott 1 AST),Made Shot,Hook Shot,1,2,77
+0022300146,127,PT02M51.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,92
+0022300146,164,PT00M28.30S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey P.FOUL (P1.PN) (A.Moyer-Gleich),Foul,Personal,1,0,122
+0022300146,207,PT10M05.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,SUB: Collins FOR Bassey,Substitution,,0,0,151
+0022300146,453,PT05M20.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey STEAL (1 STL),,,1,0,328
+0022300146,464,PT04M00.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey S.FOUL (P2.T1) (M.Davis),Foul,Shooting,1,0,337
+0022300146,496,PT01M50.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,359
+0022300146,500,PT01M41.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,363
+0022300146,501,PT01M41.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,-1,15,2,Made,1,114,80,194,v,Bassey 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,364
+0022300146,513,PT00M53.10S,3,1610612759,SAS,1629646,Bassey,C. Bassey,-75,71,10,Made,1,119,82,201,v,Bassey 10' Jump Shot (6 PTS) (McDermott 3 AST),Made Shot,Jump Shot,1,2,372
+0022300146,517,PT00M35.90S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey STEAL (2 STL),,,1,0,375
+0022300146,524,PT00M15.50S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey STEAL (3 STL),,,1,0,380
+0022300146,552,PT10M47.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,-18,134,14,Made,1,122,91,213,v,Bassey 14' Floating Jump Shot (8 PTS) (McDermott 4 AST),Made Shot,Floating Jump shot,1,2,395
+0022300146,570,PT09M34.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey L.B.FOUL (P3.T1) (J.Goldenberg),Foul,Loose Ball,1,0,408
+0022300146,574,PT09M16.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,410
+0022300146,577,PT08M58.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,-4,5,1,Made,1,129,96,225,v,Bassey 1' Dunk (10 PTS) (Branham 2 AST),Made Shot,Dunk Shot,1,2,413
+0022300146,604,PT07M35.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,SUB: Barlow FOR Bassey,Substitution,,0,0,429
+0022300161,96,PT03M59.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey S.FOUL (P1.T3) (J.Schroeder),Foul,Shooting,1,0,68
+0022300161,119,PT02M39.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,SUB: Sochan FOR Bassey,Substitution,,0,0,83
+0022300161,243,PT05M50.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,173
+0022300161,244,PT05M48.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,-2,13,1,Made,1,45,31,76,v,Bassey 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,174
+0022300161,250,PT04M55.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,5,5,1,Made,1,50,33,83,v,Bassey 1' Driving Layup (4 PTS) (Vassell 1 AST),Made Shot,Driving Layup Shot,1,2,179
+0022300161,270,PT03M07.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,SUB: Wembanyama FOR Bassey,Substitution,,0,0,196
+0022300161,396,PT05M47.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,284
+0022300161,402,PT05M21.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,-2,8,1,Made,1,84,61,145,v,Bassey 1' Cutting Finger Roll Layup Shot (6 PTS) (Johnson 5 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,289
+0022300161,418,PT04M01.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey BLOCK (1 BLK),,,1,2,302
+0022300161,450,PT02M33.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey BLOCK (2 BLK),,,1,2,325
+0022300161,464,PT01M35.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,335
+0022300161,482,PT00M03.40S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,348
+0022300161,654,PT00M59.60S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey STEAL (1 STL),,,1,0,469
+0022300184,94,PT04M27.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey S.FOUL (P1.T2) (D.Mosher),Foul,Shooting,1,0,73
+0022300184,106,PT04M01.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,19,9,28,h,Bassey Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,80
+0022300184,107,PT04M01.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,MISS Bassey Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,81
+0022300184,112,PT03M37.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,86
+0022300184,115,PT03M25.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey STEAL (1 STL),,,1,0,90
+0022300184,119,PT03M04.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,93
+0022300184,128,PT02M29.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,101
+0022300184,133,PT01M43.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,-1,-4,0,Made,1,25,9,34,h,Bassey Cutting Dunk Shot (3 PTS) (Branham 1 AST),Made Shot,Cutting Dunk Shot,1,2,105
+0022300184,230,PT06M52.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,173
+0022300184,231,PT06M52.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,Missed,1,,,0,h,MISS Bassey Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,174
+0022300184,241,PT06M35.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,182
+0022300184,245,PT06M06.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,185
+0022300184,248,PT05M51.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey S.FOUL (P2.T4) (D.Mosher),Foul,Shooting,1,0,188
+0022300184,256,PT05M44.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,SUB: Wembanyama FOR Bassey,Substitution,,0,0,193
+0022300206,115,PT03M42.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey S.FOUL (P1.T2) (L.Wood),Foul,Shooting,1,0,79
+0022300206,125,PT03M04.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey P.FOUL (P2.T3) (L.Wood),Foul,Personal,1,0,88
+0022300206,132,PT02M52.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey OFF.Foul (P3) (L.Wood),Foul,Offensive,1,0,92
+0022300206,134,PT02M52.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1,0,93
+0022300206,136,PT02M36.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,95
+0022300206,150,PT01M34.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,SUB: Wembanyama FOR Bassey,Substitution,,0,0,108
+0022300223,91,PT03M37.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,68
+0022300223,102,PT03M05.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,75
+0022300223,114,PT02M01.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey S.FOUL (P1.T3) (D.Collins),Foul,Shooting,1,0,85
+0022300223,138,PT00M05.90S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,SUB: Collins FOR Bassey,Substitution,,0,0,102
+0022300223,230,PT05M54.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,168
+0022300223,234,PT05M30.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,172
+0022300223,235,PT05M30.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,Missed,1,,,0,h,MISS Bassey Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,173
+0022300223,237,PT05M21.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey BLOCK (1 BLK),,,1,2,176
+0022300223,238,PT05M18.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,177
+0022300223,240,PT05M10.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,179
+0022300223,244,PT04M50.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey BLOCK (2 BLK),,,1,2,182
+0022300223,261,PT04M02.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey BLOCK (3 BLK),,,1,2,193
+0022300223,274,PT02M51.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,28,156,16,Missed,1,,,0,h,MISS Bassey 16' Jump Shot,Missed Shot,Jump Shot,1,2,202
+0022300223,282,PT02M29.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,SUB: Jones FOR Bassey,Substitution,,0,0,209
+0022300223,410,PT04M20.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,-53,63,8,Made,1,68,86,154,h,Bassey 8' Turnaround Hook Shot (2 PTS) (Branham 1 AST),Made Shot,Turnaround Hook Shot,1,2,307
+0022300223,413,PT03M58.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,309
+0022300223,424,PT02M59.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,318
+0022300223,426,PT02M50.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,320
+0022300223,427,PT02M50.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0,321
+0022300223,439,PT02M06.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,330
+0022300223,453,PT00M46.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,345
+0022300223,586,PT04M07.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey BLOCK (4 BLK),,,1,2,439
+0022300223,590,PT04M01.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,442
+0022300223,606,PT02M31.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey S.FOUL (P2.PN) (B.Forte),Foul,Shooting,1,0,456
+0022300223,620,PT01M26.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,469
+0022300223,632,PT00M09.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:4 Def:8),Rebound,Unknown,1,0,479
+0022300235,131,PT01M41.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,103
+0022300235,134,PT01M13.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,106
+0022300235,144,PT00M57.60S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey Out of Bounds - Bad Pass Turnover Turnover (P3.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,113
+0022300252,108,PT04M01.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey BLOCK (1 BLK),,,1,2,75
+0022300252,113,PT03M56.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,26,20,46,v,Bassey Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,78
+0022300252,114,PT03M56.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,26,21,47,v,Bassey Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,79
+0022300252,130,PT02M55.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey S.FOUL (P1.T4) (J.Schroeder),Foul,Shooting,1,0,87
+0022300252,142,PT02M25.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,SUB: Wembanyama FOR Bassey,Substitution,,0,0,96
+0022300252,308,PT05M28.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,216
+0022300252,315,PT05M14.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey S.FOUL (P2.PN) (J.Schroeder),Foul,Shooting,1,0,221
+0022300252,323,PT04M22.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,227
+0022300252,324,PT04M22.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,Missed,1,,,0,v,MISS Bassey Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,228
+0022300252,339,PT03M18.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,SUB: Wembanyama FOR Bassey,Substitution,,0,0,239
+0022300252,470,PT05M42.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey Offensive Goaltending Turnover (P1.T13),Turnover,Offensive Goaltending,1,0,337
+0022300252,472,PT05M21.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,339
+0022300252,483,PT04M53.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,1,15,2,Made,1,92,75,167,v,Bassey 2' Cutting Dunk Shot (4 PTS) (Branham 1 AST),Made Shot,Cutting Dunk Shot,1,2,346
+0022300252,492,PT04M01.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,352
+0022300252,493,PT03M56.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,Made,1,97,77,174,v,Bassey Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,353
+0022300252,497,PT03M24.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,123,6,12,Missed,1,,,0,v,MISS Bassey 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,357
+0022300252,501,PT03M14.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey L.B.FOUL (P3.T4) (T.Maddox),Foul,Loose Ball,1,0,361
+0022300252,504,PT03M14.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,SUB: Osman FOR Bassey,Substitution,,0,0,363
+0022300252,680,PT04M16.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,483
+0022300252,721,PT01M23.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,11,17,2,Made,1,130,116,246,v,Bassey 2' Cutting Layup Shot (8 PTS) (Graham 3 AST),Made Shot,Cutting Layup Shot,1,2,510
+0022300252,727,PT01M23.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,130,117,247,v,Bassey Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,513
+0022300252,729,PT01M04.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,515
+0022300272,120,PT03M47.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey BLOCK (1 BLK),,,1,2,91
+0022300272,131,PT03M02.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey S.FOUL (P1.T3) (D.Guthrie),Foul,Shooting,1,0,98
+0022300272,141,PT02M34.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey P.FOUL (P2.T4) (G.Petraitis),Foul,Personal,1,0,105
+0022300272,147,PT02M01.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey BLOCK (2 BLK),,,1,2,110
+0022300272,151,PT01M43.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,113
+0022300272,171,PT00M01.10S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,h,Bassey P.FOUL (P3.PN) (D.Guthrie),Foul,Personal,1,0,128
+0022300278,77,PT05M37.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,-16,8,2,Made,1,16,20,36,v,Bassey 2' Dunk (2 PTS) (Osman 1 AST),Made Shot,Dunk Shot,1,2,51
+0022300278,88,PT04M12.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,-5,6,1,Made,1,21,25,46,v,Bassey 1' Alley Oop Layup (4 PTS) (Osman 2 AST),Made Shot,Alley Oop Layup shot,1,2,59
+0022300278,109,PT02M36.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,75
+0022300278,117,PT02M24.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,SUB: Collins FOR Bassey,Substitution,,0,0,81
+0022300278,197,PT10M06.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,135
+0022300278,201,PT09M55.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey S.FOUL (P1.T3) (A.Smith),Foul,Shooting,1,0,138
+0022300278,208,PT09M52.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,142
+0022300278,227,PT08M42.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,-7,3,1,Made,1,42,39,81,v,Bassey 1' Cutting Dunk Shot (6 PTS) (Champagnie 1 AST),Made Shot,Cutting Dunk Shot,1,2,158
+0022300278,251,PT07M04.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey BLOCK (1 BLK),,,1,2,178
+0022300278,266,PT05M58.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey S.FOUL (P2.PN) (A.Smith),Foul,Shooting,1,0,189
+0022300278,285,PT04M53.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,SUB: Collins FOR Bassey,Substitution,,0,0,201
+0022300278,452,PT04M51.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,320
+0022300278,461,PT04M28.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,326
+0022300278,463,PT03M50.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey S.FOUL (P3.T3) (A.Smith),Foul,Shooting,1,0,328
+0022300278,478,PT03M10.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey OFF.Foul (P4) (E.Malloy),Foul,Offensive,1,0,337
+0022300278,480,PT03M10.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey Offensive Foul Turnover (P1.T16),Turnover,Offensive Foul Turnover,1,0,338
+0022300278,491,PT01M54.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,345
+0022300278,496,PT01M22.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey BLOCK (2 BLK),,,1,2,348
+0022300278,500,PT01M09.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,351
+0022300278,505,PT00M44.70S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,355
+0022300278,506,PT00M34.30S,3,1610612759,SAS,1629646,Bassey,C. Bassey,-16,132,13,Made,1,86,81,167,v,Bassey 13' Floating Jump Shot (8 PTS) (Jones 3 AST),Made Shot,Floating Jump shot,1,2,356
+0022300278,523,PT11M44.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,365
+0022300278,533,PT10M54.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,371
+0022300278,548,PT09M27.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey BLOCK (3 BLK),,,1,2,383
+0022300278,550,PT09M25.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,Bassey REBOUND (Off:1 Def:10),Rebound,Unknown,1,0,384
+0022300278,568,PT08M10.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,,,0,v,SUB: Champagnie FOR Bassey,Substitution,,0,0,398

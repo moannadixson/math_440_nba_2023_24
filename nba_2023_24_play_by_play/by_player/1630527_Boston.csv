@@ -1,0 +1,340 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300343,631,PT03M42.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,453
+0022300343,632,PT03M34.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-37,268,27,Made,1,138,109,247,h,Boston Jr. 27' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,454
+0022300343,634,PT03M21.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,456
+0022300343,635,PT03M15.00S,4,1610612746,LAC,1630527,Boston,B. Boston,228,105,25,Missed,1,,,0,h,MISS Boston Jr. 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,457
+0022300343,648,PT02M38.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-134,241,28,Missed,1,,,0,h,MISS Boston Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,466
+0022300343,651,PT02M26.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. S.FOUL (P1.PN) (C.Washington),Foul,Shooting,1,0,469
+0022300350,614,PT05M32.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. S.FOUL (P1.T3) (T.Washington),Foul,Shooting,1,0,434
+0022300350,619,PT05M20.00S,4,1610612746,LAC,1630527,Boston,B. Boston,109,43,12,Made,1,109,139,248,v,Boston Jr. 12' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,438
+0022300350,650,PT03M05.00S,4,1610612746,LAC,1630527,Boston,B. Boston,86,53,10,Made,1,116,147,263,v,Boston Jr. 10' Turnaround Fadeaway (4 PTS),Made Shot,Turnaround Fadeaway shot,1,2,462
+0022300350,654,PT02M42.00S,4,1610612746,LAC,1630527,Boston,B. Boston,48,82,10,Made,1,116,149,265,v,Boston Jr. 10' Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,1,2,465
+0022300350,666,PT01M26.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. Offensive Charge Foul (P2) (T.Washington),Foul,Offensive Charge,1,0,475
+0022300350,668,PT01M26.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,1,0,476
+0022300350,679,PT00M21.80S,4,1610612746,LAC,1630527,Boston,B. Boston,167,17,17,Missed,1,,,0,v,MISS Boston Jr. 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,485
+0022300379,123,PT03M20.00S,1,1610612746,LAC,1630527,Boston,B. Boston,-153,209,26,Missed,1,,,0,v,MISS Boston Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,90
+0022300379,139,PT02M09.00S,1,1610612746,LAC,1630527,Boston,B. Boston,-53,3,5,Missed,1,,,0,v,MISS Boston Jr. 5' Running Layup,Missed Shot,Running Layup Shot,1,2,101
+0022300379,151,PT01M19.00S,1,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. STEAL (1 STL),,,1,0,115
+0022300379,157,PT00M42.20S,1,1610612746,LAC,1630527,Boston,B. Boston,17,3,2,Missed,1,,,0,v,MISS Boston Jr. 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,119
+0022300379,159,PT00M41.20S,1,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,121
+0022300379,160,PT00M41.00S,1,1610612746,LAC,1630527,Boston,B. Boston,5,5,1,Made,1,32,27,59,v,Boston Jr. 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,122
+0022300379,191,PT11M22.00S,2,1610612746,LAC,1630527,Boston,B. Boston,31,255,26,Missed,1,,,0,v,MISS Boston Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,137
+0022300379,204,PT09M53.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,SUB: Zubac FOR Boston Jr.,Substitution,,0,0,146
+0022300379,530,PT09M14.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-199,160,26,Missed,1,,,0,v,MISS Boston Jr. 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,380
+0022300379,532,PT09M07.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-227,76,24,Made,1,115,98,213,v,Boston Jr. 24' 3PT Jump Shot (5 PTS) (Hyland 1 AST),Made Shot,Jump Shot,1,3,382
+0022300379,568,PT06M24.00S,4,1610612746,LAC,1630527,Boston,B. Boston,23,142,14,Missed,1,,,0,v,MISS Boston Jr. 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,409
+0022300379,608,PT03M19.00S,4,1610612746,LAC,1630527,Boston,B. Boston,136,225,26,Missed,1,,,0,v,MISS Boston Jr. 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,437
+0022300379,617,PT02M09.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. P.FOUL (P1.T2) (M.Smith),Foul,Personal,1,0,446
+0022300379,634,PT01M19.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-20,104,11,Made,1,132,115,247,v,Boston Jr. 11' Pullup Jump Shot (7 PTS) (Hyland 2 AST),Made Shot,Pullup Jump shot,1,2,457
+0022300389,507,PT10M33.00S,4,1610612746,LAC,1630527,Boston,B. Boston,92,256,27,Made,1,84,109,193,h,Boston Jr. 27' 3PT Jump Shot (3 PTS) (Westbrook 3 AST),Made Shot,Jump Shot,1,3,371
+0022300389,509,PT10M18.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. S.FOUL (P1.T3) (K.Cutler),Foul,Shooting,1,0,372
+0022300389,513,PT10M08.00S,4,1610612746,LAC,1630527,Boston,B. Boston,230,17,0,Missed,1,,,0,h,MISS Boston Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,375
+0022300389,562,PT07M08.00S,4,1610612746,LAC,1630527,Boston,B. Boston,75,129,15,Made,1,93,120,213,h,Boston Jr. 15' Step Back Jump Shot (5 PTS) (Theis 1 AST),Made Shot,Step Back Jump shot,1,2,409
+0022300389,578,PT05M10.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,421
+0022300389,591,PT04M17.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,99,131,230,h,Boston Jr. Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,429
+0022300389,594,PT04M17.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,100,131,231,h,Boston Jr. Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,431
+0022300389,600,PT03M46.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,101,131,232,h,Boston Jr. Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,435
+0022300389,601,PT03M46.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,102,131,233,h,Boston Jr. Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,436
+0022300389,607,PT03M11.00S,4,1610612746,LAC,1630527,Boston,B. Boston,232,67,24,Missed,1,,,0,h,MISS Boston Jr. 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,440
+0022300389,622,PT02M17.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-103,237,26,Missed,1,,,0,h,MISS Boston Jr. 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,451
+0022300389,625,PT01M55.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,454
+0022300389,631,PT01M26.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,105,140,245,h,Boston Jr. Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,458
+0022300389,632,PT01M26.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,106,140,246,h,Boston Jr. Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,459
+0022300389,640,PT00M36.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,465
+0022300389,641,PT00M34.70S,4,1610612746,LAC,1630527,Boston,B. Boston,36,66,8,Made,1,108,145,253,h,Boston Jr. 8' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,2,466
+0022300458,592,PT02M01.00S,4,1610612746,LAC,1630527,Boston,B. Boston,53,131,14,Missed,1,,,0,h,MISS Boston Jr. 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,436
+0022300486,566,PT05M23.00S,4,1610612746,LAC,1630527,Boston,B. Boston,20,134,14,Made,1,78,103,181,v,Boston Jr. 14' Pullup Jump Shot (2 PTS) (Hyland 1 AST),Made Shot,Pullup Jump shot,1,2,407
+0022300486,571,PT04M49.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,410
+0022300486,575,PT04M34.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,414
+0022300486,576,PT04M18.00S,4,1610612746,LAC,1630527,Boston,B. Boston,159,63,17,Missed,1,,,0,v,MISS Boston Jr. 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,415
+0022300486,609,PT01M51.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. Lost Ball Turnover (P1.T14),Turnover,Lost Ball,1,0,442
+0022300486,624,PT01M32.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. S.FOUL (P1.PN) (J.Williams),Foul,Shooting,1,0,454
+0022300486,629,PT01M15.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-23,131,13,Missed,1,,,0,v,MISS Boston Jr. 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,458
+0022300511,586,PT03M29.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. Traveling Turnover (P1.T14),Turnover,Traveling,1,0,426
+0022300511,589,PT03M04.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-28,42,5,Made,1,129,100,229,h,Boston Jr. 5' Running Layup (2 PTS) (Plumlee 1 AST),Made Shot,Running Layup Shot,1,2,429
+0022300511,592,PT02M13.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-143,244,28,Made,1,132,102,234,h,Boston Jr. 28' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,3,431
+0022300511,610,PT00M45.60S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. S.FOUL (P1.PN) (Z.Zarba),Foul,Shooting,1,0,446
+0022300511,620,PT00M08.20S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. S.FOUL (P2.PN) (J.Goble),Foul,Shooting,1,0,453
+0022300537,583,PT03M37.00S,4,1610612746,LAC,1630527,Boston,B. Boston,22,188,19,Missed,1,,,0,v,MISS Boston Jr. 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,439
+0022300537,590,PT03M07.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. L.B.FOUL (P1.T2) (D.Taylor),Foul,Loose Ball,1,0,445
+0022300537,605,PT01M56.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. S.FOUL (P2.T3) (B.Haskill),Foul,Shooting,1,0,456
+0022300537,608,PT01M35.00S,4,1610612746,LAC,1630527,Boston,B. Boston,70,79,11,Missed,1,,,0,v,MISS Boston Jr. 11' Turnaround Fadeaway Bank Jump Shot,Missed Shot,Turnaround Fadeaway Bank Jump Shot,1,2,458
+0022300537,619,PT00M48.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-195,160,25,Missed,1,,,0,v,MISS Boston Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,468
+0022300637,659,PT01M00.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,489
+0022300637,668,PT00M21.40S,4,1610612746,LAC,1630527,Boston,B. Boston,2,10,1,Made,1,107,127,234,v,Boston Jr. 1' Driving Layup (2 PTS) (Hyland 1 AST),Made Shot,Driving Layup Shot,1,2,497
+0022300646,540,PT09M53.00S,4,1610612746,LAC,1630527,Boston,B. Boston,55,59,8,Missed,1,,,0,v,MISS Boston Jr. 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,408
+0022300646,546,PT09M19.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-31,32,4,Missed,1,,,0,v,MISS Boston Jr. 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,414
+0022300646,561,PT08M09.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,427
+0022300646,563,PT08M08.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,429
+0022300646,594,PT05M37.00S,4,1610612746,LAC,1630527,Boston,B. Boston,58,142,15,Missed,1,,,0,v,MISS Boston Jr. 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,449
+0022300646,619,PT02M38.00S,4,1610612746,LAC,1630527,Boston,B. Boston,12,29,3,Missed,1,,,0,v,MISS Boston Jr. 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,469
+0022300646,634,PT01M33.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. BLOCK (1 BLK),,,0,3,483
+0022300646,643,PT00M43.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-229,27,0,Made,1,92,115,207,v,Boston Jr. 3PT Jump Shot (3 PTS) (Theis 2 AST),Made Shot,Jump Shot,1,3,488
+0022300646,647,PT00M32.40S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. S.FOUL (P1.PN) (S.Corbin),Foul,Shooting,1,0,491
+0022300676,129,PT01M46.00S,1,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,90
+0022300676,154,PT11M46.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,107
+0022300676,155,PT11M44.00S,2,1610612746,LAC,1630527,Boston,B. Boston,-70,15,7,Missed,1,,,0,v,MISS Boston Jr. 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,108
+0022300676,174,PT09M54.00S,2,1610612746,LAC,1630527,Boston,B. Boston,23,-1,2,Made,1,37,43,80,v,Boston Jr. 2' Driving Layup (2 PTS) (Powell 1 AST),Made Shot,Driving Layup Shot,1,2,124
+0022300676,188,PT08M36.00S,2,1610612746,LAC,1630527,Boston,B. Boston,2,20,2,Made,1,41,45,86,v,Boston Jr. 2' Driving Finger Roll Layup (4 PTS) (Mann 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,133
+0022300676,196,PT08M07.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,138
+0022300676,271,PT02M51.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,SUB: Coffey FOR Boston Jr.,Substitution,,0,0,193
+0022300676,443,PT01M29.00S,3,1610612746,LAC,1630527,Boston,B. Boston,-5,24,2,Missed,1,,,0,v,MISS Boston Jr. 2' Running Layup,Missed Shot,Running Layup Shot,1,2,324
+0022300676,448,PT01M17.00S,3,1610612746,LAC,1630527,Boston,B. Boston,-1,17,2,Made,1,79,102,181,v,Boston Jr. 2' Running Dunk (6 PTS) (Westbrook 6 AST),Made Shot,Running Dunk Shot,1,2,329
+0022300676,489,PT10M28.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. S.FOUL (P1.T1) (J.Orr),Foul,Shooting,1,0,355
+0022300676,493,PT10M07.00S,4,1610612746,LAC,1630527,Boston,B. Boston,228,22,0,Made,1,84,109,193,v,Boston Jr. 3PT Pullup Jump Shot (9 PTS) (Powell 2 AST),Made Shot,Pullup Jump shot,1,3,357
+0022300676,539,PT07M11.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. BLOCK (1 BLK),,,1,2,396
+0022300676,557,PT06M14.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. STEAL (1 STL),,,1,0,410
+0022300676,559,PT06M05.00S,4,1610612746,LAC,1630527,Boston,B. Boston,157,203,26,Missed,1,,,0,v,MISS Boston Jr. 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,411
+0022300676,565,PT05M33.00S,4,1610612746,LAC,1630527,Boston,B. Boston,13,24,3,Made,1,91,120,211,v,Boston Jr. 3' Driving Dunk (11 PTS) (Powell 3 AST),Made Shot,Driving Dunk Shot,1,2,417
+0022300676,583,PT04M27.00S,4,1610612746,LAC,1630527,Boston,B. Boston,134,93,16,Missed,1,,,0,v,MISS Boston Jr. 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,429
+0022300676,611,PT02M44.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. S.FOUL (P2.PN) (A.Smith),Foul,Shooting,1,0,449
+0022300676,622,PT02M01.00S,4,1610612746,LAC,1630527,Boston,B. Boston,23,19,3,Missed,1,,,0,v,MISS Boston Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,457
+0022300676,635,PT01M15.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,107,123,230,v,Boston Jr. Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,467
+0022300676,636,PT01M15.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,MISS Boston Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,468
+0022300676,643,PT00M38.80S,4,1610612746,LAC,1630527,Boston,B. Boston,135,92,16,Missed,1,,,0,v,MISS Boston Jr. 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,474
+0022300688,639,PT02M08.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. Traveling Turnover (P1.T9),Turnover,Traveling,1,0,459
+0022300688,648,PT01M04.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. S.FOUL (P1.PN) (J.Sterling),Foul,Shooting,1,0,467
+0022300770,561,PT04M46.00S,4,1610612746,LAC,1630527,Boston,B. Boston,40,106,11,Made,1,87,109,196,h,Boston Jr. 11' Turnaround Fadeaway (2 PTS) (Zubac 2 AST),Made Shot,Turnaround Fadeaway shot,1,2,403
+0022300770,563,PT04M07.00S,4,1610612746,LAC,1630527,Boston,B. Boston,7,19,2,Missed,1,,,0,h,MISS Boston Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,405
+0022300770,599,PT02M10.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,95,113,208,h,Boston Jr. Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,433
+0022300770,604,PT02M10.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,96,113,209,h,Boston Jr. Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,436
+0022300770,613,PT01M29.00S,4,1610612746,LAC,1630527,Boston,B. Boston,109,158,19,Made,1,98,115,213,h,Boston Jr. 19' Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,1,2,444
+0022300770,625,PT00M24.50S,4,1610612746,LAC,1630527,Boston,B. Boston,-202,174,27,Missed,1,,,0,h,MISS Boston Jr. 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,452
+0022300789,197,PT10M19.00S,2,1610612746,LAC,1630527,Boston,B. Boston,105,39,11,Missed,1,,,0,v,MISS Boston Jr. 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,142
+0022300789,214,PT08M41.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. P.FOUL (P1.T1) (J.Williams),Foul,Personal,1,0,157
+0022300789,260,PT05M39.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,189
+0022300789,265,PT05M07.00S,2,1610612746,LAC,1630527,Boston,B. Boston,-249,12,25,Missed,1,,,0,v,MISS Boston Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,194
+0022300789,287,PT03M21.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. P.FOUL (P2.T2) (J.Butler),Foul,Personal,1,0,211
+0022300789,294,PT02M54.00S,2,1610612746,LAC,1630527,Boston,B. Boston,12,53,5,Missed,1,,,0,v,MISS Boston Jr. 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,215
+0022300789,306,PT01M37.00S,2,1610612746,LAC,1630527,Boston,B. Boston,217,170,28,Missed,1,,,0,v,MISS Boston Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,227
+0022300789,311,PT01M36.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,SUB: Zubac FOR Boston Jr.,Substitution,,0,0,231
+0022300799,614,PT02M24.00S,4,1610612746,LAC,1630527,Boston,B. Boston,18,10,2,Made,1,120,105,225,v,Boston Jr. 2' Driving Layup (2 PTS) (Mann 6 AST),Made Shot,Driving Layup Shot,1,2,443
+0022300799,625,PT01M46.00S,4,1610612746,LAC,1630527,Boston,B. Boston,156,11,16,Made,1,121,107,228,v,Boston Jr. 16' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,1,2,450
+0022300799,627,PT01M21.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,0,452
+0022300799,641,PT00M35.70S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. Lost Ball Turnover (P2.T14),Turnover,Lost Ball,1,0,462
+0022300865,617,PT02M55.00S,4,1610612746,LAC,1630527,Boston,B. Boston,80,148,17,Made,1,133,108,241,h,Boston Jr. 17' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,1,2,438
+0022300865,620,PT02M32.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,27,3,Made,1,135,108,243,h,Boston Jr. 3' Running Layup (4 PTS) (Hyland 6 AST),Made Shot,Running Layup Shot,1,2,441
+0022300865,628,PT02M19.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. S.FOUL (P1.T3) (J.Goble),Foul,Shooting,1,0,446
+0022300865,634,PT02M08.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,MISS Boston Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,450
+0022300865,636,PT02M08.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,136,110,246,h,Boston Jr. Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,452
+0022300865,646,PT01M17.00S,4,1610612746,LAC,1630527,Boston,B. Boston,103,34,11,Made,1,138,111,249,h,Boston Jr. 11' Fadeaway Jumper (7 PTS) (Hyland 7 AST),Made Shot,Fadeaway Jump Shot,1,2,461
+0022300865,655,PT00M23.90S,4,1610612746,LAC,1630527,Boston,B. Boston,-1,79,8,Missed,1,,,0,h,MISS Boston Jr. 8' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,468
+0022300924,109,PT03M28.00S,1,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. BLOCK (1 BLK),,,1,2,80
+0022300924,135,PT02M20.00S,1,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,99
+0022300924,136,PT02M14.00S,1,1610612746,LAC,1630527,Boston,B. Boston,-87,115,14,Missed,1,,,0,h,MISS Boston Jr. 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,100
+0022300924,138,PT01M58.00S,1,1610612746,LAC,1630527,Boston,B. Boston,147,56,16,Missed,1,,,0,h,MISS Boston Jr. 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,102
+0022300924,148,PT01M12.00S,1,1610612746,LAC,1630527,Boston,B. Boston,-159,185,24,Made,1,30,26,56,h,Boston Jr. 24' 3PT Jump Shot (3 PTS) (Tucker 1 AST),Made Shot,Jump Shot,1,3,112
+0022300924,157,PT00M53.60S,1,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,117
+0022300924,158,PT00M38.90S,1,1610612746,LAC,1630527,Boston,B. Boston,-26,0,3,Missed,1,,,0,h,MISS Boston Jr. 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,118
+0022300924,195,PT09M49.00S,2,1610612746,LAC,1630527,Boston,B. Boston,-180,167,25,Missed,1,,,0,h,MISS Boston Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,148
+0022300924,196,PT09M45.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,150
+0022300924,233,PT06M31.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,SUB: Coffey FOR Boston Jr.,Substitution,,0,0,176
+0022300924,462,PT03M27.00S,3,1610612746,LAC,1630527,Boston,B. Boston,27,44,5,Missed,1,,,0,h,MISS Boston Jr. 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,337
+0022300924,464,PT03M22.00S,3,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,338
+0022300924,465,PT03M22.00S,3,1610612746,LAC,1630527,Boston,B. Boston,17,17,2,Missed,1,,,0,h,MISS Boston Jr. 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,339
+0022300924,476,PT02M00.00S,3,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,348
+0022300924,486,PT00M41.00S,3,1610612746,LAC,1630527,Boston,B. Boston,-6,18,2,Made,1,85,90,175,h,Boston Jr. 2' Driving Dunk (5 PTS),Made Shot,Driving Dunk Shot,1,2,357
+0022300924,487,PT00M41.00S,3,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. T.FOUL (P0.PN) (M.Kallio),Foul,Technical,1,0,358
+0022300924,505,PT11M41.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. S.FOUL (P1.T1) (M.Kallio),Foul,Shooting,1,0,371
+0022300924,534,PT09M46.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. BLOCK (2 BLK),,,1,2,393
+0022300924,541,PT09M17.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. P.FOUL (P2.T2) (S.Foster),Foul,Personal,1,0,398
+0022300924,562,PT07M11.00S,4,1610612746,LAC,1630527,Boston,B. Boston,229,67,24,Missed,1,,,0,h,MISS Boston Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,413
+0022300924,566,PT07M02.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,SUB: Coffey FOR Boston Jr.,Substitution,,0,0,417
+0022300944,503,PT08M45.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,367
+0022300944,504,PT08M41.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-17,109,11,Missed,1,,,0,h,MISS Boston Jr. 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,368
+0022300944,522,PT07M18.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,SUB: Powell FOR Boston Jr.,Substitution,,0,0,381
+0022300944,570,PT03M35.00S,4,1610612746,LAC,1630527,Boston,B. Boston,26,8,3,Made,1,96,114,210,h,Boston Jr. 3' Running Layup (2 PTS) (Plumlee 1 AST),Made Shot,Running Layup Shot,1,2,412
+0022300944,572,PT03M16.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. S.FOUL (P1.T3) (K.Scott),Foul,Shooting,1,0,413
+0022300944,580,PT02M56.00S,4,1610612746,LAC,1630527,Boston,B. Boston,135,232,27,Missed,1,,,0,h,MISS Boston Jr. 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,419
+0022300944,603,PT02M12.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,MISS Boston Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,434
+0022300944,605,PT02M12.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,MISS Boston Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,436
+0022300944,627,PT00M32.30S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. BLOCK (1 BLK),,,1,2,456
+0022300956,145,PT11M28.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. S.FOUL (P1.T1) (M.Smith),Foul,Shooting,1,0,103
+0022300956,195,PT07M34.00S,2,1610612746,LAC,1630527,Boston,B. Boston,227,-4,0,Missed,1,,,0,v,MISS Boston Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,141
+0022300956,198,PT07M20.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,144
+0022300956,201,PT07M10.00S,2,1610612746,LAC,1630527,Boston,B. Boston,4,6,1,Made,1,37,51,88,v,Boston Jr. 1' Driving Layup (2 PTS) (Zubac 1 AST),Made Shot,Driving Layup Shot,1,2,147
+0022300956,219,PT06M15.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,SUB: George FOR Boston Jr.,Substitution,,0,0,158
+0022300956,558,PT02M14.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,MISS Boston Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,400
+0022300956,560,PT02M14.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,104,124,228,v,Boston Jr. Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,402
+0022300956,563,PT01M48.00S,4,1610612746,LAC,1630527,Boston,B. Boston,10,-3,1,Made,1,107,126,233,v,Boston Jr. 1' Driving Layup (5 PTS) (Plumlee 1 AST),Made Shot,Driving Layup Shot,1,2,404
+0022300982,622,PT01M01.00S,4,1610612746,LAC,1630527,Boston,B. Boston,130,54,14,Missed,1,,,0,h,MISS Boston Jr. 14' Jump Shot,Missed Shot,Jump Shot,1,2,455
+0022301003,168,PT08M51.00S,2,1610612746,LAC,1630527,Boston,B. Boston,20,28,3,Made,1,31,38,69,v,Boston Jr. 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,120
+0022301003,171,PT08M22.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. BLOCK (1 BLK),,,1,2,124
+0022301003,181,PT07M25.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. S.FOUL (P1.T2) (A.Nagy),Foul,Shooting,1,0,130
+0022301003,210,PT05M49.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,150
+0022301003,217,PT05M04.00S,2,1610612746,LAC,1630527,Boston,B. Boston,-23,17,3,Made,1,35,51,86,v,Boston Jr. 3' Running Alley Oop Dunk Shot (4 PTS) (Harden 6 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,155
+0022301003,221,PT04M31.00S,2,1610612746,LAC,1630527,Boston,B. Boston,11,120,12,Missed,1,,,0,v,MISS Boston Jr. 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,158
+0022301003,241,PT02M28.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,SUB: Coffey FOR Boston Jr.,Substitution,,0,0,175
+0022301003,397,PT02M13.00S,3,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,290
+0022301003,402,PT02M02.00S,3,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. S.FOUL (P2.T2) (N.Buchert),Foul,Shooting,1,0,294
+0022301003,409,PT01M44.00S,3,1610612746,LAC,1630527,Boston,B. Boston,-67,127,14,Made,1,66,92,158,v,Boston Jr. 14' Turnaround Fadeaway (6 PTS),Made Shot,Turnaround Fadeaway shot,1,2,299
+0022301003,415,PT00M56.10S,3,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. BLOCK (2 BLK),,,1,2,305
+0022301003,449,PT10M19.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,MISS Boston Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,328
+0022301003,451,PT10M19.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,75,100,175,v,Boston Jr. Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,330
+0022301003,463,PT09M32.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,340
+0022301003,465,PT09M29.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. STEAL (1 STL),,,1,0,343
+0022301003,488,PT06M55.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-64,16,7,Missed,1,,,0,v,MISS Boston Jr. 7' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,359
+0022301003,520,PT04M26.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-152,215,26,Missed,1,,,0,v,MISS Boston Jr. 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,382
+0022301003,558,PT01M36.00S,4,1610612746,LAC,1630527,Boston,B. Boston,96,148,18,Made,1,99,116,215,v,Boston Jr. 18' Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,1,2,412
+0022301003,569,PT01M02.00S,4,1610612746,LAC,1630527,Boston,B. Boston,48,137,15,Missed,1,,,0,v,MISS Boston Jr. 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,421
+0022301003,573,PT00M35.90S,4,1610612746,LAC,1630527,Boston,B. Boston,185,172,25,Missed,1,,,0,v,MISS Boston Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,425
+0022301017,129,PT02M49.00S,1,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. S.FOUL (P1.T3) (P.Ransom),Foul,Shooting,1,0,92
+0022301017,140,PT02M03.00S,1,1610612746,LAC,1630527,Boston,B. Boston,-184,202,27,Made,1,22,37,59,v,Boston Jr. 27' 3PT Pullup Jump Shot (3 PTS) (Tucker 1 AST),Made Shot,Pullup Jump shot,1,3,100
+0022301017,145,PT01M47.00S,1,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. S.FOUL (P2.T4) (P.Ransom),Foul,Shooting,1,0,102
+0022301017,159,PT00M26.00S,1,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,111
+0022301017,473,PT01M45.00S,3,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,MISS Boston Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,332
+0022301017,475,PT01M45.00S,3,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,76,97,173,v,Boston Jr. Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,334
+0022301017,480,PT01M04.00S,3,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. STEAL (1 STL),,,1,0,340
+0022301017,586,PT10M58.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. Out of Bounds Lost Ball Turnover (P1.T12),Turnover,Out of Bounds Lost Ball Turnover,1,0,362
+0022301017,538,PT09M11.00S,4,1610612746,LAC,1630527,Boston,B. Boston,140,213,25,Made,1,88,114,202,v,Boston Jr. 25' 3PT Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,1,3,380
+0022301017,573,PT05M26.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,410
+0022301017,574,PT05M26.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,Made,1,97,120,217,v,Boston Jr. Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,1,2,411
+0022301017,599,PT04M00.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. Out of Bounds Lost Ball Turnover (P2.T15),Turnover,Out of Bounds Lost Ball Turnover,1,0,428
+0022301017,620,PT01M55.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-174,176,25,Missed,1,,,0,v,MISS Boston Jr. 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,446
+0022301017,626,PT01M21.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,452
+0022301017,631,PT00M28.40S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. Offensive Charge Foul (P3) (E.Malloy),Foul,Offensive Charge,1,0,456
+0022301017,633,PT00M28.40S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. Offensive Foul Turnover (P3.T16),Turnover,Offensive Foul Turnover,1,0,457
+0022301017,647,PT00M00.70S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,469
+0022301028,132,PT00M43.90S,1,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. S.FOUL (P1.T1) (J.Sterling),Foul,Shooting,1,0,95
+0022301028,155,PT11M35.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,SUB: George FOR Boston Jr.,Substitution,,0,0,109
+0022301028,409,PT01M46.00S,3,1610612746,LAC,1630527,Boston,B. Boston,10,18,2,Made,1,79,83,162,h,Boston Jr. 2' Cutting Dunk Shot (2 PTS) (Zubac 2 AST),Made Shot,Cutting Dunk Shot,1,2,297
+0022301028,433,PT00M01.90S,3,1610612746,LAC,1630527,Boston,B. Boston,-4,65,7,Missed,1,,,0,h,MISS Boston Jr. 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,315
+0022301028,543,PT04M11.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,394
+0022301028,550,PT03M32.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,400
+0022301028,551,PT03M25.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-96,151,18,Missed,1,,,0,h,MISS Boston Jr. 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,401
+0022301028,585,PT00M42.40S,4,1610612746,LAC,1630527,Boston,B. Boston,145,70,16,Made,1,107,121,228,h,Boston Jr. 16' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,1,2,425
+0022301101,128,PT03M39.00S,1,1610612746,LAC,1630527,Boston,B. Boston,-237,21,24,Missed,1,,,0,v,MISS Boston Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,93
+0022301101,147,PT01M22.00S,1,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. P.FOUL (P1.T4) (C.Flores),Foul,Personal,1,0,108
+0022301101,162,PT00M45.50S,1,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,117
+0022301101,168,PT00M04.20S,1,1610612746,LAC,1630527,Boston,B. Boston,246,36,25,Made,1,21,24,45,v,Boston Jr. 25' 3PT Jump Shot (3 PTS) (Harden 2 AST),Made Shot,Jump Shot,1,3,122
+0022301101,196,PT10M35.00S,2,1610612746,LAC,1630527,Boston,B. Boston,34,56,7,Missed,1,,,0,v,MISS Boston Jr. 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,140
+0022301101,198,PT10M26.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. P.FOUL (P2.T2) (S.Foster),Foul,Personal,1,0,142
+0022301101,216,PT09M41.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,SUB: Mann FOR Boston Jr.,Substitution,,0,0,154
+0022301101,462,PT02M03.00S,3,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,333
+0022301101,495,PT00M13.50S,3,1610612746,LAC,1630527,Boston,B. Boston,228,12,0,Missed,1,,,0,v,MISS Boston Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,357
+0022301101,522,PT10M04.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. P.FOUL (P3.T1) (J.Butler),Foul,Personal,1,0,376
+0022301101,532,PT09M28.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. P.FOUL (P4.T2) (C.Flores),Foul,Personal,1,0,385
+0022301101,561,PT07M38.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,100,78,178,v,Boston Jr. Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,403
+0022301101,568,PT07M38.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,100,79,179,v,Boston Jr. Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,407
+0022301101,576,PT06M35.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-32,16,4,Made,1,100,81,181,v,Boston Jr. 4' Driving Layup (7 PTS) (Hyland 1 AST),Made Shot,Driving Layup Shot,1,2,412
+0022301101,580,PT06M15.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. S.FOUL (P5.T4) (J.Butler),Foul,Shooting,1,0,414
+0022301101,585,PT06M12.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,417
+0022301101,649,PT01M10.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,Boston Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,472
+0022301101,656,PT00M56.90S,4,1610612746,LAC,1630527,Boston,B. Boston,-10,52,5,Made,1,107,93,200,v,Boston Jr. 5' Driving Floating Bank Jump Shot (9 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,476
+0022301101,659,PT00M56.90S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,v,MISS Boston Jr. Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,478
+0022301126,578,PT06M04.00S,4,1610612746,LAC,1630527,Boston,B. Boston,26,16,3,Missed,1,,,0,h,MISS Boston Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,433
+0022301126,594,PT05M03.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-2,5,1,Made,1,120,91,211,h,Boston Jr. 1' Driving Dunk (2 PTS) (Hyland 2 AST),Made Shot,Driving Dunk Shot,1,2,447
+0022301126,604,PT04M00.00S,4,1610612746,LAC,1630527,Boston,B. Boston,9,106,11,Made,1,122,95,217,h,Boston Jr. 11' Fadeaway Jumper (4 PTS) (Hyland 3 AST),Made Shot,Fadeaway Jump Shot,1,2,455
+0022301126,609,PT03M00.00S,4,1610612746,LAC,1630527,Boston,B. Boston,12,48,5,Missed,1,,,0,h,MISS Boston Jr. 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,459
+0022301126,615,PT02M47.00S,4,1610612746,LAC,1630527,Boston,B. Boston,224,78,24,Missed,1,,,0,h,MISS Boston Jr. 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,463
+0022301126,627,PT01M52.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-109,237,26,Missed,1,,,0,h,MISS Boston Jr. 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,470
+0022301165,80,PT05M02.00S,1,1610612746,LAC,1630527,Boston,B. Boston,-127,30,13,Made,1,17,18,35,h,Boston Jr. 13' Step Back Jump Shot (2 PTS) (Hyland 2 AST),Made Shot,Step Back Jump shot,1,2,63
+0022301165,98,PT03M42.00S,1,1610612746,LAC,1630527,Boston,B. Boston,-172,192,26,Missed,1,,,0,h,MISS Boston Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,78
+0022301165,110,PT03M09.00S,1,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,87
+0022301165,113,PT03M03.00S,1,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,20,20,40,h,Boston Jr. Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,89
+0022301165,114,PT03M03.00S,1,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,MISS Boston Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,90
+0022301165,127,PT01M18.00S,1,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,102
+0022301165,128,PT01M07.00S,1,1610612746,LAC,1630527,Boston,B. Boston,-123,241,27,Missed,1,,,0,h,MISS Boston Jr. 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,103
+0022301165,170,PT10M03.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. BLOCK (1 BLK),,,1,2,133
+0022301165,175,PT09M42.00S,2,1610612746,LAC,1630527,Boston,B. Boston,-32,4,3,Made,1,31,39,70,h,Boston Jr. 3' Reverse Dunk (5 PTS) (Brown 1 AST),Made Shot,Reverse Dunk Shot,1,2,137
+0022301165,183,PT08M21.00S,2,1610612746,LAC,1630527,Boston,B. Boston,-164,200,26,Missed,1,,,0,h,MISS Boston Jr. 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,143
+0022301165,249,PT04M05.00S,2,1610612746,LAC,1630527,Boston,B. Boston,-12,9,2,Missed,1,,,0,h,MISS Boston Jr. 2' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,2,188
+0022301165,266,PT02M46.00S,2,1610612746,LAC,1630527,Boston,B. Boston,5,26,3,Missed,1,,,0,h,MISS Boston Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,202
+0022301165,272,PT02M21.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,207
+0022301165,273,PT02M11.00S,2,1610612746,LAC,1630527,Boston,B. Boston,134,222,26,Made,1,45,53,98,h,Boston Jr. 26' 3PT Jump Shot (8 PTS) (Moon 3 AST),Made Shot,Jump Shot,1,3,208
+0022301165,294,PT00M33.70S,2,1610612746,LAC,1630527,Boston,B. Boston,-53,94,11,Made,1,53,55,108,h,Boston Jr. 11' Pullup Jump Shot (10 PTS) (Moon 4 AST),Made Shot,Pullup Jump shot,1,2,223
+0022301165,319,PT10M11.00S,3,1610612746,LAC,1630527,Boston,B. Boston,-104,130,17,Made,1,61,59,120,h,Boston Jr. 17' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,2,240
+0022301165,325,PT09M18.00S,3,1610612746,LAC,1630527,Boston,B. Boston,-1,38,4,Missed,1,,,0,h,MISS Boston Jr. 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,245
+0022301165,343,PT08M06.00S,3,1610612746,LAC,1630527,Boston,B. Boston,-48,123,13,Made,1,69,67,136,h,Boston Jr. 13' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,2,261
+0022301165,353,PT06M48.00S,3,1610612746,LAC,1630527,Boston,B. Boston,-93,123,15,Missed,1,,,0,h,MISS Boston Jr. 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,270
+0022301165,380,PT04M36.00S,3,1610612746,LAC,1630527,Boston,B. Boston,115,242,27,Made,1,82,79,161,h,Boston Jr. 27' 3PT Running Pull-Up Jump Shot (17 PTS) (Hyland 6 AST),Made Shot,Running Pull-Up Jump Shot,1,3,289
+0022301165,393,PT03M54.00S,3,1610612746,LAC,1630527,Boston,B. Boston,-129,237,27,Missed,1,,,0,h,MISS Boston Jr. 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,298
+0022301165,397,PT03M15.00S,3,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,302
+0022301165,436,PT00M06.10S,3,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. Traveling Turnover (P2.T9),Turnover,Traveling,1,0,331
+0022301165,451,PT11M30.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-229,42,0,Missed,1,,,0,h,MISS Boston Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,341
+0022301165,454,PT10M57.00S,4,1610612746,LAC,1630527,Boston,B. Boston,26,149,15,Made,1,95,94,189,h,Boston Jr. 15' Jump Shot (19 PTS) (Plumlee 3 AST),Made Shot,Jump Shot,1,2,344
+0022301165,469,PT09M38.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,SUB: Moon FOR Boston Jr.,Substitution,,0,0,355
+0022301165,493,PT07M59.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. S.FOUL (P1.T2) (D.Guthrie),Foul,Shooting,1,0,367
+0022301165,498,PT07M48.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-33,120,12,Made,1,106,101,207,h,Boston Jr. 12' Pullup Jump Shot (21 PTS) (Hyland 9 AST),Made Shot,Pullup Jump shot,1,2,371
+0022301165,515,PT06M07.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-157,171,23,Missed,1,,,0,h,MISS Boston Jr. 23' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,384
+0022301165,524,PT05M42.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. STEAL (1 STL),,,1,0,392
+0022301165,526,PT05M37.00S,4,1610612746,LAC,1630527,Boston,B. Boston,229,116,26,Missed,1,,,0,h,MISS Boston Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,393
+0022301165,530,PT05M26.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. STEAL (2 STL),,,1,0,398
+0022301165,533,PT05M18.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,400
+0022301165,534,PT05M10.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-13,29,3,Missed,1,,,0,h,MISS Boston Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,401
+0022301165,549,PT04M32.00S,4,1610612746,LAC,1630527,Boston,B. Boston,175,204,27,Missed,1,,,0,h,MISS Boston Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,411
+0022301165,558,PT03M51.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. Out of Bounds Lost Ball Turnover (P3.T13),Turnover,Out of Bounds Lost Ball Turnover,1,0,418
+0022301165,571,PT02M40.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,427
+0022301165,572,PT02M40.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,Made,1,108,114,222,h,Boston Jr. Tip Dunk Shot (23 PTS),Made Shot,Tip Dunk Shot,1,2,428
+0022301165,586,PT01M13.00S,4,1610612746,LAC,1630527,Boston,B. Boston,23,136,14,Missed,1,,,0,h,MISS Boston Jr. 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,440
+0022301165,606,PT00M11.60S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,455
+0022301165,608,PT00M07.90S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,457
+0022301184,326,PT11M37.00S,3,1610612746,LAC,1630527,Boston,B. Boston,-107,106,15,Missed,1,,,0,h,MISS Boston Jr. 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,243
+0022301184,339,PT09M38.00S,3,1610612746,LAC,1630527,Boston,B. Boston,28,57,6,Missed,1,,,0,h,MISS Boston Jr. 6' Layup,Missed Shot,Layup Shot,1,2,254
+0022301184,361,PT08M18.00S,3,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. S.FOUL (P1.T3) (J.Van Duyne),Foul,Shooting,1,0,270
+0022301184,376,PT06M51.00S,3,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,283
+0022301184,398,PT05M42.00S,3,1610612746,LAC,1630527,Boston,B. Boston,34,157,16,Missed,1,,,0,h,MISS Boston Jr. 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,297
+0022301184,406,PT05M06.00S,3,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. Traveling Turnover (P1.T8),Turnover,Traveling,1,0,305
+0022301184,416,PT04M37.00S,3,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,313
+0022301184,417,PT04M27.00S,3,1610612746,LAC,1630527,Boston,B. Boston,-146,215,26,Missed,1,,,0,h,MISS Boston Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,314
+0022301184,438,PT03M27.00S,3,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,330
+0022301184,439,PT03M26.00S,3,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,Missed,1,,,0,h,MISS Boston Jr. Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,331
+0022301184,445,PT02M55.00S,3,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. Transition Take Foul (P2.T4) (B.Kennedy),Foul,Transition Take,1,0,337
+0022301184,453,PT02M29.00S,3,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,75,82,157,h,Boston Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,342
+0022301184,454,PT02M29.00S,3,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,76,82,158,h,Boston Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,343
+0022301184,464,PT01M32.00S,3,1610612746,LAC,1630527,Boston,B. Boston,-58,109,12,Made,1,78,82,160,h,Boston Jr. 12' Turnaround Fadeaway (4 PTS),Made Shot,Turnaround Fadeaway shot,1,2,351
+0022301184,469,PT00M46.10S,3,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,355
+0022301184,472,PT00M29.00S,3,1610612746,LAC,1630527,Boston,B. Boston,21,22,3,Made,1,83,84,167,h,Boston Jr. 3' Cutting Finger Roll Layup Shot (6 PTS) (Moon 2 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,358
+0022301184,501,PT09M46.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. OFF.Foul (P3) (J.Van Duyne),Foul,Offensive,1,0,381
+0022301184,503,PT09M46.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,1,0,382
+0022301184,520,PT08M01.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-81,103,13,Missed,1,,,0,h,MISS Boston Jr. 13' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,395
+0022301184,548,PT06M13.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-72,260,27,Missed,1,,,0,h,MISS Boston Jr. 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,420
+0022301184,561,PT05M28.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. S.FOUL (P4.T3) (B.Kennedy),Foul,Shooting,1,0,430
+0022301184,569,PT05M15.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-4,1,0,Made,1,100,102,202,h,Boston Jr. Cutting Dunk Shot (8 PTS) (Hyland 5 AST),Made Shot,Cutting Dunk Shot,1,2,435
+0022301184,585,PT03M52.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. STEAL (1 STL),,,1,0,447
+0022301184,587,PT03M50.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. Out of Bounds - Bad Pass Turnover Turnover (P3.T12),Turnover,Out of Bounds - Bad Pass Turnover,1,0,448
+0022301184,616,PT00M53.30S,4,1610612746,LAC,1630527,Boston,B. Boston,-12,83,8,Missed,1,,,0,h,MISS Boston Jr. 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,469
+0022301184,620,PT00M31.10S,4,1610612746,LAC,1630527,Boston,B. Boston,-21,10,2,Made,1,109,110,219,h,Boston Jr. 2' Running Layup (10 PTS) (Hyland 6 AST),Made Shot,Running Layup Shot,1,2,473
+0022301184,626,PT00M01.50S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,478
+0022301184,627,PT00M00.70S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. Lost Ball Turnover (P4.T13),Turnover,Lost Ball,1,0,479
+0022301199,74,PT05M33.00S,1,1610612746,LAC,1630527,Boston,B. Boston,-59,170,18,Missed,1,,,0,h,MISS Boston Jr. 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,56
+0022301199,125,PT02M12.00S,1,1610612746,LAC,1630527,Boston,B. Boston,69,176,19,Missed,1,,,0,h,MISS Boston Jr. 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,93
+0022301199,131,PT01M35.00S,1,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. S.FOUL (P1.T1) (J.Butler),Foul,Shooting,1,0,98
+0022301199,164,PT11M27.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. STEAL (1 STL),,,1,0,123
+0022301199,168,PT11M27.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,MISS Boston Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,125
+0022301199,170,PT11M27.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,24,27,51,h,Boston Jr. Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,127
+0022301199,173,PT11M09.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,130
+0022301199,183,PT10M21.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,138
+0022301199,188,PT09M50.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,143
+0022301199,191,PT09M28.00S,2,1610612746,LAC,1630527,Boston,B. Boston,12,48,5,Missed,1,,,0,h,MISS Boston Jr. 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,145
+0022301199,231,PT07M29.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. Out of Bounds Lost Ball Turnover (P3.T5),Turnover,Out of Bounds Lost Ball Turnover,1,0,177
+0022301199,241,PT06M14.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,34,40,74,h,Boston Jr. Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,185
+0022301199,244,PT06M14.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,35,40,75,h,Boston Jr. Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,186
+0022301199,245,PT05M59.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Jump Ball Boston Jr. vs. Whitmore: Tip to Ja. Green,Jump Ball,,1,0,188
+0022301199,251,PT05M31.00S,2,1610612746,LAC,1630527,Boston,B. Boston,158,214,27,Missed,1,,,0,h,MISS Boston Jr. 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,192
+0022301199,267,PT04M37.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. Out of Bounds - Bad Pass Turnover Turnover (P4.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,204
+0022301199,268,PT04M27.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. STEAL (2 STL),,,1,0,206
+0022301199,270,PT04M25.00S,2,1610612746,LAC,1630527,Boston,B. Boston,-4,27,3,Made,1,39,44,83,h,Boston Jr. 3' Running Dunk (5 PTS),Made Shot,Running Dunk Shot,1,2,207
+0022301199,274,PT04M04.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. Offensive Charge Foul (P2) (T.Ford),Foul,Offensive Charge,1,0,210
+0022301199,276,PT04M04.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. Offensive Foul Turnover (P5.T7),Turnover,Offensive Foul Turnover,1,0,211
+0022301199,277,PT04M04.00S,2,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,SUB: Theis FOR Boston Jr.,Substitution,,0,0,212
+0022301199,451,PT03M20.00S,3,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,345
+0022301199,456,PT02M52.00S,3,1610612746,LAC,1630527,Boston,B. Boston,-20,26,3,Missed,1,,,0,h,MISS Boston Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,348
+0022301199,458,PT02M50.00S,3,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,350
+0022301199,459,PT02M49.00S,3,1610612746,LAC,1630527,Boston,B. Boston,-1,19,2,Missed,1,,,0,h,MISS Boston Jr. 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,351
+0022301199,482,PT01M35.00S,3,1610612746,LAC,1630527,Boston,B. Boston,-82,124,15,Made,1,78,76,154,h,Boston Jr. 15' Pullup Jump Shot (7 PTS) (Moon 4 AST),Made Shot,Pullup Jump shot,1,2,369
+0022301199,500,PT00M17.60S,3,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. S.FOUL (P3.PN) (T.Ford),Foul,Shooting,1,0,382
+0022301199,504,PT00M02.80S,3,1610612746,LAC,1630527,Boston,B. Boston,197,190,27,Missed,1,,,0,h,MISS Boston Jr. 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,385
+0022301199,541,PT09M19.00S,4,1610612746,LAC,1630527,Boston,B. Boston,121,239,27,Made,1,88,89,177,h,Boston Jr. 27' 3PT Jump Shot (10 PTS) (Moon 5 AST),Made Shot,Jump Shot,1,3,410
+0022301199,544,PT08M59.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,412
+0022301199,545,PT08M48.00S,4,1610612746,LAC,1630527,Boston,B. Boston,20,257,26,Missed,1,,,0,h,MISS Boston Jr. 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,413
+0022301199,570,PT06M36.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-233,1,0,Missed,1,,,0,h,MISS Boston Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,432
+0022301199,602,PT04M31.00S,4,1610612746,LAC,1630527,Boston,B. Boston,-240,5,24,Made,1,100,105,205,h,Boston Jr. 24' 3PT Jump Shot (13 PTS) (Plumlee 4 AST),Made Shot,Jump Shot,1,3,455
+0022301199,642,PT03M29.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. STEAL (3 STL),,,1,0,473
+0022301199,686,PT03M25.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. Step Out of Bounds Turnover (P6.T11),Turnover,Step Out of Bounds Turnover,1,0,474
+0022301199,626,PT03M13.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. STEAL (4 STL),,,1,0,476
+0022301199,628,PT03M09.00S,4,1610612746,LAC,1630527,Boston,B. Boston,10,14,2,Made,1,102,105,207,h,Boston Jr. 2' Running Dunk (15 PTS),Made Shot,Running Dunk Shot,1,2,477
+0022301199,649,PT01M49.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,490
+0022301199,650,PT01M41.00S,4,1610612746,LAC,1630527,Boston,B. Boston,5,16,2,Missed,1,,,0,h,MISS Boston Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,491
+0022301199,654,PT01M37.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,,0,,,0,h,Boston Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,495
+0022301199,655,PT01M36.00S,4,1610612746,LAC,1630527,Boston,B. Boston,0,0,0,Missed,1,,,0,h,MISS Boston Jr. Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,496

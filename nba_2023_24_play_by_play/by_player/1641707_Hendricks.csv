@@ -1,0 +1,698 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300072,702,PT01M50.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,516
+0022300072,709,PT01M16.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,MISS Hendricks Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,521
+0022300072,719,PT01M16.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,112,130,242,h,Hendricks Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,527
+0022300289,156,PT00M00.50S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,118,174,21,Missed,1,,,0,h,MISS Hendricks 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,119
+0022300289,192,PT09M44.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,144
+0022300289,209,PT08M28.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks BLOCK (1 BLK),,,1,2,157
+0022300289,225,PT07M25.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks BLOCK (2 BLK),,,1,2,169
+0022300289,228,PT07M16.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-127,228,26,Missed,1,,,0,h,MISS Hendricks 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,171
+0022300289,236,PT06M32.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: George FOR Hendricks,Substitution,,0,0,177
+0022300289,504,PT11M34.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,-26,3,3,Missed,1,,,0,h,MISS Hendricks 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,366
+0022300289,505,PT11M30.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,367
+0022300289,506,PT11M30.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,Made,1,86,74,160,h,Hendricks Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,368
+0022300289,515,PT10M55.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,241,-2,24,Made,1,89,76,165,h,Hendricks 24' 3PT Jump Shot (5 PTS) (Sexton 3 AST),Made Shot,Jump Shot,1,3,374
+0022300289,519,PT10M34.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks S.FOUL (P1.T2) (S.Wright),Foul,Shooting,1,0,377
+0022300289,539,PT08M42.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,156,211,26,Missed,1,,,0,h,MISS Hendricks 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,395
+0022300289,564,PT07M18.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,239,-4,24,Missed,1,,,0,h,MISS Hendricks 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,411
+0022300289,577,PT06M39.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Kessler FOR Hendricks,Substitution,,0,0,420
+0022300302,149,PT00M56.60S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,179,179,25,Missed,1,,,0,v,MISS Hendricks 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,108
+0022300302,176,PT11M38.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-227,-27,0,Missed,1,,,0,v,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,123
+0022300302,219,PT08M07.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,119,226,26,Made,1,43,30,73,v,Hendricks 26' 3PT Jump Shot (3 PTS) (Dunn 2 AST),Made Shot,Jump Shot,1,3,153
+0022300302,254,PT05M30.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks STEAL (1 STL),,,1,0,178
+0022300302,260,PT05M23.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Clarkson FOR Hendricks,Substitution,,0,0,182
+0022300302,474,PT03M23.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,-151,235,28,Missed,1,,,0,v,MISS Hendricks 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,338
+0022300302,535,PT11M23.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,4,11,1,Made,1,113,77,190,v,Hendricks 1' Cutting Layup Shot (5 PTS) (Dunn 4 AST),Made Shot,Cutting Layup Shot,1,2,382
+0022300302,539,PT11M23.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,113,78,191,v,Hendricks Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,384
+0022300302,552,PT10M17.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks S.FOUL (P1.T1) (D.Scott),Foul,Shooting,1,0,397
+0022300302,577,PT08M32.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks BLOCK (1 BLK),,,1,3,415
+0022300302,608,PT06M21.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,438
+0022300302,635,PT03M45.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks L.B.FOUL (P2.T2) (T.Maddox),Foul,Loose Ball,1,0,459
+0022300302,651,PT02M35.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,471
+0022300302,671,PT00M54.20S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,11,1,Made,1,132,120,252,v,Hendricks 1' Cutting Dunk Shot (8 PTS) (George 7 AST),Made Shot,Cutting Dunk Shot,1,2,485
+0022300318,180,PT10M34.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-21,26,3,Missed,1,,,0,h,MISS Hendricks 3' Dunk,Missed Shot,Dunk Shot,1,2,138
+0022300318,202,PT08M23.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-29,23,4,Made,1,32,37,69,h,Hendricks 4' Driving Dunk (2 PTS) (Dunn 4 AST),Made Shot,Driving Dunk Shot,1,2,154
+0022300318,219,PT07M51.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,163
+0022300318,220,PT07M51.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,Missed,1,,,0,h,MISS Hendricks Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,164
+0022300318,222,PT07M37.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,37,22,4,Missed,1,,,0,h,MISS Hendricks 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,166
+0022300318,229,PT07M10.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks BLOCK (1 BLK),,,1,2,173
+0022300318,233,PT07M02.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,176
+0022300318,275,PT03M57.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-234,39,24,Made,1,46,39,85,h,Hendricks 24' 3PT Jump Shot (5 PTS) (Fontecchio 2 AST),Made Shot,Jump Shot,1,3,204
+0022300318,283,PT03M17.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks L.B.FOUL (P1.T2) (Z.Zarba),Foul,Loose Ball,1,0,210
+0022300318,285,PT03M17.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Markkanen FOR Hendricks,Substitution,,0,0,211
+0022300318,468,PT01M59.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,-138,203,25,Missed,1,,,0,h,MISS Hendricks 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,343
+0022300318,492,PT00M42.70S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks OFF.Foul (P2) (J.Ralls),Foul,Offensive,1,0,362
+0022300318,494,PT00M42.70S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,1,0,363
+0022300318,513,PT11M45.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,376
+0022300318,514,PT11M26.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,234,14,0,Missed,1,,,0,h,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,377
+0022300318,521,PT10M46.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks P.FOUL (P3.T1) (A.Smith),Foul,Personal,1,0,383
+0022300318,539,PT09M37.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks STEAL (1 STL),,,1,0,399
+0022300318,584,PT06M31.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,431
+0022300318,611,PT04M39.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks STEAL (2 STL),,,1,0,452
+0022300318,622,PT03M44.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Fontecchio FOR Hendricks,Substitution,,0,0,461
+0022300323,118,PT02M50.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,221,46,0,Made,1,22,32,54,v,Hendricks 3PT Jump Shot (3 PTS) (Dunn 1 AST),Made Shot,Jump Shot,1,3,82
+0022300323,121,PT02M35.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,84
+0022300323,127,PT01M52.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,-233,13,0,Missed,1,,,0,v,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,88
+0022300323,183,PT09M28.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,128
+0022300323,191,PT07M54.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks STEAL (1 STL),,,1,0,136
+0022300323,193,PT07M47.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-138,210,25,Made,1,41,51,92,v,Hendricks 25' 3PT Running Pull-Up Jump Shot (6 PTS) (Horton-Tucker 1 AST),Made Shot,Running Pull-Up Jump Shot,1,3,137
+0022300323,210,PT06M29.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,149
+0022300323,214,PT06M22.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Olynyk FOR Hendricks,Substitution,,0,0,152
+0022300323,261,PT03M27.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,2,39,4,Missed,1,,,0,v,MISS Hendricks 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,186
+0022300323,275,PT02M37.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Horton-Tucker FOR Hendricks,Substitution,,0,0,198
+0022300323,500,PT00M50.60S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,5,1,Made,1,73,103,176,v,Hendricks 1' Cutting Dunk Shot (8 PTS) (Dunn 4 AST),Made Shot,Cutting Dunk Shot,1,2,366
+0022300323,512,PT00M07.90S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,376
+0022300323,513,PT00M01.20S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,-225,5,0,Missed,1,,,0,v,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,377
+0022300323,521,PT11M29.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,384
+0022300323,525,PT11M03.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,387
+0022300323,526,PT10M57.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,-9,-15,2,Made,1,76,107,183,v,Hendricks 2' Driving Dunk (10 PTS) (Sexton 4 AST),Made Shot,Driving Dunk Shot,1,2,388
+0022300323,577,PT06M44.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,425
+0022300323,593,PT04M53.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,-16,8,2,Missed,1,,,0,v,MISS Hendricks 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,437
+0022300323,595,PT04M39.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks P.FOUL (P1.T3) (S.Corbin),Foul,Personal,1,0,439
+0022300323,612,PT03M16.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,451
+0022300323,633,PT01M14.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,467
+0022300323,641,PT00M35.80S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,196,166,26,Missed,1,,,0,v,MISS Hendricks 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,473
+0022300342,146,PT00M53.50S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,-43,246,25,Missed,1,,,0,v,MISS Hendricks 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,111
+0022300342,158,PT11M41.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-66,241,25,Missed,1,,,0,v,MISS Hendricks 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,120
+0022300342,172,PT10M17.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,35,26,61,v,Hendricks Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,134
+0022300342,175,PT10M17.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,35,27,62,v,Hendricks Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,136
+0022300342,197,PT09M05.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,237,75,25,Missed,1,,,0,v,MISS Hendricks 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,153
+0022300342,204,PT08M18.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-1,66,7,Missed,1,,,0,v,MISS Hendricks 7' Jump Shot,Missed Shot,Jump Shot,1,2,158
+0022300342,222,PT07M26.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Kessler FOR Hendricks,Substitution,,0,0,171
+0022300342,435,PT02M24.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,317
+0022300342,474,PT11M00.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,18,28,3,Missed,1,,,0,v,MISS Hendricks 3' Layup,Missed Shot,Layup Shot,1,2,343
+0022300342,482,PT10M29.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,4,12,1,Made,1,106,81,187,v,Hendricks 1' Cutting Layup Shot (4 PTS) (Olynyk 11 AST),Made Shot,Cutting Layup Shot,1,2,348
+0022300342,515,PT08M42.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,233,18,0,Made,1,110,85,195,v,Hendricks 3PT Jump Shot (7 PTS) (Horton-Tucker 4 AST),Made Shot,Jump Shot,1,3,368
+0022300342,546,PT06M43.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,388
+0022300342,547,PT06M34.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,232,6,0,Made,1,112,95,207,v,Hendricks 3PT Jump Shot (10 PTS) (Horton-Tucker 5 AST),Made Shot,Jump Shot,1,3,389
+0022300342,588,PT03M34.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,120,101,221,v,Hendricks Free Throw 1 of 3 (11 PTS),Free Throw,Free Throw 1 of 3,1,0,420
+0022300342,589,PT03M34.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,120,102,222,v,Hendricks Free Throw 2 of 3 (12 PTS),Free Throw,Free Throw 2 of 3,1,0,421
+0022300342,594,PT03M34.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,MISS Hendricks Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,1,0,424
+0022300342,613,PT01M45.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,438
+0022300342,616,PT01M30.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks STEAL (1 STL),,,1,0,442
+0022300357,194,PT09M45.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,146
+0022300357,208,PT08M32.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,155
+0022300357,211,PT08M19.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks S.FOUL (P1.T3) (R.Hussey),Foul,Shooting,1,0,157
+0022300357,217,PT08M09.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,206,179,27,Missed,1,,,0,h,MISS Hendricks 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,161
+0022300357,236,PT07M20.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Olynyk FOR Hendricks,Substitution,,0,0,173
+0022300357,652,PT01M32.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks Traveling Turnover (P1.T14),Turnover,Traveling,1,0,478
+0022300374,181,PT11M03.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,102,233,25,Missed,1,,,0,v,MISS Hendricks 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,128
+0022300374,226,PT07M48.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-232,39,24,Made,1,39,50,89,v,Hendricks 24' 3PT Jump Shot (3 PTS) (Collins 1 AST),Made Shot,Jump Shot,1,3,154
+0022300374,248,PT06M13.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks BLOCK (1 BLK),,,1,2,170
+0022300374,255,PT05M48.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,174
+0022300374,273,PT04M54.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Fontecchio FOR Hendricks,Substitution,,0,0,188
+0022300374,490,PT01M20.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,343
+0022300374,491,PT01M20.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,-17,100,10,Made,1,85,88,173,v,Hendricks 10' Turnaround Hook Shot (5 PTS),Made Shot,Turnaround Hook Shot,1,2,344
+0022300374,526,PT11M04.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,33,14,4,Made,1,90,92,182,v,Hendricks 4' Driving Floating Bank Jump Shot (7 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,373
+0022300374,545,PT10M02.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,388
+0022300374,553,PT08M59.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,-51,3,5,Missed,1,,,0,v,MISS Hendricks 5' Layup,Missed Shot,Layup Shot,1,2,395
+0022300374,578,PT07M05.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,415
+0022300374,582,PT07M03.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Collins FOR Hendricks,Substitution,,0,0,418
+0022300412,697,PT01M59.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,190,184,26,Missed,1,,,0,v,MISS Hendricks 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,495
+0022300412,706,PT01M26.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,503
+0022300412,707,PT01M09.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks Out of Bounds Lost Ball Turnover (P1.T14),Turnover,Out of Bounds Lost Ball Turnover,1,0,504
+0022300412,709,PT00M44.30S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,-126,10,13,Missed,1,,,0,v,MISS Hendricks 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,506
+0022300412,714,PT00M11.50S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,-232,9,0,Missed,1,,,0,v,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,509
+0022300524,658,PT02M52.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks BLOCK (1 BLK),,,1,2,468
+0022300524,678,PT01M11.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks Lost Ball Turnover (P1.T16),Turnover,Lost Ball,1,0,482
+0022300524,686,PT00M22.20S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,-134,216,25,Missed,1,,,0,h,MISS Hendricks 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,488
+0022300540,632,PT03M21.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks STEAL (1 STL),,,1,0,464
+0022300540,646,PT02M14.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks S.FOUL (P1.PN) (R.Mott),Foul,Shooting,1,0,475
+0022300540,650,PT02M06.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,67,253,26,Made,1,135,106,241,h,Hendricks 26' 3PT Jump Shot (3 PTS) (Sensabaugh 1 AST),Made Shot,Jump Shot,1,3,478
+0022300540,656,PT01M38.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,482
+0022300540,674,PT00M21.80S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,223,-14,0,Made,1,145,110,255,h,Hendricks 3PT Jump Shot (6 PTS) (Sensabaugh 2 AST),Made Shot,Jump Shot,1,3,496
+0022300576,100,PT04M36.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks STEAL (1 STL),,,1,0,71
+0022300576,113,PT03M55.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,237,-28,24,Made,1,33,22,55,h,Hendricks 24' 3PT Jump Shot (3 PTS) (Clarkson 1 AST),Made Shot,Jump Shot,1,3,78
+0022300576,139,PT01M46.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks Traveling Turnover (P1.T2),Turnover,Traveling,1,0,97
+0022300576,147,PT01M21.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,104
+0022300576,148,PT01M17.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks Traveling Turnover (P2.T3),Turnover,Traveling,1,0,105
+0022300576,160,PT00M04.40S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,115
+0022300576,165,PT00M01.80S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Horton-Tucker FOR Hendricks,Substitution,,0,0,119
+0022300576,279,PT04M24.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks STEAL (2 STL),,,1,0,202
+0022300576,284,PT04M16.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Markkanen FOR Hendricks,Substitution,,0,0,206
+0022300576,571,PT03M56.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,331
+0022300739,133,PT02M09.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,26,54,6,Missed,1,,,0,v,MISS Hendricks 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,89
+0022300739,144,PT01M04.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks S.FOUL (P1.PN) (M.Myers),Foul,Shooting,1,0,99
+0022300739,152,PT00M31.60S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks BLOCK (1 BLK),,,1,2,105
+0022300739,200,PT09M03.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-161,212,27,Missed,1,,,0,v,MISS Hendricks 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,137
+0022300739,212,PT08M20.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Markkanen FOR Hendricks,Substitution,,0,0,146
+0022300739,449,PT02M57.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,20,52,6,Missed,1,,,0,v,MISS Hendricks 6' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,317
+0022300739,472,PT00M51.80S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,335
+0022300739,473,PT00M50.70S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,336
+0022300739,498,PT11M10.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,349
+0022300739,506,PT10M50.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,355
+0022300739,512,PT10M10.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,359
+0022300739,543,PT08M27.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,384
+0022300739,544,PT08M23.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,-210,119,24,Made,1,116,104,220,v,Hendricks 24' 3PT Jump Shot (3 PTS) (Horton-Tucker 2 AST),Made Shot,Jump Shot,1,3,385
+0022300739,548,PT07M49.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,388
+0022300739,553,PT07M49.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,2,-1,0,Missed,1,,,0,v,MISS Hendricks Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,389
+0022300739,570,PT06M56.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Kessler FOR Hendricks,Substitution,,0,0,404
+0022300739,659,PT01M20.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,474
+0022300739,660,PT01M14.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks Traveling Turnover (P2.T13),Turnover,Traveling,1,0,475
+0022300739,674,PT00M59.10S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,483
+0022300769,55,PT07M39.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,36
+0022300769,84,PT06M12.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks OFF.Foul (P1) (D.Mosher),Foul,Offensive,1,0,58
+0022300769,86,PT06M12.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1,0,59
+0022300769,126,PT02M46.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,87
+0022300769,127,PT02M40.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,25,255,26,Missed,1,,,0,h,MISS Hendricks 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,88
+0022300769,135,PT02M24.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,232,108,26,Missed,1,,,0,h,MISS Hendricks 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,93
+0022300769,137,PT02M17.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks Traveling Turnover (P2.T6),Turnover,Traveling,1,0,95
+0022300769,142,PT01M36.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,100
+0022300769,145,PT01M06.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,103
+0022300769,195,PT09M32.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks S.FOUL (P2.T2) (D.Guthrie),Foul,Shooting,1,0,143
+0022300769,205,PT08M41.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Markkanen FOR Hendricks,Substitution,,0,0,151
+0022300769,440,PT03M27.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks P.FOUL (P3.T3) (D.Guthrie),Foul,Personal,1,0,327
+0022300769,453,PT02M40.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks S.FOUL (P4.T4) (D.Mosher),Foul,Shooting,1,0,334
+0022300769,521,PT09M56.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks BLOCK (1 BLK),,,1,2,387
+0022300769,525,PT09M56.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Markkanen FOR Hendricks,Substitution,,0,0,389
+0022300788,70,PT06M42.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,223,2,0,Missed,1,,,0,h,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,52
+0022300788,75,PT06M22.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,191,167,25,Missed,1,,,0,h,MISS Hendricks 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,56
+0022300788,90,PT05M28.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,225,10,0,Missed,1,,,0,h,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,66
+0022300788,96,PT05M10.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,70
+0022300788,101,PT04M27.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,74
+0022300788,106,PT04M12.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks S.FOUL (P1.T1) (C.Washington),Foul,Shooting,1,0,79
+0022300788,109,PT04M12.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Collins FOR Hendricks,Substitution,,0,0,81
+0022300788,225,PT07M12.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks P.FOUL (P2.T4) (N.Sago),Foul,Personal,1,0,163
+0022300788,242,PT06M31.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-234,46,24,Made,1,47,54,101,h,Hendricks 24' 3PT Jump Shot (3 PTS) (George 4 AST),Made Shot,Jump Shot,1,3,174
+0022300788,276,PT03M50.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Markkanen FOR Hendricks,Substitution,,0,0,199
+0022300788,424,PT05M27.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,307
+0022300788,435,PT04M45.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,223,115,25,Missed,1,,,0,h,MISS Hendricks 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,316
+0022300788,450,PT03M19.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,13,71,7,Made,1,88,93,181,h,Hendricks 7' Turnaround Hook Shot (5 PTS),Made Shot,Turnaround Hook Shot,1,2,326
+0022300788,453,PT02M33.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,-81,110,14,Made,1,90,96,186,h,Hendricks 14' Pullup Jump Shot (7 PTS) (Dunn 3 AST),Made Shot,Pullup Jump shot,1,2,328
+0022300788,456,PT02M16.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,330
+0022300788,459,PT01M31.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,-119,240,27,Missed,1,,,0,h,MISS Hendricks 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,333
+0022300788,467,PT01M06.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Collins FOR Hendricks,Substitution,,0,0,340
+0022300788,635,PT02M00.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,10,16,2,Made,1,118,136,254,h,Hendricks 2' Running Dunk (9 PTS) (Lewis Jr. 1 AST),Made Shot,Running Dunk Shot,1,2,459
+0022300788,655,PT00M39.40S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,474
+0022300801,14,PT10M51.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,8
+0022300801,22,PT10M16.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,233,-2,0,Missed,1,,,0,h,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,15
+0022300801,37,PT09M07.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,26
+0022300801,55,PT07M33.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,41
+0022300801,60,PT07M07.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks S.FOUL (P1.T2) (R.Hussey),Foul,Shooting,1,0,45
+0022300801,78,PT05M54.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks S.FOUL (P2.T3) (M.Lindsay),Foul,Shooting,1,0,58
+0022300801,98,PT04M42.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,234,-16,0,Missed,1,,,0,h,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,73
+0022300801,109,PT03M50.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Markkanen FOR Hendricks,Substitution,,0,0,82
+0022300801,288,PT03M25.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Markkanen FOR Hendricks,Substitution,,0,0,211
+0022300801,312,PT02M15.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,224
+0022300801,313,PT02M08.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,190,215,29,Missed,1,,,0,h,MISS Hendricks 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,225
+0022300801,320,PT01M05.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,231
+0022300801,324,PT00M59.10S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Sexton FOR Hendricks,Substitution,,0,0,233
+0022300801,351,PT10M44.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,251
+0022300801,352,PT10M43.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,Made,1,57,60,117,h,Hendricks Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,252
+0022300801,373,PT08M48.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,119,230,26,Missed,1,,,0,h,MISS Hendricks 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,268
+0022300801,419,PT06M01.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,302
+0022300801,420,PT06M01.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,Made,1,71,74,145,h,Hendricks Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,303
+0022300801,423,PT06M01.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,72,74,146,h,Hendricks Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,305
+0022300801,437,PT04M48.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,318
+0022300801,438,PT04M47.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,Made,1,77,74,151,h,Hendricks Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,1,2,319
+0022300801,466,PT03M07.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,-239,6,24,Made,1,80,79,159,h,Hendricks 24' 3PT Jump Shot (10 PTS) (Dunn 1 AST),Made Shot,Jump Shot,1,3,338
+0022300801,470,PT02M44.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,-2,44,4,Made,1,82,79,161,h,Hendricks 4' Layup (12 PTS) (Dunn 2 AST),Made Shot,Layup Shot,1,2,341
+0022300801,477,PT01M57.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,347
+0022300801,481,PT01M46.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Markkanen FOR Hendricks,Substitution,,0,0,350
+0022300825,28,PT10M10.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks P.FOUL (P1.T1) (S.Mitchell),Foul,Personal,1,0,22
+0022300825,63,PT07M51.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,50
+0022300825,77,PT06M30.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,223,163,28,Missed,1,,,0,h,MISS Hendricks 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,62
+0022300825,110,PT03M49.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,-223,-21,0,Missed,1,,,0,h,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,85
+0022300825,112,PT03M40.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks BLOCK (1 BLK),,,1,2,88
+0022300825,130,PT02M33.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Sensabaugh FOR Hendricks,Substitution,,0,0,104
+0022300825,239,PT07M06.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-23,40,5,Made,1,50,27,77,h,Hendricks 5' Running Dunk (2 PTS) (Sexton 2 AST),Made Shot,Running Dunk Shot,1,2,178
+0022300825,275,PT04M32.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-227,-13,0,Missed,1,,,0,h,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,199
+0022300825,278,PT04M13.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,202
+0022300825,280,PT04M02.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,204
+0022300825,281,PT04M02.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,Made,1,56,32,88,h,Hendricks Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,205
+0022300825,296,PT02M40.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Markkanen FOR Hendricks,Substitution,,0,0,215
+0022300825,364,PT10M02.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,29,15,3,Made,1,67,45,112,h,Hendricks 3' Driving Dunk (6 PTS) (Sexton 4 AST),Made Shot,Driving Dunk Shot,1,2,263
+0022300825,381,PT09M17.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks S.FOUL (P2.T3) (S.Mitchell),Foul,Shooting,1,0,275
+0022300825,436,PT06M06.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks L.B.FOUL (P3.T4) (S.Mitchell),Foul,Loose Ball,1,0,319
+0022300825,478,PT04M09.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,-148,241,28,Missed,1,,,0,h,MISS Hendricks 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,349
+0022300825,495,PT03M13.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Markkanen FOR Hendricks,Substitution,,0,0,363
+0022300825,600,PT07M42.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,228,5,0,Made,1,103,91,194,h,Hendricks 3PT Jump Shot (9 PTS) (Sexton 7 AST),Made Shot,Jump Shot,1,3,434
+0022300825,602,PT07M28.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks P.FOUL (P4.T2) (M.Ervin),Foul,Personal,1,0,435
+0022300825,604,PT07M17.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks S.FOUL (P5.T3) (M.Ervin),Foul,Shooting,1,0,436
+0022300825,612,PT06M41.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks P.FOUL (P6.T4) (B.Forte),Foul,Personal,1,0,442
+0022300825,614,PT06M41.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: George FOR Hendricks,Substitution,,0,0,443
+0022300835,7,PT11M41.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,146,210,26,Missed,1,,,0,v,MISS Hendricks 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,3
+0022300835,9,PT11M26.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks STEAL (1 STL),,,1,0,6
+0022300835,45,PT08M04.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks S.FOUL (P1.T1) (D.Mosher),Foul,Shooting,1,0,37
+0022300835,61,PT06M43.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,-26,16,3,Made,1,12,4,16,v,Hendricks 3' Driving Floating Bank Jump Shot (2 PTS) (George 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,51
+0022300835,94,PT05M05.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,73
+0022300835,100,PT04M16.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,-18,262,26,Made,1,17,9,26,v,Hendricks 26' 3PT Jump Shot (5 PTS) (Clarkson 2 AST),Made Shot,Jump Shot,1,3,78
+0022300835,103,PT03M52.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,80
+0022300835,107,PT03M28.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,84
+0022300835,115,PT03M09.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Sensabaugh FOR Hendricks,Substitution,,0,0,92
+0022300835,230,PT07M12.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,174
+0022300835,365,PT04M23.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Defensive Goaltending,Violation,Defensive Goaltending,1,0,208
+0022300835,510,PT03M35.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Markkanen FOR Hendricks,Substitution,,0,0,217
+0022300835,347,PT10M35.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,-38,63,7,Missed,1,,,0,v,MISS Hendricks 7' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,277
+0022300835,349,PT10M25.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks STEAL (2 STL),,,1,0,280
+0022300835,358,PT09M52.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks S.FOUL (P2.T1) (D.Mosher),Foul,Shooting,1,0,287
+0022300835,372,PT09M06.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,-91,30,10,Missed,1,,,0,v,MISS Hendricks 10' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,295
+0022300835,700,PT08M50.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,300
+0022300835,435,PT05M34.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,-191,190,27,Made,1,72,63,135,v,Hendricks 27' 3PT Jump Shot (8 PTS) (George 4 AST),Made Shot,Jump Shot,1,3,338
+0022300835,454,PT04M00.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,349
+0022300835,459,PT03M57.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Markkanen FOR Hendricks,Substitution,,0,0,351
+0022300835,611,PT05M15.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks S.FOUL (P3.T3) (D.Mosher),Foul,Shooting,1,0,456
+0022300835,622,PT04M40.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,463
+0022300835,647,PT03M38.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,-20,197,20,Missed,1,,,0,v,MISS Hendricks 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,481
+0022300835,661,PT01M48.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,494
+0022300835,689,PT00M40.50S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,-238,27,24,Missed,1,,,0,v,MISS Hendricks 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,514
+0022300850,16,PT10M14.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,-10,62,6,Missed,1,,,0,v,MISS Hendricks 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,10
+0022300850,28,PT09M10.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,8,4,12,v,Hendricks Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,18
+0022300850,29,PT09M10.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,8,5,13,v,Hendricks Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,19
+0022300850,41,PT07M53.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks BLOCK (1 BLK),,,1,2,31
+0022300850,53,PT06M56.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,229,37,0,Missed,1,,,0,v,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,40
+0022300850,60,PT06M45.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks S.FOUL (P1.T1) (J.Conley),Foul,Shooting,1,0,45
+0022300850,63,PT06M45.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Dunn FOR Hendricks,Substitution,,0,0,47
+0022300850,195,PT09M03.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,144
+0022300850,199,PT08M45.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,148
+0022300850,200,PT08M33.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,176,173,25,Made,1,34,28,62,v,Hendricks 25' 3PT Jump Shot (5 PTS) (Dunn 1 AST),Made Shot,Jump Shot,1,3,149
+0022300850,208,PT08M17.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks S.FOUL (P2.T1) (M.Kogut),Foul,Shooting,1,0,153
+0022300850,212,PT08M14.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,156
+0022300850,244,PT06M02.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks STEAL (1 STL),,,1,0,179
+0022300850,249,PT05M51.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,183
+0022300850,266,PT03M37.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,230,26,0,Missed,1,,,0,v,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,195
+0022300850,271,PT03M27.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Collins FOR Hendricks,Substitution,,0,0,199
+0022300850,339,PT10M14.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks S.FOUL (P3.T1) (K.Scott),Foul,Shooting,1,0,245
+0022300850,344,PT09M50.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,249
+0022300850,345,PT09M50.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks Step Out of Bounds Turnover (P1.T8),Turnover,Step Out of Bounds Turnover,1,0,250
+0022300850,352,PT09M10.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,255
+0022300850,355,PT08M58.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,26,18,3,Made,1,59,58,117,v,Hendricks 3' Driving Layup (7 PTS) (George 8 AST),Made Shot,Driving Layup Shot,1,2,257
+0022300850,385,PT06M28.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Clarkson FOR Hendricks,Substitution,,0,0,281
+0022300850,512,PT08M38.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,372
+0022300850,539,PT06M13.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,-232,31,0,Made,1,97,97,194,v,Hendricks 3PT Jump Shot (10 PTS) (George 9 AST),Made Shot,Jump Shot,1,3,393
+0022300850,541,PT05M52.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks S.FOUL (P4.PN) (M.Kogut),Foul,Shooting,1,0,394
+0022300850,566,PT04M31.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Sexton FOR Hendricks,Substitution,,0,0,413
+0022300867,11,PT11M29.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+0022300867,20,PT10M32.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks BLOCK (1 BLK),,,1,2,14
+0022300867,45,PT07M15.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,-114,231,26,Missed,1,,,0,v,MISS Hendricks 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,35
+0022300867,53,PT06M09.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,26,14,3,Made,1,18,16,34,v,Hendricks 3' Driving Layup (2 PTS) (Sexton 2 AST),Made Shot,Driving Layup Shot,1,2,41
+0022300867,73,PT05M20.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Yurtseven FOR Hendricks,Substitution,,0,0,54
+0022300867,258,PT05M02.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,187
+0022300867,259,PT05M01.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,2,14,1,Made,1,48,49,97,v,Hendricks 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,188
+0022300867,262,PT04M51.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,190
+0022300867,279,PT04M06.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-153,213,26,Missed,1,,,0,v,MISS Hendricks 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,199
+0022300867,281,PT04M02.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,201
+0022300867,283,PT04M00.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,45,114,12,Made,1,50,51,101,v,Hendricks 12' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,202
+0022300867,297,PT02M16.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,210
+0022300867,299,PT02M09.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,212
+0022300867,300,PT02M09.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,Made,1,55,57,112,v,Hendricks Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,2,213
+0022300867,334,PT10M35.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,240
+0022300867,337,PT10M02.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks BLOCK (2 BLK),,,1,2,243
+0022300867,369,PT07M25.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks S.FOUL (P1.T2) (M.Boland),Foul,Shooting,1,0,264
+0022300867,386,PT06M37.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,276
+0022300867,394,PT05M53.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,11,26,3,Missed,1,,,0,v,MISS Hendricks 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,282
+0022300867,413,PT04M47.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks S.FOUL (P2.T4) (M.Boland),Foul,Shooting,1,0,295
+0022300867,426,PT04M16.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Horton-Tucker FOR Hendricks,Substitution,,0,0,303
+0022300867,570,PT05M42.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,398
+0022300867,574,PT05M27.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,403
+0022300867,576,PT05M20.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,405
+0022300867,577,PT05M19.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,0,406
+0022300867,592,PT04M54.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:4 Def:8),Rebound,Unknown,0,0,416
+0022300867,635,PT01M11.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks S.FOUL (P3.PN) (C.Blair),Foul,Shooting,1,0,447
+0022300867,641,PT00M39.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:4 Def:9),Rebound,Unknown,1,0,451
+0022300867,647,PT00M24.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Dunn FOR Hendricks,Substitution,,0,0,456
+0022300882,13,PT10M50.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,60,260,27,Made,1,5,4,9,h,Hendricks 27' 3PT Jump Shot (3 PTS) (George 1 AST),Made Shot,Jump Shot,1,3,6
+0022300882,29,PT09M36.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,18,29,3,Made,1,9,4,13,h,Hendricks 3' Driving Layup (5 PTS) (Sexton 1 AST),Made Shot,Driving Layup Shot,1,2,20
+0022300882,36,PT09M11.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks P.FOUL (P1.T1) (K.Cutler),Foul,Personal,1,0,26
+0022300882,81,PT05M32.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks S.FOUL (P2.T3) (A.Moyer-Gleich),Foul,Shooting,1,0,57
+0022300882,87,PT05M32.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Clarkson FOR Hendricks,Substitution,,0,0,61
+0022300882,238,PT07M40.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,134,214,25,Made,1,52,56,108,h,Hendricks 25' 3PT Jump Shot (8 PTS) (Juzang 1 AST),Made Shot,Jump Shot,1,3,166
+0022300882,241,PT07M20.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,168
+0022300882,252,PT06M06.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,178
+0022300882,314,PT01M27.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks S.FOUL (P3.T2) (K.Cutler),Foul,Shooting,1,0,226
+0022300966,16,PT11M10.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,11
+0022300966,17,PT11M02.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,22,256,26,Missed,1,,,0,h,MISS Hendricks 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,12
+0022300966,28,PT10M01.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks BLOCK (1 BLK),,,1,2,22
+0022300966,30,PT09M59.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,23
+0022300966,33,PT09M24.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,-214,144,26,Missed,1,,,0,h,MISS Hendricks 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,26
+0022300966,43,PT08M18.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks S.FOUL (P1.T1) (T.Ford),Foul,Shooting,1,0,34
+0022300966,61,PT07M02.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,230,8,0,Missed,1,,,0,h,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,47
+0022300966,66,PT06M34.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,51
+0022300966,68,PT06M25.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,53
+0022300966,69,PT06M25.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,Made,1,16,16,32,h,Hendricks Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,54
+0022300966,75,PT06M05.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Potter FOR Hendricks,Substitution,,0,0,59
+0022300966,177,PT11M12.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,126
+0022300966,199,PT08M58.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,143
+0022300966,228,PT07M44.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,37,39,5,Missed,1,,,0,h,MISS Hendricks 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,164
+0022300966,229,PT07M42.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,165
+0022300966,230,PT07M41.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-18,27,3,Missed,1,,,0,h,MISS Hendricks 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,166
+0022300966,241,PT06M38.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,45,44,89,h,Hendricks Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,173
+0022300966,252,PT06M38.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,MISS Hendricks Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,179
+0022300966,261,PT06M20.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Kessler FOR Hendricks,Substitution,,0,0,187
+0022300966,359,PT10M45.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,258
+0022300966,360,PT10M41.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,49,26,6,Missed,1,,,0,h,MISS Hendricks 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,259
+0022300966,367,PT10M35.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,265
+0022300966,371,PT09M59.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,268
+0022300966,373,PT09M44.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks S.FOUL (P2.T2) (T.Ford),Foul,Shooting,1,0,270
+0022300966,379,PT09M18.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks BLOCK (2 BLK),,,1,2,276
+0022300966,382,PT09M15.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks BLOCK (3 BLK),,,1,2,279
+0022300966,407,PT07M41.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks S.FOUL (P3.T4) (R.Acosta),Foul,Shooting,1,0,297
+0022300966,414,PT07M17.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks P.FOUL (P4.PN) (J.Butler),Foul,Personal,1,0,302
+0022300966,431,PT06M16.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks S.FOUL (P5.PN) (R.Acosta),Foul,Shooting,1,0,316
+0022300966,459,PT04M19.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Potter FOR Hendricks,Substitution,,0,0,336
+0022300974,13,PT10M48.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,9
+0022300974,15,PT10M37.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,-123,17,12,Missed,1,,,0,h,MISS Hendricks 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,10
+0022300974,33,PT09M04.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,-228,-6,0,Missed,1,,,0,h,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,27
+0022300974,51,PT07M18.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks S.FOUL (P1.T2) (P.Fraher),Foul,Shooting,1,0,44
+0022300974,75,PT06M00.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,66
+0022300974,98,PT04M11.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks BLOCK (1 BLK),,,1,2,84
+0022300974,108,PT03M07.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,-20,21,3,Made,1,14,16,30,h,Hendricks 3' Running Layup (2 PTS) (Sexton 1 AST),Made Shot,Running Layup Shot,1,2,93
+0022300974,131,PT01M50.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Preston FOR Hendricks,Substitution,,0,0,112
+0022300974,287,PT02M27.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-225,-16,0,Made,1,38,43,81,h,Hendricks 3PT Jump Shot (5 PTS) (Dunn 3 AST),Made Shot,Jump Shot,1,3,216
+0022300974,291,PT02M07.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,218
+0022300974,301,PT01M38.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,0,228
+0022300974,312,PT00M55.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,44,46,90,h,Hendricks Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,237
+0022300974,313,PT00M55.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,MISS Hendricks Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,238
+0022300974,316,PT00M41.30S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,241
+0022300974,357,PT11M11.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,262
+0022300974,358,PT11M02.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,-185,235,30,Missed,1,,,0,h,MISS Hendricks 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,263
+0022300974,362,PT10M49.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,266
+0022300974,375,PT09M20.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,276
+0022300974,404,PT06M25.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,-232,42,24,Missed,1,,,0,h,MISS Hendricks 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,297
+0022300974,420,PT05M23.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks Violation:Defensive Goaltending (E.Malloy),Violation,Defensive Goaltending,1,0,310
+0022300974,421,PT05M06.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,229,13,0,Missed,1,,,0,h,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,311
+0022300974,433,PT04M23.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,320
+0022300974,448,PT02M45.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks STEAL (1 STL),,,1,0,332
+0022300974,461,PT01M08.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,227,-3,0,Missed,1,,,0,h,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,340
+0022300974,470,PT00M21.90S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,347
+0022300974,571,PT05M30.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,418
+0022300974,572,PT05M23.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,222,29,0,Made,1,88,96,184,h,Hendricks 3PT Jump Shot (9 PTS) (Sensabaugh 2 AST),Made Shot,Jump Shot,1,3,419
+0022300974,590,PT03M58.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,89,101,190,h,Hendricks Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,430
+0022300974,593,PT03M58.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,90,101,191,h,Hendricks Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,432
+0022300974,615,PT01M40.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,36,197,20,Missed,1,,,0,h,MISS Hendricks 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,448
+0022300974,630,PT01M15.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,-36,46,6,Made,1,96,114,210,h,Hendricks 6' Hook Shot (13 PTS) (Sexton 8 AST),Made Shot,Hook Shot,1,2,457
+0022300974,638,PT00M27.20S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,22,25,3,Made,1,100,119,219,h,Hendricks 3' Alley Oop Dunk (15 PTS) (Sexton 10 AST),Made Shot,Alley Oop Dunk Shot,1,2,461
+0022300987,41,PT07M38.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,33
+0022300987,42,PT07M28.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,-121,230,26,Made,1,12,8,20,h,Hendricks 26' 3PT Jump Shot (3 PTS) (George 2 AST),Made Shot,Jump Shot,1,3,34
+0022300987,56,PT06M41.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks STEAL (1 STL),,,1,0,44
+0022300987,82,PT04M54.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Sensabaugh FOR Hendricks,Substitution,,0,0,61
+0022300987,239,PT04M07.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,237,8,24,Made,1,51,46,97,h,Hendricks 24' 3PT Jump Shot (6 PTS) (George 3 AST),Made Shot,Jump Shot,1,3,170
+0022300987,242,PT03M49.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,172
+0022300987,253,PT03M17.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-10,-2,1,Made,1,53,46,99,h,Hendricks 1' Running Dunk (8 PTS) (Markkanen 1 AST),Made Shot,Running Dunk Shot,1,2,180
+0022300987,314,PT10M02.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks BLOCK (1 BLK),,,1,2,220
+0022300987,323,PT09M36.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,17,5,2,Missed,1,,,0,h,MISS Hendricks 2' Layup,Missed Shot,Layup Shot,1,2,228
+0022300987,327,PT09M23.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,232
+0022300987,359,PT06M42.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,260
+0022300987,368,PT05M48.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,269
+0022300987,432,PT01M32.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,80,253,27,Missed,1,,,0,h,MISS Hendricks 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,311
+0022300987,447,PT00M13.10S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks P.FOUL (P1.T3) (D.Collins),Foul,Personal,1,0,322
+0022300987,520,PT07M28.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,370
+0022300987,536,PT06M00.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,-238,85,25,Missed,1,,,0,h,MISS Hendricks 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,384
+0022300987,541,PT05M35.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Dunn FOR Hendricks,Substitution,,0,0,389
+0022301000,13,PT11M34.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,2,1,3,v,Hendricks Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,7
+0022301000,14,PT11M34.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,2,2,4,v,Hendricks Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,8
+0022301000,23,PT10M42.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,16
+0022301000,34,PT09M29.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks BLOCK (1 BLK),,,1,2,25
+0022301000,47,PT08M16.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks S.FOUL (P1.T2) (C.Washington),Foul,Shooting,1,0,36
+0022301000,65,PT06M54.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,51
+0022301000,82,PT05M47.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,237,22,24,Missed,1,,,0,v,MISS Hendricks 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,65
+0022301000,104,PT04M14.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Kessler FOR Hendricks,Substitution,,0,0,85
+0022301000,281,PT02M43.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks BLOCK (2 BLK),,,1,2,210
+0022301000,290,PT02M06.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks BLOCK (3 BLK),,,1,2,219
+0022301000,316,PT00M17.30S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,233,16,0,Made,1,53,54,107,v,Hendricks 3PT Jump Shot (5 PTS) (Sexton 5 AST),Made Shot,Jump Shot,1,3,233
+0022301000,345,PT09M59.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,251
+0022301000,348,PT09M58.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,57,60,117,v,Hendricks Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,253
+0022301000,349,PT09M58.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,57,61,118,v,Hendricks Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,254
+0022301000,365,PT08M37.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks S.FOUL (P2.T3) (N.Sago),Foul,Shooting,1,0,268
+0022301000,405,PT06M16.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,298
+0022301000,419,PT05M30.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,-18,41,4,Made,1,72,69,141,v,Hendricks 4' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,1,2,309
+0022301000,423,PT04M57.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,-238,-14,24,Missed,1,,,0,v,MISS Hendricks 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,312
+0022301000,439,PT03M09.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Juzang FOR Hendricks,Substitution,,0,0,326
+0022301000,561,PT06M58.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks P.FOUL (P3.T4) (K.Lane),Foul,Personal,1,0,418
+0022301000,585,PT05M39.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,223,-8,0,Missed,1,,,0,v,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,435
+0022301000,592,PT05M07.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,-208,163,26,Made,1,108,93,201,v,Hendricks 26' 3PT Jump Shot (12 PTS) (Sexton 7 AST),Made Shot,Jump Shot,1,3,441
+0022301000,604,PT04M07.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Sensabaugh FOR Hendricks,Substitution,,0,0,450
+0022301008,17,PT10M37.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks S.FOUL (P1.T1) (K.Cutler),Foul,Shooting,1,0,10
+0022301008,101,PT10M24.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,235,26,24,Missed,1,,,0,v,MISS Hendricks 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,14
+0022301008,43,PT08M37.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,28
+0022301008,71,PT06M11.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,16,5,2,Made,1,12,12,24,v,Hendricks 2' Cutting Layup Shot (2 PTS) (Sexton 1 AST),Made Shot,Cutting Layup Shot,1,2,47
+0022301008,82,PT05M15.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,55
+0022301008,95,PT04M47.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks S.FOUL (P2.T4) (J.Williams),Foul,Shooting,1,0,62
+0022301008,115,PT02M57.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Juzang FOR Hendricks,Substitution,,0,0,78
+0022301008,272,PT04M47.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-240,26,24,Missed,1,,,0,v,MISS Hendricks 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,187
+0022301008,308,PT02M00.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,214
+0022301008,355,PT10M34.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks STEAL (1 STL),,,1,0,248
+0022301008,373,PT09M11.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks S.FOUL (P3.T2) (J.Williams),Foul,Shooting,1,0,261
+0022301008,451,PT03M04.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks S.FOUL (P4.T4) (K.Cutler),Foul,Shooting,1,0,317
+0022301008,456,PT03M04.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Lewis Jr. FOR Hendricks,Substitution,,0,0,321
+0022301008,620,PT05M01.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,-228,45,0,Made,1,102,86,188,v,Hendricks 3PT Jump Shot (5 PTS) (Markkanen 2 AST),Made Shot,Jump Shot,1,3,425
+0022301008,683,PT01M04.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks S.FOUL (P5.PN) (J.Sterling),Foul,Shooting,1,0,471
+0022301024,23,PT10M22.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,-71,254,26,Made,1,4,5,9,v,Hendricks 26' 3PT Jump Shot (3 PTS) (Sexton 1 AST),Made Shot,Jump Shot,1,3,16
+0022301024,26,PT10M04.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks S.FOUL (P1.T2) (M.Lindsay),Foul,Shooting,1,0,18
+0022301024,50,PT08M15.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,15,65,7,Missed,1,,,0,v,MISS Hendricks 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,35
+0022301024,54,PT07M58.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,229,7,0,Missed,1,,,0,v,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,38
+0022301024,57,PT07M40.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,41
+0022301024,69,PT06M23.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Dunn FOR Hendricks,Substitution,,0,0,49
+0022301024,247,PT06M25.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,224,22,0,Missed,1,,,0,v,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,175
+0022301024,294,PT03M43.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks P.FOUL (P2.T1) (M.Lindsay),Foul,Personal,1,0,208
+0022301024,320,PT01M30.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-5,52,5,Missed,1,,,0,v,MISS Hendricks 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,227
+0022301024,321,PT01M26.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,228
+0022301024,322,PT01M26.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,Made,1,79,51,130,v,Hendricks Tip Dunk Shot (5 PTS),Made Shot,Tip Dunk Shot,1,2,229
+0022301024,343,PT11M47.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,244
+0022301024,347,PT10M50.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,-238,3,24,Missed,1,,,0,v,MISS Hendricks 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,247
+0022301024,351,PT10M32.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks S.FOUL (P3.T1) (M.Lindsay),Foul,Shooting,1,0,250
+0022301024,378,PT08M36.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,271
+0022301024,383,PT08M11.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,275
+0022301024,389,PT07M49.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks BLOCK (1 BLK),,,1,2,281
+0022301024,408,PT06M22.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,9,16,2,Made,1,97,73,170,v,Hendricks 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,297
+0022301024,430,PT04M55.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,313
+0022301024,442,PT03M46.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,21,24,3,Made,1,104,80,184,v,Hendricks 3' Cutting Dunk Shot (9 PTS) (Sensabaugh 1 AST),Made Shot,Cutting Dunk Shot,1,2,325
+0022301024,467,PT02M28.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Sexton FOR Hendricks,Substitution,,0,0,344
+0022301024,631,PT01M07.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,462
+0022301041,15,PT10M58.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,165,201,26,Missed,1,,,0,h,MISS Hendricks 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,9
+0022301041,23,PT10M14.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks S.FOUL (P1.T1) (M.Myers),Foul,Shooting,1,0,15
+0022301041,40,PT08M57.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,23,23,3,Made,1,7,6,13,h,Hendricks 3' Running Layup (2 PTS) (George 2 AST),Made Shot,Running Layup Shot,1,2,31
+0022301041,44,PT08M57.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,8,6,14,h,Hendricks Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,33
+0022301041,85,PT05M30.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,62
+0022301041,97,PT03M54.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,223,5,0,Missed,1,,,0,h,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,72
+0022301041,123,PT02M16.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Sexton FOR Hendricks,Substitution,,0,0,89
+0022301041,227,PT08M35.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-32,43,5,Missed,1,,,0,h,MISS Hendricks 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,155
+0022301041,265,PT06M11.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,184
+0022301041,266,PT06M11.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-39,20,4,Made,1,56,48,104,h,Hendricks 4' Putback Layup (5 PTS),Made Shot,Putback Layup Shot,1,2,185
+0022301041,268,PT05M53.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks S.FOUL (P2.T3) (M.Myers),Foul,Shooting,1,0,187
+0022301041,293,PT04M23.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,206
+0022301041,302,PT03M17.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-94,252,27,Missed,1,,,0,h,MISS Hendricks 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,215
+0022301041,305,PT03M07.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,218
+0022301041,310,PT02M34.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-239,18,24,Made,1,61,55,116,h,Hendricks 24' 3PT Jump Shot (8 PTS) (Markkanen 1 AST),Made Shot,Jump Shot,1,3,222
+0022301041,321,PT01M46.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks S.FOUL (P3.T4) (B.Forte),Foul,Shooting,1,0,231
+0022301041,353,PT11M00.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,250
+0022301041,394,PT07M06.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,234,80,25,Missed,1,,,0,h,MISS Hendricks 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,282
+0022301041,444,PT03M51.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,322
+0022301041,452,PT03M35.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Markkanen FOR Hendricks,Substitution,,0,0,328
+0022301041,672,PT06M02.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks BLOCK (1 BLK),,,1,2,424
+0022301041,597,PT04M59.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Markkanen FOR Hendricks,Substitution,,0,0,434
+0022301058,12,PT11M00.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks STEAL (1 STL),,,1,0,10
+0022301058,91,PT04M56.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,37,242,24,Missed,1,,,0,h,MISS Hendricks 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,68
+0022301058,94,PT04M45.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,71
+0022301058,101,PT04M05.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,78
+0022301058,102,PT04M02.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,-154,189,24,Missed,1,,,0,h,MISS Hendricks 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,79
+0022301058,105,PT04M02.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Horton-Tucker FOR Hendricks,Substitution,,0,0,81
+0022301058,242,PT07M09.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,174
+0022301058,249,PT06M16.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-232,-4,0,Made,1,30,38,68,h,Hendricks 3PT Running Jump Shot (3 PTS) (Sexton 1 AST),Made Shot,Running Jump Shot,1,3,180
+0022301058,271,PT04M43.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,195
+0022301058,298,PT02M23.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks BLOCK (1 BLK),,,1,2,215
+0022301058,302,PT02M20.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks P.FOUL (P1.T1) (J.Goble),Foul,Personal,1,0,217
+0022301058,346,PT10M23.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,244
+0022301058,354,PT09M40.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,251
+0022301058,376,PT07M41.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks STEAL (2 STL),,,1,0,269
+0022301058,378,PT07M33.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,2,44,4,Made,1,57,69,126,h,Hendricks 4' Driving Dunk (5 PTS) (Sexton 5 AST),Made Shot,Driving Dunk Shot,1,2,270
+0022301058,386,PT06M51.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,277
+0022301058,395,PT06M02.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks P.FOUL (P2.T2) (C.Kirkland),Foul,Personal,1,0,283
+0022301058,416,PT04M39.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,-211,154,26,Missed,1,,,0,h,MISS Hendricks 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,296
+0022301058,419,PT04M25.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,299
+0022301058,438,PT03M36.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Samanic FOR Hendricks,Substitution,,0,0,308
+0022301058,592,PT04M44.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,228,13,0,Made,1,99,109,208,h,Hendricks 3PT Jump Shot (8 PTS) (George 7 AST),Made Shot,Jump Shot,1,3,418
+0022301058,653,PT00M07.20S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,-7,27,3,Missed,1,,,0,h,MISS Hendricks 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,465
+0022301058,656,PT00M03.90S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks Personal Take Foul (P3.PN) (S.Wall),Foul,Personal Take,1,0,468
+0022301058,661,PT00M00.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,-225,127,26,Missed,1,,,0,h,MISS Hendricks 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,472
+0022301072,11,PT11M04.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+0022301072,12,PT10M49.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,233,29,0,Missed,1,,,0,h,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,8
+0022301072,31,PT08M59.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks S.FOUL (P1.T1) (J.Capers),Foul,Shooting,1,0,25
+0022301072,79,PT05M47.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,66
+0022301072,80,PT05M41.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,-71,240,25,Missed,1,,,0,h,MISS Hendricks 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,67
+0022301072,87,PT05M01.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,73
+0022301072,105,PT04M04.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,65,67,9,Missed,1,,,0,h,MISS Hendricks 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,86
+0022301072,134,PT01M52.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Kessler FOR Hendricks,Substitution,,0,0,107
+0022301072,272,PT04M34.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,212
+0022301072,313,PT00M47.10S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,34,24,4,Made,1,45,39,84,h,Hendricks 4' Running Alley Oop Dunk Shot (2 PTS) (Sensabaugh 3 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,247
+0022301072,340,PT11M10.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,263
+0022301072,356,PT09M31.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks BLOCK (1 BLK),,,1,2,276
+0022301072,389,PT06M23.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,300
+0022301072,407,PT05M19.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks BLOCK (2 BLK),,,1,2,316
+0022301072,433,PT04M39.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,333
+0022301072,465,PT02M00.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Potter FOR Hendricks,Substitution,,0,0,354
+0022301072,608,PT03M02.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks S.FOUL (P2.PN) (J.Capers),Foul,Shooting,1,0,460
+0022301072,613,PT02M50.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,227,11,0,Made,1,91,93,184,h,Hendricks 3PT Jump Shot (5 PTS) (Juzang 3 AST),Made Shot,Jump Shot,1,3,464
+0022301072,626,PT01M48.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,472
+0022301072,627,PT01M27.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,143,216,26,Missed,1,,,0,h,MISS Hendricks 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,473
+0022301072,634,PT01M02.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,479
+0022301072,641,PT00M09.50S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,485
+0022301072,651,PT00M01.20S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,-190,277,34,Made,1,100,101,201,h,Hendricks 34' 3PT Jump Shot (8 PTS) (Sensabaugh 5 AST),Made Shot,Jump Shot,1,3,492
+0022301086,30,PT08M59.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,29,151,15,Made,1,4,6,10,v,Hendricks 15' Pullup Jump Shot (2 PTS) (Sensabaugh 1 AST),Made Shot,Pullup Jump shot,1,2,23
+0022301086,47,PT07M09.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,-126,208,24,Missed,1,,,0,v,MISS Hendricks 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,34
+0022301086,81,PT05M08.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,235,-13,24,Made,1,17,15,32,v,Hendricks 24' 3PT Jump Shot (5 PTS) (Dunn 1 AST),Made Shot,Jump Shot,1,3,55
+0022301086,94,PT03M29.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: George FOR Hendricks,Substitution,,0,0,65
+0022301086,296,PT01M18.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks S.FOUL (P1.PN) (K.Lane),Foul,Shooting,1,0,210
+0022301086,308,PT00M19.30S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,170,189,25,Made,1,53,52,105,v,Hendricks 25' 3PT Jump Shot (8 PTS) (Kessler 1 AST),Made Shot,Jump Shot,1,3,219
+0022301086,357,PT09M40.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,233,2,0,Missed,1,,,0,v,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,251
+0022301086,382,PT07M13.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Dunn FOR Hendricks,Substitution,,0,0,270
+0022301086,491,PT11M38.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,7,199,20,Missed,1,,,0,v,MISS Hendricks 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,350
+0022301086,498,PT11M09.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,98,78,176,v,Hendricks Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,355
+0022301086,499,PT11M09.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,98,79,177,v,Hendricks Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,356
+0022301086,500,PT11M00.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks P.FOUL (P2.T1) (K.Lane),Foul,Personal,1,0,357
+0022301086,504,PT10M33.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,360
+0022301086,505,PT10M32.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,6,39,4,Missed,1,,,0,v,MISS Hendricks 4' Putback Dunk,Missed Shot,Putback Dunk Shot,1,2,361
+0022301086,506,PT10M31.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,362
+0022301086,599,PT10M30.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,363
+0022301086,519,PT09M39.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,375
+0022301086,529,PT08M59.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,-33,12,4,Made,1,100,81,181,v,Hendricks 4' Running Layup (12 PTS) (George 2 AST),Made Shot,Running Layup Shot,1,2,381
+0022301086,543,PT08M59.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,MISS Hendricks Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,387
+0022301086,554,PT08M05.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,238,75,25,Made,1,104,86,190,v,Hendricks 25' 3PT Jump Shot (15 PTS) (Dunn 6 AST),Made Shot,Jump Shot,1,3,396
+0022301086,566,PT07M30.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,-238,4,24,Made,1,105,89,194,v,Hendricks 24' 3PT Jump Shot (18 PTS) (Dunn 7 AST),Made Shot,Jump Shot,1,3,404
+0022301086,590,PT06M16.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Sensabaugh FOR Hendricks,Substitution,,0,0,418
+0022301086,648,PT02M05.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,162,28,16,Missed,1,,,0,v,MISS Hendricks 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,459
+0022301086,650,PT01M54.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks S.FOUL (P3.PN) (M.Boland),Foul,Shooting,1,0,461
+0022301100,16,PT10M41.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,6
+0022301100,29,PT09M36.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,-197,164,26,Made,1,7,8,15,h,Hendricks 26' 3PT Jump Shot (3 PTS) (George 2 AST),Made Shot,Jump Shot,1,3,14
+0022301100,54,PT06M53.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,163,-9,16,Missed,1,,,0,h,MISS Hendricks 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,31
+0022301100,72,PT04M47.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks S.FOUL (P1.T2) (S.Twardoski),Foul,Shooting,1,0,44
+0022301100,74,PT04M47.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Dunn FOR Hendricks,Substitution,,0,0,45
+0022301100,230,PT06M33.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,157
+0022301100,275,PT03M34.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,230,41,0,Missed,1,,,0,h,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,190
+0022301100,303,PT01M55.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,15,52,5,Made,1,47,61,108,h,Hendricks 5' Finger Roll Layup (5 PTS) (Sexton 3 AST),Made Shot,Finger Roll Layup Shot,1,2,212
+0022301100,305,PT01M38.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks STEAL (1 STL),,,1,0,214
+0022301100,323,PT00M26.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-37,68,8,Missed,1,,,0,h,MISS Hendricks 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,226
+0022301100,333,PT11M45.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,-97,226,25,Missed,1,,,0,h,MISS Hendricks 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,234
+0022301100,353,PT09M13.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,251
+0022301100,369,PT07M53.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,-228,-23,0,Made,1,59,73,132,h,Hendricks 3PT Jump Shot (8 PTS) (Sexton 6 AST),Made Shot,Jump Shot,1,3,264
+0022301100,372,PT07M34.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,230,41,0,Made,1,62,73,135,h,Hendricks 3PT Jump Shot (11 PTS) (George 3 AST),Made Shot,Jump Shot,1,3,266
+0022301100,408,PT04M53.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Horton-Tucker FOR Hendricks,Substitution,,0,0,291
+0022301100,574,PT05M25.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks S.FOUL (P2.T4) (T.Ford),Foul,Shooting,1,0,408
+0022301100,600,PT04M05.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks P.FOUL (P3.PN) (S.Twardoski),Foul,Personal,1,0,429
+0022301100,626,PT02M24.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,-23,16,3,Missed,1,,,0,h,MISS Hendricks 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,447
+0022301100,634,PT01M37.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,22,47,5,Missed,1,,,0,h,MISS Hendricks 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,453
+0022301100,635,PT01M37.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,454
+0022301100,636,PT01M37.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,Made,1,106,127,233,h,Hendricks Tip Layup Shot (13 PTS),Made Shot,Tip Layup Shot,1,2,455
+0022301100,639,PT01M13.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,170,190,25,Made,1,109,127,236,h,Hendricks 25' 3PT Running Pull-Up Jump Shot (16 PTS) (Sensabaugh 4 AST),Made Shot,Running Pull-Up Jump Shot,1,3,458
+0022301100,645,PT00M38.80S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks STEAL (2 STL),,,1,0,462
+0022301100,647,PT00M35.70S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,6,17,2,Made,1,113,129,242,h,Hendricks 2' Running Dunk (18 PTS),Made Shot,Running Dunk Shot,1,2,463
+0022301126,37,PT08M53.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,26
+0022301126,55,PT06M42.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,-235,21,24,Made,1,24,7,31,v,Hendricks 24' 3PT Jump Shot (3 PTS) (George 1 AST),Made Shot,Jump Shot,1,3,42
+0022301126,63,PT06M25.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Dunn FOR Hendricks,Substitution,,0,0,46
+0022301126,447,PT02M45.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,-13,42,4,Missed,1,,,0,v,MISS Hendricks 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,332
+0022301126,477,PT01M02.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,-5,5,1,Made,1,99,79,178,v,Hendricks 1' Running Alley Oop Dunk Shot (5 PTS) (George 4 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,358
+0022301126,539,PT08M43.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,404
+0022301126,545,PT08M15.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Bazley FOR Hendricks,Substitution,,0,0,409
+0022301142,9,PT11M22.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,228,8,0,Made,1,0,3,3,v,Hendricks 3PT Jump Shot (3 PTS) (Sensabaugh 1 AST),Made Shot,Jump Shot,1,3,5
+0022301142,41,PT07M27.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,-176,200,27,Missed,1,,,0,v,MISS Hendricks 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,30
+0022301142,45,PT06M51.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,-100,74,12,Missed,1,,,0,v,MISS Hendricks 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,33
+0022301142,53,PT06M14.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Lewis Jr. FOR Hendricks,Substitution,,0,0,41
+0022301142,243,PT04M28.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,MISS Hendricks Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,177
+0022301142,245,PT04M28.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,62,42,104,v,Hendricks Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,179
+0022301142,283,PT01M13.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,232,-6,0,Missed,1,,,0,v,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,210
+0022301142,311,PT10M34.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,226
+0022301142,315,PT10M23.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,229
+0022301142,348,PT07M09.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,98,261,28,Made,1,81,63,144,v,Hendricks 28' 3PT Jump Shot (7 PTS) (Sexton 5 AST),Made Shot,Jump Shot,1,3,253
+0022301142,351,PT06M46.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,255
+0022301142,360,PT06M28.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,-233,-26,0,Made,1,83,66,149,v,Hendricks 3PT Jump Shot (10 PTS) (Sexton 6 AST),Made Shot,Jump Shot,1,3,263
+0022301142,362,PT06M00.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks BLOCK (1 BLK),,,1,2,265
+0022301142,398,PT04M22.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Potter FOR Hendricks,Substitution,,0,0,291
+0022301142,567,PT04M04.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,-223,37,0,Missed,1,,,0,v,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,407
+0022301142,576,PT02M47.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks Backcourt Turnover (P3.T11),Turnover,Backcourt Turnover,1,0,414
+0022301142,601,PT01M02.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,434
+0022301142,606,PT00M31.90S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,439
+0022301154,9,PT11M15.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,-235,76,25,Missed,1,,,0,h,MISS Hendricks 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,4
+0022301154,25,PT09M38.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,17
+0022301154,26,PT09M36.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,18,47,5,Missed,1,,,0,h,MISS Hendricks 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,18
+0022301154,41,PT08M07.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,11,58,6,Missed,1,,,0,h,MISS Hendricks 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,31
+0022301154,54,PT07M11.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Bazley FOR Hendricks,Substitution,,0,0,43
+0022301154,205,PT07M12.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,155
+0022301154,209,PT06M51.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,158
+0022301154,252,PT04M09.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,190
+0022301154,257,PT03M11.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,228,7,0,Made,1,46,56,102,h,Hendricks 3PT Pullup Jump Shot (3 PTS) (George 1 AST),Made Shot,Pullup Jump shot,1,3,195
+0022301154,328,PT07M58.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks BLOCK (1 BLK),,,1,2,249
+0022301154,330,PT07M56.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,250
+0022301154,331,PT07M54.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,25,27,4,Missed,1,,,0,h,MISS Hendricks 4' Running Layup,Missed Shot,Running Layup Shot,1,2,251
+0022301154,370,PT04M42.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks STEAL (1 STL),,,1,0,282
+0022301154,376,PT04M15.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Bazley FOR Hendricks,Substitution,,0,0,286
+0022301168,25,PT09M58.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,19
+0022301168,36,PT08M48.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,26
+0022301168,42,PT08M26.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks BLOCK (1 BLK),,,1,2,31
+0022301168,79,PT05M18.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks STEAL (1 STL),,,1,0,59
+0022301168,99,PT04M12.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks STEAL (2 STL),,,1,0,73
+0022301168,106,PT03M44.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Bazley FOR Hendricks,Substitution,,0,0,76
+0022301168,284,PT01M45.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-185,159,24,Missed,1,,,0,h,MISS Hendricks 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,205
+0022301168,305,PT00M38.20S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,223
+0022301168,324,PT11M01.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,232,55,24,Made,1,69,67,136,h,Hendricks 24' 3PT Jump Shot (3 PTS) (Juzang 1 AST),Made Shot,Jump Shot,1,3,236
+0022301168,330,PT10M13.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,240
+0022301168,332,PT09M51.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks P.FOUL (P1.T1) (R.Acosta),Foul,Personal,1,0,242
+0022301168,371,PT06M54.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks STEAL (3 STL),,,1,0,269
+0022301168,373,PT06M51.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,-18,55,6,Made,1,82,76,158,h,Hendricks 6' Running Dunk (5 PTS),Made Shot,Running Dunk Shot,1,2,270
+0022301168,394,PT05M18.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Sensabaugh FOR Hendricks,Substitution,,0,0,287
+0022301184,45,PT07M37.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,-229,11,0,Missed,1,,,0,v,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,33
+0022301184,50,PT07M36.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Horton-Tucker FOR Hendricks,Substitution,,0,0,37
+0022301184,237,PT06M23.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,175
+0022301184,238,PT06M18.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,17,103,10,Made,1,47,48,95,v,Hendricks 10' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,176
+0022301184,239,PT06M03.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks S.FOUL (P1.T3) (S.Mitchell),Foul,Shooting,1,0,177
+0022301184,267,PT03M42.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-238,-10,24,Made,1,52,56,108,v,Hendricks 24' 3PT Jump Shot (5 PTS) (Samanic 1 AST),Made Shot,Jump Shot,1,3,201
+0022301184,278,PT02M56.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,208
+0022301184,287,PT02M20.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,216
+0022301184,336,PT10M02.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,152,233,28,Missed,1,,,0,v,MISS Hendricks 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,251
+0022301184,341,PT09M34.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,-1,2,0,Made,1,60,69,129,v,Hendricks Running Dunk (7 PTS) (George 2 AST),Made Shot,Running Dunk Shot,1,2,256
+0022301184,353,PT08M40.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,264
+0022301184,388,PT06M17.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks S.FOUL (P2.T2) (B.Kennedy),Foul,Shooting,1,0,291
+0022301184,392,PT06M17.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Bazley FOR Hendricks,Substitution,,0,0,294
+0022301184,578,PT04M11.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,441
+0022301184,622,PT00M31.10S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks Violation:Defensive Goaltending (S.Mitchell),Violation,Defensive Goaltending,1,0,474
+0022301198,46,PT07M35.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,35
+0022301198,66,PT06M45.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,44
+0022301198,58,PT06M45.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,11,24,3,Made,1,12,12,24,v,Hendricks 3' Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,2,45
+0022301198,62,PT06M10.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,-45,31,5,Made,1,15,14,29,v,Hendricks 5' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,47
+0022301198,64,PT05M32.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,-5,149,15,Made,1,17,16,33,v,Hendricks 15' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,49
+0022301198,101,PT03M15.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Bazley FOR Hendricks,Substitution,,0,0,72
+0022301198,208,PT06M14.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks STEAL (1 STL),,,1,0,150
+0022301198,210,PT06M10.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,18,16,2,Made,1,49,41,90,v,Hendricks 2' Running Dunk (8 PTS),Made Shot,Running Dunk Shot,1,2,151
+0022301198,221,PT05M47.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-159,222,27,Missed,1,,,0,v,MISS Hendricks 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,159
+0022301198,328,PT00M00.20S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks Traveling Turnover (P1.T10),Turnover,Traveling,1,0,234
+0022301198,343,PT11M33.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,66,57,123,v,Hendricks Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,239
+0022301198,344,PT11M33.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,66,58,124,v,Hendricks Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,240
+0022301198,348,PT11M06.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,244
+0022301198,351,PT10M51.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks STEAL (2 STL),,,1,0,247
+0022301198,361,PT09M40.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,-221,25,0,Made,1,71,67,138,v,Hendricks 3PT Jump Shot (13 PTS) (Samanic 1 AST),Made Shot,Jump Shot,1,3,254
+0022301198,375,PT08M51.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,260
+0022301198,409,PT06M24.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks BLOCK (1 BLK),,,1,2,288
+0022301198,449,PT03M09.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks P.FOUL (P1.T3) (K.Cutler),Foul,Personal,1,0,319
+0022301198,457,PT02M29.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,325
+0022301198,462,PT01M54.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,329
+0022301198,484,PT00M59.80S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,29,0,3,Missed,1,,,0,v,MISS Hendricks 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,339
+0022301198,487,PT00M57.90S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,340
+0022301198,488,PT00M57.90S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,Missed,1,,,0,v,MISS Hendricks Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,341
+0022301198,574,PT07M33.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,159,220,27,Made,1,109,104,213,v,Hendricks 27' 3PT Jump Shot (16 PTS) (Lewis Jr. 3 AST),Made Shot,Jump Shot,1,3,393
+0022301198,591,PT06M06.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,407
+0022301198,617,PT04M28.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks STEAL (3 STL),,,1,0,427
+0022301198,654,PT01M29.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks S.FOUL (P2.PN) (K.Scott),Foul,Shooting,1,0,454
+0022301198,669,PT00M16.40S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,-221,46,0,Missed,1,,,0,v,MISS Hendricks 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,468
+0022301213,114,PT03M43.00S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks STEAL (1 STL),,,1,0,83
+0022301213,154,PT00M35.10S,1,1610612762,UTA,1641707,Hendricks,T. Hendricks,230,-24,0,Missed,1,,,0,v,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,109
+0022301213,173,PT11M31.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,123
+0022301213,174,PT11M30.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-4,33,3,Made,1,40,31,71,v,Hendricks 3' Hook Shot (2 PTS),Made Shot,Hook Shot,1,2,124
+0022301213,196,PT09M00.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks STEAL (2 STL),,,1,0,143
+0022301213,205,PT08M25.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-191,164,25,Made,1,47,36,83,v,Hendricks 25' 3PT Jump Shot (5 PTS) (Dunn 1 AST),Made Shot,Jump Shot,1,3,148
+0022301213,211,PT07M50.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks S.FOUL (P1.T3) (M.Boland),Foul,Shooting,1,0,151
+0022301213,237,PT06M12.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,SUB: Agbaji FOR Hendricks,Substitution,,0,0,170
+0022301213,369,PT07M40.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,195,173,26,Missed,1,,,0,v,MISS Hendricks 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,269
+0022301213,381,PT06M32.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks S.FOUL (P2.T3) (M.Boland),Foul,Shooting,1,0,280
+0022301213,397,PT05M47.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,143,226,27,Made,1,90,59,149,v,Hendricks 27' 3PT Jump Shot (8 PTS) (Dunn 2 AST),Made Shot,Jump Shot,1,3,292
+0022301213,412,PT04M57.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks BLOCK (1 BLK),,,1,3,304
+0022301213,433,PT04M12.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0,320
+0022301213,437,PT03M54.00S,3,1610612762,UTA,1641707,Hendricks,T. Hendricks,11,26,3,Made,1,93,67,160,v,Hendricks 3' Running Dunk (10 PTS) (Sexton 4 AST),Made Shot,Running Dunk Shot,1,2,324
+0022301213,630,PT01M57.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks OFF.Foul (P3) (A.Nagy),Foul,Offensive,1,0,457
+0022301213,632,PT01M57.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks Offensive Foul Turnover (P2.T18),Turnover,Offensive Foul Turnover,1,0,458
+0022301213,645,PT00M35.10S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,v,Hendricks REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,468
+0022301225,179,PT10M53.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,9,48,5,Missed,1,,,0,h,MISS Hendricks 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,127
+0022301225,234,PT07M03.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,-223,2,0,Missed,1,,,0,h,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,168
+0022301225,237,PT06M36.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks STEAL (1 STL),,,1,0,172
+0022301225,239,PT06M36.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,Hendricks Step Out of Bounds Turnover (P1.T8),Turnover,Step Out of Bounds Turnover,1,0,173
+0022301225,244,PT06M36.00S,2,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Collins FOR Hendricks,Substitution,,0,0,176
+0022301225,525,PT11M04.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,228,0,0,Missed,1,,,0,h,MISS Hendricks 3PT Jump Shot,Missed Shot,Jump Shot,1,3,392
+0022301225,596,PT05M59.00S,4,1610612762,UTA,1641707,Hendricks,T. Hendricks,0,0,0,,0,,,0,h,SUB: Fontecchio FOR Hendricks,Substitution,,0,0,442

@@ -1,0 +1,551 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0022300001,275,PT05M04.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson P.FOUL (P1.PN) (S.Mehta),Foul,Personal,1,0,200
+0022300001,297,PT03M18.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,215
+0022300001,304,PT02M53.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Mobley FOR Thompson,Substitution,,0,0,222
+0022300001,677,PT00M02.60S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Mobley FOR Thompson,Substitution,,0,0,495
+0022300040,148,PT00M58.10S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,110
+0022300040,149,PT00M58.10S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Made,1,22,27,49,v,Thompson Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,2,111
+0022300040,155,PT00M17.70S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Strus FOR Thompson,Substitution,,0,0,116
+0022300040,194,PT10M18.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Cavaliers T.Foul (Def. 3 Sec Thompson ) (M.Lindsay),Foul,Defense 3 Second,1,0,138
+0022300040,208,PT08M27.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson BLOCK (1 BLK),,,1,2,150
+0022300040,235,PT06M46.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Merrill FOR Thompson,Substitution,,0,0,172
+0022300040,283,PT03M24.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,202
+0022300040,285,PT03M24.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,MISS Thompson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,204
+0022300040,291,PT03M03.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,209
+0022300040,297,PT02M54.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Niang FOR Thompson,Substitution,,0,0,214
+0022300040,469,PT01M32.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson STEAL (1 STL),,,1,0,345
+0022300040,486,PT00M01.70S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,359
+0022300040,762,PT00M11.00S,5,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Porter FOR Thompson,Substitution,,0,0,551
+0022300091,472,PT02M42.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,350
+0022300091,474,PT02M26.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,352
+0022300091,475,PT02M26.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Made,1,79,83,162,h,Thompson Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,353
+0022300091,490,PT00M37.60S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Strus FOR Thompson,Substitution,,0,0,364
+0022300091,510,PT11M39.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,377
+0022300091,511,PT11M39.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Made,1,89,91,180,h,Thompson Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,1,2,378
+0022300091,517,PT10M56.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,383
+0022300091,556,PT07M48.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,4,5,1,Missed,1,,,0,h,MISS Thompson 1' Layup,Missed Shot,Layup Shot,1,2,409
+0022300091,557,PT07M46.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,410
+0022300091,569,PT07M19.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: E. Mobley FOR Thompson,Substitution,,0,0,420
+0022300112,249,PT05M47.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson BLOCK (1 BLK),,,1,2,186
+0022300112,258,PT05M41.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,191
+0022300112,269,PT04M20.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,199
+0022300112,280,PT03M54.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson OFF.Foul (P1) (A.Smith),Foul,Offensive,1,0,208
+0022300112,282,PT03M54.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,209
+0022300112,287,PT02M40.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,7,20,2,Made,1,48,50,98,h,Thompson 2' Cutting Dunk Shot (2 PTS) (Mitchell 2 AST),Made Shot,Cutting Dunk Shot,1,2,213
+0022300112,290,PT02M40.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson HANGING.TECH.FOUL (P1.T2) (B.Kennedy),Foul,Hanging Technical,1,0,214
+0022300112,322,PT00M06.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,51,58,109,h,Thompson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,237
+0022300112,325,PT00M06.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,52,58,110,h,Thompson Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,239
+0022300112,489,PT00M59.20S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson BLOCK (2 BLK),,,1,2,365
+0022300112,495,PT00M41.60S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson OFF.Foul (P2) (J.Orr),Foul,Offensive,1,0,369
+0022300112,497,PT00M41.60S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,1,0,370
+0022300120,99,PT03M21.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,80
+0022300120,107,PT02M42.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,40,48,6,Made,1,14,15,29,v,Thompson 6' Hook Shot (2 PTS) (LeVert 1 AST),Made Shot,Hook Shot,1,2,87
+0022300120,113,PT01M55.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,15,41,4,Missed,1,,,0,v,MISS Thompson 4' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,89
+0022300120,179,PT10M25.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,1,5,1,Made,1,29,28,57,v,Thompson 1' Cutting Layup Shot (4 PTS) (LeVert 2 AST),Made Shot,Cutting Layup Shot,1,2,132
+0022300120,198,PT09M11.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,146
+0022300120,206,PT08M42.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Niang FOR Thompson,Substitution,,0,0,153
+0022300120,391,PT05M47.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,292
+0022300120,400,PT05M32.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,298
+0022300120,426,PT04M09.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson Violation:Defensive Goaltending (Z.Zarba),Violation,Defensive Goaltending,1,0,317
+0022300120,432,PT03M30.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,323
+0022300120,441,PT03M10.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Wade FOR Thompson,Substitution,,0,0,331
+0022300120,526,PT08M38.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson Bad Pass Turnover (P2.T15),Turnover,Bad Pass,1,0,393
+0022300120,534,PT07M37.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,-13,-4,1,Made,1,70,79,149,v,Thompson 1' Cutting Layup Shot (6 PTS) (LeVert 5 AST),Made Shot,Cutting Layup Shot,1,2,402
+0022300120,550,PT06M40.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson L.B.FOUL (P1.T2) (Z.Zarba),Foul,Loose Ball,1,0,412
+0022300120,562,PT06M04.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: E. Mobley FOR Thompson,Substitution,,0,0,419
+0022300120,639,PT00M29.30S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,482
+0022300120,665,PT00M29.30S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Strus FOR Thompson,Substitution,,0,0,484
+0022300142,101,PT04M03.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,-5,13,1,Made,1,24,23,47,h,Thompson 1' Floating Jump Shot (2 PTS) (LeVert 1 AST),Made Shot,Floating Jump shot,1,2,72
+0022300142,107,PT03M14.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson S.FOUL (P1.T4) (R.Mott),Foul,Shooting,1,0,76
+0022300142,127,PT02M33.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,91
+0022300142,131,PT02M33.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,94
+0022300142,134,PT02M06.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,97
+0022300142,141,PT01M51.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,102
+0022300142,149,PT01M17.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson P.FOUL (P2.PN) (R.Mott),Foul,Personal,1,0,109
+0022300142,154,PT01M00.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,-13,35,4,Missed,1,,,0,h,MISS Thompson 4' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,113
+0022300142,156,PT00M57.60S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,115
+0022300142,168,PT00M18.90S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Strus FOR Thompson,Substitution,,0,0,126
+0022300142,358,PT00M45.60S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,263
+0022300142,363,PT00M42.80S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,55,43,98,h,Thompson Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,267
+0022300142,367,PT00M29.30S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Wade FOR Thompson,Substitution,,0,0,270
+0022300142,539,PT01M16.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Jump Ball (CC) Thompson vs. Jackson-Davis: Tip to Niang,Jump Ball,Coach Challenge,0,0,391
+0022300142,543,PT00M44.90S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson BLOCK (1 BLK),,,1,2,394
+0022300142,545,PT00M40.50S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,395
+0022300167,135,PT02M06.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson Violation:Defensive Goaltending (D.Mosher),Violation,Defensive Goaltending,1,0,102
+0022300167,169,PT00M16.70S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Mitchell FOR Thompson,Substitution,,0,0,128
+0022300167,314,PT02M30.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,223
+0022300167,317,PT02M25.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,62,51,113,v,Thompson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,225
+0022300167,322,PT02M25.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,MISS Thompson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,228
+0022300167,327,PT01M41.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson STEAL (1 STL),,,1,0,234
+0022300167,334,PT00M57.60S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson Lost Ball Turnover (P1.T11),Turnover,Lost Ball,1,0,240
+0022300167,344,PT00M33.80S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson S.FOUL (P1.T4) (D.Mosher),Foul,Shooting,1,0,247
+0022300167,347,PT00M33.80S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Strus FOR Thompson,Substitution,,0,0,249
+0022300167,527,PT01M17.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson OFF.Foul (P2) (M.Davis),Foul,Offensive,1,0,379
+0022300167,529,PT01M17.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson Offensive Foul Turnover (P2.T15),Turnover,Offensive Foul Turnover,1,0,380
+0022300167,532,PT00M57.50S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,382
+0022300176,747,PT01M03.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Strus FOR Thompson,Substitution,,0,0,555
+0022300191,209,PT07M32.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson S.FOUL (P1.T2) (M.Lindsay),Foul,Shooting,1,0,148
+0022300191,251,PT04M04.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,176
+0022300191,256,PT03M04.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson S.FOUL (P2.T4) (E.Dalen),Foul,Shooting,1,0,181
+0022300191,263,PT02M45.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Allen FOR Thompson,Substitution,,0,0,186
+0022300191,425,PT02M35.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Garland FOR Thompson,Substitution,,0,0,299
+0022300191,649,PT00M07.30S,4,1610612739,CLE,202684,Thompson,T. Thompson,7,19,2,Made,1,132,120,252,v,Thompson 2' Cutting Layup Shot (2 PTS) (Porter 3 AST),Made Shot,Cutting Layup Shot,1,2,456
+0022300199,675,PT00M38.60S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,481
+0022300210,75,PT05M57.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,54
+0022300210,76,PT05M55.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Made,1,18,16,34,h,Thompson Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,55
+0022300210,101,PT05M42.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,59
+0022300210,86,PT04M26.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,64
+0022300210,112,PT03M11.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Wade FOR Thompson,Substitution,,0,0,82
+0022300210,221,PT07M21.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,-93,64,11,Missed,1,,,0,h,MISS Thompson 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,160
+0022300210,223,PT07M08.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson P.FOUL (P1.T2) (L.Holtkamp),Foul,Personal,1,0,162
+0022300210,238,PT06M07.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,9,8,1,Missed,1,,,0,h,MISS Thompson 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,172
+0022300210,249,PT05M21.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Niang FOR Thompson,Substitution,,0,0,181
+0022300210,597,PT04M25.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,435
+0022300210,603,PT04M25.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,112,88,200,h,Thompson Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,439
+0022300210,610,PT03M43.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson S.FOUL (P2.PN) (T.Brothers),Foul,Shooting,1,0,445
+0022300210,629,PT02M19.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,-9,14,2,Made,1,118,94,212,h,Thompson 2' Layup (5 PTS) (Porter 3 AST),Made Shot,Layup Shot,1,2,458
+0022300229,70,PT05M51.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,52
+0022300229,90,PT04M20.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson S.FOUL (P1.T3) (B.Adair),Foul,Shooting,1,0,65
+0022300229,112,PT03M47.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Allen FOR Thompson,Substitution,,0,0,79
+0022300229,225,PT08M32.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,157
+0022300229,263,PT05M23.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Allen FOR Thompson,Substitution,,0,0,182
+0022300229,405,PT05M17.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,284
+0022300229,406,PT05M17.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Missed,1,,,0,h,MISS Thompson Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,285
+0022300229,412,PT04M49.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,290
+0022300229,418,PT04M49.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,294
+0022300229,603,PT03M23.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Jump Ball (CC) Thompson vs. O. Robinson: Tip to LeVert,Jump Ball,Coach Challenge,0,0,311
+0022300229,437,PT02M42.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,13,-4,1,Made,1,68,90,158,h,Thompson 1' Alley Oop Dunk (2 PTS) (Garland 3 AST),Made Shot,Alley Oop Dunk Shot,1,2,317
+0022300229,441,PT02M09.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,38,56,7,Made,1,70,93,163,h,Thompson 7' Hook Shot (4 PTS) (LeVert 3 AST),Made Shot,Hook Shot,1,2,319
+0022300229,638,PT00M00.20S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson BLOCK (1 BLK),,,0,2,349
+0022300251,463,PT00M55.50S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,348
+0022300251,464,PT00M55.50S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Made,1,71,71,142,h,Thompson Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,349
+0022300251,474,PT00M14.70S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Mitchell FOR Thompson,Substitution,,0,0,356
+0022300251,489,PT11M37.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,363
+0022300251,495,PT10M59.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,368
+0022300251,513,PT09M34.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,378
+0022300251,525,PT09M14.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:4 Def:0),Rebound,Unknown,1,0,387
+0022300251,526,PT09M12.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,1,10,1,Made,1,86,77,163,h,Thompson 1' Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,1,2,388
+0022300251,544,PT07M38.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Allen FOR Thompson,Substitution,,0,0,401
+0022300251,652,PT00M15.70S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Mitchell FOR Thompson,Substitution,,0,0,482
+0022300251,676,PT00M01.80S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Garland FOR Thompson,Substitution,,0,0,495
+0022300283,414,PT05M07.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,302
+0022300283,419,PT04M44.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,306
+0022300283,420,PT04M44.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Missed,1,,,0,v,MISS Thompson Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,307
+0022300283,449,PT03M56.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Strus FOR Thompson,Substitution,,0,0,326
+0022300294,131,PT02M43.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,38,36,5,Made,1,18,21,39,v,Thompson 5' Hook Shot (2 PTS),Made Shot,Hook Shot,1,2,97
+0022300294,150,PT01M26.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,113
+0022300294,154,PT00M52.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,116
+0022300294,181,PT11M29.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,133
+0022300294,182,PT11M29.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Missed,1,,,0,v,MISS Thompson Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,134
+0022300294,224,PT08M46.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,165
+0022300294,225,PT08M41.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,2,33,3,Made,1,31,35,66,v,Thompson 3' Turnaround Hook Shot (4 PTS) (Merrill 1 AST),Made Shot,Turnaround Hook Shot,1,2,166
+0022300294,228,PT08M20.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,168
+0022300294,232,PT08M04.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Allen FOR Thompson,Substitution,,0,0,172
+0022300294,339,PT00M38.30S,2,1610612739,CLE,202684,Thompson,T. Thompson,-13,21,2,Made,1,51,52,103,v,Thompson 2' Driving Dunk (6 PTS),Made Shot,Driving Dunk Shot,1,2,245
+0022300294,384,PT10M01.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson L.B.FOUL (P1.T2) (G.Petraitis),Foul,Loose Ball,1,0,279
+0022300294,390,PT09M03.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,283
+0022300294,392,PT08M52.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,285
+0022300294,393,PT08M50.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,34,26,4,Missed,1,,,0,v,MISS Thompson 4' Layup,Missed Shot,Layup Shot,1,2,286
+0022300294,434,PT06M23.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson Violation:Kicked Ball (J.Tiven),Violation,Kicked Ball,0,0,320
+0022300294,460,PT04M37.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Okoro FOR Thompson,Substitution,,0,0,340
+0022300294,575,PT09M37.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,421
+0022300294,576,PT09M25.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,-15,15,2,Made,1,89,73,162,v,Thompson 2' Cutting Dunk Shot (8 PTS) (Garland 3 AST),Made Shot,Cutting Dunk Shot,1,2,422
+0022300294,586,PT08M22.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson BLOCK (1 BLK),,,1,2,430
+0022300294,588,PT08M21.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,431
+0022300294,593,PT07M55.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson BLOCK (2 BLK),,,1,2,436
+0022300294,601,PT07M17.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,442
+0022300294,630,PT05M37.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:3 Def:8),Rebound,Unknown,1,0,461
+0022300294,648,PT03M49.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,-9,-1,1,Made,1,97,90,187,v,Thompson 1' Cutting Dunk Shot (10 PTS) (Garland 5 AST),Made Shot,Cutting Dunk Shot,1,2,475
+0022300294,651,PT03M15.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:3 Def:9),Rebound,Unknown,1,0,477
+0022300294,684,PT00M59.20S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:4 Def:9),Rebound,Unknown,1,0,505
+0022300294,708,PT00M58.90S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson Step Out of Bounds Turnover (P1.T13),Turnover,Step Out of Bounds Turnover,1,0,506
+0022300305,190,PT09M22.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,144
+0022300305,196,PT09M13.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Allen FOR Thompson,Substitution,,0,0,149
+0022300305,517,PT08M53.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,383
+0022300305,518,PT08M53.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Made,1,101,101,202,v,Thompson Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,384
+0022300305,538,PT07M38.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,396
+0022300305,547,PT06M44.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,404
+0022300305,553,PT06M27.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Wade FOR Thompson,Substitution,,0,0,409
+0022300319,161,PT10M56.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson OFF.Foul (P1) (N.Green),Foul,Offensive,1,0,117
+0022300319,163,PT10M56.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,1,0,118
+0022300319,167,PT10M32.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,122
+0022300319,168,PT10M32.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Made,1,35,26,61,v,Thompson Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,123
+0022300319,170,PT10M21.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,125
+0022300319,189,PT09M15.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Mitchell FOR Thompson,Substitution,,0,0,139
+0022300336,172,PT11M44.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,119
+0022300336,185,PT10M43.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,-1,5,1,Made,1,46,28,74,h,Thompson 1' Cutting Dunk Shot (2 PTS) (Merrill 1 AST),Made Shot,Cutting Dunk Shot,1,2,129
+0022300336,198,PT09M01.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson P.FOUL (P1.T1) (T.Ricks),Foul,Personal,1,0,138
+0022300336,222,PT07M30.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson L.B.FOUL (P2.T3) (R.Mott),Foul,Loose Ball,1,0,154
+0022300336,230,PT07M10.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,159
+0022300336,252,PT05M51.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson L.B.FOUL (P3.T4) (E.Dalen),Foul,Loose Ball,1,0,177
+0022300336,255,PT05M51.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Okoro FOR Thompson,Substitution,,0,0,179
+0022300336,457,PT02M17.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,332
+0022300336,531,PT10M32.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,378
+0022300336,532,PT10M31.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Made,1,96,85,181,h,Thompson Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,1,2,379
+0022300336,539,PT09M39.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,385
+0022300336,540,PT09M38.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Made,1,98,90,188,h,Thompson Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,386
+0022300336,550,PT08M29.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Allen FOR Thompson,Substitution,,0,0,393
+0022300349,148,PT00M41.60S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,102
+0022300349,179,PT10M21.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,126
+0022300349,189,PT09M37.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,-4,35,4,Made,1,41,36,77,h,Thompson 4' Turnaround Hook Shot (2 PTS) (Merrill 2 AST),Made Shot,Turnaround Hook Shot,1,2,133
+0022300349,228,PT07M25.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,164
+0022300349,232,PT07M14.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Allen FOR Thompson,Substitution,,0,0,167
+0022300349,297,PT03M48.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,212
+0022300349,301,PT03M48.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,215
+0022300349,320,PT02M42.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Niang FOR Thompson,Substitution,,0,0,230
+0022300349,396,PT08M04.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,280
+0022300349,399,PT08M04.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,282
+0022300349,401,PT08M04.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,284
+0022300349,418,PT07M04.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson S.FOUL (P1.T4) (J.Van Duyne),Foul,Shooting,1,0,295
+0022300349,427,PT07M04.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,301
+0022300349,429,PT07M04.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,81,72,153,h,Thompson Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,303
+0022300349,434,PT06M42.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,306
+0022300349,436,PT06M42.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,82,75,157,h,Thompson Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,308
+0022300349,440,PT06M28.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Niang FOR Thompson,Substitution,,0,0,311
+0022300349,583,PT11M26.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson S.FOUL (P2.T1) (P.Fraher),Foul,Shooting,1,0,414
+0022300349,597,PT10M12.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,425
+0022300349,835,PT10M12.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,-36,8,4,Missed,1,,,0,h,MISS Thompson 4' Tip Layup Shot,Missed Shot,Tip Layup Shot,0,2,426
+0022300349,609,PT09M43.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,,"Double Technical - Thompson, Eason (D.Scott)",Foul,Double Technical,1,0,435
+0022300349,665,PT06M27.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Allen FOR Thompson,Substitution,,0,0,472
+0022300364,131,PT01M50.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson STEAL (1 STL),,,1,0,89
+0022300364,136,PT01M21.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,92
+0022300364,144,PT00M49.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,99
+0022300364,145,PT00M49.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Made,1,31,22,53,h,Thompson Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,2,100
+0022300364,150,PT00M20.50S,1,1610612739,CLE,202684,Thompson,T. Thompson,-6,8,1,Made,1,33,25,58,h,Thompson 1' Cutting Dunk Shot (4 PTS) (Merrill 1 AST),Made Shot,Cutting Dunk Shot,1,2,104
+0022300364,170,PT10M43.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,118
+0022300364,179,PT09M58.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,4,45,5,Missed,1,,,0,h,MISS Thompson 5' Hook Shot,Missed Shot,Hook Shot,1,2,126
+0022300364,204,PT07M42.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,-5,10,1,Made,1,47,41,88,h,Thompson 1' Layup (6 PTS),Made Shot,Layup Shot,1,2,141
+0022300364,238,PT05M38.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Okoro FOR Thompson,Substitution,,0,0,168
+0022300364,437,PT03M15.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson STEAL (2 STL),,,1,0,303
+0022300364,454,PT02M03.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,-4,11,1,Made,1,88,90,178,h,Thompson 1' Cutting Layup Shot (8 PTS) (Porter Jr. 6 AST),Made Shot,Cutting Layup Shot,1,2,315
+0022300364,465,PT01M33.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson P.FOUL (P1.T2) (S.Foster),Foul,Personal,1,0,322
+0022300364,469,PT01M26.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson S.FOUL (P2.PN) (S.Twardoski),Foul,Shooting,1,0,324
+0022300364,477,PT00M53.20S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson STEAL (3 STL),,,1,0,331
+0022300364,480,PT00M32.40S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson STEAL (4 STL),,,1,0,334
+0022300364,506,PT10M34.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,352
+0022300364,518,PT09M53.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,-25,46,5,Missed,1,,,0,h,MISS Thompson 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,359
+0022300364,521,PT09M53.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Jump Ball Thompson vs. Sexton: Tip to Niang,Jump Ball,,1,0,362
+0022300364,548,PT07M57.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,382
+0022300364,549,PT07M57.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Made,1,106,95,201,h,Thompson Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,1,2,383
+0022300364,573,PT06M34.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Allen FOR Thompson,Substitution,,0,0,401
+0022300375,110,PT02M59.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson S.FOUL (P1.T3) (C.Flores),Foul,Shooting,1,0,75
+0022300375,114,PT02M43.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,-9,5,1,Missed,1,,,0,h,MISS Thompson 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,78
+0022300375,142,PT00M03.40S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Strus FOR Thompson,Substitution,,0,0,99
+0022300375,199,PT09M17.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,125
+0022300375,218,PT07M25.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Allen FOR Thompson,Substitution,,0,0,138
+0022300375,465,PT01M04.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Defensive Goaltending,Violation,Defensive Goaltending,1,0,310
+0022300375,473,PT00M11.10S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Wade FOR Thompson,Substitution,,0,0,319
+0022300375,498,PT11M22.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,331
+0022300375,508,PT10M28.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Allen FOR Thompson,Substitution,,0,0,339
+0022300375,546,PT07M10.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,363
+0022300375,547,PT07M09.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Made,1,87,108,195,h,Thompson Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,364
+0022300375,577,PT04M18.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,388
+0022300375,578,PT04M15.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,1,-4,0,Missed,1,,,0,h,MISS Thompson Layup,Missed Shot,Layup Shot,1,2,389
+0022300375,602,PT03M18.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,405
+0022300375,603,PT03M18.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Made,1,94,113,207,h,Thompson Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,406
+0022300375,613,PT01M38.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson S.FOUL (P2.T2) (C.Flores),Foul,Shooting,1,0,411
+0022300375,630,PT00M19.80S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,424
+0022300375,632,PT00M11.20S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,426
+0022300375,633,PT00M11.20S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Made,1,104,123,227,h,Thompson Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,427
+0022300396,169,PT11M31.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,-1,10,1,Made,1,30,34,64,v,Thompson 1' Driving Dunk (2 PTS) (Strus 3 AST),Made Shot,Driving Dunk Shot,1,2,116
+0022300396,172,PT11M16.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,118
+0022300396,188,PT10M06.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson P.FOUL (P1.T2) (E.Scott),Foul,Personal,1,0,131
+0022300396,246,PT07M00.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,-4,15,2,Made,1,39,42,81,v,Thompson 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,170
+0022300396,269,PT05M20.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,186
+0022300396,280,PT04M44.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Allen FOR Thompson,Substitution,,0,0,195
+0022300396,473,PT01M22.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,336
+0022300396,475,PT01M13.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,338
+0022300396,509,PT11M35.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,362
+0022300396,510,PT11M35.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Made,1,72,86,158,v,Thompson Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,363
+0022300396,525,PT10M18.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,373
+0022300396,526,PT10M18.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Missed,1,,,0,v,MISS Thompson Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,374
+0022300396,552,PT08M35.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson Traveling Turnover (P1.T10),Turnover,Traveling,1,0,395
+0022300396,556,PT08M25.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Okoro FOR Thompson,Substitution,,0,0,398
+0022300420,178,PT10M41.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson OFF.Foul (P1) (L.Wood),Foul,Offensive,1,0,127
+0022300420,180,PT10M41.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,128
+0022300420,219,PT07M52.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson S.FOUL (P2.T3) (C.Kirkland),Foul,Shooting,1,0,158
+0022300420,223,PT07M52.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Allen FOR Thompson,Substitution,,0,0,161
+0022300420,518,PT11M13.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson OFF.Foul (P3) (C.Kirkland),Foul,Offensive,1,0,378
+0022300420,520,PT11M13.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson Offensive Foul Turnover (P2.T14),Turnover,Offensive Foul Turnover,1,0,379
+0022300420,531,PT10M03.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,6,49,5,Made,1,93,89,182,v,Thompson 5' Hook Shot (2 PTS) (LeVert 7 AST),Made Shot,Hook Shot,1,2,386
+0022300420,550,PT08M44.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,-23,32,4,Missed,1,,,0,v,MISS Thompson 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,399
+0022300420,551,PT08M42.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,400
+0022300420,552,PT08M38.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Missed,1,,,0,v,MISS Thompson Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,401
+0022300420,556,PT08M24.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson S.FOUL (P4.T1) (L.Wood),Foul,Shooting,1,0,404
+0022300420,559,PT08M24.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Allen FOR Thompson,Substitution,,0,0,405
+0022300433,175,PT11M35.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,21,62,7,Missed,1,,,0,h,MISS Thompson 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,114
+0022300433,177,PT11M28.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson P.FOUL (P1.T1) (B.Taylor),Foul,Personal,1,0,116
+0022300433,186,PT10M57.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,123
+0022300433,192,PT10M10.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,128
+0022300433,202,PT09M31.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,137
+0022300433,248,PT07M12.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,166
+0022300433,245,PT07M01.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson S.FOUL (P2.T4) (B.Taylor),Foul,Shooting,1,0,169
+0022300433,252,PT06M44.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,7,59,6,Made,1,50,35,85,h,Thompson 6' Floating Jump Shot (2 PTS) (Okoro 2 AST),Made Shot,Floating Jump shot,1,2,173
+0022300433,255,PT06M22.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,175
+0022300433,259,PT06M09.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Allen FOR Thompson,Substitution,,0,0,179
+0022300433,452,PT03M49.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,321
+0022300433,455,PT03M44.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,323
+0022300433,459,PT03M44.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,326
+0022300433,461,PT03M33.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson Violation:Kicked Ball (B.Schwab),Violation,Kicked Ball,0,0,328
+0022300433,478,PT02M26.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Allen FOR Thompson,Substitution,,0,0,341
+0022300452,165,PT00M28.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,119
+0022300452,195,PT09M55.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,141
+0022300452,202,PT09M29.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson L.B.FOUL (P1.T2) (S.Twardoski),Foul,Loose Ball,1,0,148
+0022300452,228,PT07M56.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson S.FOUL (P2.T3) (S.Mehta),Foul,Shooting,1,0,168
+0022300452,247,PT07M03.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Wade FOR Thompson,Substitution,,0,0,182
+0022300452,517,PT00M03.20S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Mitchell FOR Thompson,Substitution,,0,0,377
+0022300452,578,PT08M08.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson P.FOUL (P3.T2) (S.Mehta),Foul,Personal,1,0,412
+0022300452,597,PT06M26.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Okoro FOR Thompson,Substitution,,0,0,428
+0022300452,689,PT00M12.80S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,497
+0022300452,692,PT00M12.80S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Mitchell FOR Thompson,Substitution,,0,0,500
+0022300452,703,PT00M07.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Merrill FOR Thompson,Substitution,,0,0,507
+0022300452,716,PT00M02.60S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Okoro FOR Thompson,Substitution,,0,0,515
+0022300465,159,PT11M23.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,112
+0022300465,189,PT08M13.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson BLOCK (1 BLK),,,1,2,134
+0022300465,197,PT07M33.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,5,50,5,Made,1,49,41,90,h,Thompson 5' Hook Shot (2 PTS) (Porter Jr. 2 AST),Made Shot,Hook Shot,1,2,139
+0022300465,206,PT06M41.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,144
+0022300465,207,PT06M28.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,1,9,1,Missed,1,,,0,h,MISS Thompson 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,145
+0022300465,231,PT05M26.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Okoro FOR Thompson,Substitution,,0,0,164
+0022300465,483,PT11M39.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,357
+0022300465,495,PT10M55.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson S.FOUL (P1.T1) (J.Van Duyne),Foul,Shooting,1,0,365
+0022300465,499,PT10M35.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,-1,16,2,Missed,1,,,0,h,MISS Thompson 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,368
+0022300465,504,PT10M28.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,2,12,1,Made,1,107,77,184,h,Thompson 1' Dunk (4 PTS) (Merrill 5 AST),Made Shot,Dunk Shot,1,2,373
+0022300465,507,PT10M02.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,15,46,5,Missed,1,,,0,h,MISS Thompson 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,375
+0022300465,517,PT08M53.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,385
+0022300465,546,PT07M03.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,402
+0022300465,547,PT07M02.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson Lost Ball Turnover (P2.T8),Turnover,Lost Ball,1,0,403
+0022300465,557,PT06M54.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,411
+0022300465,558,PT06M54.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Made,1,124,87,211,h,Thompson Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,412
+0022300465,561,PT06M54.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,414
+0022300465,574,PT05M52.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson Lost Ball Turnover (P3.T9),Turnover,Lost Ball,1,0,424
+0022300465,590,PT04M44.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,437
+0022300465,597,PT04M23.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,442
+0022300465,598,PT04M00.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,-43,74,9,Missed,1,,,0,h,MISS Thompson 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,443
+0022300465,612,PT02M32.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,455
+0022300465,616,PT02M03.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,458
+0022300465,622,PT01M28.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,140,97,237,h,Thompson Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,463
+0022300465,624,PT01M28.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,464
+0022300482,134,PT01M09.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson S.FOUL (P1.T4) (T.Ricks),Foul,Shooting,1,0,98
+0022300482,142,PT00M30.20S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,19,2,Made,1,33,26,59,h,Thompson 2' Driving Layup (2 PTS) (LeVert 3 AST),Made Shot,Driving Layup Shot,1,2,103
+0022300482,145,PT00M18.10S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Mitchell FOR Thompson,Substitution,,0,0,105
+0022300482,175,PT09M55.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,9,31,3,Missed,1,,,0,h,MISS Thompson 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,122
+0022300482,181,PT09M20.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson P.FOUL (P2.T2) (J.DeRosa),Foul,Personal,1,0,127
+0022300482,199,PT08M08.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,139
+0022300482,205,PT07M43.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,144
+0022300482,206,PT07M41.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,-2,21,2,Made,1,46,28,74,h,Thompson 2' Hook Bank Shot (4 PTS),Made Shot,Hook Bank Shot,1,2,145
+0022300482,218,PT07M11.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson L.B.FOUL (P3.T3) (J.Capers),Foul,Loose Ball,1,0,154
+0022300482,220,PT07M11.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Allen FOR Thompson,Substitution,,0,0,155
+0022300482,505,PT10M33.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson P.FOUL (P4.T1) (T.Ricks),Foul,Personal,1,0,361
+0022300482,508,PT10M02.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson Bad Pass Turnover (P1.T18),Turnover,Bad Pass,1,0,363
+0022300482,515,PT09M11.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson Offensive Charge Foul (P5) (T.Ricks),Foul,Offensive Charge,1,0,370
+0022300482,517,PT09M11.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson Offensive Foul Turnover (P2.T19),Turnover,Offensive Foul Turnover,1,0,371
+0022300482,518,PT09M11.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson T.FOUL (P5.T1) (T.Ricks),Foul,Technical,1,0,372
+0022300482,565,PT05M34.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,406
+0022300482,594,PT03M48.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,427
+0022300482,595,PT03M48.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Made,1,108,82,190,h,Thompson Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,428
+0022300482,603,PT03M08.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,435
+0022300482,607,PT03M08.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,438
+0022300482,612,PT02M32.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,5,1,Made,1,110,84,194,h,Thompson 1' Driving Layup (8 PTS) (Porter Jr. 3 AST),Made Shot,Driving Layup Shot,1,2,442
+0022300482,614,PT02M20.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson P.FOUL (P6.T4) (T.Ricks),Foul,Personal,1,0,443
+0022300482,616,PT02M20.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Wade FOR Thompson,Substitution,,0,0,444
+0022300497,96,PT04M17.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,72
+0022300497,97,PT04M17.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Missed,1,,,0,h,MISS Thompson Tip Layup Shot,Missed Shot,Tip Layup Shot,0,2,73
+0022300497,123,PT01M36.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,49,41,6,Made,1,19,28,47,h,Thompson 6' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,1,2,92
+0022300497,150,PT11M11.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,112
+0022300497,151,PT11M07.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,7,6,1,Made,1,30,37,67,h,Thompson 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,113
+0022300497,183,PT09M13.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,138
+0022300497,201,PT07M58.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson S.FOUL (P1.T2) (S.Foster),Foul,Shooting,1,0,152
+0022300497,205,PT07M44.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,-6,11,1,Made,1,38,40,78,h,Thompson 1' Cutting Dunk Shot (6 PTS) (Merrill 1 AST),Made Shot,Cutting Dunk Shot,1,2,155
+0022300497,213,PT06M53.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson Offensive Charge Foul (P2) (S.Foster),Foul,Offensive Charge,1,0,160
+0022300497,215,PT06M53.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,161
+0022300497,236,PT05M16.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson P.FOUL (P3.T3) (N.Green),Foul,Personal,1,0,178
+0022300497,239,PT05M16.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Okoro FOR Thompson,Substitution,,0,0,180
+0022300497,438,PT02M48.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,315
+0022300497,440,PT02M48.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,84,79,163,h,Thompson Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,317
+0022300497,444,PT01M53.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson S.FOUL (P4.T3) (N.Green),Foul,Shooting,1,0,321
+0022300497,467,PT00M42.50S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,340
+0022300497,470,PT00M32.40S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,85,81,166,h,Thompson Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,342
+0022300497,473,PT00M32.40S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,344
+0022300497,513,PT09M52.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Allen FOR Thompson,Substitution,,0,0,371
+0022300527,178,PT09M24.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,132
+0022300527,192,PT08M38.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson STEAL (1 STL),,,1,0,141
+0022300527,208,PT07M38.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson 3 Second Violation Turnover (P1.T2),Turnover,3 Second Violation,1,0,153
+0022300527,225,PT06M00.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Merrill FOR Thompson,Substitution,,0,0,166
+0022300527,457,PT03M31.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,343
+0022300527,472,PT02M46.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,74,54,128,h,Thompson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,353
+0022300527,473,PT02M46.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,354
+0022300527,480,PT02M31.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,359
+0022300527,482,PT02M31.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,361
+0022300527,488,PT02M13.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Allen FOR Thompson,Substitution,,0,0,366
+0022300527,541,PT11M16.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Jump Ball Thompson vs. Claxton: Tip to Watford,Jump Ball,,1,0,398
+0022300527,548,PT10M38.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson L.B.FOUL (P2.T1) (E.Dalen),Foul,Loose Ball,1,0,402
+0022300527,757,PT09M51.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson FLAGRANT.FOUL.TYPE2 (P3.T2) (M.Davis),Foul,Flagrant Type 2,0,0,409
+0022300527,564,PT09M51.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson Ejection:Other,Ejection,Other,0,0,410
+0022300527,750,PT09M51.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Allen FOR Thompson,Substitution,,0,0,412
+0022300561,126,PT01M50.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,-9,16,2,Missed,1,,,0,h,MISS Thompson 2' Running Layup,Missed Shot,Running Layup Shot,1,2,90
+0022300561,142,PT01M05.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,101
+0022300561,147,PT00M29.30S,1,1610612739,CLE,202684,Thompson,T. Thompson,-22,59,6,Missed,1,,,0,h,MISS Thompson 6' Hook Shot,Missed Shot,Hook Shot,1,2,104
+0022300561,155,PT00M05.50S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Mitchell FOR Thompson,Substitution,,0,0,111
+0022300561,178,PT10M30.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,122
+0022300561,179,PT10M30.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Made,1,42,25,67,h,Thompson Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,2,123
+0022300561,181,PT10M02.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,4,11,1,Made,1,44,27,71,h,Thompson 1' Alley Oop Layup (4 PTS) (Merrill 1 AST),Made Shot,Alley Oop Layup shot,1,2,125
+0022300561,227,PT06M59.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Allen FOR Thompson,Substitution,,0,0,159
+0022300561,504,PT10M01.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Allen FOR Thompson,Substitution,,0,0,374
+0022300572,126,PT02M38.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,96
+0022300572,134,PT02M00.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,104
+0022300572,148,PT00M47.40S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,115
+0022300572,166,PT11M20.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,126
+0022300572,167,PT11M18.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,-9,14,2,Missed,1,,,0,h,MISS Thompson 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,127
+0022300572,169,PT11M17.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,129
+0022300572,191,PT09M06.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,147
+0022300572,198,PT08M30.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,5,14,1,Made,1,43,25,68,h,Thompson 1' Running Layup (2 PTS) (Merrill 3 AST),Made Shot,Running Layup Shot,1,2,154
+0022300572,214,PT07M40.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,165
+0022300572,222,PT06M15.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson 3 Second Violation Turnover (P2.T6),Turnover,3 Second Violation,1,0,170
+0022300572,228,PT06M00.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,174
+0022300572,231,PT05M53.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Allen FOR Thompson,Substitution,,0,0,177
+0022300572,488,PT11M15.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,365
+0022300572,501,PT10M05.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Jones FOR Thompson,Substitution,,0,0,374
+0022300572,546,PT06M42.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,-71,64,10,Made,1,123,83,206,h,Thompson 10' Jump Bank Shot (4 PTS) (Merrill 5 AST),Made Shot,Jump Bank Shot,1,2,406
+0022300572,579,PT01M56.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson Violation:Kicked Ball (S.Corbin),Violation,Kicked Ball,0,0,434
+0022300572,590,PT00M57.50S,4,1610612739,CLE,202684,Thompson,T. Thompson,-39,96,10,Made,1,135,93,228,h,Thompson 10' Driving Floating Jump Shot (6 PTS) (Niang 2 AST),Made Shot,Driving Floating Jump Shot,1,2,443
+0022300572,598,PT00M09.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,449
+0022300595,123,PT03M05.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,93
+0022300595,318,PT00M00.30S,1,1610612739,CLE,202684,Thompson,T. Thompson,143,755,77,Missed,1,,,0,v,MISS Thompson 77' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,120
+0022300595,164,PT11M25.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,4,9,1,Made,1,23,27,50,v,Thompson 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,125
+0022300595,183,PT10M10.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,139
+0022300595,190,PT09M10.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,21,9,2,Made,1,26,36,62,v,Thompson 2' Driving Hook Shot (4 PTS) (Porter Jr. 1 AST),Made Shot,Driving Hook Shot,1,2,146
+0022300595,215,PT07M33.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,165
+0022300595,240,PT05M29.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Wade FOR Thompson,Substitution,,0,0,185
+0022300595,310,PT00M04.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson BLOCK (1 BLK),,,1,2,237
+0022300595,486,PT00M21.50S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Strus FOR Thompson,Substitution,,0,0,361
+0022300595,621,PT02M37.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,-6,84,8,Made,1,92,116,208,v,Thompson 8' Floating Jump Shot (6 PTS) (Porter Jr. 3 AST),Made Shot,Floating Jump shot,1,2,450
+0022300595,627,PT01M42.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,454
+0022300595,635,PT00M35.20S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,462
+0022300967,116,PT02M58.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,86
+0022300967,167,PT02M02.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,0,0,97
+0022300967,154,PT00M27.60S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson P.FOUL (P1.PN) (B.Forte),Foul,Personal,1,0,115
+0022300967,158,PT00M27.60S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Mitchell FOR Thompson,Substitution,,0,0,118
+0022300967,200,PT10M38.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,144
+0022300967,230,PT07M47.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,18,22,3,Made,1,48,39,87,v,Thompson 3' Running Layup (2 PTS) (LeVert 3 AST),Made Shot,Running Layup Shot,1,2,167
+0022300967,235,PT07M47.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Okoro FOR Thompson,Substitution,,0,0,171
+0022300967,423,PT04M03.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,54,32,6,Missed,1,,,0,v,MISS Thompson 6' Jump Shot,Missed Shot,Jump Shot,1,2,311
+0022300967,424,PT04M01.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,312
+0022300967,426,PT03M43.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson Violation:Kicked Ball (B.Forte),Violation,Kicked Ball,0,0,314
+0022300967,440,PT02M54.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,324
+0022300967,441,PT02M48.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,-7,96,10,Made,1,94,69,163,v,Thompson 10' Floating Jump Shot (4 PTS) (LeVert 6 AST),Made Shot,Floating Jump shot,1,2,325
+0022300967,459,PT01M27.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson Lost Ball Turnover (P2.T11),Turnover,Lost Ball,1,0,339
+0022300967,465,PT01M00.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,343
+0022300967,467,PT01M00.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,96,71,167,v,Thompson Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,345
+0022300967,468,PT00M47.70S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson STEAL (1 STL),,,1,0,347
+0022300967,498,PT10M41.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson FLAGRANT.FOUL.TYPE1 (P2.T1) (J.DeRosa),Foul,Flagrant Type 1,1,0,367
+0022300967,502,PT10M41.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Allen FOR Thompson,Substitution,,0,0,369
+0022300967,632,PT01M26.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,468
+0022300983,136,PT01M59.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Niang FOR Thompson,Substitution,,0,0,95
+0022300983,253,PT06M46.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,16,10,2,Missed,1,,,0,v,MISS Thompson 2' Layup,Missed Shot,Layup Shot,1,2,180
+0022300983,258,PT06M44.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,182
+0022300983,257,PT06M44.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,-12,41,4,Made,1,47,36,83,v,Thompson 4' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,183
+0022300983,295,PT04M55.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,208
+0022300983,322,PT03M01.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson STEAL (1 STL),,,1,0,232
+0022300983,326,PT02M43.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson P.FOUL (P1.T4) (J.Goble),Foul,Personal,1,0,235
+0022300983,339,PT02M07.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,245
+0022300983,343,PT02M07.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,MISS Thompson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,248
+0022300983,352,PT01M41.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Allen FOR Thompson,Substitution,,0,0,254
+0022300983,458,PT04M59.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,324
+0022300983,506,PT01M50.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,358
+0022300983,515,PT00M57.70S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Allen FOR Thompson,Substitution,,0,0,366
+0022300983,610,PT05M55.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Allen FOR Thompson,Substitution,,0,0,433
+0022300996,97,PT03M56.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson BLOCK (1 BLK),,,1,2,69
+0022300996,107,PT03M31.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Allen FOR Thompson,Substitution,,0,0,75
+0022300996,147,PT00M00.20S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,101
+0022300996,200,PT08M03.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson S.FOUL (P1.T3) (J.Butler),Foul,Shooting,1,0,135
+0022300996,224,PT06M57.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,151
+0022300996,225,PT06M36.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,1,10,1,Missed,1,,,0,h,MISS Thompson 1' Layup,Missed Shot,Layup Shot,1,2,152
+0022300996,232,PT06M25.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Allen FOR Thompson,Substitution,,0,0,159
+0022300996,435,PT02M12.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson S.FOUL (P2.T2) (J.Butler),Foul,Shooting,1,0,309
+0022300996,445,PT01M05.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,317
+0022300996,448,PT00M57.80S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson L.B.FOUL (P3.T3) (J.Capers),Foul,Loose Ball,1,0,320
+0022300996,457,PT00M05.30S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,326
+0022301014,134,PT02M11.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,21,18,39,v,Thompson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,103
+0022301014,137,PT02M11.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,MISS Thompson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,105
+0022301014,139,PT01M52.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson STEAL (1 STL),,,1,0,108
+0022301014,147,PT01M35.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson BLOCK (1 BLK),,,1,2,114
+0022301014,152,PT01M27.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,117
+0022301014,156,PT00M59.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson S.FOUL (P1.T4) (J.Van Duyne),Foul,Shooting,1,0,120
+0022301014,166,PT00M26.50S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,129
+0022301014,278,PT03M36.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,207
+0022301014,279,PT03M36.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,20,16,3,Missed,1,,,0,v,MISS Thompson 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,208
+0022301014,302,PT01M38.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,226
+0022301014,308,PT00M52.60S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Allen FOR Thompson,Substitution,,0,0,232
+0022301014,341,PT11M17.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,253
+0022301014,342,PT11M07.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,-34,51,6,Made,1,46,51,97,v,Thompson 6' Floating Jump Shot (3 PTS) (LeVert 1 AST),Made Shot,Floating Jump shot,1,2,254
+0022301014,357,PT08M49.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,264
+0022301014,370,PT08M24.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Morris Sr. FOR Thompson,Substitution,,0,0,274
+0022301014,497,PT08M35.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson P.FOUL (P2.T1) (M.Davis),Foul,Personal,1,0,365
+0022301014,501,PT08M11.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,7,41,4,Made,1,84,75,159,v,Thompson 4' Hook Shot (5 PTS) (LeVert 5 AST),Made Shot,Hook Shot,1,2,368
+0022301014,535,PT05M38.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,392
+0022301014,543,PT04M44.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: LeVert FOR Thompson,Substitution,,0,0,398
+0022301029,381,PT06M48.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson Step Out of Bounds Turnover (P1.T11),Turnover,Step Out of Bounds Turnover,1,0,270
+0022301029,398,PT04M55.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson Lost Ball Turnover (P2.T13),Turnover,Lost Ball,1,0,284
+0022301029,431,PT02M34.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,6,93,9,Missed,1,,,0,v,MISS Thompson 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,309
+0022301029,434,PT02M17.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,312
+0022301029,436,PT02M02.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,314
+0022301029,437,PT02M02.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Made,1,86,50,136,v,Thompson Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,2,315
+0022301029,441,PT01M46.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson BLOCK (1 BLK),,,1,2,319
+0022301029,455,PT00M08.50S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,328
+0022301029,456,PT00M08.50S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Made,1,90,57,147,v,Thompson Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,329
+0022301029,474,PT11M24.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,1,29,3,Made,1,92,59,151,v,Thompson 3' Cutting Dunk Shot (6 PTS) (Mobley 1 AST),Made Shot,Cutting Dunk Shot,1,2,339
+0022301029,485,PT10M32.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Jones FOR Thompson,Substitution,,0,0,346
+0022301033,167,PT11M23.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,115
+0022301033,170,PT11M03.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,118
+0022301033,171,PT10M56.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson OFF.Foul (P1) (T.Washington),Foul,Offensive,1,0,119
+0022301033,173,PT10M56.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson Offensive Foul Turnover (P2.T5),Turnover,Offensive Foul Turnover,1,0,120
+0022301033,196,PT08M22.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Allen FOR Thompson,Substitution,,0,0,139
+0022301048,164,PT10M59.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,112
+0022301048,168,PT10M59.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,MISS Thompson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,114
+0022301048,172,PT10M37.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson STEAL (1 STL),,,1,0,117
+0022301048,183,PT09M46.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,-13,20,2,Missed,1,,,0,v,MISS Thompson 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,124
+0022301048,203,PT08M25.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,2,8,1,Made,1,46,53,99,v,Thompson 1' Dunk (2 PTS) (Garland 3 AST),Made Shot,Dunk Shot,1,2,140
+0022301048,210,PT07M58.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Allen FOR Thompson,Substitution,,0,0,144
+0022301067,531,PT11M19.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,357
+0022301067,537,PT10M50.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,79,8,Missed,1,,,0,h,MISS Thompson 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,362
+0022301067,549,PT09M34.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Mobley FOR Thompson,Substitution,,0,0,369
+0022301077,421,PT03M45.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,301
+0022301077,423,PT03M36.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,303
+0022301077,424,PT03M36.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Missed,1,,,0,v,MISS Thompson Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,304
+0022301077,581,PT04M24.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,415
+0022301077,611,PT02M09.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,435
+0022301100,627,PT02M21.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,448
+0022301100,637,PT01M20.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,23,16,3,Missed,1,,,0,v,MISS Thompson 3' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,456
+0022301110,627,PT00M03.70S,4,1610612739,CLE,202684,Thompson,T. Thompson,25,34,4,Missed,1,,,0,v,MISS Thompson 4' Hook Shot,Missed Shot,Hook Shot,1,2,451
+0022301127,154,PT00M44.50S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,113
+0022301187,159,PT11M28.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,18,56,6,Missed,1,,,0,h,MISS Thompson 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,116
+0022301187,160,PT11M27.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,117
+0022301187,167,PT10M42.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,2,15,2,Made,1,37,26,63,h,Thompson 2' Driving Layup (2 PTS) (Okoro 2 AST),Made Shot,Driving Layup Shot,1,2,121
+0022301187,171,PT10M42.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,123
+0022301187,196,PT08M54.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,141
+0022301187,197,PT08M54.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Made,1,41,30,71,h,Thompson Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,142
+0022301187,200,PT08M54.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,144
+0022301187,217,PT07M15.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,6,11,1,Missed,1,,,0,h,MISS Thompson 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,156
+0022301187,224,PT06M46.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Niang FOR Thompson,Substitution,,0,0,161
+0022301187,550,PT04M08.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,385
+0022301187,560,PT02M59.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,-34,96,10,Made,1,110,112,222,h,Thompson 10' Turnaround Hook Shot (6 PTS),Made Shot,Turnaround Hook Shot,1,2,394
+0022301187,567,PT02M28.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,20,15,3,Missed,1,,,0,h,MISS Thompson 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,399
+0022301187,586,PT01M06.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,9,2,1,Missed,1,,,0,h,MISS Thompson 1' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,415
+0022301205,401,PT09M22.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,287
+0022301205,435,PT06M40.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson S.FOUL (P1.T4) (T.Ford),Foul,Shooting,1,0,315
+0022301205,444,PT06M04.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,321
+0022301205,484,PT04M20.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,348
+0022301205,488,PT04M20.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,84,75,159,h,Thompson Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,351
+0022301205,489,PT04M06.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson BLOCK (1 BLK),,,1,2,353
+0022301205,491,PT04M03.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,Thompson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,354
+0022301205,495,PT03M48.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,h,SUB: Mobley FOR Thompson,Substitution,,0,0,358
+0022301220,251,PT08M11.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,178
+0022301220,252,PT08M03.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,-5,10,1,Made,1,39,27,66,v,Thompson 1' Cutting Dunk Shot (2 PTS) (Porter Jr. 1 AST),Made Shot,Cutting Dunk Shot,1,2,179
+0022301220,283,PT04M57.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,-18,76,8,Made,1,39,38,77,v,Thompson 8' Hook Bank Shot (4 PTS) (Porter Jr. 2 AST),Made Shot,Hook Bank Shot,1,2,206
+0022301220,317,PT02M21.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,229
+0022301220,320,PT02M21.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,231
+0022301220,324,PT02M21.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,47,45,92,v,Thompson Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,234
+0022301220,489,PT02M43.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,-22,3,2,Missed,1,,,0,v,MISS Thompson 2' Layup,Missed Shot,Layup Shot,0,2,351
+0022301220,505,PT00M48.70S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,363
+0022301220,506,PT00M48.70S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,Thompson Step Out of Bounds Turnover (P1.T10),Turnover,Step Out of Bounds Turnover,1,0,364
+0022301220,639,PT03M49.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,,,0,v,SUB: Allen FOR Thompson,Substitution,,0,0,460
